@@ -1,0 +1,322 @@
+{
+    "created_at": "Fri Jul 16 01:41:17 +0000 2021",
+    "id": 1415848981817593856,
+    "id_str": "1415848981817593856",
+    "full_text": "RT @PeruanoRecuerda: \u00c1lvaro Subir\u00eda Alegr\u00eda (41 a\u00f1os) FUJIMORISTA e integrante de #LaPestilencia posee antecedentes por agresi\u00f3n y acoso. #\u2026",
+    "truncated": false,
+    "display_text_range": [
+        0,
+        140
+    ],
+    "entities": {
+        "hashtags": [
+            {
+                "text": "LaPestilencia",
+                "indices": [
+                    82,
+                    96
+                ]
+            }
+        ],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "PeruanoRecuerda",
+                "name": "Recuerda Peruano",
+                "id": 1390857747982340098,
+                "id_str": "1390857747982340098",
+                "indices": [
+                    3,
+                    19
+                ]
+            }
+        ],
+        "urls": []
+    },
+    "metadata": {
+        "iso_language_code": "es",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 4717807036,
+        "id_str": "4717807036",
+        "name": "EduardoGarc\u00eda",
+        "screen_name": "eduardo67376983",
+        "location": "",
+        "description": "",
+        "url": null,
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 380,
+        "friends_count": 2722,
+        "listed_count": 5,
+        "created_at": "Tue Jan 05 19:48:24 +0000 2016",
+        "favourites_count": 39850,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 105538,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": null,
+        "profile_background_image_url_https": null,
+        "profile_background_tile": false,
+        "profile_image_url": "http://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+        "profile_image_url_https": "https://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": true,
+        "default_profile_image": true,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+        "created_at": "Fri Jul 16 01:38:21 +0000 2021",
+        "id": 1415848247185260545,
+        "id_str": "1415848247185260545",
+        "full_text": "\u00c1lvaro Subir\u00eda Alegr\u00eda (41 a\u00f1os) FUJIMORISTA e integrante de #LaPestilencia posee antecedentes por agresi\u00f3n y acoso. #AlEstiloJuliana lo visit\u00f3 en su domicilio y esto fue lo que pas\u00f3: \n\nInterbank Carlos Raffo Sr. Presidente Universitario Indecopi ATV Canal N #KeikoAceptaTuDerrota https://t.co/PiYONtecwC",
+        "truncated": false,
+        "display_text_range": [
+            0,
+            280
+        ],
+        "entities": {
+            "hashtags": [
+                {
+                    "text": "LaPestilencia",
+                    "indices": [
+                        61,
+                        75
+                    ]
+                },
+                {
+                    "text": "AlEstiloJuliana",
+                    "indices": [
+                        117,
+                        133
+                    ]
+                },
+                {
+                    "text": "KeikoAceptaTuDerrota",
+                    "indices": [
+                        259,
+                        280
+                    ]
+                }
+            ],
+            "symbols": [],
+            "user_mentions": [],
+            "urls": [],
+            "media": [
+                {
+                    "id": 1415846156052074500,
+                    "id_str": "1415846156052074500",
+                    "indices": [
+                        281,
+                        304
+                    ],
+                    "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1415846156052074500/pu/img/sKVGdMbEA8Kw_IIl.jpg",
+                    "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1415846156052074500/pu/img/sKVGdMbEA8Kw_IIl.jpg",
+                    "url": "https://t.co/PiYONtecwC",
+                    "display_url": "pic.twitter.com/PiYONtecwC",
+                    "expanded_url": "https://twitter.com/PeruanoRecuerda/status/1415848247185260545/video/1",
+                    "type": "photo",
+                    "sizes": {
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "medium": {
+                            "w": 1200,
+                            "h": 675,
+                            "resize": "fit"
+                        },
+                        "small": {
+                            "w": 680,
+                            "h": 383,
+                            "resize": "fit"
+                        },
+                        "large": {
+                            "w": 1280,
+                            "h": 720,
+                            "resize": "fit"
+                        }
+                    }
+                }
+            ]
+        },
+        "extended_entities": {
+            "media": [
+                {
+                    "id": 1415846156052074500,
+                    "id_str": "1415846156052074500",
+                    "indices": [
+                        281,
+                        304
+                    ],
+                    "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1415846156052074500/pu/img/sKVGdMbEA8Kw_IIl.jpg",
+                    "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1415846156052074500/pu/img/sKVGdMbEA8Kw_IIl.jpg",
+                    "url": "https://t.co/PiYONtecwC",
+                    "display_url": "pic.twitter.com/PiYONtecwC",
+                    "expanded_url": "https://twitter.com/PeruanoRecuerda/status/1415848247185260545/video/1",
+                    "type": "video",
+                    "sizes": {
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "medium": {
+                            "w": 1200,
+                            "h": 675,
+                            "resize": "fit"
+                        },
+                        "small": {
+                            "w": 680,
+                            "h": 383,
+                            "resize": "fit"
+                        },
+                        "large": {
+                            "w": 1280,
+                            "h": 720,
+                            "resize": "fit"
+                        }
+                    },
+                    "video_info": {
+                        "aspect_ratio": [
+                            16,
+                            9
+                        ],
+                        "duration_millis": 113133,
+                        "variants": [
+                            {
+                                "bitrate": 832000,
+                                "content_type": "video/mp4",
+                                "url": "https://video.twimg.com/ext_tw_video/1415846156052074500/pu/vid/640x360/3PZimqsMEOKPJ61M.mp4?tag=12"
+                            },
+                            {
+                                "bitrate": 256000,
+                                "content_type": "video/mp4",
+                                "url": "https://video.twimg.com/ext_tw_video/1415846156052074500/pu/vid/480x270/s3R7ibWSmVRWSWBu.mp4?tag=12"
+                            },
+                            {
+                                "bitrate": 2176000,
+                                "content_type": "video/mp4",
+                                "url": "https://video.twimg.com/ext_tw_video/1415846156052074500/pu/vid/1280x720/kjLUZxHIVpAzhroK.mp4?tag=12"
+                            },
+                            {
+                                "content_type": "application/x-mpegURL",
+                                "url": "https://video.twimg.com/ext_tw_video/1415846156052074500/pu/pl/z6p9mtOVUT7w2atf.m3u8?tag=12&container=fmp4"
+                            }
+                        ]
+                    },
+                    "additional_media_info": {
+                        "monetizable": false
+                    }
+                }
+            ]
+        },
+        "metadata": {
+            "iso_language_code": "es",
+            "result_type": "recent"
+        },
+        "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 1390857747982340098,
+            "id_str": "1390857747982340098",
+            "name": "Recuerda Peruano",
+            "screen_name": "PeruanoRecuerda",
+            "location": "Peru",
+            "description": "Rechazamos cualquier intenci\u00f3n antidemocr\u00e1tica, venga de donde venga.",
+            "url": null,
+            "entities": {
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 128,
+            "friends_count": 418,
+            "listed_count": 0,
+            "created_at": "Sat May 08 02:36:35 +0000 2021",
+            "favourites_count": 6824,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": false,
+            "verified": false,
+            "statuses_count": 6646,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "F5F8FA",
+            "profile_background_image_url": null,
+            "profile_background_image_url_https": null,
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1400176802786598913/_7KIJ6DK_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1400176802786598913/_7KIJ6DK_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/1390857747982340098/1623975861",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "has_extended_profile": false,
+            "default_profile": true,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none",
+            "withheld_in_countries": []
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 1,
+        "favorite_count": 3,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "es"
+    },
+    "is_quote_status": false,
+    "retweet_count": 1,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "es"
+}

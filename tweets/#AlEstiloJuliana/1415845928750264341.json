@@ -1,0 +1,129 @@
+{
+    "created_at": "Fri Jul 16 01:29:09 +0000 2021",
+    "id": 1415845928750264341,
+    "id_str": "1415845928750264341",
+    "full_text": "@atv_noticias @julianaoxenford #AlEstiloJuliana te da miedo #Cerron , es como ingresar a un callej\u00f3n oscuro, sabemos y a\u00fan insistimos, \"Somos libres, se\u00e1moslo siempre\" !!! - #NoAlComunismo",
+    "truncated": false,
+    "display_text_range": [
+        31,
+        188
+    ],
+    "entities": {
+        "hashtags": [
+            {
+                "text": "AlEstiloJuliana",
+                "indices": [
+                    31,
+                    47
+                ]
+            },
+            {
+                "text": "Cerron",
+                "indices": [
+                    60,
+                    67
+                ]
+            },
+            {
+                "text": "NoAlComunismo",
+                "indices": [
+                    174,
+                    188
+                ]
+            }
+        ],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "atv_noticias",
+                "name": "ATV Noticias",
+                "id": 153625642,
+                "id_str": "153625642",
+                "indices": [
+                    0,
+                    13
+                ]
+            },
+            {
+                "screen_name": "julianaoxenford",
+                "name": "julianaoxenford",
+                "id": 1271961894685937670,
+                "id_str": "1271961894685937670",
+                "indices": [
+                    14,
+                    30
+                ]
+            }
+        ],
+        "urls": []
+    },
+    "metadata": {
+        "iso_language_code": "es",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "in_reply_to_status_id": 1415829757455896584,
+    "in_reply_to_status_id_str": "1415829757455896584",
+    "in_reply_to_user_id": 153625642,
+    "in_reply_to_user_id_str": "153625642",
+    "in_reply_to_screen_name": "atv_noticias",
+    "user": {
+        "id": 2212721070,
+        "id_str": "2212721070",
+        "name": "Cancer de piel",
+        "screen_name": "elcancerdepiel",
+        "location": "Contigo este Verano.",
+        "description": "El sol es mi mejor amigo.",
+        "url": null,
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 1117,
+        "friends_count": 1926,
+        "listed_count": 26,
+        "created_at": "Sun Nov 24 16:20:52 +0000 2013",
+        "favourites_count": 64390,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 25415,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme18/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme18/bg.gif",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/378800000784715633/60ca4f66e7da35e50e80c3dd86e2d670_normal.jpeg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/378800000784715633/60ca4f66e7da35e50e80c3dd86e2d670_normal.jpeg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2212721070/1463502030",
+        "profile_link_color": "4A913C",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "profile_use_background_image": false,
+        "has_extended_profile": true,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 1,
+    "favorite_count": 4,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "es"
+}

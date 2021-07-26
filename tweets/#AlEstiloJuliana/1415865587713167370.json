@@ -1,0 +1,326 @@
+{
+    "created_at": "Fri Jul 16 02:47:16 +0000 2021",
+    "id": 1415865587713167370,
+    "id_str": "1415865587713167370",
+    "full_text": "RT @elsoplonpe: Para los que le creen a Rosa Mar\u00eda Palacios, C\u00e9sar Hildebrandt te describe c\u00f3mo fue ella con el poder de turno, como siempr\u2026",
+    "truncated": false,
+    "display_text_range": [
+        0,
+        140
+    ],
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "elsoplonpe",
+                "name": "El Sopl\u00f3n (S\u00cdGUEME Y TE SIGO)",
+                "id": 1290653226719739904,
+                "id_str": "1290653226719739904",
+                "indices": [
+                    3,
+                    14
+                ]
+            }
+        ],
+        "urls": []
+    },
+    "metadata": {
+        "iso_language_code": "es",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 779526542967836672,
+        "id_str": "779526542967836672",
+        "name": "Eulogio Pariguana",
+        "screen_name": "cuscorepublica",
+        "location": "Cusco, Peru",
+        "description": "Artes Ciencia y Tecnolog\u00eda Noticias Internacionales Noticias Noticias Artes y Cultura",
+        "url": null,
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 710,
+        "friends_count": 512,
+        "listed_count": 623,
+        "created_at": "Sat Sep 24 03:43:05 +0000 2016",
+        "favourites_count": 27838,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 115447,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": null,
+        "profile_background_image_url_https": null,
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/780134443365330946/hvHxDL3p_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/780134443365330946/hvHxDL3p_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/779526542967836672/1474833518",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": true,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+        "created_at": "Thu Jul 08 04:48:17 +0000 2021",
+        "id": 1412996939990413312,
+        "id_str": "1412996939990413312",
+        "full_text": "Para los que le creen a Rosa Mar\u00eda Palacios, C\u00e9sar Hildebrandt te describe c\u00f3mo fue ella con el poder de turno, como siempre defendiendo y atacando a los que no est\u00e1n alineados al poder\n#AlEstiloJuliana @PolloFarsantePe #elpollofarsante  #TribunalConstitucionalYa\nFrepap escuchen! https://t.co/0GXKyJlwYr",
+        "truncated": false,
+        "display_text_range": [
+            0,
+            280
+        ],
+        "entities": {
+            "hashtags": [
+                {
+                    "text": "AlEstiloJuliana",
+                    "indices": [
+                        186,
+                        202
+                    ]
+                },
+                {
+                    "text": "elpollofarsante",
+                    "indices": [
+                        220,
+                        236
+                    ]
+                },
+                {
+                    "text": "TribunalConstitucionalYa",
+                    "indices": [
+                        238,
+                        263
+                    ]
+                }
+            ],
+            "symbols": [],
+            "user_mentions": [
+                {
+                    "screen_name": "PolloFarsantePe",
+                    "name": "ElPolloFarsante",
+                    "id": 1409887097838841857,
+                    "id_str": "1409887097838841857",
+                    "indices": [
+                        203,
+                        219
+                    ]
+                }
+            ],
+            "urls": [],
+            "media": [
+                {
+                    "id": 1412996033739636736,
+                    "id_str": "1412996033739636736",
+                    "indices": [
+                        281,
+                        304
+                    ],
+                    "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1412996033739636736/pu/img/LxgZhnXp4aLJLQV3.jpg",
+                    "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1412996033739636736/pu/img/LxgZhnXp4aLJLQV3.jpg",
+                    "url": "https://t.co/0GXKyJlwYr",
+                    "display_url": "pic.twitter.com/0GXKyJlwYr",
+                    "expanded_url": "https://twitter.com/elsoplonpe/status/1412996939990413312/video/1",
+                    "type": "photo",
+                    "sizes": {
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "medium": {
+                            "w": 960,
+                            "h": 720,
+                            "resize": "fit"
+                        },
+                        "large": {
+                            "w": 960,
+                            "h": 720,
+                            "resize": "fit"
+                        },
+                        "small": {
+                            "w": 680,
+                            "h": 510,
+                            "resize": "fit"
+                        }
+                    }
+                }
+            ]
+        },
+        "extended_entities": {
+            "media": [
+                {
+                    "id": 1412996033739636736,
+                    "id_str": "1412996033739636736",
+                    "indices": [
+                        281,
+                        304
+                    ],
+                    "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1412996033739636736/pu/img/LxgZhnXp4aLJLQV3.jpg",
+                    "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1412996033739636736/pu/img/LxgZhnXp4aLJLQV3.jpg",
+                    "url": "https://t.co/0GXKyJlwYr",
+                    "display_url": "pic.twitter.com/0GXKyJlwYr",
+                    "expanded_url": "https://twitter.com/elsoplonpe/status/1412996939990413312/video/1",
+                    "type": "video",
+                    "sizes": {
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "medium": {
+                            "w": 960,
+                            "h": 720,
+                            "resize": "fit"
+                        },
+                        "large": {
+                            "w": 960,
+                            "h": 720,
+                            "resize": "fit"
+                        },
+                        "small": {
+                            "w": 680,
+                            "h": 510,
+                            "resize": "fit"
+                        }
+                    },
+                    "video_info": {
+                        "aspect_ratio": [
+                            4,
+                            3
+                        ],
+                        "duration_millis": 139707,
+                        "variants": [
+                            {
+                                "bitrate": 2176000,
+                                "content_type": "video/mp4",
+                                "url": "https://video.twimg.com/ext_tw_video/1412996033739636736/pu/vid/960x720/CJyGw5qUlcC42JmC.mp4?tag=12"
+                            },
+                            {
+                                "bitrate": 256000,
+                                "content_type": "video/mp4",
+                                "url": "https://video.twimg.com/ext_tw_video/1412996033739636736/pu/vid/360x270/ul8QesLI7inMmHdm.mp4?tag=12"
+                            },
+                            {
+                                "content_type": "application/x-mpegURL",
+                                "url": "https://video.twimg.com/ext_tw_video/1412996033739636736/pu/pl/ZkwccEAUs8tKiGsl.m3u8?tag=12&container=fmp4"
+                            },
+                            {
+                                "bitrate": 832000,
+                                "content_type": "video/mp4",
+                                "url": "https://video.twimg.com/ext_tw_video/1412996033739636736/pu/vid/480x360/MN34Hg93qL0CTj6_.mp4?tag=12"
+                            }
+                        ]
+                    },
+                    "additional_media_info": {
+                        "monetizable": false
+                    }
+                }
+            ]
+        },
+        "metadata": {
+            "iso_language_code": "es",
+            "result_type": "recent"
+        },
+        "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 1290653226719739904,
+            "id_str": "1290653226719739904",
+            "name": "El Sopl\u00f3n (S\u00cdGUEME Y TE SIGO)",
+            "screen_name": "elsoplonpe",
+            "location": "Lima",
+            "description": "TE SIGO, NO ME SIGUES, YA NO TE SIGO\n#SiguemeYTeSigo\nDemocr\u00e1ta, escucho todas las opiniones para sacar mis propia conclusiones",
+            "url": null,
+            "entities": {
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 433,
+            "friends_count": 814,
+            "listed_count": 0,
+            "created_at": "Tue Aug 04 14:18:11 +0000 2020",
+            "favourites_count": 1081,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": false,
+            "verified": false,
+            "statuses_count": 700,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "F5F8FA",
+            "profile_background_image_url": null,
+            "profile_background_image_url_https": null,
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1406340581710782465/oDeig5kN_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1406340581710782465/oDeig5kN_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/1290653226719739904/1624132611",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "has_extended_profile": true,
+            "default_profile": true,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none",
+            "withheld_in_countries": []
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 25,
+        "favorite_count": 58,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "es"
+    },
+    "is_quote_status": false,
+    "retweet_count": 25,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "es"
+}

@@ -1,0 +1,414 @@
+{
+    "created_at": "Mon Jul 12 03:34:51 +0000 2021",
+    "id": 1414428011571695616,
+    "id_str": "1414428011571695616",
+    "full_text": "RT @blackdragon1802: #SOSCuba Dictador cubano llama a una guerra civil contra el pueblo cubano que exige ser libre en #Cuba #ANCentral #TVP\u2026",
+    "truncated": false,
+    "display_text_range": [
+        0,
+        140
+    ],
+    "entities": {
+        "hashtags": [
+            {
+                "text": "SOSCuba",
+                "indices": [
+                    21,
+                    29
+                ]
+            },
+            {
+                "text": "Cuba",
+                "indices": [
+                    118,
+                    123
+                ]
+            },
+            {
+                "text": "ANCentral",
+                "indices": [
+                    124,
+                    134
+                ]
+            }
+        ],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "blackdragon1802",
+                "name": "Lord \u0646",
+                "id": 151490775,
+                "id_str": "151490775",
+                "indices": [
+                    3,
+                    19
+                ]
+            }
+        ],
+        "urls": []
+    },
+    "metadata": {
+        "iso_language_code": "es",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 1209254128473559040,
+        "id_str": "1209254128473559040",
+        "name": "Moon",
+        "screen_name": "chikiticazz",
+        "location": "",
+        "description": "\u2764\ud83c\udde8\ud83c\uddfa\n\ud83d\udccd\ud83c\uddee\ud83c\udde8 \ud83c\uddea\ud83c\uddf8",
+        "url": null,
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 54,
+        "friends_count": 225,
+        "listed_count": 0,
+        "created_at": "Mon Dec 23 23:27:20 +0000 2019",
+        "favourites_count": 606,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 2793,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": null,
+        "profile_background_image_url_https": null,
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1413789053158400001/yfpw1SWB_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1413789053158400001/yfpw1SWB_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1209254128473559040/1626329390",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+        "created_at": "Mon Jul 12 03:33:58 +0000 2021",
+        "id": 1414427788434714625,
+        "id_str": "1414427788434714625",
+        "full_text": "#SOSCuba Dictador cubano llama a una guerra civil contra el pueblo cubano que exige ser libre en #Cuba #ANCentral #TVPer\u00faNoticias #ATVNoticias #Edici\u00f3nCentral #AlEstiloJuliana #CanalN #90Central #Willax #RPP #Per\u00faLibre #FuerzaPopular #Per\u00fa https://t.co/njAGje0UeJ",
+        "truncated": false,
+        "display_text_range": [
+            0,
+            239
+        ],
+        "entities": {
+            "hashtags": [
+                {
+                    "text": "SOSCuba",
+                    "indices": [
+                        0,
+                        8
+                    ]
+                },
+                {
+                    "text": "Cuba",
+                    "indices": [
+                        97,
+                        102
+                    ]
+                },
+                {
+                    "text": "ANCentral",
+                    "indices": [
+                        103,
+                        113
+                    ]
+                },
+                {
+                    "text": "TVPer\u00faNoticias",
+                    "indices": [
+                        114,
+                        129
+                    ]
+                },
+                {
+                    "text": "ATVNoticias",
+                    "indices": [
+                        130,
+                        142
+                    ]
+                },
+                {
+                    "text": "Edici\u00f3nCentral",
+                    "indices": [
+                        143,
+                        158
+                    ]
+                },
+                {
+                    "text": "AlEstiloJuliana",
+                    "indices": [
+                        159,
+                        175
+                    ]
+                },
+                {
+                    "text": "CanalN",
+                    "indices": [
+                        176,
+                        183
+                    ]
+                },
+                {
+                    "text": "90Central",
+                    "indices": [
+                        184,
+                        194
+                    ]
+                },
+                {
+                    "text": "Willax",
+                    "indices": [
+                        195,
+                        202
+                    ]
+                },
+                {
+                    "text": "RPP",
+                    "indices": [
+                        203,
+                        207
+                    ]
+                },
+                {
+                    "text": "Per\u00faLibre",
+                    "indices": [
+                        208,
+                        218
+                    ]
+                },
+                {
+                    "text": "FuerzaPopular",
+                    "indices": [
+                        219,
+                        233
+                    ]
+                },
+                {
+                    "text": "Per\u00fa",
+                    "indices": [
+                        234,
+                        239
+                    ]
+                }
+            ],
+            "symbols": [],
+            "user_mentions": [],
+            "urls": [],
+            "media": [
+                {
+                    "id": 1414427427133132803,
+                    "id_str": "1414427427133132803",
+                    "indices": [
+                        240,
+                        263
+                    ],
+                    "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1414427427133132803/pu/img/VJN0K0-hbb7ig7KK.jpg",
+                    "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1414427427133132803/pu/img/VJN0K0-hbb7ig7KK.jpg",
+                    "url": "https://t.co/njAGje0UeJ",
+                    "display_url": "pic.twitter.com/njAGje0UeJ",
+                    "expanded_url": "https://twitter.com/blackdragon1802/status/1414427788434714625/video/1",
+                    "type": "photo",
+                    "sizes": {
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "medium": {
+                            "w": 1200,
+                            "h": 559,
+                            "resize": "fit"
+                        },
+                        "small": {
+                            "w": 680,
+                            "h": 317,
+                            "resize": "fit"
+                        },
+                        "large": {
+                            "w": 1280,
+                            "h": 596,
+                            "resize": "fit"
+                        }
+                    }
+                }
+            ]
+        },
+        "extended_entities": {
+            "media": [
+                {
+                    "id": 1414427427133132803,
+                    "id_str": "1414427427133132803",
+                    "indices": [
+                        240,
+                        263
+                    ],
+                    "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1414427427133132803/pu/img/VJN0K0-hbb7ig7KK.jpg",
+                    "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1414427427133132803/pu/img/VJN0K0-hbb7ig7KK.jpg",
+                    "url": "https://t.co/njAGje0UeJ",
+                    "display_url": "pic.twitter.com/njAGje0UeJ",
+                    "expanded_url": "https://twitter.com/blackdragon1802/status/1414427788434714625/video/1",
+                    "type": "video",
+                    "sizes": {
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "medium": {
+                            "w": 1200,
+                            "h": 559,
+                            "resize": "fit"
+                        },
+                        "small": {
+                            "w": 680,
+                            "h": 317,
+                            "resize": "fit"
+                        },
+                        "large": {
+                            "w": 1280,
+                            "h": 596,
+                            "resize": "fit"
+                        }
+                    },
+                    "video_info": {
+                        "aspect_ratio": [
+                            320,
+                            149
+                        ],
+                        "duration_millis": 52529,
+                        "variants": [
+                            {
+                                "content_type": "application/x-mpegURL",
+                                "url": "https://video.twimg.com/ext_tw_video/1414427427133132803/pu/pl/AxsY7r4Y7q-h36Lw.m3u8?tag=12&container=fmp4"
+                            },
+                            {
+                                "bitrate": 832000,
+                                "content_type": "video/mp4",
+                                "url": "https://video.twimg.com/ext_tw_video/1414427427133132803/pu/vid/772x360/POvrqFbjJO-XsKDc.mp4?tag=12"
+                            },
+                            {
+                                "bitrate": 2176000,
+                                "content_type": "video/mp4",
+                                "url": "https://video.twimg.com/ext_tw_video/1414427427133132803/pu/vid/1280x596/C8UFKAXYic90pInO.mp4?tag=12"
+                            },
+                            {
+                                "bitrate": 256000,
+                                "content_type": "video/mp4",
+                                "url": "https://video.twimg.com/ext_tw_video/1414427427133132803/pu/vid/578x270/EyuYYr4PZ48HKatt.mp4?tag=12"
+                            }
+                        ]
+                    },
+                    "additional_media_info": {
+                        "monetizable": false
+                    }
+                }
+            ]
+        },
+        "metadata": {
+            "iso_language_code": "es",
+            "result_type": "recent"
+        },
+        "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 151490775,
+            "id_str": "151490775",
+            "name": "Lord \u0646",
+            "screen_name": "blackdragon1802",
+            "location": "Marte - Soy un marciano ",
+            "description": "El mal prevalece cuando los hombres buenos no hacen nada - T\u00fa apoyas indirectamente la persecuci\u00f3n del Inocente cuando permaneces mudo. EN DIOS CONFIAMOS!!",
+            "url": null,
+            "entities": {
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 2019,
+            "friends_count": 1614,
+            "listed_count": 14,
+            "created_at": "Thu Jun 03 14:37:21 +0000 2010",
+            "favourites_count": 457,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": false,
+            "verified": false,
+            "statuses_count": 69436,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": true,
+            "profile_background_color": "7EB9D9",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": true,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/560939363178008576/A-bhNC-H_normal.jpeg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/560939363178008576/A-bhNC-H_normal.jpeg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/151490775/1422569930",
+            "profile_link_color": "150EED",
+            "profile_sidebar_border_color": "FFFFFF",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "has_extended_profile": false,
+            "default_profile": false,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none",
+            "withheld_in_countries": []
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 1,
+        "favorite_count": 1,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "es"
+    },
+    "is_quote_status": false,
+    "retweet_count": 1,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "es"
+}

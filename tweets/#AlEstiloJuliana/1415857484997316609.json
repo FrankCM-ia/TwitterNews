@@ -1,0 +1,326 @@
+{
+    "created_at": "Fri Jul 16 02:15:04 +0000 2021",
+    "id": 1415857484997316609,
+    "id_str": "1415857484997316609",
+    "full_text": "#AlEstiloJuliana ya identificaron a la persona que le hiz\u00f3 eso al se\u00f1or?\n#SagastiGolpistaCTM Carlos Raffo Interbank https://t.co/Ec8wKVfmDK",
+    "truncated": false,
+    "display_text_range": [
+        0,
+        115
+    ],
+    "entities": {
+        "hashtags": [
+            {
+                "text": "AlEstiloJuliana",
+                "indices": [
+                    0,
+                    16
+                ]
+            },
+            {
+                "text": "SagastiGolpistaCTM",
+                "indices": [
+                    73,
+                    92
+                ]
+            }
+        ],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+            {
+                "url": "https://t.co/Ec8wKVfmDK",
+                "expanded_url": "https://twitter.com/Carolin21115256/status/1415514065150091264",
+                "display_url": "twitter.com/Carolin2111525\u2026",
+                "indices": [
+                    116,
+                    139
+                ]
+            }
+        ]
+    },
+    "metadata": {
+        "iso_language_code": "es",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 1405456975282966529,
+        "id_str": "1405456975282966529",
+        "name": "Sheyla",
+        "screen_name": "Sheyla40005123",
+        "location": "",
+        "description": "Anticomunista",
+        "url": null,
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 22,
+        "friends_count": 71,
+        "listed_count": 1,
+        "created_at": "Thu Jun 17 09:27:23 +0000 2021",
+        "favourites_count": 1679,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 2455,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": null,
+        "profile_background_image_url_https": null,
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1405720857150885893/b4N-7-6n_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1405720857150885893/b4N-7-6n_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": true,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": true,
+    "quoted_status_id": 1415514065150091264,
+    "quoted_status_id_str": "1415514065150091264",
+    "quoted_status": {
+        "created_at": "Thu Jul 15 03:30:26 +0000 2021",
+        "id": 1415514065150091264,
+        "id_str": "1415514065150091264",
+        "full_text": "En Perusal\u00e9n la izquierda puede gritar, agredir a quienes se les de la gana y la derecha debe callar. Pero si es al contrario, como la agresi\u00f3n al se\u00f1or Richard, salen a atacar. \n#JUSTICIAPARARICHARD\n#JUSTICIAPARARICHARD\n#JUSTICIAPARARICHARD https://t.co/3i2qolfF4F",
+        "truncated": false,
+        "display_text_range": [
+            0,
+            241
+        ],
+        "entities": {
+            "hashtags": [
+                {
+                    "text": "JUSTICIAPARARICHARD",
+                    "indices": [
+                        179,
+                        199
+                    ]
+                },
+                {
+                    "text": "JUSTICIAPARARICHARD",
+                    "indices": [
+                        200,
+                        220
+                    ]
+                },
+                {
+                    "text": "JUSTICIAPARARICHARD",
+                    "indices": [
+                        221,
+                        241
+                    ]
+                }
+            ],
+            "symbols": [],
+            "user_mentions": [],
+            "urls": [],
+            "media": [
+                {
+                    "id": 1415513514056245252,
+                    "id_str": "1415513514056245252",
+                    "indices": [
+                        242,
+                        265
+                    ],
+                    "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1415513514056245252/pu/img/kq4AoXajZqF5o2LI.jpg",
+                    "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1415513514056245252/pu/img/kq4AoXajZqF5o2LI.jpg",
+                    "url": "https://t.co/3i2qolfF4F",
+                    "display_url": "pic.twitter.com/3i2qolfF4F",
+                    "expanded_url": "https://twitter.com/Carolin21115256/status/1415514065150091264/video/1",
+                    "type": "photo",
+                    "sizes": {
+                        "large": {
+                            "w": 352,
+                            "h": 640,
+                            "resize": "fit"
+                        },
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "small": {
+                            "w": 352,
+                            "h": 640,
+                            "resize": "fit"
+                        },
+                        "medium": {
+                            "w": 352,
+                            "h": 640,
+                            "resize": "fit"
+                        }
+                    }
+                }
+            ]
+        },
+        "extended_entities": {
+            "media": [
+                {
+                    "id": 1415513514056245252,
+                    "id_str": "1415513514056245252",
+                    "indices": [
+                        242,
+                        265
+                    ],
+                    "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1415513514056245252/pu/img/kq4AoXajZqF5o2LI.jpg",
+                    "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1415513514056245252/pu/img/kq4AoXajZqF5o2LI.jpg",
+                    "url": "https://t.co/3i2qolfF4F",
+                    "display_url": "pic.twitter.com/3i2qolfF4F",
+                    "expanded_url": "https://twitter.com/Carolin21115256/status/1415514065150091264/video/1",
+                    "type": "video",
+                    "sizes": {
+                        "large": {
+                            "w": 352,
+                            "h": 640,
+                            "resize": "fit"
+                        },
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "small": {
+                            "w": 352,
+                            "h": 640,
+                            "resize": "fit"
+                        },
+                        "medium": {
+                            "w": 352,
+                            "h": 640,
+                            "resize": "fit"
+                        }
+                    },
+                    "video_info": {
+                        "aspect_ratio": [
+                            11,
+                            20
+                        ],
+                        "duration_millis": 36855,
+                        "variants": [
+                            {
+                                "bitrate": 632000,
+                                "content_type": "video/mp4",
+                                "url": "https://video.twimg.com/ext_tw_video/1415513514056245252/pu/vid/320x580/T9eRqTCjRMUY4_Ia.mp4?tag=12"
+                            },
+                            {
+                                "bitrate": 950000,
+                                "content_type": "video/mp4",
+                                "url": "https://video.twimg.com/ext_tw_video/1415513514056245252/pu/vid/352x640/173RcgjVtGtx67gp.mp4?tag=12"
+                            },
+                            {
+                                "content_type": "application/x-mpegURL",
+                                "url": "https://video.twimg.com/ext_tw_video/1415513514056245252/pu/pl/3hqRHyE_EDiRtOkO.m3u8?tag=12&container=fmp4"
+                            }
+                        ]
+                    },
+                    "additional_media_info": {
+                        "monetizable": false
+                    }
+                }
+            ]
+        },
+        "metadata": {
+            "iso_language_code": "es",
+            "result_type": "recent"
+        },
+        "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 1286684876750696448,
+            "id_str": "1286684876750696448",
+            "name": "~Carolina \ud83c\udf3b",
+            "screen_name": "Carolin21115256",
+            "location": "Trujillo, Peru",
+            "description": "\ud83c\uddf5\ud83c\uddea",
+            "url": null,
+            "entities": {
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 60,
+            "friends_count": 73,
+            "listed_count": 0,
+            "created_at": "Fri Jul 24 15:29:26 +0000 2020",
+            "favourites_count": 10942,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": true,
+            "verified": false,
+            "statuses_count": 3140,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "F5F8FA",
+            "profile_background_image_url": null,
+            "profile_background_image_url_https": null,
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1415159284493598721/6Du05lHs_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1415159284493598721/6Du05lHs_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/1286684876750696448/1623164950",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "has_extended_profile": true,
+            "default_profile": true,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none",
+            "withheld_in_countries": []
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 20,
+        "favorite_count": 32,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "es"
+    },
+    "retweet_count": 2,
+    "favorite_count": 1,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "es"
+}

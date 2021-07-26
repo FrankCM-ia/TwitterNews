@@ -1,0 +1,276 @@
+{
+    "created_at": "Thu Jul 15 12:53:27 +0000 2021",
+    "id": 1415655753474580483,
+    "id_str": "1415655753474580483",
+    "full_text": "RT @huberpflo: Las bestias Fujimoristas, solo buscan un objetivo provocar el caos y declarar a Keiko perseguida pol\u00edtica, por eso este revu\u2026",
+    "truncated": false,
+    "display_text_range": [
+        0,
+        140
+    ],
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "huberpflo",
+                "name": "Huberflow",
+                "id": 774397694051749888,
+                "id_str": "774397694051749888",
+                "indices": [
+                    3,
+                    13
+                ]
+            }
+        ],
+        "urls": []
+    },
+    "metadata": {
+        "iso_language_code": "es",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 990232678627766272,
+        "id_str": "990232678627766272",
+        "name": "@29cesarrm",
+        "screen_name": "29cesarrm1",
+        "location": "Huanuco, Peru",
+        "description": "Peruano Democrata ...Vamos Peru!!! No Al Facismo .... \u270cLa Voz DeL PueEbLo Es La VoZ De DiOS.",
+        "url": null,
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 64,
+        "friends_count": 387,
+        "listed_count": 0,
+        "created_at": "Sat Apr 28 14:14:02 +0000 2018",
+        "favourites_count": 10131,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 8600,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": null,
+        "profile_background_image_url_https": null,
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1404040317221933057/kuDT-mVS_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1404040317221933057/kuDT-mVS_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+        "created_at": "Thu Jul 15 00:51:55 +0000 2021",
+        "id": 1415474170146791425,
+        "id_str": "1415474170146791425",
+        "full_text": "Las bestias Fujimoristas, solo buscan un objetivo provocar el caos y declarar a Keiko perseguida pol\u00edtica, por eso este revuelo, agrediendo a la prensa. \ud83d\ude20\ud83d\ude20\ud83d\ude20\ud83d\ude20 #AlEstiloJuliana #ElFujimorismoEsViolencia https://t.co/2ykvWqu0nO",
+        "truncated": false,
+        "display_text_range": [
+            0,
+            200
+        ],
+        "entities": {
+            "hashtags": [
+                {
+                    "text": "AlEstiloJuliana",
+                    "indices": [
+                        158,
+                        174
+                    ]
+                },
+                {
+                    "text": "ElFujimorismoEsViolencia",
+                    "indices": [
+                        175,
+                        200
+                    ]
+                }
+            ],
+            "symbols": [],
+            "user_mentions": [],
+            "urls": [],
+            "media": [
+                {
+                    "id": 1415474166782963715,
+                    "id_str": "1415474166782963715",
+                    "indices": [
+                        201,
+                        224
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/E6TGQVPXMAMKAB0.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/E6TGQVPXMAMKAB0.jpg",
+                    "url": "https://t.co/2ykvWqu0nO",
+                    "display_url": "pic.twitter.com/2ykvWqu0nO",
+                    "expanded_url": "https://twitter.com/huberpflo/status/1415474170146791425/photo/1",
+                    "type": "photo",
+                    "sizes": {
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "small": {
+                            "w": 680,
+                            "h": 510,
+                            "resize": "fit"
+                        },
+                        "medium": {
+                            "w": 1200,
+                            "h": 900,
+                            "resize": "fit"
+                        },
+                        "large": {
+                            "w": 2048,
+                            "h": 1536,
+                            "resize": "fit"
+                        }
+                    }
+                }
+            ]
+        },
+        "extended_entities": {
+            "media": [
+                {
+                    "id": 1415474166782963715,
+                    "id_str": "1415474166782963715",
+                    "indices": [
+                        201,
+                        224
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/E6TGQVPXMAMKAB0.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/E6TGQVPXMAMKAB0.jpg",
+                    "url": "https://t.co/2ykvWqu0nO",
+                    "display_url": "pic.twitter.com/2ykvWqu0nO",
+                    "expanded_url": "https://twitter.com/huberpflo/status/1415474170146791425/photo/1",
+                    "type": "photo",
+                    "sizes": {
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "small": {
+                            "w": 680,
+                            "h": 510,
+                            "resize": "fit"
+                        },
+                        "medium": {
+                            "w": 1200,
+                            "h": 900,
+                            "resize": "fit"
+                        },
+                        "large": {
+                            "w": 2048,
+                            "h": 1536,
+                            "resize": "fit"
+                        }
+                    }
+                }
+            ]
+        },
+        "metadata": {
+            "iso_language_code": "es",
+            "result_type": "recent"
+        },
+        "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 774397694051749888,
+            "id_str": "774397694051749888",
+            "name": "Huberflow",
+            "screen_name": "huberpflo",
+            "location": "Peru",
+            "description": "SOY CANCERIANO-IRONICO-SARCASTISCO-REALISTA Y SOBRETODO ROMANTICO \ud83e\udd23\ud83e\udd23",
+            "url": null,
+            "entities": {
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 185,
+            "friends_count": 292,
+            "listed_count": 1,
+            "created_at": "Sat Sep 10 00:02:52 +0000 2016",
+            "favourites_count": 6080,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": true,
+            "verified": false,
+            "statuses_count": 34784,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "F5F8FA",
+            "profile_background_image_url": null,
+            "profile_background_image_url_https": null,
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1409734734025003017/eUpAxCje_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1409734734025003017/eUpAxCje_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/774397694051749888/1560106940",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "has_extended_profile": false,
+            "default_profile": true,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none",
+            "withheld_in_countries": []
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 4,
+        "favorite_count": 1,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "es"
+    },
+    "is_quote_status": false,
+    "retweet_count": 4,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "es"
+}

@@ -1,0 +1,334 @@
+{
+    "created_at": "Wed Jul 14 04:18:33 +0000 2021",
+    "id": 1415163786672152577,
+    "id_str": "1415163786672152577",
+    "full_text": "RT @pnacionalistap: Hoy, el expresidente de la Rep\u00fablica, Ollanta Humala (@Ollanta_HumalaT), analizar\u00e1 la coyuntura pol\u00edtica en #AlEstiloJu\u2026",
+    "truncated": false,
+    "display_text_range": [
+        0,
+        140
+    ],
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "pnacionalistap",
+                "name": "Partido Nacionalista",
+                "id": 75608800,
+                "id_str": "75608800",
+                "indices": [
+                    3,
+                    18
+                ]
+            },
+            {
+                "screen_name": "Ollanta_HumalaT",
+                "name": "Ollanta Humala Tasso",
+                "id": 151190865,
+                "id_str": "151190865",
+                "indices": [
+                    74,
+                    90
+                ]
+            }
+        ],
+        "urls": []
+    },
+    "metadata": {
+        "iso_language_code": "es",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 462564819,
+        "id_str": "462564819",
+        "name": "kandy_kristal",
+        "screen_name": "maralaska",
+        "location": "",
+        "description": "Reporter,Economist,Thec Metallury,Consultant \r\n,,,, if you fallow me ,,, I'll fallow you",
+        "url": null,
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 4011,
+        "friends_count": 1991,
+        "listed_count": 32,
+        "created_at": "Fri Jan 13 02:53:03 +0000 2012",
+        "favourites_count": 62748,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 84932,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/432229224443682816/Cq8oPVcY_normal.jpeg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/432229224443682816/Cq8oPVcY_normal.jpeg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/462564819/1483590827",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+        "created_at": "Wed Jul 14 00:50:56 +0000 2021",
+        "id": 1415111534796320768,
+        "id_str": "1415111534796320768",
+        "full_text": "Hoy, el expresidente de la Rep\u00fablica, Ollanta Humala (@Ollanta_HumalaT), analizar\u00e1 la coyuntura pol\u00edtica en #AlEstiloJuliana, bajo la conducci\u00f3n de Juliana Oxenford. Este martes desde las 8:10 p.m., por @atv_noticias @atvpe. https://t.co/Jhu0mN5jFz",
+        "truncated": false,
+        "display_text_range": [
+            0,
+            224
+        ],
+        "entities": {
+            "hashtags": [
+                {
+                    "text": "AlEstiloJuliana",
+                    "indices": [
+                        108,
+                        124
+                    ]
+                }
+            ],
+            "symbols": [],
+            "user_mentions": [
+                {
+                    "screen_name": "Ollanta_HumalaT",
+                    "name": "Ollanta Humala Tasso",
+                    "id": 151190865,
+                    "id_str": "151190865",
+                    "indices": [
+                        54,
+                        70
+                    ]
+                },
+                {
+                    "screen_name": "atv_noticias",
+                    "name": "ATV Noticias",
+                    "id": 153625642,
+                    "id_str": "153625642",
+                    "indices": [
+                        203,
+                        216
+                    ]
+                },
+                {
+                    "screen_name": "atvpe",
+                    "name": "ATV",
+                    "id": 153590993,
+                    "id_str": "153590993",
+                    "indices": [
+                        217,
+                        223
+                    ]
+                }
+            ],
+            "urls": [],
+            "media": [
+                {
+                    "id": 1415111093601677315,
+                    "id_str": "1415111093601677315",
+                    "indices": [
+                        225,
+                        248
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/E6N8CsPXsAMPkvY.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/E6N8CsPXsAMPkvY.jpg",
+                    "url": "https://t.co/Jhu0mN5jFz",
+                    "display_url": "pic.twitter.com/Jhu0mN5jFz",
+                    "expanded_url": "https://twitter.com/pnacionalistap/status/1415111534796320768/photo/1",
+                    "type": "photo",
+                    "sizes": {
+                        "small": {
+                            "w": 680,
+                            "h": 680,
+                            "resize": "fit"
+                        },
+                        "medium": {
+                            "w": 960,
+                            "h": 960,
+                            "resize": "fit"
+                        },
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "large": {
+                            "w": 960,
+                            "h": 960,
+                            "resize": "fit"
+                        }
+                    }
+                }
+            ]
+        },
+        "extended_entities": {
+            "media": [
+                {
+                    "id": 1415111093601677315,
+                    "id_str": "1415111093601677315",
+                    "indices": [
+                        225,
+                        248
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/E6N8CsPXsAMPkvY.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/E6N8CsPXsAMPkvY.jpg",
+                    "url": "https://t.co/Jhu0mN5jFz",
+                    "display_url": "pic.twitter.com/Jhu0mN5jFz",
+                    "expanded_url": "https://twitter.com/pnacionalistap/status/1415111534796320768/photo/1",
+                    "type": "photo",
+                    "sizes": {
+                        "small": {
+                            "w": 680,
+                            "h": 680,
+                            "resize": "fit"
+                        },
+                        "medium": {
+                            "w": 960,
+                            "h": 960,
+                            "resize": "fit"
+                        },
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "large": {
+                            "w": 960,
+                            "h": 960,
+                            "resize": "fit"
+                        }
+                    }
+                }
+            ]
+        },
+        "metadata": {
+            "iso_language_code": "es",
+            "result_type": "recent"
+        },
+        "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 75608800,
+            "id_str": "75608800",
+            "name": "Partido Nacionalista",
+            "screen_name": "pnacionalistap",
+            "location": "Lima",
+            "description": "Cuenta Oficial del Partido Nacionalista Peruano. Organizaci\u00f3n Pol\u00edtica fundada por el expresidente Ollanta Humala Tasso. https://t.co/ZY6f88PiVl",
+            "url": "https://t.co/40zwZEgQJr",
+            "entities": {
+                "url": {
+                    "urls": [
+                        {
+                            "url": "https://t.co/40zwZEgQJr",
+                            "expanded_url": "http://www.partidonacionalistaperuano.org.pe",
+                            "display_url": "partidonacionalistaperuano.org.pe",
+                            "indices": [
+                                0,
+                                23
+                            ]
+                        }
+                    ]
+                },
+                "description": {
+                    "urls": [
+                        {
+                            "url": "https://t.co/ZY6f88PiVl",
+                            "expanded_url": "https://www.facebook.com/pnacionalistap",
+                            "display_url": "facebook.com/pnacionalistap",
+                            "indices": [
+                                121,
+                                144
+                            ]
+                        }
+                    ]
+                }
+            },
+            "protected": false,
+            "followers_count": 34558,
+            "friends_count": 790,
+            "listed_count": 307,
+            "created_at": "Sat Sep 19 18:20:09 +0000 2009",
+            "favourites_count": 7057,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": true,
+            "verified": false,
+            "statuses_count": 14940,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "F7F5FA",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1331962281396232193/Hmdcp0Y5_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1331962281396232193/Hmdcp0Y5_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/75608800/1613778183",
+            "profile_link_color": "E10B1C",
+            "profile_sidebar_border_color": "FFFFFF",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "has_extended_profile": false,
+            "default_profile": false,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none",
+            "withheld_in_countries": []
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 8,
+        "favorite_count": 46,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "es"
+    },
+    "is_quote_status": false,
+    "retweet_count": 8,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "es"
+}

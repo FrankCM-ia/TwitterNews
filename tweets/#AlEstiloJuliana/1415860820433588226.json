@@ -1,0 +1,203 @@
+{
+    "created_at": "Fri Jul 16 02:28:19 +0000 2021",
+    "id": 1415860820433588226,
+    "id_str": "1415860820433588226",
+    "full_text": "RT @Imperium_peru: Richard Muro fue golpeado salvajemente por los matones que Per\u00fa Libre trajo. \u00bfJuliana Oxenford hizo un comentario al res\u2026",
+    "truncated": false,
+    "display_text_range": [
+        0,
+        140
+    ],
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "Imperium_peru",
+                "name": "Imperium.pe \ud83d\udc38",
+                "id": 1221825335148392448,
+                "id_str": "1221825335148392448",
+                "indices": [
+                    3,
+                    17
+                ]
+            }
+        ],
+        "urls": []
+    },
+    "metadata": {
+        "iso_language_code": "es",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 1389137061240877057,
+        "id_str": "1389137061240877057",
+        "name": "Juan Grande",
+        "screen_name": "JuanGra13743006",
+        "location": "",
+        "description": "",
+        "url": null,
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 5,
+        "friends_count": 17,
+        "listed_count": 0,
+        "created_at": "Mon May 03 08:37:54 +0000 2021",
+        "favourites_count": 834,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 181,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": null,
+        "profile_background_image_url_https": null,
+        "profile_background_tile": false,
+        "profile_image_url": "http://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+        "profile_image_url_https": "https://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": true,
+        "default_profile": true,
+        "default_profile_image": true,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+        "created_at": "Fri Jul 16 02:24:36 +0000 2021",
+        "id": 1415859886110482438,
+        "id_str": "1415859886110482438",
+        "full_text": "Richard Muro fue golpeado salvajemente por los matones que Per\u00fa Libre trajo. \u00bfJuliana Oxenford hizo un comentario al respecto? Nada. \n\nA los mermeleros no les conviene revelar informaci\u00f3n que hace ver mal a los favoritos de la mafia caviar. #AlEstiloJuliana",
+        "truncated": false,
+        "display_text_range": [
+            0,
+            257
+        ],
+        "entities": {
+            "hashtags": [
+                {
+                    "text": "AlEstiloJuliana",
+                    "indices": [
+                        241,
+                        257
+                    ]
+                }
+            ],
+            "symbols": [],
+            "user_mentions": [],
+            "urls": []
+        },
+        "metadata": {
+            "iso_language_code": "es",
+            "result_type": "recent"
+        },
+        "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 1221825335148392448,
+            "id_str": "1221825335148392448",
+            "name": "Imperium.pe \ud83d\udc38",
+            "screen_name": "Imperium_peru",
+            "location": "Valhalla",
+            "description": "An\u00f3nimo, autoritario, anti-comunista, tradicional y siempre propenso a humillar progres. \n\nSiguenos en tu red social favorita \ud83d\udc47",
+            "url": "https://t.co/OjohVxEXDW",
+            "entities": {
+                "url": {
+                    "urls": [
+                        {
+                            "url": "https://t.co/OjohVxEXDW",
+                            "expanded_url": "http://www.linktr.ee/ImperiumPeru",
+                            "display_url": "linktr.ee/ImperiumPeru",
+                            "indices": [
+                                0,
+                                23
+                            ]
+                        }
+                    ]
+                },
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 1162,
+            "friends_count": 385,
+            "listed_count": 3,
+            "created_at": "Mon Jan 27 16:00:41 +0000 2020",
+            "favourites_count": 3486,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": false,
+            "verified": false,
+            "statuses_count": 3651,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "F5F8FA",
+            "profile_background_image_url": null,
+            "profile_background_image_url_https": null,
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1393092281264136194/m3Qjd5yQ_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1393092281264136194/m3Qjd5yQ_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/1221825335148392448/1624309631",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "has_extended_profile": false,
+            "default_profile": true,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none",
+            "withheld_in_countries": []
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 86,
+        "favorite_count": 263,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "es"
+    },
+    "is_quote_status": false,
+    "retweet_count": 86,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "es"
+}

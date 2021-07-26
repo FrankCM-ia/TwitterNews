@@ -1,0 +1,413 @@
+{
+    "created_at": "Thu Jul 15 02:03:16 +0000 2021",
+    "id": 1415492127778291714,
+    "id_str": "1415492127778291714",
+    "full_text": "RT @blackdragon1802: Refuerzos chavistas #Venezuela enviados por Maduro para apoyar a polic\u00eda cubana y reprimir al pueblo de #CubaLibre #SO\u2026",
+    "truncated": false,
+    "display_text_range": [
+        0,
+        140
+    ],
+    "entities": {
+        "hashtags": [
+            {
+                "text": "Venezuela",
+                "indices": [
+                    41,
+                    51
+                ]
+            },
+            {
+                "text": "CubaLibre",
+                "indices": [
+                    125,
+                    135
+                ]
+            }
+        ],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "blackdragon1802",
+                "name": "Lord \u0646",
+                "id": 151490775,
+                "id_str": "151490775",
+                "indices": [
+                    3,
+                    19
+                ]
+            }
+        ],
+        "urls": []
+    },
+    "metadata": {
+        "iso_language_code": "es",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 1414619381368299520,
+        "id_str": "1414619381368299520",
+        "name": "CubaLibre2021",
+        "screen_name": "CLibre2021",
+        "location": "",
+        "description": "",
+        "url": null,
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 10,
+        "friends_count": 71,
+        "listed_count": 0,
+        "created_at": "Mon Jul 12 16:15:31 +0000 2021",
+        "favourites_count": 157,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 195,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": null,
+        "profile_background_image_url_https": null,
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1414619836966125568/Kn0V7H_n_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1414619836966125568/Kn0V7H_n_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": true,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+        "created_at": "Thu Jul 15 02:01:31 +0000 2021",
+        "id": 1415491685946216454,
+        "id_str": "1415491685946216454",
+        "full_text": "Refuerzos chavistas #Venezuela enviados por Maduro para apoyar a polic\u00eda cubana y reprimir al pueblo de #CubaLibre #SOSCuba #Cuba #ANCentral #TVPer\u00faNoticias #ATVNoticias #Edici\u00f3nCentral #AlEstiloJuliana #CanalN #90Central #Willax #RPP #Per\u00faLibre #FuerzaPopular https://t.co/a4m6ERNc92",
+        "truncated": false,
+        "display_text_range": [
+            0,
+            260
+        ],
+        "entities": {
+            "hashtags": [
+                {
+                    "text": "Venezuela",
+                    "indices": [
+                        20,
+                        30
+                    ]
+                },
+                {
+                    "text": "CubaLibre",
+                    "indices": [
+                        104,
+                        114
+                    ]
+                },
+                {
+                    "text": "SOSCuba",
+                    "indices": [
+                        115,
+                        123
+                    ]
+                },
+                {
+                    "text": "Cuba",
+                    "indices": [
+                        124,
+                        129
+                    ]
+                },
+                {
+                    "text": "ANCentral",
+                    "indices": [
+                        130,
+                        140
+                    ]
+                },
+                {
+                    "text": "TVPer\u00faNoticias",
+                    "indices": [
+                        141,
+                        156
+                    ]
+                },
+                {
+                    "text": "ATVNoticias",
+                    "indices": [
+                        157,
+                        169
+                    ]
+                },
+                {
+                    "text": "Edici\u00f3nCentral",
+                    "indices": [
+                        170,
+                        185
+                    ]
+                },
+                {
+                    "text": "AlEstiloJuliana",
+                    "indices": [
+                        186,
+                        202
+                    ]
+                },
+                {
+                    "text": "CanalN",
+                    "indices": [
+                        203,
+                        210
+                    ]
+                },
+                {
+                    "text": "90Central",
+                    "indices": [
+                        211,
+                        221
+                    ]
+                },
+                {
+                    "text": "Willax",
+                    "indices": [
+                        222,
+                        229
+                    ]
+                },
+                {
+                    "text": "RPP",
+                    "indices": [
+                        230,
+                        234
+                    ]
+                },
+                {
+                    "text": "Per\u00faLibre",
+                    "indices": [
+                        235,
+                        245
+                    ]
+                },
+                {
+                    "text": "FuerzaPopular",
+                    "indices": [
+                        246,
+                        260
+                    ]
+                }
+            ],
+            "symbols": [],
+            "user_mentions": [],
+            "urls": [],
+            "media": [
+                {
+                    "id": 1415490892027269123,
+                    "id_str": "1415490892027269123",
+                    "indices": [
+                        261,
+                        284
+                    ],
+                    "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1415490892027269123/pu/img/jOwsUVWWeMP8Z8h4.jpg",
+                    "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1415490892027269123/pu/img/jOwsUVWWeMP8Z8h4.jpg",
+                    "url": "https://t.co/a4m6ERNc92",
+                    "display_url": "pic.twitter.com/a4m6ERNc92",
+                    "expanded_url": "https://twitter.com/blackdragon1802/status/1415491685946216454/video/1",
+                    "type": "photo",
+                    "sizes": {
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "small": {
+                            "w": 453,
+                            "h": 680,
+                            "resize": "fit"
+                        },
+                        "medium": {
+                            "w": 720,
+                            "h": 1080,
+                            "resize": "fit"
+                        },
+                        "large": {
+                            "w": 720,
+                            "h": 1080,
+                            "resize": "fit"
+                        }
+                    }
+                }
+            ]
+        },
+        "extended_entities": {
+            "media": [
+                {
+                    "id": 1415490892027269123,
+                    "id_str": "1415490892027269123",
+                    "indices": [
+                        261,
+                        284
+                    ],
+                    "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1415490892027269123/pu/img/jOwsUVWWeMP8Z8h4.jpg",
+                    "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1415490892027269123/pu/img/jOwsUVWWeMP8Z8h4.jpg",
+                    "url": "https://t.co/a4m6ERNc92",
+                    "display_url": "pic.twitter.com/a4m6ERNc92",
+                    "expanded_url": "https://twitter.com/blackdragon1802/status/1415491685946216454/video/1",
+                    "type": "video",
+                    "sizes": {
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "small": {
+                            "w": 453,
+                            "h": 680,
+                            "resize": "fit"
+                        },
+                        "medium": {
+                            "w": 720,
+                            "h": 1080,
+                            "resize": "fit"
+                        },
+                        "large": {
+                            "w": 720,
+                            "h": 1080,
+                            "resize": "fit"
+                        }
+                    },
+                    "video_info": {
+                        "aspect_ratio": [
+                            2,
+                            3
+                        ],
+                        "duration_millis": 139967,
+                        "variants": [
+                            {
+                                "bitrate": 950000,
+                                "content_type": "video/mp4",
+                                "url": "https://video.twimg.com/ext_tw_video/1415490892027269123/pu/vid/480x720/VLwgKBkdZtKpUCc0.mp4?tag=12"
+                            },
+                            {
+                                "bitrate": 2176000,
+                                "content_type": "video/mp4",
+                                "url": "https://video.twimg.com/ext_tw_video/1415490892027269123/pu/vid/720x1080/98qk4Quq9rS0olyE.mp4?tag=12"
+                            },
+                            {
+                                "bitrate": 632000,
+                                "content_type": "video/mp4",
+                                "url": "https://video.twimg.com/ext_tw_video/1415490892027269123/pu/vid/320x480/2fr_uFwrc4qbzMeo.mp4?tag=12"
+                            },
+                            {
+                                "content_type": "application/x-mpegURL",
+                                "url": "https://video.twimg.com/ext_tw_video/1415490892027269123/pu/pl/RRxtxDX2ivsTzA0b.m3u8?tag=12&container=fmp4"
+                            }
+                        ]
+                    },
+                    "additional_media_info": {
+                        "monetizable": false
+                    }
+                }
+            ]
+        },
+        "metadata": {
+            "iso_language_code": "es",
+            "result_type": "recent"
+        },
+        "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 151490775,
+            "id_str": "151490775",
+            "name": "Lord \u0646",
+            "screen_name": "blackdragon1802",
+            "location": "Marte - Soy un marciano ",
+            "description": "El mal prevalece cuando los hombres buenos no hacen nada - T\u00fa apoyas indirectamente la persecuci\u00f3n del Inocente cuando permaneces mudo. EN DIOS CONFIAMOS!!",
+            "url": null,
+            "entities": {
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 2019,
+            "friends_count": 1614,
+            "listed_count": 14,
+            "created_at": "Thu Jun 03 14:37:21 +0000 2010",
+            "favourites_count": 457,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": false,
+            "verified": false,
+            "statuses_count": 69436,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": true,
+            "profile_background_color": "7EB9D9",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": true,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/560939363178008576/A-bhNC-H_normal.jpeg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/560939363178008576/A-bhNC-H_normal.jpeg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/151490775/1422569930",
+            "profile_link_color": "150EED",
+            "profile_sidebar_border_color": "FFFFFF",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "has_extended_profile": false,
+            "default_profile": false,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none",
+            "withheld_in_countries": []
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 7,
+        "favorite_count": 3,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "es"
+    },
+    "is_quote_status": false,
+    "retweet_count": 7,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "es"
+}

@@ -1,0 +1,242 @@
+{
+    "created_at": "Wed Jul 14 04:14:19 +0000 2021",
+    "id": 1415162721419644928,
+    "id_str": "1415162721419644928",
+    "full_text": "RT @pnacionalistap: .@Ollanta_HumalaT en #AlEstiloJuliana: \"Los grupos de derecha se pintan de dem\u00f3cratas, pero est\u00e1n promoviendo golpes de\u2026",
+    "truncated": false,
+    "display_text_range": [
+        0,
+        140
+    ],
+    "entities": {
+        "hashtags": [
+            {
+                "text": "AlEstiloJuliana",
+                "indices": [
+                    41,
+                    57
+                ]
+            }
+        ],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "pnacionalistap",
+                "name": "Partido Nacionalista",
+                "id": 75608800,
+                "id_str": "75608800",
+                "indices": [
+                    3,
+                    18
+                ]
+            },
+            {
+                "screen_name": "Ollanta_HumalaT",
+                "name": "Ollanta Humala Tasso",
+                "id": 151190865,
+                "id_str": "151190865",
+                "indices": [
+                    21,
+                    37
+                ]
+            }
+        ],
+        "urls": []
+    },
+    "metadata": {
+        "iso_language_code": "es",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 1254050630676680712,
+        "id_str": "1254050630676680712",
+        "name": "Lorena Valenzuela",
+        "screen_name": "LorenaV30580483",
+        "location": "",
+        "description": "",
+        "url": null,
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 6,
+        "friends_count": 63,
+        "listed_count": 0,
+        "created_at": "Sat Apr 25 14:12:38 +0000 2020",
+        "favourites_count": 1671,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 204,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": null,
+        "profile_background_image_url_https": null,
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1254797627176222720/mQuFn8hg_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1254797627176222720/mQuFn8hg_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+        "created_at": "Wed Jul 14 01:46:04 +0000 2021",
+        "id": 1415125409453203456,
+        "id_str": "1415125409453203456",
+        "full_text": ".@Ollanta_HumalaT en #AlEstiloJuliana: \"Los grupos de derecha se pintan de dem\u00f3cratas, pero est\u00e1n promoviendo golpes de Estado. Con ese ideario de Per\u00fa Libre y Castillo, los peruanos los eligieron. Se debe respetar esa decisi\u00f3n de los peruanos. Esa es la democracia\".",
+        "truncated": false,
+        "display_text_range": [
+            0,
+            267
+        ],
+        "entities": {
+            "hashtags": [
+                {
+                    "text": "AlEstiloJuliana",
+                    "indices": [
+                        21,
+                        37
+                    ]
+                }
+            ],
+            "symbols": [],
+            "user_mentions": [
+                {
+                    "screen_name": "Ollanta_HumalaT",
+                    "name": "Ollanta Humala Tasso",
+                    "id": 151190865,
+                    "id_str": "151190865",
+                    "indices": [
+                        1,
+                        17
+                    ]
+                }
+            ],
+            "urls": []
+        },
+        "metadata": {
+            "iso_language_code": "es",
+            "result_type": "recent"
+        },
+        "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 75608800,
+            "id_str": "75608800",
+            "name": "Partido Nacionalista",
+            "screen_name": "pnacionalistap",
+            "location": "Lima",
+            "description": "Cuenta Oficial del Partido Nacionalista Peruano. Organizaci\u00f3n Pol\u00edtica fundada por el expresidente Ollanta Humala Tasso. https://t.co/ZY6f88PiVl",
+            "url": "https://t.co/40zwZEgQJr",
+            "entities": {
+                "url": {
+                    "urls": [
+                        {
+                            "url": "https://t.co/40zwZEgQJr",
+                            "expanded_url": "http://www.partidonacionalistaperuano.org.pe",
+                            "display_url": "partidonacionalistaperuano.org.pe",
+                            "indices": [
+                                0,
+                                23
+                            ]
+                        }
+                    ]
+                },
+                "description": {
+                    "urls": [
+                        {
+                            "url": "https://t.co/ZY6f88PiVl",
+                            "expanded_url": "https://www.facebook.com/pnacionalistap",
+                            "display_url": "facebook.com/pnacionalistap",
+                            "indices": [
+                                121,
+                                144
+                            ]
+                        }
+                    ]
+                }
+            },
+            "protected": false,
+            "followers_count": 34558,
+            "friends_count": 790,
+            "listed_count": 307,
+            "created_at": "Sat Sep 19 18:20:09 +0000 2009",
+            "favourites_count": 7057,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": true,
+            "verified": false,
+            "statuses_count": 14940,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "F7F5FA",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1331962281396232193/Hmdcp0Y5_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1331962281396232193/Hmdcp0Y5_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/75608800/1613778183",
+            "profile_link_color": "E10B1C",
+            "profile_sidebar_border_color": "FFFFFF",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "has_extended_profile": false,
+            "default_profile": false,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none",
+            "withheld_in_countries": []
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 26,
+        "favorite_count": 91,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "es"
+    },
+    "is_quote_status": false,
+    "retweet_count": 26,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "es"
+}

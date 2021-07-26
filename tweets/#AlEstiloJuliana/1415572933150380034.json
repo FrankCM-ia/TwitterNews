@@ -1,0 +1,126 @@
+{
+    "created_at": "Thu Jul 15 07:24:21 +0000 2021",
+    "id": 1415572933150380034,
+    "id_str": "1415572933150380034",
+    "full_text": "pnacionalistap: RT @atvpe: #AlEstiloJuliana | Expresidente habl\u00f3 sobre su reuni\u00f3n con \u00e9l y precis\u00f3 que \"he tomado la iniciativa de formar un puente\"  https://t.co/ec5GxsLgC5 @julianaoxenford",
+    "truncated": false,
+    "display_text_range": [
+        0,
+        190
+    ],
+    "entities": {
+        "hashtags": [
+            {
+                "text": "AlEstiloJuliana",
+                "indices": [
+                    27,
+                    43
+                ]
+            }
+        ],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "atvpe",
+                "name": "ATV",
+                "id": 153590993,
+                "id_str": "153590993",
+                "indices": [
+                    19,
+                    25
+                ]
+            },
+            {
+                "screen_name": "julianaoxenford",
+                "name": "julianaoxenford",
+                "id": 1271961894685937670,
+                "id_str": "1271961894685937670",
+                "indices": [
+                    174,
+                    190
+                ]
+            }
+        ],
+        "urls": [
+            {
+                "url": "https://t.co/ec5GxsLgC5",
+                "expanded_url": "https://bit.ly/3i4fAJa",
+                "display_url": "bit.ly/3i4fAJa",
+                "indices": [
+                    150,
+                    173
+                ]
+            }
+        ]
+    },
+    "metadata": {
+        "iso_language_code": "es",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 701158799030280192,
+        "id_str": "701158799030280192",
+        "name": "Violeta Oliveros",
+        "screen_name": "VioPolitica",
+        "location": "",
+        "description": "#MujeresHaciendoPolitica\n#JuntosTodoLoPodemos",
+        "url": null,
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 184,
+        "friends_count": 301,
+        "listed_count": 3,
+        "created_at": "Sat Feb 20 21:37:39 +0000 2016",
+        "favourites_count": 850,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 6766,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": null,
+        "profile_background_image_url_https": null,
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1384245346960777219/U-pjYi1K_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1384245346960777219/U-pjYi1K_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/701158799030280192/1618864627",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "es"
+}
