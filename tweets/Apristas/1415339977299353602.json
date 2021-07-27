@@ -1,0 +1,318 @@
+{
+    "created_at": "Wed Jul 14 15:58:40 +0000 2021",
+    "id": 1415339977299353602,
+    "id_str": "1415339977299353602",
+    "full_text": "RT @diego_herreras: #Dia7\nEl @LUMoficial impide que los peruan@s conozcan la historia de los esposos Mateo Valenzuela y Eulogia Cris\u00f3stomo,\u2026",
+    "truncated": false,
+    "display_text_range": [
+        0,
+        140
+    ],
+    "entities": {
+        "hashtags": [
+            {
+                "text": "Dia7",
+                "indices": [
+                    20,
+                    25
+                ]
+            }
+        ],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "diego_herreras",
+                "name": "Juan Diego Herrera",
+                "id": 1311043567901646850,
+                "id_str": "1311043567901646850",
+                "indices": [
+                    3,
+                    18
+                ]
+            },
+            {
+                "screen_name": "LUMoficial",
+                "name": "Lugar de la Memoria \ud83c\uddf5\ud83c\uddea",
+                "id": 950480466,
+                "id_str": "950480466",
+                "indices": [
+                    29,
+                    40
+                ]
+            }
+        ],
+        "urls": []
+    },
+    "metadata": {
+        "iso_language_code": "es",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 1308611652657516544,
+        "id_str": "1308611652657516544",
+        "name": "Henry Mallqui M @HMMdesdelaotraorilla",
+        "screen_name": "HMMdesdelaotra1",
+        "location": "",
+        "description": "Leer. Confrontar ideas con respeto y tolerancia. Estar siempre a  la otra orilla.",
+        "url": null,
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 174,
+        "friends_count": 732,
+        "listed_count": 0,
+        "created_at": "Wed Sep 23 03:39:19 +0000 2020",
+        "favourites_count": 6724,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 5811,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": null,
+        "profile_background_image_url_https": null,
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1411169530445979650/Ovh8ZIJa_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1411169530445979650/Ovh8ZIJa_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": true,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+        "created_at": "Wed Jul 14 15:43:11 +0000 2021",
+        "id": 1415336080027553795,
+        "id_str": "1415336080027553795",
+        "full_text": "#Dia7\nEl @LUMoficial impide que los peruan@s conozcan la historia de los esposos Mateo Valenzuela y Eulogia Cris\u00f3stomo, militantes Apristas asesinados a cuchilladas por terroristas en el distrito de Cayara, el 9 de enero de 1986.\n#1214NoTememosALosCobardes https://t.co/xwg213jhbH",
+        "truncated": false,
+        "display_text_range": [
+            0,
+            256
+        ],
+        "entities": {
+            "hashtags": [
+                {
+                    "text": "Dia7",
+                    "indices": [
+                        0,
+                        5
+                    ]
+                },
+                {
+                    "text": "1214NoTememosALosCobardes",
+                    "indices": [
+                        230,
+                        256
+                    ]
+                }
+            ],
+            "symbols": [],
+            "user_mentions": [
+                {
+                    "screen_name": "LUMoficial",
+                    "name": "Lugar de la Memoria \ud83c\uddf5\ud83c\uddea",
+                    "id": 950480466,
+                    "id_str": "950480466",
+                    "indices": [
+                        9,
+                        20
+                    ]
+                }
+            ],
+            "urls": [],
+            "media": [
+                {
+                    "id": 1415336076575662086,
+                    "id_str": "1415336076575662086",
+                    "indices": [
+                        257,
+                        280
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/E6RIqbIWYAYFQpI.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/E6RIqbIWYAYFQpI.jpg",
+                    "url": "https://t.co/xwg213jhbH",
+                    "display_url": "pic.twitter.com/xwg213jhbH",
+                    "expanded_url": "https://twitter.com/diego_herreras/status/1415336080027553795/photo/1",
+                    "type": "photo",
+                    "sizes": {
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "medium": {
+                            "w": 925,
+                            "h": 512,
+                            "resize": "fit"
+                        },
+                        "large": {
+                            "w": 925,
+                            "h": 512,
+                            "resize": "fit"
+                        },
+                        "small": {
+                            "w": 680,
+                            "h": 376,
+                            "resize": "fit"
+                        }
+                    }
+                }
+            ]
+        },
+        "extended_entities": {
+            "media": [
+                {
+                    "id": 1415336076575662086,
+                    "id_str": "1415336076575662086",
+                    "indices": [
+                        257,
+                        280
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/E6RIqbIWYAYFQpI.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/E6RIqbIWYAYFQpI.jpg",
+                    "url": "https://t.co/xwg213jhbH",
+                    "display_url": "pic.twitter.com/xwg213jhbH",
+                    "expanded_url": "https://twitter.com/diego_herreras/status/1415336080027553795/photo/1",
+                    "type": "photo",
+                    "sizes": {
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "medium": {
+                            "w": 925,
+                            "h": 512,
+                            "resize": "fit"
+                        },
+                        "large": {
+                            "w": 925,
+                            "h": 512,
+                            "resize": "fit"
+                        },
+                        "small": {
+                            "w": 680,
+                            "h": 376,
+                            "resize": "fit"
+                        }
+                    }
+                }
+            ]
+        },
+        "metadata": {
+            "iso_language_code": "es",
+            "result_type": "recent"
+        },
+        "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 1311043567901646850,
+            "id_str": "1311043567901646850",
+            "name": "Juan Diego Herrera",
+            "screen_name": "diego_herreras",
+            "location": "Lima, Peru",
+            "description": "Aprista. Leer es so\u00f1ar con los ojos abiertos. #UNMSM #ArribaAlianza #SEASAP",
+            "url": "https://t.co/nelOnnurK7",
+            "entities": {
+                "url": {
+                    "urls": [
+                        {
+                            "url": "https://t.co/nelOnnurK7",
+                            "expanded_url": "https://historiasdelaprismo.blogspot.com",
+                            "display_url": "historiasdelaprismo.blogspot.com",
+                            "indices": [
+                                0,
+                                23
+                            ]
+                        }
+                    ]
+                },
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 1384,
+            "friends_count": 769,
+            "listed_count": 1,
+            "created_at": "Tue Sep 29 20:42:53 +0000 2020",
+            "favourites_count": 24549,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": true,
+            "verified": false,
+            "statuses_count": 11443,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "F5F8FA",
+            "profile_background_image_url": null,
+            "profile_background_image_url_https": null,
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1393754648780152834/wZMQJ8-I_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1393754648780152834/wZMQJ8-I_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/1311043567901646850/1613938007",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "has_extended_profile": true,
+            "default_profile": true,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none",
+            "withheld_in_countries": []
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 18,
+        "favorite_count": 30,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "es"
+    },
+    "is_quote_status": false,
+    "retweet_count": 18,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "es"
+}

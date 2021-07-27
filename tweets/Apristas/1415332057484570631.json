@@ -1,0 +1,97 @@
+{
+    "created_at": "Wed Jul 14 15:27:12 +0000 2021",
+    "id": 1415332057484570631,
+    "id_str": "1415332057484570631",
+    "full_text": "@aspauzarazuri Est\u00e1n desesperados, o acaso Castillo no promover\u00e1 investigaci\u00f3n a los corruptos ...... y ah\u00ed caer\u00e1n ellos, toda la c\u00fapula aprista y con la ayuda de JNJ los jueces y fiscales apristas enquistados por m\u00e1s de 30 a\u00f1os en el PJ.",
+    "truncated": false,
+    "display_text_range": [
+        15,
+        238
+    ],
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "aspauzarazuri",
+                "name": "Jorge Aspauza",
+                "id": 127946842,
+                "id_str": "127946842",
+                "indices": [
+                    0,
+                    14
+                ]
+            }
+        ],
+        "urls": []
+    },
+    "metadata": {
+        "iso_language_code": "es",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_status_id": 1415326687949213696,
+    "in_reply_to_status_id_str": "1415326687949213696",
+    "in_reply_to_user_id": 127946842,
+    "in_reply_to_user_id_str": "127946842",
+    "in_reply_to_screen_name": "aspauzarazuri",
+    "user": {
+        "id": 1059880832,
+        "id_str": "1059880832",
+        "name": "Eberth Cordova ",
+        "screen_name": "EberthCor",
+        "location": "",
+        "description": "Toda historia tiene varias versiones, pero .... una \u00daNICA VERDAD!!",
+        "url": null,
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 197,
+        "friends_count": 1006,
+        "listed_count": 1,
+        "created_at": "Fri Jan 04 08:17:09 +0000 2013",
+        "favourites_count": 83684,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 67352,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+        "profile_image_url_https": "https://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1059880832/1604578239",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": true,
+        "default_profile_image": true,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "es"
+}

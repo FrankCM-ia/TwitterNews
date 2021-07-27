@@ -1,0 +1,382 @@
+{
+    "created_at": "Wed Jul 14 02:02:09 +0000 2021",
+    "id": 1415129460748267525,
+    "id_str": "1415129460748267525",
+    "full_text": "RT @MijaelGLP: Se\u00f1or Director del @LUMoficial:\n\n1. El d\u00eda de la primera revoluci\u00f3n por derechos ciudadanos fue el 4 de julio de 1776. \n\n2.\u2026",
+    "truncated": false,
+    "display_text_range": [
+        0,
+        139
+    ],
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "MijaelGLP",
+                "name": "Mijael Garrido Lecca",
+                "id": 705775352,
+                "id_str": "705775352",
+                "indices": [
+                    3,
+                    13
+                ]
+            },
+            {
+                "screen_name": "LUMoficial",
+                "name": "Lugar de la Memoria \ud83c\uddf5\ud83c\uddea",
+                "id": 950480466,
+                "id_str": "950480466",
+                "indices": [
+                    34,
+                    45
+                ]
+            }
+        ],
+        "urls": []
+    },
+    "metadata": {
+        "iso_language_code": "es",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 2757602388,
+        "id_str": "2757602388",
+        "name": "Edwin Gongora",
+        "screen_name": "eagongoraluna",
+        "location": "",
+        "description": "",
+        "url": null,
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 59,
+        "friends_count": 183,
+        "listed_count": 0,
+        "created_at": "Sat Aug 23 04:02:45 +0000 2014",
+        "favourites_count": 33951,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 9169,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+        "profile_image_url_https": "https://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": true,
+        "default_profile_image": true,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+        "created_at": "Tue Jul 13 13:47:34 +0000 2021",
+        "id": 1414944596736544775,
+        "id_str": "1414944596736544775",
+        "full_text": "Se\u00f1or Director del @LUMoficial:\n\n1. El d\u00eda de la primera revoluci\u00f3n por derechos ciudadanos fue el 4 de julio de 1776. \n\n2. Ojal\u00e1 hubiera sido usted tan generoso de invitar al p\u00fablico a ver \u201c1214\u201d el documental de los m\u00e1rtires apristas asesinados por Sendero que se censur\u00f3. https://t.co/Cs8iErFdFV",
+        "truncated": false,
+        "display_text_range": [
+            0,
+            274
+        ],
+        "entities": {
+            "hashtags": [],
+            "symbols": [],
+            "user_mentions": [
+                {
+                    "screen_name": "LUMoficial",
+                    "name": "Lugar de la Memoria \ud83c\uddf5\ud83c\uddea",
+                    "id": 950480466,
+                    "id_str": "950480466",
+                    "indices": [
+                        19,
+                        30
+                    ]
+                }
+            ],
+            "urls": [
+                {
+                    "url": "https://t.co/Cs8iErFdFV",
+                    "expanded_url": "https://twitter.com/burgadia1/status/1414736691852627969",
+                    "display_url": "twitter.com/burgadia1/stat\u2026",
+                    "indices": [
+                        275,
+                        298
+                    ]
+                }
+            ]
+        },
+        "metadata": {
+            "iso_language_code": "es",
+            "result_type": "recent"
+        },
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 705775352,
+            "id_str": "705775352",
+            "name": "Mijael Garrido Lecca",
+            "screen_name": "MijaelGLP",
+            "location": "Lima, Per\u00fa. ",
+            "description": "Peruano. Aprista. Liberal.",
+            "url": null,
+            "entities": {
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 148579,
+            "friends_count": 1562,
+            "listed_count": 203,
+            "created_at": "Thu Jul 19 20:58:34 +0000 2012",
+            "favourites_count": 41342,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": true,
+            "verified": true,
+            "statuses_count": 24132,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "C0DEED",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1414761092425859077/Elo2ZBBd_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1414761092425859077/Elo2ZBBd_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/705775352/1622430337",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "has_extended_profile": false,
+            "default_profile": true,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none",
+            "withheld_in_countries": []
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": true,
+        "quoted_status_id": 1414736691852627969,
+        "quoted_status_id_str": "1414736691852627969",
+        "quoted_status": {
+            "created_at": "Tue Jul 13 00:01:26 +0000 2021",
+            "id": 1414736691852627969,
+            "id_str": "1414736691852627969",
+            "full_text": "El LUM invita en el d\u00eda de la primera revoluci\u00f3n por los derechos ciudadanos, 14 de Julio de 1789, a reflexiones muy pertinentes. https://t.co/g6THNd4Umj",
+            "truncated": false,
+            "display_text_range": [
+                0,
+                129
+            ],
+            "entities": {
+                "hashtags": [],
+                "symbols": [],
+                "user_mentions": [],
+                "urls": [],
+                "media": [
+                    {
+                        "id": 1414736681077518337,
+                        "id_str": "1414736681077518337",
+                        "indices": [
+                            130,
+                            153
+                        ],
+                        "media_url": "http://pbs.twimg.com/media/E6InhA5XMAErANN.jpg",
+                        "media_url_https": "https://pbs.twimg.com/media/E6InhA5XMAErANN.jpg",
+                        "url": "https://t.co/g6THNd4Umj",
+                        "display_url": "pic.twitter.com/g6THNd4Umj",
+                        "expanded_url": "https://twitter.com/BurgaDia1/status/1414736691852627969/photo/1",
+                        "type": "photo",
+                        "sizes": {
+                            "thumb": {
+                                "w": 150,
+                                "h": 150,
+                                "resize": "crop"
+                            },
+                            "medium": {
+                                "w": 898,
+                                "h": 1200,
+                                "resize": "fit"
+                            },
+                            "small": {
+                                "w": 509,
+                                "h": 680,
+                                "resize": "fit"
+                            },
+                            "large": {
+                                "w": 1080,
+                                "h": 1444,
+                                "resize": "fit"
+                            }
+                        }
+                    }
+                ]
+            },
+            "extended_entities": {
+                "media": [
+                    {
+                        "id": 1414736681077518337,
+                        "id_str": "1414736681077518337",
+                        "indices": [
+                            130,
+                            153
+                        ],
+                        "media_url": "http://pbs.twimg.com/media/E6InhA5XMAErANN.jpg",
+                        "media_url_https": "https://pbs.twimg.com/media/E6InhA5XMAErANN.jpg",
+                        "url": "https://t.co/g6THNd4Umj",
+                        "display_url": "pic.twitter.com/g6THNd4Umj",
+                        "expanded_url": "https://twitter.com/BurgaDia1/status/1414736691852627969/photo/1",
+                        "type": "photo",
+                        "sizes": {
+                            "thumb": {
+                                "w": 150,
+                                "h": 150,
+                                "resize": "crop"
+                            },
+                            "medium": {
+                                "w": 898,
+                                "h": 1200,
+                                "resize": "fit"
+                            },
+                            "small": {
+                                "w": 509,
+                                "h": 680,
+                                "resize": "fit"
+                            },
+                            "large": {
+                                "w": 1080,
+                                "h": 1444,
+                                "resize": "fit"
+                            }
+                        }
+                    }
+                ]
+            },
+            "metadata": {
+                "iso_language_code": "es",
+                "result_type": "recent"
+            },
+            "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+            "in_reply_to_status_id": null,
+            "in_reply_to_status_id_str": null,
+            "in_reply_to_user_id": null,
+            "in_reply_to_user_id_str": null,
+            "in_reply_to_screen_name": null,
+            "user": {
+                "id": 814899146436050944,
+                "id_str": "814899146436050944",
+                "name": "Manuel Burga Diaz",
+                "screen_name": "BurgaDia1",
+                "location": "Peru",
+                "description": "Historiador sanmarquino y director del @LUMoficial",
+                "url": null,
+                "entities": {
+                    "description": {
+                        "urls": []
+                    }
+                },
+                "protected": false,
+                "followers_count": 3551,
+                "friends_count": 2364,
+                "listed_count": 19,
+                "created_at": "Fri Dec 30 18:21:11 +0000 2016",
+                "favourites_count": 6697,
+                "utc_offset": null,
+                "time_zone": null,
+                "geo_enabled": true,
+                "verified": false,
+                "statuses_count": 10067,
+                "lang": null,
+                "contributors_enabled": false,
+                "is_translator": false,
+                "is_translation_enabled": false,
+                "profile_background_color": "F5F8FA",
+                "profile_background_image_url": null,
+                "profile_background_image_url_https": null,
+                "profile_background_tile": false,
+                "profile_image_url": "http://pbs.twimg.com/profile_images/1105594780023697415/CKCq43AM_normal.png",
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/1105594780023697415/CKCq43AM_normal.png",
+                "profile_link_color": "1DA1F2",
+                "profile_sidebar_border_color": "C0DEED",
+                "profile_sidebar_fill_color": "DDEEF6",
+                "profile_text_color": "333333",
+                "profile_use_background_image": true,
+                "has_extended_profile": true,
+                "default_profile": true,
+                "default_profile_image": false,
+                "following": false,
+                "follow_request_sent": false,
+                "notifications": false,
+                "translator_type": "none",
+                "withheld_in_countries": []
+            },
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "contributors": null,
+            "is_quote_status": false,
+            "retweet_count": 14,
+            "favorite_count": 45,
+            "favorited": false,
+            "retweeted": false,
+            "possibly_sensitive": false,
+            "lang": "es"
+        },
+        "retweet_count": 6,
+        "favorite_count": 37,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "es"
+    },
+    "is_quote_status": true,
+    "quoted_status_id": 1414736691852627969,
+    "quoted_status_id_str": "1414736691852627969",
+    "retweet_count": 6,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "es"
+}

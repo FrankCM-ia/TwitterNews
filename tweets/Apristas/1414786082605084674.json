@@ -1,0 +1,96 @@
+{
+    "created_at": "Tue Jul 13 03:17:42 +0000 2021",
+    "id": 1414786082605084674,
+    "id_str": "1414786082605084674",
+    "full_text": "@LuzSalgado_R Pronunciamiento de 2 pericotes apristas,\nUna rata fujimorista y el otro un impresentable\nPronunciamiento?\n\ud83d\ude02\ud83d\ude02\ud83d\ude02\ud83d\ude02\ud83d\ude02\ud83d\ude02\ud83d\ude02\ud83d\ude02\ud83d\ude02\ud83d\ude02\ud83d\ude02\n\nA los q van a ir preso por desacato,. Le digo q vayan buscando al negro de la celda 10, para q los apadrine y cumplan felices su condena... siiiiiiiii",
+    "truncated": false,
+    "display_text_range": [
+        14,
+        283
+    ],
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "LuzSalgado_R",
+                "name": "Luz Salgado",
+                "id": 486862376,
+                "id_str": "486862376",
+                "indices": [
+                    0,
+                    13
+                ]
+            }
+        ],
+        "urls": []
+    },
+    "metadata": {
+        "iso_language_code": "es",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "in_reply_to_status_id": 1414745290184314885,
+    "in_reply_to_status_id_str": "1414745290184314885",
+    "in_reply_to_user_id": 486862376,
+    "in_reply_to_user_id_str": "486862376",
+    "in_reply_to_screen_name": "LuzSalgado_R",
+    "user": {
+        "id": 1074177485225349121,
+        "id_str": "1074177485225349121",
+        "name": "Celestipailoder de corruptos",
+        "screen_name": "GilbertoCelest7",
+        "location": "Lima, Per\u00fa",
+        "description": "Soy paciente y tolerante en todo",
+        "url": null,
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 250,
+        "friends_count": 1086,
+        "listed_count": 0,
+        "created_at": "Sun Dec 16 05:40:44 +0000 2018",
+        "favourites_count": 12811,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 10320,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": null,
+        "profile_background_image_url_https": null,
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1074179162963726337/UY9SsBTf_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1074179162963726337/UY9SsBTf_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": true,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 1,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "es"
+}

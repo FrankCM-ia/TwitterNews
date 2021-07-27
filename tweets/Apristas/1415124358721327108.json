@@ -1,0 +1,106 @@
+{
+    "created_at": "Wed Jul 14 01:41:53 +0000 2021",
+    "id": 1415124358721327108,
+    "id_str": "1415124358721327108",
+    "full_text": "@sergiotej @PedroCastilloTe En EEUU les cancelaron su licencia de abogado a los que se prestaron para denunciar fraude sin pruebas. Aqu\u00ed el CAL lleno de Apristas, Fujis  y dem\u00e1s lacras nada hacen.\nImpunemente obstruyen la justicia, atentan contra la democracia y nadie hace nada",
+    "truncated": false,
+    "display_text_range": [
+        28,
+        278
+    ],
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "sergiotej",
+                "name": "Sergio Tejada",
+                "id": 80070602,
+                "id_str": "80070602",
+                "indices": [
+                    0,
+                    10
+                ]
+            },
+            {
+                "screen_name": "PedroCastilloTe",
+                "name": "Pedro Castillo Terrones",
+                "id": 1357969682683334657,
+                "id_str": "1357969682683334657",
+                "indices": [
+                    11,
+                    27
+                ]
+            }
+        ],
+        "urls": []
+    },
+    "metadata": {
+        "iso_language_code": "es",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "in_reply_to_status_id": 1415107952449568772,
+    "in_reply_to_status_id_str": "1415107952449568772",
+    "in_reply_to_user_id": 80070602,
+    "in_reply_to_user_id_str": "80070602",
+    "in_reply_to_screen_name": "sergiotej",
+    "user": {
+        "id": 2479405349,
+        "id_str": "2479405349",
+        "name": "Carlos Vizurraga",
+        "screen_name": "cvizur",
+        "location": "",
+        "description": "",
+        "url": null,
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 186,
+        "friends_count": 228,
+        "listed_count": 1,
+        "created_at": "Sat Apr 12 17:46:52 +0000 2014",
+        "favourites_count": 11086,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 24982,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/455054261639200769/SV4TXZDl_normal.jpeg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/455054261639200769/SV4TXZDl_normal.jpeg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": true,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 1,
+    "favorite_count": 5,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "es"
+}

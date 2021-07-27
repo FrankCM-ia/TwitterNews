@@ -1,0 +1,107 @@
+{
+    "created_at": "Wed Jul 14 13:04:25 +0000 2021",
+    "id": 1415296125158973441,
+    "id_str": "1415296125158973441",
+    "full_text": "@lillianromerof @rlopezaliaga1 La mayor\u00eda son fujimoristas y apristas \ud83e\udd37",
+    "truncated": false,
+    "display_text_range": [
+        31,
+        71
+    ],
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "lillianromerof",
+                "name": "Lillian",
+                "id": 325882590,
+                "id_str": "325882590",
+                "indices": [
+                    0,
+                    15
+                ]
+            },
+            {
+                "screen_name": "rlopezaliaga1",
+                "name": "Rafael L\u00f3pez Aliaga",
+                "id": 2492789645,
+                "id_str": "2492789645",
+                "indices": [
+                    16,
+                    30
+                ]
+            }
+        ],
+        "urls": []
+    },
+    "metadata": {
+        "iso_language_code": "es",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "in_reply_to_status_id": 1414614332126777345,
+    "in_reply_to_status_id_str": "1414614332126777345",
+    "in_reply_to_user_id": 325882590,
+    "in_reply_to_user_id_str": "325882590",
+    "in_reply_to_screen_name": "lillianromerof",
+    "user": {
+        "id": 208079101,
+        "id_str": "208079101",
+        "name": "Diana",
+        "screen_name": "dianillaz",
+        "location": "Barcelona, Espa\u00f1a",
+        "description": "Publicista de profesi\u00f3n, exploradora de coraz\u00f3n y comunicadora para ser feliz. Leo.",
+        "url": null,
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 219,
+        "friends_count": 577,
+        "listed_count": 4,
+        "created_at": "Tue Oct 26 15:56:02 +0000 2010",
+        "favourites_count": 14680,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 6819,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "01080A",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme3/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme3/bg.gif",
+        "profile_background_tile": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/718616127606284290/kH3G4mQd_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/718616127606284290/kH3G4mQd_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/208079101/1408550022",
+        "profile_link_color": "A82FA8",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "E6F6F9",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": true,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "es"
+}

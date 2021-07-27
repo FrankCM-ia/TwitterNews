@@ -1,0 +1,301 @@
+{
+    "created_at": "Wed Jul 14 00:45:58 +0000 2021",
+    "id": 1415110288689582080,
+    "id_str": "1415110288689582080",
+    "full_text": "RT @JDGALARZA425: Tuve el honor de compartir un mensaje de aliento a los cubanos reunidos afuera de la embajada de la dictadura, llevan con\u2026",
+    "truncated": false,
+    "display_text_range": [
+        0,
+        140
+    ],
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "JDGALARZA425",
+                "name": "Juan Diego Galarza",
+                "id": 586131623,
+                "id_str": "586131623",
+                "indices": [
+                    3,
+                    16
+                ]
+            }
+        ],
+        "urls": []
+    },
+    "metadata": {
+        "iso_language_code": "es",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 44015663,
+        "id_str": "44015663",
+        "name": "Mauro Vargas",
+        "screen_name": "Mauro_Vargas",
+        "location": "Per\u00fa",
+        "description": "Emprendedor, en busca del sentido com\u00fan y los buenos valores, defiendo la vida, humanista y muy deportista \ud83d\ude00\ud83d\udc4d\ud83c\udffc Amo a mi Familia \u2764\ufe0f y Adoro a Mi Per\u00fa \ud83c\uddf5\ud83c\uddea",
+        "url": null,
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 340,
+        "friends_count": 2381,
+        "listed_count": 0,
+        "created_at": "Tue Jun 02 00:32:33 +0000 2009",
+        "favourites_count": 8249,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 6425,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "C6E2EE",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1400672369115598848/55O4pK56_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1400672369115598848/55O4pK56_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/44015663/1626133187",
+        "profile_link_color": "1F98C7",
+        "profile_sidebar_border_color": "C6E2EE",
+        "profile_sidebar_fill_color": "DAECF4",
+        "profile_text_color": "663B12",
+        "profile_use_background_image": true,
+        "has_extended_profile": true,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+        "created_at": "Wed Jul 14 00:33:39 +0000 2021",
+        "id": 1415107185726697472,
+        "id_str": "1415107185726697472",
+        "full_text": "Tuve el honor de compartir un mensaje de aliento a los cubanos reunidos afuera de la embajada de la dictadura, llevan consigo mucho dolor por lo que sigue pasando en su pa\u00eds. \u00a1Los apristas y los ciudadanos de bien no los abandonaremos! #SOSCuba https://t.co/vYZiT0SB9W",
+        "truncated": false,
+        "display_text_range": [
+            0,
+            244
+        ],
+        "entities": {
+            "hashtags": [
+                {
+                    "text": "SOSCuba",
+                    "indices": [
+                        236,
+                        244
+                    ]
+                }
+            ],
+            "symbols": [],
+            "user_mentions": [],
+            "urls": [],
+            "media": [
+                {
+                    "id": 1415104781329305600,
+                    "id_str": "1415104781329305600",
+                    "indices": [
+                        245,
+                        268
+                    ],
+                    "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1415104781329305600/pu/img/lw2HbJjUOoX0FNGh.jpg",
+                    "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1415104781329305600/pu/img/lw2HbJjUOoX0FNGh.jpg",
+                    "url": "https://t.co/vYZiT0SB9W",
+                    "display_url": "pic.twitter.com/vYZiT0SB9W",
+                    "expanded_url": "https://twitter.com/JDGALARZA425/status/1415107185726697472/video/1",
+                    "type": "photo",
+                    "sizes": {
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "large": {
+                            "w": 848,
+                            "h": 480,
+                            "resize": "fit"
+                        },
+                        "medium": {
+                            "w": 848,
+                            "h": 480,
+                            "resize": "fit"
+                        },
+                        "small": {
+                            "w": 680,
+                            "h": 385,
+                            "resize": "fit"
+                        }
+                    }
+                }
+            ]
+        },
+        "extended_entities": {
+            "media": [
+                {
+                    "id": 1415104781329305600,
+                    "id_str": "1415104781329305600",
+                    "indices": [
+                        245,
+                        268
+                    ],
+                    "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1415104781329305600/pu/img/lw2HbJjUOoX0FNGh.jpg",
+                    "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1415104781329305600/pu/img/lw2HbJjUOoX0FNGh.jpg",
+                    "url": "https://t.co/vYZiT0SB9W",
+                    "display_url": "pic.twitter.com/vYZiT0SB9W",
+                    "expanded_url": "https://twitter.com/JDGALARZA425/status/1415107185726697472/video/1",
+                    "type": "video",
+                    "sizes": {
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "large": {
+                            "w": 848,
+                            "h": 480,
+                            "resize": "fit"
+                        },
+                        "medium": {
+                            "w": 848,
+                            "h": 480,
+                            "resize": "fit"
+                        },
+                        "small": {
+                            "w": 680,
+                            "h": 385,
+                            "resize": "fit"
+                        }
+                    },
+                    "video_info": {
+                        "aspect_ratio": [
+                            53,
+                            30
+                        ],
+                        "duration_millis": 90968,
+                        "variants": [
+                            {
+                                "bitrate": 256000,
+                                "content_type": "video/mp4",
+                                "url": "https://video.twimg.com/ext_tw_video/1415104781329305600/pu/vid/476x270/kKkYsmhvx2fYHQdR.mp4?tag=12"
+                            },
+                            {
+                                "bitrate": 832000,
+                                "content_type": "video/mp4",
+                                "url": "https://video.twimg.com/ext_tw_video/1415104781329305600/pu/vid/636x360/-v0Zo_gOhnQXMwzg.mp4?tag=12"
+                            },
+                            {
+                                "bitrate": 2176000,
+                                "content_type": "video/mp4",
+                                "url": "https://video.twimg.com/ext_tw_video/1415104781329305600/pu/vid/848x480/8EveWIJAK-ZMD_Bq.mp4?tag=12"
+                            },
+                            {
+                                "content_type": "application/x-mpegURL",
+                                "url": "https://video.twimg.com/ext_tw_video/1415104781329305600/pu/pl/jfmrpeRvToplguBt.m3u8?tag=12&container=fmp4"
+                            }
+                        ]
+                    },
+                    "additional_media_info": {
+                        "monetizable": false
+                    }
+                }
+            ]
+        },
+        "metadata": {
+            "iso_language_code": "es",
+            "result_type": "recent"
+        },
+        "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 586131623,
+            "id_str": "586131623",
+            "name": "Juan Diego Galarza",
+            "screen_name": "JDGALARZA425",
+            "location": "Lima",
+            "description": "La masa no analiza, la masa sintetiza. Si detestas a los comunistas deber\u00edas seguir este perfil.",
+            "url": null,
+            "entities": {
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 307,
+            "friends_count": 380,
+            "listed_count": 3,
+            "created_at": "Mon May 21 01:15:03 +0000 2012",
+            "favourites_count": 2334,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": true,
+            "verified": false,
+            "statuses_count": 3390,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "63A1FF",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1376681279329087501/aFh3VhtA_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1376681279329087501/aFh3VhtA_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/586131623/1413940588",
+            "profile_link_color": "63A1FF",
+            "profile_sidebar_border_color": "FFFFFF",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "has_extended_profile": false,
+            "default_profile": false,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none",
+            "withheld_in_countries": []
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 2,
+        "favorite_count": 4,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "es"
+    },
+    "is_quote_status": false,
+    "retweet_count": 2,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "es"
+}

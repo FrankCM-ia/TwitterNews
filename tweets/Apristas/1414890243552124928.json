@@ -1,0 +1,96 @@
+{
+    "created_at": "Tue Jul 13 10:11:36 +0000 2021",
+    "id": 1414890243552124928,
+    "id_str": "1414890243552124928",
+    "full_text": "@LuzSalgado_R 7 firmas en total, de las cuales 4 son apristas. El Apra ya no existe; por tanto, no representan a nadie. V\u00e1yanse a la calle a recolectar firmas, a ver si logran su reinscripci\u00f3n. S\u00f3lo entonces, atr\u00e9vanse a emitir opini\u00f3n. Ahora son cad\u00e1veres pol\u00edticos y los muertos no hablan.",
+    "truncated": false,
+    "display_text_range": [
+        14,
+        291
+    ],
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "LuzSalgado_R",
+                "name": "Luz Salgado",
+                "id": 486862376,
+                "id_str": "486862376",
+                "indices": [
+                    0,
+                    13
+                ]
+            }
+        ],
+        "urls": []
+    },
+    "metadata": {
+        "iso_language_code": "es",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "in_reply_to_status_id": 1414745290184314885,
+    "in_reply_to_status_id_str": "1414745290184314885",
+    "in_reply_to_user_id": 486862376,
+    "in_reply_to_user_id_str": "486862376",
+    "in_reply_to_screen_name": "LuzSalgado_R",
+    "user": {
+        "id": 2227942633,
+        "id_str": "2227942633",
+        "name": "Alan CT",
+        "screen_name": "alanconchatumay",
+        "location": "",
+        "description": "Cr\u00edtico critic\u00f3n.",
+        "url": null,
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 3,
+        "friends_count": 125,
+        "listed_count": 0,
+        "created_at": "Tue Dec 03 08:13:50 +0000 2013",
+        "favourites_count": 1553,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 377,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/378800000823875533/34119fe7cb195bf63c7b5f32e742f075_normal.jpeg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/378800000823875533/34119fe7cb195bf63c7b5f32e742f075_normal.jpeg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "es"
+}

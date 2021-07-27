@@ -1,0 +1,283 @@
+{
+    "created_at": "Wed Jul 14 12:23:12 +0000 2021",
+    "id": 1415285751684780036,
+    "id_str": "1415285751684780036",
+    "full_text": "Apristas de \ud83d\udca9 https://t.co/rZSeOBGjAS",
+    "truncated": false,
+    "display_text_range": [
+        0,
+        13
+    ],
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+            {
+                "url": "https://t.co/rZSeOBGjAS",
+                "expanded_url": "https://twitter.com/PeruPressTv/status/1415098096002940934",
+                "display_url": "twitter.com/PeruPressTv/st\u2026",
+                "indices": [
+                    14,
+                    37
+                ]
+            }
+        ]
+    },
+    "metadata": {
+        "iso_language_code": "es",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 3398960044,
+        "id_str": "3398960044",
+        "name": "AstroCuy",
+        "screen_name": "MartinVolatil",
+        "location": "",
+        "description": "amigo imaginario",
+        "url": null,
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 137,
+        "friends_count": 533,
+        "listed_count": 0,
+        "created_at": "Sat Aug 01 16:24:09 +0000 2015",
+        "favourites_count": 37786,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 6406,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1386238490069831680/z1VvqLs6_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1386238490069831680/z1VvqLs6_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/3398960044/1619383623",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": true,
+    "quoted_status_id": 1415098096002940934,
+    "quoted_status_id_str": "1415098096002940934",
+    "quoted_status": {
+        "created_at": "Tue Jul 13 23:57:31 +0000 2021",
+        "id": 1415098096002940934,
+        "id_str": "1415098096002940934",
+        "full_text": "El estudio jur\u00eddico de V\u00edctor Otoya Petit, exmilitante del APRA y actual partidario de Avanza Pa\u00eds, del excandidato Hernando de Soto, present\u00f3 tres medidas cautelares ante el Poder Judicial, con el objetivo de evitar que el JNE proclame al ganador de las elecciones. (1/4) https://t.co/IIAkjiH8dc",
+        "truncated": false,
+        "display_text_range": [
+            0,
+            272
+        ],
+        "entities": {
+            "hashtags": [],
+            "symbols": [],
+            "user_mentions": [],
+            "urls": [],
+            "media": [
+                {
+                    "id": 1415092182004998147,
+                    "id_str": "1415092182004998147",
+                    "indices": [
+                        273,
+                        296
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/E6Nq15DXIAM4SNx.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/E6Nq15DXIAM4SNx.jpg",
+                    "url": "https://t.co/IIAkjiH8dc",
+                    "display_url": "pic.twitter.com/IIAkjiH8dc",
+                    "expanded_url": "https://twitter.com/PeruPressTv/status/1415098096002940934/photo/1",
+                    "type": "photo",
+                    "sizes": {
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "medium": {
+                            "w": 1024,
+                            "h": 567,
+                            "resize": "fit"
+                        },
+                        "large": {
+                            "w": 1024,
+                            "h": 567,
+                            "resize": "fit"
+                        },
+                        "small": {
+                            "w": 680,
+                            "h": 377,
+                            "resize": "fit"
+                        }
+                    }
+                }
+            ]
+        },
+        "extended_entities": {
+            "media": [
+                {
+                    "id": 1415092182004998147,
+                    "id_str": "1415092182004998147",
+                    "indices": [
+                        273,
+                        296
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/E6Nq15DXIAM4SNx.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/E6Nq15DXIAM4SNx.jpg",
+                    "url": "https://t.co/IIAkjiH8dc",
+                    "display_url": "pic.twitter.com/IIAkjiH8dc",
+                    "expanded_url": "https://twitter.com/PeruPressTv/status/1415098096002940934/photo/1",
+                    "type": "photo",
+                    "sizes": {
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "medium": {
+                            "w": 1024,
+                            "h": 567,
+                            "resize": "fit"
+                        },
+                        "large": {
+                            "w": 1024,
+                            "h": 567,
+                            "resize": "fit"
+                        },
+                        "small": {
+                            "w": 680,
+                            "h": 377,
+                            "resize": "fit"
+                        }
+                    }
+                }
+            ]
+        },
+        "metadata": {
+            "iso_language_code": "es",
+            "result_type": "recent"
+        },
+        "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 758127937568792576,
+            "id_str": "758127937568792576",
+            "name": "Per\u00fa Press",
+            "screen_name": "PeruPressTv",
+            "location": "Peru",
+            "description": "Prensa participativa e independiente\nPol\u00edtica y sociedad\n\nInstagram: https://t.co/pxUYcNbStn\nFacebook: https://t.co/hDTnDwuDjg",
+            "url": null,
+            "entities": {
+                "description": {
+                    "urls": [
+                        {
+                            "url": "https://t.co/pxUYcNbStn",
+                            "expanded_url": "http://bit.ly/3aIwf2E",
+                            "display_url": "bit.ly/3aIwf2E",
+                            "indices": [
+                                69,
+                                92
+                            ]
+                        },
+                        {
+                            "url": "https://t.co/hDTnDwuDjg",
+                            "expanded_url": "http://bit.ly/3mT7iUG",
+                            "display_url": "bit.ly/3mT7iUG",
+                            "indices": [
+                                103,
+                                126
+                            ]
+                        }
+                    ]
+                }
+            },
+            "protected": false,
+            "followers_count": 5408,
+            "friends_count": 117,
+            "listed_count": 29,
+            "created_at": "Wed Jul 27 02:32:40 +0000 2016",
+            "favourites_count": 0,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": false,
+            "verified": false,
+            "statuses_count": 18672,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "000000",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1359646802144821248/yoahYywo_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1359646802144821248/yoahYywo_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/758127937568792576/1609801315",
+            "profile_link_color": "FAB81E",
+            "profile_sidebar_border_color": "000000",
+            "profile_sidebar_fill_color": "000000",
+            "profile_text_color": "000000",
+            "profile_use_background_image": false,
+            "has_extended_profile": false,
+            "default_profile": false,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none",
+            "withheld_in_countries": []
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 65,
+        "favorite_count": 94,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "es"
+    },
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "es"
+}

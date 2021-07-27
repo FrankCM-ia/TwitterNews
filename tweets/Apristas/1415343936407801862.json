@@ -1,0 +1,220 @@
+{
+    "created_at": "Wed Jul 14 16:14:24 +0000 2021",
+    "id": 1415343936407801862,
+    "id_str": "1415343936407801862",
+    "full_text": "@tanquedecasma @esquinabaja @mildemonios @MonicaYaya @hernanismo @PolloFarsantePe @yturbe_ @Bellatrixtoo @lagringaroca @DivaQuintanil @tromepe @ExpresoPeru Esa se\u00f1ora se debe medicar o la deben ya de internar.\nAy pero que bonito ser\u00eda si regresar\u00e1n los apristas del pasado, la onpe estar\u00eda hasta dispuesta de colaborar por las presiones.",
+    "truncated": false,
+    "display_text_range": [
+        156,
+        337
+    ],
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "tanquedecasma",
+                "name": "Ernesto Carlin",
+                "id": 54119173,
+                "id_str": "54119173",
+                "indices": [
+                    0,
+                    14
+                ]
+            },
+            {
+                "screen_name": "esquinabaja",
+                "name": "Carla Garc\u00eda B \ud83d\udc9a",
+                "id": 19729967,
+                "id_str": "19729967",
+                "indices": [
+                    15,
+                    27
+                ]
+            },
+            {
+                "screen_name": "mildemonios",
+                "name": "mildemonios",
+                "id": 17942192,
+                "id_str": "17942192",
+                "indices": [
+                    28,
+                    40
+                ]
+            },
+            {
+                "screen_name": "MonicaYaya",
+                "name": "M\u00f2nica Yaya",
+                "id": 102803486,
+                "id_str": "102803486",
+                "indices": [
+                    41,
+                    52
+                ]
+            },
+            {
+                "screen_name": "hernanismo",
+                "name": "Hern\u00e1n Hurtado",
+                "id": 442283723,
+                "id_str": "442283723",
+                "indices": [
+                    53,
+                    64
+                ]
+            },
+            {
+                "screen_name": "PolloFarsantePe",
+                "name": "ElPolloFarsante",
+                "id": 1409887097838841857,
+                "id_str": "1409887097838841857",
+                "indices": [
+                    65,
+                    81
+                ]
+            },
+            {
+                "screen_name": "yturbe_",
+                "name": "Ricardo Yturbe",
+                "id": 54095033,
+                "id_str": "54095033",
+                "indices": [
+                    82,
+                    90
+                ]
+            },
+            {
+                "screen_name": "Bellatrixtoo",
+                "name": "Uchy",
+                "id": 992927353742520321,
+                "id_str": "992927353742520321",
+                "indices": [
+                    91,
+                    104
+                ]
+            },
+            {
+                "screen_name": "lagringaroca",
+                "name": "lagringaroca",
+                "id": 177693355,
+                "id_str": "177693355",
+                "indices": [
+                    105,
+                    118
+                ]
+            },
+            {
+                "screen_name": "DivaQuintanil",
+                "name": "Diva \ud83e\udd8b \ud83d\udc03",
+                "id": 915902213205217280,
+                "id_str": "915902213205217280",
+                "indices": [
+                    119,
+                    133
+                ]
+            },
+            {
+                "screen_name": "tromepe",
+                "name": "Diario Trome",
+                "id": 125737181,
+                "id_str": "125737181",
+                "indices": [
+                    134,
+                    142
+                ]
+            },
+            {
+                "screen_name": "ExpresoPeru",
+                "name": "Diario Expreso",
+                "id": 225232891,
+                "id_str": "225232891",
+                "indices": [
+                    143,
+                    155
+                ]
+            }
+        ],
+        "urls": []
+    },
+    "metadata": {
+        "iso_language_code": "es",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "in_reply_to_status_id": 1415231177535991809,
+    "in_reply_to_status_id_str": "1415231177535991809",
+    "in_reply_to_user_id": 54119173,
+    "in_reply_to_user_id_str": "54119173",
+    "in_reply_to_screen_name": "tanquedecasma",
+    "user": {
+        "id": 1403065935246893061,
+        "id_str": "1403065935246893061",
+        "name": "Luzmila Ruiz",
+        "screen_name": "LuzmilaRuiz5",
+        "location": "Trujillo, Peru",
+        "description": "Peruana \ud83c\uddf5\ud83c\uddea\n/19.\n\u00danico Instagram: Luzmila Ruiz \ud83d\udc47",
+        "url": "https://t.co/p9ftUFujVm",
+        "entities": {
+            "url": {
+                "urls": [
+                    {
+                        "url": "https://t.co/p9ftUFujVm",
+                        "expanded_url": "https://www.instagram.com/ruiz_luzmila31?r=nametag",
+                        "display_url": "instagram.com/ruiz_luzmila31\u2026",
+                        "indices": [
+                            0,
+                            23
+                        ]
+                    }
+                ]
+            },
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 332,
+        "friends_count": 185,
+        "listed_count": 0,
+        "created_at": "Thu Jun 10 19:06:11 +0000 2021",
+        "favourites_count": 8751,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 2778,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": null,
+        "profile_background_image_url_https": null,
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1413961966457085956/88PMbSdP_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1413961966457085956/88PMbSdP_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1403065935246893061/1625975601",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": true,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 1,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "es"
+}

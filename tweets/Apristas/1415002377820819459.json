@@ -1,0 +1,216 @@
+{
+    "created_at": "Tue Jul 13 17:37:11 +0000 2021",
+    "id": 1415002377820819459,
+    "id_str": "1415002377820819459",
+    "full_text": "RT @yosefvasquez: @MijaelGLP No te preocupes, no son apristas \ud83d\ude01",
+    "truncated": false,
+    "display_text_range": [
+        0,
+        63
+    ],
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "yosefvasquez",
+                "name": "Yosef Vasquez \ud83c\udfa7",
+                "id": 617008659,
+                "id_str": "617008659",
+                "indices": [
+                    3,
+                    16
+                ]
+            },
+            {
+                "screen_name": "MijaelGLP",
+                "name": "Mijael Garrido Lecca",
+                "id": 705775352,
+                "id_str": "705775352",
+                "indices": [
+                    18,
+                    28
+                ]
+            }
+        ],
+        "urls": []
+    },
+    "metadata": {
+        "iso_language_code": "es",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 1381508138579419136,
+        "id_str": "1381508138579419136",
+        "name": "Erick Chavez",
+        "screen_name": "erickch84346698",
+        "location": "",
+        "description": "Ingeniero Civil Peruano",
+        "url": null,
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 32,
+        "friends_count": 624,
+        "listed_count": 0,
+        "created_at": "Mon Apr 12 07:23:12 +0000 2021",
+        "favourites_count": 9826,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 7461,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": null,
+        "profile_background_image_url_https": null,
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1381508509443973121/_APumwt4_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1381508509443973121/_APumwt4_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": true,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+        "created_at": "Tue Jul 13 14:48:40 +0000 2021",
+        "id": 1414959972249743363,
+        "id_str": "1414959972249743363",
+        "full_text": "@MijaelGLP No te preocupes, no son apristas \ud83d\ude01",
+        "truncated": false,
+        "display_text_range": [
+            11,
+            45
+        ],
+        "entities": {
+            "hashtags": [],
+            "symbols": [],
+            "user_mentions": [
+                {
+                    "screen_name": "MijaelGLP",
+                    "name": "Mijael Garrido Lecca",
+                    "id": 705775352,
+                    "id_str": "705775352",
+                    "indices": [
+                        0,
+                        10
+                    ]
+                }
+            ],
+            "urls": []
+        },
+        "metadata": {
+            "iso_language_code": "es",
+            "result_type": "recent"
+        },
+        "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+        "in_reply_to_status_id": 1414946892077838343,
+        "in_reply_to_status_id_str": "1414946892077838343",
+        "in_reply_to_user_id": 705775352,
+        "in_reply_to_user_id_str": "705775352",
+        "in_reply_to_screen_name": "MijaelGLP",
+        "user": {
+            "id": 617008659,
+            "id_str": "617008659",
+            "name": "Yosef Vasquez \ud83c\udfa7",
+            "screen_name": "yosefvasquez",
+            "location": "Torino, Italia",
+            "description": "Peruvian Young man. Computer Engineer from PoliTo, Columnist from Facebook and Musician from the street.\nBloqueado x la derecha y x la izquierda \ud83d\ude05",
+            "url": "https://t.co/fXawB3VvgI",
+            "entities": {
+                "url": {
+                    "urls": [
+                        {
+                            "url": "https://t.co/fXawB3VvgI",
+                            "expanded_url": "https://civico75.wixsite.com/thescribepost",
+                            "display_url": "civico75.wixsite.com/thescribepost",
+                            "indices": [
+                                0,
+                                23
+                            ]
+                        }
+                    ]
+                },
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 68,
+            "friends_count": 313,
+            "listed_count": 0,
+            "created_at": "Sun Jun 24 08:46:37 +0000 2012",
+            "favourites_count": 1203,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": true,
+            "verified": false,
+            "statuses_count": 723,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "C0DEED",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": true,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/819612108669198336/zhiYqVuc_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/819612108669198336/zhiYqVuc_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/617008659/1484245765",
+            "profile_link_color": "FF691F",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "has_extended_profile": true,
+            "default_profile": false,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none",
+            "withheld_in_countries": []
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 1,
+        "favorite_count": 3,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "es"
+    },
+    "is_quote_status": false,
+    "retweet_count": 1,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "es"
+}

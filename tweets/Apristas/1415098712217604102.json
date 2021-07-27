@@ -1,0 +1,157 @@
+{
+    "created_at": "Tue Jul 13 23:59:58 +0000 2021",
+    "id": 1415098712217604102,
+    "id_str": "1415098712217604102",
+    "full_text": "@Silvia80455562 @John_JairoHA @ProDeoEtPatria7 @KikesitoRPP @poder_judicial @Elvia_BarriosAl @RPPNoticias Puedes consultarle a los apristas que estan dentro de ese grupo tambien \ud83e\udd21\ud83e\udd21\ud83e\udd21\ud83e\udd21",
+    "truncated": false,
+    "display_text_range": [
+        106,
+        182
+    ],
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "Silvia80455562",
+                "name": "Silvia",
+                "id": 1328961840773292035,
+                "id_str": "1328961840773292035",
+                "indices": [
+                    0,
+                    15
+                ]
+            },
+            {
+                "screen_name": "John_JairoHA",
+                "name": "Jairo Hernandez",
+                "id": 1343710851061198852,
+                "id_str": "1343710851061198852",
+                "indices": [
+                    16,
+                    29
+                ]
+            },
+            {
+                "screen_name": "ProDeoEtPatria7",
+                "name": "L.V.X.",
+                "id": 1024824002211196928,
+                "id_str": "1024824002211196928",
+                "indices": [
+                    30,
+                    46
+                ]
+            },
+            {
+                "screen_name": "KikesitoRPP",
+                "name": "Carlos Villarreal",
+                "id": 1392981626485882880,
+                "id_str": "1392981626485882880",
+                "indices": [
+                    47,
+                    59
+                ]
+            },
+            {
+                "screen_name": "poder_judicial",
+                "name": "Poder Judicial",
+                "id": 177691496,
+                "id_str": "177691496",
+                "indices": [
+                    60,
+                    75
+                ]
+            },
+            {
+                "screen_name": "Elvia_BarriosAl",
+                "name": "Elvia Barrios Alvarado",
+                "id": 1334622698404712451,
+                "id_str": "1334622698404712451",
+                "indices": [
+                    76,
+                    92
+                ]
+            },
+            {
+                "screen_name": "RPPNoticias",
+                "name": "RPP Noticias",
+                "id": 9075022,
+                "id_str": "9075022",
+                "indices": [
+                    93,
+                    105
+                ]
+            }
+        ],
+        "urls": []
+    },
+    "metadata": {
+        "iso_language_code": "es",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "in_reply_to_status_id": 1415098439852077058,
+    "in_reply_to_status_id_str": "1415098439852077058",
+    "in_reply_to_user_id": 1328961840773292035,
+    "in_reply_to_user_id_str": "1328961840773292035",
+    "in_reply_to_screen_name": "Silvia80455562",
+    "user": {
+        "id": 2244852451,
+        "id_str": "2244852451",
+        "name": "Joshua01",
+        "screen_name": "Joshua_s01",
+        "location": "",
+        "description": "",
+        "url": null,
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 36,
+        "friends_count": 500,
+        "listed_count": 0,
+        "created_at": "Sat Dec 14 02:23:08 +0000 2013",
+        "favourites_count": 9823,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 12318,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/941519662600290304/-M82MnYg_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/941519662600290304/-M82MnYg_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2244852451/1513310640",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "es"
+}

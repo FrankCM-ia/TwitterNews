@@ -1,0 +1,117 @@
+{
+    "created_at": "Tue Jul 13 02:04:54 +0000 2021",
+    "id": 1414767763520954369,
+    "id_str": "1414767763520954369",
+    "full_text": "@ereynaabogado @alvarosarco @TC_Peru Que? solo hubo apristas? ay pf se\u00f1or. Est\u00e1 bien q quieran que Keiko salga porque va de la mano con sus intereses, pero ya paso las elecciones y perdi\u00f3. No se dan cuenta que los ciudadanos la luchamos a diario para alcanzar fin de mes y tratar de cumplir nuestras obligaciones?",
+    "truncated": false,
+    "display_text_range": [
+        37,
+        313
+    ],
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "ereynaabogado",
+                "name": "Erasmo Reyna",
+                "id": 1237286593,
+                "id_str": "1237286593",
+                "indices": [
+                    0,
+                    14
+                ]
+            },
+            {
+                "screen_name": "alvarosarco",
+                "name": "\u00c1lvaro Sarco \ud83c\uddf5\ud83c\uddea",
+                "id": 136649244,
+                "id_str": "136649244",
+                "indices": [
+                    15,
+                    27
+                ]
+            },
+            {
+                "screen_name": "TC_Peru",
+                "name": "Tribunal Constitucional del Per\u00fa",
+                "id": 269982019,
+                "id_str": "269982019",
+                "indices": [
+                    28,
+                    36
+                ]
+            }
+        ],
+        "urls": []
+    },
+    "metadata": {
+        "iso_language_code": "es",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "in_reply_to_status_id": 1414710427209146379,
+    "in_reply_to_status_id_str": "1414710427209146379",
+    "in_reply_to_user_id": 1237286593,
+    "in_reply_to_user_id_str": "1237286593",
+    "in_reply_to_screen_name": "ereynaabogado",
+    "user": {
+        "id": 134246984,
+        "id_str": "134246984",
+        "name": "Betty Delgadillo",
+        "screen_name": "Dianishca",
+        "location": "Arequipa - Peru",
+        "description": "Amo a mi patria, hered\u00e9 de mi padre. Defiendo a cualquier partido que defienda la democracia y luche contra la corrupci\u00f3n. En desacuerdo con gente inescrupulosa",
+        "url": null,
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 53,
+        "friends_count": 267,
+        "listed_count": 0,
+        "created_at": "Sat Apr 17 21:52:47 +0000 2010",
+        "favourites_count": 12553,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 6078,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "FF6699",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme11/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme11/bg.gif",
+        "profile_background_tile": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1384966992017465346/3VPb3hp8_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1384966992017465346/3VPb3hp8_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/134246984/1593878476",
+        "profile_link_color": "B40B43",
+        "profile_sidebar_border_color": "CC3366",
+        "profile_sidebar_fill_color": "E5507E",
+        "profile_text_color": "362720",
+        "profile_use_background_image": true,
+        "has_extended_profile": true,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 1,
+    "favorite_count": 3,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "es"
+}

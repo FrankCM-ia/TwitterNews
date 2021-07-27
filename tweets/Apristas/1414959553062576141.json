@@ -1,0 +1,96 @@
+{
+    "created_at": "Tue Jul 13 14:47:00 +0000 2021",
+    "id": 1414959553062576141,
+    "id_str": "1414959553062576141",
+    "full_text": "@exitosape y q hace petroperu, \u00bfpara eso tenemos una empresa estatal?mejor liquidemoslo, es un nido de ratas apristas, zanganos, q no producen ganancias solo perdidas",
+    "truncated": false,
+    "display_text_range": [
+        11,
+        166
+    ],
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "exitosape",
+                "name": "Exitosa Noticias",
+                "id": 2205328350,
+                "id_str": "2205328350",
+                "indices": [
+                    0,
+                    10
+                ]
+            }
+        ],
+        "urls": []
+    },
+    "metadata": {
+        "iso_language_code": "es",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "in_reply_to_status_id": 1414933478630510595,
+    "in_reply_to_status_id_str": "1414933478630510595",
+    "in_reply_to_user_id": 2205328350,
+    "in_reply_to_user_id_str": "2205328350",
+    "in_reply_to_screen_name": "exitosape",
+    "user": {
+        "id": 1414756687635001346,
+        "id_str": "1414756687635001346",
+        "name": "elrafael",
+        "screen_name": "elrafae02457964",
+        "location": "",
+        "description": "",
+        "url": null,
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 0,
+        "friends_count": 0,
+        "listed_count": 0,
+        "created_at": "Tue Jul 13 01:21:18 +0000 2021",
+        "favourites_count": 0,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 17,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": null,
+        "profile_background_image_url_https": null,
+        "profile_background_tile": false,
+        "profile_image_url": "http://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+        "profile_image_url_https": "https://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": true,
+        "default_profile": true,
+        "default_profile_image": true,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 1,
+    "favorite_count": 1,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "es"
+}

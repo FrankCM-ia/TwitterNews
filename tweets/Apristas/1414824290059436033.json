@@ -1,0 +1,176 @@
+{
+    "created_at": "Tue Jul 13 05:49:31 +0000 2021",
+    "id": 1414824290059436033,
+    "id_str": "1414824290059436033",
+    "full_text": "@japturbo2000 @David02068251 @butters_of @Alex12363682116 @FelipeFcls @Jvcconsulting03 @lvaroOssa3 @FSagasti @FiscaliaPeru Lacras? Los fujimoristas y apristas y los dem\u00e1s esbirros como Lul\u00fa q teme ir presa. Ahhh incluye al ceboso psic\u00f3pata",
+    "truncated": false,
+    "display_text_range": [
+        123,
+        239
+    ],
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "japturbo2000",
+                "name": "CabezaDeTom/Lisurata \ud83d\ude2c\ud83d\ude20\ud83d\ude21",
+                "id": 312093294,
+                "id_str": "312093294",
+                "indices": [
+                    0,
+                    13
+                ]
+            },
+            {
+                "screen_name": "David02068251",
+                "name": "David V",
+                "id": 1350958931879878664,
+                "id_str": "1350958931879878664",
+                "indices": [
+                    14,
+                    28
+                ]
+            },
+            {
+                "screen_name": "butters_of",
+                "name": "Phillip Butterss",
+                "id": 1402413244313214979,
+                "id_str": "1402413244313214979",
+                "indices": [
+                    29,
+                    40
+                ]
+            },
+            {
+                "screen_name": "Alex12363682116",
+                "name": "Jean Capitalista",
+                "id": 1389710458437914624,
+                "id_str": "1389710458437914624",
+                "indices": [
+                    41,
+                    57
+                ]
+            },
+            {
+                "screen_name": "FelipeFcls",
+                "name": "Felipe Cesar Llauri",
+                "id": 2981986589,
+                "id_str": "2981986589",
+                "indices": [
+                    58,
+                    69
+                ]
+            },
+            {
+                "screen_name": "Jvcconsulting03",
+                "name": "Julio Alejandro",
+                "id": 47334163,
+                "id_str": "47334163",
+                "indices": [
+                    70,
+                    86
+                ]
+            },
+            {
+                "screen_name": "lvaroOssa3",
+                "name": "WALLACE",
+                "id": 1361782931056951302,
+                "id_str": "1361782931056951302",
+                "indices": [
+                    87,
+                    98
+                ]
+            },
+            {
+                "screen_name": "FSagasti",
+                "name": "Francisco Sagasti",
+                "id": 472996281,
+                "id_str": "472996281",
+                "indices": [
+                    99,
+                    108
+                ]
+            },
+            {
+                "screen_name": "FiscaliaPeru",
+                "name": "Ministerio P\u00fablico",
+                "id": 302151609,
+                "id_str": "302151609",
+                "indices": [
+                    109,
+                    122
+                ]
+            }
+        ],
+        "urls": []
+    },
+    "metadata": {
+        "iso_language_code": "es",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "in_reply_to_status_id": 1414821426864005122,
+    "in_reply_to_status_id_str": "1414821426864005122",
+    "in_reply_to_user_id": 312093294,
+    "in_reply_to_user_id_str": "312093294",
+    "in_reply_to_screen_name": "japturbo2000",
+    "user": {
+        "id": 1253067814736297984,
+        "id_str": "1253067814736297984",
+        "name": "Paolo",
+        "screen_name": "Sorcdtm",
+        "location": "",
+        "description": "sab\u00edas que V Montesinos bes\u00f3 al Narco Vaticano????",
+        "url": null,
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 262,
+        "friends_count": 207,
+        "listed_count": 1,
+        "created_at": "Wed Apr 22 21:07:15 +0000 2020",
+        "favourites_count": 40761,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 44141,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": null,
+        "profile_background_image_url_https": null,
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1400229988096413699/apOWlaXM_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1400229988096413699/apOWlaXM_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "es"
+}

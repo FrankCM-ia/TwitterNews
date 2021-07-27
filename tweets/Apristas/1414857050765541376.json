@@ -1,0 +1,97 @@
+{
+    "created_at": "Tue Jul 13 07:59:42 +0000 2021",
+    "id": 1414857050765541376,
+    "id_str": "1414857050765541376",
+    "full_text": "@raul_olaechea OE sin piedad hasta donde se pueda y NO SE OLVIDEN DE LOS APRISTAS! NADA DE TIBIEZAS! HASTA DONDE SE PUEDA! TODO O NADA!",
+    "truncated": false,
+    "display_text_range": [
+        15,
+        135
+    ],
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "raul_olaechea",
+                "name": "Ra\u00fal Noblecilla Olaechea",
+                "id": 1157137719627145216,
+                "id_str": "1157137719627145216",
+                "indices": [
+                    0,
+                    14
+                ]
+            }
+        ],
+        "urls": []
+    },
+    "metadata": {
+        "iso_language_code": "es",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "in_reply_to_status_id": 1414822291645534209,
+    "in_reply_to_status_id_str": "1414822291645534209",
+    "in_reply_to_user_id": 1157137719627145216,
+    "in_reply_to_user_id_str": "1157137719627145216",
+    "in_reply_to_screen_name": "raul_olaechea",
+    "user": {
+        "id": 1256524576298807298,
+        "id_str": "1256524576298807298",
+        "name": "GGA!!",
+        "screen_name": "GAtauchi",
+        "location": "",
+        "description": "Que viva el Cusco! Que viva el Sur! Que viva el Per\u00fa! Cusquena con sangre INCA!! ALLILLANCHU mi Peru!! soy una VERDIROJA!",
+        "url": null,
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 115,
+        "friends_count": 196,
+        "listed_count": 1,
+        "created_at": "Sat May 02 10:03:11 +0000 2020",
+        "favourites_count": 12303,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 12731,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": null,
+        "profile_background_image_url_https": null,
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1412808037371465732/ZUWHyL4L_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1412808037371465732/ZUWHyL4L_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1256524576298807298/1623875628",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 9,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "es"
+}

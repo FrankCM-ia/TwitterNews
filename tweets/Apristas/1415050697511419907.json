@@ -1,0 +1,104 @@
+{
+    "created_at": "Tue Jul 13 20:49:11 +0000 2021",
+    "id": 1415050697511419907,
+    "id_str": "1415050697511419907",
+    "full_text": "@respetomujeril Nadie tiene la culpa de que golpistas como Fujimoristas, Apristas y compinches como t\u00fa bien sabr\u00e1s, en plena emergencia sanitaria baquen a un presidente...Sagasti era el \u00fanico que merec\u00eda est\u00e1 all\u00ed, y los hizo mejor que cualquiera\n\n#Sagastimiheroe",
+    "truncated": false,
+    "display_text_range": [
+        16,
+        263
+    ],
+    "entities": {
+        "hashtags": [
+            {
+                "text": "Sagastimiheroe",
+                "indices": [
+                    248,
+                    263
+                ]
+            }
+        ],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "respetomujeril",
+                "name": "Respetaci\u00f3n Mujeril",
+                "id": 1224019721458257925,
+                "id_str": "1224019721458257925",
+                "indices": [
+                    0,
+                    15
+                ]
+            }
+        ],
+        "urls": []
+    },
+    "metadata": {
+        "iso_language_code": "es",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "in_reply_to_status_id": 1415034192191184899,
+    "in_reply_to_status_id_str": "1415034192191184899",
+    "in_reply_to_user_id": 1224019721458257925,
+    "in_reply_to_user_id_str": "1224019721458257925",
+    "in_reply_to_screen_name": "respetomujeril",
+    "user": {
+        "id": 397602962,
+        "id_str": "397602962",
+        "name": "candy oviedo",
+        "screen_name": "candyoviedo",
+        "location": "",
+        "description": "",
+        "url": null,
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 16,
+        "friends_count": 54,
+        "listed_count": 0,
+        "created_at": "Mon Oct 24 22:31:21 +0000 2011",
+        "favourites_count": 34,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 61,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/708572660842807296/C1dGY-xR_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/708572660842807296/C1dGY-xR_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 1,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "es"
+}

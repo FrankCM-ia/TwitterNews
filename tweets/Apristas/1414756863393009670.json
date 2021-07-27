@@ -1,0 +1,217 @@
+{
+    "created_at": "Tue Jul 13 01:21:35 +0000 2021",
+    "id": 1414756863393009670,
+    "id_str": "1414756863393009670",
+    "full_text": "RT @XioBunnie: @alvarosarco Keiko le gan\u00f3 a ppk el 2016 pero como era ella, a nadie le import\u00f3, se permiti\u00f3 el fraude xq todos los partidos\u2026",
+    "truncated": false,
+    "display_text_range": [
+        0,
+        140
+    ],
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "XioBunnie",
+                "name": "\u274c\u2757\u2b55 \ud83c\uddf5\ud83c\uddea",
+                "id": 193833859,
+                "id_str": "193833859",
+                "indices": [
+                    3,
+                    13
+                ]
+            },
+            {
+                "screen_name": "alvarosarco",
+                "name": "\u00c1lvaro Sarco \ud83c\uddf5\ud83c\uddea",
+                "id": 136649244,
+                "id_str": "136649244",
+                "indices": [
+                    15,
+                    27
+                ]
+            }
+        ],
+        "urls": []
+    },
+    "metadata": {
+        "iso_language_code": "es",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 405949329,
+        "id_str": "405949329",
+        "name": "Carmensioux",
+        "screen_name": "DorisAzores",
+        "location": "Lima - Peru",
+        "description": "Acepto lo que soy; madre, abuela, audaz, r\u00e1pida, \u00e1gil,  valiente, arriesgada. Soy fuerte!\nPatriota. Presidenta electa de la Republica del Per\u00fa (2021 - 2026)",
+        "url": null,
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 7766,
+        "friends_count": 745,
+        "listed_count": 26,
+        "created_at": "Sun Nov 06 01:34:36 +0000 2011",
+        "favourites_count": 142503,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 170826,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "ACDED6",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme18/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme18/bg.gif",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1404996718161190913/n_7AiBT6_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1404996718161190913/n_7AiBT6_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/405949329/1625885488",
+        "profile_link_color": "038543",
+        "profile_sidebar_border_color": "EEEEEE",
+        "profile_sidebar_fill_color": "F6F6F6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": true,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+        "created_at": "Mon Jul 12 16:28:37 +0000 2021",
+        "id": 1414622735033057281,
+        "id_str": "1414622735033057281",
+        "full_text": "@alvarosarco Keiko le gan\u00f3 a ppk el 2016 pero como era ella, a nadie le import\u00f3, se permiti\u00f3 el fraude xq todos los partidos pol\u00edticos segu\u00edan muy felices mientras a ellos no se les tocaba solo al fujimorismo, hoy cuando reci\u00e9n los tocan, se indignaron... apristas un poco tarde o no?",
+        "truncated": false,
+        "display_text_range": [
+            13,
+            284
+        ],
+        "entities": {
+            "hashtags": [],
+            "symbols": [],
+            "user_mentions": [
+                {
+                    "screen_name": "alvarosarco",
+                    "name": "\u00c1lvaro Sarco \ud83c\uddf5\ud83c\uddea",
+                    "id": 136649244,
+                    "id_str": "136649244",
+                    "indices": [
+                        0,
+                        12
+                    ]
+                }
+            ],
+            "urls": []
+        },
+        "metadata": {
+            "iso_language_code": "es",
+            "result_type": "recent"
+        },
+        "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+        "in_reply_to_status_id": 1414588939864887298,
+        "in_reply_to_status_id_str": "1414588939864887298",
+        "in_reply_to_user_id": 136649244,
+        "in_reply_to_user_id_str": "136649244",
+        "in_reply_to_screen_name": "alvarosarco",
+        "user": {
+            "id": 193833859,
+            "id_str": "193833859",
+            "name": "\u274c\u2757\u2b55 \ud83c\uddf5\ud83c\uddea",
+            "screen_name": "XioBunnie",
+            "location": "Lima, Peru",
+            "description": "Me encanta la m\u00fasica electr\u00f3nica,techno, trance,cl\u00e1sica y cultura asi\u00e1tica. Amo a mis gatos.Bebo Pisco,Riccadonna y vodka, no fumo. De derecha \u2764\ud83d\udda4\ud83e\udd0d",
+            "url": "https://t.co/GiN0aXn2ES",
+            "entities": {
+                "url": {
+                    "urls": [
+                        {
+                            "url": "https://t.co/GiN0aXn2ES",
+                            "expanded_url": "http://facebook.com/XioBunnie",
+                            "display_url": "facebook.com/XioBunnie",
+                            "indices": [
+                                0,
+                                23
+                            ]
+                        }
+                    ]
+                },
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 1342,
+            "friends_count": 655,
+            "listed_count": 2,
+            "created_at": "Wed Sep 22 19:24:32 +0000 2010",
+            "favourites_count": 33943,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": true,
+            "verified": false,
+            "statuses_count": 7485,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "642D8B",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": true,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1410984328008507392/BEYgCDgg_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1410984328008507392/BEYgCDgg_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/193833859/1625894353",
+            "profile_link_color": "DD2E44",
+            "profile_sidebar_border_color": "000000",
+            "profile_sidebar_fill_color": "D8BBF0",
+            "profile_text_color": "3D1957",
+            "profile_use_background_image": true,
+            "has_extended_profile": false,
+            "default_profile": false,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none",
+            "withheld_in_countries": []
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 5,
+        "favorite_count": 22,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "es"
+    },
+    "is_quote_status": false,
+    "retweet_count": 5,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "es"
+}

@@ -1,0 +1,223 @@
+{
+    "created_at": "Wed Jul 14 02:03:28 +0000 2021",
+    "id": 1415129790714159108,
+    "id_str": "1415129790714159108",
+    "full_text": "RT @cohe_sonia: @Soy_Aprista As\u00ed es @MonicaYayaLuyo ,somos apristas, luchando por la democracia.",
+    "truncated": false,
+    "display_text_range": [
+        0,
+        96
+    ],
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "cohe_sonia",
+                "name": "Sonia Esperanza Cohello Cabrejos",
+                "id": 905924339668799488,
+                "id_str": "905924339668799488",
+                "indices": [
+                    3,
+                    14
+                ]
+            },
+            {
+                "screen_name": "Soy_Aprista",
+                "name": "Soy Aprista",
+                "id": 57545700,
+                "id_str": "57545700",
+                "indices": [
+                    16,
+                    28
+                ]
+            },
+            {
+                "screen_name": "MonicaYayaLuyo",
+                "name": "M\u00f3nica Yaya",
+                "id": 999289027584020480,
+                "id_str": "999289027584020480",
+                "indices": [
+                    36,
+                    51
+                ]
+            }
+        ],
+        "urls": []
+    },
+    "metadata": {
+        "iso_language_code": "es",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 602766306,
+        "id_str": "602766306",
+        "name": "MERY GHIKAS",
+        "screen_name": "MERYDELPILAR1",
+        "location": "Peru",
+        "description": "Soy APRISTA,pertenezco a la colonia griega de san Andr\u00e9s.y a la comunidad hel\u00e9nica  soy de pisco no creo en ninguna  religi\u00f3n pero si creo en DIOS.",
+        "url": null,
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 1555,
+        "friends_count": 1238,
+        "listed_count": 1,
+        "created_at": "Fri Jun 08 11:35:58 +0000 2012",
+        "favourites_count": 255739,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 223411,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1119859517704032256/1ujnycP4_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1119859517704032256/1ujnycP4_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/602766306/1566123609",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+        "created_at": "Tue Jul 13 20:42:04 +0000 2021",
+        "id": 1415048908896620547,
+        "id_str": "1415048908896620547",
+        "full_text": "@Soy_Aprista As\u00ed es @MonicaYayaLuyo ,somos apristas, luchando por la democracia.",
+        "truncated": false,
+        "display_text_range": [
+            13,
+            80
+        ],
+        "entities": {
+            "hashtags": [],
+            "symbols": [],
+            "user_mentions": [
+                {
+                    "screen_name": "Soy_Aprista",
+                    "name": "Soy Aprista",
+                    "id": 57545700,
+                    "id_str": "57545700",
+                    "indices": [
+                        0,
+                        12
+                    ]
+                },
+                {
+                    "screen_name": "MonicaYayaLuyo",
+                    "name": "M\u00f3nica Yaya",
+                    "id": 999289027584020480,
+                    "id_str": "999289027584020480",
+                    "indices": [
+                        20,
+                        35
+                    ]
+                }
+            ],
+            "urls": []
+        },
+        "metadata": {
+            "iso_language_code": "es",
+            "result_type": "recent"
+        },
+        "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+        "in_reply_to_status_id": 1415041983035346946,
+        "in_reply_to_status_id_str": "1415041983035346946",
+        "in_reply_to_user_id": 57545700,
+        "in_reply_to_user_id_str": "57545700",
+        "in_reply_to_screen_name": "Soy_Aprista",
+        "user": {
+            "id": 905924339668799488,
+            "id_str": "905924339668799488",
+            "name": "Sonia Esperanza Cohello Cabrejos",
+            "screen_name": "cohe_sonia",
+            "location": "San Martin de Porres, Peru",
+            "description": "Nac\u00ed en Trujillo en 1955",
+            "url": null,
+            "entities": {
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 732,
+            "friends_count": 538,
+            "listed_count": 1,
+            "created_at": "Thu Sep 07 22:42:48 +0000 2017",
+            "favourites_count": 248947,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": true,
+            "verified": false,
+            "statuses_count": 84330,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "F5F8FA",
+            "profile_background_image_url": null,
+            "profile_background_image_url_https": null,
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/954179050855174144/IU0VCIoF_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/954179050855174144/IU0VCIoF_normal.jpg",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "has_extended_profile": true,
+            "default_profile": true,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none",
+            "withheld_in_countries": []
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 1,
+        "favorite_count": 2,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "es"
+    },
+    "is_quote_status": false,
+    "retweet_count": 1,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "es"
+}

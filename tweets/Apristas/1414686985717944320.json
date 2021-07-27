@@ -1,0 +1,366 @@
+{
+    "created_at": "Mon Jul 12 20:43:55 +0000 2021",
+    "id": 1414686985717944320,
+    "id_str": "1414686985717944320",
+    "full_text": "RT @elmontonero_pe: #DialogosEM #ElMontonero\nVeto a h\u00e9roes apristas en Lugar de la Memoria\nS\u00edguenos en:\nFB: https://t.co/8BN6IGbDMU\nYoutube\u2026",
+    "truncated": false,
+    "display_text_range": [
+        0,
+        140
+    ],
+    "entities": {
+        "hashtags": [
+            {
+                "text": "DialogosEM",
+                "indices": [
+                    20,
+                    31
+                ]
+            },
+            {
+                "text": "ElMontonero",
+                "indices": [
+                    32,
+                    44
+                ]
+            }
+        ],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "elmontonero_pe",
+                "name": "El Montonero",
+                "id": 2398535522,
+                "id_str": "2398535522",
+                "indices": [
+                    3,
+                    18
+                ]
+            }
+        ],
+        "urls": [
+            {
+                "url": "https://t.co/8BN6IGbDMU",
+                "expanded_url": "http://bit.ly/2s7hI97",
+                "display_url": "bit.ly/2s7hI97",
+                "indices": [
+                    108,
+                    131
+                ]
+            }
+        ]
+    },
+    "metadata": {
+        "iso_language_code": "es",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 3158175842,
+        "id_str": "3158175842",
+        "name": "dialac",
+        "screen_name": "dianapazac",
+        "location": "Peru",
+        "description": "",
+        "url": "https://t.co/99JScFErKl",
+        "entities": {
+            "url": {
+                "urls": [
+                    {
+                        "url": "https://t.co/99JScFErKl",
+                        "expanded_url": "https://mktseo2015.wordpress.com/",
+                        "display_url": "mktseo2015.wordpress.com",
+                        "indices": [
+                            0,
+                            23
+                        ]
+                    }
+                ]
+            },
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 61,
+        "friends_count": 64,
+        "listed_count": 0,
+        "created_at": "Wed Apr 15 20:45:42 +0000 2015",
+        "favourites_count": 21077,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 12141,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "642D8B",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme10/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme10/bg.gif",
+        "profile_background_tile": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1415194214292500480/tXpTYfii_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1415194214292500480/tXpTYfii_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/3158175842/1430668733",
+        "profile_link_color": "FF0000",
+        "profile_sidebar_border_color": "65B0DA",
+        "profile_sidebar_fill_color": "7AC3EE",
+        "profile_text_color": "3D1957",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+        "created_at": "Mon Jul 12 20:30:00 +0000 2021",
+        "id": 1414683483172065287,
+        "id_str": "1414683483172065287",
+        "full_text": "#DialogosEM #ElMontonero\nVeto a h\u00e9roes apristas en Lugar de la Memoria\nS\u00edguenos en:\nFB: https://t.co/8BN6IGbDMU\nYoutube: https://t.co/x2WH9DgOHF\nM\u00e1s Art\u00edculos: https://t.co/4sbQL4kPSo\nhttps://t.co/vAqoSmmkI6 https://t.co/gczv64XscT",
+        "truncated": false,
+        "display_text_range": [
+            0,
+            207
+        ],
+        "entities": {
+            "hashtags": [
+                {
+                    "text": "DialogosEM",
+                    "indices": [
+                        0,
+                        11
+                    ]
+                },
+                {
+                    "text": "ElMontonero",
+                    "indices": [
+                        12,
+                        24
+                    ]
+                }
+            ],
+            "symbols": [],
+            "user_mentions": [],
+            "urls": [
+                {
+                    "url": "https://t.co/8BN6IGbDMU",
+                    "expanded_url": "http://bit.ly/2s7hI97",
+                    "display_url": "bit.ly/2s7hI97",
+                    "indices": [
+                        88,
+                        111
+                    ]
+                },
+                {
+                    "url": "https://t.co/x2WH9DgOHF",
+                    "expanded_url": "http://bit.ly/2R1CNRo",
+                    "display_url": "bit.ly/2R1CNRo",
+                    "indices": [
+                        121,
+                        144
+                    ]
+                },
+                {
+                    "url": "https://t.co/4sbQL4kPSo",
+                    "expanded_url": "http://bit.ly/2TkXynO",
+                    "display_url": "bit.ly/2TkXynO",
+                    "indices": [
+                        160,
+                        183
+                    ]
+                },
+                {
+                    "url": "https://t.co/vAqoSmmkI6",
+                    "expanded_url": "https://www.youtube.com/watch?v=Mfw3oUDJGGo",
+                    "display_url": "youtube.com/watch?v=Mfw3oU\u2026",
+                    "indices": [
+                        184,
+                        207
+                    ]
+                }
+            ],
+            "media": [
+                {
+                    "id": 1414460564705796097,
+                    "id_str": "1414460564705796097",
+                    "indices": [
+                        208,
+                        231
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/E6EsY7QWYAEOGqG.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/E6EsY7QWYAEOGqG.jpg",
+                    "url": "https://t.co/gczv64XscT",
+                    "display_url": "pic.twitter.com/gczv64XscT",
+                    "expanded_url": "https://twitter.com/elmontonero_pe/status/1414683483172065287/photo/1",
+                    "type": "photo",
+                    "sizes": {
+                        "medium": {
+                            "w": 1200,
+                            "h": 675,
+                            "resize": "fit"
+                        },
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "small": {
+                            "w": 680,
+                            "h": 383,
+                            "resize": "fit"
+                        },
+                        "large": {
+                            "w": 1280,
+                            "h": 720,
+                            "resize": "fit"
+                        }
+                    }
+                }
+            ]
+        },
+        "extended_entities": {
+            "media": [
+                {
+                    "id": 1414460564705796097,
+                    "id_str": "1414460564705796097",
+                    "indices": [
+                        208,
+                        231
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/E6EsY7QWYAEOGqG.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/E6EsY7QWYAEOGqG.jpg",
+                    "url": "https://t.co/gczv64XscT",
+                    "display_url": "pic.twitter.com/gczv64XscT",
+                    "expanded_url": "https://twitter.com/elmontonero_pe/status/1414683483172065287/photo/1",
+                    "type": "photo",
+                    "sizes": {
+                        "medium": {
+                            "w": 1200,
+                            "h": 675,
+                            "resize": "fit"
+                        },
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "small": {
+                            "w": 680,
+                            "h": 383,
+                            "resize": "fit"
+                        },
+                        "large": {
+                            "w": 1280,
+                            "h": 720,
+                            "resize": "fit"
+                        }
+                    }
+                }
+            ]
+        },
+        "metadata": {
+            "iso_language_code": "es",
+            "result_type": "recent"
+        },
+        "source": "<a href=\"https://ads-api.twitter.com\" rel=\"nofollow\">Twitter for Advertisers.</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 2398535522,
+            "id_str": "2398535522",
+            "name": "El Montonero",
+            "screen_name": "elmontonero_pe",
+            "location": "Lima, Per\u00fa.",
+            "description": "El primer portal de opini\u00f3n del Per\u00fa.",
+            "url": "http://t.co/uTbVyKB7Dw",
+            "entities": {
+                "url": {
+                    "urls": [
+                        {
+                            "url": "http://t.co/uTbVyKB7Dw",
+                            "expanded_url": "http://www.elmontonero.pe",
+                            "display_url": "elmontonero.pe",
+                            "indices": [
+                                0,
+                                22
+                            ]
+                        }
+                    ]
+                },
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 29992,
+            "friends_count": 1601,
+            "listed_count": 115,
+            "created_at": "Wed Mar 19 22:27:22 +0000 2014",
+            "favourites_count": 378,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": false,
+            "verified": false,
+            "statuses_count": 48790,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "000000",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme18/bg.gif",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme18/bg.gif",
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/932009973051092992/XXE9EXn9_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/932009973051092992/XXE9EXn9_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/2398535522/1506608118",
+            "profile_link_color": "3B94D9",
+            "profile_sidebar_border_color": "000000",
+            "profile_sidebar_fill_color": "000000",
+            "profile_text_color": "000000",
+            "profile_use_background_image": false,
+            "has_extended_profile": false,
+            "default_profile": false,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none",
+            "withheld_in_countries": []
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 7,
+        "favorite_count": 12,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "es"
+    },
+    "is_quote_status": false,
+    "retweet_count": 7,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "es"
+}

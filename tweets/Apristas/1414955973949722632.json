@@ -1,0 +1,284 @@
+{
+    "created_at": "Tue Jul 13 14:32:47 +0000 2021",
+    "id": 1414955973949722632,
+    "id_str": "1414955973949722632",
+    "full_text": "El famoso doble ca\u00f1\u00f3n de las apristas.\n@Mauriciomulder \n@APRA_Oficial https://t.co/prWSIZVBxK https://t.co/AKxJ7OwZh3",
+    "truncated": false,
+    "display_text_range": [
+        0,
+        93
+    ],
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "Mauriciomulder",
+                "name": "Mauricio Mulder",
+                "id": 235139317,
+                "id_str": "235139317",
+                "indices": [
+                    39,
+                    54
+                ]
+            },
+            {
+                "screen_name": "APRA_Oficial",
+                "name": "APRA Oficial",
+                "id": 1515282908,
+                "id_str": "1515282908",
+                "indices": [
+                    56,
+                    69
+                ]
+            }
+        ],
+        "urls": [
+            {
+                "url": "https://t.co/prWSIZVBxK",
+                "expanded_url": "https://twitter.com/Mauriciomulder/status/1414911442449485852",
+                "display_url": "twitter.com/Mauriciomulder\u2026",
+                "indices": [
+                    70,
+                    93
+                ]
+            }
+        ],
+        "media": [
+            {
+                "id": 1414955600442691592,
+                "id_str": "1414955600442691592",
+                "indices": [
+                    94,
+                    117
+                ],
+                "media_url": "http://pbs.twimg.com/media/E6LunzFWEAg4VXh.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/E6LunzFWEAg4VXh.jpg",
+                "url": "https://t.co/AKxJ7OwZh3",
+                "display_url": "pic.twitter.com/AKxJ7OwZh3",
+                "expanded_url": "https://twitter.com/ELMER666/status/1414955973949722632/photo/1",
+                "type": "photo",
+                "sizes": {
+                    "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                    },
+                    "small": {
+                        "w": 680,
+                        "h": 455,
+                        "resize": "fit"
+                    },
+                    "large": {
+                        "w": 998,
+                        "h": 668,
+                        "resize": "fit"
+                    },
+                    "medium": {
+                        "w": 998,
+                        "h": 668,
+                        "resize": "fit"
+                    }
+                }
+            }
+        ]
+    },
+    "extended_entities": {
+        "media": [
+            {
+                "id": 1414955600442691592,
+                "id_str": "1414955600442691592",
+                "indices": [
+                    94,
+                    117
+                ],
+                "media_url": "http://pbs.twimg.com/media/E6LunzFWEAg4VXh.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/E6LunzFWEAg4VXh.jpg",
+                "url": "https://t.co/AKxJ7OwZh3",
+                "display_url": "pic.twitter.com/AKxJ7OwZh3",
+                "expanded_url": "https://twitter.com/ELMER666/status/1414955973949722632/photo/1",
+                "type": "photo",
+                "sizes": {
+                    "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                    },
+                    "small": {
+                        "w": 680,
+                        "h": 455,
+                        "resize": "fit"
+                    },
+                    "large": {
+                        "w": 998,
+                        "h": 668,
+                        "resize": "fit"
+                    },
+                    "medium": {
+                        "w": 998,
+                        "h": 668,
+                        "resize": "fit"
+                    }
+                }
+            }
+        ]
+    },
+    "metadata": {
+        "iso_language_code": "es",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 126643035,
+        "id_str": "126643035",
+        "name": "ELMER MERCADO",
+        "screen_name": "ELMER666",
+        "location": "PERU",
+        "description": "SEC GRAL DEL SIND. UNITARIO DE CHOFERES Y COBRADORES DEL PERU- SUCHOCOP - COORD. CUTT",
+        "url": null,
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 407,
+        "friends_count": 942,
+        "listed_count": 1,
+        "created_at": "Fri Mar 26 14:39:25 +0000 2010",
+        "favourites_count": 2259,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 6668,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "0099B9",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1410472065958924291/JaslMKNo_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1410472065958924291/JaslMKNo_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/126643035/1421123130",
+        "profile_link_color": "000033",
+        "profile_sidebar_border_color": "5ED4DC",
+        "profile_sidebar_fill_color": "95E8EC",
+        "profile_text_color": "3C3940",
+        "profile_use_background_image": true,
+        "has_extended_profile": true,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": true,
+    "quoted_status_id": 1414911442449485852,
+    "quoted_status_id_str": "1414911442449485852",
+    "quoted_status": {
+        "created_at": "Tue Jul 13 11:35:50 +0000 2021",
+        "id": 1414911442449485852,
+        "id_str": "1414911442449485852",
+        "full_text": "Solidaridad con el pueblo cubano qu\u00e9 se rebela contra la dictadura comunista pidiendo solo una cosa: libertad.",
+        "truncated": false,
+        "display_text_range": [
+            0,
+            110
+        ],
+        "entities": {
+            "hashtags": [],
+            "symbols": [],
+            "user_mentions": [],
+            "urls": []
+        },
+        "metadata": {
+            "iso_language_code": "es",
+            "result_type": "recent"
+        },
+        "source": "<a href=\"https://twitterrific.com/ios\" rel=\"nofollow\">Twitterrific for iOS</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 235139317,
+            "id_str": "235139317",
+            "name": "Mauricio Mulder",
+            "screen_name": "Mauriciomulder",
+            "location": "Lima",
+            "description": "Presidente de la Comisi\u00f3n Pol\u00edtica del APRA. Firmes en la izquierda democr\u00e1tica.",
+            "url": null,
+            "entities": {
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 553658,
+            "friends_count": 1348,
+            "listed_count": 789,
+            "created_at": "Fri Jan 07 13:10:20 +0000 2011",
+            "favourites_count": 496,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": true,
+            "verified": true,
+            "statuses_count": 7719,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "C0DEED",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1222377627245215744/PEOuGEty_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1222377627245215744/PEOuGEty_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/235139317/1580272569",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "has_extended_profile": true,
+            "default_profile": true,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none",
+            "withheld_in_countries": []
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 767,
+        "favorite_count": 3356,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "es"
+    },
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "es"
+}

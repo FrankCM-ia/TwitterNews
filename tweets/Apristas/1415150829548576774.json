@@ -1,0 +1,202 @@
+{
+    "created_at": "Wed Jul 14 03:27:04 +0000 2021",
+    "id": 1415150829548576774,
+    "id_str": "1415150829548576774",
+    "full_text": "RT @Conviccion123: @Gestionpe Que se vayan al m\u00e1s all\u00e1 si quieren pero no j..an al pa\u00eds. No entiende q hay peruanos q necesitan estabilidad\u2026",
+    "truncated": false,
+    "display_text_range": [
+        0,
+        140
+    ],
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "Conviccion123",
+                "name": "Decolores",
+                "id": 1141129004407238656,
+                "id_str": "1141129004407238656",
+                "indices": [
+                    3,
+                    17
+                ]
+            },
+            {
+                "screen_name": "Gestionpe",
+                "name": "Diario Gesti\u00f3n",
+                "id": 110822488,
+                "id_str": "110822488",
+                "indices": [
+                    19,
+                    29
+                ]
+            }
+        ],
+        "urls": []
+    },
+    "metadata": {
+        "iso_language_code": "es",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 54309446,
+        "id_str": "54309446",
+        "name": "Nilo Taco",
+        "screen_name": "nilo2009",
+        "location": "",
+        "description": "",
+        "url": null,
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 126,
+        "friends_count": 502,
+        "listed_count": 1,
+        "created_at": "Mon Jul 06 19:43:27 +0000 2009",
+        "favourites_count": 2234,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 1410,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "352726",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1182396769193398287/FP386Wl0_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1182396769193398287/FP386Wl0_normal.jpg",
+        "profile_link_color": "D02B55",
+        "profile_sidebar_border_color": "829D5E",
+        "profile_sidebar_fill_color": "99CC33",
+        "profile_text_color": "3E4415",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+        "created_at": "Wed Jul 14 01:47:34 +0000 2021",
+        "id": 1415125787938893825,
+        "id_str": "1415125787938893825",
+        "full_text": "@Gestionpe Que se vayan al m\u00e1s all\u00e1 si quieren pero no j..an al pa\u00eds. No entiende q hay peruanos q necesitan estabilidad pol\u00edtica? Q clase de personas quieren tomar por la fuerza el poder..claro fujimoristas, apristas, golpistas tienen q ser",
+        "truncated": false,
+        "display_text_range": [
+            11,
+            241
+        ],
+        "entities": {
+            "hashtags": [],
+            "symbols": [],
+            "user_mentions": [
+                {
+                    "screen_name": "Gestionpe",
+                    "name": "Diario Gesti\u00f3n",
+                    "id": 110822488,
+                    "id_str": "110822488",
+                    "indices": [
+                        0,
+                        10
+                    ]
+                }
+            ],
+            "urls": []
+        },
+        "metadata": {
+            "iso_language_code": "es",
+            "result_type": "recent"
+        },
+        "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+        "in_reply_to_status_id": 1415123043211415556,
+        "in_reply_to_status_id_str": "1415123043211415556",
+        "in_reply_to_user_id": 110822488,
+        "in_reply_to_user_id_str": "110822488",
+        "in_reply_to_screen_name": "Gestionpe",
+        "user": {
+            "id": 1141129004407238656,
+            "id_str": "1141129004407238656",
+            "name": "Decolores",
+            "screen_name": "Conviccion123",
+            "location": "",
+            "description": "",
+            "url": null,
+            "entities": {
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 315,
+            "friends_count": 588,
+            "listed_count": 0,
+            "created_at": "Tue Jun 18 23:42:10 +0000 2019",
+            "favourites_count": 24878,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": false,
+            "verified": false,
+            "statuses_count": 6034,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "F5F8FA",
+            "profile_background_image_url": null,
+            "profile_background_image_url_https": null,
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1403449751203368960/-EHylWbN_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1403449751203368960/-EHylWbN_normal.jpg",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "has_extended_profile": false,
+            "default_profile": true,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none",
+            "withheld_in_countries": []
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 1,
+        "favorite_count": 5,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "es"
+    },
+    "is_quote_status": false,
+    "retweet_count": 1,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "es"
+}

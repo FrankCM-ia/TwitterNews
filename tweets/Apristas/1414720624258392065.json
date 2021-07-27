@@ -1,0 +1,97 @@
+{
+    "created_at": "Mon Jul 12 22:57:35 +0000 2021",
+    "id": 1414720624258392065,
+    "id_str": "1414720624258392065",
+    "full_text": "@DiegoAcuOficial y porque no dices \"Fujimoritas\" y \"Apristas\", te \ud83e\udd51\ud83e\udd51\ud83e\udd51\ud83e\udd51",
+    "truncated": false,
+    "display_text_range": [
+        17,
+        70
+    ],
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "DiegoAcuOficial",
+                "name": "Diego Acu\u00f1a",
+                "id": 1334942523995852801,
+                "id_str": "1334942523995852801",
+                "indices": [
+                    0,
+                    16
+                ]
+            }
+        ],
+        "urls": []
+    },
+    "metadata": {
+        "iso_language_code": "es",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "in_reply_to_status_id": 1414672246875082758,
+    "in_reply_to_status_id_str": "1414672246875082758",
+    "in_reply_to_user_id": 1334942523995852801,
+    "in_reply_to_user_id_str": "1334942523995852801",
+    "in_reply_to_screen_name": "DiegoAcuOficial",
+    "user": {
+        "id": 43924322,
+        "id_str": "43924322",
+        "name": "Juan Tirole",
+        "screen_name": "JuanTirole",
+        "location": "Lima, Peru",
+        "description": "Soy muchacho provinciano. Me levanto muy temprano. Para ir con mis hermanos. Ay, ay, ay, ay a trabajar",
+        "url": null,
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 45,
+        "friends_count": 828,
+        "listed_count": 0,
+        "created_at": "Mon Jun 01 17:17:06 +0000 2009",
+        "favourites_count": 1395,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 1341,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1407912435856678913/R5_20fbN_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1407912435856678913/R5_20fbN_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/43924322/1616175742",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "es"
+}

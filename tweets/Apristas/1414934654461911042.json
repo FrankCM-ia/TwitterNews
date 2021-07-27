@@ -1,0 +1,117 @@
+{
+    "created_at": "Tue Jul 13 13:08:04 +0000 2021",
+    "id": 1414934654461911042,
+    "id_str": "1414934654461911042",
+    "full_text": "@Mauriciomulder @KarinaNovoaL @opinioncandela Eso se implant\u00f3 muy bien en los 2 gobiernos apristas",
+    "truncated": false,
+    "display_text_range": [
+        46,
+        98
+    ],
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "Mauriciomulder",
+                "name": "Mauricio Mulder",
+                "id": 235139317,
+                "id_str": "235139317",
+                "indices": [
+                    0,
+                    15
+                ]
+            },
+            {
+                "screen_name": "KarinaNovoaL",
+                "name": "Karina Novoa",
+                "id": 140788164,
+                "id_str": "140788164",
+                "indices": [
+                    16,
+                    29
+                ]
+            },
+            {
+                "screen_name": "opinioncandela",
+                "name": "C\u00e9sar Candela",
+                "id": 180168428,
+                "id_str": "180168428",
+                "indices": [
+                    30,
+                    45
+                ]
+            }
+        ],
+        "urls": []
+    },
+    "metadata": {
+        "iso_language_code": "es",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "in_reply_to_status_id": 1414920843394756609,
+    "in_reply_to_status_id_str": "1414920843394756609",
+    "in_reply_to_user_id": 235139317,
+    "in_reply_to_user_id_str": "235139317",
+    "in_reply_to_screen_name": "Mauriciomulder",
+    "user": {
+        "id": 64295310,
+        "id_str": "64295310",
+        "name": "George Moon",
+        "screen_name": "btriton",
+        "location": "Lima, Peru",
+        "description": "I would like to meet  honest and fair people from all over the world while Improve english, learn NPL, enhance cultural knowledge and discuss any topics.",
+        "url": null,
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 237,
+        "friends_count": 736,
+        "listed_count": 0,
+        "created_at": "Mon Aug 10 00:42:47 +0000 2009",
+        "favourites_count": 58048,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 5758,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "66BDAD",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme18/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme18/bg.gif",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/912902222643679233/TptGjWUd_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/912902222643679233/TptGjWUd_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/64295310/1508380284",
+        "profile_link_color": "41A370",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "A0C5C7",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": true,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "es"
+}

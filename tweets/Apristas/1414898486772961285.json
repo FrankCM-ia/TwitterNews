@@ -1,0 +1,136 @@
+{
+    "created_at": "Tue Jul 13 10:44:21 +0000 2021",
+    "id": 1414898486772961285,
+    "id_str": "1414898486772961285",
+    "full_text": "@MonicaYaya @EmbajadaEspPeru @GranTeatroNac @AlanGarciaPeru @Ollanta_HumalaT Los enemigos del APRA, querr\u00e1n desaparecer las obras del segundo gobierno de ALAN GARCIA PEREZ, pero, JAMAS podr\u00e1n hacerlo porque para eso ESTAMOS LOS APRISTAS para hacerles recordar y ense\u00f1ar a las nuevas generaciones.",
+    "truncated": false,
+    "display_text_range": [
+        77,
+        296
+    ],
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "MonicaYaya",
+                "name": "M\u00f2nica Yaya",
+                "id": 102803486,
+                "id_str": "102803486",
+                "indices": [
+                    0,
+                    11
+                ]
+            },
+            {
+                "screen_name": "EmbajadaEspPeru",
+                "name": "Espa\u00f1a en Per\u00fa \ud83c\uddea\ud83c\uddf8\ud83c\uddf5\ud83c\uddea",
+                "id": 1589424290,
+                "id_str": "1589424290",
+                "indices": [
+                    12,
+                    28
+                ]
+            },
+            {
+                "screen_name": "GranTeatroNac",
+                "name": "Gran Teatro Nacional",
+                "id": 619274318,
+                "id_str": "619274318",
+                "indices": [
+                    29,
+                    43
+                ]
+            },
+            {
+                "screen_name": "AlanGarciaPeru",
+                "name": "Alan Garc\u00eda",
+                "id": 465983898,
+                "id_str": "465983898",
+                "indices": [
+                    44,
+                    59
+                ]
+            },
+            {
+                "screen_name": "Ollanta_HumalaT",
+                "name": "Ollanta Humala Tasso",
+                "id": 151190865,
+                "id_str": "151190865",
+                "indices": [
+                    60,
+                    76
+                ]
+            }
+        ],
+        "urls": []
+    },
+    "metadata": {
+        "iso_language_code": "es",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "in_reply_to_status_id": 1414730730282831873,
+    "in_reply_to_status_id_str": "1414730730282831873",
+    "in_reply_to_user_id": 102803486,
+    "in_reply_to_user_id_str": "102803486",
+    "in_reply_to_screen_name": "MonicaYaya",
+    "user": {
+        "id": 2187741205,
+        "id_str": "2187741205",
+        "name": "Carmen Guill\u00e9n",
+        "screen_name": "Carmen_GuillenC",
+        "location": "",
+        "description": "Disfrutando de los a\u00f1os ya vividos.",
+        "url": null,
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 104,
+        "friends_count": 194,
+        "listed_count": 1,
+        "created_at": "Mon Nov 11 05:22:22 +0000 2013",
+        "favourites_count": 20013,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 25459,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+        "profile_image_url_https": "https://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": true,
+        "default_profile": true,
+        "default_profile_image": true,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 1,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "es"
+}
