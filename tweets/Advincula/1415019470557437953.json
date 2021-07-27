@@ -1,0 +1,136 @@
+{
+    "created_at": "Tue Jul 13 18:45:06 +0000 2021",
+    "id": 1415019470557437953,
+    "id_str": "1415019470557437953",
+    "full_text": "@ToqueyTacoRadio @ovacionweb @gustavolopezs @Ggranda7 @NairAliaga A ver a ver. Rayo pidi\u00f3 a Boca 3 millones por Advincula. Boca ofreci\u00f3 1M. Si Rayo acepta es porque cree que ese puesto lo puede cubrir con cualquiera. Nisiquiera es titular. Si Advincula quisiera jugar\u00eda en 1ra de Espa\u00f1a, tiene contrato. Si se va a Boca obvio que es un retroceso.",
+    "truncated": false,
+    "display_text_range": [
+        66,
+        346
+    ],
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "ToqueyTacoRadio",
+                "name": "Toque y Taco",
+                "id": 839884578185707520,
+                "id_str": "839884578185707520",
+                "indices": [
+                    0,
+                    16
+                ]
+            },
+            {
+                "screen_name": "ovacionweb",
+                "name": "Ovacion.pe",
+                "id": 93997716,
+                "id_str": "93997716",
+                "indices": [
+                    17,
+                    28
+                ]
+            },
+            {
+                "screen_name": "gustavolopezs",
+                "name": "Gustavo L\u00f3pez \ud83c\udf99",
+                "id": 105373449,
+                "id_str": "105373449",
+                "indices": [
+                    29,
+                    43
+                ]
+            },
+            {
+                "screen_name": "Ggranda7",
+                "name": "Giancarlo Granda",
+                "id": 79207292,
+                "id_str": "79207292",
+                "indices": [
+                    44,
+                    53
+                ]
+            },
+            {
+                "screen_name": "NairAliaga",
+                "name": "Nair",
+                "id": 181003178,
+                "id_str": "181003178",
+                "indices": [
+                    54,
+                    65
+                ]
+            }
+        ],
+        "urls": []
+    },
+    "metadata": {
+        "iso_language_code": "es",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "in_reply_to_status_id": 1414948005946462212,
+    "in_reply_to_status_id_str": "1414948005946462212",
+    "in_reply_to_user_id": 839884578185707520,
+    "in_reply_to_user_id_str": "839884578185707520",
+    "in_reply_to_screen_name": "ToqueyTacoRadio",
+    "user": {
+        "id": 2923506839,
+        "id_str": "2923506839",
+        "name": "Carlos Du",
+        "screen_name": "CarlosDuranDiez",
+        "location": "",
+        "description": "",
+        "url": null,
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 7,
+        "friends_count": 41,
+        "listed_count": 0,
+        "created_at": "Mon Dec 15 19:56:02 +0000 2014",
+        "favourites_count": 166,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 3963,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/575744599617990656/PsT1LtWb_normal.jpeg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/575744599617990656/PsT1LtWb_normal.jpeg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "es"
+}

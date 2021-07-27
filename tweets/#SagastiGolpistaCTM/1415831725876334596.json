@@ -1,0 +1,453 @@
+{
+    "created_at": "Fri Jul 16 00:32:42 +0000 2021",
+    "id": 1415831725876334596,
+    "id_str": "1415831725876334596",
+    "full_text": "RT @darkhorseLE: y as\u00ed hay algunos que quiere proclamar al asno del sombrero?\n\n#SagastiGolpistaCTM\n#SagastiGolpistaCTM\n#SagastiGolpistaCTM",
+    "truncated": false,
+    "display_text_range": [
+        0,
+        138
+    ],
+    "entities": {
+        "hashtags": [
+            {
+                "text": "SagastiGolpistaCTM",
+                "indices": [
+                    79,
+                    98
+                ]
+            },
+            {
+                "text": "SagastiGolpistaCTM",
+                "indices": [
+                    99,
+                    118
+                ]
+            },
+            {
+                "text": "SagastiGolpistaCTM",
+                "indices": [
+                    119,
+                    138
+                ]
+            }
+        ],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "darkhorseLE",
+                "name": "Luis Enrique",
+                "id": 4332132029,
+                "id_str": "4332132029",
+                "indices": [
+                    3,
+                    15
+                ]
+            }
+        ],
+        "urls": []
+    },
+    "metadata": {
+        "iso_language_code": "es",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 1350958931879878664,
+        "id_str": "1350958931879878664",
+        "name": "David V",
+        "screen_name": "David02068251",
+        "location": "Lima",
+        "description": "Porque sufr\u00ed la \u00e9poca del terrorismo  #ComunismoNuncaMas",
+        "url": "https://t.co/AXX6WEyiBf",
+        "entities": {
+            "url": {
+                "urls": [
+                    {
+                        "url": "https://t.co/AXX6WEyiBf",
+                        "expanded_url": "https://www.facebook.com/lunlunluuu",
+                        "display_url": "facebook.com/lunlunluuu",
+                        "indices": [
+                            0,
+                            23
+                        ]
+                    }
+                ]
+            },
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 206,
+        "friends_count": 246,
+        "listed_count": 1,
+        "created_at": "Mon Jan 18 00:11:41 +0000 2021",
+        "favourites_count": 23863,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 10281,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": null,
+        "profile_background_image_url_https": null,
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1404279964439134210/vEuUVLki_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1404279964439134210/vEuUVLki_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1350958931879878664/1626126377",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+        "created_at": "Thu Jul 15 18:38:57 +0000 2021",
+        "id": 1415742698171011072,
+        "id_str": "1415742698171011072",
+        "full_text": "y as\u00ed hay algunos que quiere proclamar al asno del sombrero?\n\n#SagastiGolpistaCTM\n#SagastiGolpistaCTM\n#SagastiGolpistaCTM https://t.co/ifecD8lO78",
+        "truncated": false,
+        "display_text_range": [
+            0,
+            121
+        ],
+        "entities": {
+            "hashtags": [
+                {
+                    "text": "SagastiGolpistaCTM",
+                    "indices": [
+                        62,
+                        81
+                    ]
+                },
+                {
+                    "text": "SagastiGolpistaCTM",
+                    "indices": [
+                        82,
+                        101
+                    ]
+                },
+                {
+                    "text": "SagastiGolpistaCTM",
+                    "indices": [
+                        102,
+                        121
+                    ]
+                }
+            ],
+            "symbols": [],
+            "user_mentions": [],
+            "urls": [
+                {
+                    "url": "https://t.co/ifecD8lO78",
+                    "expanded_url": "https://twitter.com/ExpresoPeru/status/1415502153859354628",
+                    "display_url": "twitter.com/ExpresoPeru/st\u2026",
+                    "indices": [
+                        122,
+                        145
+                    ]
+                }
+            ]
+        },
+        "metadata": {
+            "iso_language_code": "es",
+            "result_type": "recent"
+        },
+        "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 4332132029,
+            "id_str": "4332132029",
+            "name": "Luis Enrique",
+            "screen_name": "darkhorseLE",
+            "location": "",
+            "description": "Pol\u00edticamente incorrecto. Minarquista. Diestro. El mundo NO es color de rosa. Tratando de descifrar los paradigmas del mundo.",
+            "url": null,
+            "entities": {
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 170,
+            "friends_count": 107,
+            "listed_count": 2,
+            "created_at": "Mon Nov 30 19:46:34 +0000 2015",
+            "favourites_count": 18264,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": false,
+            "verified": false,
+            "statuses_count": 26931,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "000000",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1413918229249077250/MDKloYmo_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1413918229249077250/MDKloYmo_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/4332132029/1448914003",
+            "profile_link_color": "ABB8C2",
+            "profile_sidebar_border_color": "000000",
+            "profile_sidebar_fill_color": "000000",
+            "profile_text_color": "000000",
+            "profile_use_background_image": false,
+            "has_extended_profile": false,
+            "default_profile": false,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none",
+            "withheld_in_countries": []
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": true,
+        "quoted_status_id": 1415502153859354628,
+        "quoted_status_id_str": "1415502153859354628",
+        "quoted_status": {
+            "created_at": "Thu Jul 15 02:43:06 +0000 2021",
+            "id": 1415502153859354628,
+            "id_str": "1415502153859354628",
+            "full_text": "\ud83d\uddde \u00a1Aqu\u00ed la portada del Diario Expreso para este jueves 15 de julio de 2021!\n\ud83d\udcf2 Visita nuestra web: https://t.co/AzA8cBH9aI https://t.co/A2qpkhjc5h",
+            "truncated": false,
+            "display_text_range": [
+                0,
+                121
+            ],
+            "entities": {
+                "hashtags": [],
+                "symbols": [],
+                "user_mentions": [],
+                "urls": [
+                    {
+                        "url": "https://t.co/AzA8cBH9aI",
+                        "expanded_url": "https://expreso.com.pe",
+                        "display_url": "expreso.com.pe",
+                        "indices": [
+                            98,
+                            121
+                        ]
+                    }
+                ],
+                "media": [
+                    {
+                        "id": 1415502070686302210,
+                        "id_str": "1415502070686302210",
+                        "indices": [
+                            122,
+                            145
+                        ],
+                        "media_url": "http://pbs.twimg.com/media/E6TfojYWQAIcRDH.jpg",
+                        "media_url_https": "https://pbs.twimg.com/media/E6TfojYWQAIcRDH.jpg",
+                        "url": "https://t.co/A2qpkhjc5h",
+                        "display_url": "pic.twitter.com/A2qpkhjc5h",
+                        "expanded_url": "https://twitter.com/ExpresoPeru/status/1415502153859354628/photo/1",
+                        "type": "photo",
+                        "sizes": {
+                            "large": {
+                                "w": 1620,
+                                "h": 2048,
+                                "resize": "fit"
+                            },
+                            "medium": {
+                                "w": 949,
+                                "h": 1200,
+                                "resize": "fit"
+                            },
+                            "thumb": {
+                                "w": 150,
+                                "h": 150,
+                                "resize": "crop"
+                            },
+                            "small": {
+                                "w": 538,
+                                "h": 680,
+                                "resize": "fit"
+                            }
+                        }
+                    }
+                ]
+            },
+            "extended_entities": {
+                "media": [
+                    {
+                        "id": 1415502070686302210,
+                        "id_str": "1415502070686302210",
+                        "indices": [
+                            122,
+                            145
+                        ],
+                        "media_url": "http://pbs.twimg.com/media/E6TfojYWQAIcRDH.jpg",
+                        "media_url_https": "https://pbs.twimg.com/media/E6TfojYWQAIcRDH.jpg",
+                        "url": "https://t.co/A2qpkhjc5h",
+                        "display_url": "pic.twitter.com/A2qpkhjc5h",
+                        "expanded_url": "https://twitter.com/ExpresoPeru/status/1415502153859354628/photo/1",
+                        "type": "photo",
+                        "sizes": {
+                            "large": {
+                                "w": 1620,
+                                "h": 2048,
+                                "resize": "fit"
+                            },
+                            "medium": {
+                                "w": 949,
+                                "h": 1200,
+                                "resize": "fit"
+                            },
+                            "thumb": {
+                                "w": 150,
+                                "h": 150,
+                                "resize": "crop"
+                            },
+                            "small": {
+                                "w": 538,
+                                "h": 680,
+                                "resize": "fit"
+                            }
+                        }
+                    }
+                ]
+            },
+            "metadata": {
+                "iso_language_code": "es",
+                "result_type": "recent"
+            },
+            "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+            "in_reply_to_status_id": null,
+            "in_reply_to_status_id_str": null,
+            "in_reply_to_user_id": null,
+            "in_reply_to_user_id_str": null,
+            "in_reply_to_screen_name": null,
+            "user": {
+                "id": 225232891,
+                "id_str": "225232891",
+                "name": "Diario Expreso",
+                "screen_name": "ExpresoPeru",
+                "location": "Per\u00fa",
+                "description": "Suscr\u00edbete a nuestra edici\u00f3n digital y mantente informado con noticias del Per\u00fa y el mundo, aqu\u00ed \u27a1\ufe0f https://t.co/gdt1Wu5SQo",
+                "url": "https://t.co/OqgZho3oIW",
+                "entities": {
+                    "url": {
+                        "urls": [
+                            {
+                                "url": "https://t.co/OqgZho3oIW",
+                                "expanded_url": "http://www.expreso.com.pe",
+                                "display_url": "expreso.com.pe",
+                                "indices": [
+                                    0,
+                                    23
+                                ]
+                            }
+                        ]
+                    },
+                    "description": {
+                        "urls": [
+                            {
+                                "url": "https://t.co/gdt1Wu5SQo",
+                                "expanded_url": "https://bit.ly/33XfIDk",
+                                "display_url": "bit.ly/33XfIDk",
+                                "indices": [
+                                    100,
+                                    123
+                                ]
+                            }
+                        ]
+                    }
+                },
+                "protected": false,
+                "followers_count": 314916,
+                "friends_count": 543,
+                "listed_count": 660,
+                "created_at": "Sat Dec 11 01:55:08 +0000 2010",
+                "favourites_count": 116,
+                "utc_offset": null,
+                "time_zone": null,
+                "geo_enabled": true,
+                "verified": false,
+                "statuses_count": 136343,
+                "lang": null,
+                "contributors_enabled": false,
+                "is_translator": false,
+                "is_translation_enabled": false,
+                "profile_background_color": "022330",
+                "profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+                "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+                "profile_background_tile": false,
+                "profile_image_url": "http://pbs.twimg.com/profile_images/1331431423371321345/mel3jc9g_normal.jpg",
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/1331431423371321345/mel3jc9g_normal.jpg",
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/225232891/1625398874",
+                "profile_link_color": "0084B4",
+                "profile_sidebar_border_color": "A8C7F7",
+                "profile_sidebar_fill_color": "C0DFEC",
+                "profile_text_color": "333333",
+                "profile_use_background_image": true,
+                "has_extended_profile": false,
+                "default_profile": false,
+                "default_profile_image": false,
+                "following": false,
+                "follow_request_sent": false,
+                "notifications": false,
+                "translator_type": "none",
+                "withheld_in_countries": []
+            },
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "contributors": null,
+            "is_quote_status": false,
+            "retweet_count": 251,
+            "favorite_count": 416,
+            "favorited": false,
+            "retweeted": false,
+            "possibly_sensitive": false,
+            "lang": "es"
+        },
+        "retweet_count": 17,
+        "favorite_count": 20,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "es"
+    },
+    "is_quote_status": true,
+    "quoted_status_id": 1415502153859354628,
+    "quoted_status_id_str": "1415502153859354628",
+    "retweet_count": 17,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "es"
+}

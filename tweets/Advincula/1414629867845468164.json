@@ -1,0 +1,193 @@
+{
+    "created_at": "Mon Jul 12 16:56:57 +0000 2021",
+    "id": 1414629867845468164,
+    "id_str": "1414629867845468164",
+    "full_text": "RT @Augustocesar22: Luis Advincula est\u00e1 a un paso de ser refuerzo de Boca. Hoy comenz\u00f3 la pretemporada con Rayo Vallecano en Espa\u00f1a. Princi\u2026",
+    "truncated": false,
+    "display_text_range": [
+        0,
+        140
+    ],
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "Augustocesar22",
+                "name": "Augusto Cesar",
+                "id": 157131965,
+                "id_str": "157131965",
+                "indices": [
+                    3,
+                    18
+                ]
+            }
+        ],
+        "urls": []
+    },
+    "metadata": {
+        "iso_language_code": "es",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 181519826,
+        "id_str": "181519826",
+        "name": "Javier \u26a1",
+        "screen_name": "JavierVk",
+        "location": "",
+        "description": "\u25b6 Madrile\u00f1o  \u25b6 Estudiante de la URJC \u25b6 Escribo en @TimeJustOficial \u25b6 Aficionado del Rayo Vallecano .S.A.D. y del Real Madrid C.F. \u26bd",
+        "url": null,
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 316,
+        "friends_count": 472,
+        "listed_count": 2,
+        "created_at": "Sun Aug 22 12:03:48 +0000 2010",
+        "favourites_count": 4487,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 24845,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/378800000842782913/7acedc5740975d6758eb8fb2e44e7db0_normal.png",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/378800000842782913/7acedc5740975d6758eb8fb2e44e7db0_normal.png",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/181519826/1358037122",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "regular",
+        "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+        "created_at": "Mon Jul 12 14:38:18 +0000 2021",
+        "id": 1414594972507119616,
+        "id_str": "1414594972507119616",
+        "full_text": "Luis Advincula est\u00e1 a un paso de ser refuerzo de Boca. Hoy comenz\u00f3 la pretemporada con Rayo Vallecano en Espa\u00f1a. Principio de acuerdo. 2.5 millones de euros por su ficha. El contrato del jugador est\u00e1 arreglado. Si Rayo da el OK, el lateral viaja en las proximas horas a Bs As.",
+        "truncated": false,
+        "display_text_range": [
+            0,
+            276
+        ],
+        "entities": {
+            "hashtags": [],
+            "symbols": [],
+            "user_mentions": [],
+            "urls": []
+        },
+        "metadata": {
+            "iso_language_code": "es",
+            "result_type": "recent"
+        },
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 157131965,
+            "id_str": "157131965",
+            "name": "Augusto Cesar",
+            "screen_name": "Augustocesar22",
+            "location": "",
+            "description": "Periodista. Cubro Boca. \n\ud83d\udcfa#ESPNF12 x @espnargentina / https://t.co/Vi3pD37SLA (LaV 12hs) \n\ud83d\udcfb @oraldeportivaok x @rivadavia630 \n#ruletarusa x @fmrockandpop (LaV 6hs)",
+            "url": null,
+            "entities": {
+                "description": {
+                    "urls": [
+                        {
+                            "url": "https://t.co/Vi3pD37SLA",
+                            "expanded_url": "http://www.espn.com.ar",
+                            "display_url": "espn.com.ar",
+                            "indices": [
+                                54,
+                                77
+                            ]
+                        }
+                    ]
+                }
+            },
+            "protected": false,
+            "followers_count": 48808,
+            "friends_count": 981,
+            "listed_count": 243,
+            "created_at": "Fri Jun 18 23:28:51 +0000 2010",
+            "favourites_count": 0,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": true,
+            "verified": false,
+            "statuses_count": 38427,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "C0DEED",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": true,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1339742492267319296/qLMeJda8_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1339742492267319296/qLMeJda8_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/157131965/1604116984",
+            "profile_link_color": "0084B4",
+            "profile_sidebar_border_color": "FFFFFF",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "has_extended_profile": true,
+            "default_profile": false,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none",
+            "withheld_in_countries": []
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 41,
+        "favorite_count": 597,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "es"
+    },
+    "is_quote_status": false,
+    "retweet_count": 41,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "es"
+}

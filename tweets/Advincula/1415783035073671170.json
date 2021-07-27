@@ -1,0 +1,97 @@
+{
+    "created_at": "Thu Jul 15 21:19:14 +0000 2021",
+    "id": 1415783035073671170,
+    "id_str": "1415783035073671170",
+    "full_text": "@_ATodoBoca_ En una entrevista con medio Peruano el padre de Advincula dijo que no est\u00e1 cerrado el pase a\u00fan. La nota es de hoy hace un rato. De Borja que se sabe? Ca\u00eddo lo de Di Santo m\u00e1s a\u00fan ahora lesionado, se aleja un 9 para Boca de categor\u00eda?",
+    "truncated": false,
+    "display_text_range": [
+        13,
+        246
+    ],
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "_ATodoBoca_",
+                "name": "\ud835\udc7b\ud835\udc90\ud835\udc85\ud835\udc90 \ud835\udc69\ud835\udc90\ud835\udc84\ud835\udc82",
+                "id": 1103700726637842433,
+                "id_str": "1103700726637842433",
+                "indices": [
+                    0,
+                    12
+                ]
+            }
+        ],
+        "urls": []
+    },
+    "metadata": {
+        "iso_language_code": "es",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "in_reply_to_status_id": 1415779467922915329,
+    "in_reply_to_status_id_str": "1415779467922915329",
+    "in_reply_to_user_id": 1103700726637842433,
+    "in_reply_to_user_id_str": "1103700726637842433",
+    "in_reply_to_screen_name": "_ATodoBoca_",
+    "user": {
+        "id": 3293400470,
+        "id_str": "3293400470",
+        "name": "Pablo\ud83d\udc64",
+        "screen_name": "Vote_4_Pablo",
+        "location": "Buenos Aires, Argentina",
+        "description": "A noble spirit embiggens the smallest man!",
+        "url": null,
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 437,
+        "friends_count": 2410,
+        "listed_count": 6,
+        "created_at": "Sat Jul 25 18:59:21 +0000 2015",
+        "favourites_count": 39610,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 3666,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "89C9FA",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1359961070274818048/LMJKSRCm_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1359961070274818048/LMJKSRCm_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/3293400470/1613075335",
+        "profile_link_color": "3B94D9",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "es"
+}

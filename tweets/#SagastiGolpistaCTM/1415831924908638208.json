@@ -1,0 +1,231 @@
+{
+    "created_at": "Fri Jul 16 00:33:30 +0000 2021",
+    "id": 1415831924908638208,
+    "id_str": "1415831924908638208",
+    "full_text": "RT @adukaar: No se pq dicen q @willaxtv esta parcializada con keiko,es el unico canal d TV que veo q entrevista a simpatizantes d Per\u00fa Libr\u2026",
+    "truncated": false,
+    "display_text_range": [
+        0,
+        140
+    ],
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "adukaar",
+                "name": "Manita de Puerco",
+                "id": 149712770,
+                "id_str": "149712770",
+                "indices": [
+                    3,
+                    11
+                ]
+            },
+            {
+                "screen_name": "willaxtv",
+                "name": "Willax Televisi\u00f3n",
+                "id": 38512990,
+                "id_str": "38512990",
+                "indices": [
+                    30,
+                    39
+                ]
+            }
+        ],
+        "urls": []
+    },
+    "metadata": {
+        "iso_language_code": "es",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 2762525475,
+        "id_str": "2762525475",
+        "name": "Fabian Camavilca",
+        "screen_name": "wer_nefito",
+        "location": "",
+        "description": "",
+        "url": null,
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 934,
+        "friends_count": 1274,
+        "listed_count": 0,
+        "created_at": "Sat Sep 06 03:19:12 +0000 2014",
+        "favourites_count": 196200,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 100012,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1049524472259272704/WBU71rLH_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1049524472259272704/WBU71rLH_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+        "created_at": "Fri Jul 16 00:13:58 +0000 2021",
+        "id": 1415827008387440650,
+        "id_str": "1415827008387440650",
+        "full_text": "No se pq dicen q @willaxtv esta parcializada con keiko,es el unico canal d TV que veo q entrevista a simpatizantes d Per\u00fa Libre,incluso aguanta los insultos homofobicos a Beto Ortiz, + imparcial que darle voz al enemigo?No se ah #SagastiSeJodioElPuebloYaSalio #SagastiGolpistaCTM",
+        "truncated": false,
+        "display_text_range": [
+            0,
+            279
+        ],
+        "entities": {
+            "hashtags": [
+                {
+                    "text": "SagastiSeJodioElPuebloYaSalio",
+                    "indices": [
+                        229,
+                        259
+                    ]
+                },
+                {
+                    "text": "SagastiGolpistaCTM",
+                    "indices": [
+                        260,
+                        279
+                    ]
+                }
+            ],
+            "symbols": [],
+            "user_mentions": [
+                {
+                    "screen_name": "willaxtv",
+                    "name": "Willax Televisi\u00f3n",
+                    "id": 38512990,
+                    "id_str": "38512990",
+                    "indices": [
+                        17,
+                        26
+                    ]
+                }
+            ],
+            "urls": []
+        },
+        "metadata": {
+            "iso_language_code": "es",
+            "result_type": "recent"
+        },
+        "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 149712770,
+            "id_str": "149712770",
+            "name": "Manita de Puerco",
+            "screen_name": "adukaar",
+            "location": "Houston, TX",
+            "description": "Soy un ser infame y bendecido por mis demonios\n\ud83c\uddf5\ud83c\uddeaPresidente del Per\u00fa 2021-2026 \nbienvenidos al club",
+            "url": "https://t.co/P6DRUGlx8n",
+            "entities": {
+                "url": {
+                    "urls": [
+                        {
+                            "url": "https://t.co/P6DRUGlx8n",
+                            "expanded_url": "https://www.facebook.com/adukaar/?ref=aymt_homepage_panel",
+                            "display_url": "facebook.com/adukaar/?ref=a\u2026",
+                            "indices": [
+                                0,
+                                23
+                            ]
+                        }
+                    ]
+                },
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 293,
+            "friends_count": 767,
+            "listed_count": 2,
+            "created_at": "Sun May 30 01:25:37 +0000 2010",
+            "favourites_count": 848,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": false,
+            "verified": false,
+            "statuses_count": 3299,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "000000",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1411104166009835521/-bedPUON_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1411104166009835521/-bedPUON_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/149712770/1615300343",
+            "profile_link_color": "FAB81E",
+            "profile_sidebar_border_color": "000000",
+            "profile_sidebar_fill_color": "000000",
+            "profile_text_color": "000000",
+            "profile_use_background_image": false,
+            "has_extended_profile": false,
+            "default_profile": false,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none",
+            "withheld_in_countries": []
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 3,
+        "favorite_count": 6,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "es"
+    },
+    "is_quote_status": false,
+    "retweet_count": 3,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "es"
+}

@@ -1,0 +1,170 @@
+{
+    "created_at": "Thu Jul 15 17:19:06 +0000 2021",
+    "id": 1415722603730374656,
+    "id_str": "1415722603730374656",
+    "full_text": "@censhi4 @onlygonfer19 @Suicidin1 @luconese @bilardium @AntoGriezmann @_clashead_ Solamente si sigue jugando advincula en colon",
+    "truncated": false,
+    "display_text_range": [
+        82,
+        127
+    ],
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "censhi4",
+                "name": "Allegro Vivace",
+                "id": 1364067092773941248,
+                "id_str": "1364067092773941248",
+                "indices": [
+                    0,
+                    8
+                ]
+            },
+            {
+                "screen_name": "onlygonfer19",
+                "name": "Gonza",
+                "id": 1192420377168896001,
+                "id_str": "1192420377168896001",
+                "indices": [
+                    9,
+                    22
+                ]
+            },
+            {
+                "screen_name": "Suicidin1",
+                "name": "Lucas",
+                "id": 1412802549321809921,
+                "id_str": "1412802549321809921",
+                "indices": [
+                    23,
+                    33
+                ]
+            },
+            {
+                "screen_name": "luconese",
+                "name": "(lucas) sinesen't \ud83c\uddf8\ud83c\uddea",
+                "id": 3375017679,
+                "id_str": "3375017679",
+                "indices": [
+                    34,
+                    43
+                ]
+            },
+            {
+                "screen_name": "bilardium",
+                "name": "encontr\u00e9 la soluci\u00f3n al problema de estar basada",
+                "id": 1395462680627097623,
+                "id_str": "1395462680627097623",
+                "indices": [
+                    44,
+                    54
+                ]
+            },
+            {
+                "screen_name": "AntoGriezmann",
+                "name": "Antoine Griezmann",
+                "id": 950341134,
+                "id_str": "950341134",
+                "indices": [
+                    55,
+                    69
+                ]
+            },
+            {
+                "screen_name": "_clashead_",
+                "name": "juani",
+                "id": 1007407685657157632,
+                "id_str": "1007407685657157632",
+                "indices": [
+                    70,
+                    81
+                ]
+            }
+        ],
+        "urls": []
+    },
+    "metadata": {
+        "iso_language_code": "es",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_status_id": 1415716145210998789,
+    "in_reply_to_status_id_str": "1415716145210998789",
+    "in_reply_to_user_id": 1364067092773941248,
+    "in_reply_to_user_id_str": "1364067092773941248",
+    "in_reply_to_screen_name": "censhi4",
+    "user": {
+        "id": 1329134451155197952,
+        "id_str": "1329134451155197952",
+        "name": "caca pedo pis",
+        "screen_name": "juaneloide4",
+        "location": "",
+        "description": "me suspendieron 4 veces el baile del duende etc",
+        "url": "https://t.co/4yWeV4fczr",
+        "entities": {
+            "url": {
+                "urls": [
+                    {
+                        "url": "https://t.co/4yWeV4fczr",
+                        "expanded_url": "https://curiouscat.qa/Juaneloide",
+                        "display_url": "curiouscat.qa/Juaneloide",
+                        "indices": [
+                            0,
+                            23
+                        ]
+                    }
+                ]
+            },
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 1626,
+        "friends_count": 300,
+        "listed_count": 0,
+        "created_at": "Wed Nov 18 18:48:51 +0000 2020",
+        "favourites_count": 13083,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 6126,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": null,
+        "profile_background_image_url_https": null,
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1338620604795252739/jcMmJkIs_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1338620604795252739/jcMmJkIs_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1329134451155197952/1607900188",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": true,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 2,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "es"
+}

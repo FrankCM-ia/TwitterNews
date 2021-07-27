@@ -1,0 +1,120 @@
+{
+    "created_at": "Thu Jul 15 18:36:48 +0000 2021",
+    "id": 1415742158334795778,
+    "id_str": "1415742158334795778",
+    "full_text": "\ud83c\uddf5\ud83c\uddea\u26a1\ufe0f\ud83c\udde6\ud83c\uddf7 Luis Adv\u00edncula ya ser\u00eda nuevo jugador de Boca Juniors\nhttps://t.co/FY4rmcZSCx",
+    "truncated": false,
+    "display_text_range": [
+        0,
+        84
+    ],
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+            {
+                "url": "https://t.co/FY4rmcZSCx",
+                "expanded_url": "https://www.expreso.com.pe/deportes/luis-advincula-ya-seria-nuevo-jugador-de-boca-juniors/",
+                "display_url": "expreso.com.pe/deportes/luis-\u2026",
+                "indices": [
+                    61,
+                    84
+                ]
+            }
+        ]
+    },
+    "metadata": {
+        "iso_language_code": "es",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 225232891,
+        "id_str": "225232891",
+        "name": "Diario Expreso",
+        "screen_name": "ExpresoPeru",
+        "location": "Per\u00fa",
+        "description": "Suscr\u00edbete a nuestra edici\u00f3n digital y mantente informado con noticias del Per\u00fa y el mundo, aqu\u00ed \u27a1\ufe0f https://t.co/gdt1Wu5SQo",
+        "url": "https://t.co/OqgZho3oIW",
+        "entities": {
+            "url": {
+                "urls": [
+                    {
+                        "url": "https://t.co/OqgZho3oIW",
+                        "expanded_url": "http://www.expreso.com.pe",
+                        "display_url": "expreso.com.pe",
+                        "indices": [
+                            0,
+                            23
+                        ]
+                    }
+                ]
+            },
+            "description": {
+                "urls": [
+                    {
+                        "url": "https://t.co/gdt1Wu5SQo",
+                        "expanded_url": "https://bit.ly/33XfIDk",
+                        "display_url": "bit.ly/33XfIDk",
+                        "indices": [
+                            100,
+                            123
+                        ]
+                    }
+                ]
+            }
+        },
+        "protected": false,
+        "followers_count": 314915,
+        "friends_count": 543,
+        "listed_count": 660,
+        "created_at": "Sat Dec 11 01:55:08 +0000 2010",
+        "favourites_count": 116,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 136343,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "022330",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1331431423371321345/mel3jc9g_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1331431423371321345/mel3jc9g_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/225232891/1625398874",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_border_color": "A8C7F7",
+        "profile_sidebar_fill_color": "C0DFEC",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 1,
+    "favorite_count": 17,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "es"
+}

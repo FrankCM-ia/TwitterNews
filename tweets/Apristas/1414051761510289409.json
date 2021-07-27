@@ -1,0 +1,106 @@
+{
+    "created_at": "Sun Jul 11 02:39:46 +0000 2021",
+    "id": 1414051761510289409,
+    "id_str": "1414051761510289409",
+    "full_text": "@Hipatthia @kihienjeff Me equivoqu\u00e9 en sumar los a\u00f1os que felizmente no tuvo el lagarto para terminar de destruir el pa\u00eds, pero no soy tan ciega para atribuir la corrupci\u00f3n solo a apristas y fujimoristas. Lo que vemos hoy es mucho m\u00e1s aberrante.",
+    "truncated": false,
+    "display_text_range": [
+        23,
+        245
+    ],
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "Hipatthia",
+                "name": "Cintthy",
+                "id": 772230349694828544,
+                "id_str": "772230349694828544",
+                "indices": [
+                    0,
+                    10
+                ]
+            },
+            {
+                "screen_name": "kihienjeff",
+                "name": "kihienjeff",
+                "id": 717023636033372160,
+                "id_str": "717023636033372160",
+                "indices": [
+                    11,
+                    22
+                ]
+            }
+        ],
+        "urls": []
+    },
+    "metadata": {
+        "iso_language_code": "es",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "in_reply_to_status_id": 1414021599888646144,
+    "in_reply_to_status_id_str": "1414021599888646144",
+    "in_reply_to_user_id": 772230349694828544,
+    "in_reply_to_user_id_str": "772230349694828544",
+    "in_reply_to_screen_name": "Hipatthia",
+    "user": {
+        "id": 457103848,
+        "id_str": "457103848",
+        "name": "sintitubeos",
+        "screen_name": "sintitubeos",
+        "location": "",
+        "description": "periodista independiente con estudios de derecho y con doctorado en maternidad, que no soporta ver hundirse a su pa\u00eds.",
+        "url": null,
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 9,
+        "friends_count": 134,
+        "listed_count": 0,
+        "created_at": "Sat Jan 07 01:20:50 +0000 2012",
+        "favourites_count": 1372,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 712,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/545635725077536768/ps5K_I4-_normal.jpeg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/545635725077536768/ps5K_I4-_normal.jpeg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "es"
+}

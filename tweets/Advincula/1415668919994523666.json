@@ -1,0 +1,120 @@
+{
+    "created_at": "Thu Jul 15 13:45:47 +0000 2021",
+    "id": 1415668919994523666,
+    "id_str": "1415668919994523666",
+    "full_text": "@LuisFregossi @ClubAmerica Yo no creo que compren ahora, antes de finalizar la situaci\u00f3n con Mineiro \u00bfpara que queremos a Advincula, Roger Martinez o Borja? \u00bfpara jugar la copa Argentina?",
+    "truncated": false,
+    "display_text_range": [
+        27,
+        187
+    ],
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "LuisFregossi",
+                "name": "Luis Fregossi",
+                "id": 132219286,
+                "id_str": "132219286",
+                "indices": [
+                    0,
+                    13
+                ]
+            },
+            {
+                "screen_name": "ClubAmerica",
+                "name": "Club Am\u00e9rica",
+                "id": 122211977,
+                "id_str": "122211977",
+                "indices": [
+                    14,
+                    26
+                ]
+            }
+        ],
+        "urls": []
+    },
+    "metadata": {
+        "iso_language_code": "es",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "in_reply_to_status_id": 1415658652413927426,
+    "in_reply_to_status_id_str": "1415658652413927426",
+    "in_reply_to_user_id": 132219286,
+    "in_reply_to_user_id_str": "132219286",
+    "in_reply_to_screen_name": "LuisFregossi",
+    "user": {
+        "id": 194732986,
+        "id_str": "194732986",
+        "name": "Cesar",
+        "screen_name": "DarioCesarSR",
+        "location": "Santa Rosa La Pampa Argentina",
+        "description": "Neurocirujano , Piloto de Aviones, amante de Boca Juniors,Los perros Doberman, y el boxeo.- ***BARBIJO (tapando boca y nariz), DISTANCIA, VENTILACION***",
+        "url": "https://t.co/8lP4q91W2O",
+        "entities": {
+            "url": {
+                "urls": [
+                    {
+                        "url": "https://t.co/8lP4q91W2O",
+                        "expanded_url": "http://www.meganlp.com.ar",
+                        "display_url": "meganlp.com.ar",
+                        "indices": [
+                            0,
+                            23
+                        ]
+                    }
+                ]
+            },
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 535,
+        "friends_count": 1176,
+        "listed_count": 4,
+        "created_at": "Fri Sep 24 21:39:20 +0000 2010",
+        "favourites_count": 8935,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 23736,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/479409290533273600/dcczYIv__normal.jpeg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/479409290533273600/dcczYIv__normal.jpeg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/194732986/1403135266",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": true,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "es"
+}

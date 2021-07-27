@@ -1,0 +1,97 @@
+{
+    "created_at": "Mon Jul 12 22:48:42 +0000 2021",
+    "id": 1414718385821192192,
+    "id_str": "1414718385821192192",
+    "full_text": "Chau Cardona gracias por todo, \u00bfBorja y Advincula llegan para jugar ma\u00f1ana? No? Cagamos. https://t.co/pv9gYY8ylj",
+    "truncated": false,
+    "display_text_range": [
+        0,
+        112
+    ],
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+            {
+                "url": "https://t.co/pv9gYY8ylj",
+                "expanded_url": "https://www.infobae.com/deportes/2021/07/12/mientras-sufre-por-el-desplante-de-cardona-boca-esta-a-punto-de-cerrar-dos-refuerzos-de-jerarquia/",
+                "display_url": "infobae.com/deportes/2021/\u2026",
+                "indices": [
+                    89,
+                    112
+                ]
+            }
+        ]
+    },
+    "metadata": {
+        "iso_language_code": "es",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 980419393954992128,
+        "id_str": "980419393954992128",
+        "name": "Mart\u00edn Ferro",
+        "screen_name": "MartinFerro80",
+        "location": "Argentina",
+        "description": "",
+        "url": null,
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 154,
+        "friends_count": 562,
+        "listed_count": 1,
+        "created_at": "Sun Apr 01 12:19:33 +0000 2018",
+        "favourites_count": 1645,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 10779,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": null,
+        "profile_background_image_url_https": null,
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1409617490662002693/qydUFnpq_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1409617490662002693/qydUFnpq_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/980419393954992128/1600004090",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "es"
+}

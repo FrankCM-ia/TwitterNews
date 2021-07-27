@@ -1,0 +1,224 @@
+{
+    "created_at": "Sat Jul 10 14:17:50 +0000 2021",
+    "id": 1413865046292185093,
+    "id_str": "1413865046292185093",
+    "full_text": "Fujimoristas y apristas dobletean en \n#LosDinamicosDelCentro  y los \n#LosDinamicosDelTaper https://t.co/4kxG0BB3IK",
+    "truncated": false,
+    "display_text_range": [
+        0,
+        90
+    ],
+    "entities": {
+        "hashtags": [
+            {
+                "text": "LosDinamicosDelCentro",
+                "indices": [
+                    38,
+                    60
+                ]
+            },
+            {
+                "text": "LosDinamicosDelTaper",
+                "indices": [
+                    69,
+                    90
+                ]
+            }
+        ],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+            {
+                "url": "https://t.co/4kxG0BB3IK",
+                "expanded_url": "https://twitter.com/NoPrepara2/status/1413697495746727936",
+                "display_url": "twitter.com/NoPrepara2/sta\u2026",
+                "indices": [
+                    91,
+                    114
+                ]
+            }
+        ]
+    },
+    "metadata": {
+        "iso_language_code": "es",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 706936213127749632,
+        "id_str": "706936213127749632",
+        "name": "KeikoNOVA",
+        "screen_name": "keikonova2016",
+        "location": "Peru",
+        "description": "KEIKO NO VA es una campa\u00f1a contra la candidatura de Keiko Fujimori por representar un pasado nefasto, un presente de continuismo y un futuro lleno de corrupci\u00f3n",
+        "url": null,
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 21446,
+        "friends_count": 939,
+        "listed_count": 32,
+        "created_at": "Mon Mar 07 20:15:02 +0000 2016",
+        "favourites_count": 13476,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 18315,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1357061440142778370/nZtKtA_O_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1357061440142778370/nZtKtA_O_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/706936213127749632/1622314402",
+        "profile_link_color": "FF691F",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "profile_use_background_image": false,
+        "has_extended_profile": true,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": true,
+    "quoted_status_id": 1413697495746727936,
+    "quoted_status_id_str": "1413697495746727936",
+    "quoted_status": {
+        "created_at": "Sat Jul 10 03:12:02 +0000 2021",
+        "id": 1413697495746727936,
+        "id_str": "1413697495746727936",
+        "full_text": "\"Los din\u00e1micos del centro cuentan con muchos integrantes fujimoristas y apristas.\"\n\nhttps://t.co/S7Uhh7wYKP",
+        "truncated": false,
+        "display_text_range": [
+            0,
+            107
+        ],
+        "entities": {
+            "hashtags": [],
+            "symbols": [],
+            "user_mentions": [],
+            "urls": [
+                {
+                    "url": "https://t.co/S7Uhh7wYKP",
+                    "expanded_url": "https://www.youtube.com/watch?v=iatBnVcnP8E&ab_channel=Noestamosprepara2",
+                    "display_url": "youtube.com/watch?v=iatBnV\u2026",
+                    "indices": [
+                        84,
+                        107
+                    ]
+                }
+            ]
+        },
+        "metadata": {
+            "iso_language_code": "es",
+            "result_type": "recent"
+        },
+        "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 2727806329,
+            "id_str": "2727806329",
+            "name": "#NoEstamosPrepara2",
+            "screen_name": "NoPrepara2",
+            "location": "Los Olivos, Peru",
+            "description": "El podcast que nunca est\u00e1 listo.",
+            "url": "https://t.co/gkwi8xvtQJ",
+            "entities": {
+                "url": {
+                    "urls": [
+                        {
+                            "url": "https://t.co/gkwi8xvtQJ",
+                            "expanded_url": "https://www.youtube.com/c/Noestamosprepara2",
+                            "display_url": "youtube.com/c/Noestamospre\u2026",
+                            "indices": [
+                                0,
+                                23
+                            ]
+                        }
+                    ]
+                },
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 76714,
+            "friends_count": 3944,
+            "listed_count": 118,
+            "created_at": "Tue Aug 12 23:43:45 +0000 2014",
+            "favourites_count": 37323,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": true,
+            "verified": false,
+            "statuses_count": 46217,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "C0DEED",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1395770857923006468/LbqlDlnY_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1395770857923006468/LbqlDlnY_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/2727806329/1622313982",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "has_extended_profile": true,
+            "default_profile": true,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none",
+            "withheld_in_countries": []
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 16,
+        "favorite_count": 51,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "es"
+    },
+    "retweet_count": 5,
+    "favorite_count": 6,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "es"
+}

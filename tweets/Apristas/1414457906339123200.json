@@ -1,0 +1,205 @@
+{
+    "created_at": "Mon Jul 12 05:33:38 +0000 2021",
+    "id": 1414457906339123200,
+    "id_str": "1414457906339123200",
+    "full_text": "RT @MonicaYaya: Escucho a los congresistas pro senderistas llamarse \"compa\u00f1ero\" en televisi\u00f3n.\n\u00bfEst\u00e1n tratando de hacerse pasar por aprista\u2026",
+    "truncated": false,
+    "display_text_range": [
+        0,
+        140
+    ],
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "MonicaYaya",
+                "name": "M\u00f2nica Yaya",
+                "id": 102803486,
+                "id_str": "102803486",
+                "indices": [
+                    3,
+                    14
+                ]
+            }
+        ],
+        "urls": []
+    },
+    "metadata": {
+        "iso_language_code": "es",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 1263256574,
+        "id_str": "1263256574",
+        "name": "sofia",
+        "screen_name": "melacastro",
+        "location": "",
+        "description": "",
+        "url": null,
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 15,
+        "friends_count": 285,
+        "listed_count": 0,
+        "created_at": "Wed Mar 13 01:01:47 +0000 2013",
+        "favourites_count": 2434,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 3359,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1397168012269129729/9WNNY55M_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1397168012269129729/9WNNY55M_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+        "created_at": "Mon Jul 12 04:49:20 +0000 2021",
+        "id": 1414446754431442949,
+        "id_str": "1414446754431442949",
+        "full_text": "Escucho a los congresistas pro senderistas llamarse \"compa\u00f1ero\" en televisi\u00f3n.\n\u00bfEst\u00e1n tratando de hacerse pasar por apristas?",
+        "truncated": false,
+        "display_text_range": [
+            0,
+            125
+        ],
+        "entities": {
+            "hashtags": [],
+            "symbols": [],
+            "user_mentions": [],
+            "urls": []
+        },
+        "metadata": {
+            "iso_language_code": "es",
+            "result_type": "recent"
+        },
+        "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 102803486,
+            "id_str": "102803486",
+            "name": "M\u00f2nica Yaya",
+            "screen_name": "MonicaYaya",
+            "location": "Lima _ Per\u00fa",
+            "description": "Anticorrupci\u00f2n. Egresada de UdeLima,PUCP y https://t.co/ZQVHftN8sp Bologna. Ex Pdta de Tribunal de OSCE. Consultada por medios de comunicaci\u00f3n en materia de Contratos del Estado.",
+            "url": "https://t.co/IkfIvPwSvB",
+            "entities": {
+                "url": {
+                    "urls": [
+                        {
+                            "url": "https://t.co/IkfIvPwSvB",
+                            "expanded_url": "https://www.youtube.com/channel/UCazZkoDr5g3j0VMpwCTLckQ",
+                            "display_url": "youtube.com/channel/UCazZk\u2026",
+                            "indices": [
+                                0,
+                                23
+                            ]
+                        }
+                    ]
+                },
+                "description": {
+                    "urls": [
+                        {
+                            "url": "https://t.co/ZQVHftN8sp",
+                            "expanded_url": "http://U.de",
+                            "display_url": "U.de",
+                            "indices": [
+                                43,
+                                66
+                            ]
+                        }
+                    ]
+                }
+            },
+            "protected": false,
+            "followers_count": 22123,
+            "friends_count": 830,
+            "listed_count": 23,
+            "created_at": "Thu Jan 07 22:02:03 +0000 2010",
+            "favourites_count": 32472,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": true,
+            "verified": false,
+            "statuses_count": 48834,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "C0DEED",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1199399297160286211/drm92rRh_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1199399297160286211/drm92rRh_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/102803486/1619136490",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "has_extended_profile": false,
+            "default_profile": true,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none",
+            "withheld_in_countries": []
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 223,
+        "favorite_count": 972,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "es"
+    },
+    "is_quote_status": false,
+    "retweet_count": 223,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "es"
+}

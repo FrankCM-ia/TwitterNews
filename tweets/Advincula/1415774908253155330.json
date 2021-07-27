@@ -1,0 +1,196 @@
+{
+    "created_at": "Thu Jul 15 20:46:56 +0000 2021",
+    "id": 1415774908253155330,
+    "id_str": "1415774908253155330",
+    "full_text": "RT @LuisFregossi: \ud83d\udea8 AHORA \ud83d\udea8 \nLuis Advincula viaja el fin de semana hacia Buenos Aires para realizar la revisi\u00f3n m\u00e9dica y sumarse al plantel\u2026",
+    "truncated": false,
+    "display_text_range": [
+        0,
+        140
+    ],
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "LuisFregossi",
+                "name": "Luis Fregossi",
+                "id": 132219286,
+                "id_str": "132219286",
+                "indices": [
+                    3,
+                    16
+                ]
+            }
+        ],
+        "urls": []
+    },
+    "metadata": {
+        "iso_language_code": "es",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 1385974361245499393,
+        "id_str": "1385974361245499393",
+        "name": "(\ud83c\udfc6\ud83c\udfc6\ud83c\udfc6\ud83c\udf0f)\ud83c\uddf8\ud83c\uddeaPandolfi (\ud83c\udfc6\ud83c\udfc6\ud83c\udfc6\ud83c\udfc6\ud83c\udfc6\ud83c\udfc6\ud83c\udf0e)",
+        "screen_name": "PandolfiEl",
+        "location": "",
+        "description": "Xeneize de nacimiento \ud83d\udc99\ud83d\udc9b\ud83d\udc99\n Hijo vos te fuiste a la \ud83c\udd71\ufe0f por puto y cag\u00f3n \ud83d\udc7b\ncontala como quieras",
+        "url": null,
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 35,
+        "friends_count": 278,
+        "listed_count": 0,
+        "created_at": "Sat Apr 24 15:10:21 +0000 2021",
+        "favourites_count": 5514,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 4285,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": null,
+        "profile_background_image_url_https": null,
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1404953847060107270/qEjW9bUA_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1404953847060107270/qEjW9bUA_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1385974361245499393/1619278624",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": true,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+        "created_at": "Thu Jul 15 17:55:17 +0000 2021",
+        "id": 1415731712005484544,
+        "id_str": "1415731712005484544",
+        "full_text": "\ud83d\udea8 AHORA \ud83d\udea8 \nLuis Advincula viaja el fin de semana hacia Buenos Aires para realizar la revisi\u00f3n m\u00e9dica y sumarse al plantel de Miguel Angel Russo.( Deber\u00e1 antes cumpl\u00edr con el aislamiento obligatorio)\nEl acuerdo se cerr\u00f3 en \u20ac 2,3 millones por la totalidad de su ficha.\u26bd",
+        "truncated": false,
+        "display_text_range": [
+            0,
+            267
+        ],
+        "entities": {
+            "hashtags": [],
+            "symbols": [],
+            "user_mentions": [],
+            "urls": []
+        },
+        "metadata": {
+            "iso_language_code": "es",
+            "result_type": "recent"
+        },
+        "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 132219286,
+            "id_str": "132219286",
+            "name": "Luis Fregossi",
+            "screen_name": "LuisFregossi",
+            "location": "cap fed ",
+            "description": "Boca y Selecci\u00f3n Argentina \ud83c\udde6\ud83c\uddf7.\nCreador y conductor de @mundobocaradio y @mundoargentina3 (Programa y transmisi\u00f3n deportiva x  @radiosur105\ud83c\udf99\ufe0f  )",
+            "url": "https://t.co/G6hrt7J1ds",
+            "entities": {
+                "url": {
+                    "urls": [
+                        {
+                            "url": "https://t.co/G6hrt7J1ds",
+                            "expanded_url": "https://www.instagram.com/p/BaEnM8wl6fE/",
+                            "display_url": "instagram.com/p/BaEnM8wl6fE/",
+                            "indices": [
+                                0,
+                                23
+                            ]
+                        }
+                    ]
+                },
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 34187,
+            "friends_count": 397,
+            "listed_count": 155,
+            "created_at": "Mon Apr 12 16:32:13 +0000 2010",
+            "favourites_count": 90991,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": true,
+            "verified": false,
+            "statuses_count": 104937,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "642D8B",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme10/bg.gif",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme10/bg.gif",
+            "profile_background_tile": true,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1367915987929022466/5GAtEiQ4_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1367915987929022466/5GAtEiQ4_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/132219286/1614971290",
+            "profile_link_color": "FF0000",
+            "profile_sidebar_border_color": "65B0DA",
+            "profile_sidebar_fill_color": "7AC3EE",
+            "profile_text_color": "3D1957",
+            "profile_use_background_image": true,
+            "has_extended_profile": false,
+            "default_profile": false,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none",
+            "withheld_in_countries": []
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 77,
+        "favorite_count": 746,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "es"
+    },
+    "is_quote_status": false,
+    "retweet_count": 77,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "es"
+}

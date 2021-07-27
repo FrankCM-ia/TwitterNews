@@ -1,0 +1,180 @@
+{
+    "created_at": "Thu Jul 15 23:13:11 +0000 2021",
+    "id": 1415811710825422851,
+    "id_str": "1415811710825422851",
+    "full_text": "\u00bfSe dar\u00e1 el traspaso?\nConoce todos los detalles en https://t.co/259qKEdLw8 #Per\u00fa #F\u00fatbol #Partidos @BocaJrsOficial #Internacional #Deporte #Titular #Temporadas\nhttps://t.co/9BWGo4Eh42",
+    "truncated": false,
+    "display_text_range": [
+        0,
+        183
+    ],
+    "entities": {
+        "hashtags": [
+            {
+                "text": "Per\u00fa",
+                "indices": [
+                    75,
+                    80
+                ]
+            },
+            {
+                "text": "F\u00fatbol",
+                "indices": [
+                    81,
+                    88
+                ]
+            },
+            {
+                "text": "Partidos",
+                "indices": [
+                    89,
+                    98
+                ]
+            },
+            {
+                "text": "Internacional",
+                "indices": [
+                    115,
+                    129
+                ]
+            },
+            {
+                "text": "Deporte",
+                "indices": [
+                    130,
+                    138
+                ]
+            },
+            {
+                "text": "Titular",
+                "indices": [
+                    139,
+                    147
+                ]
+            },
+            {
+                "text": "Temporadas",
+                "indices": [
+                    148,
+                    159
+                ]
+            }
+        ],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "BocaJrsOficial",
+                "name": "Boca Juniors",
+                "id": 42933426,
+                "id_str": "42933426",
+                "indices": [
+                    99,
+                    114
+                ]
+            }
+        ],
+        "urls": [
+            {
+                "url": "https://t.co/259qKEdLw8",
+                "expanded_url": "http://www.latingoles.com",
+                "display_url": "latingoles.com",
+                "indices": [
+                    51,
+                    74
+                ]
+            },
+            {
+                "url": "https://t.co/9BWGo4Eh42",
+                "expanded_url": "https://www.latingoles.com/peruano-advincula-sigue-entrenando-mientras-se-resuelve-su-traspaso-a-boca-juniors/",
+                "display_url": "latingoles.com/peruano-advinc\u2026",
+                "indices": [
+                    160,
+                    183
+                ]
+            }
+        ]
+    },
+    "metadata": {
+        "iso_language_code": "es",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 930344379545477121,
+        "id_str": "930344379545477121",
+        "name": "Latingoles",
+        "screen_name": "latingoles",
+        "location": "Georgia, USA",
+        "description": "La p\u00e1gina web de f\u00fatbol con las noticias de los nuestros por el mundo; en espa\u00f1ol e ingl\u00e9s...",
+        "url": "https://t.co/zS8sOhB8cN",
+        "entities": {
+            "url": {
+                "urls": [
+                    {
+                        "url": "https://t.co/zS8sOhB8cN",
+                        "expanded_url": "http://www.latingoles.com",
+                        "display_url": "latingoles.com",
+                        "indices": [
+                            0,
+                            23
+                        ]
+                    }
+                ]
+            },
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 24,
+        "friends_count": 379,
+        "listed_count": 0,
+        "created_at": "Tue Nov 14 07:59:19 +0000 2017",
+        "favourites_count": 7,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 1761,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": null,
+        "profile_background_image_url_https": null,
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/997339474945290240/jr8F88hz_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/997339474945290240/jr8F88hz_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/930344379545477121/1592153561",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "es"
+}

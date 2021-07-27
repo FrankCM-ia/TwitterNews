@@ -1,0 +1,207 @@
+{
+    "created_at": "Tue Jul 13 20:36:21 +0000 2021",
+    "id": 1415047467989704706,
+    "id_str": "1415047467989704706",
+    "full_text": "\ud83d\udde3\ufe0f \"Luis Adv\u00edncula est\u00e1 pr\u00f3ximo a sellar su llegada a #Boca\" v\u00eda @NAnnaratone \n\n\ud83d\udd0a Esc\u00fachanos EN VIVO: https://t.co/8wFzykoSL5 https://t.co/hcfuHXxFEJ",
+    "truncated": false,
+    "display_text_range": [
+        0,
+        125
+    ],
+    "entities": {
+        "hashtags": [
+            {
+                "text": "Boca",
+                "indices": [
+                    54,
+                    59
+                ]
+            }
+        ],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "NAnnaratone",
+                "name": "Nicol\u00e1s Annaratone",
+                "id": 757263657206243328,
+                "id_str": "757263657206243328",
+                "indices": [
+                    65,
+                    77
+                ]
+            }
+        ],
+        "urls": [
+            {
+                "url": "https://t.co/8wFzykoSL5",
+                "expanded_url": "http://radiozonica.com.ar",
+                "display_url": "radiozonica.com.ar",
+                "indices": [
+                    102,
+                    125
+                ]
+            }
+        ],
+        "media": [
+            {
+                "id": 1415047448448413701,
+                "id_str": "1415047448448413701",
+                "indices": [
+                    126,
+                    149
+                ],
+                "media_url": "http://pbs.twimg.com/media/E6NCKDkXMAUCVp2.png",
+                "media_url_https": "https://pbs.twimg.com/media/E6NCKDkXMAUCVp2.png",
+                "url": "https://t.co/hcfuHXxFEJ",
+                "display_url": "pic.twitter.com/hcfuHXxFEJ",
+                "expanded_url": "https://twitter.com/falsonueve_f9/status/1415047467989704706/photo/1",
+                "type": "photo",
+                "sizes": {
+                    "medium": {
+                        "w": 720,
+                        "h": 509,
+                        "resize": "fit"
+                    },
+                    "large": {
+                        "w": 720,
+                        "h": 509,
+                        "resize": "fit"
+                    },
+                    "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                    },
+                    "small": {
+                        "w": 680,
+                        "h": 481,
+                        "resize": "fit"
+                    }
+                }
+            }
+        ]
+    },
+    "extended_entities": {
+        "media": [
+            {
+                "id": 1415047448448413701,
+                "id_str": "1415047448448413701",
+                "indices": [
+                    126,
+                    149
+                ],
+                "media_url": "http://pbs.twimg.com/media/E6NCKDkXMAUCVp2.png",
+                "media_url_https": "https://pbs.twimg.com/media/E6NCKDkXMAUCVp2.png",
+                "url": "https://t.co/hcfuHXxFEJ",
+                "display_url": "pic.twitter.com/hcfuHXxFEJ",
+                "expanded_url": "https://twitter.com/falsonueve_f9/status/1415047467989704706/photo/1",
+                "type": "photo",
+                "sizes": {
+                    "medium": {
+                        "w": 720,
+                        "h": 509,
+                        "resize": "fit"
+                    },
+                    "large": {
+                        "w": 720,
+                        "h": 509,
+                        "resize": "fit"
+                    },
+                    "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                    },
+                    "small": {
+                        "w": 680,
+                        "h": 481,
+                        "resize": "fit"
+                    }
+                }
+            }
+        ]
+    },
+    "metadata": {
+        "iso_language_code": "es",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 740706352721502210,
+        "id_str": "740706352721502210",
+        "name": "Falso Nueve \ud83c\udf99 CAMPEONES \ud83c\udfc6\ud83c\udde6\ud83c\uddf7",
+        "screen_name": "falsonueve_f9",
+        "location": "Argentina",
+        "description": "Periodismo independiente. Nos escuchas los martes de 17 a 18 en @RadioZonica y viernes de 16 a 17 en @LaRZradio. Radio y transmisiones deportivas \ud83d\udcfb\u26bd\ufe0f\ud83c\udf99\ufe0f",
+        "url": "https://t.co/dVJNWjg0Bp",
+        "entities": {
+            "url": {
+                "urls": [
+                    {
+                        "url": "https://t.co/dVJNWjg0Bp",
+                        "expanded_url": "https://www.youtube.com/FALSONUEVE",
+                        "display_url": "youtube.com/FALSONUEVE",
+                        "indices": [
+                            0,
+                            23
+                        ]
+                    }
+                ]
+            },
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 2725,
+        "friends_count": 343,
+        "listed_count": 22,
+        "created_at": "Thu Jun 09 00:45:31 +0000 2016",
+        "favourites_count": 3397,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 48680,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1387047741553995779/aoGMhucY_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1387047741553995779/aoGMhucY_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/740706352721502210/1623333263",
+        "profile_link_color": "1B95E0",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "profile_use_background_image": false,
+        "has_extended_profile": true,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 4,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "es"
+}

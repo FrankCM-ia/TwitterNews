@@ -1,0 +1,295 @@
+{
+    "created_at": "Sun Jul 11 21:27:43 +0000 2021",
+    "id": 1414335620885979138,
+    "id_str": "1414335620885979138",
+    "full_text": "RT @ereynaabogado: Cae castrismo en Cuba, cae el chavismo en Venezuela y se remece al comunismo latinoamericano. Los apristas \u201cNos solidari\u2026",
+    "truncated": false,
+    "display_text_range": [
+        0,
+        140
+    ],
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "ereynaabogado",
+                "name": "Erasmo Reyna",
+                "id": 1237286593,
+                "id_str": "1237286593",
+                "indices": [
+                    3,
+                    17
+                ]
+            }
+        ],
+        "urls": []
+    },
+    "metadata": {
+        "iso_language_code": "es",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 82714803,
+        "id_str": "82714803",
+        "name": "Nidia Vilchez",
+        "screen_name": "nidiavilchez",
+        "location": "Lima - Per\u00fa",
+        "description": "Consultora Senior \nEx Ministra de Vivienda, ex Ministra de la Mujer.  Doctora en Administraci\u00f3n. Docente U.\nHuancaina de pura cepa. Orgullosa mam\u00e1 de Nardy.",
+        "url": null,
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 20392,
+        "friends_count": 1622,
+        "listed_count": 166,
+        "created_at": "Thu Oct 15 21:16:19 +0000 2009",
+        "favourites_count": 5393,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 6842,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1330587820126298112/3vwGHTVw_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1330587820126298112/3vwGHTVw_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/82714803/1587092978",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": true,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+        "created_at": "Sun Jul 11 21:24:34 +0000 2021",
+        "id": 1414334825717190662,
+        "id_str": "1414334825717190662",
+        "full_text": "Cae castrismo en Cuba, cae el chavismo en Venezuela y se remece al comunismo latinoamericano. Los apristas \u201cNos solidarizamos con todos los pueblos oprimidos del mundo\u201d\n!Y va caer, y va caer, la dictadura va caer! https://t.co/BCx1nlEosF",
+        "truncated": false,
+        "display_text_range": [
+            0,
+            213
+        ],
+        "entities": {
+            "hashtags": [],
+            "symbols": [],
+            "user_mentions": [],
+            "urls": [
+                {
+                    "url": "https://t.co/BCx1nlEosF",
+                    "expanded_url": "https://twitter.com/ereynaabogado/status/1414332792385818632",
+                    "display_url": "twitter.com/ereynaabogado/\u2026",
+                    "indices": [
+                        214,
+                        237
+                    ]
+                }
+            ]
+        },
+        "metadata": {
+            "iso_language_code": "es",
+            "result_type": "recent"
+        },
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 1237286593,
+            "id_str": "1237286593",
+            "name": "Erasmo Reyna",
+            "screen_name": "ereynaabogado",
+            "location": "Lima",
+            "description": "Chimbotano, aprista de nacimiento y abogado de profesi\u00f3n",
+            "url": null,
+            "entities": {
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 12423,
+            "friends_count": 811,
+            "listed_count": 24,
+            "created_at": "Sun Mar 03 01:28:11 +0000 2013",
+            "favourites_count": 21118,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": true,
+            "verified": false,
+            "statuses_count": 30868,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "C0DEED",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1401417453524094980/rMtEX8_C_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1401417453524094980/rMtEX8_C_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/1237286593/1405912167",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "has_extended_profile": true,
+            "default_profile": true,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none",
+            "withheld_in_countries": []
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": true,
+        "quoted_status_id": 1414332792385818632,
+        "quoted_status_id_str": "1414332792385818632",
+        "quoted_status": {
+            "created_at": "Sun Jul 11 21:16:29 +0000 2021",
+            "id": 1414332792385818632,
+            "id_str": "1414332792385818632",
+            "full_text": "\u00ab\u00bfQu\u00e9 pasa en Cuba?\n1) Hospitales colapsados\n2) No hay medicamentos ni comida\n3) Dictadura vende productos b\u00e1sicos al pueblo en EUROS\n4) No aceptan ayuda humanitaria\n5) Unos 7,000 casos de COVID diarios\n6) Multitudinarias colas para alimentos racionados... https://t.co/qHx9LcqG6k",
+            "truncated": false,
+            "display_text_range": [
+                0,
+                280
+            ],
+            "entities": {
+                "hashtags": [],
+                "symbols": [],
+                "user_mentions": [],
+                "urls": [
+                    {
+                        "url": "https://t.co/qHx9LcqG6k",
+                        "expanded_url": "https://pdctv.info/regimen-cubano-saca-militares-calles/?fbclid=IwAR23hFfSQ9ZYv1MdirP0hi0rGNZSGKDV9GrSOQQrSUUQqYzAvnl0OQASN_o",
+                        "display_url": "pdctv.info/regimen-cubano\u2026",
+                        "indices": [
+                            257,
+                            280
+                        ]
+                    }
+                ]
+            },
+            "metadata": {
+                "iso_language_code": "es",
+                "result_type": "recent"
+            },
+            "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+            "in_reply_to_status_id": null,
+            "in_reply_to_status_id_str": null,
+            "in_reply_to_user_id": null,
+            "in_reply_to_user_id_str": null,
+            "in_reply_to_screen_name": null,
+            "user": {
+                "id": 1237286593,
+                "id_str": "1237286593",
+                "name": "Erasmo Reyna",
+                "screen_name": "ereynaabogado",
+                "location": "Lima",
+                "description": "Chimbotano, aprista de nacimiento y abogado de profesi\u00f3n",
+                "url": null,
+                "entities": {
+                    "description": {
+                        "urls": []
+                    }
+                },
+                "protected": false,
+                "followers_count": 12423,
+                "friends_count": 811,
+                "listed_count": 24,
+                "created_at": "Sun Mar 03 01:28:11 +0000 2013",
+                "favourites_count": 21118,
+                "utc_offset": null,
+                "time_zone": null,
+                "geo_enabled": true,
+                "verified": false,
+                "statuses_count": 30868,
+                "lang": null,
+                "contributors_enabled": false,
+                "is_translator": false,
+                "is_translation_enabled": false,
+                "profile_background_color": "C0DEED",
+                "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+                "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+                "profile_background_tile": false,
+                "profile_image_url": "http://pbs.twimg.com/profile_images/1401417453524094980/rMtEX8_C_normal.jpg",
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/1401417453524094980/rMtEX8_C_normal.jpg",
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/1237286593/1405912167",
+                "profile_link_color": "1DA1F2",
+                "profile_sidebar_border_color": "C0DEED",
+                "profile_sidebar_fill_color": "DDEEF6",
+                "profile_text_color": "333333",
+                "profile_use_background_image": true,
+                "has_extended_profile": true,
+                "default_profile": true,
+                "default_profile_image": false,
+                "following": false,
+                "follow_request_sent": false,
+                "notifications": false,
+                "translator_type": "none",
+                "withheld_in_countries": []
+            },
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "contributors": null,
+            "is_quote_status": false,
+            "retweet_count": 146,
+            "favorite_count": 268,
+            "favorited": false,
+            "retweeted": false,
+            "possibly_sensitive": false,
+            "lang": "es"
+        },
+        "retweet_count": 26,
+        "favorite_count": 66,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "es"
+    },
+    "is_quote_status": true,
+    "quoted_status_id": 1414332792385818632,
+    "quoted_status_id_str": "1414332792385818632",
+    "retweet_count": 26,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "es"
+}

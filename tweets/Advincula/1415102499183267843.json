@@ -1,0 +1,110 @@
+{
+    "created_at": "Wed Jul 14 00:15:01 +0000 2021",
+    "id": 1415102499183267843,
+    "id_str": "1415102499183267843",
+    "full_text": "Julio Mel\u00e9ndez: \u201cJuan Rom\u00e1n Riquelme me llam\u00f3 por Luis Adv\u00edncula\u201d | ENTREVISTA https://t.co/bfR0aVvKR0",
+    "truncated": false,
+    "display_text_range": [
+        0,
+        102
+    ],
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+            {
+                "url": "https://t.co/bfR0aVvKR0",
+                "expanded_url": "http://dozz.es/854hf3",
+                "display_url": "dozz.es/854hf3",
+                "indices": [
+                    79,
+                    102
+                ]
+            }
+        ]
+    },
+    "metadata": {
+        "iso_language_code": "es",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"http://besocy.com\" rel=\"nofollow\">Besocy_Oficial</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 233033221,
+        "id_str": "233033221",
+        "name": "El Comercio",
+        "screen_name": "elcomercio_peru",
+        "location": "Lima, Per\u00fa",
+        "description": "El Comercio reporta en Twitter las noticias del Per\u00fa y el mundo, reportajes, opini\u00f3n y an\u00e1lisis.",
+        "url": "http://t.co/XhN9dEE6vj",
+        "entities": {
+            "url": {
+                "urls": [
+                    {
+                        "url": "http://t.co/XhN9dEE6vj",
+                        "expanded_url": "http://elcomercio.pe",
+                        "display_url": "elcomercio.pe",
+                        "indices": [
+                            0,
+                            22
+                        ]
+                    }
+                ]
+            },
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 702617,
+        "friends_count": 416,
+        "listed_count": 1183,
+        "created_at": "Sun Jan 02 02:52:20 +0000 2011",
+        "favourites_count": 585,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 259604,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "FFFFFF",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1330133483155566607/D9cdgHzR_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1330133483155566607/D9cdgHzR_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/233033221/1620156734",
+        "profile_link_color": "FAB81E",
+        "profile_sidebar_border_color": "CCCCCC",
+        "profile_sidebar_fill_color": "FFF2F2",
+        "profile_text_color": "000000",
+        "profile_use_background_image": true,
+        "has_extended_profile": true,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 7,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "es"
+}

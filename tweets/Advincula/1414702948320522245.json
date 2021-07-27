@@ -1,0 +1,310 @@
+{
+    "created_at": "Mon Jul 12 21:47:21 +0000 2021",
+    "id": 1414702948320522245,
+    "id_str": "1414702948320522245",
+    "full_text": "Advincula supuestamente ya est\u00e1, arrelgenle el contrato a \u00e9ste y no pido m\u00e1s.. https://t.co/YO0kgjPde4",
+    "truncated": false,
+    "display_text_range": [
+        0,
+        78
+    ],
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+            {
+                "url": "https://t.co/YO0kgjPde4",
+                "expanded_url": "https://twitter.com/InformacionCABJ/status/1414589222095396878",
+                "display_url": "twitter.com/InformacionCAB\u2026",
+                "indices": [
+                    79,
+                    102
+                ]
+            }
+        ]
+    },
+    "metadata": {
+        "iso_language_code": "es",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 1011390007947513856,
+        "id_str": "1011390007947513856",
+        "name": "J.R.10\u2764\ufe0f",
+        "screen_name": "JessRoldan12",
+        "location": "alejo Ledesma ",
+        "description": "la actitud no se negocia \ud83d\udc4a",
+        "url": null,
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 712,
+        "friends_count": 877,
+        "listed_count": 0,
+        "created_at": "Mon Jun 25 23:25:43 +0000 2018",
+        "favourites_count": 12830,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 5302,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": null,
+        "profile_background_image_url_https": null,
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1410151796564238338/266X8Iih_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1410151796564238338/266X8Iih_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1011390007947513856/1616078524",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": true,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": true,
+    "quoted_status_id": 1414589222095396878,
+    "quoted_status_id_str": "1414589222095396878",
+    "quoted_status": {
+        "created_at": "Mon Jul 12 14:15:27 +0000 2021",
+        "id": 1414589222095396878,
+        "id_str": "1414589222095396878",
+        "full_text": "\u26a0\ufe0f #Boca ofert\u00f3 4 millones de d\u00f3lares por el 50% del pase de Miguel #Borja y #Palmeiras \ud83c\udde7\ud83c\uddf7 acept\u00f3.\n\n\ud83d\udc49 Solo falta arreglar el contrato con el jugador.\n\n(V\u00eda: @Tato_Aguilera) https://t.co/VuDMEfZuVF",
+        "truncated": false,
+        "display_text_range": [
+            0,
+            172
+        ],
+        "entities": {
+            "hashtags": [
+                {
+                    "text": "Boca",
+                    "indices": [
+                        3,
+                        8
+                    ]
+                },
+                {
+                    "text": "Borja",
+                    "indices": [
+                        68,
+                        74
+                    ]
+                },
+                {
+                    "text": "Palmeiras",
+                    "indices": [
+                        77,
+                        87
+                    ]
+                }
+            ],
+            "symbols": [],
+            "user_mentions": [
+                {
+                    "screen_name": "Tato_Aguilera",
+                    "name": "Leandro Aguilera",
+                    "id": 140441829,
+                    "id_str": "140441829",
+                    "indices": [
+                        157,
+                        171
+                    ]
+                }
+            ],
+            "urls": [],
+            "media": [
+                {
+                    "id": 1414589215334182914,
+                    "id_str": "1414589215334182914",
+                    "indices": [
+                        173,
+                        196
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/E6GhZYMXsAIkQ7s.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/E6GhZYMXsAIkQ7s.jpg",
+                    "url": "https://t.co/VuDMEfZuVF",
+                    "display_url": "pic.twitter.com/VuDMEfZuVF",
+                    "expanded_url": "https://twitter.com/InformacionCABJ/status/1414589222095396878/photo/1",
+                    "type": "photo",
+                    "sizes": {
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "small": {
+                            "w": 544,
+                            "h": 680,
+                            "resize": "fit"
+                        },
+                        "medium": {
+                            "w": 960,
+                            "h": 1200,
+                            "resize": "fit"
+                        },
+                        "large": {
+                            "w": 1024,
+                            "h": 1280,
+                            "resize": "fit"
+                        }
+                    }
+                }
+            ]
+        },
+        "extended_entities": {
+            "media": [
+                {
+                    "id": 1414589215334182914,
+                    "id_str": "1414589215334182914",
+                    "indices": [
+                        173,
+                        196
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/E6GhZYMXsAIkQ7s.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/E6GhZYMXsAIkQ7s.jpg",
+                    "url": "https://t.co/VuDMEfZuVF",
+                    "display_url": "pic.twitter.com/VuDMEfZuVF",
+                    "expanded_url": "https://twitter.com/InformacionCABJ/status/1414589222095396878/photo/1",
+                    "type": "photo",
+                    "sizes": {
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "small": {
+                            "w": 544,
+                            "h": 680,
+                            "resize": "fit"
+                        },
+                        "medium": {
+                            "w": 960,
+                            "h": 1200,
+                            "resize": "fit"
+                        },
+                        "large": {
+                            "w": 1024,
+                            "h": 1280,
+                            "resize": "fit"
+                        }
+                    }
+                }
+            ]
+        },
+        "metadata": {
+            "iso_language_code": "es",
+            "result_type": "recent"
+        },
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 324042128,
+            "id_str": "324042128",
+            "name": "Informaci\u00f3n C.A. Boca Juniors",
+            "screen_name": "InformacionCABJ",
+            "location": "",
+            "description": "Medio partidario referido al Club Atl\u00e9tico Boca Juniors. Due\u00f1o: @JulianPatrici.\nStaff TW: @Aguscalvo, @ismaelbritez12 y @yoheitmann.\nFacebook: /informacioncabj",
+            "url": "https://t.co/8LxQF5bqWv",
+            "entities": {
+                "url": {
+                    "urls": [
+                        {
+                            "url": "https://t.co/8LxQF5bqWv",
+                            "expanded_url": "http://Instagram.com/informacioncabj/",
+                            "display_url": "Instagram.com/informacioncab\u2026",
+                            "indices": [
+                                0,
+                                23
+                            ]
+                        }
+                    ]
+                },
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 304728,
+            "friends_count": 3853,
+            "listed_count": 348,
+            "created_at": "Sat Jun 25 22:06:27 +0000 2011",
+            "favourites_count": 98,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": false,
+            "verified": false,
+            "statuses_count": 139108,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "1A1B1F",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1333969916584734720/z4Q4LypQ_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1333969916584734720/z4Q4LypQ_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/324042128/1606878188",
+            "profile_link_color": "FFCC4D",
+            "profile_sidebar_border_color": "FFFFFF",
+            "profile_sidebar_fill_color": "252429",
+            "profile_text_color": "666666",
+            "profile_use_background_image": false,
+            "has_extended_profile": true,
+            "default_profile": false,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none",
+            "withheld_in_countries": []
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 82,
+        "favorite_count": 1619,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "es"
+    },
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "es"
+}

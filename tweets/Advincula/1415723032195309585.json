@@ -1,0 +1,110 @@
+{
+    "created_at": "Thu Jul 15 17:20:48 +0000 2021",
+    "id": 1415723032195309585,
+    "id_str": "1415723032195309585",
+    "full_text": "@__eduuu_rvm Co\u00f1o que raro est\u00e1 Advincula",
+    "truncated": false,
+    "display_text_range": [
+        13,
+        41
+    ],
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "__eduuu_rvm",
+                "name": "\ud835\udc04\ud835\udc03\ud835\udc14\ud835\udc14\ud835\udc14",
+                "id": 741686588078456832,
+                "id_str": "741686588078456832",
+                "indices": [
+                    0,
+                    12
+                ]
+            }
+        ],
+        "urls": []
+    },
+    "metadata": {
+        "iso_language_code": "es",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "in_reply_to_status_id": 1415721989621354501,
+    "in_reply_to_status_id_str": "1415721989621354501",
+    "in_reply_to_user_id": 741686588078456832,
+    "in_reply_to_user_id_str": "741686588078456832",
+    "in_reply_to_screen_name": "__eduuu_rvm",
+    "user": {
+        "id": 1263058713159634945,
+        "id_str": "1263058713159634945",
+        "name": "\ud83d\udca8",
+        "screen_name": "Daanizz__",
+        "location": "Madrid",
+        "description": "esto va de ser humilde y morir rico",
+        "url": "https://t.co/ta7AwjXIvD",
+        "entities": {
+            "url": {
+                "urls": [
+                    {
+                        "url": "https://t.co/ta7AwjXIvD",
+                        "expanded_url": "https://open.spotify.com/user/zvqbvii5akxb46wlin1fog4zk?si=37d8kHARS2yGAEKmdVUFOg",
+                        "display_url": "open.spotify.com/user/zvqbvii5a\u2026",
+                        "indices": [
+                            0,
+                            23
+                        ]
+                    }
+                ]
+            },
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 439,
+        "friends_count": 421,
+        "listed_count": 3,
+        "created_at": "Wed May 20 10:47:28 +0000 2020",
+        "favourites_count": 15045,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 5511,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": null,
+        "profile_background_image_url_https": null,
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1394689619774611461/-ndLZBOC_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1394689619774611461/-ndLZBOC_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1263058713159634945/1603901505",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": true,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "es"
+}

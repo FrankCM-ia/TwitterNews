@@ -1,0 +1,212 @@
+{
+    "created_at": "Fri Jul 16 03:04:11 +0000 2021",
+    "id": 1415869843950260227,
+    "id_str": "1415869843950260227",
+    "full_text": "RT @terezayuyes: Que alguien me explique porque Daniela no escogi\u00f3 a tupac? #LaVozPeru",
+    "truncated": false,
+    "display_text_range": [
+        0,
+        86
+    ],
+    "entities": {
+        "hashtags": [
+            {
+                "text": "LaVozPeru",
+                "indices": [
+                    76,
+                    86
+                ]
+            }
+        ],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "terezayuyes",
+                "name": "tereza con z \ud83d\udc95",
+                "id": 998599297,
+                "id_str": "998599297",
+                "indices": [
+                    3,
+                    15
+                ]
+            }
+        ],
+        "urls": []
+    },
+    "metadata": {
+        "iso_language_code": "es",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 2715309319,
+        "id_str": "2715309319",
+        "name": "Lanhua SkyYun",
+        "screen_name": "R3quiemSKY",
+        "location": "",
+        "description": "R-E-S-P-E-C-T \n\ud83d\udc30Love is love, in all forms \ud83d\udc30\n\u2022\u00b0 \u00bfA qui\u00e9n le importa el camino ancho y lleno de gente? Caminar\u00e9 por el puente de una sola tabla toda la noche\u00b0\u2022",
+        "url": null,
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 79,
+        "friends_count": 92,
+        "listed_count": 2,
+        "created_at": "Thu Aug 07 20:19:42 +0000 2014",
+        "favourites_count": 7681,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 5898,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "981CEB",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+        "profile_background_tile": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1330560313578692609/0z58UHf2_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1330560313578692609/0z58UHf2_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2715309319/1606065274",
+        "profile_link_color": "E81C4F",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "EFEFEF",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": true,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+        "created_at": "Fri Jul 16 03:02:53 +0000 2021",
+        "id": 1415869518866522124,
+        "id_str": "1415869518866522124",
+        "full_text": "Que alguien me explique porque Daniela no escogi\u00f3 a tupac? #LaVozPeru",
+        "truncated": false,
+        "display_text_range": [
+            0,
+            69
+        ],
+        "entities": {
+            "hashtags": [
+                {
+                    "text": "LaVozPeru",
+                    "indices": [
+                        59,
+                        69
+                    ]
+                }
+            ],
+            "symbols": [],
+            "user_mentions": [],
+            "urls": []
+        },
+        "metadata": {
+            "iso_language_code": "es",
+            "result_type": "recent"
+        },
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 998599297,
+            "id_str": "998599297",
+            "name": "tereza con z \ud83d\udc95",
+            "screen_name": "terezayuyes",
+            "location": "",
+            "description": "#Estar en una relaci\u00f3n no se trata de besar, de fechas o de presumir. Se trata de estar con la persona que te hace feliz.",
+            "url": "https://t.co/eqckc0iRcO",
+            "entities": {
+                "url": {
+                    "urls": [
+                        {
+                            "url": "https://t.co/eqckc0iRcO",
+                            "expanded_url": "https://instagram.com/tereza1502?r=nametag",
+                            "display_url": "instagram.com/tereza1502?r=n\u2026",
+                            "indices": [
+                                0,
+                                23
+                            ]
+                        }
+                    ]
+                },
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 244,
+            "friends_count": 365,
+            "listed_count": 0,
+            "created_at": "Sun Dec 09 04:50:24 +0000 2012",
+            "favourites_count": 33308,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": false,
+            "verified": false,
+            "statuses_count": 3604,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "FF6699",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme11/bg.gif",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme11/bg.gif",
+            "profile_background_tile": true,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1001619991806951434/a1f-YG4V_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1001619991806951434/a1f-YG4V_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/998599297/1484683613",
+            "profile_link_color": "B40B43",
+            "profile_sidebar_border_color": "FFFFFF",
+            "profile_sidebar_fill_color": "E5507E",
+            "profile_text_color": "362720",
+            "profile_use_background_image": true,
+            "has_extended_profile": true,
+            "default_profile": false,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none",
+            "withheld_in_countries": []
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 1,
+        "favorite_count": 2,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "es"
+    },
+    "is_quote_status": false,
+    "retweet_count": 1,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "es"
+}

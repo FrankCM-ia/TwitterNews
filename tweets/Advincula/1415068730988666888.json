@@ -1,0 +1,241 @@
+{
+    "created_at": "Tue Jul 13 22:00:50 +0000 2021",
+    "id": 1415068730988666888,
+    "id_str": "1415068730988666888",
+    "full_text": "RT @ExpresoPeru: \ud83c\uddf5\ud83c\uddea\u26bd\ufe0f \u00bfAdi\u00f3s, Boca Juniors? Luis Adv\u00edncula inici\u00f3 pretemporada con Rayo Vallecano\nhttps://t.co/eSUGDaR832",
+    "truncated": false,
+    "display_text_range": [
+        0,
+        121
+    ],
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "ExpresoPeru",
+                "name": "Diario Expreso",
+                "id": 225232891,
+                "id_str": "225232891",
+                "indices": [
+                    3,
+                    15
+                ]
+            }
+        ],
+        "urls": [
+            {
+                "url": "https://t.co/eSUGDaR832",
+                "expanded_url": "https://www.expreso.com.pe/deportes/adios-boca-juniors-luis-advincula-inicio-pretemporada-con-rayo-vallecano/",
+                "display_url": "expreso.com.pe/deportes/adios\u2026",
+                "indices": [
+                    98,
+                    121
+                ]
+            }
+        ]
+    },
+    "metadata": {
+        "iso_language_code": "es",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 1056656750097678336,
+        "id_str": "1056656750097678336",
+        "name": "GabrieI Pricher",
+        "screen_name": "GabrielSP4M7",
+        "location": " #LIGA1MOVISTARXGOLPERU ",
+        "description": "HabIo de todo 0K  \nSoy Extrovertido y de Mente Abierta\nDentro deI Mundo deI F\u00fatboI\n#futbolperuanoendirectv\ud83c\uddf5\ud83c\uddea\ud83c\uddea\ud83c\udde8\ud83c\uddea\ud83c\uddf8\nVE0 F\u00daTB0L ECUAT0RIAN0 Y PERUAN0",
+        "url": "https://t.co/KDqOfyzkkh",
+        "entities": {
+            "url": {
+                "urls": [
+                    {
+                        "url": "https://t.co/KDqOfyzkkh",
+                        "expanded_url": "https://www.youtube.com/channel/UC7l_PEMt28w5qeVSuBv832A?view_as=subscriber",
+                        "display_url": "youtube.com/channel/UC7l_P\u2026",
+                        "indices": [
+                            0,
+                            23
+                        ]
+                    }
+                ]
+            },
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 34,
+        "friends_count": 231,
+        "listed_count": 1,
+        "created_at": "Sun Oct 28 21:19:35 +0000 2018",
+        "favourites_count": 223,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 6568,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1284708844338319360/M58orzHR_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1284708844338319360/M58orzHR_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1056656750097678336/1622582524",
+        "profile_link_color": "1B95E0",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "profile_use_background_image": false,
+        "has_extended_profile": true,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+        "created_at": "Tue Jul 13 21:59:26 +0000 2021",
+        "id": 1415068375642947594,
+        "id_str": "1415068375642947594",
+        "full_text": "\ud83c\uddf5\ud83c\uddea\u26bd\ufe0f \u00bfAdi\u00f3s, Boca Juniors? Luis Adv\u00edncula inici\u00f3 pretemporada con Rayo Vallecano\nhttps://t.co/eSUGDaR832",
+        "truncated": false,
+        "display_text_range": [
+            0,
+            104
+        ],
+        "entities": {
+            "hashtags": [],
+            "symbols": [],
+            "user_mentions": [],
+            "urls": [
+                {
+                    "url": "https://t.co/eSUGDaR832",
+                    "expanded_url": "https://www.expreso.com.pe/deportes/adios-boca-juniors-luis-advincula-inicio-pretemporada-con-rayo-vallecano/",
+                    "display_url": "expreso.com.pe/deportes/adios\u2026",
+                    "indices": [
+                        81,
+                        104
+                    ]
+                }
+            ]
+        },
+        "metadata": {
+            "iso_language_code": "es",
+            "result_type": "recent"
+        },
+        "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 225232891,
+            "id_str": "225232891",
+            "name": "Diario Expreso",
+            "screen_name": "ExpresoPeru",
+            "location": "Per\u00fa",
+            "description": "Suscr\u00edbete a nuestra edici\u00f3n digital y mantente informado con noticias del Per\u00fa y el mundo, aqu\u00ed \u27a1\ufe0f https://t.co/gdt1Wu5SQo",
+            "url": "https://t.co/OqgZho3oIW",
+            "entities": {
+                "url": {
+                    "urls": [
+                        {
+                            "url": "https://t.co/OqgZho3oIW",
+                            "expanded_url": "http://www.expreso.com.pe",
+                            "display_url": "expreso.com.pe",
+                            "indices": [
+                                0,
+                                23
+                            ]
+                        }
+                    ]
+                },
+                "description": {
+                    "urls": [
+                        {
+                            "url": "https://t.co/gdt1Wu5SQo",
+                            "expanded_url": "https://bit.ly/33XfIDk",
+                            "display_url": "bit.ly/33XfIDk",
+                            "indices": [
+                                100,
+                                123
+                            ]
+                        }
+                    ]
+                }
+            },
+            "protected": false,
+            "followers_count": 314915,
+            "friends_count": 543,
+            "listed_count": 660,
+            "created_at": "Sat Dec 11 01:55:08 +0000 2010",
+            "favourites_count": 116,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": true,
+            "verified": false,
+            "statuses_count": 136343,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "022330",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1331431423371321345/mel3jc9g_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1331431423371321345/mel3jc9g_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/225232891/1625398874",
+            "profile_link_color": "0084B4",
+            "profile_sidebar_border_color": "A8C7F7",
+            "profile_sidebar_fill_color": "C0DFEC",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "has_extended_profile": false,
+            "default_profile": false,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none",
+            "withheld_in_countries": []
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 2,
+        "favorite_count": 8,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "es"
+    },
+    "is_quote_status": false,
+    "retweet_count": 2,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "es"
+}

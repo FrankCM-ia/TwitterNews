@@ -1,0 +1,199 @@
+{
+    "created_at": "Fri Jul 16 03:22:05 +0000 2021",
+    "id": 1415874349437964290,
+    "id_str": "1415874349437964290",
+    "full_text": "RT @callmesusana: Lo importante es que qued\u00f3 Katherine Zegarra y tendremos openings y endings de anime \ud83e\udd73 #LaVozPeru",
+    "truncated": false,
+    "display_text_range": [
+        0,
+        115
+    ],
+    "entities": {
+        "hashtags": [
+            {
+                "text": "LaVozPeru",
+                "indices": [
+                    105,
+                    115
+                ]
+            }
+        ],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "callmesusana",
+                "name": "la ackerman",
+                "id": 330097478,
+                "id_str": "330097478",
+                "indices": [
+                    3,
+                    16
+                ]
+            }
+        ],
+        "urls": []
+    },
+    "metadata": {
+        "iso_language_code": "es",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 54068514,
+        "id_str": "54068514",
+        "name": "nadie",
+        "screen_name": "nadsofcydonia",
+        "location": "Lima, Peru",
+        "description": "my battery is low and it's getting dark",
+        "url": null,
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 542,
+        "friends_count": 579,
+        "listed_count": 5,
+        "created_at": "Mon Jul 06 01:28:50 +0000 2009",
+        "favourites_count": 9770,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 28411,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme12/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme12/bg.gif",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1362648034652389376/FAjI60QS_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1362648034652389376/FAjI60QS_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/54068514/1613889306",
+        "profile_link_color": "007BFF",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "profile_use_background_image": false,
+        "has_extended_profile": false,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+        "created_at": "Fri Jul 16 03:04:53 +0000 2021",
+        "id": 1415870023365795840,
+        "id_str": "1415870023365795840",
+        "full_text": "Lo importante es que qued\u00f3 Katherine Zegarra y tendremos openings y endings de anime \ud83e\udd73 #LaVozPeru",
+        "truncated": false,
+        "display_text_range": [
+            0,
+            97
+        ],
+        "entities": {
+            "hashtags": [
+                {
+                    "text": "LaVozPeru",
+                    "indices": [
+                        87,
+                        97
+                    ]
+                }
+            ],
+            "symbols": [],
+            "user_mentions": [],
+            "urls": []
+        },
+        "metadata": {
+            "iso_language_code": "es",
+            "result_type": "recent"
+        },
+        "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 330097478,
+            "id_str": "330097478",
+            "name": "la ackerman",
+            "screen_name": "callmesusana",
+            "location": "Lima - Per\u00fa",
+            "description": "Libra, 24. Audiovisual con la frustraci\u00f3n de haber estudiado moda. Mi cabeza por las nubes \u2601\ufe0f",
+            "url": null,
+            "entities": {
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 644,
+            "friends_count": 447,
+            "listed_count": 2,
+            "created_at": "Wed Jul 06 03:02:48 +0000 2011",
+            "favourites_count": 9050,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": true,
+            "verified": false,
+            "statuses_count": 32313,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "ACDED6",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": true,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1413909663498883074/uqDNgTpK_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1413909663498883074/uqDNgTpK_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/330097478/1586470914",
+            "profile_link_color": "038544",
+            "profile_sidebar_border_color": "FFFFFF",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "has_extended_profile": true,
+            "default_profile": false,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none",
+            "withheld_in_countries": []
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 3,
+        "favorite_count": 8,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "es"
+    },
+    "is_quote_status": false,
+    "retweet_count": 3,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "es"
+}

@@ -1,0 +1,106 @@
+{
+    "created_at": "Mon Jul 12 22:57:51 +0000 2021",
+    "id": 1414720688540295177,
+    "id_str": "1414720688540295177",
+    "full_text": "@RafaGalvan8 @BocaJrsOficial Advincula no est\u00e1 en la lista",
+    "truncated": false,
+    "display_text_range": [
+        29,
+        58
+    ],
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "RafaGalvan8",
+                "name": "YO 15, Y VOS?",
+                "id": 1016048419973091328,
+                "id_str": "1016048419973091328",
+                "indices": [
+                    0,
+                    12
+                ]
+            },
+            {
+                "screen_name": "BocaJrsOficial",
+                "name": "Boca Juniors",
+                "id": 42933426,
+                "id_str": "42933426",
+                "indices": [
+                    13,
+                    28
+                ]
+            }
+        ],
+        "urls": []
+    },
+    "metadata": {
+        "iso_language_code": "es",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "in_reply_to_status_id": 1414708361271066632,
+    "in_reply_to_status_id_str": "1414708361271066632",
+    "in_reply_to_user_id": 1016048419973091328,
+    "in_reply_to_user_id_str": "1016048419973091328",
+    "in_reply_to_screen_name": "RafaGalvan8",
+    "user": {
+        "id": 1322713873019973632,
+        "id_str": "1322713873019973632",
+        "name": "Jes\u00fas \ud83c\udfc6\ud83c\uddf5\ud83c\uddea\u26bd",
+        "screen_name": "JESUS2005_10",
+        "location": "",
+        "description": "NOMBRE : JESUS SANCHEZ \ud83c\uddf5\ud83c\uddea\u2764\ufe0f\n\u00a1 universitario de deportes\nUna pasi\u00f3n muy grande y dale U toda la vida! \nDeporte :el f\u00fatbol una pasi\u00f3n muy linda\u00a6\u00ac\u00b0",
+        "url": null,
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 20,
+        "friends_count": 152,
+        "listed_count": 0,
+        "created_at": "Sun Nov 01 01:36:24 +0000 2020",
+        "favourites_count": 15054,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 612,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": null,
+        "profile_background_image_url_https": null,
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1347956878282780674/-raGZQn9_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1347956878282780674/-raGZQn9_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": true,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "es"
+}

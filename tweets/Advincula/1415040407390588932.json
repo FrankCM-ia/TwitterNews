@@ -1,0 +1,183 @@
+{
+    "created_at": "Tue Jul 13 20:08:17 +0000 2021",
+    "id": 1415040407390588932,
+    "id_str": "1415040407390588932",
+    "full_text": "\u00bfSe queda? Rayo Vallecano inici\u00f3 pretemporada junto a Luis Adv\u00edncula El equipo espa\u00f1ol ya se prepara para afrontar LaLiga espa\u00f1ola y cuenta con el peruano Luis Adv\u00edncula, quien suena como refuerzo de Boca Juniors. https://t.co/R62XNtDkQy #Per\u00faNoticias https://t.co/genc5GRLRN",
+    "truncated": false,
+    "display_text_range": [
+        0,
+        251
+    ],
+    "entities": {
+        "hashtags": [
+            {
+                "text": "Per\u00faNoticias",
+                "indices": [
+                    238,
+                    251
+                ]
+            }
+        ],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+            {
+                "url": "https://t.co/R62XNtDkQy",
+                "expanded_url": "http://twib.in/l/K8e6E8X4bkLz",
+                "display_url": "twib.in/l/K8e6E8X4bkLz",
+                "indices": [
+                    214,
+                    237
+                ]
+            }
+        ],
+        "media": [
+            {
+                "id": 1415040406295830534,
+                "id_str": "1415040406295830534",
+                "indices": [
+                    252,
+                    275
+                ],
+                "media_url": "http://pbs.twimg.com/media/E6M7wJgWYAYVEsx.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/E6M7wJgWYAYVEsx.jpg",
+                "url": "https://t.co/genc5GRLRN",
+                "display_url": "pic.twitter.com/genc5GRLRN",
+                "expanded_url": "https://twitter.com/Peru_Noticias/status/1415040407390588932/photo/1",
+                "type": "photo",
+                "sizes": {
+                    "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                    },
+                    "large": {
+                        "w": 825,
+                        "h": 464,
+                        "resize": "fit"
+                    },
+                    "small": {
+                        "w": 680,
+                        "h": 382,
+                        "resize": "fit"
+                    },
+                    "medium": {
+                        "w": 825,
+                        "h": 464,
+                        "resize": "fit"
+                    }
+                }
+            }
+        ]
+    },
+    "extended_entities": {
+        "media": [
+            {
+                "id": 1415040406295830534,
+                "id_str": "1415040406295830534",
+                "indices": [
+                    252,
+                    275
+                ],
+                "media_url": "http://pbs.twimg.com/media/E6M7wJgWYAYVEsx.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/E6M7wJgWYAYVEsx.jpg",
+                "url": "https://t.co/genc5GRLRN",
+                "display_url": "pic.twitter.com/genc5GRLRN",
+                "expanded_url": "https://twitter.com/Peru_Noticias/status/1415040407390588932/photo/1",
+                "type": "photo",
+                "sizes": {
+                    "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                    },
+                    "large": {
+                        "w": 825,
+                        "h": 464,
+                        "resize": "fit"
+                    },
+                    "small": {
+                        "w": 680,
+                        "h": 382,
+                        "resize": "fit"
+                    },
+                    "medium": {
+                        "w": 825,
+                        "h": 464,
+                        "resize": "fit"
+                    }
+                }
+            }
+        ]
+    },
+    "metadata": {
+        "iso_language_code": "es",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"http://twibble.io\" rel=\"nofollow\">Twibble.io</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 75926770,
+        "id_str": "75926770",
+        "name": "Per\u00fa Noticias",
+        "screen_name": "Peru_Noticias",
+        "location": "",
+        "description": "Todas las Noticias del #Per\u00fa \u25aa cm@perunoticias.info \u25aa #Per\u00faNoticias",
+        "url": null,
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 142224,
+        "friends_count": 41177,
+        "listed_count": 347,
+        "created_at": "Mon Sep 21 01:27:21 +0000 2009",
+        "favourites_count": 208,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 349759,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "DD2E44",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/507231092818980864/BTIWtYqZ_normal.jpeg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/507231092818980864/BTIWtYqZ_normal.jpeg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/75926770/1500946136",
+        "profile_link_color": "3B94D9",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "es"
+}

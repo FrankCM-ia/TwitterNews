@@ -1,0 +1,137 @@
+{
+    "created_at": "Thu Jul 15 22:38:12 +0000 2021",
+    "id": 1415802909468549122,
+    "id_str": "1415802909468549122",
+    "full_text": "@HerreraAgustinM @goitia_jeremias @BBianchista @AballoneLucas @SANGREXENEIZE Porque Mancuso se va a pr\u00e9stamo porque llega Advincula. Si firma no se puede ir.",
+    "truncated": false,
+    "display_text_range": [
+        77,
+        157
+    ],
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "HerreraAgustinM",
+                "name": "Agustin Herrera",
+                "id": 2534049037,
+                "id_str": "2534049037",
+                "indices": [
+                    0,
+                    16
+                ]
+            },
+            {
+                "screen_name": "goitia_jeremias",
+                "name": "_Jere/Goitia_\ud83c\uddf3\ud83c\uddf7",
+                "id": 795452056630919173,
+                "id_str": "795452056630919173",
+                "indices": [
+                    17,
+                    33
+                ]
+            },
+            {
+                "screen_name": "BBianchista",
+                "name": "Crackstolo",
+                "id": 1223642156390408195,
+                "id_str": "1223642156390408195",
+                "indices": [
+                    34,
+                    46
+                ]
+            },
+            {
+                "screen_name": "AballoneLucas",
+                "name": "Lucas Aballone",
+                "id": 1046982185092304897,
+                "id_str": "1046982185092304897",
+                "indices": [
+                    47,
+                    61
+                ]
+            },
+            {
+                "screen_name": "SANGREXENEIZE",
+                "name": "SX",
+                "id": 371424475,
+                "id_str": "371424475",
+                "indices": [
+                    62,
+                    76
+                ]
+            }
+        ],
+        "urls": []
+    },
+    "metadata": {
+        "iso_language_code": "es",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "in_reply_to_status_id": 1415779996229152769,
+    "in_reply_to_status_id_str": "1415779996229152769",
+    "in_reply_to_user_id": 2534049037,
+    "in_reply_to_user_id_str": "2534049037",
+    "in_reply_to_screen_name": "HerreraAgustinM",
+    "user": {
+        "id": 1399266185242419202,
+        "id_str": "1399266185242419202",
+        "name": "Sebas Cabrera",
+        "screen_name": "SebasCab21",
+        "location": "Trelew, Argentina",
+        "description": "\ud83d\udc99\ud83d\udc9b\ud83d\udc99",
+        "url": null,
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 2,
+        "friends_count": 198,
+        "listed_count": 0,
+        "created_at": "Mon May 31 07:27:19 +0000 2021",
+        "favourites_count": 59,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 293,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": null,
+        "profile_background_image_url_https": null,
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1401350641394630663/EnmDe2Ke_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1401350641394630663/EnmDe2Ke_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1399266185242419202/1622943230",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": true,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 2,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "es"
+}

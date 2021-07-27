@@ -1,0 +1,330 @@
+{
+    "created_at": "Mon Jul 12 21:45:12 +0000 2021",
+    "id": 1414702408484151302,
+    "id_str": "1414702408484151302",
+    "full_text": "RT @Vidaboquitaok: \ud83d\udca5 AHORA | Luis #Adv\u00edncula es nuevo jugador de #Boca.\n\nEl #RayoVallecano acept\u00f3 la \u00faltima oferta que hizo el Xeneize por\u2026",
+    "truncated": false,
+    "display_text_range": [
+        0,
+        139
+    ],
+    "entities": {
+        "hashtags": [
+            {
+                "text": "Adv\u00edncula",
+                "indices": [
+                    34,
+                    44
+                ]
+            },
+            {
+                "text": "Boca",
+                "indices": [
+                    65,
+                    70
+                ]
+            },
+            {
+                "text": "RayoVallecano",
+                "indices": [
+                    76,
+                    90
+                ]
+            }
+        ],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "Vidaboquitaok",
+                "name": "Boquita de mi vida",
+                "id": 1284565778071785473,
+                "id_str": "1284565778071785473",
+                "indices": [
+                    3,
+                    17
+                ]
+            }
+        ],
+        "urls": []
+    },
+    "metadata": {
+        "iso_language_code": "es",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 1106630862,
+        "id_str": "1106630862",
+        "name": "Marcos",
+        "screen_name": "Bocala7ma",
+        "location": "Concordia, Argentina",
+        "description": "El Nino Cocinero - Maradoneano - hincha de Boca - f\u00fatbol es mi pasi\u00f3n\nInstagram @marcosrcasa @elninococina",
+        "url": null,
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 354,
+        "friends_count": 358,
+        "listed_count": 1,
+        "created_at": "Sun Jan 20 16:16:51 +0000 2013",
+        "favourites_count": 38399,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 38563,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1415535114508029955/ke6SCIuq_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1415535114508029955/ke6SCIuq_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1106630862/1606506463",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": true,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+        "created_at": "Sun Jul 11 19:27:45 +0000 2021",
+        "id": 1414305429916618757,
+        "id_str": "1414305429916618757",
+        "full_text": "\ud83d\udca5 AHORA | Luis #Adv\u00edncula es nuevo jugador de #Boca.\n\nEl #RayoVallecano acept\u00f3 la \u00faltima oferta que hizo el Xeneize por el lateral. Esta semana viaja a Buenos Aires y se suma al grupo que comanda Miguel Angel Russo.\n\n\ud83d\udcf2 (V\u00eda @LuisFregossi) https://t.co/p2JXijd4Nl",
+        "truncated": false,
+        "display_text_range": [
+            0,
+            238
+        ],
+        "entities": {
+            "hashtags": [
+                {
+                    "text": "Adv\u00edncula",
+                    "indices": [
+                        15,
+                        25
+                    ]
+                },
+                {
+                    "text": "Boca",
+                    "indices": [
+                        46,
+                        51
+                    ]
+                },
+                {
+                    "text": "RayoVallecano",
+                    "indices": [
+                        57,
+                        71
+                    ]
+                }
+            ],
+            "symbols": [],
+            "user_mentions": [
+                {
+                    "screen_name": "LuisFregossi",
+                    "name": "Luis Fregossi",
+                    "id": 132219286,
+                    "id_str": "132219286",
+                    "indices": [
+                        224,
+                        237
+                    ]
+                }
+            ],
+            "urls": [],
+            "media": [
+                {
+                    "id": 1414305426737356800,
+                    "id_str": "1414305426737356800",
+                    "indices": [
+                        239,
+                        262
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/E6CfStSWYAAVxP7.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/E6CfStSWYAAVxP7.jpg",
+                    "url": "https://t.co/p2JXijd4Nl",
+                    "display_url": "pic.twitter.com/p2JXijd4Nl",
+                    "expanded_url": "https://twitter.com/Vidaboquitaok/status/1414305429916618757/photo/1",
+                    "type": "photo",
+                    "sizes": {
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "small": {
+                            "w": 641,
+                            "h": 641,
+                            "resize": "fit"
+                        },
+                        "medium": {
+                            "w": 641,
+                            "h": 641,
+                            "resize": "fit"
+                        },
+                        "large": {
+                            "w": 641,
+                            "h": 641,
+                            "resize": "fit"
+                        }
+                    }
+                }
+            ]
+        },
+        "extended_entities": {
+            "media": [
+                {
+                    "id": 1414305426737356800,
+                    "id_str": "1414305426737356800",
+                    "indices": [
+                        239,
+                        262
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/E6CfStSWYAAVxP7.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/E6CfStSWYAAVxP7.jpg",
+                    "url": "https://t.co/p2JXijd4Nl",
+                    "display_url": "pic.twitter.com/p2JXijd4Nl",
+                    "expanded_url": "https://twitter.com/Vidaboquitaok/status/1414305429916618757/photo/1",
+                    "type": "photo",
+                    "sizes": {
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "small": {
+                            "w": 641,
+                            "h": 641,
+                            "resize": "fit"
+                        },
+                        "medium": {
+                            "w": 641,
+                            "h": 641,
+                            "resize": "fit"
+                        },
+                        "large": {
+                            "w": 641,
+                            "h": 641,
+                            "resize": "fit"
+                        }
+                    }
+                }
+            ]
+        },
+        "metadata": {
+            "iso_language_code": "es",
+            "result_type": "recent"
+        },
+        "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 1284565778071785473,
+            "id_str": "1284565778071785473",
+            "name": "Boquita de mi vida",
+            "screen_name": "Vidaboquitaok",
+            "location": "",
+            "description": "Espacio Xeneize. Informaci\u00f3n actualizada del m\u00e1s grande. Entrevistas. Efem\u00e9rides. Instagram: @vidaboquitaoficial.",
+            "url": "https://t.co/DooxI9gI7f",
+            "entities": {
+                "url": {
+                    "urls": [
+                        {
+                            "url": "https://t.co/DooxI9gI7f",
+                            "expanded_url": "http://boquitademividaok.blogspot.com",
+                            "display_url": "boquitademividaok.blogspot.com",
+                            "indices": [
+                                0,
+                                23
+                            ]
+                        }
+                    ]
+                },
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 1856,
+            "friends_count": 1302,
+            "listed_count": 2,
+            "created_at": "Sat Jul 18 19:08:56 +0000 2020",
+            "favourites_count": 60,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": false,
+            "verified": false,
+            "statuses_count": 2280,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "F5F8FA",
+            "profile_background_image_url": null,
+            "profile_background_image_url_https": null,
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1333061821583028224/CRfln9V1_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1333061821583028224/CRfln9V1_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/1284565778071785473/1623874279",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "has_extended_profile": false,
+            "default_profile": true,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none",
+            "withheld_in_countries": []
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 20,
+        "favorite_count": 149,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "es"
+    },
+    "is_quote_status": false,
+    "retweet_count": 20,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "es"
+}

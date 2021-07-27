@@ -1,0 +1,106 @@
+{
+    "created_at": "Sun Jul 11 19:17:13 +0000 2021",
+    "id": 1414302776721649667,
+    "id_str": "1414302776721649667",
+    "full_text": "@gvillasis @recisneros Igual q con los hermanitos o no se acuerdan de hinostroza blindado descaradamente x el fujimorismo y allegados, como vemos en la fiscalia y pj hay otros arces, rodriguez, etc y el ocma esta copado de apristas q dejan mucho q desear, todo esto ocasiona q corruptos fuguen",
+    "truncated": false,
+    "display_text_range": [
+        23,
+        293
+    ],
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "gvillasis",
+                "name": "Graciela Villas\u00eds",
+                "id": 362120863,
+                "id_str": "362120863",
+                "indices": [
+                    0,
+                    10
+                ]
+            },
+            {
+                "screen_name": "recisneros",
+                "name": "Renato Cisneros",
+                "id": 284350852,
+                "id_str": "284350852",
+                "indices": [
+                    11,
+                    22
+                ]
+            }
+        ],
+        "urls": []
+    },
+    "metadata": {
+        "iso_language_code": "es",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "in_reply_to_status_id": 1414229510229200900,
+    "in_reply_to_status_id_str": "1414229510229200900",
+    "in_reply_to_user_id": 362120863,
+    "in_reply_to_user_id_str": "362120863",
+    "in_reply_to_screen_name": "gvillasis",
+    "user": {
+        "id": 986432860390227973,
+        "id_str": "986432860390227973",
+        "name": "Angela Meneses",
+        "screen_name": "AngelaFMI",
+        "location": "Cusco, Peru",
+        "description": "",
+        "url": null,
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 92,
+        "friends_count": 165,
+        "listed_count": 0,
+        "created_at": "Wed Apr 18 02:34:55 +0000 2018",
+        "favourites_count": 22190,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 6162,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": null,
+        "profile_background_image_url_https": null,
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1403529369709076481/Y0pkHf72_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1403529369709076481/Y0pkHf72_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": true,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 1,
+    "favorite_count": 3,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "es"
+}

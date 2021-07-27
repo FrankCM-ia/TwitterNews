@@ -1,0 +1,107 @@
+{
+    "created_at": "Sat Jul 10 21:30:00 +0000 2021",
+    "id": 1413973805060472842,
+    "id_str": "1413973805060472842",
+    "full_text": "@PaquitoFlorez @epatriau Por que los fujis y los apristas no dec\u00edan lo que t\u00fa dices pues espero to te comas tus palabras como lo hicieron los toledistas y humalistas",
+    "truncated": false,
+    "display_text_range": [
+        25,
+        165
+    ],
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "PaquitoFlorez",
+                "name": "Francisco Florez",
+                "id": 221502409,
+                "id_str": "221502409",
+                "indices": [
+                    0,
+                    14
+                ]
+            },
+            {
+                "screen_name": "epatriau",
+                "name": "Enrique Patriau",
+                "id": 184056488,
+                "id_str": "184056488",
+                "indices": [
+                    15,
+                    24
+                ]
+            }
+        ],
+        "urls": []
+    },
+    "metadata": {
+        "iso_language_code": "es",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "in_reply_to_status_id": 1413973263970099201,
+    "in_reply_to_status_id_str": "1413973263970099201",
+    "in_reply_to_user_id": 221502409,
+    "in_reply_to_user_id_str": "221502409",
+    "in_reply_to_screen_name": "PaquitoFlorez",
+    "user": {
+        "id": 769976630,
+        "id_str": "769976630",
+        "name": "Yury M M",
+        "screen_name": "ymedina_malaga",
+        "location": "Peruzuela :(",
+        "description": "Ingeniero Industrial, enemigo de lo pol\u00edticamente correcto",
+        "url": null,
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 410,
+        "friends_count": 1705,
+        "listed_count": 0,
+        "created_at": "Mon Aug 20 18:16:34 +0000 2012",
+        "favourites_count": 122429,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 28540,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1349429328610795521/7M965YDZ_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1349429328610795521/7M965YDZ_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/769976630/1602700235",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": true,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 2,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "es"
+}

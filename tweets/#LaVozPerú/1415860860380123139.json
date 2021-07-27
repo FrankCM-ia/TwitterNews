@@ -1,0 +1,94 @@
+{
+    "created_at": "Fri Jul 16 02:28:29 +0000 2021",
+    "id": 1415860860380123139,
+    "id_str": "1415860860380123139",
+    "full_text": "Me gust\u00f3 m\u00e1s Nella que Marcela, pero ya veo la preferencia de los coach. \ud83d\ude44 #lavozper\u00fa",
+    "truncated": false,
+    "display_text_range": [
+        0,
+        85
+    ],
+    "entities": {
+        "hashtags": [
+            {
+                "text": "lavozper\u00fa",
+                "indices": [
+                    75,
+                    85
+                ]
+            }
+        ],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+    },
+    "metadata": {
+        "iso_language_code": "es",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 1100970591518162944,
+        "id_str": "1100970591518162944",
+        "name": "Kenny BCL",
+        "screen_name": "KenCBL",
+        "location": "",
+        "description": "Redacto, aunque a veces me falte espacio, una tilde y punto aparte. No soy sociable, pero estudi\u00e9 comunicaciones.",
+        "url": null,
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 53,
+        "friends_count": 122,
+        "listed_count": 0,
+        "created_at": "Thu Feb 28 04:06:58 +0000 2019",
+        "favourites_count": 983,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 2804,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": null,
+        "profile_background_image_url_https": null,
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1414588951759925253/aqafgQhy_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1414588951759925253/aqafgQhy_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1100970591518162944/1622216813",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": true,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 2,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "es"
+}

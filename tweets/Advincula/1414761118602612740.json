@@ -1,0 +1,282 @@
+{
+    "created_at": "Tue Jul 13 01:38:30 +0000 2021",
+    "id": 1414761118602612740,
+    "id_str": "1414761118602612740",
+    "full_text": "RT @quintanillawes1: @sadovnik1965 un saludos a mis de Los \u00c1ngeles California saludos para el Carlos de los cobos y para todos en la cabina\u2026",
+    "truncated": false,
+    "display_text_range": [
+        0,
+        140
+    ],
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "quintanillawes1",
+                "name": "Wesley  Quintanilla",
+                "id": 700390203182026753,
+                "id_str": "700390203182026753",
+                "indices": [
+                    3,
+                    19
+                ]
+            },
+            {
+                "screen_name": "sadovnik1965",
+                "name": "Sammy Sadovnik",
+                "id": 190367236,
+                "id_str": "190367236",
+                "indices": [
+                    21,
+                    34
+                ]
+            }
+        ],
+        "urls": []
+    },
+    "metadata": {
+        "iso_language_code": "es",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"https://help.twitter.com/en/using-twitter/how-to-tweet#source-labels\" rel=\"nofollow\">Carl\u00e3o Bot</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 1318998016620154881,
+        "id_str": "1318998016620154881",
+        "name": "Carlos Bot",
+        "screen_name": "CarlaoBot",
+        "location": "",
+        "description": "um bot que retweeta o nome Carlos, vamos dominar o mundo.\nCarlao Bot feito pelo: @fvckgil.",
+        "url": null,
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 724,
+        "friends_count": 1,
+        "listed_count": 8,
+        "created_at": "Wed Oct 21 19:30:17 +0000 2020",
+        "favourites_count": 120232,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 379655,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": null,
+        "profile_background_image_url_https": null,
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1362526025515728904/wDVLeCwW_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1362526025515728904/wDVLeCwW_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": true,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+        "created_at": "Tue Jul 13 01:38:24 +0000 2021",
+        "id": 1414761095969923073,
+        "id_str": "1414761095969923073",
+        "full_text": "@sadovnik1965 un saludos a mis de Los \u00c1ngeles California saludos para el Carlos de los cobos y para todos en la cabina viendo el partido y escuch\u00e1ndolos con el radio a todo volumen crees que  Luis Adv\u00edncula  ya es de boca o se queda en rayo vallecano https://t.co/S3WFm34Li6",
+        "truncated": false,
+        "display_text_range": [
+            0,
+            250
+        ],
+        "entities": {
+            "hashtags": [],
+            "symbols": [],
+            "user_mentions": [
+                {
+                    "screen_name": "sadovnik1965",
+                    "name": "Sammy Sadovnik",
+                    "id": 190367236,
+                    "id_str": "190367236",
+                    "indices": [
+                        0,
+                        13
+                    ]
+                }
+            ],
+            "urls": [],
+            "media": [
+                {
+                    "id": 1414761089699500033,
+                    "id_str": "1414761089699500033",
+                    "indices": [
+                        251,
+                        274
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/E6I9tyGVUAEhmTB.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/E6I9tyGVUAEhmTB.jpg",
+                    "url": "https://t.co/S3WFm34Li6",
+                    "display_url": "pic.twitter.com/S3WFm34Li6",
+                    "expanded_url": "https://twitter.com/quintanillawes1/status/1414761095969923073/photo/1",
+                    "type": "photo",
+                    "sizes": {
+                        "large": {
+                            "w": 1536,
+                            "h": 2048,
+                            "resize": "fit"
+                        },
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "medium": {
+                            "w": 900,
+                            "h": 1200,
+                            "resize": "fit"
+                        },
+                        "small": {
+                            "w": 510,
+                            "h": 680,
+                            "resize": "fit"
+                        }
+                    }
+                }
+            ]
+        },
+        "extended_entities": {
+            "media": [
+                {
+                    "id": 1414761089699500033,
+                    "id_str": "1414761089699500033",
+                    "indices": [
+                        251,
+                        274
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/E6I9tyGVUAEhmTB.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/E6I9tyGVUAEhmTB.jpg",
+                    "url": "https://t.co/S3WFm34Li6",
+                    "display_url": "pic.twitter.com/S3WFm34Li6",
+                    "expanded_url": "https://twitter.com/quintanillawes1/status/1414761095969923073/photo/1",
+                    "type": "photo",
+                    "sizes": {
+                        "large": {
+                            "w": 1536,
+                            "h": 2048,
+                            "resize": "fit"
+                        },
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "medium": {
+                            "w": 900,
+                            "h": 1200,
+                            "resize": "fit"
+                        },
+                        "small": {
+                            "w": 510,
+                            "h": 680,
+                            "resize": "fit"
+                        }
+                    }
+                }
+            ]
+        },
+        "metadata": {
+            "iso_language_code": "es",
+            "result_type": "recent"
+        },
+        "source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": 190367236,
+        "in_reply_to_user_id_str": "190367236",
+        "in_reply_to_screen_name": "sadovnik1965",
+        "user": {
+            "id": 700390203182026753,
+            "id_str": "700390203182026753",
+            "name": "Wesley  Quintanilla",
+            "screen_name": "quintanillawes1",
+            "location": "California, USA",
+            "description": "who\u2019s in Southern California viviendo en el sur de California \ud83c\uddfa\ud83c\uddf8\ud83c\udde6\ud83c\uddf7\ud83c\uddf8\ud83c\uddfb soccer  is life el f\u00fatboles vida Family for life relator de f\u00fatbol en los \ud83c\uddfa\ud83c\uddf8",
+            "url": null,
+            "entities": {
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 259,
+            "friends_count": 4727,
+            "listed_count": 2,
+            "created_at": "Thu Feb 18 18:43:31 +0000 2016",
+            "favourites_count": 46533,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": false,
+            "verified": false,
+            "statuses_count": 2233,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "F5F8FA",
+            "profile_background_image_url": null,
+            "profile_background_image_url_https": null,
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1414440680349261833/BNPLTOYu_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1414440680349261833/BNPLTOYu_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/700390203182026753/1623890574",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "has_extended_profile": true,
+            "default_profile": true,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none",
+            "withheld_in_countries": []
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 1,
+        "favorite_count": 0,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "es"
+    },
+    "is_quote_status": false,
+    "retweet_count": 1,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "es"
+}

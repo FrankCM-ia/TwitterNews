@@ -1,0 +1,136 @@
+{
+    "created_at": "Wed Jul 14 05:00:41 +0000 2021",
+    "id": 1415174386332704770,
+    "id_str": "1415174386332704770",
+    "full_text": "@martinribasmr @piedritenseSR @LuisFregossi Pero por m\u00e1s que llegue, Advincula no est\u00e1 en lista de buena fe p/esta serie. Ya se hicieron los 5 cambios (Chelo, Barco, Rolon, Briasco y Orsini). No est\u00e1 en lista. Saludos.",
+    "truncated": false,
+    "display_text_range": [
+        44,
+        218
+    ],
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "martinribasmr",
+                "name": "Martin Ribas",
+                "id": 2803725814,
+                "id_str": "2803725814",
+                "indices": [
+                    0,
+                    14
+                ]
+            },
+            {
+                "screen_name": "piedritenseSR",
+                "name": "Arrigoni \u2694\ufe0f Sanmartiniano ante todo y sobre todo\u2694\ufe0f",
+                "id": 183283176,
+                "id_str": "183283176",
+                "indices": [
+                    15,
+                    29
+                ]
+            },
+            {
+                "screen_name": "LuisFregossi",
+                "name": "Luis Fregossi",
+                "id": 132219286,
+                "id_str": "132219286",
+                "indices": [
+                    30,
+                    43
+                ]
+            }
+        ],
+        "urls": []
+    },
+    "metadata": {
+        "iso_language_code": "es",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_status_id": 1415129318875930625,
+    "in_reply_to_status_id_str": "1415129318875930625",
+    "in_reply_to_user_id": 2803725814,
+    "in_reply_to_user_id_str": "2803725814",
+    "in_reply_to_screen_name": "martinribasmr",
+    "user": {
+        "id": 131202011,
+        "id_str": "131202011",
+        "name": "Ricardo Crovetto",
+        "screen_name": "ricardocrovetto",
+        "location": "",
+        "description": "Empresario. Consultor de Empresas en temas comerciales. Capacitador. Triatleta Amateur. Argentina - http://t.co/ce7NV3XHYq\nhttps://t.co/yQrX8DvmrK",
+        "url": null,
+        "entities": {
+            "description": {
+                "urls": [
+                    {
+                        "url": "http://t.co/ce7NV3XHYq",
+                        "expanded_url": "http://favstar.fm/users/ricardocrovetto",
+                        "display_url": "favstar.fm/users/ricardoc\u2026",
+                        "indices": [
+                            100,
+                            122
+                        ]
+                    },
+                    {
+                        "url": "https://t.co/yQrX8DvmrK",
+                        "expanded_url": "https://instagram.com/ricardocrovetto",
+                        "display_url": "instagram.com/ricardocrovetto",
+                        "indices": [
+                            123,
+                            146
+                        ]
+                    }
+                ]
+            }
+        },
+        "protected": false,
+        "followers_count": 230,
+        "friends_count": 760,
+        "listed_count": 7,
+        "created_at": "Fri Apr 09 15:39:06 +0000 2010",
+        "favourites_count": 551,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 13251,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/3056283996/790d45816fbc727ac34b0e385a501270_normal.jpeg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/3056283996/790d45816fbc727ac34b0e385a501270_normal.jpeg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/131202011/1391537182",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 2,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "es"
+}

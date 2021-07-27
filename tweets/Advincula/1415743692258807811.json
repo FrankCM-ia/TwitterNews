@@ -1,0 +1,227 @@
+{
+    "created_at": "Thu Jul 15 18:42:54 +0000 2021",
+    "id": 1415743692258807811,
+    "id_str": "1415743692258807811",
+    "full_text": "RT @chelomzd: Luis Adv\u00edncula pap\u00e1 en @VocesFutbolPeru: Cuando Luis termine su carrera en Europa y quiera continuarla ac\u00e1 en Per\u00fa deber\u00eda se\u2026",
+    "truncated": false,
+    "display_text_range": [
+        0,
+        140
+    ],
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "chelomzd",
+                "name": "Marcello Merizalde",
+                "id": 1085420355685105665,
+                "id_str": "1085420355685105665",
+                "indices": [
+                    3,
+                    12
+                ]
+            },
+            {
+                "screen_name": "VocesFutbolPeru",
+                "name": "Las Voces Del F\u00fatbol | Per\u00fa",
+                "id": 1162216910169100288,
+                "id_str": "1162216910169100288",
+                "indices": [
+                    37,
+                    53
+                ]
+            }
+        ],
+        "urls": []
+    },
+    "metadata": {
+        "iso_language_code": "es",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 1366871590458245121,
+        "id_str": "1366871590458245121",
+        "name": "GronEdson - \u57c3\u5fb7\u68ee",
+        "screen_name": "GronEdson2",
+        "location": "Alejandro Villanueva - Matute",
+        "description": "Cambie de cuenta: si segu\u00edas @GronEdson, ahora estoy @GronEdson2\nAliancista de Coraz\u00f3n. #ArribaAlianza \nTiktok: https://t.co/jPaEBz2MH6",
+        "url": "https://t.co/dDJHIDbUlv",
+        "entities": {
+            "url": {
+                "urls": [
+                    {
+                        "url": "https://t.co/dDJHIDbUlv",
+                        "expanded_url": "https://alianzalimaysvjodagrone.wordpress.com/",
+                        "display_url": "alianzalimaysvjodagrone.wordpress.com",
+                        "indices": [
+                            0,
+                            23
+                        ]
+                    }
+                ]
+            },
+            "description": {
+                "urls": [
+                    {
+                        "url": "https://t.co/jPaEBz2MH6",
+                        "expanded_url": "https://www.tiktok.com/@gronedson2?lang=es",
+                        "display_url": "tiktok.com/@gronedson2?la\u2026",
+                        "indices": [
+                            112,
+                            135
+                        ]
+                    }
+                ]
+            }
+        },
+        "protected": false,
+        "followers_count": 378,
+        "friends_count": 382,
+        "listed_count": 1,
+        "created_at": "Tue Mar 02 22:02:46 +0000 2021",
+        "favourites_count": 1403,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 4107,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": null,
+        "profile_background_image_url_https": null,
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1392975979694460929/H9eN3Z5I_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1392975979694460929/H9eN3Z5I_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1366871590458245121/1617669111",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": true,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+        "created_at": "Thu Jul 15 18:39:40 +0000 2021",
+        "id": 1415742878266150920,
+        "id_str": "1415742878266150920",
+        "full_text": "Luis Adv\u00edncula pap\u00e1 en @VocesFutbolPeru: Cuando Luis termine su carrera en Europa y quiera continuarla ac\u00e1 en Per\u00fa deber\u00eda ser en Alianza Lima.",
+        "truncated": false,
+        "display_text_range": [
+            0,
+            143
+        ],
+        "entities": {
+            "hashtags": [],
+            "symbols": [],
+            "user_mentions": [
+                {
+                    "screen_name": "VocesFutbolPeru",
+                    "name": "Las Voces Del F\u00fatbol | Per\u00fa",
+                    "id": 1162216910169100288,
+                    "id_str": "1162216910169100288",
+                    "indices": [
+                        23,
+                        39
+                    ]
+                }
+            ],
+            "urls": []
+        },
+        "metadata": {
+            "iso_language_code": "es",
+            "result_type": "recent"
+        },
+        "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 1085420355685105665,
+            "id_str": "1085420355685105665",
+            "name": "Marcello Merizalde",
+            "screen_name": "chelomzd",
+            "location": "Lima, Per\u00fa",
+            "description": "Periodista | @vocesfutbolperu",
+            "url": null,
+            "entities": {
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 932,
+            "friends_count": 385,
+            "listed_count": 9,
+            "created_at": "Wed Jan 16 06:15:53 +0000 2019",
+            "favourites_count": 5197,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": true,
+            "verified": false,
+            "statuses_count": 2797,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "F5F8FA",
+            "profile_background_image_url": null,
+            "profile_background_image_url_https": null,
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1413358348297199617/vTqmaFqz_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1413358348297199617/vTqmaFqz_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/1085420355685105665/1622189035",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "has_extended_profile": false,
+            "default_profile": true,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none",
+            "withheld_in_countries": []
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 27,
+        "favorite_count": 308,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "es"
+    },
+    "is_quote_status": false,
+    "retweet_count": 27,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "es"
+}

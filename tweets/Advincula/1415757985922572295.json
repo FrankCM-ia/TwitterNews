@@ -1,0 +1,198 @@
+{
+    "created_at": "Thu Jul 15 19:39:42 +0000 2021",
+    "id": 1415757985922572295,
+    "id_str": "1415757985922572295",
+    "full_text": "\ud83d\udea8 Desvelado a qu\u00e9 equipo y por qu\u00e9 cantidad vender\u00e1 el Rayo Vallecano a Adv\u00edncula https://t.co/4uoU1vnluV https://t.co/LEi6LVJGWB",
+    "truncated": false,
+    "display_text_range": [
+        0,
+        105
+    ],
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+            {
+                "url": "https://t.co/4uoU1vnluV",
+                "expanded_url": "https://bit.ly/3wGkj8T",
+                "display_url": "bit.ly/3wGkj8T",
+                "indices": [
+                    82,
+                    105
+                ]
+            }
+        ],
+        "media": [
+            {
+                "id": 1415757975088779266,
+                "id_str": "1415757975088779266",
+                "indices": [
+                    106,
+                    129
+                ],
+                "media_url": "http://pbs.twimg.com/media/E6XIYJkX0AIFFZd.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/E6XIYJkX0AIFFZd.jpg",
+                "url": "https://t.co/LEi6LVJGWB",
+                "display_url": "pic.twitter.com/LEi6LVJGWB",
+                "expanded_url": "https://twitter.com/laotraliga_net/status/1415757985922572295/photo/1",
+                "type": "photo",
+                "sizes": {
+                    "medium": {
+                        "w": 1200,
+                        "h": 800,
+                        "resize": "fit"
+                    },
+                    "small": {
+                        "w": 680,
+                        "h": 453,
+                        "resize": "fit"
+                    },
+                    "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                    },
+                    "large": {
+                        "w": 2048,
+                        "h": 1365,
+                        "resize": "fit"
+                    }
+                }
+            }
+        ]
+    },
+    "extended_entities": {
+        "media": [
+            {
+                "id": 1415757975088779266,
+                "id_str": "1415757975088779266",
+                "indices": [
+                    106,
+                    129
+                ],
+                "media_url": "http://pbs.twimg.com/media/E6XIYJkX0AIFFZd.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/E6XIYJkX0AIFFZd.jpg",
+                "url": "https://t.co/LEi6LVJGWB",
+                "display_url": "pic.twitter.com/LEi6LVJGWB",
+                "expanded_url": "https://twitter.com/laotraliga_net/status/1415757985922572295/photo/1",
+                "type": "photo",
+                "sizes": {
+                    "medium": {
+                        "w": 1200,
+                        "h": 800,
+                        "resize": "fit"
+                    },
+                    "small": {
+                        "w": 680,
+                        "h": 453,
+                        "resize": "fit"
+                    },
+                    "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                    },
+                    "large": {
+                        "w": 2048,
+                        "h": 1365,
+                        "resize": "fit"
+                    }
+                }
+            }
+        ]
+    },
+    "metadata": {
+        "iso_language_code": "es",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 441227490,
+        "id_str": "441227490",
+        "name": "La otra liga",
+        "screen_name": "laotraliga_net",
+        "location": "Espa\u00f1a",
+        "description": "\ud83d\udcf0 El diario deportivo de los que est\u00e1n cansados de que solo se hable del Madrid y del Barcelona | #LaLiga | #Fichajes  \n\nhttps://t.co/M3wQ9czNEc",
+        "url": "https://t.co/obkjFpa8ZI",
+        "entities": {
+            "url": {
+                "urls": [
+                    {
+                        "url": "https://t.co/obkjFpa8ZI",
+                        "expanded_url": "http://www.larazon.es/laotraliga",
+                        "display_url": "larazon.es/laotraliga",
+                        "indices": [
+                            0,
+                            23
+                        ]
+                    }
+                ]
+            },
+            "description": {
+                "urls": [
+                    {
+                        "url": "https://t.co/M3wQ9czNEc",
+                        "expanded_url": "http://Instagram.com/laotraliga_net",
+                        "display_url": "Instagram.com/laotraliga_net",
+                        "indices": [
+                            121,
+                            144
+                        ]
+                    }
+                ]
+            }
+        },
+        "protected": false,
+        "followers_count": 186206,
+        "friends_count": 71152,
+        "listed_count": 559,
+        "created_at": "Mon Dec 19 21:43:04 +0000 2011",
+        "favourites_count": 13,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 113074,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "1A1B1F",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1085682870621011968/iDq4mssJ_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1085682870621011968/iDq4mssJ_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/441227490/1624655762",
+        "profile_link_color": "2FC2EF",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 5,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "es"
+}

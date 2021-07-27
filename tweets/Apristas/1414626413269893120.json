@@ -1,0 +1,316 @@
+{
+    "created_at": "Mon Jul 12 16:43:14 +0000 2021",
+    "id": 1414626413269893120,
+    "id_str": "1414626413269893120",
+    "full_text": "RT @tanquedecasma: @sueltoenplaza1 @PBOPeru Todo lo que haces para desviar la atenci\u00f3n al veto a una pel\u00edcula dedicada a los m\u00e1rtires apris\u2026",
+    "truncated": false,
+    "display_text_range": [
+        0,
+        140
+    ],
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "tanquedecasma",
+                "name": "Ernesto Carlin",
+                "id": 54119173,
+                "id_str": "54119173",
+                "indices": [
+                    3,
+                    17
+                ]
+            },
+            {
+                "screen_name": "sueltoenplaza1",
+                "name": "@DiaDeLaNakba #ICC4ISRAEL",
+                "id": 1082068645482848256,
+                "id_str": "1082068645482848256",
+                "indices": [
+                    19,
+                    34
+                ]
+            },
+            {
+                "screen_name": "PBOPeru",
+                "name": "PBO",
+                "id": 2401702404,
+                "id_str": "2401702404",
+                "indices": [
+                    35,
+                    43
+                ]
+            }
+        ],
+        "urls": []
+    },
+    "metadata": {
+        "iso_language_code": "es",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 633023749,
+        "id_str": "633023749",
+        "name": "Rafael Hidalgo",
+        "screen_name": "RafaelHidalgoP",
+        "location": "",
+        "description": "",
+        "url": null,
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 1807,
+        "friends_count": 997,
+        "listed_count": 8,
+        "created_at": "Wed Jul 11 16:16:42 +0000 2012",
+        "favourites_count": 2888,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 49892,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/378800000411286512/592bdab1ebb6c8ab8d92292e827e8233_normal.jpeg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/378800000411286512/592bdab1ebb6c8ab8d92292e827e8233_normal.jpeg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/633023749/1378314095",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+        "created_at": "Mon Jul 12 16:38:08 +0000 2021",
+        "id": 1414625132543361025,
+        "id_str": "1414625132543361025",
+        "full_text": "@sueltoenplaza1 @PBOPeru Todo lo que haces para desviar la atenci\u00f3n al veto a una pel\u00edcula dedicada a los m\u00e1rtires apristas asesinados por Sendero Luminoso. https://t.co/JDkwsp3Eb2",
+        "truncated": false,
+        "display_text_range": [
+            25,
+            156
+        ],
+        "entities": {
+            "hashtags": [],
+            "symbols": [],
+            "user_mentions": [
+                {
+                    "screen_name": "sueltoenplaza1",
+                    "name": "@DiaDeLaNakba #ICC4ISRAEL",
+                    "id": 1082068645482848256,
+                    "id_str": "1082068645482848256",
+                    "indices": [
+                        0,
+                        15
+                    ]
+                },
+                {
+                    "screen_name": "PBOPeru",
+                    "name": "PBO",
+                    "id": 2401702404,
+                    "id_str": "2401702404",
+                    "indices": [
+                        16,
+                        24
+                    ]
+                }
+            ],
+            "urls": [],
+            "media": [
+                {
+                    "id": 1414625129963966470,
+                    "id_str": "1414625129963966470",
+                    "indices": [
+                        157,
+                        180
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/E6HCD4nX0AYiOs6.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/E6HCD4nX0AYiOs6.jpg",
+                    "url": "https://t.co/JDkwsp3Eb2",
+                    "display_url": "pic.twitter.com/JDkwsp3Eb2",
+                    "expanded_url": "https://twitter.com/tanquedecasma/status/1414625132543361025/photo/1",
+                    "type": "photo",
+                    "sizes": {
+                        "large": {
+                            "w": 686,
+                            "h": 960,
+                            "resize": "fit"
+                        },
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "medium": {
+                            "w": 686,
+                            "h": 960,
+                            "resize": "fit"
+                        },
+                        "small": {
+                            "w": 486,
+                            "h": 680,
+                            "resize": "fit"
+                        }
+                    }
+                }
+            ]
+        },
+        "extended_entities": {
+            "media": [
+                {
+                    "id": 1414625129963966470,
+                    "id_str": "1414625129963966470",
+                    "indices": [
+                        157,
+                        180
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/E6HCD4nX0AYiOs6.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/E6HCD4nX0AYiOs6.jpg",
+                    "url": "https://t.co/JDkwsp3Eb2",
+                    "display_url": "pic.twitter.com/JDkwsp3Eb2",
+                    "expanded_url": "https://twitter.com/tanquedecasma/status/1414625132543361025/photo/1",
+                    "type": "photo",
+                    "sizes": {
+                        "large": {
+                            "w": 686,
+                            "h": 960,
+                            "resize": "fit"
+                        },
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "medium": {
+                            "w": 686,
+                            "h": 960,
+                            "resize": "fit"
+                        },
+                        "small": {
+                            "w": 486,
+                            "h": 680,
+                            "resize": "fit"
+                        }
+                    }
+                }
+            ]
+        },
+        "metadata": {
+            "iso_language_code": "es",
+            "result_type": "recent"
+        },
+        "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+        "in_reply_to_status_id": 1414621462531616771,
+        "in_reply_to_status_id_str": "1414621462531616771",
+        "in_reply_to_user_id": 1082068645482848256,
+        "in_reply_to_user_id_str": "1082068645482848256",
+        "in_reply_to_screen_name": "sueltoenplaza1",
+        "user": {
+            "id": 54119173,
+            "id_str": "54119173",
+            "name": "Ernesto Carlin",
+            "screen_name": "tanquedecasma",
+            "location": "Lima, Peru",
+            "description": "Periodista hincha del Sport Boys. Opiniones personales.",
+            "url": "https://t.co/7p5I0bYSgK",
+            "entities": {
+                "url": {
+                    "urls": [
+                        {
+                            "url": "https://t.co/7p5I0bYSgK",
+                            "expanded_url": "http://tanquedecasma.blogspot.com/",
+                            "display_url": "tanquedecasma.blogspot.com",
+                            "indices": [
+                                0,
+                                23
+                            ]
+                        }
+                    ]
+                },
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 3421,
+            "friends_count": 3391,
+            "listed_count": 64,
+            "created_at": "Mon Jul 06 04:54:22 +0000 2009",
+            "favourites_count": 36673,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": true,
+            "verified": false,
+            "statuses_count": 61241,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "000303",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": true,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1254971119167250433/Exy6CmV__normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1254971119167250433/Exy6CmV__normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/54119173/1588043751",
+            "profile_link_color": "FF00DD",
+            "profile_sidebar_border_color": "020500",
+            "profile_sidebar_fill_color": "000000",
+            "profile_text_color": "FF00DD",
+            "profile_use_background_image": true,
+            "has_extended_profile": false,
+            "default_profile": false,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none",
+            "withheld_in_countries": []
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 2,
+        "favorite_count": 0,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "es"
+    },
+    "is_quote_status": false,
+    "retweet_count": 2,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "es"
+}

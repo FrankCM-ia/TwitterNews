@@ -1,0 +1,197 @@
+{
+    "created_at": "Mon Jul 12 04:01:02 +0000 2021",
+    "id": 1414434603058741249,
+    "id_str": "1414434603058741249",
+    "full_text": "Ver como Cuba lucha por su libertad me llena de entusiasmo. Toda revoluci\u00f3n tiene sus m\u00e1rtires. Los apristas lo sabemos muy bien. Siempre recordar\u00e9 con admiraci\u00f3n a Aberlardo Mendoza Leyva. https://t.co/aksRDbBx6i",
+    "truncated": false,
+    "display_text_range": [
+        0,
+        189
+    ],
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [],
+        "media": [
+            {
+                "id": 1414434600689049600,
+                "id_str": "1414434600689049600",
+                "indices": [
+                    190,
+                    213
+                ],
+                "media_url": "http://pbs.twimg.com/media/E6EUxnwXoAA2CKL.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/E6EUxnwXoAA2CKL.jpg",
+                "url": "https://t.co/aksRDbBx6i",
+                "display_url": "pic.twitter.com/aksRDbBx6i",
+                "expanded_url": "https://twitter.com/oscar_mejia20/status/1414434603058741249/photo/1",
+                "type": "photo",
+                "sizes": {
+                    "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                    },
+                    "medium": {
+                        "w": 366,
+                        "h": 468,
+                        "resize": "fit"
+                    },
+                    "small": {
+                        "w": 366,
+                        "h": 468,
+                        "resize": "fit"
+                    },
+                    "large": {
+                        "w": 366,
+                        "h": 468,
+                        "resize": "fit"
+                    }
+                }
+            }
+        ]
+    },
+    "extended_entities": {
+        "media": [
+            {
+                "id": 1414434600689049600,
+                "id_str": "1414434600689049600",
+                "indices": [
+                    190,
+                    213
+                ],
+                "media_url": "http://pbs.twimg.com/media/E6EUxnwXoAA2CKL.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/E6EUxnwXoAA2CKL.jpg",
+                "url": "https://t.co/aksRDbBx6i",
+                "display_url": "pic.twitter.com/aksRDbBx6i",
+                "expanded_url": "https://twitter.com/oscar_mejia20/status/1414434603058741249/photo/1",
+                "type": "photo",
+                "sizes": {
+                    "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                    },
+                    "medium": {
+                        "w": 366,
+                        "h": 468,
+                        "resize": "fit"
+                    },
+                    "small": {
+                        "w": 366,
+                        "h": 468,
+                        "resize": "fit"
+                    },
+                    "large": {
+                        "w": 366,
+                        "h": 468,
+                        "resize": "fit"
+                    }
+                }
+            }
+        ]
+    },
+    "metadata": {
+        "iso_language_code": "es",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 1112554280270135296,
+        "id_str": "1112554280270135296",
+        "name": "Oscar Mej\u00eda",
+        "screen_name": "oscar_mejia20",
+        "location": "Lima, Peru",
+        "description": "Eterno aprendiz",
+        "url": null,
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 106,
+        "friends_count": 759,
+        "listed_count": 0,
+        "created_at": "Mon Apr 01 03:16:25 +0000 2019",
+        "favourites_count": 1516,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 1681,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": null,
+        "profile_background_image_url_https": null,
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1307715325358682113/phqK7_OO_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1307715325358682113/phqK7_OO_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": {
+        "id": "0142b843100f190a",
+        "url": "https://api.twitter.com/1.1/geo/id/0142b843100f190a.json",
+        "place_type": "city",
+        "name": "La victoria",
+        "full_name": "La victoria, Peru",
+        "country_code": "PE",
+        "country": "Peru",
+        "contained_within": [],
+        "bounding_box": {
+            "type": "Polygon",
+            "coordinates": [
+                [
+                    [
+                        -77.031610923325,
+                        -12.091643996437
+                    ],
+                    [
+                        -76.9955061609883,
+                        -12.091643996437
+                    ],
+                    [
+                        -76.9955061609883,
+                        -12.05844597003
+                    ],
+                    [
+                        -77.031610923325,
+                        -12.05844597003
+                    ]
+                ]
+            ]
+        },
+        "attributes": {}
+    },
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 1,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "es"
+}

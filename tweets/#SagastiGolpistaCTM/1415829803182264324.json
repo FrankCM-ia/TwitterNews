@@ -1,0 +1,289 @@
+{
+    "created_at": "Fri Jul 16 00:25:04 +0000 2021",
+    "id": 1415829803182264324,
+    "id_str": "1415829803182264324",
+    "full_text": "Cojudos por mil los que le creen y lo siguen.\n @ocram en un d\u00eda cualquiera en el el ba\u00f1o grabandose desde su cel para la #LaEncerrona \ud83d\udc47\n\n#SagastiGolpistaCTM https://t.co/60tVR3CCbZ https://t.co/VydohxyHvb",
+    "truncated": false,
+    "display_text_range": [
+        0,
+        180
+    ],
+    "entities": {
+        "hashtags": [
+            {
+                "text": "LaEncerrona",
+                "indices": [
+                    121,
+                    133
+                ]
+            },
+            {
+                "text": "SagastiGolpistaCTM",
+                "indices": [
+                    137,
+                    156
+                ]
+            }
+        ],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "ocram",
+                "name": "\ud83c\udf49 Marco Sifuentes",
+                "id": 3369151,
+                "id_str": "3369151",
+                "indices": [
+                    47,
+                    53
+                ]
+            }
+        ],
+        "urls": [
+            {
+                "url": "https://t.co/60tVR3CCbZ",
+                "expanded_url": "https://twitter.com/Yovanni1229/status/1415720994795294726",
+                "display_url": "twitter.com/Yovanni1229/st\u2026",
+                "indices": [
+                    157,
+                    180
+                ]
+            }
+        ],
+        "media": [
+            {
+                "id": 1415829800711766016,
+                "id_str": "1415829800711766016",
+                "indices": [
+                    181,
+                    204
+                ],
+                "media_url": "http://pbs.twimg.com/media/E6YJs83WQAAV4Av.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/E6YJs83WQAAV4Av.jpg",
+                "url": "https://t.co/VydohxyHvb",
+                "display_url": "pic.twitter.com/VydohxyHvb",
+                "expanded_url": "https://twitter.com/RicaLiberta/status/1415829803182264324/photo/1",
+                "type": "photo",
+                "sizes": {
+                    "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                    },
+                    "large": {
+                        "w": 550,
+                        "h": 543,
+                        "resize": "fit"
+                    },
+                    "small": {
+                        "w": 550,
+                        "h": 543,
+                        "resize": "fit"
+                    },
+                    "medium": {
+                        "w": 550,
+                        "h": 543,
+                        "resize": "fit"
+                    }
+                }
+            }
+        ]
+    },
+    "extended_entities": {
+        "media": [
+            {
+                "id": 1415829800711766016,
+                "id_str": "1415829800711766016",
+                "indices": [
+                    181,
+                    204
+                ],
+                "media_url": "http://pbs.twimg.com/media/E6YJs83WQAAV4Av.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/E6YJs83WQAAV4Av.jpg",
+                "url": "https://t.co/VydohxyHvb",
+                "display_url": "pic.twitter.com/VydohxyHvb",
+                "expanded_url": "https://twitter.com/RicaLiberta/status/1415829803182264324/photo/1",
+                "type": "photo",
+                "sizes": {
+                    "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                    },
+                    "large": {
+                        "w": 550,
+                        "h": 543,
+                        "resize": "fit"
+                    },
+                    "small": {
+                        "w": 550,
+                        "h": 543,
+                        "resize": "fit"
+                    },
+                    "medium": {
+                        "w": 550,
+                        "h": 543,
+                        "resize": "fit"
+                    }
+                }
+            }
+        ]
+    },
+    "metadata": {
+        "iso_language_code": "es",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 1276317684804849664,
+        "id_str": "1276317684804849664",
+        "name": "BORJA \ud83d\udc99\ud83c\udf10\ud83c\uddf5\ud83c\uddea",
+        "screen_name": "RicaLiberta",
+        "location": "",
+        "description": "libertario, Patriota Bicentenario, Provida, profamilia,  Contra al globalismo, a favor del trabajo y la libertad. (GTTER)",
+        "url": null,
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 550,
+        "friends_count": 869,
+        "listed_count": 1,
+        "created_at": "Fri Jun 26 00:54:21 +0000 2020",
+        "favourites_count": 17072,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 17336,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": null,
+        "profile_background_image_url_https": null,
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1329640641031254017/yHZqoKri_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1329640641031254017/yHZqoKri_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1276317684804849664/1623734087",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": true,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": true,
+    "quoted_status_id": 1415720994795294726,
+    "quoted_status_id_str": "1415720994795294726",
+    "quoted_status": {
+        "created_at": "Thu Jul 15 17:12:42 +0000 2021",
+        "id": 1415720994795294726,
+        "id_str": "1415720994795294726",
+        "full_text": "Marco Sifuentes es un pobre cojudo",
+        "truncated": false,
+        "display_text_range": [
+            0,
+            34
+        ],
+        "entities": {
+            "hashtags": [],
+            "symbols": [],
+            "user_mentions": [],
+            "urls": []
+        },
+        "metadata": {
+            "iso_language_code": "es",
+            "result_type": "recent"
+        },
+        "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 979806711551807489,
+            "id_str": "979806711551807489",
+            "name": "Giovanni",
+            "screen_name": "Yovanni1229",
+            "location": "Lima, Peru",
+            "description": "Comunicador. Pol\u00edticamente incorrecto / 27\nApasionado por el f\u00fatbol y en menor medida, la pol\u00edtica.",
+            "url": null,
+            "entities": {
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 462,
+            "friends_count": 713,
+            "listed_count": 0,
+            "created_at": "Fri Mar 30 19:44:58 +0000 2018",
+            "favourites_count": 79537,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": false,
+            "verified": false,
+            "statuses_count": 10289,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "000000",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1393362289777160195/PL7kdnT9_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1393362289777160195/PL7kdnT9_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/979806711551807489/1625019701",
+            "profile_link_color": "91D2FA",
+            "profile_sidebar_border_color": "000000",
+            "profile_sidebar_fill_color": "000000",
+            "profile_text_color": "000000",
+            "profile_use_background_image": false,
+            "has_extended_profile": true,
+            "default_profile": false,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none",
+            "withheld_in_countries": []
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 12,
+        "favorite_count": 179,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "es"
+    },
+    "retweet_count": 1,
+    "favorite_count": 2,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "es"
+}

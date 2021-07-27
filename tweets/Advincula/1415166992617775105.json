@@ -1,0 +1,117 @@
+{
+    "created_at": "Wed Jul 14 04:31:18 +0000 2021",
+    "id": 1415166992617775105,
+    "id_str": "1415166992617775105",
+    "full_text": "@nahuegarciaa @silviaojeda896 @BocaJrsOficial Si me gustan los refuerzos. Falto mucho. \nSi vienen Advincula y Borja es un mercado muy bueno!!! Sino , es mediopelo.",
+    "truncated": false,
+    "display_text_range": [
+        46,
+        163
+    ],
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "nahuegarciaa",
+                "name": "Salta o te empujo!",
+                "id": 153642585,
+                "id_str": "153642585",
+                "indices": [
+                    0,
+                    13
+                ]
+            },
+            {
+                "screen_name": "silviaojeda896",
+                "name": "SilviaOjeda",
+                "id": 2840147057,
+                "id_str": "2840147057",
+                "indices": [
+                    14,
+                    29
+                ]
+            },
+            {
+                "screen_name": "BocaJrsOficial",
+                "name": "Boca Juniors",
+                "id": 42933426,
+                "id_str": "42933426",
+                "indices": [
+                    30,
+                    45
+                ]
+            }
+        ],
+        "urls": []
+    },
+    "metadata": {
+        "iso_language_code": "es",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "in_reply_to_status_id": 1415165356348477441,
+    "in_reply_to_status_id_str": "1415165356348477441",
+    "in_reply_to_user_id": 153642585,
+    "in_reply_to_user_id_str": "153642585",
+    "in_reply_to_screen_name": "nahuegarciaa",
+    "user": {
+        "id": 144617083,
+        "id_str": "144617083",
+        "name": "Fernanda \ud83d\udc99\ud83d\udc9b\ud83d\udc99",
+        "screen_name": "FFEERRNANDA",
+        "location": "Recoleta - Bs As - Argentina",
+        "description": "Ser independiente es cosa de una peque\u00f1a minor\u00eda, es el privilegio de los fuertes. Friedrich Nietzsche\u2712\n\ud83d\udc99\ud83d\udc9b\ud83d\udc99 MI PASI\u00d3N: CABJ \ud83d\udc99\ud83d\udc9b\ud83d\udc99\rHincha y Socia \ud83c\uddf8\ud83c\uddea\n\n#Boca",
+        "url": null,
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 9142,
+        "friends_count": 7424,
+        "listed_count": 28,
+        "created_at": "Sun May 16 20:50:04 +0000 2010",
+        "favourites_count": 215501,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 197912,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "FF6699",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme11/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme11/bg.gif",
+        "profile_background_tile": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1265136420081020929/B0w0wJ4a_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1265136420081020929/B0w0wJ4a_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/144617083/1487311357",
+        "profile_link_color": "B40B43",
+        "profile_sidebar_border_color": "CC3366",
+        "profile_sidebar_fill_color": "E5507E",
+        "profile_text_color": "362720",
+        "profile_use_background_image": true,
+        "has_extended_profile": true,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 1,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "es"
+}

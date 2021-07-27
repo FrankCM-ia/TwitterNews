@@ -1,0 +1,120 @@
+{
+    "created_at": "Tue Jul 13 16:19:25 +0000 2021",
+    "id": 1414982809144410113,
+    "id_str": "1414982809144410113",
+    "full_text": "A Luis Adv\u00edncula en @RayoVallecano ya le dijeron que no lo tienen en cuenta para esta temporada, presentarse tarde a la pretemporada fue el detonante. Hoy arreglan la parte contractual y en estos d\u00edas llega a Buenos Aires para firmar por @BocaJrsOficial.",
+    "truncated": false,
+    "display_text_range": [
+        0,
+        254
+    ],
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "RayoVallecano",
+                "name": "Rayo Vallecano",
+                "id": 498012129,
+                "id_str": "498012129",
+                "indices": [
+                    20,
+                    34
+                ]
+            },
+            {
+                "screen_name": "BocaJrsOficial",
+                "name": "Boca Juniors",
+                "id": 42933426,
+                "id_str": "42933426",
+                "indices": [
+                    238,
+                    253
+                ]
+            }
+        ],
+        "urls": []
+    },
+    "metadata": {
+        "iso_language_code": "es",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 37984211,
+        "id_str": "37984211",
+        "name": "Richi Cisneros",
+        "screen_name": "Azulgroneixe",
+        "location": "Lima, Peru",
+        "description": "Padre, hincha hasta los huevos de @ClubALoficial. Lime\u00f1o de mierda. Fundador y Panelista de @TribvnaGrone. De Izquierda.",
+        "url": "https://t.co/XvMeKNMQ5y",
+        "entities": {
+            "url": {
+                "urls": [
+                    {
+                        "url": "https://t.co/XvMeKNMQ5y",
+                        "expanded_url": "https://ideasilimitadas.wordpress.com",
+                        "display_url": "ideasilimitadas.wordpress.com",
+                        "indices": [
+                            0,
+                            23
+                        ]
+                    }
+                ]
+            },
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 2012,
+        "friends_count": 4243,
+        "listed_count": 25,
+        "created_at": "Tue May 05 18:25:11 +0000 2009",
+        "favourites_count": 60096,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 148243,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "1A1B1F",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1407490697406652423/wGev8C4c_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1407490697406652423/wGev8C4c_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/37984211/1606447040",
+        "profile_link_color": "3B94D9",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "profile_use_background_image": true,
+        "has_extended_profile": true,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 6,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "es"
+}

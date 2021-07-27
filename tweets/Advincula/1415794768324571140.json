@@ -1,0 +1,176 @@
+{
+    "created_at": "Thu Jul 15 22:05:51 +0000 2021",
+    "id": 1415794768324571140,
+    "id_str": "1415794768324571140",
+    "full_text": "\ud83d\udea8OFICIAL\n\n\ud83c\uddf5\ud83c\uddea\u270d Luis Adv\u00edncula es nuevo jugador del Boca Juniors.\n\n\ud83c\udde6\ud83c\uddf7 El equipo argentino pago 2.3 millones de euros por el peruano.\n\n\ud83d\udcf2 \u00bb @NotiFut38033094 https://t.co/xETkuszZUu",
+    "truncated": false,
+    "display_text_range": [
+        0,
+        152
+    ],
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "NotiFut38033094",
+                "name": "Noti-Futbol",
+                "id": 1414725144606613508,
+                "id_str": "1414725144606613508",
+                "indices": [
+                    136,
+                    152
+                ]
+            }
+        ],
+        "urls": [],
+        "media": [
+            {
+                "id": 1415794766319661066,
+                "id_str": "1415794766319661066",
+                "indices": [
+                    153,
+                    176
+                ],
+                "media_url": "http://pbs.twimg.com/media/E6Xp1rlXMAoJyJ6.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/E6Xp1rlXMAoJyJ6.jpg",
+                "url": "https://t.co/xETkuszZUu",
+                "display_url": "pic.twitter.com/xETkuszZUu",
+                "expanded_url": "https://twitter.com/NotiFut38033094/status/1415794768324571140/photo/1",
+                "type": "photo",
+                "sizes": {
+                    "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                    },
+                    "medium": {
+                        "w": 1024,
+                        "h": 1024,
+                        "resize": "fit"
+                    },
+                    "small": {
+                        "w": 680,
+                        "h": 680,
+                        "resize": "fit"
+                    },
+                    "large": {
+                        "w": 1024,
+                        "h": 1024,
+                        "resize": "fit"
+                    }
+                }
+            }
+        ]
+    },
+    "extended_entities": {
+        "media": [
+            {
+                "id": 1415794766319661066,
+                "id_str": "1415794766319661066",
+                "indices": [
+                    153,
+                    176
+                ],
+                "media_url": "http://pbs.twimg.com/media/E6Xp1rlXMAoJyJ6.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/E6Xp1rlXMAoJyJ6.jpg",
+                "url": "https://t.co/xETkuszZUu",
+                "display_url": "pic.twitter.com/xETkuszZUu",
+                "expanded_url": "https://twitter.com/NotiFut38033094/status/1415794768324571140/photo/1",
+                "type": "photo",
+                "sizes": {
+                    "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                    },
+                    "medium": {
+                        "w": 1024,
+                        "h": 1024,
+                        "resize": "fit"
+                    },
+                    "small": {
+                        "w": 680,
+                        "h": 680,
+                        "resize": "fit"
+                    },
+                    "large": {
+                        "w": 1024,
+                        "h": 1024,
+                        "resize": "fit"
+                    }
+                }
+            }
+        ]
+    },
+    "metadata": {
+        "iso_language_code": "es",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 1414725144606613508,
+        "id_str": "1414725144606613508",
+        "name": "Noti-Futbol",
+        "screen_name": "NotiFut38033094",
+        "location": "",
+        "description": "",
+        "url": null,
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 3,
+        "friends_count": 16,
+        "listed_count": 0,
+        "created_at": "Mon Jul 12 23:15:43 +0000 2021",
+        "favourites_count": 10,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 484,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": null,
+        "profile_background_image_url_https": null,
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1414735033148059649/R72iWKry_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1414735033148059649/R72iWKry_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1414725144606613508/1626134112",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": true,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "es"
+}

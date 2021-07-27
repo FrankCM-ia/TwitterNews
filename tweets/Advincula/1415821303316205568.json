@@ -1,0 +1,126 @@
+{
+    "created_at": "Thu Jul 15 23:51:18 +0000 2021",
+    "id": 1415821303316205568,
+    "id_str": "1415821303316205568",
+    "full_text": "@mundobocaradio @mileportella Rossi\nAdvincula . Cali . Rojo . Gomez\nBriasco . Varela . Ramirez\nPavon/Salvio . El 9 . Villa \nMasomenos ese equipo no @mileportella @LuisFregossi  ?",
+    "truncated": false,
+    "display_text_range": [
+        30,
+        178
+    ],
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "mundobocaradio",
+                "name": "Mundo Boca Radio/TV",
+                "id": 941011426973536256,
+                "id_str": "941011426973536256",
+                "indices": [
+                    0,
+                    15
+                ]
+            },
+            {
+                "screen_name": "mileportella",
+                "name": "Milena Portella",
+                "id": 2740967427,
+                "id_str": "2740967427",
+                "indices": [
+                    16,
+                    29
+                ]
+            },
+            {
+                "screen_name": "mileportella",
+                "name": "Milena Portella",
+                "id": 2740967427,
+                "id_str": "2740967427",
+                "indices": [
+                    148,
+                    161
+                ]
+            },
+            {
+                "screen_name": "LuisFregossi",
+                "name": "Luis Fregossi",
+                "id": 132219286,
+                "id_str": "132219286",
+                "indices": [
+                    162,
+                    175
+                ]
+            }
+        ],
+        "urls": []
+    },
+    "metadata": {
+        "iso_language_code": "es",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "in_reply_to_status_id": 1415810434796511235,
+    "in_reply_to_status_id_str": "1415810434796511235",
+    "in_reply_to_user_id": 941011426973536256,
+    "in_reply_to_user_id_str": "941011426973536256",
+    "in_reply_to_screen_name": "mundobocaradio",
+    "user": {
+        "id": 1340427174952747008,
+        "id_str": "1340427174952747008",
+        "name": "OpinologoTV",
+        "screen_name": "TvOpinologo",
+        "location": "",
+        "description": "\ud83d\udcf1\ud83d\udc40\ud83d\udcbb\ud83d\udc40\ud83d\udcfa\ud83d\udc40\nOpin\u00f3logo y o Cr\u00edtico",
+        "url": null,
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 45,
+        "friends_count": 61,
+        "listed_count": 1,
+        "created_at": "Sat Dec 19 22:42:35 +0000 2020",
+        "favourites_count": 4230,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 1425,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": null,
+        "profile_background_image_url_https": null,
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1340437630383771654/3iorFbq4_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1340437630383771654/3iorFbq4_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": true,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "es"
+}

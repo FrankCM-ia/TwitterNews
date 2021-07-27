@@ -1,0 +1,137 @@
+{
+    "created_at": "Thu Jul 15 22:40:19 +0000 2021",
+    "id": 1415803443277672451,
+    "id_str": "1415803443277672451",
+    "full_text": "@Futbolperuano10 @2883_luis @chelomzd @milenamerino @VocesFutbolPeru As\u00ed es lo concreto es que Advincula fue campe\u00f3n con SC ha dicho \"el\" que desea retirarse en SC.. Lo dem\u00e1s es ilusiones... Y punto 2..eso no me preocupa como hincha donde acabe su carrera, xq es tan buena la cantera en SC que jugadores siempre hay \ud83d\ude0f",
+    "truncated": false,
+    "display_text_range": [
+        69,
+        317
+    ],
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "Futbolperuano10",
+                "name": "Daniel Gonzalez",
+                "id": 2534522463,
+                "id_str": "2534522463",
+                "indices": [
+                    0,
+                    16
+                ]
+            },
+            {
+                "screen_name": "2883_luis",
+                "name": "Jos\u00e9 Luis",
+                "id": 537927620,
+                "id_str": "537927620",
+                "indices": [
+                    17,
+                    27
+                ]
+            },
+            {
+                "screen_name": "chelomzd",
+                "name": "Marcello Merizalde",
+                "id": 1085420355685105665,
+                "id_str": "1085420355685105665",
+                "indices": [
+                    28,
+                    37
+                ]
+            },
+            {
+                "screen_name": "milenamerino",
+                "name": "Milena Merino",
+                "id": 208101726,
+                "id_str": "208101726",
+                "indices": [
+                    38,
+                    51
+                ]
+            },
+            {
+                "screen_name": "VocesFutbolPeru",
+                "name": "Las Voces Del F\u00fatbol | Per\u00fa",
+                "id": 1162216910169100288,
+                "id_str": "1162216910169100288",
+                "indices": [
+                    52,
+                    68
+                ]
+            }
+        ],
+        "urls": []
+    },
+    "metadata": {
+        "iso_language_code": "es",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "in_reply_to_status_id": 1415800826082336770,
+    "in_reply_to_status_id_str": "1415800826082336770",
+    "in_reply_to_user_id": 2534522463,
+    "in_reply_to_user_id_str": "2534522463",
+    "in_reply_to_screen_name": "Futbolperuano10",
+    "user": {
+        "id": 2961294736,
+        "id_str": "2961294736",
+        "name": "rn1812",
+        "screen_name": "romnegreiros",
+        "location": "",
+        "description": "",
+        "url": null,
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 150,
+        "friends_count": 233,
+        "listed_count": 1,
+        "created_at": "Mon Jan 05 00:58:43 +0000 2015",
+        "favourites_count": 5228,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 11412,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1331374180990935041/RwUJoQao_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1331374180990935041/RwUJoQao_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2961294736/1551919094",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": true,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "es"
+}

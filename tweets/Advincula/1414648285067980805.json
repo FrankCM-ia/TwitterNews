@@ -1,0 +1,99 @@
+{
+    "created_at": "Mon Jul 12 18:10:08 +0000 2021",
+    "id": 1414648285067980805,
+    "id_str": "1414648285067980805",
+    "full_text": "Como rompen los huevos con Borja, Roger, Advincula. Cuando lleguen llegar\u00e1n sino a otra cosa. No jodan m\u00e1s.",
+    "truncated": false,
+    "display_text_range": [
+        0,
+        107
+    ],
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+    },
+    "metadata": {
+        "iso_language_code": "es",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 710083176,
+        "id_str": "710083176",
+        "name": "26/6 16:46 \u26b0\ufe0f\u2620\ufe0f",
+        "screen_name": "walterpe1990",
+        "location": "Brandsen 805",
+        "description": "De Boca como Rom\u00e1n y el Diego. 6 Libertadores 3 veces campe\u00f3n del \ud83c\udf0f. Socio Adherente. Peronista y cineasta.\u270c\ud83c\uddf8\ud83c\uddea\n26/6/11 16:46 \u26b0\ufe0f\u2620\ufe0f fecha eterna",
+        "url": "https://t.co/xVXoeUnPbN",
+        "entities": {
+            "url": {
+                "urls": [
+                    {
+                        "url": "https://t.co/xVXoeUnPbN",
+                        "expanded_url": "http://instagram.com/walterpe1990",
+                        "display_url": "instagram.com/walterpe1990",
+                        "indices": [
+                            0,
+                            23
+                        ]
+                    }
+                ]
+            },
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 902,
+        "friends_count": 396,
+        "listed_count": 10,
+        "created_at": "Sun Jul 22 04:27:35 +0000 2012",
+        "favourites_count": 48752,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 91637,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1401673042732929029/90KTkv6D_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1401673042732929029/90KTkv6D_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/710083176/1623432088",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": true,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "es"
+}

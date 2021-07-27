@@ -1,0 +1,137 @@
+{
+    "created_at": "Mon Jul 12 22:54:51 +0000 2021",
+    "id": 1414719935788601344,
+    "id_str": "1414719935788601344",
+    "full_text": "@RPPDeportes @RPPNoticias @eltankearias @PaulPerezRioja @jcortecho Ortecho; si no vas a decir cuales son las cosas por las q Advincula prefirio Boca mejor no digas nada.",
+    "truncated": false,
+    "display_text_range": [
+        67,
+        169
+    ],
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "RPPDeportes",
+                "name": "F\u00fatbol Como Cancha - Oficial",
+                "id": 41609283,
+                "id_str": "41609283",
+                "indices": [
+                    0,
+                    12
+                ]
+            },
+            {
+                "screen_name": "RPPNoticias",
+                "name": "RPP Noticias",
+                "id": 9075022,
+                "id_str": "9075022",
+                "indices": [
+                    13,
+                    25
+                ]
+            },
+            {
+                "screen_name": "eltankearias",
+                "name": "Jes\u00fas Arias",
+                "id": 136679439,
+                "id_str": "136679439",
+                "indices": [
+                    26,
+                    39
+                ]
+            },
+            {
+                "screen_name": "PaulPerezRioja",
+                "name": "Paul P\u00e9rez Rioja",
+                "id": 227170348,
+                "id_str": "227170348",
+                "indices": [
+                    40,
+                    55
+                ]
+            },
+            {
+                "screen_name": "jcortecho",
+                "name": "Juan Carlos Ortecho",
+                "id": 129691375,
+                "id_str": "129691375",
+                "indices": [
+                    56,
+                    66
+                ]
+            }
+        ],
+        "urls": []
+    },
+    "metadata": {
+        "iso_language_code": "es",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "in_reply_to_status_id": 1414706429353660421,
+    "in_reply_to_status_id_str": "1414706429353660421",
+    "in_reply_to_user_id": 41609283,
+    "in_reply_to_user_id_str": "41609283",
+    "in_reply_to_screen_name": "RPPDeportes",
+    "user": {
+        "id": 1220159766066016257,
+        "id_str": "1220159766066016257",
+        "name": "Ray Casta\u00f1eda",
+        "screen_name": "RayCastaeda3",
+        "location": "San isidro, Peru",
+        "description": "Derecho y la U",
+        "url": null,
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 36,
+        "friends_count": 456,
+        "listed_count": 0,
+        "created_at": "Thu Jan 23 01:42:48 +0000 2020",
+        "favourites_count": 1147,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 8583,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": null,
+        "profile_background_image_url_https": null,
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1401323308545622020/nzSzzu0x_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1401323308545622020/nzSzzu0x_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1220159766066016257/1613177845",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "es"
+}

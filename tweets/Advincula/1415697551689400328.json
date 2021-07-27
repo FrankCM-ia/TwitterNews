@@ -1,0 +1,236 @@
+{
+    "created_at": "Thu Jul 15 15:39:33 +0000 2021",
+    "id": 1415697551689400328,
+    "id_str": "1415697551689400328",
+    "full_text": "RT @SC_ESPN: #Video Las \u00faltimas noticias sobre la llegada de Luis Adv\u00edncula a Boca: el lateral derecho peruano dejar\u00e1 el Rayo Vallecano par\u2026",
+    "truncated": false,
+    "display_text_range": [
+        0,
+        140
+    ],
+    "entities": {
+        "hashtags": [
+            {
+                "text": "Video",
+                "indices": [
+                    13,
+                    19
+                ]
+            }
+        ],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "SC_ESPN",
+                "name": "SportsCenter",
+                "id": 524531680,
+                "id_str": "524531680",
+                "indices": [
+                    3,
+                    11
+                ]
+            }
+        ],
+        "urls": []
+    },
+    "metadata": {
+        "iso_language_code": "es",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 1056656750097678336,
+        "id_str": "1056656750097678336",
+        "name": "GabrieI Pricher",
+        "screen_name": "GabrielSP4M7",
+        "location": " #LIGA1MOVISTARXGOLPERU ",
+        "description": "HabIo de todo 0K  \nSoy Extrovertido y de Mente Abierta\nDentro deI Mundo deI F\u00fatboI\n#futbolperuanoendirectv\ud83c\uddf5\ud83c\uddea\ud83c\uddea\ud83c\udde8\ud83c\uddea\ud83c\uddf8\nVE0 F\u00daTB0L ECUAT0RIAN0 Y PERUAN0",
+        "url": "https://t.co/KDqOfyzkkh",
+        "entities": {
+            "url": {
+                "urls": [
+                    {
+                        "url": "https://t.co/KDqOfyzkkh",
+                        "expanded_url": "https://www.youtube.com/channel/UC7l_PEMt28w5qeVSuBv832A?view_as=subscriber",
+                        "display_url": "youtube.com/channel/UC7l_P\u2026",
+                        "indices": [
+                            0,
+                            23
+                        ]
+                    }
+                ]
+            },
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 34,
+        "friends_count": 231,
+        "listed_count": 1,
+        "created_at": "Sun Oct 28 21:19:35 +0000 2018",
+        "favourites_count": 223,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 6568,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1284708844338319360/M58orzHR_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1284708844338319360/M58orzHR_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1056656750097678336/1622582524",
+        "profile_link_color": "1B95E0",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "profile_use_background_image": false,
+        "has_extended_profile": true,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+        "created_at": "Thu Jul 15 13:57:05 +0000 2021",
+        "id": 1415671763577413637,
+        "id_str": "1415671763577413637",
+        "full_text": "#Video Las \u00faltimas noticias sobre la llegada de Luis Adv\u00edncula a Boca: el lateral derecho peruano dejar\u00e1 el Rayo Vallecano para llegar al f\u00fatbol argentino. \nhttps://t.co/IFReKz5WOu",
+        "truncated": false,
+        "display_text_range": [
+            0,
+            180
+        ],
+        "entities": {
+            "hashtags": [
+                {
+                    "text": "Video",
+                    "indices": [
+                        0,
+                        6
+                    ]
+                }
+            ],
+            "symbols": [],
+            "user_mentions": [],
+            "urls": [
+                {
+                    "url": "https://t.co/IFReKz5WOu",
+                    "expanded_url": "https://www.espn.com.ar/video/clip/_/id/8912147?ex_cid=TW_SCAr",
+                    "display_url": "espn.com.ar/video/clip/_/i\u2026",
+                    "indices": [
+                        157,
+                        180
+                    ]
+                }
+            ]
+        },
+        "metadata": {
+            "iso_language_code": "es",
+            "result_type": "recent"
+        },
+        "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 524531680,
+            "id_str": "524531680",
+            "name": "SportsCenter",
+            "screen_name": "SC_ESPN",
+            "location": "",
+            "description": "Noticiero del deporte mundial. Repaso de toda la actualidad con compactos, entrevistas, destacados. Un estilo de vida, todos los d\u00edas, en ESPN.",
+            "url": "https://t.co/ysbzEklsPD",
+            "entities": {
+                "url": {
+                    "urls": [
+                        {
+                            "url": "https://t.co/ysbzEklsPD",
+                            "expanded_url": "http://terminosdeuso.espn-la.com",
+                            "display_url": "terminosdeuso.espn-la.com",
+                            "indices": [
+                                0,
+                                23
+                            ]
+                        }
+                    ]
+                },
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 1840589,
+            "friends_count": 22,
+            "listed_count": 2818,
+            "created_at": "Wed Mar 14 17:00:18 +0000 2012",
+            "favourites_count": 77,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": false,
+            "verified": true,
+            "statuses_count": 755283,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "C0DEED",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1333080675143004160/c_lzvUJw_normal.png",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1333080675143004160/c_lzvUJw_normal.png",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/524531680/1607572320",
+            "profile_link_color": "0084B4",
+            "profile_sidebar_border_color": "FFFFFF",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "has_extended_profile": false,
+            "default_profile": false,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none",
+            "withheld_in_countries": []
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 4,
+        "favorite_count": 26,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "es"
+    },
+    "is_quote_status": false,
+    "retweet_count": 4,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "es"
+}

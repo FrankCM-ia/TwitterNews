@@ -1,0 +1,284 @@
+{
+    "created_at": "Wed Jul 14 23:01:54 +0000 2021",
+    "id": 1415446486863826950,
+    "id_str": "1415446486863826950",
+    "full_text": "RT @elpopular_pe: Julio Mel\u00e9ndez revela que Boca Juniors le consult\u00f3 por Luis Adv\u00edncula: \u201cJuan Rom\u00e1n Riquelme me llam\u00f3\u201d \u25bahttps://t.co/iqgO3\u2026",
+    "truncated": false,
+    "display_text_range": [
+        0,
+        140
+    ],
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "elpopular_pe",
+                "name": "El Popular",
+                "id": 204962679,
+                "id_str": "204962679",
+                "indices": [
+                    3,
+                    16
+                ]
+            }
+        ],
+        "urls": []
+    },
+    "metadata": {
+        "iso_language_code": "es",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 1240122472265113600,
+        "id_str": "1240122472265113600",
+        "name": "daniel",
+        "screen_name": "daniel62055666",
+        "location": "",
+        "description": "",
+        "url": null,
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 4,
+        "friends_count": 452,
+        "listed_count": 0,
+        "created_at": "Wed Mar 18 03:47:05 +0000 2020",
+        "favourites_count": 1207,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 963,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": null,
+        "profile_background_image_url_https": null,
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1240122913614954503/1zlB5BvP_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1240122913614954503/1zlB5BvP_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+        "created_at": "Wed Jul 14 14:40:03 +0000 2021",
+        "id": 1415320188787044355,
+        "id_str": "1415320188787044355",
+        "full_text": "Julio Mel\u00e9ndez revela que Boca Juniors le consult\u00f3 por Luis Adv\u00edncula: \u201cJuan Rom\u00e1n Riquelme me llam\u00f3\u201d \u25bahttps://t.co/iqgO3PfZgP https://t.co/f4zzQMvXd9",
+        "truncated": false,
+        "display_text_range": [
+            0,
+            126
+        ],
+        "entities": {
+            "hashtags": [],
+            "symbols": [],
+            "user_mentions": [],
+            "urls": [
+                {
+                    "url": "https://t.co/iqgO3PfZgP",
+                    "expanded_url": "https://buff.ly/2UJQGGK",
+                    "display_url": "buff.ly/2UJQGGK",
+                    "indices": [
+                        103,
+                        126
+                    ]
+                }
+            ],
+            "media": [
+                {
+                    "id": 1415320185263861765,
+                    "id_str": "1415320185263861765",
+                    "indices": [
+                        127,
+                        150
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/E6Q6NbYXsAUcwHU.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/E6Q6NbYXsAUcwHU.jpg",
+                    "url": "https://t.co/f4zzQMvXd9",
+                    "display_url": "pic.twitter.com/f4zzQMvXd9",
+                    "expanded_url": "https://twitter.com/elpopular_pe/status/1415320188787044355/photo/1",
+                    "type": "photo",
+                    "sizes": {
+                        "large": {
+                            "w": 1200,
+                            "h": 660,
+                            "resize": "fit"
+                        },
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "medium": {
+                            "w": 1200,
+                            "h": 660,
+                            "resize": "fit"
+                        },
+                        "small": {
+                            "w": 680,
+                            "h": 374,
+                            "resize": "fit"
+                        }
+                    }
+                }
+            ]
+        },
+        "extended_entities": {
+            "media": [
+                {
+                    "id": 1415320185263861765,
+                    "id_str": "1415320185263861765",
+                    "indices": [
+                        127,
+                        150
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/E6Q6NbYXsAUcwHU.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/E6Q6NbYXsAUcwHU.jpg",
+                    "url": "https://t.co/f4zzQMvXd9",
+                    "display_url": "pic.twitter.com/f4zzQMvXd9",
+                    "expanded_url": "https://twitter.com/elpopular_pe/status/1415320188787044355/photo/1",
+                    "type": "photo",
+                    "sizes": {
+                        "large": {
+                            "w": 1200,
+                            "h": 660,
+                            "resize": "fit"
+                        },
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "medium": {
+                            "w": 1200,
+                            "h": 660,
+                            "resize": "fit"
+                        },
+                        "small": {
+                            "w": 680,
+                            "h": 374,
+                            "resize": "fit"
+                        }
+                    }
+                }
+            ]
+        },
+        "metadata": {
+            "iso_language_code": "es",
+            "result_type": "recent"
+        },
+        "source": "<a href=\"https://buffer.com\" rel=\"nofollow\">Buffer</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 204962679,
+            "id_str": "204962679",
+            "name": "El Popular",
+            "screen_name": "elpopular_pe",
+            "location": "Per\u00fa",
+            "description": "Tu diario El Popular tambi\u00e9n te informa y entretiene en Twitter. S\u00edguenos y participa de las promociones que tenemos para ti.",
+            "url": "http://t.co/03RS2e13Ob",
+            "entities": {
+                "url": {
+                    "urls": [
+                        {
+                            "url": "http://t.co/03RS2e13Ob",
+                            "expanded_url": "http://www.elpopular.pe/",
+                            "display_url": "elpopular.pe",
+                            "indices": [
+                                0,
+                                22
+                            ]
+                        }
+                    ]
+                },
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 96022,
+            "friends_count": 973,
+            "listed_count": 361,
+            "created_at": "Tue Oct 19 21:23:44 +0000 2010",
+            "favourites_count": 287,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": true,
+            "verified": false,
+            "statuses_count": 240082,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "F0DB3E",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1345342589944418307/3jlV7C6e_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1345342589944418307/3jlV7C6e_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/204962679/1624546873",
+            "profile_link_color": "0084B4",
+            "profile_sidebar_border_color": "FFFFFF",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "has_extended_profile": false,
+            "default_profile": false,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none",
+            "withheld_in_countries": []
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 1,
+        "favorite_count": 5,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "es"
+    },
+    "is_quote_status": false,
+    "retweet_count": 1,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "es"
+}

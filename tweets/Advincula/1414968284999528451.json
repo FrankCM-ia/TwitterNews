@@ -1,0 +1,264 @@
+{
+    "created_at": "Tue Jul 13 15:21:42 +0000 2021",
+    "id": 1414968284999528451,
+    "id_str": "1414968284999528451",
+    "full_text": "C\u00f3mo dijimos, tras un retraso en las negociaciones, Luis Adv\u00edncula es nuevo jugador de Boca. https://t.co/StcLKadYyu",
+    "truncated": false,
+    "display_text_range": [
+        0,
+        92
+    ],
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+            {
+                "url": "https://t.co/StcLKadYyu",
+                "expanded_url": "https://twitter.com/fuentefrabigol/status/1407935228321177609",
+                "display_url": "twitter.com/fuentefrabigol\u2026",
+                "indices": [
+                    93,
+                    116
+                ]
+            }
+        ]
+    },
+    "metadata": {
+        "iso_language_code": "es",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 1393322919451938817,
+        "id_str": "1393322919451938817",
+        "name": "\ud835\uddd9\ud835\ude02\ud835\uddf2\ud835\uddfb\ud835\ude01\ud835\uddf2 \ud835\uddd9\ud835\uddff\ud835\uddee\ud835\uddef\ud835\uddf6\ud835\uddf4\ud835\uddfc\ud835\uddf9",
+        "screen_name": "fuentefrabigol",
+        "location": "",
+        "description": "Toda la informaci\u00f3n que publica esta cuenta est\u00e1 chequeada por @frabigol.",
+        "url": null,
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 446,
+        "friends_count": 178,
+        "listed_count": 0,
+        "created_at": "Fri May 14 21:51:14 +0000 2021",
+        "favourites_count": 4355,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 1336,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": null,
+        "profile_background_image_url_https": null,
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1395612467817062401/9liVgWS8_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1395612467817062401/9liVgWS8_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1393322919451938817/1623948797",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": true,
+    "quoted_status_id": 1407935228321177609,
+    "quoted_status_id_str": "1407935228321177609",
+    "quoted_status": {
+        "created_at": "Thu Jun 24 05:34:51 +0000 2021",
+        "id": 1407935228321177609,
+        "id_str": "1407935228321177609",
+        "full_text": "Luis Adv\u00edncula firmar\u00eda finalmente con Boca la pr\u00f3xima semana por $2.850.000. https://t.co/1lRNWAR91G",
+        "truncated": false,
+        "display_text_range": [
+            0,
+            77
+        ],
+        "entities": {
+            "hashtags": [],
+            "symbols": [],
+            "user_mentions": [],
+            "urls": [],
+            "media": [
+                {
+                    "id": 1407935224047190016,
+                    "id_str": "1407935224047190016",
+                    "indices": [
+                        78,
+                        101
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/E4n9oHAXwAANKUc.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/E4n9oHAXwAANKUc.jpg",
+                    "url": "https://t.co/1lRNWAR91G",
+                    "display_url": "pic.twitter.com/1lRNWAR91G",
+                    "expanded_url": "https://twitter.com/fuentefrabigol/status/1407935228321177609/photo/1",
+                    "type": "photo",
+                    "sizes": {
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "medium": {
+                            "w": 1200,
+                            "h": 675,
+                            "resize": "fit"
+                        },
+                        "large": {
+                            "w": 1200,
+                            "h": 675,
+                            "resize": "fit"
+                        },
+                        "small": {
+                            "w": 680,
+                            "h": 383,
+                            "resize": "fit"
+                        }
+                    }
+                }
+            ]
+        },
+        "extended_entities": {
+            "media": [
+                {
+                    "id": 1407935224047190016,
+                    "id_str": "1407935224047190016",
+                    "indices": [
+                        78,
+                        101
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/E4n9oHAXwAANKUc.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/E4n9oHAXwAANKUc.jpg",
+                    "url": "https://t.co/1lRNWAR91G",
+                    "display_url": "pic.twitter.com/1lRNWAR91G",
+                    "expanded_url": "https://twitter.com/fuentefrabigol/status/1407935228321177609/photo/1",
+                    "type": "photo",
+                    "sizes": {
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "medium": {
+                            "w": 1200,
+                            "h": 675,
+                            "resize": "fit"
+                        },
+                        "large": {
+                            "w": 1200,
+                            "h": 675,
+                            "resize": "fit"
+                        },
+                        "small": {
+                            "w": 680,
+                            "h": 383,
+                            "resize": "fit"
+                        }
+                    }
+                }
+            ]
+        },
+        "metadata": {
+            "iso_language_code": "es",
+            "result_type": "recent"
+        },
+        "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 1393322919451938817,
+            "id_str": "1393322919451938817",
+            "name": "\ud835\uddd9\ud835\ude02\ud835\uddf2\ud835\uddfb\ud835\ude01\ud835\uddf2 \ud835\uddd9\ud835\uddff\ud835\uddee\ud835\uddef\ud835\uddf6\ud835\uddf4\ud835\uddfc\ud835\uddf9",
+            "screen_name": "fuentefrabigol",
+            "location": "",
+            "description": "Toda la informaci\u00f3n que publica esta cuenta est\u00e1 chequeada por @frabigol.",
+            "url": null,
+            "entities": {
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 446,
+            "friends_count": 178,
+            "listed_count": 0,
+            "created_at": "Fri May 14 21:51:14 +0000 2021",
+            "favourites_count": 4355,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": true,
+            "verified": false,
+            "statuses_count": 1336,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "F5F8FA",
+            "profile_background_image_url": null,
+            "profile_background_image_url_https": null,
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1395612467817062401/9liVgWS8_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1395612467817062401/9liVgWS8_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/1393322919451938817/1623948797",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "has_extended_profile": false,
+            "default_profile": true,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none",
+            "withheld_in_countries": []
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 0,
+        "favorite_count": 3,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "es"
+    },
+    "retweet_count": 0,
+    "favorite_count": 3,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "es"
+}

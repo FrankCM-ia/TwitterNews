@@ -1,0 +1,97 @@
+{
+    "created_at": "Mon Jul 12 02:58:04 +0000 2021",
+    "id": 1414418753576751104,
+    "id_str": "1414418753576751104",
+    "full_text": "@socioperiodismo Jajajajajajajajaj cuando no los apristas haciendo el rid\u00edculo.",
+    "truncated": false,
+    "display_text_range": [
+        17,
+        79
+    ],
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "socioperiodismo",
+                "name": "Rene Gastelumendi",
+                "id": 628015213,
+                "id_str": "628015213",
+                "indices": [
+                    0,
+                    16
+                ]
+            }
+        ],
+        "urls": []
+    },
+    "metadata": {
+        "iso_language_code": "es",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "in_reply_to_status_id": 1414296794805252097,
+    "in_reply_to_status_id_str": "1414296794805252097",
+    "in_reply_to_user_id": 628015213,
+    "in_reply_to_user_id_str": "628015213",
+    "in_reply_to_screen_name": "socioperiodismo",
+    "user": {
+        "id": 1298384029209829379,
+        "id_str": "1298384029209829379",
+        "name": "Daniel",
+        "screen_name": "amostuits",
+        "location": "Piura, Peru",
+        "description": "Peruano",
+        "url": null,
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 170,
+        "friends_count": 187,
+        "listed_count": 0,
+        "created_at": "Tue Aug 25 22:17:36 +0000 2020",
+        "favourites_count": 244,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 1257,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": null,
+        "profile_background_image_url_https": null,
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1407815218202398722/KV9YsadK_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1407815218202398722/KV9YsadK_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1298384029209829379/1622211938",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "es"
+}

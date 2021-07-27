@@ -1,0 +1,107 @@
+{
+    "created_at": "Thu Jul 15 23:32:45 +0000 2021",
+    "id": 1415816636712595456,
+    "id_str": "1415816636712595456",
+    "full_text": "@mundobocaradio @LuisFregossi Es por ac\u00e1, hay q traerlo junto con Borja y Advincula y rogar de pasar de ronda para poder utilizarlos en 4tos y aspirar a la 7ma, hay q cerrarlos y la semana q viene tienen q estar ya entrenando hasta cumplir los 7 d\u00edas de cuarentena",
+    "truncated": false,
+    "display_text_range": [
+        30,
+        264
+    ],
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "mundobocaradio",
+                "name": "Mundo Boca Radio/TV",
+                "id": 941011426973536256,
+                "id_str": "941011426973536256",
+                "indices": [
+                    0,
+                    15
+                ]
+            },
+            {
+                "screen_name": "LuisFregossi",
+                "name": "Luis Fregossi",
+                "id": 132219286,
+                "id_str": "132219286",
+                "indices": [
+                    16,
+                    29
+                ]
+            }
+        ],
+        "urls": []
+    },
+    "metadata": {
+        "iso_language_code": "es",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_status_id": 1415806394784231426,
+    "in_reply_to_status_id_str": "1415806394784231426",
+    "in_reply_to_user_id": 941011426973536256,
+    "in_reply_to_user_id_str": "941011426973536256",
+    "in_reply_to_screen_name": "mundobocaradio",
+    "user": {
+        "id": 3259199824,
+        "id_str": "3259199824",
+        "name": "Ignacio Risso",
+        "screen_name": "IgnacioRisso14",
+        "location": "",
+        "description": "Lic.Comercio Internacional- Electricista matriculado- Papa de Juana y Valentino-Hincha de Boca",
+        "url": null,
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 12,
+        "friends_count": 273,
+        "listed_count": 0,
+        "created_at": "Sat May 16 03:56:13 +0000 2015",
+        "favourites_count": 305,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 684,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1164001579239976967/aY7dPhB4_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1164001579239976967/aY7dPhB4_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/3259199824/1566354579",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": true,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "es"
+}

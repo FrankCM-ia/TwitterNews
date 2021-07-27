@@ -1,0 +1,239 @@
+{
+    "created_at": "Fri Jul 16 00:17:39 +0000 2021",
+    "id": 1415827936381489153,
+    "id_str": "1415827936381489153",
+    "full_text": "@FSagasti por esto y mas, se necesita la auditoria electoral #SagastiGolpistaCTM https://t.co/kMsnJkMaI4",
+    "truncated": false,
+    "display_text_range": [
+        0,
+        80
+    ],
+    "entities": {
+        "hashtags": [
+            {
+                "text": "SagastiGolpistaCTM",
+                "indices": [
+                    61,
+                    80
+                ]
+            }
+        ],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "FSagasti",
+                "name": "Francisco Sagasti",
+                "id": 472996281,
+                "id_str": "472996281",
+                "indices": [
+                    0,
+                    9
+                ]
+            }
+        ],
+        "urls": [
+            {
+                "url": "https://t.co/kMsnJkMaI4",
+                "expanded_url": "https://twitter.com/elsoplonpe/status/1415772771674730499",
+                "display_url": "twitter.com/elsoplonpe/sta\u2026",
+                "indices": [
+                    81,
+                    104
+                ]
+            }
+        ]
+    },
+    "metadata": {
+        "iso_language_code": "es",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": 472996281,
+    "in_reply_to_user_id_str": "472996281",
+    "in_reply_to_screen_name": "FSagasti",
+    "user": {
+        "id": 1378505751078002689,
+        "id_str": "1378505751078002689",
+        "name": "RENE CUITO CAYO",
+        "screen_name": "CuitoRene",
+        "location": "",
+        "description": "Presidente de la Republica del Per\u00fa (2021-2026) \nChabelero a morir. Te cantar\u00eda todas las canciones desde Soy la papa de Wong hasta Loco por tu amor.",
+        "url": null,
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 98,
+        "friends_count": 189,
+        "listed_count": 0,
+        "created_at": "Sun Apr 04 00:32:46 +0000 2021",
+        "favourites_count": 24657,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 10496,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": null,
+        "profile_background_image_url_https": null,
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1413718158721097730/kbI_VV8K_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1413718158721097730/kbI_VV8K_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1378505751078002689/1625891729",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": true,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": true,
+    "quoted_status_id": 1415772771674730499,
+    "quoted_status_id_str": "1415772771674730499",
+    "quoted_status": {
+        "created_at": "Thu Jul 15 20:38:27 +0000 2021",
+        "id": 1415772771674730499,
+        "id_str": "1415772771674730499",
+        "full_text": "#BetoASaber: Toda la maquinaria pol\u00edtica, chat y audios, de los Din\u00e1micos del Centro para robar la elecci\u00f3n a Fuerza Popular\nY AS\u00cd SAGASTI DICE QUE FUE LIMPIAS LAS ELECCIONES, CLARO COMO EST\u00c1 ACOSTUMBRADO A GOLPISMO ES NORMAL PARA \u00c9L\nFUERA!\n#SagastiGolpistaCTM\n#SagastiGolpistaCTM https://t.co/3LHGrIHyl1",
+        "truncated": false,
+        "display_text_range": [
+            0,
+            280
+        ],
+        "entities": {
+            "hashtags": [
+                {
+                    "text": "BetoASaber",
+                    "indices": [
+                        0,
+                        11
+                    ]
+                },
+                {
+                    "text": "SagastiGolpistaCTM",
+                    "indices": [
+                        241,
+                        260
+                    ]
+                },
+                {
+                    "text": "SagastiGolpistaCTM",
+                    "indices": [
+                        261,
+                        280
+                    ]
+                }
+            ],
+            "symbols": [],
+            "user_mentions": [],
+            "urls": [
+                {
+                    "url": "https://t.co/3LHGrIHyl1",
+                    "expanded_url": "https://twitter.com/buxtrep/status/1415548357653708801",
+                    "display_url": "twitter.com/buxtrep/status\u2026",
+                    "indices": [
+                        281,
+                        304
+                    ]
+                }
+            ]
+        },
+        "metadata": {
+            "iso_language_code": "es",
+            "result_type": "recent"
+        },
+        "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 1290653226719739904,
+            "id_str": "1290653226719739904",
+            "name": "El Sopl\u00f3n (S\u00cdGUEME Y TE SIGO)",
+            "screen_name": "elsoplonpe",
+            "location": "Lima",
+            "description": "TE SIGO, NO ME SIGUES, YA NO TE SIGO\n#SiguemeYTeSigo\nDemocr\u00e1ta, escucho todas las opiniones para sacar mis propia conclusiones",
+            "url": null,
+            "entities": {
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 426,
+            "friends_count": 802,
+            "listed_count": 0,
+            "created_at": "Tue Aug 04 14:18:11 +0000 2020",
+            "favourites_count": 1074,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": false,
+            "verified": false,
+            "statuses_count": 696,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "F5F8FA",
+            "profile_background_image_url": null,
+            "profile_background_image_url_https": null,
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1406340581710782465/oDeig5kN_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1406340581710782465/oDeig5kN_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/1290653226719739904/1624132611",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "has_extended_profile": true,
+            "default_profile": true,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none",
+            "withheld_in_countries": []
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": true,
+        "quoted_status_id": 1415548357653708801,
+        "quoted_status_id_str": "1415548357653708801",
+        "retweet_count": 26,
+        "favorite_count": 49,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "es"
+    },
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "es"
+}

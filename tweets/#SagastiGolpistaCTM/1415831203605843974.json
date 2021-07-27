@@ -1,0 +1,311 @@
+{
+    "created_at": "Fri Jul 16 00:30:38 +0000 2021",
+    "id": 1415831203605843974,
+    "id_str": "1415831203605843974",
+    "full_text": "RT @MonicaV89308328: No somos de colectivos ni de partidos pol\u00edticos somos peruanos de a pie que s\u00f3lo pedimos JUSTICIA!   AUDITOR\u00cdA ELECTOR\u2026",
+    "truncated": false,
+    "display_text_range": [
+        0,
+        140
+    ],
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "MonicaV89308328",
+                "name": "La Dama de Hierro\ud83c\uddf5\ud83c\uddea\ud83c\uddf5\ud83c\uddf7",
+                "id": 1121158287683215361,
+                "id_str": "1121158287683215361",
+                "indices": [
+                    3,
+                    19
+                ]
+            }
+        ],
+        "urls": []
+    },
+    "metadata": {
+        "iso_language_code": "es",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 2552972617,
+        "id_str": "2552972617",
+        "name": "Lucy Mari\u00f1os",
+        "screen_name": "lucecitagood",
+        "location": "",
+        "description": "Entre ser y no ser ...YO SOY.  #AmoMiLibertad #Vegetariana  #AmoYRespetoALosAnimales  #DetestoALosMaltratadoresDeAnimales",
+        "url": null,
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 168,
+        "friends_count": 407,
+        "listed_count": 3,
+        "created_at": "Sat Jun 07 17:02:01 +0000 2014",
+        "favourites_count": 2920,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 17723,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1338728755901181952/DbB7NWTN_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1338728755901181952/DbB7NWTN_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2552972617/1623466146",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": true,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+        "created_at": "Thu Jul 15 23:28:53 +0000 2021",
+        "id": 1415815662333841414,
+        "id_str": "1415815662333841414",
+        "full_text": "No somos de colectivos ni de partidos pol\u00edticos somos peruanos de a pie que s\u00f3lo pedimos JUSTICIA!   AUDITOR\u00cdA ELECTORAL IMPARCIAL YA!  @vox_es @ONU_es  @CNNEE @peru21noticias #SagastiGolpistaCTM https://t.co/1VBaQNDO0c",
+        "truncated": false,
+        "display_text_range": [
+            0,
+            195
+        ],
+        "entities": {
+            "hashtags": [
+                {
+                    "text": "SagastiGolpistaCTM",
+                    "indices": [
+                        176,
+                        195
+                    ]
+                }
+            ],
+            "symbols": [],
+            "user_mentions": [
+                {
+                    "screen_name": "vox_es",
+                    "name": "VOX \ud83c\uddea\ud83c\uddf8",
+                    "id": 2201623465,
+                    "id_str": "2201623465",
+                    "indices": [
+                        136,
+                        143
+                    ]
+                },
+                {
+                    "screen_name": "ONU_es",
+                    "name": "Naciones Unidas",
+                    "id": 119844526,
+                    "id_str": "119844526",
+                    "indices": [
+                        144,
+                        151
+                    ]
+                },
+                {
+                    "screen_name": "CNNEE",
+                    "name": "CNN en Espa\u00f1ol",
+                    "id": 33884545,
+                    "id_str": "33884545",
+                    "indices": [
+                        153,
+                        159
+                    ]
+                },
+                {
+                    "screen_name": "peru21noticias",
+                    "name": "Diario Per\u00fa21",
+                    "id": 832686254873468929,
+                    "id_str": "832686254873468929",
+                    "indices": [
+                        160,
+                        175
+                    ]
+                }
+            ],
+            "urls": [],
+            "media": [
+                {
+                    "id": 1415815659745853442,
+                    "id_str": "1415815659745853442",
+                    "indices": [
+                        196,
+                        219
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/E6X811qWQAIZWAV.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/E6X811qWQAIZWAV.jpg",
+                    "url": "https://t.co/1VBaQNDO0c",
+                    "display_url": "pic.twitter.com/1VBaQNDO0c",
+                    "expanded_url": "https://twitter.com/MonicaV89308328/status/1415815662333841414/photo/1",
+                    "type": "photo",
+                    "sizes": {
+                        "small": {
+                            "w": 680,
+                            "h": 510,
+                            "resize": "fit"
+                        },
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "large": {
+                            "w": 1040,
+                            "h": 780,
+                            "resize": "fit"
+                        },
+                        "medium": {
+                            "w": 1040,
+                            "h": 780,
+                            "resize": "fit"
+                        }
+                    }
+                }
+            ]
+        },
+        "extended_entities": {
+            "media": [
+                {
+                    "id": 1415815659745853442,
+                    "id_str": "1415815659745853442",
+                    "indices": [
+                        196,
+                        219
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/E6X811qWQAIZWAV.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/E6X811qWQAIZWAV.jpg",
+                    "url": "https://t.co/1VBaQNDO0c",
+                    "display_url": "pic.twitter.com/1VBaQNDO0c",
+                    "expanded_url": "https://twitter.com/MonicaV89308328/status/1415815662333841414/photo/1",
+                    "type": "photo",
+                    "sizes": {
+                        "small": {
+                            "w": 680,
+                            "h": 510,
+                            "resize": "fit"
+                        },
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "large": {
+                            "w": 1040,
+                            "h": 780,
+                            "resize": "fit"
+                        },
+                        "medium": {
+                            "w": 1040,
+                            "h": 780,
+                            "resize": "fit"
+                        }
+                    }
+                }
+            ]
+        },
+        "metadata": {
+            "iso_language_code": "es",
+            "result_type": "recent"
+        },
+        "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 1121158287683215361,
+            "id_str": "1121158287683215361",
+            "name": "La Dama de Hierro\ud83c\uddf5\ud83c\uddea\ud83c\uddf5\ud83c\uddf7",
+            "screen_name": "MonicaV89308328",
+            "location": "",
+            "description": "soy lo que m\u00e1s odian los comunistas",
+            "url": null,
+            "entities": {
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 521,
+            "friends_count": 345,
+            "listed_count": 1,
+            "created_at": "Wed Apr 24 21:05:40 +0000 2019",
+            "favourites_count": 24889,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": false,
+            "verified": false,
+            "statuses_count": 23582,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "F5F8FA",
+            "profile_background_image_url": null,
+            "profile_background_image_url_https": null,
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1404106447600902152/fiGhIf0C_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1404106447600902152/fiGhIf0C_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/1121158287683215361/1599574467",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "has_extended_profile": false,
+            "default_profile": true,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none",
+            "withheld_in_countries": []
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 85,
+        "favorite_count": 166,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "es"
+    },
+    "is_quote_status": false,
+    "retweet_count": 85,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "es"
+}

@@ -1,0 +1,106 @@
+{
+    "created_at": "Mon Jul 12 11:30:21 +0000 2021",
+    "id": 1414547676285345795,
+    "id_str": "1414547676285345795",
+    "full_text": "@PatriciaTubilla @evoespueblo los apristas ya no existen sus 2 gobiernos corruptos los desaparecieron de la pol\u00edtica solo sus fantasmas a\u00f1oran la corrupci\u00f3n con la que se enriquecieron",
+    "truncated": false,
+    "display_text_range": [
+        30,
+        184
+    ],
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "PatriciaTubilla",
+                "name": "\ud83c\udf37Patricia Tubilla \u2b50\ufe0f",
+                "id": 2269112586,
+                "id_str": "2269112586",
+                "indices": [
+                    0,
+                    16
+                ]
+            },
+            {
+                "screen_name": "evoespueblo",
+                "name": "Evo Morales Ayma",
+                "id": 720786569792253952,
+                "id_str": "720786569792253952",
+                "indices": [
+                    17,
+                    29
+                ]
+            }
+        ],
+        "urls": []
+    },
+    "metadata": {
+        "iso_language_code": "es",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "in_reply_to_status_id": 1414449266643329024,
+    "in_reply_to_status_id_str": "1414449266643329024",
+    "in_reply_to_user_id": 2269112586,
+    "in_reply_to_user_id_str": "2269112586",
+    "in_reply_to_screen_name": "PatriciaTubilla",
+    "user": {
+        "id": 1373223073248346112,
+        "id_str": "1373223073248346112",
+        "name": "cristina villalobos",
+        "screen_name": "cristin39133202",
+        "location": "",
+        "description": "",
+        "url": null,
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 0,
+        "friends_count": 0,
+        "listed_count": 0,
+        "created_at": "Sat Mar 20 10:41:53 +0000 2021",
+        "favourites_count": 132,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 364,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": null,
+        "profile_background_image_url_https": null,
+        "profile_background_tile": false,
+        "profile_image_url": "http://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+        "profile_image_url_https": "https://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": true,
+        "default_profile": true,
+        "default_profile_image": true,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 2,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "es"
+}

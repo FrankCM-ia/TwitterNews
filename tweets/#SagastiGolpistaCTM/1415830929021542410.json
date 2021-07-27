@@ -1,0 +1,269 @@
+{
+    "created_at": "Fri Jul 16 00:29:33 +0000 2021",
+    "id": 1415830929021542410,
+    "id_str": "1415830929021542410",
+    "full_text": "@PedroCastilloTe @ChinaEmbPeru Camotillo Presidente!!! #NuevasEleccionesPeru #SagastiGolpistaCTM #FueraSagastiHDP #Peru #FRAUDE #AuditoriaInternacionalYa #China #LOBBY https://t.co/9nr6y68rQb",
+    "truncated": false,
+    "display_text_range": [
+        31,
+        167
+    ],
+    "entities": {
+        "hashtags": [
+            {
+                "text": "NuevasEleccionesPeru",
+                "indices": [
+                    55,
+                    76
+                ]
+            },
+            {
+                "text": "SagastiGolpistaCTM",
+                "indices": [
+                    77,
+                    96
+                ]
+            },
+            {
+                "text": "FueraSagastiHDP",
+                "indices": [
+                    97,
+                    113
+                ]
+            },
+            {
+                "text": "Peru",
+                "indices": [
+                    114,
+                    119
+                ]
+            },
+            {
+                "text": "FRAUDE",
+                "indices": [
+                    120,
+                    127
+                ]
+            },
+            {
+                "text": "AuditoriaInternacionalYa",
+                "indices": [
+                    128,
+                    153
+                ]
+            },
+            {
+                "text": "China",
+                "indices": [
+                    154,
+                    160
+                ]
+            },
+            {
+                "text": "LOBBY",
+                "indices": [
+                    161,
+                    167
+                ]
+            }
+        ],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "PedroCastilloTe",
+                "name": "Pedro Castillo Terrones",
+                "id": 1357969682683334657,
+                "id_str": "1357969682683334657",
+                "indices": [
+                    0,
+                    16
+                ]
+            },
+            {
+                "screen_name": "ChinaEmbPeru",
+                "name": "Embajada de China en el Per\u00fa",
+                "id": 1229881161171775488,
+                "id_str": "1229881161171775488",
+                "indices": [
+                    17,
+                    30
+                ]
+            }
+        ],
+        "urls": [],
+        "media": [
+            {
+                "id": 1415830805704855552,
+                "id_str": "1415830805704855552",
+                "indices": [
+                    168,
+                    191
+                ],
+                "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1415830805704855552/pu/img/Yceu3RrKeZSxfTzD.jpg",
+                "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1415830805704855552/pu/img/Yceu3RrKeZSxfTzD.jpg",
+                "url": "https://t.co/9nr6y68rQb",
+                "display_url": "pic.twitter.com/9nr6y68rQb",
+                "expanded_url": "https://twitter.com/Miaibar/status/1415830929021542410/video/1",
+                "type": "photo",
+                "sizes": {
+                    "medium": {
+                        "w": 840,
+                        "h": 432,
+                        "resize": "fit"
+                    },
+                    "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                    },
+                    "small": {
+                        "w": 680,
+                        "h": 350,
+                        "resize": "fit"
+                    },
+                    "large": {
+                        "w": 840,
+                        "h": 432,
+                        "resize": "fit"
+                    }
+                }
+            }
+        ]
+    },
+    "extended_entities": {
+        "media": [
+            {
+                "id": 1415830805704855552,
+                "id_str": "1415830805704855552",
+                "indices": [
+                    168,
+                    191
+                ],
+                "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1415830805704855552/pu/img/Yceu3RrKeZSxfTzD.jpg",
+                "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1415830805704855552/pu/img/Yceu3RrKeZSxfTzD.jpg",
+                "url": "https://t.co/9nr6y68rQb",
+                "display_url": "pic.twitter.com/9nr6y68rQb",
+                "expanded_url": "https://twitter.com/Miaibar/status/1415830929021542410/video/1",
+                "type": "video",
+                "sizes": {
+                    "medium": {
+                        "w": 840,
+                        "h": 432,
+                        "resize": "fit"
+                    },
+                    "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                    },
+                    "small": {
+                        "w": 680,
+                        "h": 350,
+                        "resize": "fit"
+                    },
+                    "large": {
+                        "w": 840,
+                        "h": 432,
+                        "resize": "fit"
+                    }
+                },
+                "video_info": {
+                    "aspect_ratio": [
+                        35,
+                        18
+                    ],
+                    "duration_millis": 112567,
+                    "variants": [
+                        {
+                            "content_type": "application/x-mpegURL",
+                            "url": "https://video.twimg.com/ext_tw_video/1415830805704855552/pu/pl/tC11f5uSy0X-TmTL.m3u8?tag=12&container=fmp4"
+                        },
+                        {
+                            "bitrate": 256000,
+                            "content_type": "video/mp4",
+                            "url": "https://video.twimg.com/ext_tw_video/1415830805704855552/pu/vid/524x270/IjshqJFLFnlXynav.mp4?tag=12"
+                        },
+                        {
+                            "bitrate": 832000,
+                            "content_type": "video/mp4",
+                            "url": "https://video.twimg.com/ext_tw_video/1415830805704855552/pu/vid/840x432/RujvXAnqDQk3Diue.mp4?tag=12"
+                        }
+                    ]
+                },
+                "additional_media_info": {
+                    "monetizable": false
+                }
+            }
+        ]
+    },
+    "metadata": {
+        "iso_language_code": "es",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "in_reply_to_status_id": 1415821064588959745,
+    "in_reply_to_status_id_str": "1415821064588959745",
+    "in_reply_to_user_id": 1357969682683334657,
+    "in_reply_to_user_id_str": "1357969682683334657",
+    "in_reply_to_screen_name": "PedroCastilloTe",
+    "user": {
+        "id": 3078878164,
+        "id_str": "3078878164",
+        "name": "\ud83d\udc8b\ud83d\udc95\ud83d\udc9a Feminista de Derecha \ud83c\udf08\ud83c\udf08\ud83c\udf08",
+        "screen_name": "Miaibar",
+        "location": "Lima, Per\u00fa",
+        "description": "El 11 de Abril del 2021 hubo fraude electoral, hemos perdido identidad, violaron nuestro derecho a votar,nos quieren borregear. No somos borregos, Sagasti CTM.",
+        "url": null,
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 185,
+        "friends_count": 196,
+        "listed_count": 1,
+        "created_at": "Sun Mar 08 06:20:45 +0000 2015",
+        "favourites_count": 13009,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 10019,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1384903380900925440/LKO7_jKm_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1384903380900925440/LKO7_jKm_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/3078878164/1618444913",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "es"
+}

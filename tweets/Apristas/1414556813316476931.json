@@ -1,0 +1,96 @@
+{
+    "created_at": "Mon Jul 12 12:06:40 +0000 2021",
+    "id": 1414556813316476931,
+    "id_str": "1414556813316476931",
+    "full_text": "@ExpresoPeru Plop plop plop y replop los apristas (seg\u00fan la fiscal\u00eda una organizaci\u00f3n criminal) dice que fueron los primeros en la l\u00ednea de lucha por la democracia. Hago recordar, que en un momento del pasado cuando eran alcaldes (grandes corruptos) el pueblo los fue  eliminando poco a poco.",
+    "truncated": false,
+    "display_text_range": [
+        13,
+        292
+    ],
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "ExpresoPeru",
+                "name": "Diario Expreso",
+                "id": 225232891,
+                "id_str": "225232891",
+                "indices": [
+                    0,
+                    12
+                ]
+            }
+        ],
+        "urls": []
+    },
+    "metadata": {
+        "iso_language_code": "es",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_status_id": 1414552882184085504,
+    "in_reply_to_status_id_str": "1414552882184085504",
+    "in_reply_to_user_id": 225232891,
+    "in_reply_to_user_id_str": "225232891",
+    "in_reply_to_screen_name": "ExpresoPeru",
+    "user": {
+        "id": 1327969776476549120,
+        "id_str": "1327969776476549120",
+        "name": "Raul Oti",
+        "screen_name": "RAULOTIV",
+        "location": "",
+        "description": "Servidor P\u00fablico al servicio de mi pa\u00eds. Profesional Resiliente.",
+        "url": null,
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 4,
+        "friends_count": 302,
+        "listed_count": 0,
+        "created_at": "Sun Nov 15 13:40:58 +0000 2020",
+        "favourites_count": 524,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 431,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": null,
+        "profile_background_image_url_https": null,
+        "profile_background_tile": false,
+        "profile_image_url": "http://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+        "profile_image_url_https": "https://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": true,
+        "default_profile": true,
+        "default_profile_image": true,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 1,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "es"
+}

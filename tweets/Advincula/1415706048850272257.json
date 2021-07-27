@@ -1,0 +1,140 @@
+{
+    "created_at": "Thu Jul 15 16:13:19 +0000 2021",
+    "id": 1415706048850272257,
+    "id_str": "1415706048850272257",
+    "full_text": "@dani_pr7 @EternoWilly @IHerraizFdez @RayoVallecano Ha ingresado tambi\u00e9n por la venta de canteranos: Porro, Franchu, Uche... \n\nY en gastos, algo m\u00e1s: \u00c1lvaro 5, Advincula 3 y pico. Fran, 2,5. Qasmi 2. Isi 1...\n\nLa mayor\u00eda de ventas de la \u00e9poca Mi\u00f1ambres y canteranos. Luego va contando milongas de si no se quien salv\u00f3 el club...",
+    "truncated": false,
+    "display_text_range": [
+        52,
+        328
+    ],
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "dani_pr7",
+                "name": "Dani",
+                "id": 293940436,
+                "id_str": "293940436",
+                "indices": [
+                    0,
+                    9
+                ]
+            },
+            {
+                "screen_name": "EternoWilly",
+                "name": "Belushi\u26a1",
+                "id": 1365689917553184768,
+                "id_str": "1365689917553184768",
+                "indices": [
+                    10,
+                    22
+                ]
+            },
+            {
+                "screen_name": "IHerraizFdez",
+                "name": "Israel Herraiz Fdez",
+                "id": 128199137,
+                "id_str": "128199137",
+                "indices": [
+                    23,
+                    36
+                ]
+            },
+            {
+                "screen_name": "RayoVallecano",
+                "name": "Rayo Vallecano",
+                "id": 498012129,
+                "id_str": "498012129",
+                "indices": [
+                    37,
+                    51
+                ]
+            }
+        ],
+        "urls": []
+    },
+    "metadata": {
+        "iso_language_code": "es",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "in_reply_to_status_id": 1415704322881597444,
+    "in_reply_to_status_id_str": "1415704322881597444",
+    "in_reply_to_user_id": 293940436,
+    "in_reply_to_user_id_str": "293940436",
+    "in_reply_to_screen_name": "dani_pr7",
+    "user": {
+        "id": 347285937,
+        "id_str": "347285937",
+        "name": "NachmanVk",
+        "screen_name": "NachmanVk",
+        "location": "",
+        "description": "Periolisto, rayista, palentino adoptivo y jug\u00f3n a ratos. Ahora tambi\u00e9n youtuber. \u00a1Te miro y te youtubeo!",
+        "url": "https://t.co/d6g0W0rqGV",
+        "entities": {
+            "url": {
+                "urls": [
+                    {
+                        "url": "https://t.co/d6g0W0rqGV",
+                        "expanded_url": "https://www.youtube.com/channel/UCi-Jz53Xumwju__ixukA2CQ",
+                        "display_url": "youtube.com/channel/UCi-Jz\u2026",
+                        "indices": [
+                            0,
+                            23
+                        ]
+                    }
+                ]
+            },
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 1038,
+        "friends_count": 706,
+        "listed_count": 12,
+        "created_at": "Tue Aug 02 15:21:26 +0000 2011",
+        "favourites_count": 328,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 11231,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/781509138585182212/Go4YW5SP_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/781509138585182212/Go4YW5SP_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/347285937/1432796812",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 2,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "es"
+}

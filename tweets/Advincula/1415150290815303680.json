@@ -1,0 +1,108 @@
+{
+    "created_at": "Wed Jul 14 03:24:56 +0000 2021",
+    "id": 1415150290815303680,
+    "id_str": "1415150290815303680",
+    "full_text": "@PedroCastilloTe Sab\u00eda que saldr\u00eda con el discurso de todos los de izquierda, ya parecen Advincula con su \"bloqueo\" \"bloque\u00f3\" \"bloque\u00f3\" las cosas como son dictadura, represi\u00f3n y bloqueo. Tira de farsantes los pol\u00edticos derecha https://t.co/hYWzmZv0eL misma \ud83d\udca9\ud83d\udca9 cuando defienden su ideolog\u00eda.",
+    "truncated": false,
+    "display_text_range": [
+        17,
+        290
+    ],
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "PedroCastilloTe",
+                "name": "Pedro Castillo Terrones",
+                "id": 1357969682683334657,
+                "id_str": "1357969682683334657",
+                "indices": [
+                    0,
+                    16
+                ]
+            }
+        ],
+        "urls": [
+            {
+                "url": "https://t.co/hYWzmZv0eL",
+                "expanded_url": "http://izquierda.la",
+                "display_url": "izquierda.la",
+                "indices": [
+                    227,
+                    250
+                ]
+            }
+        ]
+    },
+    "metadata": {
+        "iso_language_code": "es",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "in_reply_to_status_id": 1415145721658056704,
+    "in_reply_to_status_id_str": "1415145721658056704",
+    "in_reply_to_user_id": 1357969682683334657,
+    "in_reply_to_user_id_str": "1357969682683334657",
+    "in_reply_to_screen_name": "PedroCastilloTe",
+    "user": {
+        "id": 1023253674527744000,
+        "id_str": "1023253674527744000",
+        "name": "EDITH",
+        "screen_name": "vmendozava",
+        "location": "Lima, Peru",
+        "description": "\ud83c\uddf5\ud83c\uddea\u2764\ufe0f",
+        "url": null,
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 447,
+        "friends_count": 2035,
+        "listed_count": 1,
+        "created_at": "Sat Jul 28 17:07:41 +0000 2018",
+        "favourites_count": 60539,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 27552,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": null,
+        "profile_background_image_url_https": null,
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1401890705988071426/GwcfudGN_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1401890705988071426/GwcfudGN_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1023253674527744000/1605457188",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": true,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 4,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "es"
+}

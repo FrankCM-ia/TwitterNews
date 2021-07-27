@@ -1,0 +1,406 @@
+{
+    "created_at": "Fri Jul 16 00:27:26 +0000 2021",
+    "id": 1415830398551183362,
+    "id_str": "1415830398551183362",
+    "full_text": "RT @LaResistenciaR2: #SagastiGolpistaCTM\nCon una marcha entraste y con una marcha te sacamos.\nHoy todos a las calles\n#TomaDePalacio",
+    "truncated": false,
+    "display_text_range": [
+        0,
+        131
+    ],
+    "entities": {
+        "hashtags": [
+            {
+                "text": "SagastiGolpistaCTM",
+                "indices": [
+                    21,
+                    40
+                ]
+            },
+            {
+                "text": "TomaDePalacio",
+                "indices": [
+                    117,
+                    131
+                ]
+            }
+        ],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "LaResistenciaR2",
+                "name": "#Resistencia Reporteros",
+                "id": 1156735493037547521,
+                "id_str": "1156735493037547521",
+                "indices": [
+                    3,
+                    19
+                ]
+            }
+        ],
+        "urls": []
+    },
+    "metadata": {
+        "iso_language_code": "es",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 259616937,
+        "id_str": "259616937",
+        "name": "moises lucas baraona",
+        "screen_name": "lucamoi37",
+        "location": "Chimbote, Peru",
+        "description": "naci en la ciudad de Chimbote Y SOY FUJIMORISTA POR CONVICCION",
+        "url": "https://t.co/Fr8p37MZKC",
+        "entities": {
+            "url": {
+                "urls": [
+                    {
+                        "url": "https://t.co/Fr8p37MZKC",
+                        "expanded_url": "https://www.youtube.com/channel/UCH5VB1r8uMhUSb0_RS4p-MQ?view_as=subscriber",
+                        "display_url": "youtube.com/channel/UCH5VB\u2026",
+                        "indices": [
+                            0,
+                            23
+                        ]
+                    }
+                ]
+            },
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 383,
+        "friends_count": 694,
+        "listed_count": 0,
+        "created_at": "Wed Mar 02 07:13:31 +0000 2011",
+        "favourites_count": 13888,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 88039,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/987158450693173250/SklrGBfN_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/987158450693173250/SklrGBfN_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/259616937/1513299322",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": true,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+        "created_at": "Thu Jul 15 19:08:22 +0000 2021",
+        "id": 1415750101692207107,
+        "id_str": "1415750101692207107",
+        "full_text": "#SagastiGolpistaCTM\nCon una marcha entraste y con una marcha te sacamos.\nHoy todos a las calles\n#TomaDePalacio https://t.co/N4sHk0T4Kl",
+        "truncated": false,
+        "display_text_range": [
+            0,
+            110
+        ],
+        "entities": {
+            "hashtags": [
+                {
+                    "text": "SagastiGolpistaCTM",
+                    "indices": [
+                        0,
+                        19
+                    ]
+                },
+                {
+                    "text": "TomaDePalacio",
+                    "indices": [
+                        96,
+                        110
+                    ]
+                }
+            ],
+            "symbols": [],
+            "user_mentions": [],
+            "urls": [
+                {
+                    "url": "https://t.co/N4sHk0T4Kl",
+                    "expanded_url": "https://twitter.com/juan_maelo/status/1415721066492796929",
+                    "display_url": "twitter.com/juan_maelo/sta\u2026",
+                    "indices": [
+                        111,
+                        134
+                    ]
+                }
+            ]
+        },
+        "metadata": {
+            "iso_language_code": "es",
+            "result_type": "recent"
+        },
+        "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 1156735493037547521,
+            "id_str": "1156735493037547521",
+            "name": "#Resistencia Reporteros",
+            "screen_name": "LaResistenciaR2",
+            "location": "",
+            "description": "Somos tan periodistas activistas como Gorriti con la \u00fanica diferencia que no usamos la informaci\u00f3n como una herramienta de chantaje ni para favorecer a nadie.",
+            "url": null,
+            "entities": {
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 7254,
+            "friends_count": 991,
+            "listed_count": 11,
+            "created_at": "Thu Aug 01 01:16:47 +0000 2019",
+            "favourites_count": 26200,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": true,
+            "verified": false,
+            "statuses_count": 7892,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "F5F8FA",
+            "profile_background_image_url": null,
+            "profile_background_image_url_https": null,
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1161292919141277697/-C8YhroA_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1161292919141277697/-C8YhroA_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/1156735493037547521/1564627438",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "has_extended_profile": false,
+            "default_profile": true,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none",
+            "withheld_in_countries": []
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": true,
+        "quoted_status_id": 1415721066492796929,
+        "quoted_status_id_str": "1415721066492796929",
+        "quoted_status": {
+            "created_at": "Thu Jul 15 17:12:59 +0000 2021",
+            "id": 1415721066492796929,
+            "id_str": "1415721066492796929",
+            "full_text": "Loca, coqueta y mentirosa.. https://t.co/IP8Ud0n2Jh",
+            "truncated": false,
+            "display_text_range": [
+                0,
+                27
+            ],
+            "entities": {
+                "hashtags": [],
+                "symbols": [],
+                "user_mentions": [],
+                "urls": [],
+                "media": [
+                    {
+                        "id": 1415721063942656002,
+                        "id_str": "1415721063942656002",
+                        "indices": [
+                            28,
+                            51
+                        ],
+                        "media_url": "http://pbs.twimg.com/media/E6Wmzo1XEAI1lW5.jpg",
+                        "media_url_https": "https://pbs.twimg.com/media/E6Wmzo1XEAI1lW5.jpg",
+                        "url": "https://t.co/IP8Ud0n2Jh",
+                        "display_url": "pic.twitter.com/IP8Ud0n2Jh",
+                        "expanded_url": "https://twitter.com/juan_maelo/status/1415721066492796929/photo/1",
+                        "type": "photo",
+                        "sizes": {
+                            "thumb": {
+                                "w": 150,
+                                "h": 150,
+                                "resize": "crop"
+                            },
+                            "large": {
+                                "w": 1021,
+                                "h": 1600,
+                                "resize": "fit"
+                            },
+                            "small": {
+                                "w": 434,
+                                "h": 680,
+                                "resize": "fit"
+                            },
+                            "medium": {
+                                "w": 766,
+                                "h": 1200,
+                                "resize": "fit"
+                            }
+                        }
+                    }
+                ]
+            },
+            "extended_entities": {
+                "media": [
+                    {
+                        "id": 1415721063942656002,
+                        "id_str": "1415721063942656002",
+                        "indices": [
+                            28,
+                            51
+                        ],
+                        "media_url": "http://pbs.twimg.com/media/E6Wmzo1XEAI1lW5.jpg",
+                        "media_url_https": "https://pbs.twimg.com/media/E6Wmzo1XEAI1lW5.jpg",
+                        "url": "https://t.co/IP8Ud0n2Jh",
+                        "display_url": "pic.twitter.com/IP8Ud0n2Jh",
+                        "expanded_url": "https://twitter.com/juan_maelo/status/1415721066492796929/photo/1",
+                        "type": "photo",
+                        "sizes": {
+                            "thumb": {
+                                "w": 150,
+                                "h": 150,
+                                "resize": "crop"
+                            },
+                            "large": {
+                                "w": 1021,
+                                "h": 1600,
+                                "resize": "fit"
+                            },
+                            "small": {
+                                "w": 434,
+                                "h": 680,
+                                "resize": "fit"
+                            },
+                            "medium": {
+                                "w": 766,
+                                "h": 1200,
+                                "resize": "fit"
+                            }
+                        }
+                    }
+                ]
+            },
+            "metadata": {
+                "iso_language_code": "es",
+                "result_type": "recent"
+            },
+            "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+            "in_reply_to_status_id": null,
+            "in_reply_to_status_id_str": null,
+            "in_reply_to_user_id": null,
+            "in_reply_to_user_id_str": null,
+            "in_reply_to_screen_name": null,
+            "user": {
+                "id": 3000141068,
+                "id_str": "3000141068",
+                "name": "Jota Maelo",
+                "screen_name": "juan_maelo",
+                "location": "",
+                "description": "#LaResistencia \nDios Patria y Familia",
+                "url": null,
+                "entities": {
+                    "description": {
+                        "urls": []
+                    }
+                },
+                "protected": false,
+                "followers_count": 5583,
+                "friends_count": 138,
+                "listed_count": 5,
+                "created_at": "Thu Jan 29 00:27:28 +0000 2015",
+                "favourites_count": 2004,
+                "utc_offset": null,
+                "time_zone": null,
+                "geo_enabled": false,
+                "verified": false,
+                "statuses_count": 3377,
+                "lang": null,
+                "contributors_enabled": false,
+                "is_translator": false,
+                "is_translation_enabled": false,
+                "profile_background_color": "C0DEED",
+                "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+                "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+                "profile_background_tile": false,
+                "profile_image_url": "http://pbs.twimg.com/profile_images/1302097076713648128/zA1iifo8_normal.jpg",
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/1302097076713648128/zA1iifo8_normal.jpg",
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/3000141068/1625055546",
+                "profile_link_color": "1DA1F2",
+                "profile_sidebar_border_color": "C0DEED",
+                "profile_sidebar_fill_color": "DDEEF6",
+                "profile_text_color": "333333",
+                "profile_use_background_image": true,
+                "has_extended_profile": false,
+                "default_profile": true,
+                "default_profile_image": false,
+                "following": false,
+                "follow_request_sent": false,
+                "notifications": false,
+                "translator_type": "none",
+                "withheld_in_countries": []
+            },
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "contributors": null,
+            "is_quote_status": false,
+            "retweet_count": 182,
+            "favorite_count": 332,
+            "favorited": false,
+            "retweeted": false,
+            "possibly_sensitive": false,
+            "lang": "es"
+        },
+        "retweet_count": 181,
+        "favorite_count": 311,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "es"
+    },
+    "is_quote_status": true,
+    "quoted_status_id": 1415721066492796929,
+    "quoted_status_id_str": "1415721066492796929",
+    "retweet_count": 181,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "es"
+}

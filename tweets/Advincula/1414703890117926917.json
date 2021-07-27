@@ -1,0 +1,196 @@
+{
+    "created_at": "Mon Jul 12 21:51:05 +0000 2021",
+    "id": 1414703890117926917,
+    "id_str": "1414703890117926917",
+    "full_text": "RT @capochabostero: Ni jugando con Advincula y Borja o Roger, o sin ellos contra Mineiro, te aseguras ganar. El futbol demostr\u00f3 miles de ve\u2026",
+    "truncated": false,
+    "display_text_range": [
+        0,
+        140
+    ],
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "capochabostero",
+                "name": "CABJ\ud83c\uddf8\ud83c\uddea",
+                "id": 149266397,
+                "id_str": "149266397",
+                "indices": [
+                    3,
+                    18
+                ]
+            }
+        ],
+        "urls": []
+    },
+    "metadata": {
+        "iso_language_code": "es",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 944208359053496320,
+        "id_str": "944208359053496320",
+        "name": "Max",
+        "screen_name": "MaxiNunnez",
+        "location": "Virasoro Corrientes",
+        "description": "M\u00e1s Argentino que la puta madre boludooo \ud83c\udde6\ud83c\uddf7\u2764",
+        "url": "https://t.co/zmmikVEitv",
+        "entities": {
+            "url": {
+                "urls": [
+                    {
+                        "url": "https://t.co/zmmikVEitv",
+                        "expanded_url": "https://www.instagram.com/maxnnez/",
+                        "display_url": "instagram.com/maxnnez/",
+                        "indices": [
+                            0,
+                            23
+                        ]
+                    }
+                ]
+            },
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 1257,
+        "friends_count": 4750,
+        "listed_count": 0,
+        "created_at": "Fri Dec 22 14:09:50 +0000 2017",
+        "favourites_count": 61612,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 33818,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": null,
+        "profile_background_image_url_https": null,
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1415290297823776769/dYFQ6tqR_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1415290297823776769/dYFQ6tqR_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/944208359053496320/1625661332",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": true,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+        "created_at": "Mon Jul 12 21:44:16 +0000 2021",
+        "id": 1414702172940476423,
+        "id_str": "1414702172940476423",
+        "full_text": "Ni jugando con Advincula y Borja o Roger, o sin ellos contra Mineiro, te aseguras ganar. El futbol demostr\u00f3 miles de veces que los apellidos solo mejoran la calidad de un plantel. Ma\u00f1ana con el cuchillo entre los dientes y aguante Boca.",
+        "truncated": false,
+        "display_text_range": [
+            0,
+            236
+        ],
+        "entities": {
+            "hashtags": [],
+            "symbols": [],
+            "user_mentions": [],
+            "urls": []
+        },
+        "metadata": {
+            "iso_language_code": "es",
+            "result_type": "recent"
+        },
+        "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 149266397,
+            "id_str": "149266397",
+            "name": "CABJ\ud83c\uddf8\ud83c\uddea",
+            "screen_name": "capochabostero",
+            "location": "",
+            "description": "Hay que ganar. Jugando bien o mal.",
+            "url": null,
+            "entities": {
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 14797,
+            "friends_count": 3427,
+            "listed_count": 12,
+            "created_at": "Fri May 28 21:22:14 +0000 2010",
+            "favourites_count": 11994,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": true,
+            "verified": false,
+            "statuses_count": 37358,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "ACDED6",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": true,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1361019255613972484/uHpDg97O_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1361019255613972484/uHpDg97O_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/149266397/1618335937",
+            "profile_link_color": "3B94D9",
+            "profile_sidebar_border_color": "FFFFFF",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "has_extended_profile": false,
+            "default_profile": false,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none",
+            "withheld_in_countries": []
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 31,
+        "favorite_count": 288,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "es"
+    },
+    "is_quote_status": false,
+    "retweet_count": 31,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "es"
+}

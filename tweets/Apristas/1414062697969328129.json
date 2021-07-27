@@ -1,0 +1,203 @@
+{
+    "created_at": "Sun Jul 11 03:23:13 +0000 2021",
+    "id": 1414062697969328129,
+    "id_str": "1414062697969328129",
+    "full_text": "RT @GermnMoyaInga1: @canalN_ El peru ya eligi\u00f3 y es Castillo de una vez proclamenlo, ahora que el fujimorismo y sus aliados apristas vengan\u2026",
+    "truncated": false,
+    "display_text_range": [
+        0,
+        140
+    ],
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "GermnMoyaInga1",
+                "name": "Germ\u00e1n Moya Inga",
+                "id": 1350316968868540418,
+                "id_str": "1350316968868540418",
+                "indices": [
+                    3,
+                    18
+                ]
+            },
+            {
+                "screen_name": "canalN_",
+                "name": "Canal N",
+                "id": 248692867,
+                "id_str": "248692867",
+                "indices": [
+                    20,
+                    28
+                ]
+            }
+        ],
+        "urls": []
+    },
+    "metadata": {
+        "iso_language_code": "es",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 2459029288,
+        "id_str": "2459029288",
+        "name": "Ruth",
+        "screen_name": "thewitchjessey",
+        "location": "La Molina, Peru",
+        "description": "ING. De alimentos. /Ing. industrial\ud83d\udc1d\ud83c\udf37\ud83d\udc4d",
+        "url": null,
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 137,
+        "friends_count": 376,
+        "listed_count": 0,
+        "created_at": "Fri Apr 04 04:19:30 +0000 2014",
+        "favourites_count": 21546,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 14681,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/908180682848870400/U4NfrRYv_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/908180682848870400/U4NfrRYv_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2459029288/1505362042",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": true,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+        "created_at": "Sun Jul 11 03:19:59 +0000 2021",
+        "id": 1414061881434722306,
+        "id_str": "1414061881434722306",
+        "full_text": "@canalN_ El peru ya eligi\u00f3 y es Castillo de una vez proclamenlo, ahora que el fujimorismo y sus aliados apristas vengan a decir no aceptaremos.  Y como medio de comunicaci\u00f3n ya no deber\u00edan de darle pantalla",
+        "truncated": false,
+        "display_text_range": [
+            9,
+            206
+        ],
+        "entities": {
+            "hashtags": [],
+            "symbols": [],
+            "user_mentions": [
+                {
+                    "screen_name": "canalN_",
+                    "name": "Canal N",
+                    "id": 248692867,
+                    "id_str": "248692867",
+                    "indices": [
+                        0,
+                        8
+                    ]
+                }
+            ],
+            "urls": []
+        },
+        "metadata": {
+            "iso_language_code": "es",
+            "result_type": "recent"
+        },
+        "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+        "in_reply_to_status_id": 1414046433704034306,
+        "in_reply_to_status_id_str": "1414046433704034306",
+        "in_reply_to_user_id": 248692867,
+        "in_reply_to_user_id_str": "248692867",
+        "in_reply_to_screen_name": "canalN_",
+        "user": {
+            "id": 1350316968868540418,
+            "id_str": "1350316968868540418",
+            "name": "Germ\u00e1n Moya Inga",
+            "screen_name": "GermnMoyaInga1",
+            "location": "",
+            "description": "Salir adelante. Por mi familia\ud83e\udd17\ud83e\udd17\ud83c\udfa7\ud83d\ude0d",
+            "url": null,
+            "entities": {
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 1,
+            "friends_count": 39,
+            "listed_count": 0,
+            "created_at": "Sat Jan 16 05:41:00 +0000 2021",
+            "favourites_count": 41,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": false,
+            "verified": false,
+            "statuses_count": 37,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "F5F8FA",
+            "profile_background_image_url": null,
+            "profile_background_image_url_https": null,
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1350317312730128385/HFMGFW-K_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1350317312730128385/HFMGFW-K_normal.jpg",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "has_extended_profile": true,
+            "default_profile": true,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none",
+            "withheld_in_countries": []
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 2,
+        "favorite_count": 3,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "es"
+    },
+    "is_quote_status": false,
+    "retweet_count": 2,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "es"
+}

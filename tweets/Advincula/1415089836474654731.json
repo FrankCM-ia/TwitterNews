@@ -1,0 +1,195 @@
+{
+    "created_at": "Tue Jul 13 23:24:42 +0000 2021",
+    "id": 1415089836474654731,
+    "id_str": "1415089836474654731",
+    "full_text": "estas no conocen a advincula https://t.co/LTWNrQtyeF",
+    "truncated": false,
+    "display_text_range": [
+        0,
+        28
+    ],
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+            {
+                "url": "https://t.co/LTWNrQtyeF",
+                "expanded_url": "https://twitter.com/maguuch/status/1414394819510771712",
+                "display_url": "twitter.com/maguuch/status\u2026",
+                "indices": [
+                    29,
+                    52
+                ]
+            }
+        ]
+    },
+    "metadata": {
+        "iso_language_code": "es",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 1370039780675878914,
+        "id_str": "1370039780675878914",
+        "name": "lari",
+        "screen_name": "larisilva12_",
+        "location": "",
+        "description": "lo unico q hago es jugar al lol :(",
+        "url": null,
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 156,
+        "friends_count": 155,
+        "listed_count": 0,
+        "created_at": "Thu Mar 11 15:52:29 +0000 2021",
+        "favourites_count": 1863,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 1708,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": null,
+        "profile_background_image_url_https": null,
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1411838018818871296/8vPfZxDW_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1411838018818871296/8vPfZxDW_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1370039780675878914/1626137436",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": true,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": true,
+    "quoted_status_id": 1414394819510771712,
+    "quoted_status_id_str": "1414394819510771712",
+    "quoted_status": {
+        "created_at": "Mon Jul 12 01:22:57 +0000 2021",
+        "id": 1414394819510771712,
+        "id_str": "1414394819510771712",
+        "full_text": "neymar esta 10 veces mas bueno q el tucu pero las cornudas no estan listas para esa conversacion",
+        "truncated": false,
+        "display_text_range": [
+            0,
+            96
+        ],
+        "entities": {
+            "hashtags": [],
+            "symbols": [],
+            "user_mentions": [],
+            "urls": []
+        },
+        "metadata": {
+            "iso_language_code": "es",
+            "result_type": "recent"
+        },
+        "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 1113554846827806720,
+            "id_str": "1113554846827806720",
+            "name": "mag",
+            "screen_name": "maguuch",
+            "location": "",
+            "description": "https://t.co/TVbxhhYR2G",
+            "url": null,
+            "entities": {
+                "description": {
+                    "urls": [
+                        {
+                            "url": "https://t.co/TVbxhhYR2G",
+                            "expanded_url": "http://instagram.com/maguuchhh/",
+                            "display_url": "instagram.com/maguuchhh/",
+                            "indices": [
+                                0,
+                                23
+                            ]
+                        }
+                    ]
+                }
+            },
+            "protected": false,
+            "followers_count": 197,
+            "friends_count": 94,
+            "listed_count": 0,
+            "created_at": "Wed Apr 03 21:32:19 +0000 2019",
+            "favourites_count": 4884,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": false,
+            "verified": false,
+            "statuses_count": 15732,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "F5F8FA",
+            "profile_background_image_url": null,
+            "profile_background_image_url_https": null,
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1408218424216543235/aRgc_2ou_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1408218424216543235/aRgc_2ou_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/1113554846827806720/1603824585",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "has_extended_profile": true,
+            "default_profile": true,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none",
+            "withheld_in_countries": []
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 99,
+        "favorite_count": 379,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "es"
+    },
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "es"
+}

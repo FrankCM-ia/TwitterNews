@@ -1,0 +1,117 @@
+{
+    "created_at": "Tue Jul 13 00:51:32 +0000 2021",
+    "id": 1414749299628462081,
+    "id_str": "1414749299628462081",
+    "full_text": "@Silberdamian @Nico__xeneixe @ProscriptoCABJ No lo cr\u00edtico como jugador. Era lento pero el mejor. Quiz\u00e1 se mal interpret\u00f3. Yo lo cr\u00edtico como dirigente, en este caso porque la decisi\u00f3n de BORJA y ADVINCULA podr\u00eda haberse manejado con mayor premura. Igual ma\u00f1ana a dejar el alma y el corazon",
+    "truncated": false,
+    "display_text_range": [
+        45,
+        290
+    ],
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "Silberdamian",
+                "name": "Dami\u00e1n Silberstein (Cat.81)\ud83d\udd96",
+                "id": 249139898,
+                "id_str": "249139898",
+                "indices": [
+                    0,
+                    13
+                ]
+            },
+            {
+                "screen_name": "Nico__xeneixe",
+                "name": "Nico14",
+                "id": 881323376811421696,
+                "id_str": "881323376811421696",
+                "indices": [
+                    14,
+                    28
+                ]
+            },
+            {
+                "screen_name": "ProscriptoCABJ",
+                "name": "Boca de mi vida",
+                "id": 1398695500765872130,
+                "id_str": "1398695500765872130",
+                "indices": [
+                    29,
+                    44
+                ]
+            }
+        ],
+        "urls": []
+    },
+    "metadata": {
+        "iso_language_code": "es",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "in_reply_to_status_id": 1414746768215007234,
+    "in_reply_to_status_id_str": "1414746768215007234",
+    "in_reply_to_user_id": 249139898,
+    "in_reply_to_user_id_str": "249139898",
+    "in_reply_to_screen_name": "Silberdamian",
+    "user": {
+        "id": 838237934658666497,
+        "id_str": "838237934658666497",
+        "name": "PADDADOOK",
+        "screen_name": "paddadook1",
+        "location": "Argentina",
+        "description": "",
+        "url": null,
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 72,
+        "friends_count": 1947,
+        "listed_count": 0,
+        "created_at": "Sun Mar 05 04:01:12 +0000 2017",
+        "favourites_count": 1881,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 4255,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/940384407046811648/OgYFjD-l_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/940384407046811648/OgYFjD-l_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/838237934658666497/1488687507",
+        "profile_link_color": "1B95E0",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "profile_use_background_image": false,
+        "has_extended_profile": false,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 1,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "es"
+}

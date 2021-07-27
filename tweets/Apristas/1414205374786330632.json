@@ -1,0 +1,313 @@
+{
+    "created_at": "Sun Jul 11 12:50:10 +0000 2021",
+    "id": 1414205374786330632,
+    "id_str": "1414205374786330632",
+    "full_text": "Los falsos apristas reagrup\u00e1ndose. https://t.co/dvA9Ex3N7w",
+    "truncated": false,
+    "display_text_range": [
+        0,
+        34
+    ],
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+            {
+                "url": "https://t.co/dvA9Ex3N7w",
+                "expanded_url": "https://twitter.com/JVelasquezQ/status/1414012065115779074",
+                "display_url": "twitter.com/JVelasquezQ/st\u2026",
+                "indices": [
+                    35,
+                    58
+                ]
+            }
+        ]
+    },
+    "metadata": {
+        "iso_language_code": "es",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 529127693,
+        "id_str": "529127693",
+        "name": "MiXTirRo",
+        "screen_name": "McMichirro",
+        "location": "Lima-Peru",
+        "description": "Amo la verdad. \nLa Vida deja de tener significado en el momento en que se pierde la ilusi\u00f3n de que es eterna. Para Dios nada es imposible.",
+        "url": null,
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 405,
+        "friends_count": 1288,
+        "listed_count": 4,
+        "created_at": "Mon Mar 19 05:27:22 +0000 2012",
+        "favourites_count": 60516,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 36474,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1329469137312239617/8b7d6efW_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1329469137312239617/8b7d6efW_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/529127693/1461151826",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": true,
+    "quoted_status_id": 1414012065115779074,
+    "quoted_status_id_str": "1414012065115779074",
+    "quoted_status": {
+        "created_at": "Sun Jul 11 00:02:02 +0000 2021",
+        "id": 1414012065115779074,
+        "id_str": "1414012065115779074",
+        "full_text": "En Chiclayo, con dirigentes del Partido , impulsando la inscripci\u00f3n de nuestro Partido y organizando la resistencia democr\u00e1tica. https://t.co/4dEdVQcOq3",
+        "truncated": false,
+        "display_text_range": [
+            0,
+            128
+        ],
+        "entities": {
+            "hashtags": [],
+            "symbols": [],
+            "user_mentions": [],
+            "urls": [],
+            "media": [
+                {
+                    "id": 1414012048414023682,
+                    "id_str": "1414012048414023682",
+                    "indices": [
+                        129,
+                        152
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/E5-Ud13XIAICjmb.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/E5-Ud13XIAICjmb.jpg",
+                    "url": "https://t.co/4dEdVQcOq3",
+                    "display_url": "pic.twitter.com/4dEdVQcOq3",
+                    "expanded_url": "https://twitter.com/JVelasquezQ/status/1414012065115779074/photo/1",
+                    "type": "photo",
+                    "sizes": {
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "large": {
+                            "w": 1600,
+                            "h": 1200,
+                            "resize": "fit"
+                        },
+                        "medium": {
+                            "w": 1200,
+                            "h": 900,
+                            "resize": "fit"
+                        },
+                        "small": {
+                            "w": 680,
+                            "h": 510,
+                            "resize": "fit"
+                        }
+                    }
+                }
+            ]
+        },
+        "extended_entities": {
+            "media": [
+                {
+                    "id": 1414012048414023682,
+                    "id_str": "1414012048414023682",
+                    "indices": [
+                        129,
+                        152
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/E5-Ud13XIAICjmb.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/E5-Ud13XIAICjmb.jpg",
+                    "url": "https://t.co/4dEdVQcOq3",
+                    "display_url": "pic.twitter.com/4dEdVQcOq3",
+                    "expanded_url": "https://twitter.com/JVelasquezQ/status/1414012065115779074/photo/1",
+                    "type": "photo",
+                    "sizes": {
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "large": {
+                            "w": 1600,
+                            "h": 1200,
+                            "resize": "fit"
+                        },
+                        "medium": {
+                            "w": 1200,
+                            "h": 900,
+                            "resize": "fit"
+                        },
+                        "small": {
+                            "w": 680,
+                            "h": 510,
+                            "resize": "fit"
+                        }
+                    }
+                },
+                {
+                    "id": 1414012057045905410,
+                    "id_str": "1414012057045905410",
+                    "indices": [
+                        129,
+                        152
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/E5-UeWBXMAIWtx8.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/E5-UeWBXMAIWtx8.jpg",
+                    "url": "https://t.co/4dEdVQcOq3",
+                    "display_url": "pic.twitter.com/4dEdVQcOq3",
+                    "expanded_url": "https://twitter.com/JVelasquezQ/status/1414012065115779074/photo/1",
+                    "type": "photo",
+                    "sizes": {
+                        "large": {
+                            "w": 1600,
+                            "h": 698,
+                            "resize": "fit"
+                        },
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "medium": {
+                            "w": 1200,
+                            "h": 524,
+                            "resize": "fit"
+                        },
+                        "small": {
+                            "w": 680,
+                            "h": 297,
+                            "resize": "fit"
+                        }
+                    }
+                }
+            ]
+        },
+        "metadata": {
+            "iso_language_code": "es",
+            "result_type": "recent"
+        },
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 216721738,
+            "id_str": "216721738",
+            "name": "Javier Vel\u00e1squez Quesqu\u00e9n",
+            "screen_name": "JVelasquezQ",
+            "location": "Lambayeque",
+            "description": "Pol\u00edtico peruano, miembro del Partido Aprista.",
+            "url": "https://t.co/5enc5jUN35",
+            "entities": {
+                "url": {
+                    "urls": [
+                        {
+                            "url": "https://t.co/5enc5jUN35",
+                            "expanded_url": "http://www.facebook.com/velasquezquesquenpap",
+                            "display_url": "facebook.com/velasquezquesq\u2026",
+                            "indices": [
+                                0,
+                                23
+                            ]
+                        }
+                    ]
+                },
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 102313,
+            "friends_count": 737,
+            "listed_count": 226,
+            "created_at": "Wed Nov 17 14:49:24 +0000 2010",
+            "favourites_count": 980,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": true,
+            "verified": false,
+            "statuses_count": 4472,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "FFFFFF",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/772905735286120448/jI5-PGF__normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/772905735286120448/jI5-PGF__normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/216721738/1472741819",
+            "profile_link_color": "1B95E0",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "FFFFFF",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "has_extended_profile": false,
+            "default_profile": false,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none",
+            "withheld_in_countries": []
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 26,
+        "favorite_count": 131,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "es"
+    },
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "es"
+}

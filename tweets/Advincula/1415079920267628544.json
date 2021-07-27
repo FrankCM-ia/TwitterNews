@@ -1,0 +1,110 @@
+{
+    "created_at": "Tue Jul 13 22:45:18 +0000 2021",
+    "id": 1415079920267628544,
+    "id_str": "1415079920267628544",
+    "full_text": "@exluisk creo que llega advincula, es la ultima esperanza",
+    "truncated": false,
+    "display_text_range": [
+        9,
+        57
+    ],
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "exluisk",
+                "name": "Luis",
+                "id": 733700961454202880,
+                "id_str": "733700961454202880",
+                "indices": [
+                    0,
+                    8
+                ]
+            }
+        ],
+        "urls": []
+    },
+    "metadata": {
+        "iso_language_code": "es",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "in_reply_to_status_id": 1415079394930999301,
+    "in_reply_to_status_id_str": "1415079394930999301",
+    "in_reply_to_user_id": 733700961454202880,
+    "in_reply_to_user_id_str": "733700961454202880",
+    "in_reply_to_screen_name": "exluisk",
+    "user": {
+        "id": 1125136480685494273,
+        "id_str": "1125136480685494273",
+        "name": "Ricotero De Boca",
+        "screen_name": "PaulRamoneStone",
+        "location": "Villurca",
+        "description": "Negro, Bostero y Peronista. 20.\nJuan Roman Riquelme es mi lider espiritual.",
+        "url": "https://t.co/qbX5ZnGnUg",
+        "entities": {
+            "url": {
+                "urls": [
+                    {
+                        "url": "https://t.co/qbX5ZnGnUg",
+                        "expanded_url": "https://www.instagram.com/pablojoel.perez/",
+                        "display_url": "instagram.com/pablojoel.pere\u2026",
+                        "indices": [
+                            0,
+                            23
+                        ]
+                    }
+                ]
+            },
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 212,
+        "friends_count": 277,
+        "listed_count": 0,
+        "created_at": "Sun May 05 20:33:35 +0000 2019",
+        "favourites_count": 17294,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 3402,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": null,
+        "profile_background_image_url_https": null,
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1265037371281682432/BEO3vaTm_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1265037371281682432/BEO3vaTm_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1125136480685494273/1589093980",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": true,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "es"
+}

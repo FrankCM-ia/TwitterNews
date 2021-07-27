@@ -1,0 +1,118 @@
+{
+    "created_at": "Tue Jul 13 17:22:53 +0000 2021",
+    "id": 1414998781985271811,
+    "id_str": "1414998781985271811",
+    "full_text": "#VIDEO | Adv\u00edncula estar\u00eda cerca de firmar con Boca Juniors por tres a\u00f1os, seg\u00fan prensa argentina\n\nEn Argentina aseguran que el lateral peruano est\u00e1 cerca de ponerse la camiseta xeneize, pero que no llegar\u00eda para el duelo por Copa Libertadores 2021.\n\nhttps://t.co/NL3FB1NnXg",
+    "truncated": false,
+    "display_text_range": [
+        0,
+        274
+    ],
+    "entities": {
+        "hashtags": [
+            {
+                "text": "VIDEO",
+                "indices": [
+                    0,
+                    6
+                ]
+            }
+        ],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+            {
+                "url": "https://t.co/NL3FB1NnXg",
+                "expanded_url": "https://larepublica.pe/deportes/2021/07/13/advincula-estaria-cerca-de-firmar-con-boca-juniors-por-tres-anos-segun-prensa-argentina/",
+                "display_url": "larepublica.pe/deportes/2021/\u2026",
+                "indices": [
+                    251,
+                    274
+                ]
+            }
+        ]
+    },
+    "metadata": {
+        "iso_language_code": "es",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 329302657,
+        "id_str": "329302657",
+        "name": "DeportesLR",
+        "screen_name": "DeportesLR",
+        "location": "",
+        "description": "La Rep\u00fablica tambi\u00e9n te informa en Twitter sobre todo lo que ocurre en el mundo de los deportes nacionales e internacionales.",
+        "url": "http://t.co/Z1lJHGgHHI",
+        "entities": {
+            "url": {
+                "urls": [
+                    {
+                        "url": "http://t.co/Z1lJHGgHHI",
+                        "expanded_url": "http://www.larepublica.pe/deportes/",
+                        "display_url": "larepublica.pe/deportes/",
+                        "indices": [
+                            0,
+                            22
+                        ]
+                    }
+                ]
+            },
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 33084,
+        "friends_count": 482,
+        "listed_count": 279,
+        "created_at": "Mon Jul 04 21:14:33 +0000 2011",
+        "favourites_count": 0,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 134900,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "131516",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+        "profile_background_tile": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/948901205132169216/L_mrZJ67_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/948901205132169216/L_mrZJ67_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/329302657/1564875022",
+        "profile_link_color": "009999",
+        "profile_sidebar_border_color": "EEEEEE",
+        "profile_sidebar_fill_color": "EFEFEF",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 1,
+    "favorite_count": 15,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "es"
+}

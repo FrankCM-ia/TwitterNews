@@ -1,0 +1,136 @@
+{
+    "created_at": "Sun Jul 11 21:33:00 +0000 2021",
+    "id": 1414336950320893952,
+    "id_str": "1414336950320893952",
+    "full_text": "@noakeikope Fujimoristas y apristas acci\u00f3n popular causar m\u00e1s caos inestabilidad zozobra desestabilizar nuestra econom\u00eda etc sinverg\u00fcenzas ansiosos de poder basta ya @FSagasti @NicolasLucar @elpopular_pe @chrisbustc",
+    "truncated": false,
+    "display_text_range": [
+        12,
+        215
+    ],
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "noakeikope",
+                "name": "No a Keiko",
+                "id": 425964813,
+                "id_str": "425964813",
+                "indices": [
+                    0,
+                    11
+                ]
+            },
+            {
+                "screen_name": "FSagasti",
+                "name": "Francisco Sagasti",
+                "id": 472996281,
+                "id_str": "472996281",
+                "indices": [
+                    166,
+                    175
+                ]
+            },
+            {
+                "screen_name": "NicolasLucar",
+                "name": "Nicolas Lucar",
+                "id": 53260297,
+                "id_str": "53260297",
+                "indices": [
+                    176,
+                    189
+                ]
+            },
+            {
+                "screen_name": "elpopular_pe",
+                "name": "El Popular",
+                "id": 204962679,
+                "id_str": "204962679",
+                "indices": [
+                    190,
+                    203
+                ]
+            },
+            {
+                "screen_name": "chrisbustc",
+                "name": "Christian Bustamante \u00ae",
+                "id": 875801195368955904,
+                "id_str": "875801195368955904",
+                "indices": [
+                    204,
+                    215
+                ]
+            }
+        ],
+        "urls": []
+    },
+    "metadata": {
+        "iso_language_code": "es",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "in_reply_to_status_id": 1414303966847029252,
+    "in_reply_to_status_id_str": "1414303966847029252",
+    "in_reply_to_user_id": 425964813,
+    "in_reply_to_user_id_str": "425964813",
+    "in_reply_to_screen_name": "noakeikope",
+    "user": {
+        "id": 1401753976685662208,
+        "id_str": "1401753976685662208",
+        "name": "Yenny Nutri",
+        "screen_name": "NutriYenny",
+        "location": "",
+        "description": "Soy una persona pensante",
+        "url": null,
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 18,
+        "friends_count": 49,
+        "listed_count": 0,
+        "created_at": "Mon Jun 07 04:13:23 +0000 2021",
+        "favourites_count": 14797,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 13211,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": null,
+        "profile_background_image_url_https": null,
+        "profile_background_tile": false,
+        "profile_image_url": "http://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+        "profile_image_url_https": "https://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": true,
+        "default_profile": true,
+        "default_profile_image": true,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "es"
+}

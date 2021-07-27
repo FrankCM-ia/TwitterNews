@@ -1,0 +1,286 @@
+{
+    "created_at": "Tue Jul 13 10:13:30 +0000 2021",
+    "id": 1414890722394877964,
+    "id_str": "1414890722394877964",
+    "full_text": "RT @mundobocaradio: \ud83d\udea8 AHORA \ud83d\udea8 Luis Advincula es nuevo jugador de Boca. El Rayo Vallecano acepto la \u00faltima oferta que hizo el xeneize por el\u2026",
+    "truncated": false,
+    "display_text_range": [
+        0,
+        140
+    ],
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "mundobocaradio",
+                "name": "Mundo Boca Radio/TV",
+                "id": 941011426973536256,
+                "id_str": "941011426973536256",
+                "indices": [
+                    3,
+                    18
+                ]
+            }
+        ],
+        "urls": []
+    },
+    "metadata": {
+        "iso_language_code": "es",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 219574836,
+        "id_str": "219574836",
+        "name": "Juan Mogollon",
+        "screen_name": "pelucheperuano",
+        "location": "",
+        "description": "peluche re-Twittero",
+        "url": null,
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 14,
+        "friends_count": 95,
+        "listed_count": 0,
+        "created_at": "Thu Nov 25 07:14:55 +0000 2010",
+        "favourites_count": 25,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 170,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "352726",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme5/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme5/bg.gif",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/584244891690995712/FExHgbUT_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/584244891690995712/FExHgbUT_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/219574836/1428130803",
+        "profile_link_color": "3B94D9",
+        "profile_sidebar_border_color": "829D5E",
+        "profile_sidebar_fill_color": "99CC33",
+        "profile_text_color": "3E4415",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+        "created_at": "Sun Jul 11 19:41:18 +0000 2021",
+        "id": 1414308839336337411,
+        "id_str": "1414308839336337411",
+        "full_text": "\ud83d\udea8 AHORA \ud83d\udea8 Luis Advincula es nuevo jugador de Boca. El Rayo Vallecano acepto la \u00faltima oferta que hizo el xeneize por el lateral \nEsta semana viaja a Buenos Aires y se suma al grupo que comanda Miguel Angel Russo (v\u00eda @LuisFregossi ) https://t.co/0QYCTPW7xK",
+        "truncated": false,
+        "display_text_range": [
+            0,
+            232
+        ],
+        "entities": {
+            "hashtags": [],
+            "symbols": [],
+            "user_mentions": [
+                {
+                    "screen_name": "LuisFregossi",
+                    "name": "Luis Fregossi",
+                    "id": 132219286,
+                    "id_str": "132219286",
+                    "indices": [
+                        217,
+                        230
+                    ]
+                }
+            ],
+            "urls": [],
+            "media": [
+                {
+                    "id": 1414308837545365504,
+                    "id_str": "1414308837545365504",
+                    "indices": [
+                        233,
+                        256
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/E6CiZPiWUAA9hB3.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/E6CiZPiWUAA9hB3.jpg",
+                    "url": "https://t.co/0QYCTPW7xK",
+                    "display_url": "pic.twitter.com/0QYCTPW7xK",
+                    "expanded_url": "https://twitter.com/mundobocaradio/status/1414308839336337411/photo/1",
+                    "type": "photo",
+                    "sizes": {
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "medium": {
+                            "w": 580,
+                            "h": 330,
+                            "resize": "fit"
+                        },
+                        "large": {
+                            "w": 580,
+                            "h": 330,
+                            "resize": "fit"
+                        },
+                        "small": {
+                            "w": 580,
+                            "h": 330,
+                            "resize": "fit"
+                        }
+                    }
+                }
+            ]
+        },
+        "extended_entities": {
+            "media": [
+                {
+                    "id": 1414308837545365504,
+                    "id_str": "1414308837545365504",
+                    "indices": [
+                        233,
+                        256
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/E6CiZPiWUAA9hB3.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/E6CiZPiWUAA9hB3.jpg",
+                    "url": "https://t.co/0QYCTPW7xK",
+                    "display_url": "pic.twitter.com/0QYCTPW7xK",
+                    "expanded_url": "https://twitter.com/mundobocaradio/status/1414308839336337411/photo/1",
+                    "type": "photo",
+                    "sizes": {
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "medium": {
+                            "w": 580,
+                            "h": 330,
+                            "resize": "fit"
+                        },
+                        "large": {
+                            "w": 580,
+                            "h": 330,
+                            "resize": "fit"
+                        },
+                        "small": {
+                            "w": 580,
+                            "h": 330,
+                            "resize": "fit"
+                        }
+                    }
+                }
+            ]
+        },
+        "metadata": {
+            "iso_language_code": "es",
+            "result_type": "recent"
+        },
+        "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 941011426973536256,
+            "id_str": "941011426973536256",
+            "name": "Mundo Boca Radio/TV",
+            "screen_name": "mundobocaradio",
+            "location": "mundobocaweb.com",
+            "description": "\u00a1Toda la actualidad de Boca! en el Programa: Lunes a Viernes de 19 a 20\nTransmisiones de los partidos de Boca por @radiosur105  \ud83d\udcfb\n#estoesmundoboca \ud83c\udf99\ufe0f",
+            "url": "https://t.co/IAzpLMii7O",
+            "entities": {
+                "url": {
+                    "urls": [
+                        {
+                            "url": "https://t.co/IAzpLMii7O",
+                            "expanded_url": "https://instagram.com/mundobocaradiotv",
+                            "display_url": "instagram.com/mundobocaradio\u2026",
+                            "indices": [
+                                0,
+                                23
+                            ]
+                        }
+                    ]
+                },
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 15137,
+            "friends_count": 359,
+            "listed_count": 42,
+            "created_at": "Wed Dec 13 18:26:22 +0000 2017",
+            "favourites_count": 9743,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": false,
+            "verified": false,
+            "statuses_count": 28714,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "F5F8FA",
+            "profile_background_image_url": null,
+            "profile_background_image_url_https": null,
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1365992736403390467/rGUiBtQh_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1365992736403390467/rGUiBtQh_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/941011426973536256/1615905616",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "has_extended_profile": true,
+            "default_profile": true,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none",
+            "withheld_in_countries": []
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 15,
+        "favorite_count": 106,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "es"
+    },
+    "is_quote_status": false,
+    "retweet_count": 15,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "es"
+}

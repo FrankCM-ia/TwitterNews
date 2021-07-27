@@ -1,0 +1,129 @@
+{
+    "created_at": "Sun Jul 11 17:49:24 +0000 2021",
+    "id": 1414280677290348548,
+    "id_str": "1414280677290348548",
+    "full_text": "@MinCulturaPe Ya est\u00e1n pasando el cortometraje de los asesinatos de 1241 personas apristas por los criminales terroristas de Sendero Luminosos? O para el Ministerio de Cultura est\u00e1s matanzas de peruanos entre hombres,mujeres,ni\u00f1os deben silenciarse,que ser\u00eda peor q callarlo por discriminacion?",
+    "truncated": false,
+    "display_text_range": [
+        14,
+        294
+    ],
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "MinCulturaPe",
+                "name": "Ministerio Cultura",
+                "id": 360874005,
+                "id_str": "360874005",
+                "indices": [
+                    0,
+                    13
+                ]
+            }
+        ],
+        "urls": []
+    },
+    "metadata": {
+        "iso_language_code": "es",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "in_reply_to_status_id": 1409586817549037568,
+    "in_reply_to_status_id_str": "1409586817549037568",
+    "in_reply_to_user_id": 360874005,
+    "in_reply_to_user_id_str": "360874005",
+    "in_reply_to_screen_name": "MinCulturaPe",
+    "user": {
+        "id": 3486452176,
+        "id_str": "3486452176",
+        "name": "Virgy Sipan Sipan",
+        "screen_name": "virgys501",
+        "location": "",
+        "description": "",
+        "url": null,
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 147,
+        "friends_count": 286,
+        "listed_count": 1,
+        "created_at": "Sun Aug 30 02:13:55 +0000 2015",
+        "favourites_count": 94874,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 54707,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+        "profile_image_url_https": "https://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": true,
+        "default_profile_image": true,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": {
+        "id": "005bf2190435cf68",
+        "url": "https://api.twitter.com/1.1/geo/id/005bf2190435cf68.json",
+        "place_type": "city",
+        "name": "Santiago de Surco",
+        "full_name": "Santiago de Surco, Peru",
+        "country_code": "PE",
+        "country": "Peru",
+        "contained_within": [],
+        "bounding_box": {
+            "type": "Polygon",
+            "coordinates": [
+                [
+                    [
+                        -77.0154710434534,
+                        -12.1760119798814
+                    ],
+                    [
+                        -76.9473658792884,
+                        -12.1760119798814
+                    ],
+                    [
+                        -76.9473658792884,
+                        -12.0771410379137
+                    ],
+                    [
+                        -77.0154710434534,
+                        -12.0771410379137
+                    ]
+                ]
+            ]
+        },
+        "attributes": {}
+    },
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 5,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "es"
+}

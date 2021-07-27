@@ -1,0 +1,200 @@
+{
+    "created_at": "Mon Jul 12 18:27:45 +0000 2021",
+    "id": 1414652717620936705,
+    "id_str": "1414652717620936705",
+    "full_text": "\u23f0 #Ahora En #GOLPERUNOTICIAS, Leandro Aguilera, periodista argentino: \"Hay acuerdo entre Boca Juniors, Rayo Vallecano y el mismo jugador. No tendr\u00eda que haber ning\u00fan imprevisto para que Luis Adv\u00edncula se incorpore al plantel de Miguel \u00c1ngel Russo\". #AlientaDesdeCasa https://t.co/t4oXiCqeBT",
+    "truncated": false,
+    "display_text_range": [
+        0,
+        266
+    ],
+    "entities": {
+        "hashtags": [
+            {
+                "text": "Ahora",
+                "indices": [
+                    2,
+                    8
+                ]
+            },
+            {
+                "text": "GOLPERUNOTICIAS",
+                "indices": [
+                    12,
+                    28
+                ]
+            },
+            {
+                "text": "AlientaDesdeCasa",
+                "indices": [
+                    249,
+                    266
+                ]
+            }
+        ],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [],
+        "media": [
+            {
+                "id": 1414652664835608576,
+                "id_str": "1414652664835608576",
+                "indices": [
+                    267,
+                    290
+                ],
+                "media_url": "http://pbs.twimg.com/media/E6HbGoAWEAApk7f.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/E6HbGoAWEAApk7f.jpg",
+                "url": "https://t.co/t4oXiCqeBT",
+                "display_url": "pic.twitter.com/t4oXiCqeBT",
+                "expanded_url": "https://twitter.com/GOLPERUoficial/status/1414652717620936705/photo/1",
+                "type": "photo",
+                "sizes": {
+                    "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                    },
+                    "large": {
+                        "w": 1920,
+                        "h": 1080,
+                        "resize": "fit"
+                    },
+                    "small": {
+                        "w": 680,
+                        "h": 383,
+                        "resize": "fit"
+                    },
+                    "medium": {
+                        "w": 1200,
+                        "h": 675,
+                        "resize": "fit"
+                    }
+                }
+            }
+        ]
+    },
+    "extended_entities": {
+        "media": [
+            {
+                "id": 1414652664835608576,
+                "id_str": "1414652664835608576",
+                "indices": [
+                    267,
+                    290
+                ],
+                "media_url": "http://pbs.twimg.com/media/E6HbGoAWEAApk7f.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/E6HbGoAWEAApk7f.jpg",
+                "url": "https://t.co/t4oXiCqeBT",
+                "display_url": "pic.twitter.com/t4oXiCqeBT",
+                "expanded_url": "https://twitter.com/GOLPERUoficial/status/1414652717620936705/photo/1",
+                "type": "photo",
+                "sizes": {
+                    "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                    },
+                    "large": {
+                        "w": 1920,
+                        "h": 1080,
+                        "resize": "fit"
+                    },
+                    "small": {
+                        "w": 680,
+                        "h": 383,
+                        "resize": "fit"
+                    },
+                    "medium": {
+                        "w": 1200,
+                        "h": 675,
+                        "resize": "fit"
+                    }
+                }
+            }
+        ]
+    },
+    "metadata": {
+        "iso_language_code": "es",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "in_reply_to_status_id": 1414652005306535937,
+    "in_reply_to_status_id_str": "1414652005306535937",
+    "in_reply_to_user_id": 721832788983484416,
+    "in_reply_to_user_id_str": "721832788983484416",
+    "in_reply_to_screen_name": "GOLPERUoficial",
+    "user": {
+        "id": 721832788983484416,
+        "id_str": "721832788983484416",
+        "name": "GOLPERU",
+        "screen_name": "GOLPERUoficial",
+        "location": "Peru",
+        "description": "Cuenta oficial de GOLPERU, el canal del f\u00fatbol. \ud83d\udcfa 14 - 714 HD de Movistar FB: GOLPERU14 TW: GOLPERUoficial IG: golperuoficial YT: GOLPERUoficial",
+        "url": "https://t.co/4zFNOOXHGs",
+        "entities": {
+            "url": {
+                "urls": [
+                    {
+                        "url": "https://t.co/4zFNOOXHGs",
+                        "expanded_url": "http://www.golperu.pe",
+                        "display_url": "golperu.pe",
+                        "indices": [
+                            0,
+                            23
+                        ]
+                    }
+                ]
+            },
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 169249,
+        "friends_count": 320,
+        "listed_count": 278,
+        "created_at": "Sun Apr 17 22:48:42 +0000 2016",
+        "favourites_count": 5487,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": true,
+        "statuses_count": 108856,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": null,
+        "profile_background_image_url_https": null,
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1371660813757517824/o8BkzOkl_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1371660813757517824/o8BkzOkl_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/721832788983484416/1626354940",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 6,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "es"
+}

@@ -1,0 +1,370 @@
+{
+    "created_at": "Fri Jul 16 00:16:46 +0000 2021",
+    "id": 1415827712661409793,
+    "id_str": "1415827712661409793",
+    "full_text": "RT @chefpassoni: @VanyaThais Los golpistas comandados por el camarada @FSagasti quieren celebrar y tambi\u00e9n el camarada @PedroCastilloTe man\u2026",
+    "truncated": false,
+    "display_text_range": [
+        0,
+        140
+    ],
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "chefpassoni",
+                "name": "Pier  Passoni",
+                "id": 70873517,
+                "id_str": "70873517",
+                "indices": [
+                    3,
+                    15
+                ]
+            },
+            {
+                "screen_name": "VanyaThais",
+                "name": "Vanya Thais",
+                "id": 734120508,
+                "id_str": "734120508",
+                "indices": [
+                    17,
+                    28
+                ]
+            },
+            {
+                "screen_name": "FSagasti",
+                "name": "Francisco Sagasti",
+                "id": 472996281,
+                "id_str": "472996281",
+                "indices": [
+                    70,
+                    79
+                ]
+            },
+            {
+                "screen_name": "PedroCastilloTe",
+                "name": "Pedro Castillo Terrones",
+                "id": 1357969682683334657,
+                "id_str": "1357969682683334657",
+                "indices": [
+                    119,
+                    135
+                ]
+            }
+        ],
+        "urls": []
+    },
+    "metadata": {
+        "iso_language_code": "es",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 1365321920086949889,
+        "id_str": "1365321920086949889",
+        "name": "DERECHA DERECHA",
+        "screen_name": "CazadorLagartos",
+        "location": "Peruzuela",
+        "description": "ANTI CAVIAR / ANTI COMUNISTA",
+        "url": null,
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 16,
+        "friends_count": 204,
+        "listed_count": 0,
+        "created_at": "Fri Feb 26 15:24:57 +0000 2021",
+        "favourites_count": 1558,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 2960,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": null,
+        "profile_background_image_url_https": null,
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1406047372044607488/5F1QNdQo_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1406047372044607488/5F1QNdQo_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1365321920086949889/1624062790",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": true,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+        "created_at": "Fri Jul 16 00:14:50 +0000 2021",
+        "id": 1415827229192425477,
+        "id_str": "1415827229192425477",
+        "full_text": "@VanyaThais Los golpistas comandados por el camarada @FSagasti quieren celebrar y tambi\u00e9n el camarada @PedroCastilloTe mandando a todos los terrucos a celebrar y tambi\u00e9n atacar #SagastiGolpistaCTM https://t.co/3mknaHkVVu",
+        "truncated": false,
+        "display_text_range": [
+            12,
+            196
+        ],
+        "entities": {
+            "hashtags": [
+                {
+                    "text": "SagastiGolpistaCTM",
+                    "indices": [
+                        177,
+                        196
+                    ]
+                }
+            ],
+            "symbols": [],
+            "user_mentions": [
+                {
+                    "screen_name": "VanyaThais",
+                    "name": "Vanya Thais",
+                    "id": 734120508,
+                    "id_str": "734120508",
+                    "indices": [
+                        0,
+                        11
+                    ]
+                },
+                {
+                    "screen_name": "FSagasti",
+                    "name": "Francisco Sagasti",
+                    "id": 472996281,
+                    "id_str": "472996281",
+                    "indices": [
+                        53,
+                        62
+                    ]
+                },
+                {
+                    "screen_name": "PedroCastilloTe",
+                    "name": "Pedro Castillo Terrones",
+                    "id": 1357969682683334657,
+                    "id_str": "1357969682683334657",
+                    "indices": [
+                        102,
+                        118
+                    ]
+                }
+            ],
+            "urls": [],
+            "media": [
+                {
+                    "id": 1415827141212651525,
+                    "id_str": "1415827141212651525",
+                    "indices": [
+                        197,
+                        220
+                    ],
+                    "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1415827141212651525/pu/img/HB1031o6bdqFpyMY.jpg",
+                    "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1415827141212651525/pu/img/HB1031o6bdqFpyMY.jpg",
+                    "url": "https://t.co/3mknaHkVVu",
+                    "display_url": "pic.twitter.com/3mknaHkVVu",
+                    "expanded_url": "https://twitter.com/chefpassoni/status/1415827229192425477/video/1",
+                    "type": "photo",
+                    "sizes": {
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "large": {
+                            "w": 480,
+                            "h": 848,
+                            "resize": "fit"
+                        },
+                        "small": {
+                            "w": 385,
+                            "h": 680,
+                            "resize": "fit"
+                        },
+                        "medium": {
+                            "w": 480,
+                            "h": 848,
+                            "resize": "fit"
+                        }
+                    }
+                }
+            ]
+        },
+        "extended_entities": {
+            "media": [
+                {
+                    "id": 1415827141212651525,
+                    "id_str": "1415827141212651525",
+                    "indices": [
+                        197,
+                        220
+                    ],
+                    "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1415827141212651525/pu/img/HB1031o6bdqFpyMY.jpg",
+                    "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1415827141212651525/pu/img/HB1031o6bdqFpyMY.jpg",
+                    "url": "https://t.co/3mknaHkVVu",
+                    "display_url": "pic.twitter.com/3mknaHkVVu",
+                    "expanded_url": "https://twitter.com/chefpassoni/status/1415827229192425477/video/1",
+                    "type": "video",
+                    "sizes": {
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "large": {
+                            "w": 480,
+                            "h": 848,
+                            "resize": "fit"
+                        },
+                        "small": {
+                            "w": 385,
+                            "h": 680,
+                            "resize": "fit"
+                        },
+                        "medium": {
+                            "w": 480,
+                            "h": 848,
+                            "resize": "fit"
+                        }
+                    },
+                    "video_info": {
+                        "aspect_ratio": [
+                            30,
+                            53
+                        ],
+                        "duration_millis": 26133,
+                        "variants": [
+                            {
+                                "bitrate": 632000,
+                                "content_type": "video/mp4",
+                                "url": "https://video.twimg.com/ext_tw_video/1415827141212651525/pu/vid/320x564/pRUAvEcNHd2JNvZM.mp4?tag=12"
+                            },
+                            {
+                                "bitrate": 950000,
+                                "content_type": "video/mp4",
+                                "url": "https://video.twimg.com/ext_tw_video/1415827141212651525/pu/vid/480x848/DEzPiCQchSuuz_kX.mp4?tag=12"
+                            },
+                            {
+                                "content_type": "application/x-mpegURL",
+                                "url": "https://video.twimg.com/ext_tw_video/1415827141212651525/pu/pl/nhCCWlXOZiRo51Ni.m3u8?tag=12&container=fmp4"
+                            }
+                        ]
+                    },
+                    "additional_media_info": {
+                        "monetizable": false
+                    }
+                }
+            ]
+        },
+        "metadata": {
+            "iso_language_code": "es",
+            "result_type": "recent"
+        },
+        "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+        "in_reply_to_status_id": 1415825376551612418,
+        "in_reply_to_status_id_str": "1415825376551612418",
+        "in_reply_to_user_id": 734120508,
+        "in_reply_to_user_id_str": "734120508",
+        "in_reply_to_screen_name": "VanyaThais",
+        "user": {
+            "id": 70873517,
+            "id_str": "70873517",
+            "name": "Pier  Passoni",
+            "screen_name": "chefpassoni",
+            "location": "Lima Peru",
+            "description": "CEO en DPassoni Marketing Consulting Group.\nInvestigador, docente universitario y apasionado de la gastronom\u00eda peruana.",
+            "url": "https://t.co/N3Al8rge3J",
+            "entities": {
+                "url": {
+                    "urls": [
+                        {
+                            "url": "https://t.co/N3Al8rge3J",
+                            "expanded_url": "http://www.dpassoni.com",
+                            "display_url": "dpassoni.com",
+                            "indices": [
+                                0,
+                                23
+                            ]
+                        }
+                    ]
+                },
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 723,
+            "friends_count": 1840,
+            "listed_count": 11,
+            "created_at": "Wed Sep 02 03:41:56 +0000 2009",
+            "favourites_count": 24390,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": true,
+            "verified": false,
+            "statuses_count": 13900,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "352726",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme5/bg.gif",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme5/bg.gif",
+            "profile_background_tile": true,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1405001539597606912/Bi-LPDsz_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1405001539597606912/Bi-LPDsz_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/70873517/1578197646",
+            "profile_link_color": "4A913C",
+            "profile_sidebar_border_color": "829D5E",
+            "profile_sidebar_fill_color": "99CC33",
+            "profile_text_color": "3E4415",
+            "profile_use_background_image": true,
+            "has_extended_profile": true,
+            "default_profile": false,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none",
+            "withheld_in_countries": []
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 4,
+        "favorite_count": 3,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "es"
+    },
+    "is_quote_status": false,
+    "retweet_count": 4,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "es"
+}

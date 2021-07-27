@@ -1,0 +1,178 @@
+{
+    "created_at": "Fri Jul 16 00:08:39 +0000 2021",
+    "id": 1415825673097203715,
+    "id_str": "1415825673097203715",
+    "full_text": "@panchogonzal3s @alan_revi @maceyu @PoliciaPeru @FiscaliaPeru @Defensoria_Peru @MininterPeru Tu eres una rata gorda, obeso ktm #SagastiGolpistaCTM",
+    "truncated": false,
+    "display_text_range": [
+        93,
+        146
+    ],
+    "entities": {
+        "hashtags": [
+            {
+                "text": "SagastiGolpistaCTM",
+                "indices": [
+                    127,
+                    146
+                ]
+            }
+        ],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "panchogonzal3s",
+                "name": "Pancho Gonzales",
+                "id": 110893173,
+                "id_str": "110893173",
+                "indices": [
+                    0,
+                    15
+                ]
+            },
+            {
+                "screen_name": "alan_revi",
+                "name": "Al Revi",
+                "id": 1368542242772836352,
+                "id_str": "1368542242772836352",
+                "indices": [
+                    16,
+                    26
+                ]
+            },
+            {
+                "screen_name": "maceyu",
+                "name": "Maceyu",
+                "id": 272112253,
+                "id_str": "272112253",
+                "indices": [
+                    27,
+                    34
+                ]
+            },
+            {
+                "screen_name": "PoliciaPeru",
+                "name": "Polic\u00eda Nacional del Per\u00fa",
+                "id": 213769482,
+                "id_str": "213769482",
+                "indices": [
+                    35,
+                    47
+                ]
+            },
+            {
+                "screen_name": "FiscaliaPeru",
+                "name": "Ministerio P\u00fablico",
+                "id": 302151609,
+                "id_str": "302151609",
+                "indices": [
+                    48,
+                    61
+                ]
+            },
+            {
+                "screen_name": "Defensoria_Peru",
+                "name": "Defensor\u00eda Per\u00fa",
+                "id": 107428718,
+                "id_str": "107428718",
+                "indices": [
+                    62,
+                    78
+                ]
+            },
+            {
+                "screen_name": "MininterPeru",
+                "name": "Ministerio del Interior \ud83c\uddf5\ud83c\uddea",
+                "id": 98964508,
+                "id_str": "98964508",
+                "indices": [
+                    79,
+                    92
+                ]
+            }
+        ],
+        "urls": []
+    },
+    "metadata": {
+        "iso_language_code": "es",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "in_reply_to_status_id": 1415783518240706565,
+    "in_reply_to_status_id_str": "1415783518240706565",
+    "in_reply_to_user_id": 110893173,
+    "in_reply_to_user_id_str": "110893173",
+    "in_reply_to_screen_name": "panchogonzal3s",
+    "user": {
+        "id": 752892803831721985,
+        "id_str": "752892803831721985",
+        "name": "cesar brandow",
+        "screen_name": "cesarbrandon16",
+        "location": "Lima-olivos",
+        "description": "BRANDOW ROMERO, PRECIDENTE ELECTO DE LA REP\u00daBLICA DEL PER\u00da (2010 - 2016)",
+        "url": "https://t.co/2lbBHRHP1u",
+        "entities": {
+            "url": {
+                "urls": [
+                    {
+                        "url": "https://t.co/2lbBHRHP1u",
+                        "expanded_url": "https://deeme.com",
+                        "display_url": "deeme.com",
+                        "indices": [
+                            0,
+                            23
+                        ]
+                    }
+                ]
+            },
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 165,
+        "friends_count": 924,
+        "listed_count": 0,
+        "created_at": "Tue Jul 12 15:50:07 +0000 2016",
+        "favourites_count": 20098,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 8752,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": null,
+        "profile_background_image_url_https": null,
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1344023910187212800/ysEMX3-B_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1344023910187212800/ysEMX3-B_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/752892803831721985/1609275345",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": true,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "es"
+}

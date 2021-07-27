@@ -1,0 +1,247 @@
+{
+    "created_at": "Sat Jul 10 16:52:36 +0000 2021",
+    "id": 1413903995157024769,
+    "id_str": "1413903995157024769",
+    "full_text": "RT @Soy_Aprista: [En vivo] Veto a h\u00e9roes apristas en el @LUMoficial, la historia tras bambalinas https://t.co/DeR2PS8G62 #NoTememosALosCoba\u2026",
+    "truncated": false,
+    "display_text_range": [
+        0,
+        140
+    ],
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "Soy_Aprista",
+                "name": "Soy Aprista",
+                "id": 57545700,
+                "id_str": "57545700",
+                "indices": [
+                    3,
+                    15
+                ]
+            },
+            {
+                "screen_name": "LUMoficial",
+                "name": "Lugar de la Memoria \ud83c\uddf5\ud83c\uddea",
+                "id": 950480466,
+                "id_str": "950480466",
+                "indices": [
+                    56,
+                    67
+                ]
+            }
+        ],
+        "urls": [
+            {
+                "url": "https://t.co/DeR2PS8G62",
+                "expanded_url": "https://www.facebook.com/SoyApristaPeru/videos/241371627563458",
+                "display_url": "facebook.com/SoyApristaPeru\u2026",
+                "indices": [
+                    97,
+                    120
+                ]
+            }
+        ]
+    },
+    "metadata": {
+        "iso_language_code": "es",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 346946541,
+        "id_str": "346946541",
+        "name": "Eduardo Olivos Meza \ud83c\udfca",
+        "screen_name": "dadoeterno",
+        "location": "Lima, Per\u00fa",
+        "description": "Peruano. Economista - PUCP. Regulaci\u00f3n P\u00fablica y Derechos Humanos. Por una Cuba \ud83c\udde8\ud83c\uddfa libre del comunismo genocida.",
+        "url": null,
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 1996,
+        "friends_count": 309,
+        "listed_count": 1,
+        "created_at": "Tue Aug 02 02:20:52 +0000 2011",
+        "favourites_count": 33549,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 27396,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1404327472846544899/QkcJejWx_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1404327472846544899/QkcJejWx_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/346946541/1624737152",
+        "profile_link_color": "678894",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": true,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+        "created_at": "Sat Jul 10 04:04:05 +0000 2021",
+        "id": 1413710594788691971,
+        "id_str": "1413710594788691971",
+        "full_text": "[En vivo] Veto a h\u00e9roes apristas en el @LUMoficial, la historia tras bambalinas https://t.co/DeR2PS8G62 #NoTememosALosCobardes",
+        "truncated": false,
+        "display_text_range": [
+            0,
+            126
+        ],
+        "entities": {
+            "hashtags": [
+                {
+                    "text": "NoTememosALosCobardes",
+                    "indices": [
+                        104,
+                        126
+                    ]
+                }
+            ],
+            "symbols": [],
+            "user_mentions": [
+                {
+                    "screen_name": "LUMoficial",
+                    "name": "Lugar de la Memoria \ud83c\uddf5\ud83c\uddea",
+                    "id": 950480466,
+                    "id_str": "950480466",
+                    "indices": [
+                        39,
+                        50
+                    ]
+                }
+            ],
+            "urls": [
+                {
+                    "url": "https://t.co/DeR2PS8G62",
+                    "expanded_url": "https://www.facebook.com/SoyApristaPeru/videos/241371627563458",
+                    "display_url": "facebook.com/SoyApristaPeru\u2026",
+                    "indices": [
+                        80,
+                        103
+                    ]
+                }
+            ]
+        },
+        "metadata": {
+            "iso_language_code": "es",
+            "result_type": "recent"
+        },
+        "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 57545700,
+            "id_str": "57545700",
+            "name": "Soy Aprista",
+            "screen_name": "Soy_Aprista",
+            "location": "https://www.facebook.com/pages",
+            "description": "\u00a1Pan con Libertad papi!",
+            "url": "http://t.co/mQj9mJcuIG",
+            "entities": {
+                "url": {
+                    "urls": [
+                        {
+                            "url": "http://t.co/mQj9mJcuIG",
+                            "expanded_url": "http://www.oizquierdo.blogspot.com",
+                            "display_url": "oizquierdo.blogspot.com",
+                            "indices": [
+                                0,
+                                22
+                            ]
+                        }
+                    ]
+                },
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 9068,
+            "friends_count": 1579,
+            "listed_count": 21,
+            "created_at": "Fri Jul 17 03:58:17 +0000 2009",
+            "favourites_count": 8601,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": true,
+            "verified": false,
+            "statuses_count": 55482,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "709397",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+            "profile_background_tile": true,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1410627278762020869/S4lk0syq_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1410627278762020869/S4lk0syq_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/57545700/1530562247",
+            "profile_link_color": "1B95E0",
+            "profile_sidebar_border_color": "FFFFFF",
+            "profile_sidebar_fill_color": "A0C5C7",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "has_extended_profile": true,
+            "default_profile": false,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none",
+            "withheld_in_countries": []
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 26,
+        "favorite_count": 64,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "es"
+    },
+    "is_quote_status": false,
+    "retweet_count": 26,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "es"
+}

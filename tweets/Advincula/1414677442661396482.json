@@ -1,0 +1,304 @@
+{
+    "created_at": "Mon Jul 12 20:06:00 +0000 2021",
+    "id": 1414677442661396482,
+    "id_str": "1414677442661396482",
+    "full_text": "RT @tuitdepor: \u00bfY Boca Juniors? \ud83d\ude32 Horas decisivas transcurren para definir la situaci\u00f3n de Luis Adv\u00edncula. El peruano, uno de los objetivos\u2026",
+    "truncated": false,
+    "display_text_range": [
+        0,
+        140
+    ],
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "tuitdepor",
+                "name": "depor",
+                "id": 819188347314851843,
+                "id_str": "819188347314851843",
+                "indices": [
+                    3,
+                    13
+                ]
+            }
+        ],
+        "urls": []
+    },
+    "metadata": {
+        "iso_language_code": "es",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 1056099676284432384,
+        "id_str": "1056099676284432384",
+        "name": "Gabriel Fernandez Larsson \ud83c\uddfa\ud83c\uddfe \ud83c\udde6\ud83c\uddf7",
+        "screen_name": "duartegustavo5",
+        "location": "Montevideo, Uruguay",
+        "description": "",
+        "url": null,
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 616,
+        "friends_count": 5001,
+        "listed_count": 1,
+        "created_at": "Sat Oct 27 08:25:58 +0000 2018",
+        "favourites_count": 222144,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 192517,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": null,
+        "profile_background_image_url_https": null,
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1411812722958872584/yAWZNfkw_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1411812722958872584/yAWZNfkw_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1056099676284432384/1571802278",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": true,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+        "created_at": "Mon Jul 12 18:06:07 +0000 2021",
+        "id": 1414647271371726848,
+        "id_str": "1414647271371726848",
+        "full_text": "\u00bfY Boca Juniors? \ud83d\ude32 Horas decisivas transcurren para definir la situaci\u00f3n de Luis Adv\u00edncula. El peruano, uno de los objetivos de Boca Juniors, se present\u00f3 este lunes para someterse a las pruebas m\u00e9dicas de Rayo Vallecano\nhttps://t.co/6lwtYmaQxT https://t.co/ufaOmyeIsO",
+        "truncated": false,
+        "display_text_range": [
+            0,
+            243
+        ],
+        "entities": {
+            "hashtags": [],
+            "symbols": [],
+            "user_mentions": [],
+            "urls": [
+                {
+                    "url": "https://t.co/6lwtYmaQxT",
+                    "expanded_url": "https://bit.ly/3i0qejW",
+                    "display_url": "bit.ly/3i0qejW",
+                    "indices": [
+                        220,
+                        243
+                    ]
+                }
+            ],
+            "media": [
+                {
+                    "id": 1414647268867809280,
+                    "id_str": "1414647268867809280",
+                    "indices": [
+                        244,
+                        267
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/E6HWMidXoAAZB8m.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/E6HWMidXoAAZB8m.jpg",
+                    "url": "https://t.co/ufaOmyeIsO",
+                    "display_url": "pic.twitter.com/ufaOmyeIsO",
+                    "expanded_url": "https://twitter.com/tuitdepor/status/1414647271371726848/photo/1",
+                    "type": "photo",
+                    "sizes": {
+                        "small": {
+                            "w": 680,
+                            "h": 680,
+                            "resize": "fit"
+                        },
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "large": {
+                            "w": 1080,
+                            "h": 1080,
+                            "resize": "fit"
+                        },
+                        "medium": {
+                            "w": 1080,
+                            "h": 1080,
+                            "resize": "fit"
+                        }
+                    }
+                }
+            ]
+        },
+        "extended_entities": {
+            "media": [
+                {
+                    "id": 1414647268867809280,
+                    "id_str": "1414647268867809280",
+                    "indices": [
+                        244,
+                        267
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/E6HWMidXoAAZB8m.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/E6HWMidXoAAZB8m.jpg",
+                    "url": "https://t.co/ufaOmyeIsO",
+                    "display_url": "pic.twitter.com/ufaOmyeIsO",
+                    "expanded_url": "https://twitter.com/tuitdepor/status/1414647271371726848/photo/1",
+                    "type": "photo",
+                    "sizes": {
+                        "small": {
+                            "w": 680,
+                            "h": 680,
+                            "resize": "fit"
+                        },
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "large": {
+                            "w": 1080,
+                            "h": 1080,
+                            "resize": "fit"
+                        },
+                        "medium": {
+                            "w": 1080,
+                            "h": 1080,
+                            "resize": "fit"
+                        }
+                    }
+                }
+            ]
+        },
+        "metadata": {
+            "iso_language_code": "es",
+            "result_type": "recent"
+        },
+        "source": "<a href=\"http://besocy.com\" rel=\"nofollow\">Besocy_Oficial</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 819188347314851843,
+            "id_str": "819188347314851843",
+            "name": "depor",
+            "screen_name": "tuitdepor",
+            "location": "",
+            "description": "Toda la actualidad del deporte mundial, la encontrar\u00e1s aqu\u00ed. \u00a1Queremos saber qu\u00e9 piensas!\nhttps://t.co/ejf2tdzKL7\nhttps://t.co/4hk8x6QAZr",
+            "url": "https://t.co/FbNQASekTY",
+            "entities": {
+                "url": {
+                    "urls": [
+                        {
+                            "url": "https://t.co/FbNQASekTY",
+                            "expanded_url": "http://depor.com",
+                            "display_url": "depor.com",
+                            "indices": [
+                                0,
+                                23
+                            ]
+                        }
+                    ]
+                },
+                "description": {
+                    "urls": [
+                        {
+                            "url": "https://t.co/ejf2tdzKL7",
+                            "expanded_url": "http://facebook.com/deporperu",
+                            "display_url": "facebook.com/deporperu",
+                            "indices": [
+                                90,
+                                113
+                            ]
+                        },
+                        {
+                            "url": "https://t.co/4hk8x6QAZr",
+                            "expanded_url": "http://Instagram.com/deporcom",
+                            "display_url": "Instagram.com/deporcom",
+                            "indices": [
+                                114,
+                                137
+                            ]
+                        }
+                    ]
+                }
+            },
+            "protected": false,
+            "followers_count": 55420,
+            "friends_count": 453,
+            "listed_count": 187,
+            "created_at": "Wed Jan 11 14:24:56 +0000 2017",
+            "favourites_count": 107,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": false,
+            "verified": false,
+            "statuses_count": 161458,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "000000",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1331274801491697665/_miSvx0K_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1331274801491697665/_miSvx0K_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/819188347314851843/1621286153",
+            "profile_link_color": "D1D728",
+            "profile_sidebar_border_color": "000000",
+            "profile_sidebar_fill_color": "000000",
+            "profile_text_color": "000000",
+            "profile_use_background_image": false,
+            "has_extended_profile": false,
+            "default_profile": false,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none",
+            "withheld_in_countries": []
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 2,
+        "favorite_count": 19,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "es"
+    },
+    "is_quote_status": false,
+    "retweet_count": 2,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "es"
+}

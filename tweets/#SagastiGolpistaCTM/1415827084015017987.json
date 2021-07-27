@@ -1,0 +1,332 @@
+{
+    "created_at": "Fri Jul 16 00:14:16 +0000 2021",
+    "id": 1415827084015017987,
+    "id_str": "1415827084015017987",
+    "full_text": "RT @Rivar_2021: Empez\u00f3 la persecuci\u00f3n , PREGUNTARLE A LA FISCALIA, DONDE ESTAN LOS QUE MATARON A INTI Y BRYAN? \n#SagastiGolpistaCTM",
+    "truncated": false,
+    "display_text_range": [
+        0,
+        131
+    ],
+    "entities": {
+        "hashtags": [
+            {
+                "text": "SagastiGolpistaCTM",
+                "indices": [
+                    112,
+                    131
+                ]
+            }
+        ],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "Rivar_2021",
+                "name": "Ricardo Vargas",
+                "id": 856794090083581952,
+                "id_str": "856794090083581952",
+                "indices": [
+                    3,
+                    14
+                ]
+            }
+        ],
+        "urls": []
+    },
+    "metadata": {
+        "iso_language_code": "es",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 1080604230875049985,
+        "id_str": "1080604230875049985",
+        "name": "Buscando Nuevas",
+        "screen_name": "buscandonuevas",
+        "location": "",
+        "description": "Trabajar es necesario para surgir. Nunca he vivido del estado, \u00e9ste debe ofrecer estabilidad, libertad y paz, nada gratis. HOY EN LUCHA X LA LIBERTAD DEL PERU",
+        "url": null,
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 404,
+        "friends_count": 196,
+        "listed_count": 2,
+        "created_at": "Wed Jan 02 23:18:20 +0000 2019",
+        "favourites_count": 6635,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 60004,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": null,
+        "profile_background_image_url_https": null,
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1411538791081336833/emsPGZJq_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1411538791081336833/emsPGZJq_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1080604230875049985/1622165329",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+        "created_at": "Thu Jul 15 23:53:43 +0000 2021",
+        "id": 1415821913218326543,
+        "id_str": "1415821913218326543",
+        "full_text": "Empez\u00f3 la persecuci\u00f3n , PREGUNTARLE A LA FISCALIA, DONDE ESTAN LOS QUE MATARON A INTI Y BRYAN? \n#SagastiGolpistaCTM https://t.co/l8T0ECewHu",
+        "truncated": false,
+        "display_text_range": [
+            0,
+            115
+        ],
+        "entities": {
+            "hashtags": [
+                {
+                    "text": "SagastiGolpistaCTM",
+                    "indices": [
+                        96,
+                        115
+                    ]
+                }
+            ],
+            "symbols": [],
+            "user_mentions": [],
+            "urls": [
+                {
+                    "url": "https://t.co/l8T0ECewHu",
+                    "expanded_url": "https://twitter.com/Politica_LR/status/1415821471935512576",
+                    "display_url": "twitter.com/Politica_LR/st\u2026",
+                    "indices": [
+                        116,
+                        139
+                    ]
+                }
+            ]
+        },
+        "metadata": {
+            "iso_language_code": "es",
+            "result_type": "recent"
+        },
+        "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 856794090083581952,
+            "id_str": "856794090083581952",
+            "name": "Ricardo Vargas",
+            "screen_name": "Rivar_2021",
+            "location": "",
+            "description": "Libertario. El libre mercado es ancestral.",
+            "url": null,
+            "entities": {
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 620,
+            "friends_count": 517,
+            "listed_count": 1,
+            "created_at": "Tue Apr 25 08:56:44 +0000 2017",
+            "favourites_count": 5278,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": false,
+            "verified": false,
+            "statuses_count": 8658,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "F5F8FA",
+            "profile_background_image_url": null,
+            "profile_background_image_url_https": null,
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1381783020215091201/15yqsbF7_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1381783020215091201/15yqsbF7_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/856794090083581952/1607030771",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "has_extended_profile": false,
+            "default_profile": true,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none",
+            "withheld_in_countries": []
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": true,
+        "quoted_status_id": 1415821471935512576,
+        "quoted_status_id_str": "1415821471935512576",
+        "quoted_status": {
+            "created_at": "Thu Jul 15 23:51:58 +0000 2021",
+            "id": 1415821471935512576,
+            "id_str": "1415821471935512576",
+            "full_text": "\ud83d\udea8#LO\u00daLTIMO | Fiscal\u00eda inicia investigaci\u00f3n preliminar por agresiones a periodistas y ministros de Estado\n\nEl \u00faltimo mi\u00e9rcoles simpatizantes de Fuerza Popular atacaron a reporteros y a dos ministros. Adem\u00e1s, causaron disturbios en Cercado de Lima.\n\nhttps://t.co/STz7Lc8oaw",
+            "truncated": false,
+            "display_text_range": [
+                0,
+                271
+            ],
+            "entities": {
+                "hashtags": [
+                    {
+                        "text": "LO\u00daLTIMO",
+                        "indices": [
+                            1,
+                            10
+                        ]
+                    }
+                ],
+                "symbols": [],
+                "user_mentions": [],
+                "urls": [
+                    {
+                        "url": "https://t.co/STz7Lc8oaw",
+                        "expanded_url": "https://larepublica.pe/elecciones/2021/07/15/elecciones-2021-fiscalia-inicia-investigacion-preliminar-por-agresiones-a-ciudadanos-y-ministros-de-estado-pltc/",
+                        "display_url": "larepublica.pe/elecciones/202\u2026",
+                        "indices": [
+                            248,
+                            271
+                        ]
+                    }
+                ]
+            },
+            "metadata": {
+                "iso_language_code": "es",
+                "result_type": "recent"
+            },
+            "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+            "in_reply_to_status_id": null,
+            "in_reply_to_status_id_str": null,
+            "in_reply_to_user_id": null,
+            "in_reply_to_user_id_str": null,
+            "in_reply_to_screen_name": null,
+            "user": {
+                "id": 829750511624679424,
+                "id_str": "829750511624679424",
+                "name": "Pol\u00edtica LRep\u00fablica",
+                "screen_name": "Politica_LR",
+                "location": "Lima, Peru",
+                "description": "Todas las noticias pol\u00edticas y econ\u00f3micas del Per\u00fa y el mundo. Tambi\u00e9n nos puedes encontrar en @LaRepublica_pe",
+                "url": "https://t.co/iS6FjJFH60",
+                "entities": {
+                    "url": {
+                        "urls": [
+                            {
+                                "url": "https://t.co/iS6FjJFH60",
+                                "expanded_url": "http://larepublica.pe/",
+                                "display_url": "larepublica.pe",
+                                "indices": [
+                                    0,
+                                    23
+                                ]
+                            }
+                        ]
+                    },
+                    "description": {
+                        "urls": []
+                    }
+                },
+                "protected": false,
+                "followers_count": 337521,
+                "friends_count": 41,
+                "listed_count": 400,
+                "created_at": "Thu Feb 09 17:55:12 +0000 2017",
+                "favourites_count": 64,
+                "utc_offset": null,
+                "time_zone": null,
+                "geo_enabled": false,
+                "verified": false,
+                "statuses_count": 49427,
+                "lang": null,
+                "contributors_enabled": false,
+                "is_translator": false,
+                "is_translation_enabled": false,
+                "profile_background_color": "F5F8FA",
+                "profile_background_image_url": null,
+                "profile_background_image_url_https": null,
+                "profile_background_tile": false,
+                "profile_image_url": "http://pbs.twimg.com/profile_images/1331229608004513792/IdHVs_7v_normal.jpg",
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/1331229608004513792/IdHVs_7v_normal.jpg",
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/829750511624679424/1527802305",
+                "profile_link_color": "1DA1F2",
+                "profile_sidebar_border_color": "C0DEED",
+                "profile_sidebar_fill_color": "DDEEF6",
+                "profile_text_color": "333333",
+                "profile_use_background_image": true,
+                "has_extended_profile": false,
+                "default_profile": true,
+                "default_profile_image": false,
+                "following": false,
+                "follow_request_sent": false,
+                "notifications": false,
+                "translator_type": "none",
+                "withheld_in_countries": []
+            },
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "contributors": null,
+            "is_quote_status": false,
+            "retweet_count": 45,
+            "favorite_count": 124,
+            "favorited": false,
+            "retweeted": false,
+            "possibly_sensitive": false,
+            "lang": "es"
+        },
+        "retweet_count": 1,
+        "favorite_count": 1,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "es"
+    },
+    "is_quote_status": true,
+    "quoted_status_id": 1415821471935512576,
+    "quoted_status_id_str": "1415821471935512576",
+    "retweet_count": 1,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "es"
+}

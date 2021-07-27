@@ -1,0 +1,107 @@
+{
+    "created_at": "Mon Jul 12 18:45:50 +0000 2021",
+    "id": 1414657268449165319,
+    "id_str": "1414657268449165319",
+    "full_text": "@matidiazz12 @_JugadorNro12 Si se llega a cerrar, Borja entrar\u00eda para los cuartos junto con Advincula",
+    "truncated": false,
+    "display_text_range": [
+        28,
+        101
+    ],
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "matidiazz12",
+                "name": "mati",
+                "id": 1134989491767259136,
+                "id_str": "1134989491767259136",
+                "indices": [
+                    0,
+                    12
+                ]
+            },
+            {
+                "screen_name": "_JugadorNro12",
+                "name": "\u2113\u03b1\u03c5\u0442\u03b1\u044f\u03c3",
+                "id": 856232364908957696,
+                "id_str": "856232364908957696",
+                "indices": [
+                    13,
+                    27
+                ]
+            }
+        ],
+        "urls": []
+    },
+    "metadata": {
+        "iso_language_code": "es",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "in_reply_to_status_id": 1414654825695006728,
+    "in_reply_to_status_id_str": "1414654825695006728",
+    "in_reply_to_user_id": 1134989491767259136,
+    "in_reply_to_user_id_str": "1134989491767259136",
+    "in_reply_to_screen_name": "matidiazz12",
+    "user": {
+        "id": 3293078724,
+        "id_str": "3293078724",
+        "name": "Fernankun",
+        "screen_name": "FernanVillalba7",
+        "location": "Posadas, Argentina",
+        "description": "Sol\u00eda ser bueno en un juego del celu)?",
+        "url": null,
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 203,
+        "friends_count": 529,
+        "listed_count": 2,
+        "created_at": "Sat Jul 25 16:41:49 +0000 2015",
+        "favourites_count": 12892,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 13844,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1398551914703380481/H67IGweu_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1398551914703380481/H67IGweu_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/3293078724/1617027964",
+        "profile_link_color": "89C9FA",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "profile_use_background_image": false,
+        "has_extended_profile": true,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "es"
+}

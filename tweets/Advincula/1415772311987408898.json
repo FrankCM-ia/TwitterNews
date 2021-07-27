@@ -1,0 +1,165 @@
+{
+    "created_at": "Thu Jul 15 20:36:37 +0000 2021",
+    "id": 1415772311987408898,
+    "id_str": "1415772311987408898",
+    "full_text": "Luis Adv\u00edncula esta a nada de ser nuevo jugador de Boca. https://t.co/lODV6UxN08",
+    "truncated": false,
+    "display_text_range": [
+        0,
+        56
+    ],
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [],
+        "media": [
+            {
+                "id": 1415772211923783686,
+                "id_str": "1415772211923783686",
+                "indices": [
+                    57,
+                    80
+                ],
+                "media_url": "http://pbs.twimg.com/media/E6XVU16WEAY-FsG.png",
+                "media_url_https": "https://pbs.twimg.com/media/E6XVU16WEAY-FsG.png",
+                "url": "https://t.co/lODV6UxN08",
+                "display_url": "pic.twitter.com/lODV6UxN08",
+                "expanded_url": "https://twitter.com/LaLibertadores9/status/1415772311987408898/photo/1",
+                "type": "photo",
+                "sizes": {
+                    "medium": {
+                        "w": 680,
+                        "h": 378,
+                        "resize": "fit"
+                    },
+                    "large": {
+                        "w": 680,
+                        "h": 378,
+                        "resize": "fit"
+                    },
+                    "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                    },
+                    "small": {
+                        "w": 680,
+                        "h": 378,
+                        "resize": "fit"
+                    }
+                }
+            }
+        ]
+    },
+    "extended_entities": {
+        "media": [
+            {
+                "id": 1415772211923783686,
+                "id_str": "1415772211923783686",
+                "indices": [
+                    57,
+                    80
+                ],
+                "media_url": "http://pbs.twimg.com/media/E6XVU16WEAY-FsG.png",
+                "media_url_https": "https://pbs.twimg.com/media/E6XVU16WEAY-FsG.png",
+                "url": "https://t.co/lODV6UxN08",
+                "display_url": "pic.twitter.com/lODV6UxN08",
+                "expanded_url": "https://twitter.com/LaLibertadores9/status/1415772311987408898/photo/1",
+                "type": "photo",
+                "sizes": {
+                    "medium": {
+                        "w": 680,
+                        "h": 378,
+                        "resize": "fit"
+                    },
+                    "large": {
+                        "w": 680,
+                        "h": 378,
+                        "resize": "fit"
+                    },
+                    "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                    },
+                    "small": {
+                        "w": 680,
+                        "h": 378,
+                        "resize": "fit"
+                    }
+                }
+            }
+        ]
+    },
+    "metadata": {
+        "iso_language_code": "es",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 1353827499755663360,
+        "id_str": "1353827499755663360",
+        "name": "La Eterna",
+        "screen_name": "LaLibertadores9",
+        "location": "",
+        "description": "Hablando del mejor torneo del mundo. Opiniones, MaM, Hilos, Estad\u00edsticas, Noticias, etc.",
+        "url": null,
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 2662,
+        "friends_count": 484,
+        "listed_count": 12,
+        "created_at": "Mon Jan 25 22:10:31 +0000 2021",
+        "favourites_count": 587,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 8288,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": null,
+        "profile_background_image_url_https": null,
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1353830676479561729/39b3KijN_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1353830676479561729/39b3KijN_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1353827499755663360/1624814094",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 3,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "es"
+}

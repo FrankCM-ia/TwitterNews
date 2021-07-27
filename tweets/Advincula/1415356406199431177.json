@@ -1,0 +1,277 @@
+{
+    "created_at": "Wed Jul 14 17:03:57 +0000 2021",
+    "id": 1415356406199431177,
+    "id_str": "1415356406199431177",
+    "full_text": "con Angelici,Borja,Adv\u00edncula y Roger Mart\u00ednez ven\u00edan sin tantas vueltas https://t.co/KkQr6s23Yb",
+    "truncated": false,
+    "display_text_range": [
+        0,
+        71
+    ],
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+            {
+                "url": "https://t.co/KkQr6s23Yb",
+                "expanded_url": "https://twitter.com/GraciasVirrey0/status/1415152103534866432",
+                "display_url": "twitter.com/GraciasVirrey0\u2026",
+                "indices": [
+                    72,
+                    95
+                ]
+            }
+        ]
+    },
+    "metadata": {
+        "iso_language_code": "es",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 866145533374713856,
+        "id_str": "866145533374713856",
+        "name": "Mclovin Bostero \ud83c\uddf8\ud83c\uddea",
+        "screen_name": "MclovinBostero",
+        "location": "",
+        "description": "Soy de Boca no me sigas\nNuevalunista y Palmerista desde la cuna\n\n@Mccandadox",
+        "url": null,
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 502,
+        "friends_count": 984,
+        "listed_count": 0,
+        "created_at": "Sun May 21 04:16:02 +0000 2017",
+        "favourites_count": 73306,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 8295,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": null,
+        "profile_background_image_url_https": null,
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1401593743975882753/-KPW3JfU_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1401593743975882753/-KPW3JfU_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/866145533374713856/1599922972",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": true,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": true,
+    "quoted_status_id": 1415152103534866432,
+    "quoted_status_id_str": "1415152103534866432",
+    "quoted_status": {
+        "created_at": "Wed Jul 14 03:32:08 +0000 2021",
+        "id": 1415152103534866432,
+        "id_str": "1415152103534866432",
+        "full_text": "Tiren una unpopular opinion de f\u00fatbol que los dejar\u00eda as\u00ed. https://t.co/5DHjylWVYn",
+        "truncated": false,
+        "display_text_range": [
+            0,
+            58
+        ],
+        "entities": {
+            "hashtags": [],
+            "symbols": [],
+            "user_mentions": [],
+            "urls": [],
+            "media": [
+                {
+                    "id": 1415152097226543107,
+                    "id_str": "1415152097226543107",
+                    "indices": [
+                        59,
+                        82
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/E6OhVapWUAMrjl_.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/E6OhVapWUAMrjl_.jpg",
+                    "url": "https://t.co/5DHjylWVYn",
+                    "display_url": "pic.twitter.com/5DHjylWVYn",
+                    "expanded_url": "https://twitter.com/GraciasVirrey0/status/1415152103534866432/photo/1",
+                    "type": "photo",
+                    "sizes": {
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "small": {
+                            "w": 680,
+                            "h": 385,
+                            "resize": "fit"
+                        },
+                        "medium": {
+                            "w": 852,
+                            "h": 483,
+                            "resize": "fit"
+                        },
+                        "large": {
+                            "w": 852,
+                            "h": 483,
+                            "resize": "fit"
+                        }
+                    }
+                }
+            ]
+        },
+        "extended_entities": {
+            "media": [
+                {
+                    "id": 1415152097226543107,
+                    "id_str": "1415152097226543107",
+                    "indices": [
+                        59,
+                        82
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/E6OhVapWUAMrjl_.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/E6OhVapWUAMrjl_.jpg",
+                    "url": "https://t.co/5DHjylWVYn",
+                    "display_url": "pic.twitter.com/5DHjylWVYn",
+                    "expanded_url": "https://twitter.com/GraciasVirrey0/status/1415152103534866432/photo/1",
+                    "type": "photo",
+                    "sizes": {
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "small": {
+                            "w": 680,
+                            "h": 385,
+                            "resize": "fit"
+                        },
+                        "medium": {
+                            "w": 852,
+                            "h": 483,
+                            "resize": "fit"
+                        },
+                        "large": {
+                            "w": 852,
+                            "h": 483,
+                            "resize": "fit"
+                        }
+                    }
+                }
+            ]
+        },
+        "metadata": {
+            "iso_language_code": "es",
+            "result_type": "recent"
+        },
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 1093968842966159360,
+            "id_str": "1093968842966159360",
+            "name": "Virrey",
+            "screen_name": "GraciasVirrey0",
+            "location": "Donde est\u00e9 Boca. ",
+            "description": "no me tomes tan enserio pibe.",
+            "url": "https://t.co/kqT6fWp3AB",
+            "entities": {
+                "url": {
+                    "urls": [
+                        {
+                            "url": "https://t.co/kqT6fWp3AB",
+                            "expanded_url": "http://Instagram.com/Virrey0",
+                            "display_url": "Instagram.com/Virrey0",
+                            "indices": [
+                                0,
+                                23
+                            ]
+                        }
+                    ]
+                },
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 1515,
+            "friends_count": 1224,
+            "listed_count": 1,
+            "created_at": "Fri Feb 08 20:24:31 +0000 2019",
+            "favourites_count": 31239,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": true,
+            "verified": false,
+            "statuses_count": 17741,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "F5F8FA",
+            "profile_background_image_url": null,
+            "profile_background_image_url_https": null,
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1414362986303610889/FntdAva3_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1414362986303610889/FntdAva3_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/1093968842966159360/1625507265",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "has_extended_profile": true,
+            "default_profile": true,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none",
+            "withheld_in_countries": []
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 4,
+        "favorite_count": 215,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "es"
+    },
+    "retweet_count": 0,
+    "favorite_count": 4,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "es"
+}

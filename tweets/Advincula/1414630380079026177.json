@@ -1,0 +1,318 @@
+{
+    "created_at": "Mon Jul 12 16:58:59 +0000 2021",
+    "id": 1414630380079026177,
+    "id_str": "1414630380079026177",
+    "full_text": "RT @CLMerlo: \ud83d\udea8\ud83d\udea8Hay acuerdo total entre #Boca y #rayovallecano por la compra de Luis Adv\u00edncula (monto de la operaci\u00f3n y forma de pago).\n*\ufe0f\u20e3S\u2026",
+    "truncated": false,
+    "display_text_range": [
+        0,
+        140
+    ],
+    "entities": {
+        "hashtags": [
+            {
+                "text": "Boca",
+                "indices": [
+                    39,
+                    44
+                ]
+            },
+            {
+                "text": "rayovallecano",
+                "indices": [
+                    47,
+                    61
+                ]
+            }
+        ],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "CLMerlo",
+                "name": "C\u00e9sar Luis Merlo",
+                "id": 150263990,
+                "id_str": "150263990",
+                "indices": [
+                    3,
+                    11
+                ]
+            }
+        ],
+        "urls": []
+    },
+    "metadata": {
+        "iso_language_code": "es",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 1835827772,
+        "id_str": "1835827772",
+        "name": "Sargento ADRV\u26a1\ufe0f\ud83d\udc4a\ud83c\udffb",
+        "screen_name": "SargentoADRV",
+        "location": "Vallecas, aqu\u00ed hay #Jemecismo",
+        "description": "Rayista. Ha vuelto el #Jemecismo \u26a1\ufe0f\ud83d\udc4a\ud83c\udffb Durante la Primera Era del #Jemecismo fui @sargentojemez \u26a1\ufe0f #PRESAVETEYA\u26a1\ufe0f",
+        "url": "https://t.co/W01UsKNGiN",
+        "entities": {
+            "url": {
+                "urls": [
+                    {
+                        "url": "https://t.co/W01UsKNGiN",
+                        "expanded_url": "http://youtu.be/8Z3UewKnI5w",
+                        "display_url": "youtu.be/8Z3UewKnI5w",
+                        "indices": [
+                            0,
+                            23
+                        ]
+                    }
+                ]
+            },
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 577,
+        "friends_count": 302,
+        "listed_count": 7,
+        "created_at": "Sun Sep 08 23:07:16 +0000 2013",
+        "favourites_count": 7014,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 16948,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "131516",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1406735389935779840/__diKpwL_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1406735389935779840/__diKpwL_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1835827772/1624227457",
+        "profile_link_color": "009999",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+        "created_at": "Sun Jul 11 21:40:00 +0000 2021",
+        "id": 1414338709688922116,
+        "id_str": "1414338709688922116",
+        "full_text": "\ud83d\udea8\ud83d\udea8Hay acuerdo total entre #Boca y #rayovallecano por la compra de Luis Adv\u00edncula (monto de la operaci\u00f3n y forma de pago).\n*\ufe0f\u20e3Si se resuelve un detalle impositivo con el jugador en una reuni\u00f3n el lunes, firmar\u00e1 por 2 a\u00f1os y medio con chances de extender por otro. https://t.co/w3JoibioUf",
+        "truncated": false,
+        "display_text_range": [
+            0,
+            262
+        ],
+        "entities": {
+            "hashtags": [
+                {
+                    "text": "Boca",
+                    "indices": [
+                        26,
+                        31
+                    ]
+                },
+                {
+                    "text": "rayovallecano",
+                    "indices": [
+                        34,
+                        48
+                    ]
+                }
+            ],
+            "symbols": [],
+            "user_mentions": [],
+            "urls": [],
+            "media": [
+                {
+                    "id": 1414338707595960320,
+                    "id_str": "1414338707595960320",
+                    "indices": [
+                        263,
+                        286
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/E6C9j6JXoAAeqrr.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/E6C9j6JXoAAeqrr.jpg",
+                    "url": "https://t.co/w3JoibioUf",
+                    "display_url": "pic.twitter.com/w3JoibioUf",
+                    "expanded_url": "https://twitter.com/CLMerlo/status/1414338709688922116/photo/1",
+                    "type": "photo",
+                    "sizes": {
+                        "small": {
+                            "w": 580,
+                            "h": 330,
+                            "resize": "fit"
+                        },
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "large": {
+                            "w": 580,
+                            "h": 330,
+                            "resize": "fit"
+                        },
+                        "medium": {
+                            "w": 580,
+                            "h": 330,
+                            "resize": "fit"
+                        }
+                    }
+                }
+            ]
+        },
+        "extended_entities": {
+            "media": [
+                {
+                    "id": 1414338707595960320,
+                    "id_str": "1414338707595960320",
+                    "indices": [
+                        263,
+                        286
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/E6C9j6JXoAAeqrr.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/E6C9j6JXoAAeqrr.jpg",
+                    "url": "https://t.co/w3JoibioUf",
+                    "display_url": "pic.twitter.com/w3JoibioUf",
+                    "expanded_url": "https://twitter.com/CLMerlo/status/1414338709688922116/photo/1",
+                    "type": "photo",
+                    "sizes": {
+                        "small": {
+                            "w": 580,
+                            "h": 330,
+                            "resize": "fit"
+                        },
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "large": {
+                            "w": 580,
+                            "h": 330,
+                            "resize": "fit"
+                        },
+                        "medium": {
+                            "w": 580,
+                            "h": 330,
+                            "resize": "fit"
+                        }
+                    }
+                }
+            ]
+        },
+        "metadata": {
+            "iso_language_code": "es",
+            "result_type": "recent"
+        },
+        "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 150263990,
+            "id_str": "150263990",
+            "name": "C\u00e9sar Luis Merlo",
+            "screen_name": "CLMerlo",
+            "location": "Ciudad Aut\u00f3noma de Buenos Aire",
+            "description": "Noticias y mercado de pases. @tycsports, @superdeportivo\ud83c\uddf2\ud83c\uddfd, @encanchacl\ud83c\udde8\ud83c\uddf1 @periodismoipr. Tweets a t\u00edtulo personal Instagram: @Clmerlo5. Suscribite\u2b07\ufe0f",
+            "url": "https://t.co/QfZrJ2ZJUQ",
+            "entities": {
+                "url": {
+                    "urls": [
+                        {
+                            "url": "https://t.co/QfZrJ2ZJUQ",
+                            "expanded_url": "https://youtube.com/channel/UCmS6DQ2sZ__KHaAmZpJCwZw",
+                            "display_url": "youtube.com/channel/UCmS6D\u2026",
+                            "indices": [
+                                0,
+                                23
+                            ]
+                        }
+                    ]
+                },
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 105292,
+            "friends_count": 369,
+            "listed_count": 530,
+            "created_at": "Mon May 31 14:02:46 +0000 2010",
+            "favourites_count": 1076,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": true,
+            "verified": true,
+            "statuses_count": 27752,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "9AE4E8",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": true,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1404797101322682379/-wqBgyTk_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1404797101322682379/-wqBgyTk_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/150263990/1603577407",
+            "profile_link_color": "0000FF",
+            "profile_sidebar_border_color": "87BC44",
+            "profile_sidebar_fill_color": "E0FF92",
+            "profile_text_color": "000000",
+            "profile_use_background_image": true,
+            "has_extended_profile": true,
+            "default_profile": false,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none",
+            "withheld_in_countries": []
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 50,
+        "favorite_count": 212,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "es"
+    },
+    "is_quote_status": false,
+    "retweet_count": 50,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "es"
+}

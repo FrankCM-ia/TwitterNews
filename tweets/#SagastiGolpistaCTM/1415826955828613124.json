@@ -1,0 +1,198 @@
+{
+    "created_at": "Fri Jul 16 00:13:45 +0000 2021",
+    "id": 1415826955828613124,
+    "id_str": "1415826955828613124",
+    "full_text": "RT @Jessievel: La fiscal\u00eda ante investigaci\u00f3n por las protestas de ayer. A cu\u00e1ntos investigaron por las violentas marchas de noviembre?\nEst\u2026",
+    "truncated": false,
+    "display_text_range": [
+        0,
+        140
+    ],
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "Jessievel",
+                "name": "Jessie \ud83c\uddf5\ud83c\uddea",
+                "id": 205835612,
+                "id_str": "205835612",
+                "indices": [
+                    3,
+                    13
+                ]
+            }
+        ],
+        "urls": []
+    },
+    "metadata": {
+        "iso_language_code": "es",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 603737452,
+        "id_str": "603737452",
+        "name": "JUSTICIA Y LEALTAD",
+        "screen_name": "roger55184834",
+        "location": "PIURA",
+        "description": "Constante Luchador contra las injusticias y corrupci\u00f3n",
+        "url": null,
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 706,
+        "friends_count": 5006,
+        "listed_count": 1,
+        "created_at": "Sat Jun 09 16:27:09 +0000 2012",
+        "favourites_count": 24804,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 36165,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1414378357224001539/JhYnYXBw_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1414378357224001539/JhYnYXBw_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/603737452/1621865972",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": true,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+        "created_at": "Thu Jul 15 23:40:56 +0000 2021",
+        "id": 1415818696048664577,
+        "id_str": "1415818696048664577",
+        "full_text": "La fiscal\u00eda ante investigaci\u00f3n por las protestas de ayer. A cu\u00e1ntos investigaron por las violentas marchas de noviembre?\nEsto es una #DictaduraCaviar\n#SagastiGolpistaCTM",
+        "truncated": false,
+        "display_text_range": [
+            0,
+            169
+        ],
+        "entities": {
+            "hashtags": [
+                {
+                    "text": "DictaduraCaviar",
+                    "indices": [
+                        133,
+                        149
+                    ]
+                },
+                {
+                    "text": "SagastiGolpistaCTM",
+                    "indices": [
+                        150,
+                        169
+                    ]
+                }
+            ],
+            "symbols": [],
+            "user_mentions": [],
+            "urls": []
+        },
+        "metadata": {
+            "iso_language_code": "es",
+            "result_type": "recent"
+        },
+        "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 205835612,
+            "id_str": "205835612",
+            "name": "Jessie \ud83c\uddf5\ud83c\uddea",
+            "screen_name": "Jessievel",
+            "location": "Santiago de Surco, Peru",
+            "description": "Mujer con ideas propias.",
+            "url": null,
+            "entities": {
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 4011,
+            "friends_count": 1033,
+            "listed_count": 4,
+            "created_at": "Thu Oct 21 18:15:22 +0000 2010",
+            "favourites_count": 79064,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": true,
+            "verified": false,
+            "statuses_count": 54570,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "C0DEED",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1397585815295995905/e_pAvqsT_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1397585815295995905/e_pAvqsT_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/205835612/1619882421",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "has_extended_profile": true,
+            "default_profile": true,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none",
+            "withheld_in_countries": []
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 19,
+        "favorite_count": 46,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "es"
+    },
+    "is_quote_status": false,
+    "retweet_count": 19,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "es"
+}

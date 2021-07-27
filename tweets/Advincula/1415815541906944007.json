@@ -1,0 +1,297 @@
+{
+    "created_at": "Thu Jul 15 23:28:24 +0000 2021",
+    "id": 1415815541906944007,
+    "id_str": "1415815541906944007",
+    "full_text": "RT @kzdesigns_: Tambi\u00e9n dicen que Advincula firma por 2,6 millones. Hasta que no los vea no creo nada(?",
+    "truncated": false,
+    "display_text_range": [
+        0,
+        103
+    ],
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "kzdesigns_",
+                "name": "KZ Designs",
+                "id": 1217106292671746049,
+                "id_str": "1217106292671746049",
+                "indices": [
+                    3,
+                    14
+                ]
+            }
+        ],
+        "urls": []
+    },
+    "metadata": {
+        "iso_language_code": "es",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 1398695500765872130,
+        "id_str": "1398695500765872130",
+        "name": "Boca de mi vida",
+        "screen_name": "ProscriptoCABJ",
+        "location": "La Plata, Argentina",
+        "description": "Ex @espiritubostero @thisisboca1289 @bokenotdead. La cuarta es la vencida. Periodista Deportivo. Hincha de Boca, vago y atorrante. Un can\u00edbal de mi estilo",
+        "url": null,
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 644,
+        "friends_count": 635,
+        "listed_count": 0,
+        "created_at": "Sat May 29 17:39:45 +0000 2021",
+        "favourites_count": 5580,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 3658,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": null,
+        "profile_background_image_url_https": null,
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1398719005423292420/HJBjHDdt_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1398719005423292420/HJBjHDdt_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1398695500765872130/1622582468",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": true,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+        "created_at": "Thu Jul 15 23:22:10 +0000 2021",
+        "id": 1415813973014888449,
+        "id_str": "1415813973014888449",
+        "full_text": "Tambi\u00e9n dicen que Advincula firma por 2,6 millones. Hasta que no los vea no creo nada(? https://t.co/uWCdREGZSH",
+        "truncated": false,
+        "display_text_range": [
+            0,
+            87
+        ],
+        "entities": {
+            "hashtags": [],
+            "symbols": [],
+            "user_mentions": [],
+            "urls": [
+                {
+                    "url": "https://t.co/uWCdREGZSH",
+                    "expanded_url": "https://twitter.com/ProscriptoCABJ/status/1415812413585305602",
+                    "display_url": "twitter.com/ProscriptoCABJ\u2026",
+                    "indices": [
+                        88,
+                        111
+                    ]
+                }
+            ]
+        },
+        "metadata": {
+            "iso_language_code": "es",
+            "result_type": "recent"
+        },
+        "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 1217106292671746049,
+            "id_str": "1217106292671746049",
+            "name": "KZ Designs",
+            "screen_name": "kzdesigns_",
+            "location": "Brandsen 805 \u2693",
+            "description": "\u2022 Dise\u00f1o Gr\u00e1fico como hobby. \ud83c\udde6\ud83c\uddf7\n\u2022 Hincha de Boca y de Rom\u00e1n, en ese orden.\n\u2022 Contenido basado en el Club Boca Jrs. \ud83c\uddf8\ud83c\uddea\n\u2022 Ig kzdesigns_",
+            "url": "https://t.co/sLuQhas6aA",
+            "entities": {
+                "url": {
+                    "urls": [
+                        {
+                            "url": "https://t.co/sLuQhas6aA",
+                            "expanded_url": "https://www.behance.net/kzdesigns_",
+                            "display_url": "behance.net/kzdesigns_",
+                            "indices": [
+                                0,
+                                23
+                            ]
+                        }
+                    ]
+                },
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 1238,
+            "friends_count": 586,
+            "listed_count": 0,
+            "created_at": "Tue Jan 14 15:29:09 +0000 2020",
+            "favourites_count": 26575,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": false,
+            "verified": false,
+            "statuses_count": 3502,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "F5F8FA",
+            "profile_background_image_url": null,
+            "profile_background_image_url_https": null,
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1414101833837076480/KoMd1Ov3_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1414101833837076480/KoMd1Ov3_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/1217106292671746049/1619231498",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "has_extended_profile": true,
+            "default_profile": true,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none",
+            "withheld_in_countries": []
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": true,
+        "quoted_status_id": 1415812413585305602,
+        "quoted_status_id_str": "1415812413585305602",
+        "quoted_status": {
+            "created_at": "Thu Jul 15 23:15:58 +0000 2021",
+            "id": 1415812413585305602,
+            "id_str": "1415812413585305602",
+            "full_text": "Bueno ahora me dicen que llega la semana que viene. Que acepto oferta y tope.... hasta que no lo vea firmando",
+            "truncated": false,
+            "display_text_range": [
+                0,
+                109
+            ],
+            "entities": {
+                "hashtags": [],
+                "symbols": [],
+                "user_mentions": [],
+                "urls": []
+            },
+            "metadata": {
+                "iso_language_code": "es",
+                "result_type": "recent"
+            },
+            "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+            "in_reply_to_status_id": null,
+            "in_reply_to_status_id_str": null,
+            "in_reply_to_user_id": null,
+            "in_reply_to_user_id_str": null,
+            "in_reply_to_screen_name": null,
+            "user": {
+                "id": 1398695500765872130,
+                "id_str": "1398695500765872130",
+                "name": "Boca de mi vida",
+                "screen_name": "ProscriptoCABJ",
+                "location": "La Plata, Argentina",
+                "description": "Ex @espiritubostero @thisisboca1289 @bokenotdead. La cuarta es la vencida. Periodista Deportivo. Hincha de Boca, vago y atorrante. Un can\u00edbal de mi estilo",
+                "url": null,
+                "entities": {
+                    "description": {
+                        "urls": []
+                    }
+                },
+                "protected": false,
+                "followers_count": 644,
+                "friends_count": 635,
+                "listed_count": 0,
+                "created_at": "Sat May 29 17:39:45 +0000 2021",
+                "favourites_count": 5580,
+                "utc_offset": null,
+                "time_zone": null,
+                "geo_enabled": false,
+                "verified": false,
+                "statuses_count": 3658,
+                "lang": null,
+                "contributors_enabled": false,
+                "is_translator": false,
+                "is_translation_enabled": false,
+                "profile_background_color": "F5F8FA",
+                "profile_background_image_url": null,
+                "profile_background_image_url_https": null,
+                "profile_background_tile": false,
+                "profile_image_url": "http://pbs.twimg.com/profile_images/1398719005423292420/HJBjHDdt_normal.jpg",
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/1398719005423292420/HJBjHDdt_normal.jpg",
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/1398695500765872130/1622582468",
+                "profile_link_color": "1DA1F2",
+                "profile_sidebar_border_color": "C0DEED",
+                "profile_sidebar_fill_color": "DDEEF6",
+                "profile_text_color": "333333",
+                "profile_use_background_image": true,
+                "has_extended_profile": true,
+                "default_profile": true,
+                "default_profile_image": false,
+                "following": false,
+                "follow_request_sent": false,
+                "notifications": false,
+                "translator_type": "none",
+                "withheld_in_countries": []
+            },
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "contributors": null,
+            "is_quote_status": false,
+            "retweet_count": 4,
+            "favorite_count": 76,
+            "favorited": false,
+            "retweeted": false,
+            "lang": "es"
+        },
+        "retweet_count": 1,
+        "favorite_count": 6,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "es"
+    },
+    "is_quote_status": true,
+    "quoted_status_id": 1415812413585305602,
+    "quoted_status_id_str": "1415812413585305602",
+    "retweet_count": 1,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "es"
+}

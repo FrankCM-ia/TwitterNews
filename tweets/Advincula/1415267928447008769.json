@@ -1,0 +1,296 @@
+{
+    "created_at": "Wed Jul 14 11:12:23 +0000 2021",
+    "id": 1415267928447008769,
+    "id_str": "1415267928447008769",
+    "full_text": "RT @CarlosGangaG: \u26a1\ufe0f Iv\u00e1n Balliu, nuevo jugador del @RayoVallecano \n\n\u27a1\ufe0f Llega libre del Almer\u00eda, donde ha sido titular las dos \u00faltimas temp\u2026",
+    "truncated": false,
+    "display_text_range": [
+        0,
+        140
+    ],
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "CarlosGangaG",
+                "name": "Carlos Ganga",
+                "id": 242320289,
+                "id_str": "242320289",
+                "indices": [
+                    3,
+                    16
+                ]
+            },
+            {
+                "screen_name": "RayoVallecano",
+                "name": "Rayo Vallecano",
+                "id": 498012129,
+                "id_str": "498012129",
+                "indices": [
+                    52,
+                    66
+                ]
+            }
+        ],
+        "urls": []
+    },
+    "metadata": {
+        "iso_language_code": "es",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 1629994633,
+        "id_str": "1629994633",
+        "name": "Dani ADRV",
+        "screen_name": "Dani_ADRV96",
+        "location": "Castilla ",
+        "description": "T\u00e9cnico superior de Gesti\u00f3n Forestal y del Medio natural, T\u00e9cnico superior de Ganader\u00eda y Asistencia en Sanidad Animal. Amante del f\u00fatbol ~Rayo vallecano~ADRV.",
+        "url": null,
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 818,
+        "friends_count": 970,
+        "listed_count": 3,
+        "created_at": "Mon Jul 29 09:41:35 +0000 2013",
+        "favourites_count": 16789,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 20344,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "131516",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+        "profile_background_tile": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1415494350365200385/YGcnl8I1_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1415494350365200385/YGcnl8I1_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1629994633/1568035670",
+        "profile_link_color": "0CF02E",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": true,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+        "created_at": "Wed Jul 14 07:57:25 +0000 2021",
+        "id": 1415218864221302786,
+        "id_str": "1415218864221302786",
+        "full_text": "\u26a1\ufe0f Iv\u00e1n Balliu, nuevo jugador del @RayoVallecano \n\n\u27a1\ufe0f Llega libre del Almer\u00eda, donde ha sido titular las dos \u00faltimas temporadas\n\n\ud83e\udd1d Firma dos a\u00f1os y competir\u00e1 el puesto de lateral derecho con Mario Hern\u00e1ndez\n\n\ud83d\udcb0 Adv\u00edncula... \u23f3 https://t.co/8MC0zh3zA2",
+        "truncated": false,
+        "display_text_range": [
+            0,
+            224
+        ],
+        "entities": {
+            "hashtags": [],
+            "symbols": [],
+            "user_mentions": [
+                {
+                    "screen_name": "RayoVallecano",
+                    "name": "Rayo Vallecano",
+                    "id": 498012129,
+                    "id_str": "498012129",
+                    "indices": [
+                        34,
+                        48
+                    ]
+                }
+            ],
+            "urls": [],
+            "media": [
+                {
+                    "id": 1415218303673458688,
+                    "id_str": "1415218303673458688",
+                    "indices": [
+                        225,
+                        248
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/E6PdjI4WYAAbLWr.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/E6PdjI4WYAAbLWr.jpg",
+                    "url": "https://t.co/8MC0zh3zA2",
+                    "display_url": "pic.twitter.com/8MC0zh3zA2",
+                    "expanded_url": "https://twitter.com/CarlosGangaG/status/1415218864221302786/photo/1",
+                    "type": "photo",
+                    "sizes": {
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "large": {
+                            "w": 1200,
+                            "h": 797,
+                            "resize": "fit"
+                        },
+                        "medium": {
+                            "w": 1200,
+                            "h": 797,
+                            "resize": "fit"
+                        },
+                        "small": {
+                            "w": 680,
+                            "h": 452,
+                            "resize": "fit"
+                        }
+                    }
+                }
+            ]
+        },
+        "extended_entities": {
+            "media": [
+                {
+                    "id": 1415218303673458688,
+                    "id_str": "1415218303673458688",
+                    "indices": [
+                        225,
+                        248
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/E6PdjI4WYAAbLWr.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/E6PdjI4WYAAbLWr.jpg",
+                    "url": "https://t.co/8MC0zh3zA2",
+                    "display_url": "pic.twitter.com/8MC0zh3zA2",
+                    "expanded_url": "https://twitter.com/CarlosGangaG/status/1415218864221302786/photo/1",
+                    "type": "photo",
+                    "sizes": {
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "large": {
+                            "w": 1200,
+                            "h": 797,
+                            "resize": "fit"
+                        },
+                        "medium": {
+                            "w": 1200,
+                            "h": 797,
+                            "resize": "fit"
+                        },
+                        "small": {
+                            "w": 680,
+                            "h": 452,
+                            "resize": "fit"
+                        }
+                    }
+                }
+            ]
+        },
+        "metadata": {
+            "iso_language_code": "es",
+            "result_type": "recent"
+        },
+        "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 242320289,
+            "id_str": "242320289",
+            "name": "Carlos Ganga",
+            "screen_name": "CarlosGangaG",
+            "location": "Elda/Madrid",
+            "description": "Periodista \ud83d\udcfb @RayoVallecano en @tjcope @partidazocope @deportescope \ud83c\udf99 Deportes en @HerreraEnCOPE \u27a1\ufe0f Ex DirCom @CD_Eldense",
+            "url": "https://t.co/GE8WJlbBOJ",
+            "entities": {
+                "url": {
+                    "urls": [
+                        {
+                            "url": "https://t.co/GE8WJlbBOJ",
+                            "expanded_url": "https://www.instagram.com/carlosgangag/?hl=es",
+                            "display_url": "instagram.com/carlosgangag/?\u2026",
+                            "indices": [
+                                0,
+                                23
+                            ]
+                        }
+                    ]
+                },
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 2156,
+            "friends_count": 489,
+            "listed_count": 24,
+            "created_at": "Mon Jan 24 14:15:20 +0000 2011",
+            "favourites_count": 4787,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": true,
+            "verified": false,
+            "statuses_count": 22538,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "C0DEED",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1080721174689128449/lxdKovl7_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1080721174689128449/lxdKovl7_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/242320289/1529434418",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "has_extended_profile": true,
+            "default_profile": true,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none",
+            "withheld_in_countries": []
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 5,
+        "favorite_count": 20,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "es"
+    },
+    "is_quote_status": false,
+    "retweet_count": 5,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "es"
+}

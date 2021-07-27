@@ -1,0 +1,150 @@
+{
+    "created_at": "Thu Jul 15 03:08:32 +0000 2021",
+    "id": 1415508552098123776,
+    "id_str": "1415508552098123776",
+    "full_text": "@ElFlacoCiruja90 @RomanRubin3 @benitez_leo @rodalvaz tiene raz\u00f3n con lo del compromiso, pero tambi\u00e9n no era dif\u00edcil traer a un \u00c1valos por ejemplo que estuvo muy bien en Argentinos la primer fase de la copa. Lo \u00fanico que puede arreglar esto es que traigan a Borja, a Adv\u00edncula y que se arregle todo con licha Lopez",
+    "truncated": false,
+    "display_text_range": [
+        53,
+        313
+    ],
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "ElFlacoCiruja90",
+                "name": "jose maria",
+                "id": 492801504,
+                "id_str": "492801504",
+                "indices": [
+                    0,
+                    16
+                ]
+            },
+            {
+                "screen_name": "RomanRubin3",
+                "name": "Roman Rubin",
+                "id": 1401652717207142401,
+                "id_str": "1401652717207142401",
+                "indices": [
+                    17,
+                    29
+                ]
+            },
+            {
+                "screen_name": "benitez_leo",
+                "name": "\u26bd Leo Ben\u00edtez \ud83c\udfc6 La Maquina de Inf\u26bdrmar \ud83c\udfc6",
+                "id": 357292533,
+                "id_str": "357292533",
+                "indices": [
+                    30,
+                    42
+                ]
+            },
+            {
+                "screen_name": "rodalvaz",
+                "name": "Roberto Alvarez",
+                "id": 151695218,
+                "id_str": "151695218",
+                "indices": [
+                    43,
+                    52
+                ]
+            }
+        ],
+        "urls": []
+    },
+    "metadata": {
+        "iso_language_code": "es",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "in_reply_to_status_id": 1415503242117713924,
+    "in_reply_to_status_id_str": "1415503242117713924",
+    "in_reply_to_user_id": 492801504,
+    "in_reply_to_user_id_str": "492801504",
+    "in_reply_to_screen_name": "ElFlacoCiruja90",
+    "user": {
+        "id": 1171925406821343238,
+        "id_str": "1171925406821343238",
+        "name": "Cristopher Martinez \ud83e\udd89",
+        "screen_name": "discovulture",
+        "location": "Capital Federal, Buenos Aires",
+        "description": "Creador de https://t.co/WIb1bu0Nqh\nA veces me acuerdo de @enelcine_ar\n\njakajj c\u00f3mo me va a gustar el anime?",
+        "url": "https://t.co/CnlZwz0tda",
+        "entities": {
+            "url": {
+                "urls": [
+                    {
+                        "url": "https://t.co/CnlZwz0tda",
+                        "expanded_url": "http://instagram.com/discovulture",
+                        "display_url": "instagram.com/discovulture",
+                        "indices": [
+                            0,
+                            23
+                        ]
+                    }
+                ]
+            },
+            "description": {
+                "urls": [
+                    {
+                        "url": "https://t.co/WIb1bu0Nqh",
+                        "expanded_url": "http://instagram.com/rw.rewired/",
+                        "display_url": "instagram.com/rw.rewired/",
+                        "indices": [
+                            11,
+                            34
+                        ]
+                    }
+                ]
+            }
+        },
+        "protected": false,
+        "followers_count": 181,
+        "friends_count": 110,
+        "listed_count": 0,
+        "created_at": "Wed Sep 11 23:16:14 +0000 2019",
+        "favourites_count": 10166,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 1301,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": null,
+        "profile_background_image_url_https": null,
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1238842646937907200/9yKDy1LB_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1238842646937907200/9yKDy1LB_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1171925406821343238/1568250866",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": true,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "es"
+}

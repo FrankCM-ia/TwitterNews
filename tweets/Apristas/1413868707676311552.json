@@ -1,0 +1,315 @@
+{
+    "created_at": "Sat Jul 10 14:32:22 +0000 2021",
+    "id": 1413868707676311552,
+    "id_str": "1413868707676311552",
+    "full_text": "RT @KikeBravoPrado: .@LUMoficial manejado por caviares, impide proyecci\u00f3n de pel\u00edcula 1214 sobre Apristas M\u00e1rtires \nEst\u00e1 claro que este \"lu\u2026",
+    "truncated": false,
+    "display_text_range": [
+        0,
+        140
+    ],
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "KikeBravoPrado",
+                "name": "Kike Bravo Prado\ud83c\uddf5\ud83c\uddea",
+                "id": 55704833,
+                "id_str": "55704833",
+                "indices": [
+                    3,
+                    18
+                ]
+            },
+            {
+                "screen_name": "LUMoficial",
+                "name": "Lugar de la Memoria \ud83c\uddf5\ud83c\uddea",
+                "id": 950480466,
+                "id_str": "950480466",
+                "indices": [
+                    21,
+                    32
+                ]
+            }
+        ],
+        "urls": []
+    },
+    "metadata": {
+        "iso_language_code": "es",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 293017122,
+        "id_str": "293017122",
+        "name": "gladys del Mar",
+        "screen_name": "delmardel",
+        "location": "",
+        "description": "",
+        "url": null,
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 452,
+        "friends_count": 511,
+        "listed_count": 0,
+        "created_at": "Wed May 04 16:30:56 +0000 2011",
+        "favourites_count": 200630,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 164401,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1394855303070560258/Gydsm8KR_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1394855303070560258/Gydsm8KR_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+        "created_at": "Sat Jul 10 01:28:11 +0000 2021",
+        "id": 1413671358744121346,
+        "id_str": "1413671358744121346",
+        "full_text": ".@LUMoficial manejado por caviares, impide proyecci\u00f3n de pel\u00edcula 1214 sobre Apristas M\u00e1rtires \nEst\u00e1 claro que este \"lugar\" responde a ideolog\u00eda imperante en \u00faltimos 10 a\u00f1os\n\u00bfQu\u00e9 opinan los apristas sobre el LUM?\n\u00bfGarc\u00eda no gestion\u00f3 el terreno donde ahora yacen?\n@gonzalesposadal https://t.co/RK5tFgzauQ",
+        "truncated": false,
+        "display_text_range": [
+            0,
+            279
+        ],
+        "entities": {
+            "hashtags": [],
+            "symbols": [],
+            "user_mentions": [
+                {
+                    "screen_name": "LUMoficial",
+                    "name": "Lugar de la Memoria \ud83c\uddf5\ud83c\uddea",
+                    "id": 950480466,
+                    "id_str": "950480466",
+                    "indices": [
+                        1,
+                        12
+                    ]
+                },
+                {
+                    "screen_name": "gonzalesposadal",
+                    "name": "Luis Gonzales Posada",
+                    "id": 730567425930862593,
+                    "id_str": "730567425930862593",
+                    "indices": [
+                        263,
+                        279
+                    ]
+                }
+            ],
+            "urls": [],
+            "media": [
+                {
+                    "id": 1413669887185231874,
+                    "id_str": "1413669887185231874",
+                    "indices": [
+                        280,
+                        303
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/E55dRb9XoAIPYMH.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/E55dRb9XoAIPYMH.jpg",
+                    "url": "https://t.co/RK5tFgzauQ",
+                    "display_url": "pic.twitter.com/RK5tFgzauQ",
+                    "expanded_url": "https://twitter.com/KikeBravoPrado/status/1413671358744121346/photo/1",
+                    "type": "photo",
+                    "sizes": {
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "large": {
+                            "w": 950,
+                            "h": 1280,
+                            "resize": "fit"
+                        },
+                        "small": {
+                            "w": 505,
+                            "h": 680,
+                            "resize": "fit"
+                        },
+                        "medium": {
+                            "w": 891,
+                            "h": 1200,
+                            "resize": "fit"
+                        }
+                    }
+                }
+            ]
+        },
+        "extended_entities": {
+            "media": [
+                {
+                    "id": 1413669887185231874,
+                    "id_str": "1413669887185231874",
+                    "indices": [
+                        280,
+                        303
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/E55dRb9XoAIPYMH.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/E55dRb9XoAIPYMH.jpg",
+                    "url": "https://t.co/RK5tFgzauQ",
+                    "display_url": "pic.twitter.com/RK5tFgzauQ",
+                    "expanded_url": "https://twitter.com/KikeBravoPrado/status/1413671358744121346/photo/1",
+                    "type": "photo",
+                    "sizes": {
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "large": {
+                            "w": 950,
+                            "h": 1280,
+                            "resize": "fit"
+                        },
+                        "small": {
+                            "w": 505,
+                            "h": 680,
+                            "resize": "fit"
+                        },
+                        "medium": {
+                            "w": 891,
+                            "h": 1200,
+                            "resize": "fit"
+                        }
+                    }
+                }
+            ]
+        },
+        "metadata": {
+            "iso_language_code": "es",
+            "result_type": "recent"
+        },
+        "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 55704833,
+            "id_str": "55704833",
+            "name": "Kike Bravo Prado\ud83c\uddf5\ud83c\uddea",
+            "screen_name": "KikeBravoPrado",
+            "location": "Lima-Per\u00fa",
+            "description": "Periodista. \"Maestra Vida\" Te da y te quita, te quita y te da.\nSigue el Programa en mi blog https://t.co/KLWSha6Gv7",
+            "url": "https://t.co/QUQTeQlJRo",
+            "entities": {
+                "url": {
+                    "urls": [
+                        {
+                            "url": "https://t.co/QUQTeQlJRo",
+                            "expanded_url": "http://www.kikebravo.blogspot.com",
+                            "display_url": "kikebravo.blogspot.com",
+                            "indices": [
+                                0,
+                                23
+                            ]
+                        }
+                    ]
+                },
+                "description": {
+                    "urls": [
+                        {
+                            "url": "https://t.co/KLWSha6Gv7",
+                            "expanded_url": "http://kikebravo.blogspot.com/",
+                            "display_url": "kikebravo.blogspot.com",
+                            "indices": [
+                                92,
+                                115
+                            ]
+                        }
+                    ]
+                }
+            },
+            "protected": false,
+            "followers_count": 54083,
+            "friends_count": 1732,
+            "listed_count": 104,
+            "created_at": "Sat Jul 11 00:05:59 +0000 2009",
+            "favourites_count": 89173,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": false,
+            "verified": false,
+            "statuses_count": 87891,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "131516",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+            "profile_background_tile": true,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1389989002867052545/oZsuLxM2_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1389989002867052545/oZsuLxM2_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/55704833/1568123858",
+            "profile_link_color": "1B95E0",
+            "profile_sidebar_border_color": "FFFFFF",
+            "profile_sidebar_fill_color": "EFEFEF",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "has_extended_profile": false,
+            "default_profile": false,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none",
+            "withheld_in_countries": []
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 56,
+        "favorite_count": 124,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "es"
+    },
+    "is_quote_status": false,
+    "retweet_count": 56,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "es"
+}

@@ -1,0 +1,127 @@
+{
+    "created_at": "Mon Jul 12 00:40:10 +0000 2021",
+    "id": 1414384049532162062,
+    "id_str": "1414384049532162062",
+    "full_text": "@CamonesCarreno @ocram @DiarioDeCurwen @MartinVizcarraC Mi abuelo siempre me lo dijo, los apristas lo jodieron siempre y al final se aliaron con el para ganarle a Bustamante o Belaunde que era acusado de rojo, creo. El mismo modus de los Fujimoristas actuales de ser de centro izquierda pasaron a nazistas ultraderechistas.",
+    "truncated": false,
+    "display_text_range": [
+        56,
+        323
+    ],
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "CamonesCarreno",
+                "name": "Pedro Carre\u00f1o Camones",
+                "id": 1323620896402276352,
+                "id_str": "1323620896402276352",
+                "indices": [
+                    0,
+                    15
+                ]
+            },
+            {
+                "screen_name": "ocram",
+                "name": "\ud83c\udf49 Marco Sifuentes",
+                "id": 3369151,
+                "id_str": "3369151",
+                "indices": [
+                    16,
+                    22
+                ]
+            },
+            {
+                "screen_name": "DiarioDeCurwen",
+                "name": "Victor Caballero",
+                "id": 3343615180,
+                "id_str": "3343615180",
+                "indices": [
+                    23,
+                    38
+                ]
+            },
+            {
+                "screen_name": "MartinVizcarraC",
+                "name": "Mart\u00edn Vizcarra",
+                "id": 4825296327,
+                "id_str": "4825296327",
+                "indices": [
+                    39,
+                    55
+                ]
+            }
+        ],
+        "urls": []
+    },
+    "metadata": {
+        "iso_language_code": "es",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "in_reply_to_status_id": 1414207992132734979,
+    "in_reply_to_status_id_str": "1414207992132734979",
+    "in_reply_to_user_id": 1323620896402276352,
+    "in_reply_to_user_id_str": "1323620896402276352",
+    "in_reply_to_screen_name": "CamonesCarreno",
+    "user": {
+        "id": 1404870643611488259,
+        "id_str": "1404870643611488259",
+        "name": "Alberti_usa",
+        "screen_name": "AlbertiUsa",
+        "location": "",
+        "description": "\u201cThinking of you keeps me awake. Dreaming of you keeps me asleep. Being with you keeps me alive.\u201d \u2013 Unknown",
+        "url": null,
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 44,
+        "friends_count": 614,
+        "listed_count": 0,
+        "created_at": "Tue Jun 15 18:37:29 +0000 2021",
+        "favourites_count": 1217,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 1684,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": null,
+        "profile_background_image_url_https": null,
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1404870925577818119/sOF447tw_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1404870925577818119/sOF447tw_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1404870643611488259/1623816193",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": true,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "es"
+}

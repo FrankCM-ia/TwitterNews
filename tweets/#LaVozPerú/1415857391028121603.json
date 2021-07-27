@@ -1,0 +1,197 @@
+{
+    "created_at": "Fri Jul 16 02:14:42 +0000 2021",
+    "id": 1415857391028121603,
+    "id_str": "1415857391028121603",
+    "full_text": "Felicitaciones mi hermano @EduAlexander02, q orgullo, eres un triunfador de la vida amigo, un crack!!! \ud83d\udcaa\ud83c\udffc\n#LaVozPeru https://t.co/HF6fYlHaKZ",
+    "truncated": false,
+    "display_text_range": [
+        0,
+        116
+    ],
+    "entities": {
+        "hashtags": [
+            {
+                "text": "LaVozPeru",
+                "indices": [
+                    106,
+                    116
+                ]
+            }
+        ],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "EduAlexander02",
+                "name": "Edu Alexander",
+                "id": 780878678,
+                "id_str": "780878678",
+                "indices": [
+                    26,
+                    41
+                ]
+            }
+        ],
+        "urls": [],
+        "media": [
+            {
+                "id": 1415857388356349953,
+                "id_str": "1415857388356349953",
+                "indices": [
+                    117,
+                    140
+                ],
+                "media_url": "http://pbs.twimg.com/media/E6Yiyw2XsAE-Bk7.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/E6Yiyw2XsAE-Bk7.jpg",
+                "url": "https://t.co/HF6fYlHaKZ",
+                "display_url": "pic.twitter.com/HF6fYlHaKZ",
+                "expanded_url": "https://twitter.com/jhota208/status/1415857391028121603/photo/1",
+                "type": "photo",
+                "sizes": {
+                    "small": {
+                        "w": 680,
+                        "h": 404,
+                        "resize": "fit"
+                    },
+                    "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                    },
+                    "medium": {
+                        "w": 1200,
+                        "h": 712,
+                        "resize": "fit"
+                    },
+                    "large": {
+                        "w": 2048,
+                        "h": 1216,
+                        "resize": "fit"
+                    }
+                }
+            }
+        ]
+    },
+    "extended_entities": {
+        "media": [
+            {
+                "id": 1415857388356349953,
+                "id_str": "1415857388356349953",
+                "indices": [
+                    117,
+                    140
+                ],
+                "media_url": "http://pbs.twimg.com/media/E6Yiyw2XsAE-Bk7.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/E6Yiyw2XsAE-Bk7.jpg",
+                "url": "https://t.co/HF6fYlHaKZ",
+                "display_url": "pic.twitter.com/HF6fYlHaKZ",
+                "expanded_url": "https://twitter.com/jhota208/status/1415857391028121603/photo/1",
+                "type": "photo",
+                "sizes": {
+                    "small": {
+                        "w": 680,
+                        "h": 404,
+                        "resize": "fit"
+                    },
+                    "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                    },
+                    "medium": {
+                        "w": 1200,
+                        "h": 712,
+                        "resize": "fit"
+                    },
+                    "large": {
+                        "w": 2048,
+                        "h": 1216,
+                        "resize": "fit"
+                    }
+                }
+            }
+        ]
+    },
+    "metadata": {
+        "iso_language_code": "es",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 411206892,
+        "id_str": "411206892",
+        "name": "\ud835\udd41\ud835\udd59\ud835\udd60\ud835\udd64\ud835\udd64 \ud835\udd4b",
+        "screen_name": "jhota208",
+        "location": "Perusito",
+        "description": "Comunicador - @ClubALoficial, @FCBarcelona_es y @SeleccionPeru, sin m\u00fasica y sin viajes no hay vida \ud83c\udfb5\ud83c\udf10",
+        "url": "https://t.co/ufV0zJYu6a",
+        "entities": {
+            "url": {
+                "urls": [
+                    {
+                        "url": "https://t.co/ufV0zJYu6a",
+                        "expanded_url": "http://instagram.com/jhoss_tasayco/",
+                        "display_url": "instagram.com/jhoss_tasayco/",
+                        "indices": [
+                            0,
+                            23
+                        ]
+                    }
+                ]
+            },
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 5010,
+        "friends_count": 3367,
+        "listed_count": 8,
+        "created_at": "Sun Nov 13 03:56:45 +0000 2011",
+        "favourites_count": 54771,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 30795,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "1A1B1F",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1376975431115677705/YAyvXaVC_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1376975431115677705/YAyvXaVC_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/411206892/1471781150",
+        "profile_link_color": "2FC2EF",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "profile_use_background_image": true,
+        "has_extended_profile": true,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "regular",
+        "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 6,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "es"
+}

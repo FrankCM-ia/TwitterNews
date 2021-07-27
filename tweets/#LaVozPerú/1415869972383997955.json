@@ -1,0 +1,107 @@
+{
+    "created_at": "Fri Jul 16 03:04:41 +0000 2021",
+    "id": 1415869972383997955,
+    "id_str": "1415869972383997955",
+    "full_text": "No me sorprende que haya ganado Ivan, como coach Daniela no tenia mucho que ense\u00f1arle #LaVozPeru",
+    "truncated": false,
+    "display_text_range": [
+        0,
+        96
+    ],
+    "entities": {
+        "hashtags": [
+            {
+                "text": "LaVozPeru",
+                "indices": [
+                    86,
+                    96
+                ]
+            }
+        ],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+    },
+    "metadata": {
+        "iso_language_code": "es",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 579230142,
+        "id_str": "579230142",
+        "name": "GinoPepino\ud83c\uddf5\ud83c\uddea",
+        "screen_name": "ginopepinowdf",
+        "location": "Lima",
+        "description": "#Friki\ud83d\udd75\ufe0f//#Foodie\ud83c\udf54//#Geek\ud83d\udc7e\nDiviertete conmigo!!! \ud83d\udc47\ud83c\udffb\ud83e\udd13\n\ud83d\udda5\ufe0fSTREAMS L-V (11:00pm)",
+        "url": "https://t.co/K3NhRBBmBk",
+        "entities": {
+            "url": {
+                "urls": [
+                    {
+                        "url": "https://t.co/K3NhRBBmBk",
+                        "expanded_url": "http://www.twitch.com/ginopepinowdf",
+                        "display_url": "twitch.com/ginopepinowdf",
+                        "indices": [
+                            0,
+                            23
+                        ]
+                    }
+                ]
+            },
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 606,
+        "friends_count": 157,
+        "listed_count": 7,
+        "created_at": "Sun May 13 17:50:22 +0000 2012",
+        "favourites_count": 20515,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 26220,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": true,
+        "profile_background_color": "709397",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme13/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme13/bg.gif",
+        "profile_background_tile": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1409667493648605190/2o1D3Ckh_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1409667493648605190/2o1D3Ckh_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/579230142/1624926014",
+        "profile_link_color": "E81C4F",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "FFFFFF",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": true,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 1,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "es"
+}

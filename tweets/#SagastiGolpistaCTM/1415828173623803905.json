@@ -1,0 +1,292 @@
+{
+    "created_at": "Fri Jul 16 00:18:36 +0000 2021",
+    "id": 1415828173623803905,
+    "id_str": "1415828173623803905",
+    "full_text": "@noticiAmerica Se\u00f1or encargado de la presidencia @FSagasti y se\u00f1ora Zoraida \u00c1valos @FiscaliaPeru, mire la canci\u00f3n que le dedicaron sus ministros \ud83e\udd23\ud83e\udd23\ud83e\udd23\n#SagastiGolpistaCTM https://t.co/UQ8iwURWup",
+    "truncated": false,
+    "display_text_range": [
+        15,
+        192
+    ],
+    "entities": {
+        "hashtags": [
+            {
+                "text": "SagastiGolpistaCTM",
+                "indices": [
+                    149,
+                    168
+                ]
+            }
+        ],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "noticiAmerica",
+                "name": "Am\u00e9rica Noticias",
+                "id": 65549291,
+                "id_str": "65549291",
+                "indices": [
+                    0,
+                    14
+                ]
+            },
+            {
+                "screen_name": "FSagasti",
+                "name": "Francisco Sagasti",
+                "id": 472996281,
+                "id_str": "472996281",
+                "indices": [
+                    49,
+                    58
+                ]
+            },
+            {
+                "screen_name": "FiscaliaPeru",
+                "name": "Ministerio P\u00fablico",
+                "id": 302151609,
+                "id_str": "302151609",
+                "indices": [
+                    83,
+                    96
+                ]
+            }
+        ],
+        "urls": [],
+        "media": [
+            {
+                "id": 1415823963041718274,
+                "id_str": "1415823963041718274",
+                "indices": [
+                    169,
+                    192
+                ],
+                "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1415823963041718274/pu/img/EVGKhJfniZlg2IB4.jpg",
+                "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1415823963041718274/pu/img/EVGKhJfniZlg2IB4.jpg",
+                "url": "https://t.co/UQ8iwURWup",
+                "display_url": "pic.twitter.com/UQ8iwURWup",
+                "expanded_url": "https://twitter.com/CazadorLagartos/status/1415824332685778946/video/1",
+                "type": "photo",
+                "sizes": {
+                    "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                    },
+                    "medium": {
+                        "w": 854,
+                        "h": 480,
+                        "resize": "fit"
+                    },
+                    "large": {
+                        "w": 854,
+                        "h": 480,
+                        "resize": "fit"
+                    },
+                    "small": {
+                        "w": 680,
+                        "h": 382,
+                        "resize": "fit"
+                    }
+                },
+                "source_status_id": 1415824332685778946,
+                "source_status_id_str": "1415824332685778946",
+                "source_user_id": 1365321920086949889,
+                "source_user_id_str": "1365321920086949889"
+            }
+        ]
+    },
+    "extended_entities": {
+        "media": [
+            {
+                "id": 1415823963041718274,
+                "id_str": "1415823963041718274",
+                "indices": [
+                    169,
+                    192
+                ],
+                "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1415823963041718274/pu/img/EVGKhJfniZlg2IB4.jpg",
+                "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1415823963041718274/pu/img/EVGKhJfniZlg2IB4.jpg",
+                "url": "https://t.co/UQ8iwURWup",
+                "display_url": "pic.twitter.com/UQ8iwURWup",
+                "expanded_url": "https://twitter.com/CazadorLagartos/status/1415824332685778946/video/1",
+                "type": "video",
+                "sizes": {
+                    "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                    },
+                    "medium": {
+                        "w": 854,
+                        "h": 480,
+                        "resize": "fit"
+                    },
+                    "large": {
+                        "w": 854,
+                        "h": 480,
+                        "resize": "fit"
+                    },
+                    "small": {
+                        "w": 680,
+                        "h": 382,
+                        "resize": "fit"
+                    }
+                },
+                "source_status_id": 1415824332685778946,
+                "source_status_id_str": "1415824332685778946",
+                "source_user_id": 1365321920086949889,
+                "source_user_id_str": "1365321920086949889",
+                "video_info": {
+                    "aspect_ratio": [
+                        427,
+                        240
+                    ],
+                    "duration_millis": 60033,
+                    "variants": [
+                        {
+                            "content_type": "application/x-mpegURL",
+                            "url": "https://video.twimg.com/ext_tw_video/1415823963041718274/pu/pl/qnuEj2KjOkrIolWf.m3u8?tag=12&container=fmp4"
+                        },
+                        {
+                            "bitrate": 832000,
+                            "content_type": "video/mp4",
+                            "url": "https://video.twimg.com/ext_tw_video/1415823963041718274/pu/vid/640x360/AuBPocssyVOgia81.mp4?tag=12"
+                        },
+                        {
+                            "bitrate": 2176000,
+                            "content_type": "video/mp4",
+                            "url": "https://video.twimg.com/ext_tw_video/1415823963041718274/pu/vid/854x480/bIRHH5SJXAbNaBVI.mp4?tag=12"
+                        },
+                        {
+                            "bitrate": 256000,
+                            "content_type": "video/mp4",
+                            "url": "https://video.twimg.com/ext_tw_video/1415823963041718274/pu/vid/480x270/vNenXDVdhQVICSnK.mp4?tag=12"
+                        }
+                    ]
+                },
+                "additional_media_info": {
+                    "monetizable": false,
+                    "source_user": {
+                        "id": 1365321920086949889,
+                        "id_str": "1365321920086949889",
+                        "name": "DERECHA DERECHA",
+                        "screen_name": "CazadorLagartos",
+                        "location": "Peruzuela",
+                        "description": "ANTI CAVIAR / ANTI COMUNISTA",
+                        "url": null,
+                        "entities": {
+                            "description": {
+                                "urls": []
+                            }
+                        },
+                        "protected": false,
+                        "followers_count": 16,
+                        "friends_count": 204,
+                        "listed_count": 0,
+                        "created_at": "Fri Feb 26 15:24:57 +0000 2021",
+                        "favourites_count": 1557,
+                        "utc_offset": null,
+                        "time_zone": null,
+                        "geo_enabled": false,
+                        "verified": false,
+                        "statuses_count": 2960,
+                        "lang": null,
+                        "contributors_enabled": false,
+                        "is_translator": false,
+                        "is_translation_enabled": false,
+                        "profile_background_color": "F5F8FA",
+                        "profile_background_image_url": null,
+                        "profile_background_image_url_https": null,
+                        "profile_background_tile": false,
+                        "profile_image_url": "http://pbs.twimg.com/profile_images/1406047372044607488/5F1QNdQo_normal.jpg",
+                        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1406047372044607488/5F1QNdQo_normal.jpg",
+                        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1365321920086949889/1624062790",
+                        "profile_link_color": "1DA1F2",
+                        "profile_sidebar_border_color": "C0DEED",
+                        "profile_sidebar_fill_color": "DDEEF6",
+                        "profile_text_color": "333333",
+                        "profile_use_background_image": true,
+                        "has_extended_profile": true,
+                        "default_profile": true,
+                        "default_profile_image": false,
+                        "following": false,
+                        "follow_request_sent": false,
+                        "notifications": false,
+                        "translator_type": "none",
+                        "withheld_in_countries": []
+                    }
+                }
+            }
+        ]
+    },
+    "metadata": {
+        "iso_language_code": "es",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "in_reply_to_status_id": 1415827658726944771,
+    "in_reply_to_status_id_str": "1415827658726944771",
+    "in_reply_to_user_id": 65549291,
+    "in_reply_to_user_id_str": "65549291",
+    "in_reply_to_screen_name": "noticiAmerica",
+    "user": {
+        "id": 1365321920086949889,
+        "id_str": "1365321920086949889",
+        "name": "DERECHA DERECHA",
+        "screen_name": "CazadorLagartos",
+        "location": "Peruzuela",
+        "description": "ANTI CAVIAR / ANTI COMUNISTA",
+        "url": null,
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 16,
+        "friends_count": 204,
+        "listed_count": 0,
+        "created_at": "Fri Feb 26 15:24:57 +0000 2021",
+        "favourites_count": 1557,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 2960,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": null,
+        "profile_background_image_url_https": null,
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1406047372044607488/5F1QNdQo_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1406047372044607488/5F1QNdQo_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1365321920086949889/1624062790",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": true,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 1,
+    "favorite_count": 1,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "es"
+}

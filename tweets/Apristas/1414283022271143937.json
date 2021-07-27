@@ -1,0 +1,96 @@
+{
+    "created_at": "Sun Jul 11 17:58:43 +0000 2021",
+    "id": 1414283022271143937,
+    "id_str": "1414283022271143937",
+    "full_text": "@HRomanoWy en Ica estan en los de 60 y segun me cuenta estan paralizadas, ojo es un lugar de fujis y apristas ojo con los torpedos para sagastegui",
+    "truncated": false,
+    "display_text_range": [
+        11,
+        146
+    ],
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "HRomanoWy",
+                "name": "Hugo Romano",
+                "id": 839618836999598082,
+                "id_str": "839618836999598082",
+                "indices": [
+                    0,
+                    10
+                ]
+            }
+        ],
+        "urls": []
+    },
+    "metadata": {
+        "iso_language_code": "es",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "in_reply_to_status_id": 1414255484698304519,
+    "in_reply_to_status_id_str": "1414255484698304519",
+    "in_reply_to_user_id": 839618836999598082,
+    "in_reply_to_user_id_str": "839618836999598082",
+    "in_reply_to_screen_name": "HRomanoWy",
+    "user": {
+        "id": 1353528111535697924,
+        "id_str": "1353528111535697924",
+        "name": "Walter E Soto",
+        "screen_name": "WalterESoto1",
+        "location": "",
+        "description": "",
+        "url": null,
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 34,
+        "friends_count": 278,
+        "listed_count": 0,
+        "created_at": "Mon Jan 25 02:28:05 +0000 2021",
+        "favourites_count": 1110,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 1281,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": null,
+        "profile_background_image_url_https": null,
+        "profile_background_tile": false,
+        "profile_image_url": "http://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+        "profile_image_url_https": "https://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": true,
+        "default_profile": true,
+        "default_profile_image": true,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 2,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "es"
+}

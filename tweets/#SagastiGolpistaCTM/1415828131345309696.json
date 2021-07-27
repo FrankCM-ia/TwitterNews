@@ -1,0 +1,191 @@
+{
+    "created_at": "Fri Jul 16 00:18:25 +0000 2021",
+    "id": 1415828131345309696,
+    "id_str": "1415828131345309696",
+    "full_text": "RT @victorhponce: A decirlo sin miedo y en voz alta\nSagasti\nEl engargado del despacho presidencial\nEs el mas nefasto de los que pasaron por\u2026",
+    "truncated": false,
+    "display_text_range": [
+        0,
+        140
+    ],
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "victorhponce",
+                "name": "Victor Ponce",
+                "id": 117139906,
+                "id_str": "117139906",
+                "indices": [
+                    3,
+                    16
+                ]
+            }
+        ],
+        "urls": []
+    },
+    "metadata": {
+        "iso_language_code": "es",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 704803444788436994,
+        "id_str": "704803444788436994",
+        "name": "Lenny Ochoa \ud83c\uddf5\ud83c\uddea",
+        "screen_name": "LennyOchoa8",
+        "location": "Peru",
+        "description": "Amo la vida, y digo lo que quiero, si me bloqueas eres un intolerante y si me insultas es que te falta correa,",
+        "url": null,
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 539,
+        "friends_count": 338,
+        "listed_count": 2,
+        "created_at": "Tue Mar 01 23:00:10 +0000 2016",
+        "favourites_count": 22462,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 13967,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1403868578458312705/-Vg3-5HV_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1403868578458312705/-Vg3-5HV_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/704803444788436994/1591207214",
+        "profile_link_color": "981CEB",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "profile_use_background_image": false,
+        "has_extended_profile": true,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+        "created_at": "Thu Jul 15 20:42:40 +0000 2021",
+        "id": 1415773833378865161,
+        "id_str": "1415773833378865161",
+        "full_text": "A decirlo sin miedo y en voz alta\nSagasti\nEl engargado del despacho presidencial\nEs el mas nefasto de los que pasaron por ahi\nIngres\u00f3 por 2 muertos \nDestruy\u00f3 la policia\nEs c\u00f3mplice del mayor fraude de la historia\nQuiere imponer una vacuna que no es efectiva\n#SagastiGolpistaCTM",
+        "truncated": false,
+        "display_text_range": [
+            0,
+            277
+        ],
+        "entities": {
+            "hashtags": [
+                {
+                    "text": "SagastiGolpistaCTM",
+                    "indices": [
+                        258,
+                        277
+                    ]
+                }
+            ],
+            "symbols": [],
+            "user_mentions": [],
+            "urls": []
+        },
+        "metadata": {
+            "iso_language_code": "es",
+            "result_type": "recent"
+        },
+        "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 117139906,
+            "id_str": "117139906",
+            "name": "Victor Ponce",
+            "screen_name": "victorhponce",
+            "location": "Lima- Per\u00fa",
+            "description": "Social Dem\u00f3crata, Cat\u00f3lico, transparente y claro, defiendo la familia y la vida,  siempre con la verdad, anticorrupci\u00f3n, contra la injusticia, contra el abuso",
+            "url": null,
+            "entities": {
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 2730,
+            "friends_count": 2158,
+            "listed_count": 2,
+            "created_at": "Wed Feb 24 17:21:10 +0000 2010",
+            "favourites_count": 177492,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": false,
+            "verified": false,
+            "statuses_count": 93396,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "0099B9",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme4/bg.gif",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme4/bg.gif",
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/822866870/foto_hugo_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/822866870/foto_hugo_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/117139906/1620483834",
+            "profile_link_color": "0099B9",
+            "profile_sidebar_border_color": "5ED4DC",
+            "profile_sidebar_fill_color": "95E8EC",
+            "profile_text_color": "3C3940",
+            "profile_use_background_image": true,
+            "has_extended_profile": true,
+            "default_profile": false,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none",
+            "withheld_in_countries": []
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 107,
+        "favorite_count": 213,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "es"
+    },
+    "is_quote_status": false,
+    "retweet_count": 107,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "es"
+}

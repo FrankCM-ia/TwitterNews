@@ -1,0 +1,118 @@
+{
+    "created_at": "Mon Jul 12 18:00:11 +0000 2021",
+    "id": 1414645780372234241,
+    "id_str": "1414645780372234241",
+    "full_text": "(#RayoVallecano) Rayo Vallecano y Boca: acuerdo casi cerrado por Luis Adv\u00edncula.\n\n\u27a1\ufe0fLa cantidad del traspaso ronda los 2 millones de euros limpios\n https://t.co/gjdQepGoqe",
+    "truncated": false,
+    "display_text_range": [
+        0,
+        171
+    ],
+    "entities": {
+        "hashtags": [
+            {
+                "text": "RayoVallecano",
+                "indices": [
+                    1,
+                    15
+                ]
+            }
+        ],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+            {
+                "url": "https://t.co/gjdQepGoqe",
+                "expanded_url": "https://www.marca.com/futbol/rayo/2021/07/12/60ebfed9268e3eef028b4581.html",
+                "display_url": "marca.com/futbol/rayo/20\u2026",
+                "indices": [
+                    148,
+                    171
+                ]
+            }
+        ]
+    },
+    "metadata": {
+        "iso_language_code": "es",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"https://www.hootsuite.com\" rel=\"nofollow\">Hootsuite Inc.</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 835132056887832578,
+        "id_str": "835132056887832578",
+        "name": "Dudas Football",
+        "screen_name": "DudasFootball",
+        "location": "Espa\u00f1a",
+        "description": "Informaci\u00f3n sobre la LFP\u26bd\ufe0f\nExperto Fantasy\u2b50\ufe0f\ud83d\udcc8\nResolvemos todas tus dudas \u2753\u2754\nContestamos tweets y encuestas\u2709\ufe0f\ud83d\udd01\ud83d\udcca\n\n365 dias\ud83d\uddd3\ufe0f 24 horas\u23f0\n\nPremier \ud83e\udd81\u274c",
+        "url": "https://t.co/YGyTZ1x9FO",
+        "entities": {
+            "url": {
+                "urls": [
+                    {
+                        "url": "https://t.co/YGyTZ1x9FO",
+                        "expanded_url": "https://www.youtube.com/channel/UCNUcXLxJ6N-Ef-zzqq1WT4g/featured",
+                        "display_url": "youtube.com/channel/UCNUcX\u2026",
+                        "indices": [
+                            0,
+                            23
+                        ]
+                    }
+                ]
+            },
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 3563,
+        "friends_count": 82,
+        "listed_count": 34,
+        "created_at": "Fri Feb 24 14:19:33 +0000 2017",
+        "favourites_count": 39046,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 78707,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1333432210255466496/IQKePUQP_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1333432210255466496/IQKePUQP_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/835132056887832578/1606825053",
+        "profile_link_color": "1B95E0",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "profile_use_background_image": false,
+        "has_extended_profile": true,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "es"
+}

@@ -1,0 +1,106 @@
+{
+    "created_at": "Fri Jul 16 02:47:27 +0000 2021",
+    "id": 1415865636316659714,
+    "id_str": "1415865636316659714",
+    "full_text": "QU\u00c9 GENIAL ES ESE CHICO \ud83d\udc4f\ud83d\udc4f\ud83d\udc4f\n#LaVozPer\u00fa",
+    "truncated": false,
+    "display_text_range": [
+        0,
+        38
+    ],
+    "entities": {
+        "hashtags": [
+            {
+                "text": "LaVozPer\u00fa",
+                "indices": [
+                    28,
+                    38
+                ]
+            }
+        ],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+    },
+    "metadata": {
+        "iso_language_code": "es",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "in_reply_to_status_id": 1415863832036220929,
+    "in_reply_to_status_id_str": "1415863832036220929",
+    "in_reply_to_user_id": 2220988842,
+    "in_reply_to_user_id_str": "2220988842",
+    "in_reply_to_screen_name": "SixPastels",
+    "user": {
+        "id": 2220988842,
+        "id_str": "2220988842",
+        "name": "Six Pastels\u2728",
+        "screen_name": "SixPastels",
+        "location": "Per\u00fa",
+        "description": "\ud83d\udd38\ufe0fFan del chifa.\n\ud83d\udd38\ufe0fEn una relaci\u00f3n con la m\u00fasica.\n\ud83d\udd38\ufe0fLapadualista \ud83c\uddf5\ud83c\uddea\u2728\n\ud83d\udd38\ufe0fIG de ilustraciones: @sixpastels",
+        "url": "https://t.co/9dpyiOdiH0",
+        "entities": {
+            "url": {
+                "urls": [
+                    {
+                        "url": "https://t.co/9dpyiOdiH0",
+                        "expanded_url": "http://instagram.com/sixpastels",
+                        "display_url": "instagram.com/sixpastels",
+                        "indices": [
+                            0,
+                            23
+                        ]
+                    }
+                ]
+            },
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 727,
+        "friends_count": 562,
+        "listed_count": 8,
+        "created_at": "Fri Nov 29 07:03:34 +0000 2013",
+        "favourites_count": 51919,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 39897,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "A32A97",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme18/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme18/bg.gif",
+        "profile_background_tile": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1330222895990239246/pzZQrTAB_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1330222895990239246/pzZQrTAB_normal.jpg",
+        "profile_link_color": "7FDBB6",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "88C200",
+        "profile_text_color": "2D3020",
+        "profile_use_background_image": true,
+        "has_extended_profile": true,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 1,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "es"
+}

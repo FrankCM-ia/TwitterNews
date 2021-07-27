@@ -1,0 +1,97 @@
+{
+    "created_at": "Mon Jul 12 04:02:49 +0000 2021",
+    "id": 1414435048397418505,
+    "id_str": "1414435048397418505",
+    "full_text": "@bernal_gallegos Caminan por la cuerda floja y se caen al lado de los de SL  .. mira los Apristas son los estaban m\u00e1s cerca de ese \"ideal\" zurdo democratas ..pero ya valieron",
+    "truncated": false,
+    "display_text_range": [
+        17,
+        174
+    ],
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "bernal_gallegos",
+                "name": "Juan Pablo Bernal Gallegos",
+                "id": 4150001439,
+                "id_str": "4150001439",
+                "indices": [
+                    0,
+                    16
+                ]
+            }
+        ],
+        "urls": []
+    },
+    "metadata": {
+        "iso_language_code": "es",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "in_reply_to_status_id": 1414381206171422745,
+    "in_reply_to_status_id_str": "1414381206171422745",
+    "in_reply_to_user_id": 4150001439,
+    "in_reply_to_user_id_str": "4150001439",
+    "in_reply_to_screen_name": "bernal_gallegos",
+    "user": {
+        "id": 314983844,
+        "id_str": "314983844",
+        "name": "\ud83c\udf1e\ud83c\udf0e\u2600\ufe0f\ud83c\udfb6J.A.A.Meza\ud83c\udfb6\uc190\ud6c4\ud83c\udfb6\ud83d\udc26n n \ud83c\udf0e\ud83c\uddf5\ud83c\uddea",
+        "screen_name": "JaysukeMezase",
+        "location": "En algun lugar no se donde",
+        "description": "Imaynatan munanki ch'aynallatataq munasunki, manan \ud83d\ude12             .\nAUTODIDACTUS IN EXTREMUS                          .\n\nwe're going deep,and we're going Hard\ud83d\ude20",
+        "url": null,
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 146,
+        "friends_count": 58,
+        "listed_count": 0,
+        "created_at": "Sat Jun 11 03:42:44 +0000 2011",
+        "favourites_count": 27969,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 23212,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "352726",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme5/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme5/bg.gif",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1345416038628925441/L8u6Z-jZ_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1345416038628925441/L8u6Z-jZ_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/314983844/1597341668",
+        "profile_link_color": "D02B55",
+        "profile_sidebar_border_color": "829D5E",
+        "profile_sidebar_fill_color": "99CC33",
+        "profile_text_color": "3E4415",
+        "profile_use_background_image": true,
+        "has_extended_profile": true,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "es"
+}

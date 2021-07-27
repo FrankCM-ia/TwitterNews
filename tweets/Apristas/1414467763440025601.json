@@ -1,0 +1,140 @@
+{
+    "created_at": "Mon Jul 12 06:12:49 +0000 2021",
+    "id": 1414467763440025601,
+    "id_str": "1414467763440025601",
+    "full_text": "@octalex1 @GabrielDeledda Los Din\u00e1micos: 4 son de PL, 34 son entre Fujimoristas y Apristas.",
+    "truncated": false,
+    "display_text_range": [
+        26,
+        91
+    ],
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "octalex1",
+                "name": "Octalex",
+                "id": 148539615,
+                "id_str": "148539615",
+                "indices": [
+                    0,
+                    9
+                ]
+            },
+            {
+                "screen_name": "GabrielDeledda",
+                "name": "Gabriel Deledda \ud83c\udff3\ufe0f\u200d\ud83c\udf08",
+                "id": 1192991094499201024,
+                "id_str": "1192991094499201024",
+                "indices": [
+                    10,
+                    25
+                ]
+            }
+        ],
+        "urls": []
+    },
+    "metadata": {
+        "iso_language_code": "es",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "in_reply_to_status_id": 1414376195991515138,
+    "in_reply_to_status_id_str": "1414376195991515138",
+    "in_reply_to_user_id": 148539615,
+    "in_reply_to_user_id_str": "148539615",
+    "in_reply_to_screen_name": "octalex1",
+    "user": {
+        "id": 744867732793896960,
+        "id_str": "744867732793896960",
+        "name": "Per\u00fa Hacia el 2021",
+        "screen_name": "2021_peru",
+        "location": "Jap\u00f3n",
+        "description": "Una p\u00e1gina de todos los que luchan contra la corrupci\u00f3n, los narcocandidatos, la impunidad, la falta de memoria, el delito sin castigo...que corroe el pa\u00eds.",
+        "url": null,
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 4293,
+        "friends_count": 2490,
+        "listed_count": 26,
+        "created_at": "Mon Jun 20 12:21:21 +0000 2016",
+        "favourites_count": 24674,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 70029,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": null,
+        "profile_background_image_url_https": null,
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/744868935237935105/e4LOhenf_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/744868935237935105/e4LOhenf_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/744867732793896960/1466426558",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": true,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": {
+        "id": "ad39e8439def2ef9",
+        "url": "https://api.twitter.com/1.1/geo/id/ad39e8439def2ef9.json",
+        "place_type": "city",
+        "name": "Kobe-shi Chuo",
+        "full_name": "Kobe City Chuo Ward, Hyogo",
+        "country_code": "JP",
+        "country": "Japan",
+        "contained_within": [],
+        "bounding_box": {
+            "type": "Polygon",
+            "coordinates": [
+                [
+                    [
+                        135.166249999236,
+                        34.6285079964302
+                    ],
+                    [
+                        135.245679207334,
+                        34.6285079964302
+                    ],
+                    [
+                        135.245679207334,
+                        34.7334650049479
+                    ],
+                    [
+                        135.166249999236,
+                        34.7334650049479
+                    ]
+                ]
+            ]
+        },
+        "attributes": {}
+    },
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 1,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "es"
+}

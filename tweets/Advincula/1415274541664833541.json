@@ -1,0 +1,97 @@
+{
+    "created_at": "Wed Jul 14 11:38:39 +0000 2021",
+    "id": 1415274541664833541,
+    "id_str": "1415274541664833541",
+    "full_text": "@alvaromeca_ A m\u00ed sinceramente Adv\u00edncula no me convence, creo que para el f\u00fatbol europeo Balliu es mejor lateral.",
+    "truncated": false,
+    "display_text_range": [
+        13,
+        113
+    ],
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "alvaromeca_",
+                "name": "Alvaroo",
+                "id": 856029035096403968,
+                "id_str": "856029035096403968",
+                "indices": [
+                    0,
+                    12
+                ]
+            }
+        ],
+        "urls": []
+    },
+    "metadata": {
+        "iso_language_code": "es",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "in_reply_to_status_id": 1415274235610771460,
+    "in_reply_to_status_id_str": "1415274235610771460",
+    "in_reply_to_user_id": 856029035096403968,
+    "in_reply_to_user_id_str": "856029035096403968",
+    "in_reply_to_screen_name": "alvaromeca_",
+    "user": {
+        "id": 3222137914,
+        "id_str": "3222137914",
+        "name": "\ud83c\udff4\udb40\udc67\udb40\udc62\udb40\udc65\udb40\udc6e\udb40\udc67\udb40\udc7f",
+        "screen_name": "Adolfogs_",
+        "location": "Almer\u00eda",
+        "description": "UDA. No es m\u00e1s grande el que siempre gana, si no el que nunca se rinde. Puedes escucharme en @SonidoIndalico.",
+        "url": null,
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 1473,
+        "friends_count": 440,
+        "listed_count": 13,
+        "created_at": "Wed Apr 29 18:09:02 +0000 2015",
+        "favourites_count": 47805,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 64916,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1375919180269162499/ekx96Mmp_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1375919180269162499/ekx96Mmp_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/3222137914/1586479663",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": true,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 1,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "es"
+}

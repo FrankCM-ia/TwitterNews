@@ -1,0 +1,196 @@
+{
+    "created_at": "Tue Jul 13 21:05:11 +0000 2021",
+    "id": 1415054722889826310,
+    "id_str": "1415054722889826310",
+    "full_text": "RT @Martin_Gonzal: A pesar de que nuestro pa\u00eds atraviesa quiz\u00e1 el peor contexto hist\u00f3rico en relaci\u00f3n a la cotizaci\u00f3n del d\u00f3lar (lo cual im\u2026",
+    "truncated": false,
+    "display_text_range": [
+        0,
+        140
+    ],
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "Martin_Gonzal",
+                "name": "Mart\u00edn Gonzalez",
+                "id": 180466458,
+                "id_str": "180466458",
+                "indices": [
+                    3,
+                    17
+                ]
+            }
+        ],
+        "urls": []
+    },
+    "metadata": {
+        "iso_language_code": "es",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 157424408,
+        "id_str": "157424408",
+        "name": "Julieta N\u00fa\u00f1ez. soy del 53% y de boca como roman.",
+        "screen_name": "julinuniez",
+        "location": "Argentina",
+        "description": "voy a cuidar al club mas que a mi familia juan roman riquelme.",
+        "url": "https://t.co/Tf1o2rgx1t",
+        "entities": {
+            "url": {
+                "urls": [
+                    {
+                        "url": "https://t.co/Tf1o2rgx1t",
+                        "expanded_url": "https://www.instagram.com/jn.ropa",
+                        "display_url": "instagram.com/jn.ropa",
+                        "indices": [
+                            0,
+                            23
+                        ]
+                    }
+                ]
+            },
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 1963,
+        "friends_count": 5000,
+        "listed_count": 14,
+        "created_at": "Sat Jun 19 19:35:28 +0000 2010",
+        "favourites_count": 16376,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 242560,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "ABB8C2",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme19/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme19/bg.gif",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1415295942547460101/2E_5VxX5_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1415295942547460101/2E_5VxX5_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/157424408/1626268131",
+        "profile_link_color": "FAB81E",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+        "created_at": "Tue Jul 13 19:46:55 +0000 2021",
+        "id": 1415035028979990533,
+        "id_str": "1415035028979990533",
+        "full_text": "A pesar de que nuestro pa\u00eds atraviesa quiz\u00e1 el peor contexto hist\u00f3rico en relaci\u00f3n a la cotizaci\u00f3n del d\u00f3lar (lo cual impide competir con otros mercados) durante esta gesti\u00f3n se hicieron ofertas muy importantes en d\u00f3lares por Isla, Advincula, Roger Mart\u00ednez, Borja, Di Santo...",
+        "truncated": false,
+        "display_text_range": [
+            0,
+            277
+        ],
+        "entities": {
+            "hashtags": [],
+            "symbols": [],
+            "user_mentions": [],
+            "urls": []
+        },
+        "metadata": {
+            "iso_language_code": "es",
+            "result_type": "recent"
+        },
+        "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+        "in_reply_to_status_id": 1415033592321912837,
+        "in_reply_to_status_id_str": "1415033592321912837",
+        "in_reply_to_user_id": 180466458,
+        "in_reply_to_user_id_str": "180466458",
+        "in_reply_to_screen_name": "Martin_Gonzal",
+        "user": {
+            "id": 180466458,
+            "id_str": "180466458",
+            "name": "Mart\u00edn Gonzalez",
+            "screen_name": "Martin_Gonzal",
+            "location": "",
+            "description": "UT\u00d3PICO incurable. BOCA es mi vida. Religioso del BUEN FUTBOL. Impuls\u00e9 el Monumento a RIQUELME.",
+            "url": null,
+            "entities": {
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 2728,
+            "friends_count": 1012,
+            "listed_count": 30,
+            "created_at": "Thu Aug 19 18:13:34 +0000 2010",
+            "favourites_count": 14545,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": true,
+            "verified": false,
+            "statuses_count": 58955,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "131516",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+            "profile_background_tile": true,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1236658235500826624/sHi8SRLY_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1236658235500826624/sHi8SRLY_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/180466458/1432490920",
+            "profile_link_color": "009999",
+            "profile_sidebar_border_color": "FFFFFF",
+            "profile_sidebar_fill_color": "EFEFEF",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "has_extended_profile": true,
+            "default_profile": false,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none",
+            "withheld_in_countries": []
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 3,
+        "favorite_count": 6,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "es"
+    },
+    "is_quote_status": false,
+    "retweet_count": 3,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "es"
+}

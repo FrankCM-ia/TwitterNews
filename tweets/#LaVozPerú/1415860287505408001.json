@@ -1,0 +1,94 @@
+{
+    "created_at": "Fri Jul 16 02:26:12 +0000 2021",
+    "id": 1415860287505408001,
+    "id_str": "1415860287505408001",
+    "full_text": "PERD\u00d3N PERO YO ESTABA TIPO: DESTRUYELAAAA MARCELA. Linda su voz :(( #lavozperu",
+    "truncated": false,
+    "display_text_range": [
+        0,
+        78
+    ],
+    "entities": {
+        "hashtags": [
+            {
+                "text": "lavozperu",
+                "indices": [
+                    68,
+                    78
+                ]
+            }
+        ],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+    },
+    "metadata": {
+        "iso_language_code": "es",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 392329527,
+        "id_str": "392329527",
+        "name": "Kat\ud83d\udc7b",
+        "screen_name": "sweaterpaws1410",
+        "location": "",
+        "description": "you worked hard angel\ud83d\udc7c",
+        "url": null,
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 296,
+        "friends_count": 419,
+        "listed_count": 3,
+        "created_at": "Sun Oct 16 21:31:47 +0000 2011",
+        "favourites_count": 17642,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 49520,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "0099B9",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme4/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme4/bg.gif",
+        "profile_background_tile": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1318256779768233984/wxc5hJve_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1318256779768233984/wxc5hJve_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/392329527/1552457676",
+        "profile_link_color": "9D76B8",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "95E8EC",
+        "profile_text_color": "3C3940",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "es"
+}

@@ -1,0 +1,275 @@
+{
+    "created_at": "Thu Jul 15 17:29:44 +0000 2021",
+    "id": 1415725282506444803,
+    "id_str": "1415725282506444803",
+    "full_text": "RT @IgnacioBezruk: Hoy es un d\u00eda importante para Boca y Luis Adv\u00edncula: si los papeles est\u00e1n conformes a lo acordado resolver\u00e1n la log\u00edstic\u2026",
+    "truncated": false,
+    "display_text_range": [
+        0,
+        140
+    ],
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "IgnacioBezruk",
+                "name": "Nacho Bezruk",
+                "id": 159578335,
+                "id_str": "159578335",
+                "indices": [
+                    3,
+                    17
+                ]
+            }
+        ],
+        "urls": []
+    },
+    "metadata": {
+        "iso_language_code": "es",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 2962706327,
+        "id_str": "2962706327",
+        "name": "Maxi Wunderlich",
+        "screen_name": "MaaxiWunderlich",
+        "location": "Santa Rosa, Argentina",
+        "description": "Santa Rosa,La Pampa\n29 a\u00f1os. Sagitario\n0 DESCENSOS \ud83d\udc99\ud83d\udc9b\ud83d\udc99\nLa experiencia es un peine que te da la vida cuando te quedas sin pelo ~\u2606",
+        "url": null,
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 245,
+        "friends_count": 380,
+        "listed_count": 0,
+        "created_at": "Mon Jan 05 20:51:38 +0000 2015",
+        "favourites_count": 39351,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 18590,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1183626391369244679/CDPrTwC6_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1183626391369244679/CDPrTwC6_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2962706327/1617575800",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": true,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+        "created_at": "Thu Jul 15 16:47:33 +0000 2021",
+        "id": 1415714665754243101,
+        "id_str": "1415714665754243101",
+        "full_text": "Hoy es un d\u00eda importante para Boca y Luis Adv\u00edncula: si los papeles est\u00e1n conformes a lo acordado resolver\u00e1n la log\u00edstica para que viaje a la Argentina y se transforme en el 5to refuerzo. https://t.co/npxoQuDYz0",
+        "truncated": false,
+        "display_text_range": [
+            0,
+            187
+        ],
+        "entities": {
+            "hashtags": [],
+            "symbols": [],
+            "user_mentions": [],
+            "urls": [],
+            "media": [
+                {
+                    "id": 1415714660569993220,
+                    "id_str": "1415714660569993220",
+                    "indices": [
+                        188,
+                        211
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/E6Wg-6aWUAQUH2D.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/E6Wg-6aWUAQUH2D.jpg",
+                    "url": "https://t.co/npxoQuDYz0",
+                    "display_url": "pic.twitter.com/npxoQuDYz0",
+                    "expanded_url": "https://twitter.com/IgnacioBezruk/status/1415714665754243101/photo/1",
+                    "type": "photo",
+                    "sizes": {
+                        "small": {
+                            "w": 680,
+                            "h": 378,
+                            "resize": "fit"
+                        },
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "large": {
+                            "w": 1124,
+                            "h": 624,
+                            "resize": "fit"
+                        },
+                        "medium": {
+                            "w": 1124,
+                            "h": 624,
+                            "resize": "fit"
+                        }
+                    }
+                }
+            ]
+        },
+        "extended_entities": {
+            "media": [
+                {
+                    "id": 1415714660569993220,
+                    "id_str": "1415714660569993220",
+                    "indices": [
+                        188,
+                        211
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/E6Wg-6aWUAQUH2D.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/E6Wg-6aWUAQUH2D.jpg",
+                    "url": "https://t.co/npxoQuDYz0",
+                    "display_url": "pic.twitter.com/npxoQuDYz0",
+                    "expanded_url": "https://twitter.com/IgnacioBezruk/status/1415714665754243101/photo/1",
+                    "type": "photo",
+                    "sizes": {
+                        "small": {
+                            "w": 680,
+                            "h": 378,
+                            "resize": "fit"
+                        },
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "large": {
+                            "w": 1124,
+                            "h": 624,
+                            "resize": "fit"
+                        },
+                        "medium": {
+                            "w": 1124,
+                            "h": 624,
+                            "resize": "fit"
+                        }
+                    }
+                }
+            ]
+        },
+        "metadata": {
+            "iso_language_code": "es",
+            "result_type": "recent"
+        },
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 159578335,
+            "id_str": "159578335",
+            "name": "Nacho Bezruk",
+            "screen_name": "IgnacioBezruk",
+            "location": "",
+            "description": "#Boca en @TNTSportsAR @continental590",
+            "url": "https://t.co/KYWo2nOCKs",
+            "entities": {
+                "url": {
+                    "urls": [
+                        {
+                            "url": "https://t.co/KYWo2nOCKs",
+                            "expanded_url": "http://www.instagram.com/nachobezruktnt",
+                            "display_url": "instagram.com/nachobezruktnt",
+                            "indices": [
+                                0,
+                                23
+                            ]
+                        }
+                    ]
+                },
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 9436,
+            "friends_count": 593,
+            "listed_count": 82,
+            "created_at": "Fri Jun 25 19:39:02 +0000 2010",
+            "favourites_count": 1142,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": true,
+            "verified": false,
+            "statuses_count": 14316,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "352726",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme5/bg.gif",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme5/bg.gif",
+            "profile_background_tile": true,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1213846425441841155/mVRTUBmH_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1213846425441841155/mVRTUBmH_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/159578335/1625970392",
+            "profile_link_color": "E81C4F",
+            "profile_sidebar_border_color": "000000",
+            "profile_sidebar_fill_color": "99CC33",
+            "profile_text_color": "3E4415",
+            "profile_use_background_image": true,
+            "has_extended_profile": false,
+            "default_profile": false,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none",
+            "withheld_in_countries": []
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 9,
+        "favorite_count": 70,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "es"
+    },
+    "is_quote_status": false,
+    "retweet_count": 9,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "es"
+}

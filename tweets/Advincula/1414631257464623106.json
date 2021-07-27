@@ -1,0 +1,107 @@
+{
+    "created_at": "Mon Jul 12 17:02:29 +0000 2021",
+    "id": 1414631257464623106,
+    "id_str": "1414631257464623106",
+    "full_text": "@SevillaJrs @ProscriptoCABJ Naa, Adv\u00edncula no vale mucho. Borja s\u00ed.",
+    "truncated": false,
+    "display_text_range": [
+        28,
+        67
+    ],
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "SevillaJrs",
+                "name": "SevillaJrs\ud83c\udfc6\ud83c\udde6\ud83c\uddf7\ud83e\udd39\u200d\u2642\ufe0f\u26bd\ufe0f",
+                "id": 1395180224355131393,
+                "id_str": "1395180224355131393",
+                "indices": [
+                    0,
+                    11
+                ]
+            },
+            {
+                "screen_name": "ProscriptoCABJ",
+                "name": "Boca de mi vida",
+                "id": 1398695500765872130,
+                "id_str": "1398695500765872130",
+                "indices": [
+                    12,
+                    27
+                ]
+            }
+        ],
+        "urls": []
+    },
+    "metadata": {
+        "iso_language_code": "es",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "in_reply_to_status_id": 1414630876688814085,
+    "in_reply_to_status_id_str": "1414630876688814085",
+    "in_reply_to_user_id": 1395180224355131393,
+    "in_reply_to_user_id_str": "1395180224355131393",
+    "in_reply_to_screen_name": "SevillaJrs",
+    "user": {
+        "id": 1409541987116650503,
+        "id_str": "1409541987116650503",
+        "name": "\ud835\ude47\ud835\ude56 \ud835\ude4b\ud835\ude5a\ud835\ude68\ud835\ude58\ud835\ude5e\ud835\ude56 \ud83e\udd39\u26bd",
+        "screen_name": "lautipescia",
+        "location": "CAMPE\u00d3N DE AM\u00c9RICA \ud83c\udde6\ud83c\uddf7\ud83c\udfc6\ud83c\udde6\ud83c\uddf7",
+        "description": "Malabarista desde que nac\u00ed. Ex Cardoneta.",
+        "url": null,
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 456,
+        "friends_count": 560,
+        "listed_count": 1,
+        "created_at": "Mon Jun 28 16:00:09 +0000 2021",
+        "favourites_count": 3242,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 4696,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": null,
+        "profile_background_image_url_https": null,
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1414754990388822019/sUxRi5h7_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1414754990388822019/sUxRi5h7_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1409541987116650503/1626112751",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": true,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 1,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "es"
+}

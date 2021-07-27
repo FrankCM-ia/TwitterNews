@@ -1,0 +1,222 @@
+{
+    "created_at": "Fri Jul 16 00:33:35 +0000 2021",
+    "id": 1415831946735890437,
+    "id_str": "1415831946735890437",
+    "full_text": "@luckylucianou @ocram Bloquearlo de YouTube tumbarle El canal con reportes que dice fake news El Rey de Los fake news de la izquierda mermelera caviar Peruana. Dicen que la marcha de noviembre fue pacifica.#ocramreyfakenews #SOSPeru #SOSCuba #SagastiHDP #SagastiGolpistaCTM https://t.co/FfE4TB0QrA",
+    "truncated": false,
+    "display_text_range": [
+        22,
+        273
+    ],
+    "entities": {
+        "hashtags": [
+            {
+                "text": "ocramreyfakenews",
+                "indices": [
+                    206,
+                    223
+                ]
+            },
+            {
+                "text": "SOSPeru",
+                "indices": [
+                    224,
+                    232
+                ]
+            },
+            {
+                "text": "SOSCuba",
+                "indices": [
+                    233,
+                    241
+                ]
+            },
+            {
+                "text": "SagastiHDP",
+                "indices": [
+                    242,
+                    253
+                ]
+            },
+            {
+                "text": "SagastiGolpistaCTM",
+                "indices": [
+                    254,
+                    273
+                ]
+            }
+        ],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "luckylucianou",
+                "name": "luciano \ud83c\udde8\ud83c\uddfa",
+                "id": 1050058461701165056,
+                "id_str": "1050058461701165056",
+                "indices": [
+                    0,
+                    14
+                ]
+            },
+            {
+                "screen_name": "ocram",
+                "name": "\ud83c\udf49 Marco Sifuentes",
+                "id": 3369151,
+                "id_str": "3369151",
+                "indices": [
+                    15,
+                    21
+                ]
+            }
+        ],
+        "urls": [],
+        "media": [
+            {
+                "id": 1415831941824270336,
+                "id_str": "1415831941824270336",
+                "indices": [
+                    274,
+                    297
+                ],
+                "media_url": "http://pbs.twimg.com/media/E6YLplIWUAAVKFy.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/E6YLplIWUAAVKFy.jpg",
+                "url": "https://t.co/FfE4TB0QrA",
+                "display_url": "pic.twitter.com/FfE4TB0QrA",
+                "expanded_url": "https://twitter.com/Enrimoney/status/1415831946735890437/photo/1",
+                "type": "photo",
+                "sizes": {
+                    "large": {
+                        "w": 922,
+                        "h": 2048,
+                        "resize": "fit"
+                    },
+                    "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                    },
+                    "medium": {
+                        "w": 540,
+                        "h": 1200,
+                        "resize": "fit"
+                    },
+                    "small": {
+                        "w": 306,
+                        "h": 680,
+                        "resize": "fit"
+                    }
+                }
+            }
+        ]
+    },
+    "extended_entities": {
+        "media": [
+            {
+                "id": 1415831941824270336,
+                "id_str": "1415831941824270336",
+                "indices": [
+                    274,
+                    297
+                ],
+                "media_url": "http://pbs.twimg.com/media/E6YLplIWUAAVKFy.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/E6YLplIWUAAVKFy.jpg",
+                "url": "https://t.co/FfE4TB0QrA",
+                "display_url": "pic.twitter.com/FfE4TB0QrA",
+                "expanded_url": "https://twitter.com/Enrimoney/status/1415831946735890437/photo/1",
+                "type": "photo",
+                "sizes": {
+                    "large": {
+                        "w": 922,
+                        "h": 2048,
+                        "resize": "fit"
+                    },
+                    "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                    },
+                    "medium": {
+                        "w": 540,
+                        "h": 1200,
+                        "resize": "fit"
+                    },
+                    "small": {
+                        "w": 306,
+                        "h": 680,
+                        "resize": "fit"
+                    }
+                }
+            }
+        ]
+    },
+    "metadata": {
+        "iso_language_code": "es",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "in_reply_to_status_id": 1415756292040400901,
+    "in_reply_to_status_id_str": "1415756292040400901",
+    "in_reply_to_user_id": 1050058461701165056,
+    "in_reply_to_user_id_str": "1050058461701165056",
+    "in_reply_to_screen_name": "luckylucianou",
+    "user": {
+        "id": 70276429,
+        "id_str": "70276429",
+        "name": "Rico Abarca",
+        "screen_name": "Enrimoney",
+        "location": "",
+        "description": "",
+        "url": null,
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 283,
+        "friends_count": 568,
+        "listed_count": 15,
+        "created_at": "Mon Aug 31 01:57:49 +0000 2009",
+        "favourites_count": 24124,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 28511,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1413558391482507265/6NupcVzX_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1413558391482507265/6NupcVzX_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/70276429/1453113124",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": true,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "es"
+}

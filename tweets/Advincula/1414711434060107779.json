@@ -1,0 +1,369 @@
+{
+    "created_at": "Mon Jul 12 22:21:04 +0000 2021",
+    "id": 1414711434060107779,
+    "id_str": "1414711434060107779",
+    "full_text": "RT @DiferenciaDeGol: [#LPF] #MercadoDePases | \u00a1EMPIEZAN A CERRARSE LAS NEGOCIACIONES! #Boca ya tiene todo acordado con el peruano Luis Adv\u00ed\u2026",
+    "truncated": false,
+    "display_text_range": [
+        0,
+        140
+    ],
+    "entities": {
+        "hashtags": [
+            {
+                "text": "LPF",
+                "indices": [
+                    22,
+                    26
+                ]
+            },
+            {
+                "text": "MercadoDePases",
+                "indices": [
+                    28,
+                    43
+                ]
+            },
+            {
+                "text": "Boca",
+                "indices": [
+                    86,
+                    91
+                ]
+            }
+        ],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "DiferenciaDeGol",
+                "name": "Diferencia de Gol \u26bd\ufe0f",
+                "id": 791357179,
+                "id_str": "791357179",
+                "indices": [
+                    3,
+                    19
+                ]
+            }
+        ],
+        "urls": []
+    },
+    "metadata": {
+        "iso_language_code": "es",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 740241910481162241,
+        "id_str": "740241910481162241",
+        "name": "Yoooo",
+        "screen_name": "roodri87",
+        "location": "",
+        "description": "Jes\u00fas mi estilo de vida. posiblemente en tweeter solo habl\u00e9 de Boca, defienda las 2 vidas, y este en contra de todo progresismo barato. vos si sos bienvenido.",
+        "url": null,
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 532,
+        "friends_count": 869,
+        "listed_count": 0,
+        "created_at": "Tue Jun 07 17:59:59 +0000 2016",
+        "favourites_count": 91847,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 74273,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": null,
+        "profile_background_image_url_https": null,
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1299906411762245632/a5MpXMz2_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1299906411762245632/a5MpXMz2_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+        "created_at": "Mon Jul 12 21:03:34 +0000 2021",
+        "id": 1414691930978533379,
+        "id_str": "1414691930978533379",
+        "full_text": "[#LPF] #MercadoDePases | \u00a1EMPIEZAN A CERRARSE LAS NEGOCIACIONES! #Boca ya tiene todo acordado con el peruano Luis Adv\u00edncula y con @RayoVallecano. Con @Palmeiras lleg\u00f3 a un acuerdo (U$S 4 millones por el 50 % del pase), pero resta definir el contrato con Miguel #Borja. https://t.co/cDQ2IfmGcU",
+        "truncated": false,
+        "display_text_range": [
+            0,
+            268
+        ],
+        "entities": {
+            "hashtags": [
+                {
+                    "text": "LPF",
+                    "indices": [
+                        1,
+                        5
+                    ]
+                },
+                {
+                    "text": "MercadoDePases",
+                    "indices": [
+                        7,
+                        22
+                    ]
+                },
+                {
+                    "text": "Boca",
+                    "indices": [
+                        65,
+                        70
+                    ]
+                },
+                {
+                    "text": "Borja",
+                    "indices": [
+                        261,
+                        267
+                    ]
+                }
+            ],
+            "symbols": [],
+            "user_mentions": [
+                {
+                    "screen_name": "RayoVallecano",
+                    "name": "Rayo Vallecano",
+                    "id": 498012129,
+                    "id_str": "498012129",
+                    "indices": [
+                        130,
+                        144
+                    ]
+                },
+                {
+                    "screen_name": "Palmeiras",
+                    "name": "SE Palmeiras",
+                    "id": 46104914,
+                    "id_str": "46104914",
+                    "indices": [
+                        150,
+                        160
+                    ]
+                }
+            ],
+            "urls": [],
+            "media": [
+                {
+                    "id": 1414691925941174272,
+                    "id_str": "1414691925941174272",
+                    "indices": [
+                        269,
+                        292
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/E6H-z7BWQAAZy3Q.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/E6H-z7BWQAAZy3Q.jpg",
+                    "url": "https://t.co/cDQ2IfmGcU",
+                    "display_url": "pic.twitter.com/cDQ2IfmGcU",
+                    "expanded_url": "https://twitter.com/DiferenciaDeGol/status/1414691930978533379/photo/1",
+                    "type": "photo",
+                    "sizes": {
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "small": {
+                            "w": 641,
+                            "h": 641,
+                            "resize": "fit"
+                        },
+                        "medium": {
+                            "w": 641,
+                            "h": 641,
+                            "resize": "fit"
+                        },
+                        "large": {
+                            "w": 641,
+                            "h": 641,
+                            "resize": "fit"
+                        }
+                    }
+                }
+            ]
+        },
+        "extended_entities": {
+            "media": [
+                {
+                    "id": 1414691925941174272,
+                    "id_str": "1414691925941174272",
+                    "indices": [
+                        269,
+                        292
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/E6H-z7BWQAAZy3Q.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/E6H-z7BWQAAZy3Q.jpg",
+                    "url": "https://t.co/cDQ2IfmGcU",
+                    "display_url": "pic.twitter.com/cDQ2IfmGcU",
+                    "expanded_url": "https://twitter.com/DiferenciaDeGol/status/1414691930978533379/photo/1",
+                    "type": "photo",
+                    "sizes": {
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "small": {
+                            "w": 641,
+                            "h": 641,
+                            "resize": "fit"
+                        },
+                        "medium": {
+                            "w": 641,
+                            "h": 641,
+                            "resize": "fit"
+                        },
+                        "large": {
+                            "w": 641,
+                            "h": 641,
+                            "resize": "fit"
+                        }
+                    }
+                },
+                {
+                    "id": 1414691928772337666,
+                    "id_str": "1414691928772337666",
+                    "indices": [
+                        269,
+                        292
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/E6H-0FkWYAIahYS.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/E6H-0FkWYAIahYS.jpg",
+                    "url": "https://t.co/cDQ2IfmGcU",
+                    "display_url": "pic.twitter.com/cDQ2IfmGcU",
+                    "expanded_url": "https://twitter.com/DiferenciaDeGol/status/1414691930978533379/photo/1",
+                    "type": "photo",
+                    "sizes": {
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "large": {
+                            "w": 680,
+                            "h": 464,
+                            "resize": "fit"
+                        },
+                        "medium": {
+                            "w": 680,
+                            "h": 464,
+                            "resize": "fit"
+                        },
+                        "small": {
+                            "w": 680,
+                            "h": 464,
+                            "resize": "fit"
+                        }
+                    }
+                }
+            ]
+        },
+        "metadata": {
+            "iso_language_code": "es",
+            "result_type": "recent"
+        },
+        "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 791357179,
+            "id_str": "791357179",
+            "name": "Diferencia de Gol \u26bd\ufe0f",
+            "screen_name": "DiferenciaDeGol",
+            "location": "",
+            "description": "Buscamos ser la mezcla justa entre lo que pasa adentro del campo de juego y lo que ocurre afuera. F\u00fatbol, goles, pol\u00edtica, rosca y noticias. Bienvenidos.",
+            "url": null,
+            "entities": {
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 2613,
+            "friends_count": 935,
+            "listed_count": 4,
+            "created_at": "Thu Aug 30 11:01:00 +0000 2012",
+            "favourites_count": 125,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": false,
+            "verified": false,
+            "statuses_count": 6733,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "022330",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/850459394617856000/uX6Flc0I_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/850459394617856000/uX6Flc0I_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/791357179/1491600296",
+            "profile_link_color": "0084B4",
+            "profile_sidebar_border_color": "FFFFFF",
+            "profile_sidebar_fill_color": "C0DFEC",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "has_extended_profile": false,
+            "default_profile": false,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none",
+            "withheld_in_countries": []
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 1,
+        "favorite_count": 4,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "es"
+    },
+    "is_quote_status": false,
+    "retweet_count": 1,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "es"
+}

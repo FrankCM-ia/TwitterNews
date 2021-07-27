@@ -1,0 +1,222 @@
+{
+    "created_at": "Sun Jul 11 22:56:11 +0000 2021",
+    "id": 1414357882947112965,
+    "id_str": "1414357882947112965",
+    "full_text": "RT @Sorcdtm: @jorgeolivos1 @dianilu14 Y ojo. Que si destapas las mismas mafias en el MTC Y aparecen los\nDin\u00e1micos de Oriente\nLos Din\u00e1micos\u2026",
+    "truncated": false,
+    "display_text_range": [
+        0,
+        139
+    ],
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "Sorcdtm",
+                "name": "Paolo",
+                "id": 1253067814736297984,
+                "id_str": "1253067814736297984",
+                "indices": [
+                    3,
+                    11
+                ]
+            },
+            {
+                "screen_name": "jorgeolivos1",
+                "name": "Jorge Olivos",
+                "id": 286915737,
+                "id_str": "286915737",
+                "indices": [
+                    13,
+                    26
+                ]
+            },
+            {
+                "screen_name": "dianilu14",
+                "name": "Diana M. *Congreso Asesino*",
+                "id": 2859706313,
+                "id_str": "2859706313",
+                "indices": [
+                    27,
+                    37
+                ]
+            }
+        ],
+        "urls": []
+    },
+    "metadata": {
+        "iso_language_code": "es",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 3023672819,
+        "id_str": "3023672819",
+        "name": "francisco dyer",
+        "screen_name": "DyerFrancisco",
+        "location": "",
+        "description": "Mi vida dedicada a defender a mi patria el Peru, construir una sociedad con valores ; He trabajado en el Sector Privado y Publico. Ahora soy Empresario.",
+        "url": null,
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 2333,
+        "friends_count": 4989,
+        "listed_count": 2,
+        "created_at": "Sat Feb 07 19:00:21 +0000 2015",
+        "favourites_count": 144680,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 150540,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+        "profile_image_url_https": "https://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": true,
+        "default_profile_image": true,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+        "created_at": "Fri Jul 09 18:01:55 +0000 2021",
+        "id": 1413559051380826115,
+        "id_str": "1413559051380826115",
+        "full_text": "@jorgeolivos1 @dianilu14 Y ojo. Que si destapas las mismas mafias en el MTC Y aparecen los\nDin\u00e1micos de Oriente\nLos Din\u00e1micos del Norte\nLos Din\u00e1micos del Sur\nLos Din\u00e1micos de Lima\nAh\u00ed solo encontrar\u00e1s Apristas y Fujimoristas.",
+        "truncated": false,
+        "display_text_range": [
+            25,
+            225
+        ],
+        "entities": {
+            "hashtags": [],
+            "symbols": [],
+            "user_mentions": [
+                {
+                    "screen_name": "jorgeolivos1",
+                    "name": "Jorge Olivos",
+                    "id": 286915737,
+                    "id_str": "286915737",
+                    "indices": [
+                        0,
+                        13
+                    ]
+                },
+                {
+                    "screen_name": "dianilu14",
+                    "name": "Diana M. *Congreso Asesino*",
+                    "id": 2859706313,
+                    "id_str": "2859706313",
+                    "indices": [
+                        14,
+                        24
+                    ]
+                }
+            ],
+            "urls": []
+        },
+        "metadata": {
+            "iso_language_code": "es",
+            "result_type": "recent"
+        },
+        "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+        "in_reply_to_status_id": 1413478322814832642,
+        "in_reply_to_status_id_str": "1413478322814832642",
+        "in_reply_to_user_id": 286915737,
+        "in_reply_to_user_id_str": "286915737",
+        "in_reply_to_screen_name": "jorgeolivos1",
+        "user": {
+            "id": 1253067814736297984,
+            "id_str": "1253067814736297984",
+            "name": "Paolo",
+            "screen_name": "Sorcdtm",
+            "location": "",
+            "description": "sab\u00edas que V Montesinos bes\u00f3 al Narco Vaticano????",
+            "url": null,
+            "entities": {
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 262,
+            "friends_count": 207,
+            "listed_count": 1,
+            "created_at": "Wed Apr 22 21:07:15 +0000 2020",
+            "favourites_count": 40761,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": false,
+            "verified": false,
+            "statuses_count": 44141,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "F5F8FA",
+            "profile_background_image_url": null,
+            "profile_background_image_url_https": null,
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1400229988096413699/apOWlaXM_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1400229988096413699/apOWlaXM_normal.jpg",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "has_extended_profile": false,
+            "default_profile": true,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none",
+            "withheld_in_countries": []
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 13,
+        "favorite_count": 52,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "es"
+    },
+    "is_quote_status": false,
+    "retweet_count": 13,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "es"
+}

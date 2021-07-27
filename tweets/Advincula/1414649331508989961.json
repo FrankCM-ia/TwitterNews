@@ -1,0 +1,120 @@
+{
+    "created_at": "Mon Jul 12 18:14:18 +0000 2021",
+    "id": 1414649331508989961,
+    "id_str": "1414649331508989961",
+    "full_text": "Llegan Advincula y Borja?\n\nNinguno de los 2 pod\u00edan llegar antes...\n\nDejen de romper los huevos...?\n\nEl \u00fanico que pod\u00eda venir antes y no lleg\u00f3 (hasta ahora...) es Di Santo\n\nAc\u00e1, el gran problema, es el calendario de la @CONMEBOL y la @afa",
+    "truncated": false,
+    "display_text_range": [
+        0,
+        237
+    ],
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "CONMEBOL",
+                "name": "CONMEBOL.com",
+                "id": 1265260098,
+                "id_str": "1265260098",
+                "indices": [
+                    218,
+                    227
+                ]
+            },
+            {
+                "screen_name": "afa",
+                "name": "AFA",
+                "id": 2495214973,
+                "id_str": "2495214973",
+                "indices": [
+                    233,
+                    237
+                ]
+            }
+        ],
+        "urls": []
+    },
+    "metadata": {
+        "iso_language_code": "es",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 149250374,
+        "id_str": "149250374",
+        "name": "\ud835\udd71\ud835\udd8a\ud835\udd89\ud835\udd8a\ud835\udd87\ud835\udd9a\ud835\udd97",
+        "screen_name": "fedebur",
+        "location": "Buenos Aires (ARG)",
+        "description": "Conductor de EL UNIVERSO DEL HEAVY METAL y FRECUENCIA XENEIZE  / Relator de F\u00fatbol / Socio de Boca / Metalero / Guitarrista y Boxeador Amateur / Burzaco.",
+        "url": "https://t.co/iQa5RRckIB",
+        "entities": {
+            "url": {
+                "urls": [
+                    {
+                        "url": "https://t.co/iQa5RRckIB",
+                        "expanded_url": "http://www.FrecuenciaOnlineRadio.com",
+                        "display_url": "FrecuenciaOnlineRadio.com",
+                        "indices": [
+                            0,
+                            23
+                        ]
+                    }
+                ]
+            },
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 742,
+        "friends_count": 1206,
+        "listed_count": 9,
+        "created_at": "Fri May 28 20:26:05 +0000 2010",
+        "favourites_count": 2894,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 43232,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": true,
+        "profile_background_color": "DBE9ED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+        "profile_background_tile": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1373842634976980996/jwMxkLG1_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1373842634976980996/jwMxkLG1_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/149250374/1616192504",
+        "profile_link_color": "FF7700",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "FFFFFF",
+        "profile_text_color": "000000",
+        "profile_use_background_image": true,
+        "has_extended_profile": true,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 1,
+    "favorite_count": 1,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "es"
+}

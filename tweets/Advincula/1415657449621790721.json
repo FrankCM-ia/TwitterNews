@@ -1,0 +1,228 @@
+{
+    "created_at": "Thu Jul 15 13:00:12 +0000 2021",
+    "id": 1415657449621790721,
+    "id_str": "1415657449621790721",
+    "full_text": "#Burgosenelmundo  #BurgosParaiso #BurgosDestinodeEnsue\u00f1o \nIglesia de San Pedro Adv\u00edncula en Barrio de Mu\u00f1\u00f3 #Burgos  \npor Arlanza Turismo Rural\n@ArlanzaRural https://t.co/15zz49WUoj",
+    "truncated": false,
+    "display_text_range": [
+        0,
+        156
+    ],
+    "entities": {
+        "hashtags": [
+            {
+                "text": "Burgosenelmundo",
+                "indices": [
+                    0,
+                    16
+                ]
+            },
+            {
+                "text": "BurgosParaiso",
+                "indices": [
+                    18,
+                    32
+                ]
+            },
+            {
+                "text": "BurgosDestinodeEnsue\u00f1o",
+                "indices": [
+                    33,
+                    56
+                ]
+            },
+            {
+                "text": "Burgos",
+                "indices": [
+                    107,
+                    114
+                ]
+            }
+        ],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "ArlanzaRural",
+                "name": "Arlanza Turismo Rural",
+                "id": 1022210038591565830,
+                "id_str": "1022210038591565830",
+                "indices": [
+                    143,
+                    156
+                ]
+            }
+        ],
+        "urls": [],
+        "media": [
+            {
+                "id": 1415657446832496640,
+                "id_str": "1415657446832496640",
+                "indices": [
+                    157,
+                    180
+                ],
+                "media_url": "http://pbs.twimg.com/media/E6Vs8ooWYAAbxUB.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/E6Vs8ooWYAAbxUB.jpg",
+                "url": "https://t.co/15zz49WUoj",
+                "display_url": "pic.twitter.com/15zz49WUoj",
+                "expanded_url": "https://twitter.com/Burgosenelmundo/status/1415657449621790721/photo/1",
+                "type": "photo",
+                "sizes": {
+                    "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                    },
+                    "large": {
+                        "w": 1707,
+                        "h": 960,
+                        "resize": "fit"
+                    },
+                    "medium": {
+                        "w": 1200,
+                        "h": 675,
+                        "resize": "fit"
+                    },
+                    "small": {
+                        "w": 680,
+                        "h": 382,
+                        "resize": "fit"
+                    }
+                }
+            }
+        ]
+    },
+    "extended_entities": {
+        "media": [
+            {
+                "id": 1415657446832496640,
+                "id_str": "1415657446832496640",
+                "indices": [
+                    157,
+                    180
+                ],
+                "media_url": "http://pbs.twimg.com/media/E6Vs8ooWYAAbxUB.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/E6Vs8ooWYAAbxUB.jpg",
+                "url": "https://t.co/15zz49WUoj",
+                "display_url": "pic.twitter.com/15zz49WUoj",
+                "expanded_url": "https://twitter.com/Burgosenelmundo/status/1415657449621790721/photo/1",
+                "type": "photo",
+                "sizes": {
+                    "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                    },
+                    "large": {
+                        "w": 1707,
+                        "h": 960,
+                        "resize": "fit"
+                    },
+                    "medium": {
+                        "w": 1200,
+                        "h": 675,
+                        "resize": "fit"
+                    },
+                    "small": {
+                        "w": 680,
+                        "h": 382,
+                        "resize": "fit"
+                    }
+                }
+            }
+        ]
+    },
+    "metadata": {
+        "iso_language_code": "es",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 309059211,
+        "id_str": "309059211",
+        "name": "Burgos en el mundo",
+        "screen_name": "Burgosenelmundo",
+        "location": "Soy de Burgos. Vivo Barcelona",
+        "description": "Mostrando Burgos al mundo. No somos una simple provincia de Espa\u00f1a, somos un mundo llamado Burgos. https://t.co/CmiUHTXavG",
+        "url": "https://t.co/rtlZ2V6K7p",
+        "entities": {
+            "url": {
+                "urls": [
+                    {
+                        "url": "https://t.co/rtlZ2V6K7p",
+                        "expanded_url": "http://www.facebook.com/Burgosenelmundo",
+                        "display_url": "facebook.com/Burgosenelmundo",
+                        "indices": [
+                            0,
+                            23
+                        ]
+                    }
+                ]
+            },
+            "description": {
+                "urls": [
+                    {
+                        "url": "https://t.co/CmiUHTXavG",
+                        "expanded_url": "https://www.instagram.com/Burgosenelmundo/",
+                        "display_url": "instagram.com/Burgosenelmund\u2026",
+                        "indices": [
+                            99,
+                            122
+                        ]
+                    }
+                ]
+            }
+        },
+        "protected": false,
+        "followers_count": 12869,
+        "friends_count": 6382,
+        "listed_count": 116,
+        "created_at": "Wed Jun 01 13:24:22 +0000 2011",
+        "favourites_count": 11131,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 105512,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1347590369836474371/UpxpQiuQ_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1347590369836474371/UpxpQiuQ_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/309059211/1619262483",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 5,
+    "favorite_count": 8,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "es"
+}

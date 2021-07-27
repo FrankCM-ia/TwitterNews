@@ -1,0 +1,167 @@
+{
+    "created_at": "Sun Jul 11 13:16:56 +0000 2021",
+    "id": 1414212108921810944,
+    "id_str": "1414212108921810944",
+    "full_text": "@pachy0210 @MonicaYayaLuyo @vocero_aprista @ereynaabogado @MonicaYaya @Poder_Judicial_ @FiscaliaPeru @Defensoria_Peru Jajaja\ud83d\ude02\ud83d\ude02 Cuando no les dan la raz\u00f3n a los apristas, se llama dictadura. Ah claro pero en el 2do Gobierno de Alan Garc\u00eda mandaron a cerrar radios locales porque hablaban la verdad sobre las acciones apristas en contra del pa\u00eds. All\u00ed no hubo dictadura, pues no pero si CORRUPCI\u00d3N",
+    "truncated": false,
+    "display_text_range": [
+        118,
+        395
+    ],
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "pachy0210",
+                "name": "Francisca del Solar",
+                "id": 150701414,
+                "id_str": "150701414",
+                "indices": [
+                    0,
+                    10
+                ]
+            },
+            {
+                "screen_name": "MonicaYayaLuyo",
+                "name": "M\u00f3nica Yaya",
+                "id": 999289027584020480,
+                "id_str": "999289027584020480",
+                "indices": [
+                    11,
+                    26
+                ]
+            },
+            {
+                "screen_name": "vocero_aprista",
+                "name": "El Vocero Aprista",
+                "id": 571987477,
+                "id_str": "571987477",
+                "indices": [
+                    27,
+                    42
+                ]
+            },
+            {
+                "screen_name": "ereynaabogado",
+                "name": "Erasmo Reyna",
+                "id": 1237286593,
+                "id_str": "1237286593",
+                "indices": [
+                    43,
+                    57
+                ]
+            },
+            {
+                "screen_name": "MonicaYaya",
+                "name": "M\u00f2nica Yaya",
+                "id": 102803486,
+                "id_str": "102803486",
+                "indices": [
+                    58,
+                    69
+                ]
+            },
+            {
+                "screen_name": "Poder_Judicial_",
+                "name": "Poder Judicial Per\u00fa",
+                "id": 271439668,
+                "id_str": "271439668",
+                "indices": [
+                    70,
+                    86
+                ]
+            },
+            {
+                "screen_name": "FiscaliaPeru",
+                "name": "Ministerio P\u00fablico",
+                "id": 302151609,
+                "id_str": "302151609",
+                "indices": [
+                    87,
+                    100
+                ]
+            },
+            {
+                "screen_name": "Defensoria_Peru",
+                "name": "Defensor\u00eda Per\u00fa",
+                "id": 107428718,
+                "id_str": "107428718",
+                "indices": [
+                    101,
+                    117
+                ]
+            }
+        ],
+        "urls": []
+    },
+    "metadata": {
+        "iso_language_code": "es",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "in_reply_to_status_id": 1414105732996386819,
+    "in_reply_to_status_id_str": "1414105732996386819",
+    "in_reply_to_user_id": 150701414,
+    "in_reply_to_user_id_str": "150701414",
+    "in_reply_to_screen_name": "pachy0210",
+    "user": {
+        "id": 353477132,
+        "id_str": "353477132",
+        "name": "Christiano Rodriguez",
+        "screen_name": "Christianorodr",
+        "location": "Lima",
+        "description": "No lo olvidare jamas... Ingeniebro de profesion, con corazon de leon pero cuerpo de oso...",
+        "url": null,
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 132,
+        "friends_count": 282,
+        "listed_count": 2,
+        "created_at": "Fri Aug 12 03:59:51 +0000 2011",
+        "favourites_count": 21250,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 17514,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/748442296400609280/xYCxT4Hs_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/748442296400609280/xYCxT4Hs_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/353477132/1467277599",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": true,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "es"
+}

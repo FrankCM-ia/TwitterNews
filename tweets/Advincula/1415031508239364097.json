@@ -1,0 +1,487 @@
+{
+    "created_at": "Tue Jul 13 19:32:56 +0000 2021",
+    "id": 1415031508239364097,
+    "id_str": "1415031508239364097",
+    "full_text": "RT @xeneizedprimera: \ud83d\udd1c La novedad de #Advincula es #Boca se acerc\u00f3 a los USD2.5m (se estir\u00f3 debido a que quer\u00edan a #Hurtfo pero seguir\u00e1 en\u2026",
+    "truncated": false,
+    "display_text_range": [
+        0,
+        139
+    ],
+    "entities": {
+        "hashtags": [
+            {
+                "text": "Advincula",
+                "indices": [
+                    37,
+                    47
+                ]
+            },
+            {
+                "text": "Boca",
+                "indices": [
+                    51,
+                    56
+                ]
+            },
+            {
+                "text": "Hurtfo",
+                "indices": [
+                    115,
+                    122
+                ]
+            }
+        ],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "xeneizedprimera",
+                "name": "Xeneize de Primera",
+                "id": 3349533100,
+                "id_str": "3349533100",
+                "indices": [
+                    3,
+                    19
+                ]
+            }
+        ],
+        "urls": []
+    },
+    "metadata": {
+        "iso_language_code": "es",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 1280860020540936193,
+        "id_str": "1280860020540936193",
+        "name": "Mauro Castro",
+        "screen_name": "MauroCa80441478",
+        "location": "",
+        "description": "Simpantizante de Boca Jrs desde la cuna\n \nFuturo t\u00e9cnico de Inform\u00e1tica.",
+        "url": null,
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 1173,
+        "friends_count": 1420,
+        "listed_count": 2,
+        "created_at": "Wed Jul 08 13:43:37 +0000 2020",
+        "favourites_count": 5681,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 4722,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": null,
+        "profile_background_image_url_https": null,
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1280861647553343494/ijITvFZA_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1280861647553343494/ijITvFZA_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": true,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+        "created_at": "Tue Jul 13 12:24:19 +0000 2021",
+        "id": 1414923643939868692,
+        "id_str": "1414923643939868692",
+        "full_text": "\ud83d\udd1c La novedad de #Advincula es #Boca se acerc\u00f3 a los USD2.5m (se estir\u00f3 debido a que quer\u00edan a #Hurtfo pero seguir\u00e1 en Brasil) y ahora restan detalles de la firma del contrato. Mucho optimismo. https://t.co/9f1rY8zllB https://t.co/pI2sFF7iIJ",
+        "truncated": false,
+        "display_text_range": [
+            0,
+            216
+        ],
+        "entities": {
+            "hashtags": [
+                {
+                    "text": "Advincula",
+                    "indices": [
+                        16,
+                        26
+                    ]
+                },
+                {
+                    "text": "Boca",
+                    "indices": [
+                        30,
+                        35
+                    ]
+                },
+                {
+                    "text": "Hurtfo",
+                    "indices": [
+                        94,
+                        101
+                    ]
+                }
+            ],
+            "symbols": [],
+            "user_mentions": [],
+            "urls": [
+                {
+                    "url": "https://t.co/9f1rY8zllB",
+                    "expanded_url": "https://twitter.com/xeneizedprimera/status/1401595362889146382",
+                    "display_url": "twitter.com/xeneizedprimer\u2026",
+                    "indices": [
+                        193,
+                        216
+                    ]
+                }
+            ],
+            "media": [
+                {
+                    "id": 1414923638088863746,
+                    "id_str": "1414923638088863746",
+                    "indices": [
+                        217,
+                        240
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/E6LRjWCXEAIOsTB.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/E6LRjWCXEAIOsTB.jpg",
+                    "url": "https://t.co/pI2sFF7iIJ",
+                    "display_url": "pic.twitter.com/pI2sFF7iIJ",
+                    "expanded_url": "https://twitter.com/xeneizedprimera/status/1414923643939868692/photo/1",
+                    "type": "photo",
+                    "sizes": {
+                        "small": {
+                            "w": 680,
+                            "h": 383,
+                            "resize": "fit"
+                        },
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "large": {
+                            "w": 862,
+                            "h": 485,
+                            "resize": "fit"
+                        },
+                        "medium": {
+                            "w": 862,
+                            "h": 485,
+                            "resize": "fit"
+                        }
+                    }
+                }
+            ]
+        },
+        "extended_entities": {
+            "media": [
+                {
+                    "id": 1414923638088863746,
+                    "id_str": "1414923638088863746",
+                    "indices": [
+                        217,
+                        240
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/E6LRjWCXEAIOsTB.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/E6LRjWCXEAIOsTB.jpg",
+                    "url": "https://t.co/pI2sFF7iIJ",
+                    "display_url": "pic.twitter.com/pI2sFF7iIJ",
+                    "expanded_url": "https://twitter.com/xeneizedprimera/status/1414923643939868692/photo/1",
+                    "type": "photo",
+                    "sizes": {
+                        "small": {
+                            "w": 680,
+                            "h": 383,
+                            "resize": "fit"
+                        },
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "large": {
+                            "w": 862,
+                            "h": 485,
+                            "resize": "fit"
+                        },
+                        "medium": {
+                            "w": 862,
+                            "h": 485,
+                            "resize": "fit"
+                        }
+                    }
+                }
+            ]
+        },
+        "metadata": {
+            "iso_language_code": "es",
+            "result_type": "recent"
+        },
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 3349533100,
+            "id_str": "3349533100",
+            "name": "Xeneize de Primera",
+            "screen_name": "xeneizedprimera",
+            "location": "",
+            "description": "Cuenta informativa del Club Atl\u00e9tico Boca Juniors. O sos de Boca o sos Anti-Boca y los goles que m\u00e1s se gritan son los de Boca y los que le hacen a Boca.",
+            "url": "https://t.co/WP2N8oFikN",
+            "entities": {
+                "url": {
+                    "urls": [
+                        {
+                            "url": "https://t.co/WP2N8oFikN",
+                            "expanded_url": "http://www.instagram.com/xeneizedeprimera",
+                            "display_url": "instagram.com/xeneizedeprime\u2026",
+                            "indices": [
+                                0,
+                                23
+                            ]
+                        }
+                    ]
+                },
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 8151,
+            "friends_count": 394,
+            "listed_count": 46,
+            "created_at": "Sun Jun 28 18:09:50 +0000 2015",
+            "favourites_count": 33732,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": true,
+            "verified": false,
+            "statuses_count": 29913,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "C0DEED",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1074344332499525632/XEO1DIE0_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1074344332499525632/XEO1DIE0_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/3349533100/1538621782",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "has_extended_profile": false,
+            "default_profile": true,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none",
+            "withheld_in_countries": []
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": true,
+        "quoted_status_id": 1401595362889146382,
+        "quoted_status_id_str": "1401595362889146382",
+        "quoted_status": {
+            "created_at": "Sun Jun 06 17:42:29 +0000 2021",
+            "id": 1401595362889146382,
+            "id_str": "1401595362889146382",
+            "full_text": "\u23ef #LATERAL | #Advincula puede llegar, Independientemente de si se mantiene en 1era o no, no jugar\u00eda los #Octavos debido a que llega Justo con el tiempo por jugar #CopaAmerica, si puede estar en la lista a partir de 4tos. #Weingandt ser\u00e1 el lateral derecho de #Octavos https://t.co/cGZMaPTCrh",
+            "truncated": false,
+            "display_text_range": [
+                0,
+                267
+            ],
+            "entities": {
+                "hashtags": [
+                    {
+                        "text": "LATERAL",
+                        "indices": [
+                            2,
+                            10
+                        ]
+                    },
+                    {
+                        "text": "Advincula",
+                        "indices": [
+                            13,
+                            23
+                        ]
+                    },
+                    {
+                        "text": "Octavos",
+                        "indices": [
+                            104,
+                            112
+                        ]
+                    },
+                    {
+                        "text": "CopaAmerica",
+                        "indices": [
+                            162,
+                            174
+                        ]
+                    },
+                    {
+                        "text": "Weingandt",
+                        "indices": [
+                            221,
+                            231
+                        ]
+                    },
+                    {
+                        "text": "Octavos",
+                        "indices": [
+                            259,
+                            267
+                        ]
+                    }
+                ],
+                "symbols": [],
+                "user_mentions": [],
+                "urls": [
+                    {
+                        "url": "https://t.co/cGZMaPTCrh",
+                        "expanded_url": "https://twitter.com/xeneizedprimera/status/1401271274190614535",
+                        "display_url": "twitter.com/xeneizedprimer\u2026",
+                        "indices": [
+                            268,
+                            291
+                        ]
+                    }
+                ]
+            },
+            "metadata": {
+                "iso_language_code": "es",
+                "result_type": "recent"
+            },
+            "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+            "in_reply_to_status_id": null,
+            "in_reply_to_status_id_str": null,
+            "in_reply_to_user_id": null,
+            "in_reply_to_user_id_str": null,
+            "in_reply_to_screen_name": null,
+            "user": {
+                "id": 3349533100,
+                "id_str": "3349533100",
+                "name": "Xeneize de Primera",
+                "screen_name": "xeneizedprimera",
+                "location": "",
+                "description": "Cuenta informativa del Club Atl\u00e9tico Boca Juniors. O sos de Boca o sos Anti-Boca y los goles que m\u00e1s se gritan son los de Boca y los que le hacen a Boca.",
+                "url": "https://t.co/WP2N8oFikN",
+                "entities": {
+                    "url": {
+                        "urls": [
+                            {
+                                "url": "https://t.co/WP2N8oFikN",
+                                "expanded_url": "http://www.instagram.com/xeneizedeprimera",
+                                "display_url": "instagram.com/xeneizedeprime\u2026",
+                                "indices": [
+                                    0,
+                                    23
+                                ]
+                            }
+                        ]
+                    },
+                    "description": {
+                        "urls": []
+                    }
+                },
+                "protected": false,
+                "followers_count": 8151,
+                "friends_count": 394,
+                "listed_count": 46,
+                "created_at": "Sun Jun 28 18:09:50 +0000 2015",
+                "favourites_count": 33732,
+                "utc_offset": null,
+                "time_zone": null,
+                "geo_enabled": true,
+                "verified": false,
+                "statuses_count": 29913,
+                "lang": null,
+                "contributors_enabled": false,
+                "is_translator": false,
+                "is_translation_enabled": false,
+                "profile_background_color": "C0DEED",
+                "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+                "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+                "profile_background_tile": false,
+                "profile_image_url": "http://pbs.twimg.com/profile_images/1074344332499525632/XEO1DIE0_normal.jpg",
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/1074344332499525632/XEO1DIE0_normal.jpg",
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/3349533100/1538621782",
+                "profile_link_color": "1DA1F2",
+                "profile_sidebar_border_color": "C0DEED",
+                "profile_sidebar_fill_color": "DDEEF6",
+                "profile_text_color": "333333",
+                "profile_use_background_image": true,
+                "has_extended_profile": false,
+                "default_profile": true,
+                "default_profile_image": false,
+                "following": false,
+                "follow_request_sent": false,
+                "notifications": false,
+                "translator_type": "none",
+                "withheld_in_countries": []
+            },
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "contributors": null,
+            "is_quote_status": true,
+            "quoted_status_id": 1401271274190614535,
+            "quoted_status_id_str": "1401271274190614535",
+            "retweet_count": 7,
+            "favorite_count": 97,
+            "favorited": false,
+            "retweeted": false,
+            "possibly_sensitive": false,
+            "lang": "es"
+        },
+        "retweet_count": 2,
+        "favorite_count": 33,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "es"
+    },
+    "is_quote_status": true,
+    "quoted_status_id": 1401595362889146382,
+    "quoted_status_id_str": "1401595362889146382",
+    "retweet_count": 2,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "es"
+}

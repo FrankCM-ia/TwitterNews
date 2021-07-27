@@ -1,0 +1,349 @@
+{
+    "created_at": "Tue Jul 13 00:03:22 +0000 2021",
+    "id": 1414737179205677056,
+    "id_str": "1414737179205677056",
+    "full_text": "RT @Barrio_Futbol: \ud83c\udf99\ufe0f @belenduranok \ud83c\udde6\ud83c\uddf7, periodista de @Rivadavia630: \"No sabemos exactamente los puntos que faltan cerrar en el contrato, p\u2026",
+    "truncated": false,
+    "display_text_range": [
+        0,
+        140
+    ],
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "Barrio_Futbol",
+                "name": "Barrio F\u00fatbol | Per\u00fa",
+                "id": 348289467,
+                "id_str": "348289467",
+                "indices": [
+                    3,
+                    17
+                ]
+            },
+            {
+                "screen_name": "belenduranok",
+                "name": "Luli",
+                "id": 1348782094529523716,
+                "id_str": "1348782094529523716",
+                "indices": [
+                    22,
+                    35
+                ]
+            },
+            {
+                "screen_name": "Rivadavia630",
+                "name": "Radio Rivadavia",
+                "id": 151170333,
+                "id_str": "151170333",
+                "indices": [
+                    54,
+                    67
+                ]
+            }
+        ],
+        "urls": []
+    },
+    "metadata": {
+        "iso_language_code": "es",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 964285313127452672,
+        "id_str": "964285313127452672",
+        "name": "J J Mesta",
+        "screen_name": "jhon_mesta99",
+        "location": "Miraflores, Peru",
+        "description": "Amante del f\u00fatbol y la radio\ud83c\udf99\ud83d\udcfb\u26bd\ufe0f \ud83d\udd25 Actualmente en la asistencia de producci\u00f3n en @barrio_futbol; redes @VocesFutbolPeru y @Radiounionperu",
+        "url": "https://t.co/yI02ibhlFs",
+        "entities": {
+            "url": {
+                "urls": [
+                    {
+                        "url": "https://t.co/yI02ibhlFs",
+                        "expanded_url": "https://www.instagram.com/jhon_mesta/?hl=es-la",
+                        "display_url": "instagram.com/jhon_mesta/?hl\u2026",
+                        "indices": [
+                            0,
+                            23
+                        ]
+                    }
+                ]
+            },
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 115,
+        "friends_count": 102,
+        "listed_count": 1,
+        "created_at": "Thu Feb 15 23:48:28 +0000 2018",
+        "favourites_count": 2260,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 1052,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": null,
+        "profile_background_image_url_https": null,
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1280581507506221065/uXo3OFC9_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1280581507506221065/uXo3OFC9_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/964285313127452672/1594944577",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": true,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+        "created_at": "Mon Jul 12 23:08:33 +0000 2021",
+        "id": 1414723382675918850,
+        "id_str": "1414723382675918850",
+        "full_text": "\ud83c\udf99\ufe0f @belenduranok \ud83c\udde6\ud83c\uddf7, periodista de @Rivadavia630: \"No sabemos exactamente los puntos que faltan cerrar en el contrato, pero con Adv\u00edncula ya est\u00e1 todo arreglado. Boca compr\u00f3 el 100% de su pase y me animo a decir que esto se resuelve en las pr\u00f3ximas horas\".\n\n\ud83d\udd0a @RadioUnionPeru https://t.co/A3eZ4Xuon6",
+        "truncated": false,
+        "display_text_range": [
+            0,
+            275
+        ],
+        "entities": {
+            "hashtags": [],
+            "symbols": [],
+            "user_mentions": [
+                {
+                    "screen_name": "belenduranok",
+                    "name": "Luli",
+                    "id": 1348782094529523716,
+                    "id_str": "1348782094529523716",
+                    "indices": [
+                        3,
+                        16
+                    ]
+                },
+                {
+                    "screen_name": "Rivadavia630",
+                    "name": "Radio Rivadavia",
+                    "id": 151170333,
+                    "id_str": "151170333",
+                    "indices": [
+                        35,
+                        48
+                    ]
+                },
+                {
+                    "screen_name": "RadioUnionPeru",
+                    "name": "Radio Uni\u00f3n",
+                    "id": 288237812,
+                    "id_str": "288237812",
+                    "indices": [
+                        260,
+                        275
+                    ]
+                }
+            ],
+            "urls": [],
+            "media": [
+                {
+                    "id": 1414723289994436614,
+                    "id_str": "1414723289994436614",
+                    "indices": [
+                        276,
+                        299
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/E6IbVjOXIAY66Vu.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/E6IbVjOXIAY66Vu.jpg",
+                    "url": "https://t.co/A3eZ4Xuon6",
+                    "display_url": "pic.twitter.com/A3eZ4Xuon6",
+                    "expanded_url": "https://twitter.com/Barrio_Futbol/status/1414723382675918850/photo/1",
+                    "type": "photo",
+                    "sizes": {
+                        "medium": {
+                            "w": 608,
+                            "h": 342,
+                            "resize": "fit"
+                        },
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "small": {
+                            "w": 608,
+                            "h": 342,
+                            "resize": "fit"
+                        },
+                        "large": {
+                            "w": 608,
+                            "h": 342,
+                            "resize": "fit"
+                        }
+                    }
+                }
+            ]
+        },
+        "extended_entities": {
+            "media": [
+                {
+                    "id": 1414723289994436614,
+                    "id_str": "1414723289994436614",
+                    "indices": [
+                        276,
+                        299
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/E6IbVjOXIAY66Vu.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/E6IbVjOXIAY66Vu.jpg",
+                    "url": "https://t.co/A3eZ4Xuon6",
+                    "display_url": "pic.twitter.com/A3eZ4Xuon6",
+                    "expanded_url": "https://twitter.com/Barrio_Futbol/status/1414723382675918850/photo/1",
+                    "type": "photo",
+                    "sizes": {
+                        "medium": {
+                            "w": 608,
+                            "h": 342,
+                            "resize": "fit"
+                        },
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "small": {
+                            "w": 608,
+                            "h": 342,
+                            "resize": "fit"
+                        },
+                        "large": {
+                            "w": 608,
+                            "h": 342,
+                            "resize": "fit"
+                        }
+                    }
+                }
+            ]
+        },
+        "metadata": {
+            "iso_language_code": "es",
+            "result_type": "recent"
+        },
+        "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 348289467,
+            "id_str": "348289467",
+            "name": "Barrio F\u00fatbol | Per\u00fa",
+            "screen_name": "Barrio_Futbol",
+            "location": "Lima, Per\u00fa",
+            "description": "\ud83c\udf99 Conducido por Paco Baz\u00e1n, @tuleenomas y @NestorBlancoH.\n\ud83d\uddd3 Lunes a Viernes de \u23f0 5 a 6 p.m. por @RadioUnionPeru 103.3 FM.\n\ud83d\udcfb https://t.co/LxmdB7SlAc",
+            "url": "https://t.co/fgSKC4mQCw",
+            "entities": {
+                "url": {
+                    "urls": [
+                        {
+                            "url": "https://t.co/fgSKC4mQCw",
+                            "expanded_url": "https://www.instagram.com/barriofutbol.pe/",
+                            "display_url": "instagram.com/barriofutbol.p\u2026",
+                            "indices": [
+                                0,
+                                23
+                            ]
+                        }
+                    ]
+                },
+                "description": {
+                    "urls": [
+                        {
+                            "url": "https://t.co/LxmdB7SlAc",
+                            "expanded_url": "http://radios.com.pe/union",
+                            "display_url": "radios.com.pe/union",
+                            "indices": [
+                                124,
+                                147
+                            ]
+                        }
+                    ]
+                }
+            },
+            "protected": false,
+            "followers_count": 26116,
+            "friends_count": 948,
+            "listed_count": 97,
+            "created_at": "Thu Aug 04 05:29:21 +0000 2011",
+            "favourites_count": 4438,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": true,
+            "verified": false,
+            "statuses_count": 17420,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": true,
+            "profile_background_color": "000000",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/902169731800731648/zHKPm7A__normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/902169731800731648/zHKPm7A__normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/348289467/1597692716",
+            "profile_link_color": "4A990C",
+            "profile_sidebar_border_color": "000000",
+            "profile_sidebar_fill_color": "000000",
+            "profile_text_color": "000000",
+            "profile_use_background_image": false,
+            "has_extended_profile": false,
+            "default_profile": false,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none",
+            "withheld_in_countries": []
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 4,
+        "favorite_count": 30,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "es"
+    },
+    "is_quote_status": false,
+    "retweet_count": 4,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "es"
+}

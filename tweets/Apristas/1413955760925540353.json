@@ -1,0 +1,96 @@
+{
+    "created_at": "Sat Jul 10 20:18:18 +0000 2021",
+    "id": 1413955760925540353,
+    "id_str": "1413955760925540353",
+    "full_text": "@alfonsobaella si gana la chica corrupta de nuevo vamos ha estar sometidos a su dictadura apoderarse de todas las entidades del Estado regresa su t\u00edo Vladimiro los apristas todo va hacer Corrupci\u00f3n con ella, con Castillo  NO ! Todo el Per\u00fa no quiere  a Kk !",
+    "truncated": false,
+    "display_text_range": [
+        15,
+        257
+    ],
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "alfonsobaella",
+                "name": "Alfonso Baella",
+                "id": 47856037,
+                "id_str": "47856037",
+                "indices": [
+                    0,
+                    14
+                ]
+            }
+        ],
+        "urls": []
+    },
+    "metadata": {
+        "iso_language_code": "es",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "in_reply_to_status_id": 1413114249627451396,
+    "in_reply_to_status_id_str": "1413114249627451396",
+    "in_reply_to_user_id": 47856037,
+    "in_reply_to_user_id_str": "47856037",
+    "in_reply_to_screen_name": "alfonsobaella",
+    "user": {
+        "id": 1036801954427691008,
+        "id_str": "1036801954427691008",
+        "name": "Arturo Garay",
+        "screen_name": "ArturoG22597891",
+        "location": "",
+        "description": "",
+        "url": null,
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 0,
+        "friends_count": 18,
+        "listed_count": 0,
+        "created_at": "Tue Sep 04 02:23:43 +0000 2018",
+        "favourites_count": 6,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 271,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": null,
+        "profile_background_image_url_https": null,
+        "profile_background_tile": false,
+        "profile_image_url": "http://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+        "profile_image_url_https": "https://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": true,
+        "default_profile_image": true,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "es"
+}

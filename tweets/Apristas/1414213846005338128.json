@@ -1,0 +1,317 @@
+{
+    "created_at": "Sun Jul 11 13:23:50 +0000 2021",
+    "id": 1414213846005338128,
+    "id_str": "1414213846005338128",
+    "full_text": "RT @Soy_Aprista: Partido Aprista se pronuncia contra el veto del @LUMoficial a pel\u00edcula sobre m\u00e1rtires apristas asesinados por Sendero Lumi\u2026",
+    "truncated": false,
+    "display_text_range": [
+        0,
+        140
+    ],
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "Soy_Aprista",
+                "name": "Soy Aprista",
+                "id": 57545700,
+                "id_str": "57545700",
+                "indices": [
+                    3,
+                    15
+                ]
+            },
+            {
+                "screen_name": "LUMoficial",
+                "name": "Lugar de la Memoria \ud83c\uddf5\ud83c\uddea",
+                "id": 950480466,
+                "id_str": "950480466",
+                "indices": [
+                    65,
+                    76
+                ]
+            }
+        ],
+        "urls": []
+    },
+    "metadata": {
+        "iso_language_code": "es",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 1114599365669265408,
+        "id_str": "1114599365669265408",
+        "name": "ygamonal6",
+        "screen_name": "ygamonal6",
+        "location": "",
+        "description": "Car\u00e1cter",
+        "url": null,
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 141,
+        "friends_count": 138,
+        "listed_count": 0,
+        "created_at": "Sat Apr 06 18:42:51 +0000 2019",
+        "favourites_count": 104853,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 26283,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": null,
+        "profile_background_image_url_https": null,
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1382895877736570880/K-bYbuEu_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1382895877736570880/K-bYbuEu_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+        "created_at": "Sat Jul 10 20:13:10 +0000 2021",
+        "id": 1413954469692428288,
+        "id_str": "1413954469692428288",
+        "full_text": "Partido Aprista se pronuncia contra el veto del @LUMoficial a pel\u00edcula sobre m\u00e1rtires apristas asesinados por Sendero Luminoso.\n\n1214 #NoTememosALosCobardes #TerrorismoNuncaM\u00e1s #DerechosHumanos https://t.co/btmpT6Dd53",
+        "truncated": false,
+        "display_text_range": [
+            0,
+            193
+        ],
+        "entities": {
+            "hashtags": [
+                {
+                    "text": "NoTememosALosCobardes",
+                    "indices": [
+                        134,
+                        156
+                    ]
+                },
+                {
+                    "text": "TerrorismoNuncaM\u00e1s",
+                    "indices": [
+                        157,
+                        176
+                    ]
+                },
+                {
+                    "text": "DerechosHumanos",
+                    "indices": [
+                        177,
+                        193
+                    ]
+                }
+            ],
+            "symbols": [],
+            "user_mentions": [
+                {
+                    "screen_name": "LUMoficial",
+                    "name": "Lugar de la Memoria \ud83c\uddf5\ud83c\uddea",
+                    "id": 950480466,
+                    "id_str": "950480466",
+                    "indices": [
+                        48,
+                        59
+                    ]
+                }
+            ],
+            "urls": [],
+            "media": [
+                {
+                    "id": 1413954460544638978,
+                    "id_str": "1413954460544638978",
+                    "indices": [
+                        194,
+                        217
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/E59gFyVXoAIAcFj.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/E59gFyVXoAIAcFj.jpg",
+                    "url": "https://t.co/btmpT6Dd53",
+                    "display_url": "pic.twitter.com/btmpT6Dd53",
+                    "expanded_url": "https://twitter.com/Soy_Aprista/status/1413954469692428288/photo/1",
+                    "type": "photo",
+                    "sizes": {
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "medium": {
+                            "w": 850,
+                            "h": 1200,
+                            "resize": "fit"
+                        },
+                        "large": {
+                            "w": 1133,
+                            "h": 1600,
+                            "resize": "fit"
+                        },
+                        "small": {
+                            "w": 482,
+                            "h": 680,
+                            "resize": "fit"
+                        }
+                    }
+                }
+            ]
+        },
+        "extended_entities": {
+            "media": [
+                {
+                    "id": 1413954460544638978,
+                    "id_str": "1413954460544638978",
+                    "indices": [
+                        194,
+                        217
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/E59gFyVXoAIAcFj.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/E59gFyVXoAIAcFj.jpg",
+                    "url": "https://t.co/btmpT6Dd53",
+                    "display_url": "pic.twitter.com/btmpT6Dd53",
+                    "expanded_url": "https://twitter.com/Soy_Aprista/status/1413954469692428288/photo/1",
+                    "type": "photo",
+                    "sizes": {
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "medium": {
+                            "w": 850,
+                            "h": 1200,
+                            "resize": "fit"
+                        },
+                        "large": {
+                            "w": 1133,
+                            "h": 1600,
+                            "resize": "fit"
+                        },
+                        "small": {
+                            "w": 482,
+                            "h": 680,
+                            "resize": "fit"
+                        }
+                    }
+                }
+            ]
+        },
+        "metadata": {
+            "iso_language_code": "es",
+            "result_type": "recent"
+        },
+        "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 57545700,
+            "id_str": "57545700",
+            "name": "Soy Aprista",
+            "screen_name": "Soy_Aprista",
+            "location": "https://www.facebook.com/pages",
+            "description": "\u00a1Pan con Libertad papi!",
+            "url": "http://t.co/mQj9mJcuIG",
+            "entities": {
+                "url": {
+                    "urls": [
+                        {
+                            "url": "http://t.co/mQj9mJcuIG",
+                            "expanded_url": "http://www.oizquierdo.blogspot.com",
+                            "display_url": "oizquierdo.blogspot.com",
+                            "indices": [
+                                0,
+                                22
+                            ]
+                        }
+                    ]
+                },
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 9068,
+            "friends_count": 1579,
+            "listed_count": 21,
+            "created_at": "Fri Jul 17 03:58:17 +0000 2009",
+            "favourites_count": 8601,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": true,
+            "verified": false,
+            "statuses_count": 55482,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "709397",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+            "profile_background_tile": true,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1410627278762020869/S4lk0syq_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1410627278762020869/S4lk0syq_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/57545700/1530562247",
+            "profile_link_color": "1B95E0",
+            "profile_sidebar_border_color": "FFFFFF",
+            "profile_sidebar_fill_color": "A0C5C7",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "has_extended_profile": true,
+            "default_profile": false,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none",
+            "withheld_in_countries": []
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 90,
+        "favorite_count": 207,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "es"
+    },
+    "is_quote_status": false,
+    "retweet_count": 90,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "es"
+}

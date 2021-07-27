@@ -1,0 +1,270 @@
+{
+    "created_at": "Fri Jul 16 00:13:32 +0000 2021",
+    "id": 1415826899364941824,
+    "id_str": "1415826899364941824",
+    "full_text": "RT @Rivar_2021: Hasta que llegaron al poder, de la mano de Castillo, Cerr\u00f3n, Bermejo y compa\u00f1\u00eda. Todo con la complicidad caviar que secuest\u2026",
+    "truncated": false,
+    "display_text_range": [
+        0,
+        140
+    ],
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "Rivar_2021",
+                "name": "Ricardo Vargas",
+                "id": 856794090083581952,
+                "id_str": "856794090083581952",
+                "indices": [
+                    3,
+                    14
+                ]
+            }
+        ],
+        "urls": []
+    },
+    "metadata": {
+        "iso_language_code": "es",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 1080604230875049985,
+        "id_str": "1080604230875049985",
+        "name": "Buscando Nuevas",
+        "screen_name": "buscandonuevas",
+        "location": "",
+        "description": "Trabajar es necesario para surgir. Nunca he vivido del estado, \u00e9ste debe ofrecer estabilidad, libertad y paz, nada gratis. HOY EN LUCHA X LA LIBERTAD DEL PERU",
+        "url": null,
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 404,
+        "friends_count": 196,
+        "listed_count": 2,
+        "created_at": "Wed Jan 02 23:18:20 +0000 2019",
+        "favourites_count": 6635,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 60004,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": null,
+        "profile_background_image_url_https": null,
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1411538791081336833/emsPGZJq_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1411538791081336833/emsPGZJq_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1080604230875049985/1622165329",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+        "created_at": "Fri Jul 16 00:06:03 +0000 2021",
+        "id": 1415825016701267969,
+        "id_str": "1415825016701267969",
+        "full_text": "Hasta que llegaron al poder, de la mano de Castillo, Cerr\u00f3n, Bermejo y compa\u00f1\u00eda. Todo con la complicidad caviar que secuestraron los poderes del estado. Solo la calle y un levantamiento popular  evitara esta TRAGEDIA.\n#SagastiGolpistaCTM https://t.co/mxgsRhFeXB",
+        "truncated": false,
+        "display_text_range": [
+            0,
+            237
+        ],
+        "entities": {
+            "hashtags": [
+                {
+                    "text": "SagastiGolpistaCTM",
+                    "indices": [
+                        218,
+                        237
+                    ]
+                }
+            ],
+            "symbols": [],
+            "user_mentions": [],
+            "urls": [],
+            "media": [
+                {
+                    "id": 1415824596209700865,
+                    "id_str": "1415824596209700865",
+                    "indices": [
+                        238,
+                        261
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/E6YE-AlXEAERUC3.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/E6YE-AlXEAERUC3.jpg",
+                    "url": "https://t.co/mxgsRhFeXB",
+                    "display_url": "pic.twitter.com/mxgsRhFeXB",
+                    "expanded_url": "https://twitter.com/Rivar_2021/status/1415825016701267969/photo/1",
+                    "type": "photo",
+                    "sizes": {
+                        "small": {
+                            "w": 680,
+                            "h": 453,
+                            "resize": "fit"
+                        },
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "large": {
+                            "w": 1800,
+                            "h": 1198,
+                            "resize": "fit"
+                        },
+                        "medium": {
+                            "w": 1200,
+                            "h": 799,
+                            "resize": "fit"
+                        }
+                    }
+                }
+            ]
+        },
+        "extended_entities": {
+            "media": [
+                {
+                    "id": 1415824596209700865,
+                    "id_str": "1415824596209700865",
+                    "indices": [
+                        238,
+                        261
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/E6YE-AlXEAERUC3.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/E6YE-AlXEAERUC3.jpg",
+                    "url": "https://t.co/mxgsRhFeXB",
+                    "display_url": "pic.twitter.com/mxgsRhFeXB",
+                    "expanded_url": "https://twitter.com/Rivar_2021/status/1415825016701267969/photo/1",
+                    "type": "photo",
+                    "sizes": {
+                        "small": {
+                            "w": 680,
+                            "h": 453,
+                            "resize": "fit"
+                        },
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "large": {
+                            "w": 1800,
+                            "h": 1198,
+                            "resize": "fit"
+                        },
+                        "medium": {
+                            "w": 1200,
+                            "h": 799,
+                            "resize": "fit"
+                        }
+                    }
+                }
+            ]
+        },
+        "metadata": {
+            "iso_language_code": "es",
+            "result_type": "recent"
+        },
+        "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 856794090083581952,
+            "id_str": "856794090083581952",
+            "name": "Ricardo Vargas",
+            "screen_name": "Rivar_2021",
+            "location": "",
+            "description": "Libertario. El libre mercado es ancestral.",
+            "url": null,
+            "entities": {
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 620,
+            "friends_count": 517,
+            "listed_count": 1,
+            "created_at": "Tue Apr 25 08:56:44 +0000 2017",
+            "favourites_count": 5278,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": false,
+            "verified": false,
+            "statuses_count": 8658,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "F5F8FA",
+            "profile_background_image_url": null,
+            "profile_background_image_url_https": null,
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1381783020215091201/15yqsbF7_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1381783020215091201/15yqsbF7_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/856794090083581952/1607030771",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "has_extended_profile": false,
+            "default_profile": true,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none",
+            "withheld_in_countries": []
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 1,
+        "favorite_count": 0,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "es"
+    },
+    "is_quote_status": false,
+    "retweet_count": 1,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "es"
+}

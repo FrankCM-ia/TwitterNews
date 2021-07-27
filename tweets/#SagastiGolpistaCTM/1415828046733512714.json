@@ -1,0 +1,433 @@
+{
+    "created_at": "Fri Jul 16 00:18:05 +0000 2021",
+    "id": 1415828046733512714,
+    "id_str": "1415828046733512714",
+    "full_text": "RT @marcialrojo: Pamela versus Pamela.\nDebido a marchas violentas del @partidomoradoy y al asesinato de 2 delincuentes que quisieron poner\u2026",
+    "truncated": false,
+    "display_text_range": [
+        0,
+        139
+    ],
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "marcialrojo",
+                "name": "Rojo No Rojo",
+                "id": 148040013,
+                "id_str": "148040013",
+                "indices": [
+                    3,
+                    15
+                ]
+            }
+        ],
+        "urls": []
+    },
+    "metadata": {
+        "iso_language_code": "es",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 1322872588234858501,
+        "id_str": "1322872588234858501",
+        "name": "Victor",
+        "screen_name": "Victor85169093",
+        "location": "",
+        "description": "honesto",
+        "url": null,
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 65,
+        "friends_count": 208,
+        "listed_count": 0,
+        "created_at": "Sun Nov 01 12:06:47 +0000 2020",
+        "favourites_count": 22305,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 6611,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": null,
+        "profile_background_image_url_https": null,
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1373006775046316032/v-rKGqqN_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1373006775046316032/v-rKGqqN_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": true,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+        "created_at": "Thu Jul 15 23:52:11 +0000 2021",
+        "id": 1415821529041055745,
+        "id_str": "1415821529041055745",
+        "full_text": "Pamela versus Pamela.\nDebido a marchas violentas del @partidomoradoy y al asesinato de 2 delincuentes que quisieron poner de h\u00e9roes @FSagasti accedi\u00f3 al Poder\n#SagastiElPuebloTeRepudia \n#SagastiSeJodioElPuebloYaSalio \n#SagastiGolpistaCTM \n#SagastiGolpistaCTM \n#SagastiGolpistaCTM https://t.co/mJD2oSbIBr https://t.co/AuTlGrbWGK",
+        "truncated": false,
+        "display_text_range": [
+            0,
+            303
+        ],
+        "entities": {
+            "hashtags": [
+                {
+                    "text": "SagastiElPuebloTeRepudia",
+                    "indices": [
+                        159,
+                        184
+                    ]
+                },
+                {
+                    "text": "SagastiSeJodioElPuebloYaSalio",
+                    "indices": [
+                        186,
+                        216
+                    ]
+                },
+                {
+                    "text": "SagastiGolpistaCTM",
+                    "indices": [
+                        218,
+                        237
+                    ]
+                },
+                {
+                    "text": "SagastiGolpistaCTM",
+                    "indices": [
+                        239,
+                        258
+                    ]
+                },
+                {
+                    "text": "SagastiGolpistaCTM",
+                    "indices": [
+                        260,
+                        279
+                    ]
+                }
+            ],
+            "symbols": [],
+            "user_mentions": [
+                {
+                    "screen_name": "FSagasti",
+                    "name": "Francisco Sagasti",
+                    "id": 472996281,
+                    "id_str": "472996281",
+                    "indices": [
+                        132,
+                        141
+                    ]
+                }
+            ],
+            "urls": [
+                {
+                    "url": "https://t.co/mJD2oSbIBr",
+                    "expanded_url": "https://twitter.com/piacostar/status/1415648707807268868",
+                    "display_url": "twitter.com/piacostar/stat\u2026",
+                    "indices": [
+                        280,
+                        303
+                    ]
+                }
+            ],
+            "media": [
+                {
+                    "id": 1415821519687753747,
+                    "id_str": "1415821519687753747",
+                    "indices": [
+                        304,
+                        327
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/E6YCK7pXoBMp2EH.png",
+                    "media_url_https": "https://pbs.twimg.com/media/E6YCK7pXoBMp2EH.png",
+                    "url": "https://t.co/AuTlGrbWGK",
+                    "display_url": "pic.twitter.com/AuTlGrbWGK",
+                    "expanded_url": "https://twitter.com/marcialrojo/status/1415821529041055745/photo/1",
+                    "type": "photo",
+                    "sizes": {
+                        "small": {
+                            "w": 680,
+                            "h": 515,
+                            "resize": "fit"
+                        },
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "medium": {
+                            "w": 680,
+                            "h": 515,
+                            "resize": "fit"
+                        },
+                        "large": {
+                            "w": 680,
+                            "h": 515,
+                            "resize": "fit"
+                        }
+                    }
+                }
+            ]
+        },
+        "extended_entities": {
+            "media": [
+                {
+                    "id": 1415821519687753747,
+                    "id_str": "1415821519687753747",
+                    "indices": [
+                        304,
+                        327
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/E6YCK7pXoBMp2EH.png",
+                    "media_url_https": "https://pbs.twimg.com/media/E6YCK7pXoBMp2EH.png",
+                    "url": "https://t.co/AuTlGrbWGK",
+                    "display_url": "pic.twitter.com/AuTlGrbWGK",
+                    "expanded_url": "https://twitter.com/marcialrojo/status/1415821529041055745/photo/1",
+                    "type": "photo",
+                    "sizes": {
+                        "small": {
+                            "w": 680,
+                            "h": 515,
+                            "resize": "fit"
+                        },
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "medium": {
+                            "w": 680,
+                            "h": 515,
+                            "resize": "fit"
+                        },
+                        "large": {
+                            "w": 680,
+                            "h": 515,
+                            "resize": "fit"
+                        }
+                    }
+                }
+            ]
+        },
+        "metadata": {
+            "iso_language_code": "es",
+            "result_type": "recent"
+        },
+        "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 148040013,
+            "id_str": "148040013",
+            "name": "Rojo No Rojo",
+            "screen_name": "marcialrojo",
+            "location": "lima, peru",
+            "description": "Foco en resultados, liderazgo y trabajo en equipo. Gerencia general, comercial, de sistemas, canales, proyectos, procesos e implantaci\u00f3n de software empresarial",
+            "url": "http://t.co/f0U8XAmlu9",
+            "entities": {
+                "url": {
+                    "urls": [
+                        {
+                            "url": "http://t.co/f0U8XAmlu9",
+                            "expanded_url": "http://linkedin.com/in/marcialrojo",
+                            "display_url": "linkedin.com/in/marcialrojo",
+                            "indices": [
+                                0,
+                                22
+                            ]
+                        }
+                    ]
+                },
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 1988,
+            "friends_count": 4987,
+            "listed_count": 10,
+            "created_at": "Tue May 25 17:43:02 +0000 2010",
+            "favourites_count": 59095,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": true,
+            "verified": false,
+            "statuses_count": 9077,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "0099B9",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme4/bg.gif",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme4/bg.gif",
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1287886026460078081/fWRutr5I_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1287886026460078081/fWRutr5I_normal.jpg",
+            "profile_link_color": "0099B9",
+            "profile_sidebar_border_color": "5ED4DC",
+            "profile_sidebar_fill_color": "95E8EC",
+            "profile_text_color": "3C3940",
+            "profile_use_background_image": true,
+            "has_extended_profile": false,
+            "default_profile": false,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none",
+            "withheld_in_countries": []
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": true,
+        "quoted_status_id": 1415648707807268868,
+        "quoted_status_id_str": "1415648707807268868",
+        "quoted_status": {
+            "created_at": "Thu Jul 15 12:25:28 +0000 2021",
+            "id": 1415648707807268868,
+            "id_str": "1415648707807268868",
+            "full_text": "Si no se act\u00faa pol\u00edtica y penalmente contra grupos radicales como La Resistencia, lo que veremos tras la proclamaci\u00f3n ser\u00e1 peor. No se puede lograr con la fuerza lo que no se logr\u00f3 en las urnas. Es momento de aceptarlo.",
+            "truncated": false,
+            "display_text_range": [
+                0,
+                219
+            ],
+            "entities": {
+                "hashtags": [],
+                "symbols": [],
+                "user_mentions": [],
+                "urls": []
+            },
+            "metadata": {
+                "iso_language_code": "es",
+                "result_type": "recent"
+            },
+            "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+            "in_reply_to_status_id": null,
+            "in_reply_to_status_id_str": null,
+            "in_reply_to_user_id": null,
+            "in_reply_to_user_id_str": null,
+            "in_reply_to_screen_name": null,
+            "user": {
+                "id": 16069446,
+                "id_str": "16069446",
+                "name": "Pamela Acosta",
+                "screen_name": "piacostar",
+                "location": "Lima, Peru",
+                "description": "Periodista, cafetera y soci\u00f3loga en formaci\u00f3n. Trekkie. Queso, d\u00e9nmelo siempre. Estoy en @ptv_noticias y en @cafelabpe \ud83d\udcf0\u2615\ud83d\udcda\ud83d\udd96\ud83e\uddc0",
+                "url": "https://t.co/3o0rRw3gfk",
+                "entities": {
+                    "url": {
+                        "urls": [
+                            {
+                                "url": "https://t.co/3o0rRw3gfk",
+                                "expanded_url": "https://www.instagram.com/piacostar",
+                                "display_url": "instagram.com/piacostar",
+                                "indices": [
+                                    0,
+                                    23
+                                ]
+                            }
+                        ]
+                    },
+                    "description": {
+                        "urls": []
+                    }
+                },
+                "protected": false,
+                "followers_count": 52860,
+                "friends_count": 1386,
+                "listed_count": 386,
+                "created_at": "Sun Aug 31 19:07:23 +0000 2008",
+                "favourites_count": 1404,
+                "utc_offset": null,
+                "time_zone": null,
+                "geo_enabled": true,
+                "verified": true,
+                "statuses_count": 34885,
+                "lang": null,
+                "contributors_enabled": false,
+                "is_translator": false,
+                "is_translation_enabled": false,
+                "profile_background_color": "000000",
+                "profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif",
+                "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif",
+                "profile_background_tile": true,
+                "profile_image_url": "http://pbs.twimg.com/profile_images/1364368639986704386/26VH6ckC_normal.jpg",
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/1364368639986704386/26VH6ckC_normal.jpg",
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/16069446/1593538507",
+                "profile_link_color": "4A913C",
+                "profile_sidebar_border_color": "000000",
+                "profile_sidebar_fill_color": "000000",
+                "profile_text_color": "000000",
+                "profile_use_background_image": true,
+                "has_extended_profile": true,
+                "default_profile": false,
+                "default_profile_image": false,
+                "following": false,
+                "follow_request_sent": false,
+                "notifications": false,
+                "translator_type": "none",
+                "withheld_in_countries": []
+            },
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "contributors": null,
+            "is_quote_status": false,
+            "retweet_count": 257,
+            "favorite_count": 1126,
+            "favorited": false,
+            "retweeted": false,
+            "lang": "es"
+        },
+        "retweet_count": 2,
+        "favorite_count": 5,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "es"
+    },
+    "is_quote_status": true,
+    "quoted_status_id": 1415648707807268868,
+    "quoted_status_id_str": "1415648707807268868",
+    "retweet_count": 2,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "es"
+}

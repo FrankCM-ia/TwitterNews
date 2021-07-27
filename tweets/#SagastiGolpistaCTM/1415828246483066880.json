@@ -1,0 +1,277 @@
+{
+    "created_at": "Fri Jul 16 00:18:53 +0000 2021",
+    "id": 1415828246483066880,
+    "id_str": "1415828246483066880",
+    "full_text": "RT @PasquinDeM: Se\u00f1or Richard:\nEsto lo hacemos por usted, su lucha es nuestra lucha!\nLas manos de Sagasti est\u00e1n manchadas!! \n#SagastiGolpis\u2026",
+    "truncated": false,
+    "display_text_range": [
+        0,
+        140
+    ],
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "PasquinDeM",
+                "name": "\u2119\ud835\udd52\ud835\udd64\ud835\udd62\ud835\udd66\ud835\udd5a\ud835\udd5f \ud835\udd55\ud835\udd56 \ud835\udd44\ud835\udd5a\ud835\udd56\ud835\udd63\ud835\udd54\ud835\udd60\ud835\udd5d\ud835\udd56\ud835\udd64",
+                "id": 729458728274169857,
+                "id_str": "729458728274169857",
+                "indices": [
+                    3,
+                    14
+                ]
+            }
+        ],
+        "urls": []
+    },
+    "metadata": {
+        "iso_language_code": "es",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 354927262,
+        "id_str": "354927262",
+        "name": "\u0391lex\ud83c\udf4a",
+        "screen_name": "alex_4La",
+        "location": "Lima, Peru",
+        "description": "(U)niversitario mi religi\u00f3n\ud83d\ude0e, pol\u00edtica\ud83d\ude06, Ing. \u270c",
+        "url": null,
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 739,
+        "friends_count": 185,
+        "listed_count": 1,
+        "created_at": "Sun Aug 14 14:53:26 +0000 2011",
+        "favourites_count": 35365,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 55107,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/958443177719025665/PzPFz5bJ_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/958443177719025665/PzPFz5bJ_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/354927262/1615867954",
+        "profile_link_color": "4A913C",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "profile_use_background_image": false,
+        "has_extended_profile": true,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+        "created_at": "Thu Jul 15 19:26:04 +0000 2021",
+        "id": 1415754559025258500,
+        "id_str": "1415754559025258500",
+        "full_text": "Se\u00f1or Richard:\nEsto lo hacemos por usted, su lucha es nuestra lucha!\nLas manos de Sagasti est\u00e1n manchadas!! \n#SagastiGolpistaCTM\n#SagastiGolpistaCTM\n\ud83c\uddf5\ud83c\uddea https://t.co/hHvbsXgWbR",
+        "truncated": false,
+        "display_text_range": [
+            0,
+            151
+        ],
+        "entities": {
+            "hashtags": [
+                {
+                    "text": "SagastiGolpistaCTM",
+                    "indices": [
+                        109,
+                        128
+                    ]
+                },
+                {
+                    "text": "SagastiGolpistaCTM",
+                    "indices": [
+                        129,
+                        148
+                    ]
+                }
+            ],
+            "symbols": [],
+            "user_mentions": [],
+            "urls": [],
+            "media": [
+                {
+                    "id": 1415754555820740620,
+                    "id_str": "1415754555820740620",
+                    "indices": [
+                        152,
+                        175
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/E6XFRHzWEAwLL-2.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/E6XFRHzWEAwLL-2.jpg",
+                    "url": "https://t.co/hHvbsXgWbR",
+                    "display_url": "pic.twitter.com/hHvbsXgWbR",
+                    "expanded_url": "https://twitter.com/PasquinDeM/status/1415754559025258500/photo/1",
+                    "type": "photo",
+                    "sizes": {
+                        "large": {
+                            "w": 720,
+                            "h": 1255,
+                            "resize": "fit"
+                        },
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "small": {
+                            "w": 390,
+                            "h": 680,
+                            "resize": "fit"
+                        },
+                        "medium": {
+                            "w": 688,
+                            "h": 1200,
+                            "resize": "fit"
+                        }
+                    }
+                }
+            ]
+        },
+        "extended_entities": {
+            "media": [
+                {
+                    "id": 1415754555820740620,
+                    "id_str": "1415754555820740620",
+                    "indices": [
+                        152,
+                        175
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/E6XFRHzWEAwLL-2.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/E6XFRHzWEAwLL-2.jpg",
+                    "url": "https://t.co/hHvbsXgWbR",
+                    "display_url": "pic.twitter.com/hHvbsXgWbR",
+                    "expanded_url": "https://twitter.com/PasquinDeM/status/1415754559025258500/photo/1",
+                    "type": "photo",
+                    "sizes": {
+                        "large": {
+                            "w": 720,
+                            "h": 1255,
+                            "resize": "fit"
+                        },
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "small": {
+                            "w": 390,
+                            "h": 680,
+                            "resize": "fit"
+                        },
+                        "medium": {
+                            "w": 688,
+                            "h": 1200,
+                            "resize": "fit"
+                        }
+                    }
+                }
+            ]
+        },
+        "metadata": {
+            "iso_language_code": "es",
+            "result_type": "recent"
+        },
+        "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 729458728274169857,
+            "id_str": "729458728274169857",
+            "name": "\u2119\ud835\udd52\ud835\udd64\ud835\udd62\ud835\udd66\ud835\udd5a\ud835\udd5f \ud835\udd55\ud835\udd56 \ud835\udd44\ud835\udd5a\ud835\udd56\ud835\udd63\ud835\udd54\ud835\udd60\ud835\udd5d\ud835\udd56\ud835\udd64",
+            "screen_name": "PasquinDeM",
+            "location": "San isidro, Peru",
+            "description": "Informamos la verdad CON EVIDENCIAS.\nSomos, humildemente, tuiteros con acceso a informaci\u00f3n confidencial\nTikTok \ud83d\udc49@Pasquindem",
+            "url": null,
+            "entities": {
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 15435,
+            "friends_count": 185,
+            "listed_count": 32,
+            "created_at": "Sun May 08 23:51:28 +0000 2016",
+            "favourites_count": 189413,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": false,
+            "verified": false,
+            "statuses_count": 183734,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "000000",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1403508045406257153/xbVKuScR_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1403508045406257153/xbVKuScR_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/729458728274169857/1624497949",
+            "profile_link_color": "FF691F",
+            "profile_sidebar_border_color": "000000",
+            "profile_sidebar_fill_color": "000000",
+            "profile_text_color": "000000",
+            "profile_use_background_image": false,
+            "has_extended_profile": true,
+            "default_profile": false,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none",
+            "withheld_in_countries": []
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 179,
+        "favorite_count": 306,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "es"
+    },
+    "is_quote_status": false,
+    "retweet_count": 179,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "es"
+}

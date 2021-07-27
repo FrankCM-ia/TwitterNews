@@ -1,0 +1,110 @@
+{
+    "created_at": "Thu Jul 15 16:24:43 +0000 2021",
+    "id": 1415708917447995393,
+    "id_str": "1415708917447995393",
+    "full_text": "@Nico__xeneixe Si, tampoco tiene mucho sentido. Quiz\u00e1s no lo ven bien a Mancuso para ir de titular. Ser\u00e1 un puesto de mucha competencia con Advincula y el Chelo, si mantiene el nivel del otro d\u00eda al menos.",
+    "truncated": false,
+    "display_text_range": [
+        15,
+        205
+    ],
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "Nico__xeneixe",
+                "name": "Nico14",
+                "id": 881323376811421696,
+                "id_str": "881323376811421696",
+                "indices": [
+                    0,
+                    14
+                ]
+            }
+        ],
+        "urls": []
+    },
+    "metadata": {
+        "iso_language_code": "es",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "in_reply_to_status_id": 1415708551469731842,
+    "in_reply_to_status_id_str": "1415708551469731842",
+    "in_reply_to_user_id": 881323376811421696,
+    "in_reply_to_user_id_str": "881323376811421696",
+    "in_reply_to_screen_name": "Nico__xeneixe",
+    "user": {
+        "id": 249139898,
+        "id_str": "249139898",
+        "name": "Dami\u00e1n Silberstein (Cat.81)\ud83d\udd96",
+        "screen_name": "Silberdamian",
+        "location": "Cuadrante Alfa",
+        "description": "Xeneize. Trekkie. Gamer. Gunplanero. Twitteo mucho. One impossible thing at a time. Time is money, el tiempo es un man\u00ed.",
+        "url": "https://t.co/HquUzSjOah",
+        "entities": {
+            "url": {
+                "urls": [
+                    {
+                        "url": "https://t.co/HquUzSjOah",
+                        "expanded_url": "http://Twitch.tv/Silberdamian",
+                        "display_url": "Twitch.tv/Silberdamian",
+                        "indices": [
+                            0,
+                            23
+                        ]
+                    }
+                ]
+            },
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 5523,
+        "friends_count": 753,
+        "listed_count": 51,
+        "created_at": "Tue Feb 08 13:10:37 +0000 2011",
+        "favourites_count": 183931,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 220287,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "022330",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+        "profile_background_tile": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1351145908738678788/7TVqwWnd_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1351145908738678788/7TVqwWnd_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/249139898/1613051149",
+        "profile_link_color": "3B94D9",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "profile_use_background_image": true,
+        "has_extended_profile": true,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 1,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "es"
+}

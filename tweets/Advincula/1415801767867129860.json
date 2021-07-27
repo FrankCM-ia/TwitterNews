@@ -1,0 +1,110 @@
+{
+    "created_at": "Thu Jul 15 22:33:40 +0000 2021",
+    "id": 1415801767867129860,
+    "id_str": "1415801767867129860",
+    "full_text": "@CrackDeportivo_ Boca cerr\u00f3 la llegada de Advincula por 15\u00b0 vez \ud83e\udd23\ud83e\udd23\ud83e\udd23",
+    "truncated": false,
+    "display_text_range": [
+        17,
+        67
+    ],
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "CrackDeportivo_",
+                "name": "Crack Deportivo",
+                "id": 889970502743318529,
+                "id_str": "889970502743318529",
+                "indices": [
+                    0,
+                    16
+                ]
+            }
+        ],
+        "urls": []
+    },
+    "metadata": {
+        "iso_language_code": "es",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "in_reply_to_status_id": 1415800961981898756,
+    "in_reply_to_status_id_str": "1415800961981898756",
+    "in_reply_to_user_id": 889970502743318529,
+    "in_reply_to_user_id_str": "889970502743318529",
+    "in_reply_to_screen_name": "CrackDeportivo_",
+    "user": {
+        "id": 311646980,
+        "id_str": "311646980",
+        "name": "Facu \ud83d\udd31",
+        "screen_name": "FBeratz",
+        "location": "San Miguel Arc\u00e1ngel",
+        "description": "- CABJ \u2665\n La pelota siempre al 10. La pelota siempre a Rom\u00e1n.",
+        "url": "https://t.co/5IMcOsKb0e",
+        "entities": {
+            "url": {
+                "urls": [
+                    {
+                        "url": "https://t.co/5IMcOsKb0e",
+                        "expanded_url": "https://www.instagram.com/facuberatz/",
+                        "display_url": "instagram.com/facuberatz/",
+                        "indices": [
+                            0,
+                            23
+                        ]
+                    }
+                ]
+            },
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 1833,
+        "friends_count": 2129,
+        "listed_count": 9,
+        "created_at": "Sun Jun 05 20:17:00 +0000 2011",
+        "favourites_count": 39142,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 28031,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "FFFF00",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+        "profile_background_tile": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1381806385671864326/VP3qkUYC_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1381806385671864326/VP3qkUYC_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/311646980/1463898385",
+        "profile_link_color": "0101FF",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "252429",
+        "profile_text_color": "666666",
+        "profile_use_background_image": true,
+        "has_extended_profile": true,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "es"
+}

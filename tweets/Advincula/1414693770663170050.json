@@ -1,0 +1,107 @@
+{
+    "created_at": "Mon Jul 12 21:10:53 +0000 2021",
+    "id": 1414693770663170050,
+    "id_str": "1414693770663170050",
+    "full_text": "@ESPNArgentina @BocaJrsOficial Por qu\u00e9 no concentran CAVANI ADVINCULA ROGER MART\u00cdNEZ ?",
+    "truncated": false,
+    "display_text_range": [
+        31,
+        86
+    ],
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "ESPNArgentina",
+                "name": "ESPN Argentina",
+                "id": 111416958,
+                "id_str": "111416958",
+                "indices": [
+                    0,
+                    14
+                ]
+            },
+            {
+                "screen_name": "BocaJrsOficial",
+                "name": "Boca Juniors",
+                "id": 42933426,
+                "id_str": "42933426",
+                "indices": [
+                    15,
+                    30
+                ]
+            }
+        ],
+        "urls": []
+    },
+    "metadata": {
+        "iso_language_code": "es",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "in_reply_to_status_id": 1414692481703235595,
+    "in_reply_to_status_id_str": "1414692481703235595",
+    "in_reply_to_user_id": 111416958,
+    "in_reply_to_user_id_str": "111416958",
+    "in_reply_to_screen_name": "ESPNArgentina",
+    "user": {
+        "id": 1166433429665320965,
+        "id_str": "1166433429665320965",
+        "name": "@omangea1970",
+        "screen_name": "omangea1970",
+        "location": "San Petersburgo, Rusia",
+        "description": "Cordobes Matador anti nada creo en lo que veo y no en lo que me cuentan",
+        "url": null,
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 165,
+        "friends_count": 402,
+        "listed_count": 1,
+        "created_at": "Tue Aug 27 19:33:08 +0000 2019",
+        "favourites_count": 4829,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 6379,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": null,
+        "profile_background_image_url_https": null,
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1357299269615702019/L6Bvsql4_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1357299269615702019/L6Bvsql4_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1166433429665320965/1614098964",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": true,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "es"
+}

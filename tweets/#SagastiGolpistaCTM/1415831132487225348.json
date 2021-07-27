@@ -1,0 +1,94 @@
+{
+    "created_at": "Fri Jul 16 00:30:21 +0000 2021",
+    "id": 1415831132487225348,
+    "id_str": "1415831132487225348",
+    "full_text": "Cascos azules, vengan y ll\u00e9vense a estos tipos que quieren desestabilizar al Per\u00fa, estamos a D\u00cdAS de que Sagasti salga  y siguen haciendo esto. Y lo peor es que todos tienen el mismo argumento de borrego. Si le preguntan porque m\u00e1s no saben que responder  #SagastiGolpistaCTM",
+    "truncated": false,
+    "display_text_range": [
+        0,
+        275
+    ],
+    "entities": {
+        "hashtags": [
+            {
+                "text": "SagastiGolpistaCTM",
+                "indices": [
+                    256,
+                    275
+                ]
+            }
+        ],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+    },
+    "metadata": {
+        "iso_language_code": "es",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 2334988925,
+        "id_str": "2334988925",
+        "name": "\ud83e\uddda\ud83c\udffd",
+        "screen_name": "pamelaeencisoo",
+        "location": "Peru",
+        "description": "sagi | adoro los atardeceres y viajar en la parte de atr\u00e1s de las camionetas",
+        "url": null,
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 333,
+        "friends_count": 1193,
+        "listed_count": 2,
+        "created_at": "Mon Feb 10 04:18:36 +0000 2014",
+        "favourites_count": 8723,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 3814,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "ACDED6",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme18/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme18/bg.gif",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1309548109316460544/ACKu_nlr_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1309548109316460544/ACKu_nlr_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2334988925/1597558248",
+        "profile_link_color": "038543",
+        "profile_sidebar_border_color": "EEEEEE",
+        "profile_sidebar_fill_color": "F6F6F6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": true,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "es"
+}

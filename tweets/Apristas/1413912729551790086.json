@@ -1,0 +1,116 @@
+{
+    "created_at": "Sat Jul 10 17:27:18 +0000 2021",
+    "id": 1413912729551790086,
+    "id_str": "1413912729551790086",
+    "full_text": "@Joselyn_Montoya @esquinabaja @hernanismo Los apristas alanistas resultaron ser m\u00e1s terroristas que Abimael y Polay juntos, por los sendos robos y extorsiones a los compa\u00f1eros que no ten\u00edan ni para comer y q ten\u00edan que dar el diezmo. La corrupci\u00f3n volvi\u00f3 a nacer en el 85 creci\u00f3 en el 90 y se consolid\u00f3 desde el 2001.",
+    "truncated": false,
+    "display_text_range": [
+        42,
+        317
+    ],
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "Joselyn_Montoya",
+                "name": "JossMontoya",
+                "id": 302313643,
+                "id_str": "302313643",
+                "indices": [
+                    0,
+                    16
+                ]
+            },
+            {
+                "screen_name": "esquinabaja",
+                "name": "Carla Garc\u00eda B \ud83d\udc9a",
+                "id": 19729967,
+                "id_str": "19729967",
+                "indices": [
+                    17,
+                    29
+                ]
+            },
+            {
+                "screen_name": "hernanismo",
+                "name": "Hern\u00e1n Hurtado",
+                "id": 442283723,
+                "id_str": "442283723",
+                "indices": [
+                    30,
+                    41
+                ]
+            }
+        ],
+        "urls": []
+    },
+    "metadata": {
+        "iso_language_code": "es",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "in_reply_to_status_id": 1413334046554431488,
+    "in_reply_to_status_id_str": "1413334046554431488",
+    "in_reply_to_user_id": 302313643,
+    "in_reply_to_user_id_str": "302313643",
+    "in_reply_to_screen_name": "Joselyn_Montoya",
+    "user": {
+        "id": 77569593,
+        "id_str": "77569593",
+        "name": "NasoNaso",
+        "screen_name": "NasoNasoNaso",
+        "location": "Per\u00fa",
+        "description": "",
+        "url": null,
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 13,
+        "friends_count": 29,
+        "listed_count": 0,
+        "created_at": "Sat Sep 26 20:38:29 +0000 2009",
+        "favourites_count": 2,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 1027,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "709397",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1356561008/Naso_Stonehenge_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1356561008/Naso_Stonehenge_normal.jpg",
+        "profile_link_color": "FF3300",
+        "profile_sidebar_border_color": "86A4A6",
+        "profile_sidebar_fill_color": "A0C5C7",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": true,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "es"
+}

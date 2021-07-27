@@ -1,0 +1,107 @@
+{
+    "created_at": "Mon Jul 12 00:31:54 +0000 2021",
+    "id": 1414381970457518080,
+    "id_str": "1414381970457518080",
+    "full_text": "@peru21noticias @Defensoria_Peru Todas estas basuras fuji-apristas solo quieren alargar para llegar al 28 sin presidente electo y ellos mediante el golpista de Montoya hacerse del poder, ilusos, si eso pasa el Peru se levantara.",
+    "truncated": false,
+    "display_text_range": [
+        33,
+        228
+    ],
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "peru21noticias",
+                "name": "Diario Per\u00fa21",
+                "id": 832686254873468929,
+                "id_str": "832686254873468929",
+                "indices": [
+                    0,
+                    15
+                ]
+            },
+            {
+                "screen_name": "Defensoria_Peru",
+                "name": "Defensor\u00eda Per\u00fa",
+                "id": 107428718,
+                "id_str": "107428718",
+                "indices": [
+                    16,
+                    32
+                ]
+            }
+        ],
+        "urls": []
+    },
+    "metadata": {
+        "iso_language_code": "es",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "in_reply_to_status_id": 1414306239643848704,
+    "in_reply_to_status_id_str": "1414306239643848704",
+    "in_reply_to_user_id": 832686254873468929,
+    "in_reply_to_user_id_str": "832686254873468929",
+    "in_reply_to_screen_name": "peru21noticias",
+    "user": {
+        "id": 1316896934,
+        "id_str": "1316896934",
+        "name": "DAVID P. C.",
+        "screen_name": "fharel47",
+        "location": "",
+        "description": "",
+        "url": null,
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 24,
+        "friends_count": 88,
+        "listed_count": 0,
+        "created_at": "Sat Mar 30 17:49:57 +0000 2013",
+        "favourites_count": 2274,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 2960,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1392514422690787330/4ELybNg6_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1392514422690787330/4ELybNg6_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1316896934/1532969102",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "es"
+}

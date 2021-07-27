@@ -1,0 +1,94 @@
+{
+    "created_at": "Fri Jul 16 03:04:19 +0000 2021",
+    "id": 1415869880507801605,
+    "id_str": "1415869880507801605",
+    "full_text": "No puede ser Danielaa siempre tu #LaVozPeru",
+    "truncated": false,
+    "display_text_range": [
+        0,
+        43
+    ],
+    "entities": {
+        "hashtags": [
+            {
+                "text": "LaVozPeru",
+                "indices": [
+                    33,
+                    43
+                ]
+            }
+        ],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+    },
+    "metadata": {
+        "iso_language_code": "es",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 1253744952191918081,
+        "id_str": "1253744952191918081",
+        "name": "AnaLu \ud83e\udd20\ud83e\udde1\ud83d\udc99\ud83d\udc9b\ud83e\uddc8\ud83c\uddf5\ud83c\uddea",
+        "screen_name": "nomediganana",
+        "location": "Mollendo, Peru",
+        "description": "22. Casi arquitecta, con una gata y ARMY gracias a SAMSUNG. Soy gil y morir\u00e9 gil, literalmente. Adicta a pelearme en redes sociales. Mollendo presente \u2600\ufe0f",
+        "url": null,
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 184,
+        "friends_count": 305,
+        "listed_count": 1,
+        "created_at": "Fri Apr 24 17:58:07 +0000 2020",
+        "favourites_count": 16566,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 8247,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": null,
+        "profile_background_image_url_https": null,
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1415399438298882052/Dwb-v0Kb_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1415399438298882052/Dwb-v0Kb_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1253744952191918081/1626292563",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 1,
+    "favorite_count": 2,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "es"
+}

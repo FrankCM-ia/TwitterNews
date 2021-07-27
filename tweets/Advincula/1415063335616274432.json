@@ -1,0 +1,306 @@
+{
+    "created_at": "Tue Jul 13 21:39:24 +0000 2021",
+    "id": 1415063335616274432,
+    "id_str": "1415063335616274432",
+    "full_text": "RT @Ricky_Figueroa: SELECCI\u00d3N PERUANA. Jugadores m\u00e1s influyentes @SeleccionPeru en 2021 (meti\u00f3 12 goles en 9 partidos)\n\n6 LAPADULA (3+3)\n4\u2026",
+    "truncated": false,
+    "display_text_range": [
+        0,
+        139
+    ],
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "Ricky_Figueroa",
+                "name": "Ricardo Figueroa",
+                "id": 215346785,
+                "id_str": "215346785",
+                "indices": [
+                    3,
+                    18
+                ]
+            },
+            {
+                "screen_name": "SeleccionPeru",
+                "name": "Selecci\u00f3n Peruana \ud83c\uddf5\ud83c\uddea",
+                "id": 1170209287,
+                "id_str": "1170209287",
+                "indices": [
+                    65,
+                    79
+                ]
+            }
+        ],
+        "urls": []
+    },
+    "metadata": {
+        "iso_language_code": "es",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 974479833970413568,
+        "id_str": "974479833970413568",
+        "name": "Gracias Muchach@s",
+        "screen_name": "GraciasMuch2018",
+        "location": "Peru",
+        "description": "\u201cQue se haga victoria nuestra gratitud\u201d. Una canci\u00f3n, una hinchada. #GraciasMuchachos",
+        "url": "https://t.co/V6o8nLaw7U",
+        "entities": {
+            "url": {
+                "urls": [
+                    {
+                        "url": "https://t.co/V6o8nLaw7U",
+                        "expanded_url": "http://bit.ly/GMcancion",
+                        "display_url": "bit.ly/GMcancion",
+                        "indices": [
+                            0,
+                            23
+                        ]
+                    }
+                ]
+            },
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 102,
+        "friends_count": 234,
+        "listed_count": 0,
+        "created_at": "Fri Mar 16 02:57:52 +0000 2018",
+        "favourites_count": 7181,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 3490,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/981982086440644608/lkUp38Fh_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/981982086440644608/lkUp38Fh_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/974479833970413568/1521266060",
+        "profile_link_color": "E81C4F",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "profile_use_background_image": false,
+        "has_extended_profile": false,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+        "created_at": "Sun Jul 11 17:45:53 +0000 2021",
+        "id": 1414279794666229761,
+        "id_str": "1414279794666229761",
+        "full_text": "SELECCI\u00d3N PERUANA. Jugadores m\u00e1s influyentes @SeleccionPeru en 2021 (meti\u00f3 12 goles en 9 partidos)\n\n6 LAPADULA (3+3)\n4 Carrillo (2+2)\n3 Cueva (1+2)\n3 Yot\u00fan (2+1)\n1 Adv\u00edncula (1+0)\n1 Pe\u00f1a (1+0)\n1 Garc\u00eda (0+1)\n\nLapadula particip\u00f3 en el 50% de los goles de Per\u00fa en este a\u00f1o. https://t.co/9N4eU1WQhF",
+        "truncated": false,
+        "display_text_range": [
+            0,
+            271
+        ],
+        "entities": {
+            "hashtags": [],
+            "symbols": [],
+            "user_mentions": [
+                {
+                    "screen_name": "SeleccionPeru",
+                    "name": "Selecci\u00f3n Peruana \ud83c\uddf5\ud83c\uddea",
+                    "id": 1170209287,
+                    "id_str": "1170209287",
+                    "indices": [
+                        45,
+                        59
+                    ]
+                }
+            ],
+            "urls": [],
+            "media": [
+                {
+                    "id": 1414279783924576260,
+                    "id_str": "1414279783924576260",
+                    "indices": [
+                        272,
+                        295
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/E6CH-GXXMAQnzl2.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/E6CH-GXXMAQnzl2.jpg",
+                    "url": "https://t.co/9N4eU1WQhF",
+                    "display_url": "pic.twitter.com/9N4eU1WQhF",
+                    "expanded_url": "https://twitter.com/Ricky_Figueroa/status/1414279794666229761/photo/1",
+                    "type": "photo",
+                    "sizes": {
+                        "large": {
+                            "w": 808,
+                            "h": 1024,
+                            "resize": "fit"
+                        },
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "medium": {
+                            "w": 808,
+                            "h": 1024,
+                            "resize": "fit"
+                        },
+                        "small": {
+                            "w": 537,
+                            "h": 680,
+                            "resize": "fit"
+                        }
+                    }
+                }
+            ]
+        },
+        "extended_entities": {
+            "media": [
+                {
+                    "id": 1414279783924576260,
+                    "id_str": "1414279783924576260",
+                    "indices": [
+                        272,
+                        295
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/E6CH-GXXMAQnzl2.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/E6CH-GXXMAQnzl2.jpg",
+                    "url": "https://t.co/9N4eU1WQhF",
+                    "display_url": "pic.twitter.com/9N4eU1WQhF",
+                    "expanded_url": "https://twitter.com/Ricky_Figueroa/status/1414279794666229761/photo/1",
+                    "type": "photo",
+                    "sizes": {
+                        "large": {
+                            "w": 808,
+                            "h": 1024,
+                            "resize": "fit"
+                        },
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "medium": {
+                            "w": 808,
+                            "h": 1024,
+                            "resize": "fit"
+                        },
+                        "small": {
+                            "w": 537,
+                            "h": 680,
+                            "resize": "fit"
+                        }
+                    }
+                }
+            ]
+        },
+        "metadata": {
+            "iso_language_code": "es",
+            "result_type": "recent"
+        },
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 215346785,
+            "id_str": "215346785",
+            "name": "Ricardo Figueroa",
+            "screen_name": "Ricky_Figueroa",
+            "location": "Lima, Per\u00fa",
+            "description": "Periodista y Estad\u00edstico.\nMe apasiona la historia del f\u00fatbol peruano y la selecci\u00f3n.\n\u00a1Todo se puede! \n\nhttps://t.co/ej27HzMiFo\nrfigueroa1980@gmail.com",
+            "url": null,
+            "entities": {
+                "description": {
+                    "urls": [
+                        {
+                            "url": "https://t.co/ej27HzMiFo",
+                            "expanded_url": "http://www.instagram.com/rfigueroa1980",
+                            "display_url": "instagram.com/rfigueroa1980",
+                            "indices": [
+                                103,
+                                126
+                            ]
+                        }
+                    ]
+                }
+            },
+            "protected": false,
+            "followers_count": 7462,
+            "friends_count": 1117,
+            "listed_count": 62,
+            "created_at": "Sat Nov 13 17:42:42 +0000 2010",
+            "favourites_count": 404,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": true,
+            "verified": false,
+            "statuses_count": 47928,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "C0DEED",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1013091353968947200/0GONnlr7_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1013091353968947200/0GONnlr7_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/215346785/1540910859",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "has_extended_profile": false,
+            "default_profile": true,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none",
+            "withheld_in_countries": []
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 12,
+        "favorite_count": 60,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "es"
+    },
+    "is_quote_status": false,
+    "retweet_count": 12,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "es"
+}

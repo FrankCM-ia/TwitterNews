@@ -1,0 +1,261 @@
+{
+    "created_at": "Sun Jul 11 00:31:31 +0000 2021",
+    "id": 1414019488778014724,
+    "id_str": "1414019488778014724",
+    "full_text": "RT @vrpt7: Honor y gloria a los 1214 Apristas, m\u00e1rtires de la democracia asesinados por los criminales de Sendero Luminoso. https://t.co/Ol\u2026",
+    "truncated": false,
+    "display_text_range": [
+        0,
+        140
+    ],
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "vrpt7",
+                "name": "V\u00cdCTOR RA\u00daL PAREDES TADEY. [Tungsteno]",
+                "id": 1544020158,
+                "id_str": "1544020158",
+                "indices": [
+                    3,
+                    9
+                ]
+            }
+        ],
+        "urls": []
+    },
+    "metadata": {
+        "iso_language_code": "es",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 249748158,
+        "id_str": "249748158",
+        "name": "Manuel Rodriguez",
+        "screen_name": "Maroma2",
+        "location": "Lima, Peru",
+        "description": "Haz RT, los \"Me gusta\" No ayudan! Estamos en guerra. El Per\u00fa nos necesita. \nEl Apra es el \u00fanico partido del pueblo! Nuestra misi\u00f3n es servir a los necesitados.",
+        "url": null,
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 1783,
+        "friends_count": 1487,
+        "listed_count": 23,
+        "created_at": "Wed Feb 09 18:02:19 +0000 2011",
+        "favourites_count": 14353,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 189884,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1061820287199600640/aB2UBCMQ_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1061820287199600640/aB2UBCMQ_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+        "created_at": "Sat Jul 10 12:14:34 +0000 2021",
+        "id": 1413834028508188682,
+        "id_str": "1413834028508188682",
+        "full_text": "Honor y gloria a los 1214 Apristas, m\u00e1rtires de la democracia asesinados por los criminales de Sendero Luminoso. https://t.co/Ol0XqSYpK6",
+        "truncated": false,
+        "display_text_range": [
+            0,
+            112
+        ],
+        "entities": {
+            "hashtags": [],
+            "symbols": [],
+            "user_mentions": [],
+            "urls": [],
+            "media": [
+                {
+                    "id": 1413834024934588418,
+                    "id_str": "1413834024934588418",
+                    "indices": [
+                        113,
+                        136
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/E57yjguWQAIoLNF.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/E57yjguWQAIoLNF.jpg",
+                    "url": "https://t.co/Ol0XqSYpK6",
+                    "display_url": "pic.twitter.com/Ol0XqSYpK6",
+                    "expanded_url": "https://twitter.com/vrpt7/status/1413834028508188682/photo/1",
+                    "type": "photo",
+                    "sizes": {
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "large": {
+                            "w": 1078,
+                            "h": 310,
+                            "resize": "fit"
+                        },
+                        "small": {
+                            "w": 680,
+                            "h": 196,
+                            "resize": "fit"
+                        },
+                        "medium": {
+                            "w": 1078,
+                            "h": 310,
+                            "resize": "fit"
+                        }
+                    }
+                }
+            ]
+        },
+        "extended_entities": {
+            "media": [
+                {
+                    "id": 1413834024934588418,
+                    "id_str": "1413834024934588418",
+                    "indices": [
+                        113,
+                        136
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/E57yjguWQAIoLNF.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/E57yjguWQAIoLNF.jpg",
+                    "url": "https://t.co/Ol0XqSYpK6",
+                    "display_url": "pic.twitter.com/Ol0XqSYpK6",
+                    "expanded_url": "https://twitter.com/vrpt7/status/1413834028508188682/photo/1",
+                    "type": "photo",
+                    "sizes": {
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "large": {
+                            "w": 1078,
+                            "h": 310,
+                            "resize": "fit"
+                        },
+                        "small": {
+                            "w": 680,
+                            "h": 196,
+                            "resize": "fit"
+                        },
+                        "medium": {
+                            "w": 1078,
+                            "h": 310,
+                            "resize": "fit"
+                        }
+                    }
+                }
+            ]
+        },
+        "metadata": {
+            "iso_language_code": "es",
+            "result_type": "recent"
+        },
+        "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 1544020158,
+            "id_str": "1544020158",
+            "name": "V\u00cdCTOR RA\u00daL PAREDES TADEY. [Tungsteno]",
+            "screen_name": "vrpt7",
+            "location": "Los Olivos - Lima",
+            "description": "Ing.Civil UNI\n\nExCatedr\u00e1tico\n\nExperto en gesti\u00f3n P\u00fablica municipal, regional y ministerial.\n\nAliancista.\n\nAprista leal a VRHDLT \n\nSiempre he vivido de mi sudor",
+            "url": null,
+            "entities": {
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 4585,
+            "friends_count": 5043,
+            "listed_count": 4,
+            "created_at": "Mon Jun 24 20:21:36 +0000 2013",
+            "favourites_count": 25188,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": true,
+            "verified": false,
+            "statuses_count": 19194,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "C0DEED",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1247679606842253314/Y5D4XpUL_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1247679606842253314/Y5D4XpUL_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/1544020158/1580110446",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "has_extended_profile": true,
+            "default_profile": true,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none",
+            "withheld_in_countries": []
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 10,
+        "favorite_count": 22,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "es"
+    },
+    "is_quote_status": false,
+    "retweet_count": 10,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "es"
+}

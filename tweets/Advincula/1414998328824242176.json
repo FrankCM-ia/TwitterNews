@@ -1,0 +1,137 @@
+{
+    "created_at": "Tue Jul 13 17:21:05 +0000 2021",
+    "id": 1414998328824242176,
+    "id_str": "1414998328824242176",
+    "full_text": "@fgperezOK @faafiperez @BocaJrsOficial @Atletico @Cadena_Xeneize banco al chelo de 3 y advincula de 4 jajaj",
+    "truncated": false,
+    "display_text_range": [
+        65,
+        107
+    ],
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "fgperezOK",
+                "name": "Franco Xeneize",
+                "id": 1713190698,
+                "id_str": "1713190698",
+                "indices": [
+                    0,
+                    10
+                ]
+            },
+            {
+                "screen_name": "faafiperez",
+                "name": "Fafi",
+                "id": 138035173,
+                "id_str": "138035173",
+                "indices": [
+                    11,
+                    22
+                ]
+            },
+            {
+                "screen_name": "BocaJrsOficial",
+                "name": "Boca Juniors",
+                "id": 42933426,
+                "id_str": "42933426",
+                "indices": [
+                    23,
+                    38
+                ]
+            },
+            {
+                "screen_name": "Atletico",
+                "name": "Atl\u00e9tico \ud83d\ude37",
+                "id": 90676816,
+                "id_str": "90676816",
+                "indices": [
+                    39,
+                    48
+                ]
+            },
+            {
+                "screen_name": "Cadena_Xeneize",
+                "name": "Cadena Xeneize",
+                "id": 856637115735707648,
+                "id_str": "856637115735707648",
+                "indices": [
+                    49,
+                    64
+                ]
+            }
+        ],
+        "urls": []
+    },
+    "metadata": {
+        "iso_language_code": "es",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "in_reply_to_status_id": 1414995843422334977,
+    "in_reply_to_status_id_str": "1414995843422334977",
+    "in_reply_to_user_id": 1713190698,
+    "in_reply_to_user_id_str": "1713190698",
+    "in_reply_to_screen_name": "fgperezOK",
+    "user": {
+        "id": 338725947,
+        "id_str": "338725947",
+        "name": "Mati-Pedraza12",
+        "screen_name": "Matii_Pedraza",
+        "location": "",
+        "description": "Carnaval toda la vida \ud83c\udfb6\ud83c\udfb6 \ud83d\udc99\ud83d\udc9b\ud83d\udc99",
+        "url": null,
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 22,
+        "friends_count": 139,
+        "listed_count": 0,
+        "created_at": "Wed Jul 20 00:37:50 +0000 2011",
+        "favourites_count": 2179,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 2503,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1329476852856070144/o8KvWdTa_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1329476852856070144/o8KvWdTa_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/338725947/1605807144",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "es"
+}

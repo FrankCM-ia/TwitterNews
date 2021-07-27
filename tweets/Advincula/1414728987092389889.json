@@ -1,0 +1,99 @@
+{
+    "created_at": "Mon Jul 12 23:30:49 +0000 2021",
+    "id": 1414728987092389889,
+    "id_str": "1414728987092389889",
+    "full_text": "Todo acordado con advincula, ma\u00f1ana salen con que quieren 10 millones m\u00e1s",
+    "truncated": false,
+    "display_text_range": [
+        0,
+        73
+    ],
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+    },
+    "metadata": {
+        "iso_language_code": "es",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 636527369,
+        "id_str": "636527369",
+        "name": "Brian \ud83c\udfc1\ud83d\ude80",
+        "screen_name": "BrianJau24",
+        "location": "Santa F\u00e9, Argentina",
+        "description": "Soldado de la Scaloneta.\nPeriodista deportivo.\nApasionado del automovilismo.\ninvitarme una birra, no seas timidx \ud83d\ude80\nAlpha Tauri \ud83d\udc02 #FullGAS",
+        "url": "https://t.co/kxh8Y0CuWX",
+        "entities": {
+            "url": {
+                "urls": [
+                    {
+                        "url": "https://t.co/kxh8Y0CuWX",
+                        "expanded_url": "http://instagram.com/brianjau24",
+                        "display_url": "instagram.com/brianjau24",
+                        "indices": [
+                            0,
+                            23
+                        ]
+                    }
+                ]
+            },
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 1066,
+        "friends_count": 790,
+        "listed_count": 7,
+        "created_at": "Sun Jul 15 23:09:20 +0000 2012",
+        "favourites_count": 376,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 110623,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "66FF99",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1402795775994781709/ASQgnGG5_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1402795775994781709/ASQgnGG5_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/636527369/1611772944",
+        "profile_link_color": "19CF86",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "252429",
+        "profile_text_color": "666666",
+        "profile_use_background_image": true,
+        "has_extended_profile": true,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "es"
+}

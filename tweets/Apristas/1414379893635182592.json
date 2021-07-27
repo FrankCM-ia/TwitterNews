@@ -1,0 +1,302 @@
+{
+    "created_at": "Mon Jul 12 00:23:39 +0000 2021",
+    "id": 1414379893635182592,
+    "id_str": "1414379893635182592",
+    "full_text": "RT @tanquedecasma: Primer afiche de 1241 #NoTememosALosCobardes, documental sobre m\u00e1rtires apristas asesinados por Sendero Luminoso. Estren\u2026",
+    "truncated": false,
+    "display_text_range": [
+        0,
+        140
+    ],
+    "entities": {
+        "hashtags": [
+            {
+                "text": "NoTememosALosCobardes",
+                "indices": [
+                    41,
+                    63
+                ]
+            }
+        ],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "tanquedecasma",
+                "name": "Ernesto Carlin",
+                "id": 54119173,
+                "id_str": "54119173",
+                "indices": [
+                    3,
+                    17
+                ]
+            }
+        ],
+        "urls": []
+    },
+    "metadata": {
+        "iso_language_code": "es",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 727550470118494208,
+        "id_str": "727550470118494208",
+        "name": "Liliana Jim\u00e9nez Loyo",
+        "screen_name": "LoyoJimenez",
+        "location": "",
+        "description": "",
+        "url": null,
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 633,
+        "friends_count": 197,
+        "listed_count": 1,
+        "created_at": "Tue May 03 17:28:44 +0000 2016",
+        "favourites_count": 122344,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 66237,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": null,
+        "profile_background_image_url_https": null,
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1120135180503490560/b9JDiPny_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1120135180503490560/b9JDiPny_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/727550470118494208/1478715366",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": true,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+        "created_at": "Mon Jun 28 12:32:37 +0000 2021",
+        "id": 1409489913813377024,
+        "id_str": "1409489913813377024",
+        "full_text": "Primer afiche de 1241 #NoTememosALosCobardes, documental sobre m\u00e1rtires apristas asesinados por Sendero Luminoso. Estrenamos el 8 de julio a las 5pm a trav\u00e9s del @LUMoficial. Pronto m\u00e1s informaci\u00f3n. https://t.co/LhjW7xG2UY",
+        "truncated": false,
+        "display_text_range": [
+            0,
+            198
+        ],
+        "entities": {
+            "hashtags": [
+                {
+                    "text": "NoTememosALosCobardes",
+                    "indices": [
+                        22,
+                        44
+                    ]
+                }
+            ],
+            "symbols": [],
+            "user_mentions": [
+                {
+                    "screen_name": "LUMoficial",
+                    "name": "Lugar de la Memoria \ud83c\uddf5\ud83c\uddea",
+                    "id": 950480466,
+                    "id_str": "950480466",
+                    "indices": [
+                        162,
+                        173
+                    ]
+                }
+            ],
+            "urls": [],
+            "media": [
+                {
+                    "id": 1409489910684340227,
+                    "id_str": "1409489910684340227",
+                    "indices": [
+                        199,
+                        222
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/E4-DmyDWUAMuqqc.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/E4-DmyDWUAMuqqc.jpg",
+                    "url": "https://t.co/LhjW7xG2UY",
+                    "display_url": "pic.twitter.com/LhjW7xG2UY",
+                    "expanded_url": "https://twitter.com/tanquedecasma/status/1409489913813377024/photo/1",
+                    "type": "photo",
+                    "sizes": {
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "medium": {
+                            "w": 521,
+                            "h": 768,
+                            "resize": "fit"
+                        },
+                        "small": {
+                            "w": 461,
+                            "h": 680,
+                            "resize": "fit"
+                        },
+                        "large": {
+                            "w": 521,
+                            "h": 768,
+                            "resize": "fit"
+                        }
+                    }
+                }
+            ]
+        },
+        "extended_entities": {
+            "media": [
+                {
+                    "id": 1409489910684340227,
+                    "id_str": "1409489910684340227",
+                    "indices": [
+                        199,
+                        222
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/E4-DmyDWUAMuqqc.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/E4-DmyDWUAMuqqc.jpg",
+                    "url": "https://t.co/LhjW7xG2UY",
+                    "display_url": "pic.twitter.com/LhjW7xG2UY",
+                    "expanded_url": "https://twitter.com/tanquedecasma/status/1409489913813377024/photo/1",
+                    "type": "photo",
+                    "sizes": {
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "medium": {
+                            "w": 521,
+                            "h": 768,
+                            "resize": "fit"
+                        },
+                        "small": {
+                            "w": 461,
+                            "h": 680,
+                            "resize": "fit"
+                        },
+                        "large": {
+                            "w": 521,
+                            "h": 768,
+                            "resize": "fit"
+                        }
+                    }
+                }
+            ]
+        },
+        "metadata": {
+            "iso_language_code": "es",
+            "result_type": "recent"
+        },
+        "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 54119173,
+            "id_str": "54119173",
+            "name": "Ernesto Carlin",
+            "screen_name": "tanquedecasma",
+            "location": "Lima, Peru",
+            "description": "Periodista hincha del Sport Boys. Opiniones personales.",
+            "url": "https://t.co/7p5I0bYSgK",
+            "entities": {
+                "url": {
+                    "urls": [
+                        {
+                            "url": "https://t.co/7p5I0bYSgK",
+                            "expanded_url": "http://tanquedecasma.blogspot.com/",
+                            "display_url": "tanquedecasma.blogspot.com",
+                            "indices": [
+                                0,
+                                23
+                            ]
+                        }
+                    ]
+                },
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 3421,
+            "friends_count": 3391,
+            "listed_count": 64,
+            "created_at": "Mon Jul 06 04:54:22 +0000 2009",
+            "favourites_count": 36673,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": true,
+            "verified": false,
+            "statuses_count": 61241,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "000303",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": true,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1254971119167250433/Exy6CmV__normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1254971119167250433/Exy6CmV__normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/54119173/1588043751",
+            "profile_link_color": "FF00DD",
+            "profile_sidebar_border_color": "020500",
+            "profile_sidebar_fill_color": "000000",
+            "profile_text_color": "FF00DD",
+            "profile_use_background_image": true,
+            "has_extended_profile": false,
+            "default_profile": false,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none",
+            "withheld_in_countries": []
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 254,
+        "favorite_count": 674,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "es"
+    },
+    "is_quote_status": false,
+    "retweet_count": 254,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "es"
+}

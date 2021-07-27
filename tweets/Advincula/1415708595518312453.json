@@ -1,0 +1,129 @@
+{
+    "created_at": "Thu Jul 15 16:23:26 +0000 2021",
+    "id": 1415708595518312453,
+    "id_str": "1415708595518312453",
+    "full_text": "\u00bfQU\u00c9 FALTA? \ud83d\udcb0\ud83d\ude31 || \u00bfLuis Adv\u00edncula llegar\u00e1 a Boca Juniors? \n\nConoce los detalles aqu\u00ed \u2b07\ufe0f\nhttps://t.co/vOI9FXMlJq",
+    "truncated": false,
+    "display_text_range": [
+        0,
+        111
+    ],
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+            {
+                "url": "https://t.co/vOI9FXMlJq",
+                "expanded_url": "https://www.ecuagol.com/noticias/internacional-general/luis-advincula-llegara-a-boca-juniors/172042/",
+                "display_url": "ecuagol.com/noticias/inter\u2026",
+                "indices": [
+                    88,
+                    111
+                ]
+            }
+        ]
+    },
+    "metadata": {
+        "iso_language_code": "es",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 87531731,
+        "id_str": "87531731",
+        "name": "Ecuagol",
+        "screen_name": "ECUAGOL",
+        "location": "",
+        "description": "Medio innovador, vanguardista y especializado en f\u00fatbol ecuatoriano: https://t.co/ysyV2Xl31R, Revista Ecuagol e https://t.co/ISuzAlhbHa...",
+        "url": "https://t.co/4TrvYL3h9F",
+        "entities": {
+            "url": {
+                "urls": [
+                    {
+                        "url": "https://t.co/4TrvYL3h9F",
+                        "expanded_url": "http://www.ecuagol.com",
+                        "display_url": "ecuagol.com",
+                        "indices": [
+                            0,
+                            23
+                        ]
+                    }
+                ]
+            },
+            "description": {
+                "urls": [
+                    {
+                        "url": "https://t.co/ysyV2Xl31R",
+                        "expanded_url": "http://Facebook.com/RevistaEcuagol",
+                        "display_url": "Facebook.com/RevistaEcuagol",
+                        "indices": [
+                            69,
+                            92
+                        ]
+                    },
+                    {
+                        "url": "https://t.co/ISuzAlhbHa",
+                        "expanded_url": "http://Instagram.com/RevistaEcuago",
+                        "display_url": "Instagram.com/RevistaEcuago",
+                        "indices": [
+                            112,
+                            135
+                        ]
+                    }
+                ]
+            }
+        },
+        "protected": false,
+        "followers_count": 220375,
+        "friends_count": 1616,
+        "listed_count": 450,
+        "created_at": "Wed Nov 04 21:01:25 +0000 2009",
+        "favourites_count": 2466,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "verified": true,
+        "statuses_count": 548732,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "131516",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+        "profile_background_tile": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1306433288865820673/wsR2ofYf_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1306433288865820673/wsR2ofYf_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/87531731/1600312945",
+        "profile_link_color": "009999",
+        "profile_sidebar_border_color": "EEEEEE",
+        "profile_sidebar_fill_color": "EFEFEF",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "regular",
+        "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 1,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "es"
+}

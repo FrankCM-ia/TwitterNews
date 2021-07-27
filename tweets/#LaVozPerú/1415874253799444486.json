@@ -1,0 +1,378 @@
+{
+    "created_at": "Fri Jul 16 03:21:42 +0000 2021",
+    "id": 1415874253799444486,
+    "id_str": "1415874253799444486",
+    "full_text": "RT @taekookyes: *eliminan a tupac* \nyo:\n\n#LaVozPeru https://t.co/pkZaLkQ5kG",
+    "truncated": false,
+    "display_text_range": [
+        0,
+        75
+    ],
+    "entities": {
+        "hashtags": [
+            {
+                "text": "LaVozPeru",
+                "indices": [
+                    41,
+                    51
+                ]
+            }
+        ],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "taekookyes",
+                "name": "\u03b3\u0454\u0455\u0455\ud83c\udf41\u2077",
+                "id": 1344031288366346240,
+                "id_str": "1344031288366346240",
+                "indices": [
+                    3,
+                    14
+                ]
+            }
+        ],
+        "urls": [],
+        "media": [
+            {
+                "id": 1415872491277496324,
+                "id_str": "1415872491277496324",
+                "indices": [
+                    52,
+                    75
+                ],
+                "media_url": "http://pbs.twimg.com/media/E6Ywh3nXsAQRY2N.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/E6Ywh3nXsAQRY2N.jpg",
+                "url": "https://t.co/pkZaLkQ5kG",
+                "display_url": "pic.twitter.com/pkZaLkQ5kG",
+                "expanded_url": "https://twitter.com/taekookyes/status/1415872493634703364/photo/1",
+                "type": "photo",
+                "sizes": {
+                    "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                    },
+                    "small": {
+                        "w": 452,
+                        "h": 325,
+                        "resize": "fit"
+                    },
+                    "medium": {
+                        "w": 452,
+                        "h": 325,
+                        "resize": "fit"
+                    },
+                    "large": {
+                        "w": 452,
+                        "h": 325,
+                        "resize": "fit"
+                    }
+                },
+                "source_status_id": 1415872493634703364,
+                "source_status_id_str": "1415872493634703364",
+                "source_user_id": 1344031288366346240,
+                "source_user_id_str": "1344031288366346240"
+            }
+        ]
+    },
+    "extended_entities": {
+        "media": [
+            {
+                "id": 1415872491277496324,
+                "id_str": "1415872491277496324",
+                "indices": [
+                    52,
+                    75
+                ],
+                "media_url": "http://pbs.twimg.com/media/E6Ywh3nXsAQRY2N.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/E6Ywh3nXsAQRY2N.jpg",
+                "url": "https://t.co/pkZaLkQ5kG",
+                "display_url": "pic.twitter.com/pkZaLkQ5kG",
+                "expanded_url": "https://twitter.com/taekookyes/status/1415872493634703364/photo/1",
+                "type": "photo",
+                "sizes": {
+                    "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                    },
+                    "small": {
+                        "w": 452,
+                        "h": 325,
+                        "resize": "fit"
+                    },
+                    "medium": {
+                        "w": 452,
+                        "h": 325,
+                        "resize": "fit"
+                    },
+                    "large": {
+                        "w": 452,
+                        "h": 325,
+                        "resize": "fit"
+                    }
+                },
+                "source_status_id": 1415872493634703364,
+                "source_status_id_str": "1415872493634703364",
+                "source_user_id": 1344031288366346240,
+                "source_user_id_str": "1344031288366346240"
+            }
+        ]
+    },
+    "metadata": {
+        "iso_language_code": "es",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 1380345750937288706,
+        "id_str": "1380345750937288706",
+        "name": "DesquiciadaExtra\u00f1a",
+        "screen_name": "DesquiciadaE",
+        "location": "",
+        "description": "Tengo una inclinaci\u00f3n a la Izquierda, aunque aveces me siento centro.",
+        "url": null,
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 3,
+        "friends_count": 67,
+        "listed_count": 0,
+        "created_at": "Fri Apr 09 02:24:23 +0000 2021",
+        "favourites_count": 1838,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 449,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": null,
+        "profile_background_image_url_https": null,
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1380349043096838152/lmUpWmdS_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1380349043096838152/lmUpWmdS_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1380345750937288706/1617935862",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": true,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+        "created_at": "Fri Jul 16 03:14:42 +0000 2021",
+        "id": 1415872493634703364,
+        "id_str": "1415872493634703364",
+        "full_text": "*eliminan a tupac* \nyo:\n\n#LaVozPeru https://t.co/pkZaLkQ5kG",
+        "truncated": false,
+        "display_text_range": [
+            0,
+            35
+        ],
+        "entities": {
+            "hashtags": [
+                {
+                    "text": "LaVozPeru",
+                    "indices": [
+                        25,
+                        35
+                    ]
+                }
+            ],
+            "symbols": [],
+            "user_mentions": [],
+            "urls": [],
+            "media": [
+                {
+                    "id": 1415872491277496324,
+                    "id_str": "1415872491277496324",
+                    "indices": [
+                        36,
+                        59
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/E6Ywh3nXsAQRY2N.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/E6Ywh3nXsAQRY2N.jpg",
+                    "url": "https://t.co/pkZaLkQ5kG",
+                    "display_url": "pic.twitter.com/pkZaLkQ5kG",
+                    "expanded_url": "https://twitter.com/taekookyes/status/1415872493634703364/photo/1",
+                    "type": "photo",
+                    "sizes": {
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "small": {
+                            "w": 452,
+                            "h": 325,
+                            "resize": "fit"
+                        },
+                        "medium": {
+                            "w": 452,
+                            "h": 325,
+                            "resize": "fit"
+                        },
+                        "large": {
+                            "w": 452,
+                            "h": 325,
+                            "resize": "fit"
+                        }
+                    }
+                }
+            ]
+        },
+        "extended_entities": {
+            "media": [
+                {
+                    "id": 1415872491277496324,
+                    "id_str": "1415872491277496324",
+                    "indices": [
+                        36,
+                        59
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/E6Ywh3nXsAQRY2N.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/E6Ywh3nXsAQRY2N.jpg",
+                    "url": "https://t.co/pkZaLkQ5kG",
+                    "display_url": "pic.twitter.com/pkZaLkQ5kG",
+                    "expanded_url": "https://twitter.com/taekookyes/status/1415872493634703364/photo/1",
+                    "type": "photo",
+                    "sizes": {
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "small": {
+                            "w": 452,
+                            "h": 325,
+                            "resize": "fit"
+                        },
+                        "medium": {
+                            "w": 452,
+                            "h": 325,
+                            "resize": "fit"
+                        },
+                        "large": {
+                            "w": 452,
+                            "h": 325,
+                            "resize": "fit"
+                        }
+                    }
+                }
+            ]
+        },
+        "metadata": {
+            "iso_language_code": "es",
+            "result_type": "recent"
+        },
+        "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 1344031288366346240,
+            "id_str": "1344031288366346240",
+            "name": "\u03b3\u0454\u0455\u0455\ud83c\udf41\u2077",
+            "screen_name": "taekookyes",
+            "location": "BTSPOP!\ud83d\udcbf ",
+            "description": "\u2014 if u're not jeon jungkook, fuck off.  |  bts paved the way, bts world domination, bts is korea's pride.  |  sm:@erodahoseok ; bae:@ross_vant",
+            "url": "https://t.co/CsYu413Yzq",
+            "entities": {
+                "url": {
+                    "urls": [
+                        {
+                            "url": "https://t.co/CsYu413Yzq",
+                            "expanded_url": "http://jungkook.xn--c6h/",
+                            "display_url": "jungkook.\u2661",
+                            "indices": [
+                                0,
+                                23
+                            ]
+                        }
+                    ]
+                },
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 3329,
+            "friends_count": 1577,
+            "listed_count": 2,
+            "created_at": "Tue Dec 29 21:24:36 +0000 2020",
+            "favourites_count": 6767,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": false,
+            "verified": false,
+            "statuses_count": 9690,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "F5F8FA",
+            "profile_background_image_url": null,
+            "profile_background_image_url_https": null,
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1409700751421620225/Lmpk7w9K_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1409700751421620225/Lmpk7w9K_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/1344031288366346240/1624904603",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "has_extended_profile": true,
+            "default_profile": true,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none",
+            "withheld_in_countries": []
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 2,
+        "favorite_count": 3,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "es"
+    },
+    "is_quote_status": false,
+    "retweet_count": 2,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "es"
+}

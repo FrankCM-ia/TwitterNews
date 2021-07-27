@@ -1,0 +1,592 @@
+{
+    "created_at": "Fri Jul 16 00:16:00 +0000 2021",
+    "id": 1415827520985968644,
+    "id_str": "1415827520985968644",
+    "full_text": "RT @El_Castiburro: #SagastiGolpistaCTM ya te olvidaste que tu entraste producto de vandalismo y dos muertos https://t.co/wJbpnBJZcx",
+    "truncated": false,
+    "display_text_range": [
+        0,
+        131
+    ],
+    "entities": {
+        "hashtags": [
+            {
+                "text": "SagastiGolpistaCTM",
+                "indices": [
+                    19,
+                    38
+                ]
+            }
+        ],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "El_Castiburro",
+                "name": "El Castiburro",
+                "id": 1413700881778978816,
+                "id_str": "1413700881778978816",
+                "indices": [
+                    3,
+                    17
+                ]
+            }
+        ],
+        "urls": [],
+        "media": [
+            {
+                "id": 1415750456542965760,
+                "id_str": "1415750456542965760",
+                "indices": [
+                    108,
+                    131
+                ],
+                "media_url": "http://pbs.twimg.com/media/E6XBigzXMAAUeuU.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/E6XBigzXMAAUeuU.jpg",
+                "url": "https://t.co/wJbpnBJZcx",
+                "display_url": "pic.twitter.com/wJbpnBJZcx",
+                "expanded_url": "https://twitter.com/El_Castiburro/status/1415750461173403654/photo/1",
+                "type": "photo",
+                "sizes": {
+                    "medium": {
+                        "w": 656,
+                        "h": 370,
+                        "resize": "fit"
+                    },
+                    "large": {
+                        "w": 656,
+                        "h": 370,
+                        "resize": "fit"
+                    },
+                    "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                    },
+                    "small": {
+                        "w": 656,
+                        "h": 370,
+                        "resize": "fit"
+                    }
+                },
+                "source_status_id": 1415750461173403654,
+                "source_status_id_str": "1415750461173403654",
+                "source_user_id": 1413700881778978816,
+                "source_user_id_str": "1413700881778978816"
+            }
+        ]
+    },
+    "extended_entities": {
+        "media": [
+            {
+                "id": 1415750456542965760,
+                "id_str": "1415750456542965760",
+                "indices": [
+                    108,
+                    131
+                ],
+                "media_url": "http://pbs.twimg.com/media/E6XBigzXMAAUeuU.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/E6XBigzXMAAUeuU.jpg",
+                "url": "https://t.co/wJbpnBJZcx",
+                "display_url": "pic.twitter.com/wJbpnBJZcx",
+                "expanded_url": "https://twitter.com/El_Castiburro/status/1415750461173403654/photo/1",
+                "type": "photo",
+                "sizes": {
+                    "medium": {
+                        "w": 656,
+                        "h": 370,
+                        "resize": "fit"
+                    },
+                    "large": {
+                        "w": 656,
+                        "h": 370,
+                        "resize": "fit"
+                    },
+                    "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                    },
+                    "small": {
+                        "w": 656,
+                        "h": 370,
+                        "resize": "fit"
+                    }
+                },
+                "source_status_id": 1415750461173403654,
+                "source_status_id_str": "1415750461173403654",
+                "source_user_id": 1413700881778978816,
+                "source_user_id_str": "1413700881778978816"
+            },
+            {
+                "id": 1415750456547192834,
+                "id_str": "1415750456547192834",
+                "indices": [
+                    108,
+                    131
+                ],
+                "media_url": "http://pbs.twimg.com/media/E6XBig0XsAIJKDb.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/E6XBig0XsAIJKDb.jpg",
+                "url": "https://t.co/wJbpnBJZcx",
+                "display_url": "pic.twitter.com/wJbpnBJZcx",
+                "expanded_url": "https://twitter.com/El_Castiburro/status/1415750461173403654/photo/1",
+                "type": "photo",
+                "sizes": {
+                    "small": {
+                        "w": 680,
+                        "h": 374,
+                        "resize": "fit"
+                    },
+                    "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                    },
+                    "large": {
+                        "w": 747,
+                        "h": 411,
+                        "resize": "fit"
+                    },
+                    "medium": {
+                        "w": 747,
+                        "h": 411,
+                        "resize": "fit"
+                    }
+                },
+                "source_status_id": 1415750461173403654,
+                "source_status_id_str": "1415750461173403654",
+                "source_user_id": 1413700881778978816,
+                "source_user_id_str": "1413700881778978816"
+            },
+            {
+                "id": 1415750456568123395,
+                "id_str": "1415750456568123395",
+                "indices": [
+                    108,
+                    131
+                ],
+                "media_url": "http://pbs.twimg.com/media/E6XBig5XEAMvDUT.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/E6XBig5XEAMvDUT.jpg",
+                "url": "https://t.co/wJbpnBJZcx",
+                "display_url": "pic.twitter.com/wJbpnBJZcx",
+                "expanded_url": "https://twitter.com/El_Castiburro/status/1415750461173403654/photo/1",
+                "type": "photo",
+                "sizes": {
+                    "medium": {
+                        "w": 739,
+                        "h": 415,
+                        "resize": "fit"
+                    },
+                    "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                    },
+                    "small": {
+                        "w": 680,
+                        "h": 382,
+                        "resize": "fit"
+                    },
+                    "large": {
+                        "w": 739,
+                        "h": 415,
+                        "resize": "fit"
+                    }
+                },
+                "source_status_id": 1415750461173403654,
+                "source_status_id_str": "1415750461173403654",
+                "source_user_id": 1413700881778978816,
+                "source_user_id_str": "1413700881778978816"
+            },
+            {
+                "id": 1415750456559742980,
+                "id_str": "1415750456559742980",
+                "indices": [
+                    108,
+                    131
+                ],
+                "media_url": "http://pbs.twimg.com/media/E6XBig3XMAQcXT5.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/E6XBig3XMAQcXT5.jpg",
+                "url": "https://t.co/wJbpnBJZcx",
+                "display_url": "pic.twitter.com/wJbpnBJZcx",
+                "expanded_url": "https://twitter.com/El_Castiburro/status/1415750461173403654/photo/1",
+                "type": "photo",
+                "sizes": {
+                    "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                    },
+                    "large": {
+                        "w": 750,
+                        "h": 536,
+                        "resize": "fit"
+                    },
+                    "medium": {
+                        "w": 750,
+                        "h": 536,
+                        "resize": "fit"
+                    },
+                    "small": {
+                        "w": 680,
+                        "h": 486,
+                        "resize": "fit"
+                    }
+                },
+                "source_status_id": 1415750461173403654,
+                "source_status_id_str": "1415750461173403654",
+                "source_user_id": 1413700881778978816,
+                "source_user_id_str": "1413700881778978816"
+            }
+        ]
+    },
+    "metadata": {
+        "iso_language_code": "es",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 1384298544132022276,
+        "id_str": "1384298544132022276",
+        "name": "Mario Francisco",
+        "screen_name": "MarioFr00387861",
+        "location": "Jes\u00fas Maria, Peru",
+        "description": "",
+        "url": null,
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 2,
+        "friends_count": 44,
+        "listed_count": 0,
+        "created_at": "Tue Apr 20 00:11:19 +0000 2021",
+        "favourites_count": 677,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 933,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": null,
+        "profile_background_image_url_https": null,
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1401045495917776900/YbgUej9H_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1401045495917776900/YbgUej9H_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": true,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+        "created_at": "Thu Jul 15 19:09:47 +0000 2021",
+        "id": 1415750461173403654,
+        "id_str": "1415750461173403654",
+        "full_text": "#SagastiGolpistaCTM ya te olvidaste que tu entraste producto de vandalismo y dos muertos https://t.co/wJbpnBJZcx",
+        "truncated": false,
+        "display_text_range": [
+            0,
+            88
+        ],
+        "entities": {
+            "hashtags": [
+                {
+                    "text": "SagastiGolpistaCTM",
+                    "indices": [
+                        0,
+                        19
+                    ]
+                }
+            ],
+            "symbols": [],
+            "user_mentions": [],
+            "urls": [],
+            "media": [
+                {
+                    "id": 1415750456542965760,
+                    "id_str": "1415750456542965760",
+                    "indices": [
+                        89,
+                        112
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/E6XBigzXMAAUeuU.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/E6XBigzXMAAUeuU.jpg",
+                    "url": "https://t.co/wJbpnBJZcx",
+                    "display_url": "pic.twitter.com/wJbpnBJZcx",
+                    "expanded_url": "https://twitter.com/El_Castiburro/status/1415750461173403654/photo/1",
+                    "type": "photo",
+                    "sizes": {
+                        "medium": {
+                            "w": 656,
+                            "h": 370,
+                            "resize": "fit"
+                        },
+                        "large": {
+                            "w": 656,
+                            "h": 370,
+                            "resize": "fit"
+                        },
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "small": {
+                            "w": 656,
+                            "h": 370,
+                            "resize": "fit"
+                        }
+                    }
+                }
+            ]
+        },
+        "extended_entities": {
+            "media": [
+                {
+                    "id": 1415750456542965760,
+                    "id_str": "1415750456542965760",
+                    "indices": [
+                        89,
+                        112
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/E6XBigzXMAAUeuU.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/E6XBigzXMAAUeuU.jpg",
+                    "url": "https://t.co/wJbpnBJZcx",
+                    "display_url": "pic.twitter.com/wJbpnBJZcx",
+                    "expanded_url": "https://twitter.com/El_Castiburro/status/1415750461173403654/photo/1",
+                    "type": "photo",
+                    "sizes": {
+                        "medium": {
+                            "w": 656,
+                            "h": 370,
+                            "resize": "fit"
+                        },
+                        "large": {
+                            "w": 656,
+                            "h": 370,
+                            "resize": "fit"
+                        },
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "small": {
+                            "w": 656,
+                            "h": 370,
+                            "resize": "fit"
+                        }
+                    }
+                },
+                {
+                    "id": 1415750456547192834,
+                    "id_str": "1415750456547192834",
+                    "indices": [
+                        89,
+                        112
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/E6XBig0XsAIJKDb.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/E6XBig0XsAIJKDb.jpg",
+                    "url": "https://t.co/wJbpnBJZcx",
+                    "display_url": "pic.twitter.com/wJbpnBJZcx",
+                    "expanded_url": "https://twitter.com/El_Castiburro/status/1415750461173403654/photo/1",
+                    "type": "photo",
+                    "sizes": {
+                        "small": {
+                            "w": 680,
+                            "h": 374,
+                            "resize": "fit"
+                        },
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "large": {
+                            "w": 747,
+                            "h": 411,
+                            "resize": "fit"
+                        },
+                        "medium": {
+                            "w": 747,
+                            "h": 411,
+                            "resize": "fit"
+                        }
+                    }
+                },
+                {
+                    "id": 1415750456568123395,
+                    "id_str": "1415750456568123395",
+                    "indices": [
+                        89,
+                        112
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/E6XBig5XEAMvDUT.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/E6XBig5XEAMvDUT.jpg",
+                    "url": "https://t.co/wJbpnBJZcx",
+                    "display_url": "pic.twitter.com/wJbpnBJZcx",
+                    "expanded_url": "https://twitter.com/El_Castiburro/status/1415750461173403654/photo/1",
+                    "type": "photo",
+                    "sizes": {
+                        "medium": {
+                            "w": 739,
+                            "h": 415,
+                            "resize": "fit"
+                        },
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "small": {
+                            "w": 680,
+                            "h": 382,
+                            "resize": "fit"
+                        },
+                        "large": {
+                            "w": 739,
+                            "h": 415,
+                            "resize": "fit"
+                        }
+                    }
+                },
+                {
+                    "id": 1415750456559742980,
+                    "id_str": "1415750456559742980",
+                    "indices": [
+                        89,
+                        112
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/E6XBig3XMAQcXT5.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/E6XBig3XMAQcXT5.jpg",
+                    "url": "https://t.co/wJbpnBJZcx",
+                    "display_url": "pic.twitter.com/wJbpnBJZcx",
+                    "expanded_url": "https://twitter.com/El_Castiburro/status/1415750461173403654/photo/1",
+                    "type": "photo",
+                    "sizes": {
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "large": {
+                            "w": 750,
+                            "h": 536,
+                            "resize": "fit"
+                        },
+                        "medium": {
+                            "w": 750,
+                            "h": 536,
+                            "resize": "fit"
+                        },
+                        "small": {
+                            "w": 680,
+                            "h": 486,
+                            "resize": "fit"
+                        }
+                    }
+                }
+            ]
+        },
+        "metadata": {
+            "iso_language_code": "es",
+            "result_type": "recent"
+        },
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 1413700881778978816,
+            "id_str": "1413700881778978816",
+            "name": "El Castiburro",
+            "screen_name": "El_Castiburro",
+            "location": "",
+            "description": "Palabra de Mula",
+            "url": null,
+            "entities": {
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 50,
+            "friends_count": 16,
+            "listed_count": 0,
+            "created_at": "Sat Jul 10 03:25:37 +0000 2021",
+            "favourites_count": 40,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": false,
+            "verified": false,
+            "statuses_count": 22,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "F5F8FA",
+            "profile_background_image_url": null,
+            "profile_background_image_url_https": null,
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1413701262575554567/is0qM3a1_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1413701262575554567/is0qM3a1_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/1413700881778978816/1625887780",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "has_extended_profile": true,
+            "default_profile": true,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none",
+            "withheld_in_countries": []
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 110,
+        "favorite_count": 237,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "es"
+    },
+    "is_quote_status": false,
+    "retweet_count": 110,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "es"
+}

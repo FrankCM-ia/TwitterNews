@@ -1,0 +1,237 @@
+{
+    "created_at": "Mon Jul 12 19:48:13 +0000 2021",
+    "id": 1414672966697226254,
+    "id_str": "1414672966697226254",
+    "full_text": "RT @DocMingroni: @Cadena_Xeneize  \nConectadosalMediodia\n@faafiperez dijiste tema Advincula y se termino el programa \nGran programa lo ven\u00eda\u2026",
+    "truncated": false,
+    "display_text_range": [
+        0,
+        140
+    ],
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "DocMingroni",
+                "name": "Doc Mingroni",
+                "id": 148114045,
+                "id_str": "148114045",
+                "indices": [
+                    3,
+                    15
+                ]
+            },
+            {
+                "screen_name": "Cadena_Xeneize",
+                "name": "Cadena Xeneize",
+                "id": 856637115735707648,
+                "id_str": "856637115735707648",
+                "indices": [
+                    17,
+                    32
+                ]
+            },
+            {
+                "screen_name": "faafiperez",
+                "name": "Fafi",
+                "id": 138035173,
+                "id_str": "138035173",
+                "indices": [
+                    56,
+                    67
+                ]
+            }
+        ],
+        "urls": []
+    },
+    "metadata": {
+        "iso_language_code": "es",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 273572870,
+        "id_str": "273572870",
+        "name": "Bruno Lauria",
+        "screen_name": "brunoolauria",
+        "location": "Buenos Aires, Argentina",
+        "description": "Snapchat: brunolauriaok",
+        "url": "https://t.co/gGQgdtd9xJ",
+        "entities": {
+            "url": {
+                "urls": [
+                    {
+                        "url": "https://t.co/gGQgdtd9xJ",
+                        "expanded_url": "http://Instagram.com/brunoolauria",
+                        "display_url": "Instagram.com/brunoolauria",
+                        "indices": [
+                            0,
+                            23
+                        ]
+                    }
+                ]
+            },
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 348,
+        "friends_count": 2610,
+        "listed_count": 2,
+        "created_at": "Mon Mar 28 19:08:35 +0000 2011",
+        "favourites_count": 12245,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 9112,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1393652838975344642/eZ7WhVgE_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1393652838975344642/eZ7WhVgE_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/273572870/1621989798",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": true,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+        "created_at": "Mon Jul 12 17:07:19 +0000 2021",
+        "id": 1414632477256212482,
+        "id_str": "1414632477256212482",
+        "full_text": "@Cadena_Xeneize  \nConectadosalMediodia\n@faafiperez dijiste tema Advincula y se termino el programa \nGran programa lo ven\u00eda escuchando en el auto",
+        "truncated": false,
+        "display_text_range": [
+            0,
+            144
+        ],
+        "entities": {
+            "hashtags": [],
+            "symbols": [],
+            "user_mentions": [
+                {
+                    "screen_name": "Cadena_Xeneize",
+                    "name": "Cadena Xeneize",
+                    "id": 856637115735707648,
+                    "id_str": "856637115735707648",
+                    "indices": [
+                        0,
+                        15
+                    ]
+                },
+                {
+                    "screen_name": "faafiperez",
+                    "name": "Fafi",
+                    "id": 138035173,
+                    "id_str": "138035173",
+                    "indices": [
+                        39,
+                        50
+                    ]
+                }
+            ],
+            "urls": []
+        },
+        "metadata": {
+            "iso_language_code": "es",
+            "result_type": "recent"
+        },
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": 856637115735707648,
+        "in_reply_to_user_id_str": "856637115735707648",
+        "in_reply_to_screen_name": "Cadena_Xeneize",
+        "user": {
+            "id": 148114045,
+            "id_str": "148114045",
+            "name": "Doc Mingroni",
+            "screen_name": "DocMingroni",
+            "location": "Empalme Villa Constitucion",
+            "description": "La medicina y Boca Juniors son mis dos pasiones  Papa x 2 Alto rubio y con un zapato negro",
+            "url": null,
+            "entities": {
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 4667,
+            "friends_count": 3657,
+            "listed_count": 6,
+            "created_at": "Tue May 25 21:53:56 +0000 2010",
+            "favourites_count": 59102,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": true,
+            "verified": false,
+            "statuses_count": 26381,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "022330",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1406265585252569098/3dgJYr15_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1406265585252569098/3dgJYr15_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/148114045/1624114820",
+            "profile_link_color": "0084B4",
+            "profile_sidebar_border_color": "A8C7F7",
+            "profile_sidebar_fill_color": "C0DFEC",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "has_extended_profile": true,
+            "default_profile": false,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none",
+            "withheld_in_countries": []
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 5,
+        "favorite_count": 9,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "es"
+    },
+    "is_quote_status": false,
+    "retweet_count": 5,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "es"
+}

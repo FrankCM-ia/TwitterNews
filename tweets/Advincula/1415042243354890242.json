@@ -1,0 +1,110 @@
+{
+    "created_at": "Tue Jul 13 20:15:35 +0000 2021",
+    "id": 1415042243354890242,
+    "id_str": "1415042243354890242",
+    "full_text": "@fonsecafpablo Igual parece que va a llegar Adv\u00edncula. Y tener al peruano, Rom\u00e1n y el Chelo es un desprop\u00f3sito.",
+    "truncated": false,
+    "display_text_range": [
+        15,
+        111
+    ],
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "fonsecafpablo",
+                "name": "Pablo Fonseca Fern\u00e1ndez",
+                "id": 1251191487754317825,
+                "id_str": "1251191487754317825",
+                "indices": [
+                    0,
+                    14
+                ]
+            }
+        ],
+        "urls": []
+    },
+    "metadata": {
+        "iso_language_code": "es",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "in_reply_to_status_id": 1415041926303203328,
+    "in_reply_to_status_id_str": "1415041926303203328",
+    "in_reply_to_user_id": 1251191487754317825,
+    "in_reply_to_user_id_str": "1251191487754317825",
+    "in_reply_to_screen_name": "fonsecafpablo",
+    "user": {
+        "id": 871559964732653568,
+        "id_str": "871559964732653568",
+        "name": "Joaco",
+        "screen_name": "joaquin_ginesta",
+        "location": "",
+        "description": "#Ferro en @ferroenradio \ud83c\udf99\ufe0f| Tiro l\u00edneas en @CrackDeportivo_ y @vermudeportivo \ud83d\udda5\ufe0f| Cubr\u00ed a #Boca en @DiarioOle y ex @cabboficial \u270d\ufe0f",
+        "url": "https://t.co/NygKwxzpSN",
+        "entities": {
+            "url": {
+                "urls": [
+                    {
+                        "url": "https://t.co/NygKwxzpSN",
+                        "expanded_url": "https://www.instagram.com/joaquin_ginesta/",
+                        "display_url": "instagram.com/joaquin_ginest\u2026",
+                        "indices": [
+                            0,
+                            23
+                        ]
+                    }
+                ]
+            },
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 392,
+        "friends_count": 499,
+        "listed_count": 0,
+        "created_at": "Mon Jun 05 02:51:03 +0000 2017",
+        "favourites_count": 2648,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 2589,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1373421219039563776/R4wzLcPP_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1373421219039563776/R4wzLcPP_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/871559964732653568/1606513044",
+        "profile_link_color": "19CF00",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "profile_use_background_image": false,
+        "has_extended_profile": false,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "es"
+}

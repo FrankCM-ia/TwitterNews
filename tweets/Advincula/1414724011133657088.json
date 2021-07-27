@@ -1,0 +1,320 @@
+{
+    "created_at": "Mon Jul 12 23:11:03 +0000 2021",
+    "id": 1414724011133657088,
+    "id_str": "1414724011133657088",
+    "full_text": "WTF QUE HACE ADVINCULA AH\u00cd?????? https://t.co/tKDNY5YAzy",
+    "truncated": false,
+    "display_text_range": [
+        0,
+        32
+    ],
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+            {
+                "url": "https://t.co/tKDNY5YAzy",
+                "expanded_url": "https://twitter.com/BocaJrsOficial/status/1414691038837547019",
+                "display_url": "twitter.com/BocaJrsOficial\u2026",
+                "indices": [
+                    33,
+                    56
+                ]
+            }
+        ]
+    },
+    "metadata": {
+        "iso_language_code": "es",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 1082967073414959107,
+        "id_str": "1082967073414959107",
+        "name": "Juanro",
+        "screen_name": "juanroo12",
+        "location": "",
+        "description": "No twitteo en serio",
+        "url": null,
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 338,
+        "friends_count": 593,
+        "listed_count": 2,
+        "created_at": "Wed Jan 09 11:47:25 +0000 2019",
+        "favourites_count": 22551,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 14067,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": null,
+        "profile_background_image_url_https": null,
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1409353067489906693/1uvdRGMS_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1409353067489906693/1uvdRGMS_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1082967073414959107/1626019119",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": true,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": true,
+    "quoted_status_id": 1414691038837547019,
+    "quoted_status_id_str": "1414691038837547019",
+    "quoted_status": {
+        "created_at": "Mon Jul 12 21:00:02 +0000 2021",
+        "id": 1414691038837547019,
+        "id_str": "1414691038837547019",
+        "full_text": "\ud83d\udccb Lista de concentrados para enfrentar a Atl\u00e9tico Mineiro por el partido de ida de 8vos. de final de la Copa #Libertadores en la Bombonera.\n\n#VamosBoca \ud83d\udfe6\ud83d\udfe8\ud83d\udfe6 https://t.co/g5QXHRUYyz",
+        "truncated": false,
+        "display_text_range": [
+            0,
+            155
+        ],
+        "entities": {
+            "hashtags": [
+                {
+                    "text": "Libertadores",
+                    "indices": [
+                        109,
+                        122
+                    ]
+                },
+                {
+                    "text": "VamosBoca",
+                    "indices": [
+                        141,
+                        151
+                    ]
+                }
+            ],
+            "symbols": [],
+            "user_mentions": [],
+            "urls": [],
+            "media": [
+                {
+                    "id": 1414648130176438272,
+                    "id_str": "1414648130176438272",
+                    "indices": [
+                        156,
+                        179
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/E6HW-rFWUAAZKRH.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/E6HW-rFWUAAZKRH.jpg",
+                    "url": "https://t.co/g5QXHRUYyz",
+                    "display_url": "pic.twitter.com/g5QXHRUYyz",
+                    "expanded_url": "https://twitter.com/BocaJrsOficial/status/1414691038837547019/photo/1",
+                    "type": "photo",
+                    "sizes": {
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "medium": {
+                            "w": 960,
+                            "h": 1200,
+                            "resize": "fit"
+                        },
+                        "small": {
+                            "w": 544,
+                            "h": 680,
+                            "resize": "fit"
+                        },
+                        "large": {
+                            "w": 1080,
+                            "h": 1350,
+                            "resize": "fit"
+                        }
+                    }
+                }
+            ]
+        },
+        "extended_entities": {
+            "media": [
+                {
+                    "id": 1414648130176438272,
+                    "id_str": "1414648130176438272",
+                    "indices": [
+                        156,
+                        179
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/E6HW-rFWUAAZKRH.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/E6HW-rFWUAAZKRH.jpg",
+                    "url": "https://t.co/g5QXHRUYyz",
+                    "display_url": "pic.twitter.com/g5QXHRUYyz",
+                    "expanded_url": "https://twitter.com/BocaJrsOficial/status/1414691038837547019/photo/1",
+                    "type": "photo",
+                    "sizes": {
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "medium": {
+                            "w": 960,
+                            "h": 1200,
+                            "resize": "fit"
+                        },
+                        "small": {
+                            "w": 544,
+                            "h": 680,
+                            "resize": "fit"
+                        },
+                        "large": {
+                            "w": 1080,
+                            "h": 1350,
+                            "resize": "fit"
+                        }
+                    }
+                }
+            ]
+        },
+        "metadata": {
+            "iso_language_code": "es",
+            "result_type": "recent"
+        },
+        "source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 42933426,
+            "id_str": "42933426",
+            "name": "Boca Juniors",
+            "screen_name": "BocaJrsOficial",
+            "location": "Buenos Aires, Argentina",
+            "description": "Twitter oficial del Club Atl\u00e9tico Boca Juniors / https://t.co/IZiKeMQJuw / https://t.co/357u2ohF0j / https://t.co/uhVPA9vSUU",
+            "url": "https://t.co/2jBexAV2qZ",
+            "entities": {
+                "url": {
+                    "urls": [
+                        {
+                            "url": "https://t.co/2jBexAV2qZ",
+                            "expanded_url": "http://www.bocajuniors.com.ar",
+                            "display_url": "bocajuniors.com.ar",
+                            "indices": [
+                                0,
+                                23
+                            ]
+                        }
+                    ]
+                },
+                "description": {
+                    "urls": [
+                        {
+                            "url": "https://t.co/IZiKeMQJuw",
+                            "expanded_url": "http://facebook.com/bocajuniors",
+                            "display_url": "facebook.com/bocajuniors",
+                            "indices": [
+                                49,
+                                72
+                            ]
+                        },
+                        {
+                            "url": "https://t.co/357u2ohF0j",
+                            "expanded_url": "http://Instagram.com/bocajrsoficial",
+                            "display_url": "Instagram.com/bocajrsoficial",
+                            "indices": [
+                                75,
+                                98
+                            ]
+                        },
+                        {
+                            "url": "https://t.co/uhVPA9vSUU",
+                            "expanded_url": "http://youtube.com/bocaentretenimientos",
+                            "display_url": "youtube.com/bocaentretenim\u2026",
+                            "indices": [
+                                101,
+                                124
+                            ]
+                        }
+                    ]
+                }
+            },
+            "protected": false,
+            "followers_count": 4220812,
+            "friends_count": 96,
+            "listed_count": 4320,
+            "created_at": "Wed May 27 17:41:27 +0000 2009",
+            "favourites_count": 742,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": true,
+            "verified": true,
+            "statuses_count": 89902,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "024CDB",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1333607199717920770/d78yh3xj_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1333607199717920770/d78yh3xj_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/42933426/1587412228",
+            "profile_link_color": "024CDB",
+            "profile_sidebar_border_color": "FFFFFF",
+            "profile_sidebar_fill_color": "1885F9",
+            "profile_text_color": "0217DB",
+            "profile_use_background_image": true,
+            "has_extended_profile": true,
+            "default_profile": false,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none",
+            "withheld_in_countries": []
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 272,
+        "favorite_count": 3084,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "es"
+    },
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "es"
+}

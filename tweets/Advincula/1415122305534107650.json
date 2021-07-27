@@ -1,0 +1,117 @@
+{
+    "created_at": "Wed Jul 14 01:33:43 +0000 2021",
+    "id": 1415122305534107650,
+    "id_str": "1415122305534107650",
+    "full_text": "@MovistarDeporPe @CONMEBOL @CopaAmerica Advincula le meti\u00f3 un baile a Estupi\u00f1an en la casa blanca.",
+    "truncated": false,
+    "display_text_range": [
+        40,
+        98
+    ],
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "MovistarDeporPe",
+                "name": "Movistar Deportes",
+                "id": 376334337,
+                "id_str": "376334337",
+                "indices": [
+                    0,
+                    16
+                ]
+            },
+            {
+                "screen_name": "CONMEBOL",
+                "name": "CONMEBOL.com",
+                "id": 1265260098,
+                "id_str": "1265260098",
+                "indices": [
+                    17,
+                    26
+                ]
+            },
+            {
+                "screen_name": "CopaAmerica",
+                "name": "Copa Am\u00e9rica",
+                "id": 3159711265,
+                "id_str": "3159711265",
+                "indices": [
+                    27,
+                    39
+                ]
+            }
+        ],
+        "urls": []
+    },
+    "metadata": {
+        "iso_language_code": "es",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "in_reply_to_status_id": 1414993525842796552,
+    "in_reply_to_status_id_str": "1414993525842796552",
+    "in_reply_to_user_id": 376334337,
+    "in_reply_to_user_id_str": "376334337",
+    "in_reply_to_screen_name": "MovistarDeporPe",
+    "user": {
+        "id": 795126962968793089,
+        "id_str": "795126962968793089",
+        "name": "Jhoreman Carlos",
+        "screen_name": "jhoremanPG",
+        "location": "",
+        "description": "",
+        "url": null,
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 27,
+        "friends_count": 354,
+        "listed_count": 0,
+        "created_at": "Sun Nov 06 04:53:35 +0000 2016",
+        "favourites_count": 6491,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 243,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": null,
+        "profile_background_image_url_https": null,
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/936738171173339136/jXPqsVlR_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/936738171173339136/jXPqsVlR_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/795126962968793089/1512170759",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": true,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "es"
+}

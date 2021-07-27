@@ -1,0 +1,198 @@
+{
+    "created_at": "Fri Jul 16 00:17:16 +0000 2021",
+    "id": 1415827839866265600,
+    "id_str": "1415827839866265600",
+    "full_text": "RT @LaVerdadNoS2: #SagastiGolpistaCTM ya ver\u00e1s cuando el pueblo haga justicia, toda la sangre que t\u00fa y tus aliados derramaron (incluida la\u2026",
+    "truncated": false,
+    "display_text_range": [
+        0,
+        139
+    ],
+    "entities": {
+        "hashtags": [
+            {
+                "text": "SagastiGolpistaCTM",
+                "indices": [
+                    18,
+                    37
+                ]
+            }
+        ],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "LaVerdadNoS2",
+                "name": "La Verdad No S\u00e9",
+                "id": 1407105212649725954,
+                "id_str": "1407105212649725954",
+                "indices": [
+                    3,
+                    16
+                ]
+            }
+        ],
+        "urls": []
+    },
+    "metadata": {
+        "iso_language_code": "es",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 1021853341373087746,
+        "id_str": "1021853341373087746",
+        "name": "jimmy oshiro",
+        "screen_name": "Jimpatt3",
+        "location": "",
+        "description": "Esp\u00edritu democratico, masa patriota, Alianza Lima, pokemon go.",
+        "url": null,
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 11,
+        "friends_count": 204,
+        "listed_count": 0,
+        "created_at": "Tue Jul 24 20:23:16 +0000 2018",
+        "favourites_count": 1601,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 1507,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": null,
+        "profile_background_image_url_https": null,
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1029982978682830849/cTx_hA6t_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1029982978682830849/cTx_hA6t_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1021853341373087746/1625455815",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+        "created_at": "Fri Jul 16 00:05:57 +0000 2021",
+        "id": 1415824989916471301,
+        "id_str": "1415824989916471301",
+        "full_text": "#SagastiGolpistaCTM ya ver\u00e1s cuando el pueblo haga justicia, toda la sangre que t\u00fa y tus aliados derramaron (incluida la de Inty y Bryan) pesar\u00e1 en t\u00fa condena.",
+        "truncated": false,
+        "display_text_range": [
+            0,
+            159
+        ],
+        "entities": {
+            "hashtags": [
+                {
+                    "text": "SagastiGolpistaCTM",
+                    "indices": [
+                        0,
+                        19
+                    ]
+                }
+            ],
+            "symbols": [],
+            "user_mentions": [],
+            "urls": []
+        },
+        "metadata": {
+            "iso_language_code": "es",
+            "result_type": "recent"
+        },
+        "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 1407105212649725954,
+            "id_str": "1407105212649725954",
+            "name": "La Verdad No S\u00e9",
+            "screen_name": "LaVerdadNoS2",
+            "location": "",
+            "description": "Djdbdjdbdnfjffbfjfjfjd",
+            "url": null,
+            "entities": {
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 20,
+            "friends_count": 72,
+            "listed_count": 0,
+            "created_at": "Mon Jun 21 22:36:52 +0000 2021",
+            "favourites_count": 2484,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": false,
+            "verified": false,
+            "statuses_count": 2491,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "F5F8FA",
+            "profile_background_image_url": null,
+            "profile_background_image_url_https": null,
+            "profile_background_tile": false,
+            "profile_image_url": "http://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+            "profile_image_url_https": "https://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "has_extended_profile": true,
+            "default_profile": true,
+            "default_profile_image": true,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none",
+            "withheld_in_countries": []
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 2,
+        "favorite_count": 2,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "es"
+    },
+    "is_quote_status": false,
+    "retweet_count": 2,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "es"
+}

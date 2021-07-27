@@ -1,0 +1,137 @@
+{
+    "created_at": "Mon Jul 12 22:09:32 +0000 2021",
+    "id": 1414708530133749760,
+    "id_str": "1414708530133749760",
+    "full_text": "@Fercho3100 @marhoras @La12tuittera @Tato_Aguilera @Sportia jajaj con esa logica los mejores jugadores peruanos tambien se van a europa o paises donde pagan mas por eso advincula y zambrano jugaron tantos a\u00f1os en europa en ligas top en especial zambrano 7 a\u00f1os en alemania recien de viejos regresan al continentw",
+    "truncated": false,
+    "display_text_range": [
+        60,
+        312
+    ],
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "Fercho3100",
+                "name": "Fercho",
+                "id": 940794149334372352,
+                "id_str": "940794149334372352",
+                "indices": [
+                    0,
+                    11
+                ]
+            },
+            {
+                "screen_name": "marhoras",
+                "name": "Marcelo Horacio Slab",
+                "id": 199655917,
+                "id_str": "199655917",
+                "indices": [
+                    12,
+                    21
+                ]
+            },
+            {
+                "screen_name": "La12tuittera",
+                "name": "La12tuittera \u246b",
+                "id": 249345746,
+                "id_str": "249345746",
+                "indices": [
+                    22,
+                    35
+                ]
+            },
+            {
+                "screen_name": "Tato_Aguilera",
+                "name": "Leandro Aguilera",
+                "id": 140441829,
+                "id_str": "140441829",
+                "indices": [
+                    36,
+                    50
+                ]
+            },
+            {
+                "screen_name": "Sportia",
+                "name": "Sportia",
+                "id": 249692638,
+                "id_str": "249692638",
+                "indices": [
+                    51,
+                    59
+                ]
+            }
+        ],
+        "urls": []
+    },
+    "metadata": {
+        "iso_language_code": "es",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "in_reply_to_status_id": 1414690047362805765,
+    "in_reply_to_status_id_str": "1414690047362805765",
+    "in_reply_to_user_id": 940794149334372352,
+    "in_reply_to_user_id_str": "940794149334372352",
+    "in_reply_to_screen_name": "Fercho3100",
+    "user": {
+        "id": 1336138301196161025,
+        "id_str": "1336138301196161025",
+        "name": "Mander sven",
+        "screen_name": "ManderSven",
+        "location": "",
+        "description": "",
+        "url": null,
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 0,
+        "friends_count": 32,
+        "listed_count": 0,
+        "created_at": "Tue Dec 08 02:44:04 +0000 2020",
+        "favourites_count": 5,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 804,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": null,
+        "profile_background_image_url_https": null,
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1336139913310375936/lGWwMxv-_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1336139913310375936/lGWwMxv-_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1336138301196161025/1625358424",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": true,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 1,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "es"
+}

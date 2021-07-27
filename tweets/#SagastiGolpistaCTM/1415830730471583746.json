@@ -1,0 +1,107 @@
+{
+    "created_at": "Fri Jul 16 00:28:45 +0000 2021",
+    "id": 1415830730471583746,
+    "id_str": "1415830730471583746",
+    "full_text": "Otra vez un Hashtag que est\u00e1 fuera de lugar #SagastiGolpistaCTM\nQue lastiman dan este tipo de simpatizantes de quinta \nLuego se quejan que nadie los toman en serio",
+    "truncated": false,
+    "display_text_range": [
+        0,
+        163
+    ],
+    "entities": {
+        "hashtags": [
+            {
+                "text": "SagastiGolpistaCTM",
+                "indices": [
+                    44,
+                    63
+                ]
+            }
+        ],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+    },
+    "metadata": {
+        "iso_language_code": "es",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 1125579719758499840,
+        "id_str": "1125579719758499840",
+        "name": "LeonardoNavarro",
+        "screen_name": "Luoo_navarro",
+        "location": "",
+        "description": "Directo en decir la verdad aunque aveces duela. \nEspero algun dia poder estudiar la carrera que amo que es el PERIODISMO\n\u00a1M\u00e1s Peruano que la papa!\nLuoo Navarro",
+        "url": "https://t.co/cR1veffqoI",
+        "entities": {
+            "url": {
+                "urls": [
+                    {
+                        "url": "https://t.co/cR1veffqoI",
+                        "expanded_url": "https://www.youtube.com/channel/UCYI2ljj9J1owIT9A0yvvMyg",
+                        "display_url": "youtube.com/channel/UCYI2l\u2026",
+                        "indices": [
+                            0,
+                            23
+                        ]
+                    }
+                ]
+            },
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 16,
+        "friends_count": 24,
+        "listed_count": 0,
+        "created_at": "Tue May 07 01:54:52 +0000 2019",
+        "favourites_count": 3354,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 1776,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": null,
+        "profile_background_image_url_https": null,
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1415778902967001088/KAjx-k_A_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1415778902967001088/KAjx-k_A_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1125579719758499840/1623286389",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": true,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 3,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "es"
+}

@@ -1,0 +1,99 @@
+{
+    "created_at": "Thu Jul 15 20:10:33 +0000 2021",
+    "id": 1415765753710759937,
+    "id_str": "1415765753710759937",
+    "full_text": "Si todo sale como se espera, el fin de semana llega Advincula",
+    "truncated": false,
+    "display_text_range": [
+        0,
+        61
+    ],
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+    },
+    "metadata": {
+        "iso_language_code": "es",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 441260562,
+        "id_str": "441260562",
+        "name": "Alan Rodriguez",
+        "screen_name": "RodriguezAlanOk",
+        "location": "Buenos Aires, Argentina",
+        "description": "\ud83c\udfa4 Periodista Deportivo - Siguiendo a Boca y a los deportistas argentinos por el mundo. Conductor y Productor. \ud83d\udde3\ufe0f Ingl\u00e9s.",
+        "url": "https://t.co/aayr8Xczl7",
+        "entities": {
+            "url": {
+                "urls": [
+                    {
+                        "url": "https://t.co/aayr8Xczl7",
+                        "expanded_url": "https://www.instagram.com/alanrodriguez.ok/",
+                        "display_url": "instagram.com/alanrodriguez.\u2026",
+                        "indices": [
+                            0,
+                            23
+                        ]
+                    }
+                ]
+            },
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 8022,
+        "friends_count": 2165,
+        "listed_count": 17,
+        "created_at": "Mon Dec 19 22:27:22 +0000 2011",
+        "favourites_count": 1481,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 10298,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "022330",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1353733963903365129/IluFrZqf_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1353733963903365129/IluFrZqf_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/441260562/1502979352",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": false,
+        "has_extended_profile": true,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 1,
+    "favorite_count": 23,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "es"
+}

@@ -1,0 +1,106 @@
+{
+    "created_at": "Sun Jul 11 00:49:57 +0000 2021",
+    "id": 1414024125031591937,
+    "id_str": "1414024125031591937",
+    "full_text": "@ganador_1959 @PTV_Noticias Sabes el significado de la palabra Iv\u00e1n, o casi o quiz\u00e1s, tal vez.\nEn eso se resume toda la vida el nuevo sistema judicial corrupto y rojo, cre\u00ed que los Apristas en el era lo peor pero no lo peor son estos asquerosos rojos.",
+    "truncated": false,
+    "display_text_range": [
+        28,
+        251
+    ],
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "ganador_1959",
+                "name": "ganador 1959",
+                "id": 4346302992,
+                "id_str": "4346302992",
+                "indices": [
+                    0,
+                    13
+                ]
+            },
+            {
+                "screen_name": "PTV_Noticias",
+                "name": "Panamericana Noticias",
+                "id": 527506722,
+                "id_str": "527506722",
+                "indices": [
+                    14,
+                    27
+                ]
+            }
+        ],
+        "urls": []
+    },
+    "metadata": {
+        "iso_language_code": "es",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "in_reply_to_status_id": 1413991158536093703,
+    "in_reply_to_status_id_str": "1413991158536093703",
+    "in_reply_to_user_id": 4346302992,
+    "in_reply_to_user_id_str": "4346302992",
+    "in_reply_to_screen_name": "ganador_1959",
+    "user": {
+        "id": 1511265828,
+        "id_str": "1511265828",
+        "name": "Daniel F. Ugarte V.",
+        "screen_name": "ugarte_locura",
+        "location": "",
+        "description": "",
+        "url": null,
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 13,
+        "friends_count": 40,
+        "listed_count": 0,
+        "created_at": "Wed Jun 12 18:37:25 +0000 2013",
+        "favourites_count": 47,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 48,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1411729227158855680/LOB6WM9a_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1411729227158855680/LOB6WM9a_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": true,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "es"
+}

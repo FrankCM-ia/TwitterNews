@@ -1,0 +1,277 @@
+{
+    "created_at": "Fri Jul 16 00:11:15 +0000 2021",
+    "id": 1415826323856109572,
+    "id_str": "1415826323856109572",
+    "full_text": "RT @PerichePurizaca: La lucha es del pueblo y est\u00e1 lucha no termina hasta sacarlo de palacio \n#SagastiGolpistaCTM  \nNo entregaras nuestro p\u2026",
+    "truncated": false,
+    "display_text_range": [
+        0,
+        140
+    ],
+    "entities": {
+        "hashtags": [
+            {
+                "text": "SagastiGolpistaCTM",
+                "indices": [
+                    94,
+                    113
+                ]
+            }
+        ],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "PerichePurizaca",
+                "name": "maria purizaca periche",
+                "id": 1370016577978912769,
+                "id_str": "1370016577978912769",
+                "indices": [
+                    3,
+                    19
+                ]
+            }
+        ],
+        "urls": []
+    },
+    "metadata": {
+        "iso_language_code": "es",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 1975666808,
+        "id_str": "1975666808",
+        "name": "Victor Brocca",
+        "screen_name": "vbroccap",
+        "location": "",
+        "description": "Consultor de Negocios, especialidad en seguros, finanzas, Networking, seguridad Inform\u00e1tica, Entorno Microsoft etc.",
+        "url": null,
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 1327,
+        "friends_count": 1255,
+        "listed_count": 0,
+        "created_at": "Sun Oct 20 16:35:24 +0000 2013",
+        "favourites_count": 196962,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 189565,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1390764178265317381/8D7rU5CO_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1390764178265317381/8D7rU5CO_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1975666808/1465595833",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": true,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+        "created_at": "Thu Jul 15 19:37:30 +0000 2021",
+        "id": 1415757433557995528,
+        "id_str": "1415757433557995528",
+        "full_text": "La lucha es del pueblo y est\u00e1 lucha no termina hasta sacarlo de palacio \n#SagastiGolpistaCTM  \nNo entregaras nuestro pa\u00eds al comunismo https://t.co/1NFS1wi1fv",
+        "truncated": false,
+        "display_text_range": [
+            0,
+            134
+        ],
+        "entities": {
+            "hashtags": [
+                {
+                    "text": "SagastiGolpistaCTM",
+                    "indices": [
+                        73,
+                        92
+                    ]
+                }
+            ],
+            "symbols": [],
+            "user_mentions": [],
+            "urls": [],
+            "media": [
+                {
+                    "id": 1415757423399276546,
+                    "id_str": "1415757423399276546",
+                    "indices": [
+                        135,
+                        158
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/E6XH4CXWEAIwzf-.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/E6XH4CXWEAIwzf-.jpg",
+                    "url": "https://t.co/1NFS1wi1fv",
+                    "display_url": "pic.twitter.com/1NFS1wi1fv",
+                    "expanded_url": "https://twitter.com/PerichePurizaca/status/1415757433557995528/photo/1",
+                    "type": "photo",
+                    "sizes": {
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "large": {
+                            "w": 1200,
+                            "h": 1200,
+                            "resize": "fit"
+                        },
+                        "medium": {
+                            "w": 1200,
+                            "h": 1200,
+                            "resize": "fit"
+                        },
+                        "small": {
+                            "w": 680,
+                            "h": 680,
+                            "resize": "fit"
+                        }
+                    }
+                }
+            ]
+        },
+        "extended_entities": {
+            "media": [
+                {
+                    "id": 1415757423399276546,
+                    "id_str": "1415757423399276546",
+                    "indices": [
+                        135,
+                        158
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/E6XH4CXWEAIwzf-.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/E6XH4CXWEAIwzf-.jpg",
+                    "url": "https://t.co/1NFS1wi1fv",
+                    "display_url": "pic.twitter.com/1NFS1wi1fv",
+                    "expanded_url": "https://twitter.com/PerichePurizaca/status/1415757433557995528/photo/1",
+                    "type": "photo",
+                    "sizes": {
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "large": {
+                            "w": 1200,
+                            "h": 1200,
+                            "resize": "fit"
+                        },
+                        "medium": {
+                            "w": 1200,
+                            "h": 1200,
+                            "resize": "fit"
+                        },
+                        "small": {
+                            "w": 680,
+                            "h": 680,
+                            "resize": "fit"
+                        }
+                    }
+                }
+            ]
+        },
+        "metadata": {
+            "iso_language_code": "es",
+            "result_type": "recent"
+        },
+        "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 1370016577978912769,
+            "id_str": "1370016577978912769",
+            "name": "maria purizaca periche",
+            "screen_name": "PerichePurizaca",
+            "location": "",
+            "description": "administradora , gesti\u00f3n publica, natural de la sierra de nuestro amado Per\u00fa , pro vida , pro familia",
+            "url": null,
+            "entities": {
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 15,
+            "friends_count": 27,
+            "listed_count": 0,
+            "created_at": "Thu Mar 11 14:19:51 +0000 2021",
+            "favourites_count": 234,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": false,
+            "verified": false,
+            "statuses_count": 814,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "F5F8FA",
+            "profile_background_image_url": null,
+            "profile_background_image_url_https": null,
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1370016680928288769/lwSyD_Oe_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1370016680928288769/lwSyD_Oe_normal.jpg",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "has_extended_profile": true,
+            "default_profile": true,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none",
+            "withheld_in_countries": []
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 25,
+        "favorite_count": 41,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "es"
+    },
+    "is_quote_status": false,
+    "retweet_count": 25,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "es"
+}

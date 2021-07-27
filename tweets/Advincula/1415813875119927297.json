@@ -1,0 +1,196 @@
+{
+    "created_at": "Thu Jul 15 23:21:47 +0000 2021",
+    "id": 1415813875119927297,
+    "id_str": "1415813875119927297",
+    "full_text": "RT @federicosmos: Todav\u00eda falta el tuit de Bulos tirando que Gallardo llam\u00f3 a Advincula.",
+    "truncated": false,
+    "display_text_range": [
+        0,
+        88
+    ],
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "federicosmos",
+                "name": "federico.",
+                "id": 2376017065,
+                "id_str": "2376017065",
+                "indices": [
+                    3,
+                    16
+                ]
+            }
+        ],
+        "urls": []
+    },
+    "metadata": {
+        "iso_language_code": "es",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 1144367923772952576,
+        "id_str": "1144367923772952576",
+        "name": "0DescensosOK",
+        "screen_name": "SinDescensosOK",
+        "location": "",
+        "description": "Bostero, El unico Grande! Diego D10S- Riquelmista (jugador) y Palermista---Bianchi y Lorenzo! \ud83c\udfc6\ud83c\udfc6\ud83c\udfc6 Del \ud83c\udf0e",
+        "url": null,
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 64,
+        "friends_count": 521,
+        "listed_count": 0,
+        "created_at": "Thu Jun 27 22:12:29 +0000 2019",
+        "favourites_count": 6706,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 8861,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": null,
+        "profile_background_image_url_https": null,
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1339398467874123777/q7GmJc7k_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1339398467874123777/q7GmJc7k_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1144367923772952576/1561673983",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+        "created_at": "Thu Jul 15 20:20:07 +0000 2021",
+        "id": 1415768159836065801,
+        "id_str": "1415768159836065801",
+        "full_text": "Todav\u00eda falta el tuit de Bulos tirando que Gallardo llam\u00f3 a Advincula.",
+        "truncated": false,
+        "display_text_range": [
+            0,
+            70
+        ],
+        "entities": {
+            "hashtags": [],
+            "symbols": [],
+            "user_mentions": [],
+            "urls": []
+        },
+        "metadata": {
+            "iso_language_code": "es",
+            "result_type": "recent"
+        },
+        "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 2376017065,
+            "id_str": "2376017065",
+            "name": "federico.",
+            "screen_name": "federicosmos",
+            "location": "",
+            "description": "Soldado de Riquelme y blink-182 | @catarsisxeneize",
+            "url": "https://t.co/B17fWYXEMc",
+            "entities": {
+                "url": {
+                    "urls": [
+                        {
+                            "url": "https://t.co/B17fWYXEMc",
+                            "expanded_url": "http://twitch.tv/catarsisxeneize",
+                            "display_url": "twitch.tv/catarsisxeneize",
+                            "indices": [
+                                0,
+                                23
+                            ]
+                        }
+                    ]
+                },
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 4530,
+            "friends_count": 941,
+            "listed_count": 12,
+            "created_at": "Thu Mar 06 22:51:52 +0000 2014",
+            "favourites_count": 85638,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": false,
+            "verified": false,
+            "statuses_count": 55634,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "C0DEED",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1373834160775835651/Kzz2Yeuc_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1373834160775835651/Kzz2Yeuc_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/2376017065/1552419673",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "has_extended_profile": false,
+            "default_profile": true,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none",
+            "withheld_in_countries": []
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 1,
+        "favorite_count": 112,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "es"
+    },
+    "is_quote_status": false,
+    "retweet_count": 1,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "es"
+}

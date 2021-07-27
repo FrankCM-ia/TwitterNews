@@ -1,0 +1,322 @@
+{
+    "created_at": "Fri Jul 16 00:18:54 +0000 2021",
+    "id": 1415828249591140352,
+    "id_str": "1415828249591140352",
+    "full_text": "RT @AmesIvonne: #SagastiGolpistaCTM\n#SagastiGolpistaCTM\nIgual HDP tenemos el derecho leg\u00edtimo a la protesta y no te import\u00f3 los chicos ases\u2026",
+    "truncated": false,
+    "display_text_range": [
+        0,
+        140
+    ],
+    "entities": {
+        "hashtags": [
+            {
+                "text": "SagastiGolpistaCTM",
+                "indices": [
+                    16,
+                    35
+                ]
+            },
+            {
+                "text": "SagastiGolpistaCTM",
+                "indices": [
+                    36,
+                    55
+                ]
+            }
+        ],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "AmesIvonne",
+                "name": "chana",
+                "id": 2550349186,
+                "id_str": "2550349186",
+                "indices": [
+                    3,
+                    14
+                ]
+            }
+        ],
+        "urls": []
+    },
+    "metadata": {
+        "iso_language_code": "es",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 1407105212649725954,
+        "id_str": "1407105212649725954",
+        "name": "La Verdad No S\u00e9",
+        "screen_name": "LaVerdadNoS2",
+        "location": "",
+        "description": "Djdbdjdbdnfjffbfjfjfjd",
+        "url": null,
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 20,
+        "friends_count": 72,
+        "listed_count": 0,
+        "created_at": "Mon Jun 21 22:36:52 +0000 2021",
+        "favourites_count": 2484,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 2491,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": null,
+        "profile_background_image_url_https": null,
+        "profile_background_tile": false,
+        "profile_image_url": "http://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+        "profile_image_url_https": "https://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": true,
+        "default_profile": true,
+        "default_profile_image": true,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+        "created_at": "Fri Jul 16 00:03:07 +0000 2021",
+        "id": 1415824278608441344,
+        "id_str": "1415824278608441344",
+        "full_text": "#SagastiGolpistaCTM\n#SagastiGolpistaCTM\nIgual HDP tenemos el derecho leg\u00edtimo a la protesta y no te import\u00f3 los chicos asesinados con tal de llegar al poder, maldito https://t.co/DUAV6mBQwC",
+        "truncated": false,
+        "display_text_range": [
+            0,
+            165
+        ],
+        "entities": {
+            "hashtags": [
+                {
+                    "text": "SagastiGolpistaCTM",
+                    "indices": [
+                        0,
+                        19
+                    ]
+                },
+                {
+                    "text": "SagastiGolpistaCTM",
+                    "indices": [
+                        20,
+                        39
+                    ]
+                }
+            ],
+            "symbols": [],
+            "user_mentions": [],
+            "urls": [],
+            "media": [
+                {
+                    "id": 1415823968569810949,
+                    "id_str": "1415823968569810949",
+                    "indices": [
+                        166,
+                        189
+                    ],
+                    "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1415823968569810949/pu/img/VIBLyX3QvwbaLpfR.jpg",
+                    "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1415823968569810949/pu/img/VIBLyX3QvwbaLpfR.jpg",
+                    "url": "https://t.co/DUAV6mBQwC",
+                    "display_url": "pic.twitter.com/DUAV6mBQwC",
+                    "expanded_url": "https://twitter.com/AmesIvonne/status/1415824278608441344/video/1",
+                    "type": "photo",
+                    "sizes": {
+                        "large": {
+                            "w": 720,
+                            "h": 968,
+                            "resize": "fit"
+                        },
+                        "small": {
+                            "w": 506,
+                            "h": 680,
+                            "resize": "fit"
+                        },
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "medium": {
+                            "w": 720,
+                            "h": 968,
+                            "resize": "fit"
+                        }
+                    }
+                }
+            ]
+        },
+        "extended_entities": {
+            "media": [
+                {
+                    "id": 1415823968569810949,
+                    "id_str": "1415823968569810949",
+                    "indices": [
+                        166,
+                        189
+                    ],
+                    "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1415823968569810949/pu/img/VIBLyX3QvwbaLpfR.jpg",
+                    "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1415823968569810949/pu/img/VIBLyX3QvwbaLpfR.jpg",
+                    "url": "https://t.co/DUAV6mBQwC",
+                    "display_url": "pic.twitter.com/DUAV6mBQwC",
+                    "expanded_url": "https://twitter.com/AmesIvonne/status/1415824278608441344/video/1",
+                    "type": "video",
+                    "sizes": {
+                        "large": {
+                            "w": 720,
+                            "h": 968,
+                            "resize": "fit"
+                        },
+                        "small": {
+                            "w": 506,
+                            "h": 680,
+                            "resize": "fit"
+                        },
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "medium": {
+                            "w": 720,
+                            "h": 968,
+                            "resize": "fit"
+                        }
+                    },
+                    "video_info": {
+                        "aspect_ratio": [
+                            90,
+                            121
+                        ],
+                        "duration_millis": 28577,
+                        "variants": [
+                            {
+                                "bitrate": 632000,
+                                "content_type": "video/mp4",
+                                "url": "https://video.twimg.com/ext_tw_video/1415823968569810949/pu/vid/320x430/1DXbduqvC5LKo86X.mp4?tag=12"
+                            },
+                            {
+                                "bitrate": 2176000,
+                                "content_type": "video/mp4",
+                                "url": "https://video.twimg.com/ext_tw_video/1415823968569810949/pu/vid/720x968/TNXF8GANk0j_p5mh.mp4?tag=12"
+                            },
+                            {
+                                "content_type": "application/x-mpegURL",
+                                "url": "https://video.twimg.com/ext_tw_video/1415823968569810949/pu/pl/cLUGU-fsm7v8DjzL.m3u8?tag=12&container=fmp4"
+                            },
+                            {
+                                "bitrate": 950000,
+                                "content_type": "video/mp4",
+                                "url": "https://video.twimg.com/ext_tw_video/1415823968569810949/pu/vid/480x644/E02WCffyse9GSL3Q.mp4?tag=12"
+                            }
+                        ]
+                    },
+                    "additional_media_info": {
+                        "monetizable": false
+                    }
+                }
+            ]
+        },
+        "metadata": {
+            "iso_language_code": "es",
+            "result_type": "recent"
+        },
+        "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 2550349186,
+            "id_str": "2550349186",
+            "name": "chana",
+            "screen_name": "AmesIvonne",
+            "location": "Anc\u00f3n, Peru",
+            "description": "La vida contin\u00faa , a seguir luchando por un pa\u00eds libre de corruptos, rojos comunistas",
+            "url": null,
+            "entities": {
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 811,
+            "friends_count": 735,
+            "listed_count": 1,
+            "created_at": "Fri May 16 22:26:16 +0000 2014",
+            "favourites_count": 96308,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": true,
+            "verified": false,
+            "statuses_count": 32755,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "C0DEED",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1388357600241201154/VZN_K8Rc_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1388357600241201154/VZN_K8Rc_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/2550349186/1625682064",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "has_extended_profile": true,
+            "default_profile": true,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none",
+            "withheld_in_countries": []
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 3,
+        "favorite_count": 6,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "es"
+    },
+    "is_quote_status": false,
+    "retweet_count": 3,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "es"
+}

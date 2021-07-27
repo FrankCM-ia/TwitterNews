@@ -1,0 +1,94 @@
+{
+    "created_at": "Fri Jul 16 03:02:35 +0000 2021",
+    "id": 1415869441561223168,
+    "id_str": "1415869441561223168",
+    "full_text": "#LaVozPeru Que fue Daniela, en esta batalla fue mucho m\u00e1s el Pitbull",
+    "truncated": false,
+    "display_text_range": [
+        0,
+        68
+    ],
+    "entities": {
+        "hashtags": [
+            {
+                "text": "LaVozPeru",
+                "indices": [
+                    0,
+                    10
+                ]
+            }
+        ],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+    },
+    "metadata": {
+        "iso_language_code": "es",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 483205603,
+        "id_str": "483205603",
+        "name": "\u2757\u2757\u2757",
+        "screen_name": "OhGaryn",
+        "location": "",
+        "description": "Tiene m\u00e1s de 20 me ense\u00f1\u00f3 la c\u00e9dula",
+        "url": null,
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 670,
+        "friends_count": 1816,
+        "listed_count": 1,
+        "created_at": "Sat Feb 04 19:12:04 +0000 2012",
+        "favourites_count": 1990,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 3943,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "DBE9ED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme17/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme17/bg.gif",
+        "profile_background_tile": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1288679632997359616/ceQmmYjN_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1288679632997359616/ceQmmYjN_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/483205603/1423770371",
+        "profile_link_color": "CC3366",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "E6F6F9",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": true,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "regular",
+        "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "es"
+}

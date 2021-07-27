@@ -1,0 +1,127 @@
+{
+    "created_at": "Tue Jul 13 15:48:50 +0000 2021",
+    "id": 1414975111636074498,
+    "id_str": "1414975111636074498",
+    "full_text": "@PeruWaltz @GalindoPW @kmontalvan7 @renato_sun Lopez Santamaria Zambrano Advincula",
+    "truncated": false,
+    "display_text_range": [
+        47,
+        82
+    ],
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "PeruWaltz",
+                "name": "The Peruvian Waltz",
+                "id": 923681110411771904,
+                "id_str": "923681110411771904",
+                "indices": [
+                    0,
+                    10
+                ]
+            },
+            {
+                "screen_name": "GalindoPW",
+                "name": "Peter Galindo",
+                "id": 157726971,
+                "id_str": "157726971",
+                "indices": [
+                    11,
+                    21
+                ]
+            },
+            {
+                "screen_name": "kmontalvan7",
+                "name": "Kevin Montalvan",
+                "id": 740346848150323200,
+                "id_str": "740346848150323200",
+                "indices": [
+                    22,
+                    34
+                ]
+            },
+            {
+                "screen_name": "renato_sun",
+                "name": "Renato the Sun",
+                "id": 1201165744773435392,
+                "id_str": "1201165744773435392",
+                "indices": [
+                    35,
+                    46
+                ]
+            }
+        ],
+        "urls": []
+    },
+    "metadata": {
+        "iso_language_code": "es",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_status_id": 1414974507283062786,
+    "in_reply_to_status_id_str": "1414974507283062786",
+    "in_reply_to_user_id": 923681110411771904,
+    "in_reply_to_user_id_str": "923681110411771904",
+    "in_reply_to_screen_name": "PeruWaltz",
+    "user": {
+        "id": 254242585,
+        "id_str": "254242585",
+        "name": "Arthur A.",
+        "screen_name": "DistrictMamba",
+        "location": "",
+        "description": "\ud83c\uddf5\ud83c\uddea the Washington Basketball team will be the death of me \ud83c\udfc0",
+        "url": null,
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 1086,
+        "friends_count": 424,
+        "listed_count": 30,
+        "created_at": "Fri Feb 18 22:29:03 +0000 2011",
+        "favourites_count": 28941,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 42905,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "A30303",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+        "profile_background_tile": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1394306601125822471/5_7LtDAu_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1394306601125822471/5_7LtDAu_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/254242585/1603061957",
+        "profile_link_color": "940000",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "CC0606",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 3,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "es"
+}

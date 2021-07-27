@@ -1,0 +1,190 @@
+{
+    "created_at": "Fri Jul 16 00:19:12 +0000 2021",
+    "id": 1415828324761448452,
+    "id_str": "1415828324761448452",
+    "full_text": "RT @N_Wiliams_: Me preocupa mucho la salud mental, pero m\u00e1s me preocupan las personas que votaron por Castillo pensando que se separar\u00eda de\u2026",
+    "truncated": false,
+    "display_text_range": [
+        0,
+        140
+    ],
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "N_Wiliams_",
+                "name": "Nolberto Wiliams",
+                "id": 2713543969,
+                "id_str": "2713543969",
+                "indices": [
+                    3,
+                    14
+                ]
+            }
+        ],
+        "urls": []
+    },
+    "metadata": {
+        "iso_language_code": "es",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 1407105212649725954,
+        "id_str": "1407105212649725954",
+        "name": "La Verdad No S\u00e9",
+        "screen_name": "LaVerdadNoS2",
+        "location": "",
+        "description": "Djdbdjdbdnfjffbfjfjfjd",
+        "url": null,
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 20,
+        "friends_count": 72,
+        "listed_count": 0,
+        "created_at": "Mon Jun 21 22:36:52 +0000 2021",
+        "favourites_count": 2484,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 2491,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": null,
+        "profile_background_image_url_https": null,
+        "profile_background_tile": false,
+        "profile_image_url": "http://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+        "profile_image_url_https": "https://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": true,
+        "default_profile": true,
+        "default_profile_image": true,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+        "created_at": "Thu Jul 15 23:16:36 +0000 2021",
+        "id": 1415812572503216131,
+        "id_str": "1415812572503216131",
+        "full_text": "Me preocupa mucho la salud mental, pero m\u00e1s me preocupan las personas que votaron por Castillo pensando que se separar\u00eda de Cerr\u00f3n, esos necesitan ayuda urgente.\n#SagastiGolpistaCTM",
+        "truncated": false,
+        "display_text_range": [
+            0,
+            181
+        ],
+        "entities": {
+            "hashtags": [
+                {
+                    "text": "SagastiGolpistaCTM",
+                    "indices": [
+                        162,
+                        181
+                    ]
+                }
+            ],
+            "symbols": [],
+            "user_mentions": [],
+            "urls": []
+        },
+        "metadata": {
+            "iso_language_code": "es",
+            "result_type": "recent"
+        },
+        "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 2713543969,
+            "id_str": "2713543969",
+            "name": "Nolberto Wiliams",
+            "screen_name": "N_Wiliams_",
+            "location": "Per\u00f9-Lima",
+            "description": "\u00bfQuien soy? \u00bfQuien ser\u00e9? De todo menos chileno.",
+            "url": null,
+            "entities": {
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 1434,
+            "friends_count": 46,
+            "listed_count": 0,
+            "created_at": "Thu Aug 07 02:48:33 +0000 2014",
+            "favourites_count": 8749,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": false,
+            "verified": false,
+            "statuses_count": 1793,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "9AE4E8",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme16/bg.gif",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme16/bg.gif",
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1368691543306043393/_Cjysz4q_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1368691543306043393/_Cjysz4q_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/2713543969/1506546672",
+            "profile_link_color": "0084B4",
+            "profile_sidebar_border_color": "BDDCAD",
+            "profile_sidebar_fill_color": "DDFFCC",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "has_extended_profile": true,
+            "default_profile": false,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none",
+            "withheld_in_countries": []
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 6,
+        "favorite_count": 14,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "es"
+    },
+    "is_quote_status": false,
+    "retweet_count": 6,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "es"
+}

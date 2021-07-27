@@ -1,0 +1,234 @@
+{
+    "created_at": "Fri Jul 16 00:31:05 +0000 2021",
+    "id": 1415831317611171842,
+    "id_str": "1415831317611171842",
+    "full_text": "@el_analista2020 @saldelsol que encubri\u00f3 y sigui\u00f3 la cuerda al vacunado y vacado lagarto, pidi\u00f3 cuesti\u00f3n de confianza por atribuci\u00f3n constitucional del congreso y ocasion\u00f3 toda esta shit?\n#SOSPeru \n#SagastiElPuebloTeRepudia \n#SagastiGolpistaCTM \n#SagastiGolpistaCTM \n#SagastiGolpistaCTM https://t.co/ApnGf3U24V",
+    "truncated": false,
+    "display_text_range": [
+        17,
+        286
+    ],
+    "entities": {
+        "hashtags": [
+            {
+                "text": "SOSPeru",
+                "indices": [
+                    188,
+                    196
+                ]
+            },
+            {
+                "text": "SagastiElPuebloTeRepudia",
+                "indices": [
+                    198,
+                    223
+                ]
+            },
+            {
+                "text": "SagastiGolpistaCTM",
+                "indices": [
+                    225,
+                    244
+                ]
+            },
+            {
+                "text": "SagastiGolpistaCTM",
+                "indices": [
+                    246,
+                    265
+                ]
+            },
+            {
+                "text": "SagastiGolpistaCTM",
+                "indices": [
+                    267,
+                    286
+                ]
+            }
+        ],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "el_analista2020",
+                "name": "El Analista",
+                "id": 1313270797679681537,
+                "id_str": "1313270797679681537",
+                "indices": [
+                    0,
+                    16
+                ]
+            },
+            {
+                "screen_name": "saldelsol",
+                "name": "Salvador del Solar",
+                "id": 52137645,
+                "id_str": "52137645",
+                "indices": [
+                    17,
+                    27
+                ]
+            }
+        ],
+        "urls": [],
+        "media": [
+            {
+                "id": 1415831302520115200,
+                "id_str": "1415831302520115200",
+                "indices": [
+                    287,
+                    310
+                ],
+                "media_url": "http://pbs.twimg.com/media/E6YLEXiXEAAMu5I.png",
+                "media_url_https": "https://pbs.twimg.com/media/E6YLEXiXEAAMu5I.png",
+                "url": "https://t.co/ApnGf3U24V",
+                "display_url": "pic.twitter.com/ApnGf3U24V",
+                "expanded_url": "https://twitter.com/marcialrojo/status/1415831317611171842/photo/1",
+                "type": "photo",
+                "sizes": {
+                    "small": {
+                        "w": 554,
+                        "h": 313,
+                        "resize": "fit"
+                    },
+                    "medium": {
+                        "w": 554,
+                        "h": 313,
+                        "resize": "fit"
+                    },
+                    "large": {
+                        "w": 554,
+                        "h": 313,
+                        "resize": "fit"
+                    },
+                    "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                    }
+                }
+            }
+        ]
+    },
+    "extended_entities": {
+        "media": [
+            {
+                "id": 1415831302520115200,
+                "id_str": "1415831302520115200",
+                "indices": [
+                    287,
+                    310
+                ],
+                "media_url": "http://pbs.twimg.com/media/E6YLEXiXEAAMu5I.png",
+                "media_url_https": "https://pbs.twimg.com/media/E6YLEXiXEAAMu5I.png",
+                "url": "https://t.co/ApnGf3U24V",
+                "display_url": "pic.twitter.com/ApnGf3U24V",
+                "expanded_url": "https://twitter.com/marcialrojo/status/1415831317611171842/photo/1",
+                "type": "photo",
+                "sizes": {
+                    "small": {
+                        "w": 554,
+                        "h": 313,
+                        "resize": "fit"
+                    },
+                    "medium": {
+                        "w": 554,
+                        "h": 313,
+                        "resize": "fit"
+                    },
+                    "large": {
+                        "w": 554,
+                        "h": 313,
+                        "resize": "fit"
+                    },
+                    "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                    }
+                }
+            }
+        ]
+    },
+    "metadata": {
+        "iso_language_code": "es",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "in_reply_to_status_id": 1415811662544834572,
+    "in_reply_to_status_id_str": "1415811662544834572",
+    "in_reply_to_user_id": 1313270797679681537,
+    "in_reply_to_user_id_str": "1313270797679681537",
+    "in_reply_to_screen_name": "el_analista2020",
+    "user": {
+        "id": 148040013,
+        "id_str": "148040013",
+        "name": "Rojo No Rojo",
+        "screen_name": "marcialrojo",
+        "location": "lima, peru",
+        "description": "Foco en resultados, liderazgo y trabajo en equipo. Gerencia general, comercial, de sistemas, canales, proyectos, procesos e implantaci\u00f3n de software empresarial",
+        "url": "http://t.co/f0U8XAmlu9",
+        "entities": {
+            "url": {
+                "urls": [
+                    {
+                        "url": "http://t.co/f0U8XAmlu9",
+                        "expanded_url": "http://linkedin.com/in/marcialrojo",
+                        "display_url": "linkedin.com/in/marcialrojo",
+                        "indices": [
+                            0,
+                            22
+                        ]
+                    }
+                ]
+            },
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 1988,
+        "friends_count": 4987,
+        "listed_count": 10,
+        "created_at": "Tue May 25 17:43:02 +0000 2010",
+        "favourites_count": 59095,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 9077,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "0099B9",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme4/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme4/bg.gif",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1287886026460078081/fWRutr5I_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1287886026460078081/fWRutr5I_normal.jpg",
+        "profile_link_color": "0099B9",
+        "profile_sidebar_border_color": "5ED4DC",
+        "profile_sidebar_fill_color": "95E8EC",
+        "profile_text_color": "3C3940",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 1,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "es"
+}

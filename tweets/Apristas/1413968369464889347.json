@@ -1,0 +1,354 @@
+{
+    "created_at": "Sat Jul 10 21:08:24 +0000 2021",
+    "id": 1413968369464889347,
+    "id_str": "1413968369464889347",
+    "full_text": "RT @primerafuente1: El texto del @LUMoficial para justificar el veto al documental #NoTememosALosCobardes cada hora es peor se\u00f1ores @MinCul\u2026",
+    "truncated": false,
+    "display_text_range": [
+        0,
+        140
+    ],
+    "entities": {
+        "hashtags": [
+            {
+                "text": "NoTememosALosCobardes",
+                "indices": [
+                    83,
+                    105
+                ]
+            }
+        ],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "primerafuente1",
+                "name": "El\u00ed Castelo",
+                "id": 1929290508,
+                "id_str": "1929290508",
+                "indices": [
+                    3,
+                    18
+                ]
+            },
+            {
+                "screen_name": "LUMoficial",
+                "name": "Lugar de la Memoria \ud83c\uddf5\ud83c\uddea",
+                "id": 950480466,
+                "id_str": "950480466",
+                "indices": [
+                    33,
+                    44
+                ]
+            }
+        ],
+        "urls": []
+    },
+    "metadata": {
+        "iso_language_code": "es",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 249748158,
+        "id_str": "249748158",
+        "name": "Manuel Rodriguez",
+        "screen_name": "Maroma2",
+        "location": "Lima, Peru",
+        "description": "Haz RT, los \"Me gusta\" No ayudan! Estamos en guerra. El Per\u00fa nos necesita. \nEl Apra es el \u00fanico partido del pueblo! Nuestra misi\u00f3n es servir a los necesitados.",
+        "url": null,
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 1783,
+        "friends_count": 1487,
+        "listed_count": 23,
+        "created_at": "Wed Feb 09 18:02:19 +0000 2011",
+        "favourites_count": 14353,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 189884,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1061820287199600640/aB2UBCMQ_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1061820287199600640/aB2UBCMQ_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+        "created_at": "Fri Jul 09 00:44:12 +0000 2021",
+        "id": 1413297902265438212,
+        "id_str": "1413297902265438212",
+        "full_text": "El texto del @LUMoficial para justificar el veto al documental #NoTememosALosCobardes cada hora es peor se\u00f1ores @MinCulturaPe. Resulta que al LUM le da miedo la palabra de los deudos parientes de los apristas asesinados por los terroristas.   Huele a Rojo Sangre, como siempre.. https://t.co/rK97Y7PYIq",
+        "truncated": false,
+        "display_text_range": [
+            0,
+            278
+        ],
+        "entities": {
+            "hashtags": [
+                {
+                    "text": "NoTememosALosCobardes",
+                    "indices": [
+                        63,
+                        85
+                    ]
+                }
+            ],
+            "symbols": [],
+            "user_mentions": [
+                {
+                    "screen_name": "LUMoficial",
+                    "name": "Lugar de la Memoria \ud83c\uddf5\ud83c\uddea",
+                    "id": 950480466,
+                    "id_str": "950480466",
+                    "indices": [
+                        13,
+                        24
+                    ]
+                },
+                {
+                    "screen_name": "MinCulturaPe",
+                    "name": "Ministerio Cultura",
+                    "id": 360874005,
+                    "id_str": "360874005",
+                    "indices": [
+                        112,
+                        125
+                    ]
+                }
+            ],
+            "urls": [],
+            "media": [
+                {
+                    "id": 1413297892924825602,
+                    "id_str": "1413297892924825602",
+                    "indices": [
+                        279,
+                        302
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/E50K8hWXoAItGet.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/E50K8hWXoAItGet.jpg",
+                    "url": "https://t.co/rK97Y7PYIq",
+                    "display_url": "pic.twitter.com/rK97Y7PYIq",
+                    "expanded_url": "https://twitter.com/primerafuente1/status/1413297902265438212/photo/1",
+                    "type": "photo",
+                    "sizes": {
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "large": {
+                            "w": 1024,
+                            "h": 1024,
+                            "resize": "fit"
+                        },
+                        "small": {
+                            "w": 680,
+                            "h": 680,
+                            "resize": "fit"
+                        },
+                        "medium": {
+                            "w": 1024,
+                            "h": 1024,
+                            "resize": "fit"
+                        }
+                    }
+                }
+            ]
+        },
+        "extended_entities": {
+            "media": [
+                {
+                    "id": 1413297892924825602,
+                    "id_str": "1413297892924825602",
+                    "indices": [
+                        279,
+                        302
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/E50K8hWXoAItGet.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/E50K8hWXoAItGet.jpg",
+                    "url": "https://t.co/rK97Y7PYIq",
+                    "display_url": "pic.twitter.com/rK97Y7PYIq",
+                    "expanded_url": "https://twitter.com/primerafuente1/status/1413297902265438212/photo/1",
+                    "type": "photo",
+                    "sizes": {
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "large": {
+                            "w": 1024,
+                            "h": 1024,
+                            "resize": "fit"
+                        },
+                        "small": {
+                            "w": 680,
+                            "h": 680,
+                            "resize": "fit"
+                        },
+                        "medium": {
+                            "w": 1024,
+                            "h": 1024,
+                            "resize": "fit"
+                        }
+                    }
+                }
+            ]
+        },
+        "metadata": {
+            "iso_language_code": "es",
+            "result_type": "recent"
+        },
+        "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 1929290508,
+            "id_str": "1929290508",
+            "name": "El\u00ed Castelo",
+            "screen_name": "primerafuente1",
+            "location": "Per\u00fa",
+            "description": "siempre en campa\u00f1a",
+            "url": "https://t.co/Lxvtn5CJlW",
+            "entities": {
+                "url": {
+                    "urls": [
+                        {
+                            "url": "https://t.co/Lxvtn5CJlW",
+                            "expanded_url": "https://www.facebook.com/EliCasteloRosas",
+                            "display_url": "facebook.com/EliCasteloRosas",
+                            "indices": [
+                                0,
+                                23
+                            ]
+                        }
+                    ]
+                },
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 9501,
+            "friends_count": 3733,
+            "listed_count": 50,
+            "created_at": "Thu Oct 03 04:36:06 +0000 2013",
+            "favourites_count": 7894,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": true,
+            "verified": false,
+            "statuses_count": 125990,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "DD2E44",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1341337255647055872/QiRqwzY9_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1341337255647055872/QiRqwzY9_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/1929290508/1614010799",
+            "profile_link_color": "E81C4F",
+            "profile_sidebar_border_color": "000000",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "has_extended_profile": true,
+            "default_profile": false,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none",
+            "withheld_in_countries": []
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": {
+            "id": "011455904ec2ab81",
+            "url": "https://api.twitter.com/1.1/geo/id/011455904ec2ab81.json",
+            "place_type": "city",
+            "name": "Lince",
+            "full_name": "Lince, Peru",
+            "country_code": "PE",
+            "country": "Peru",
+            "contained_within": [],
+            "bounding_box": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -77.0459130031362,
+                            -12.0934490398355
+                        ],
+                        [
+                            -77.0205499201326,
+                            -12.0934490398355
+                        ],
+                        [
+                            -77.0205499201326,
+                            -12.0801719723791
+                        ],
+                        [
+                            -77.0459130031362,
+                            -12.0801719723791
+                        ]
+                    ]
+                ]
+            },
+            "attributes": {}
+        },
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 22,
+        "favorite_count": 39,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "es"
+    },
+    "is_quote_status": false,
+    "retweet_count": 22,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "es"
+}

@@ -1,0 +1,201 @@
+{
+    "created_at": "Sat Jul 10 21:41:42 +0000 2021",
+    "id": 1413976752595030017,
+    "id_str": "1413976752595030017",
+    "full_text": "@Francis18309054 @ElGranRayowski #FujiBabosos #FujiTrolls y sus desperdicios apristas https://t.co/41ZFgTIEk3",
+    "truncated": false,
+    "display_text_range": [
+        33,
+        85
+    ],
+    "entities": {
+        "hashtags": [
+            {
+                "text": "FujiBabosos",
+                "indices": [
+                    33,
+                    45
+                ]
+            },
+            {
+                "text": "FujiTrolls",
+                "indices": [
+                    46,
+                    57
+                ]
+            }
+        ],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "Francis18309054",
+                "name": "Francisco Quiroz",
+                "id": 1404920014449348608,
+                "id_str": "1404920014449348608",
+                "indices": [
+                    0,
+                    16
+                ]
+            },
+            {
+                "screen_name": "ElGranRayowski",
+                "name": "Ray Landeo Carranza",
+                "id": 765063224999940096,
+                "id_str": "765063224999940096",
+                "indices": [
+                    17,
+                    32
+                ]
+            }
+        ],
+        "urls": [],
+        "media": [
+            {
+                "id": 1413976743363465219,
+                "id_str": "1413976743363465219",
+                "indices": [
+                    86,
+                    109
+                ],
+                "media_url": "http://pbs.twimg.com/media/E590W0TX0AMXsrG.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/E590W0TX0AMXsrG.jpg",
+                "url": "https://t.co/41ZFgTIEk3",
+                "display_url": "pic.twitter.com/41ZFgTIEk3",
+                "expanded_url": "https://twitter.com/JoseEstrellajos/status/1413976752595030017/photo/1",
+                "type": "photo",
+                "sizes": {
+                    "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                    },
+                    "medium": {
+                        "w": 473,
+                        "h": 1024,
+                        "resize": "fit"
+                    },
+                    "large": {
+                        "w": 473,
+                        "h": 1024,
+                        "resize": "fit"
+                    },
+                    "small": {
+                        "w": 314,
+                        "h": 680,
+                        "resize": "fit"
+                    }
+                }
+            }
+        ]
+    },
+    "extended_entities": {
+        "media": [
+            {
+                "id": 1413976743363465219,
+                "id_str": "1413976743363465219",
+                "indices": [
+                    86,
+                    109
+                ],
+                "media_url": "http://pbs.twimg.com/media/E590W0TX0AMXsrG.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/E590W0TX0AMXsrG.jpg",
+                "url": "https://t.co/41ZFgTIEk3",
+                "display_url": "pic.twitter.com/41ZFgTIEk3",
+                "expanded_url": "https://twitter.com/JoseEstrellajos/status/1413976752595030017/photo/1",
+                "type": "photo",
+                "sizes": {
+                    "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                    },
+                    "medium": {
+                        "w": 473,
+                        "h": 1024,
+                        "resize": "fit"
+                    },
+                    "large": {
+                        "w": 473,
+                        "h": 1024,
+                        "resize": "fit"
+                    },
+                    "small": {
+                        "w": 314,
+                        "h": 680,
+                        "resize": "fit"
+                    }
+                }
+            }
+        ]
+    },
+    "metadata": {
+        "iso_language_code": "es",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_status_id": 1413911931757400078,
+    "in_reply_to_status_id_str": "1413911931757400078",
+    "in_reply_to_user_id": 1404920014449348608,
+    "in_reply_to_user_id_str": "1404920014449348608",
+    "in_reply_to_screen_name": "Francis18309054",
+    "user": {
+        "id": 939294554,
+        "id_str": "939294554",
+        "name": "joc!!!",
+        "screen_name": "JoseEstrellajos",
+        "location": "",
+        "description": "visi\u00f3n para el futuro!!! amolda tu comportamiento a tu trabajo no dejes q sea al rev\u00e9s !. Ingeniero electr\u00f3nico UNMSM",
+        "url": null,
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 608,
+        "friends_count": 1202,
+        "listed_count": 6,
+        "created_at": "Sat Nov 10 15:28:25 +0000 2012",
+        "favourites_count": 73996,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 60297,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/980101771841417216/wAj1yXju_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/980101771841417216/wAj1yXju_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/939294554/1478792745",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "es"
+}

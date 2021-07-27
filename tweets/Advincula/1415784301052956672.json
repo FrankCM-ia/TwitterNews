@@ -1,0 +1,127 @@
+{
+    "created_at": "Thu Jul 15 21:24:16 +0000 2021",
+    "id": 1415784301052956672,
+    "id_str": "1415784301052956672",
+    "full_text": "@mati_edlp7 @quiroganeta @PinchaPicante @TyCSports Decis que Advincula lo funde a boca? no creeeeo, si qsy una paja lo del pulga capaz en 3 fechas est\u00e1 nose",
+    "truncated": false,
+    "display_text_range": [
+        51,
+        156
+    ],
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "mati_edlp7",
+                "name": "MP",
+                "id": 817152116917727234,
+                "id_str": "817152116917727234",
+                "indices": [
+                    0,
+                    11
+                ]
+            },
+            {
+                "screen_name": "quiroganeta",
+                "name": "Mati Quiroga",
+                "id": 1367145558972981255,
+                "id_str": "1367145558972981255",
+                "indices": [
+                    12,
+                    24
+                ]
+            },
+            {
+                "screen_name": "PinchaPicante",
+                "name": "Pincha Picante",
+                "id": 964484316184145921,
+                "id_str": "964484316184145921",
+                "indices": [
+                    25,
+                    39
+                ]
+            },
+            {
+                "screen_name": "TyCSports",
+                "name": "TyC Sports",
+                "id": 15590302,
+                "id_str": "15590302",
+                "indices": [
+                    40,
+                    50
+                ]
+            }
+        ],
+        "urls": []
+    },
+    "metadata": {
+        "iso_language_code": "es",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_status_id": 1415783399915204616,
+    "in_reply_to_status_id_str": "1415783399915204616",
+    "in_reply_to_user_id": 817152116917727234,
+    "in_reply_to_user_id_str": "817152116917727234",
+    "in_reply_to_screen_name": "mati_edlp7",
+    "user": {
+        "id": 1270815036731207680,
+        "id_str": "1270815036731207680",
+        "name": "EL UNICO ARMENIO GUEVGOZIAN",
+        "screen_name": "Guevgozian1",
+        "location": "",
+        "description": "Si te queres cagar a puteadas estoy. Soy uruguayo pero mi corazoncito tira para el lado del pueblo armenio. 1960 - \u221e",
+        "url": null,
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 594,
+        "friends_count": 403,
+        "listed_count": 0,
+        "created_at": "Wed Jun 10 20:28:23 +0000 2020",
+        "favourites_count": 2051,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 3384,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": null,
+        "profile_background_image_url_https": null,
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1414719098471190529/wVePDIpa_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1414719098471190529/wVePDIpa_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1270815036731207680/1622608385",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": true,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 1,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "es"
+}

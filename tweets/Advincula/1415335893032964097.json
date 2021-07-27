@@ -1,0 +1,382 @@
+{
+    "created_at": "Wed Jul 14 15:42:27 +0000 2021",
+    "id": 1415335893032964097,
+    "id_str": "1415335893032964097",
+    "full_text": "RT @elpopular_pe: Rayo Vallecano contrat\u00f3 reemplazo de Luis Adv\u00edncula \u25bahttps://t.co/3g7siuM01B https://t.co/7DziBhprfZ",
+    "truncated": false,
+    "display_text_range": [
+        0,
+        118
+    ],
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "elpopular_pe",
+                "name": "El Popular",
+                "id": 204962679,
+                "id_str": "204962679",
+                "indices": [
+                    3,
+                    16
+                ]
+            }
+        ],
+        "urls": [
+            {
+                "url": "https://t.co/3g7siuM01B",
+                "expanded_url": "https://buff.ly/3yX5ekZ",
+                "display_url": "buff.ly/3yX5ekZ",
+                "indices": [
+                    71,
+                    94
+                ]
+            }
+        ],
+        "media": [
+            {
+                "id": 1415311376105545728,
+                "id_str": "1415311376105545728",
+                "indices": [
+                    95,
+                    118
+                ],
+                "media_url": "http://pbs.twimg.com/media/E6QyMqtXIAAoMLI.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/E6QyMqtXIAAoMLI.jpg",
+                "url": "https://t.co/7DziBhprfZ",
+                "display_url": "pic.twitter.com/7DziBhprfZ",
+                "expanded_url": "https://twitter.com/elpopular_pe/status/1415311379427434498/photo/1",
+                "type": "photo",
+                "sizes": {
+                    "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                    },
+                    "small": {
+                        "w": 680,
+                        "h": 357,
+                        "resize": "fit"
+                    },
+                    "medium": {
+                        "w": 1200,
+                        "h": 630,
+                        "resize": "fit"
+                    },
+                    "large": {
+                        "w": 1200,
+                        "h": 630,
+                        "resize": "fit"
+                    }
+                },
+                "source_status_id": 1415311379427434498,
+                "source_status_id_str": "1415311379427434498",
+                "source_user_id": 204962679,
+                "source_user_id_str": "204962679"
+            }
+        ]
+    },
+    "extended_entities": {
+        "media": [
+            {
+                "id": 1415311376105545728,
+                "id_str": "1415311376105545728",
+                "indices": [
+                    95,
+                    118
+                ],
+                "media_url": "http://pbs.twimg.com/media/E6QyMqtXIAAoMLI.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/E6QyMqtXIAAoMLI.jpg",
+                "url": "https://t.co/7DziBhprfZ",
+                "display_url": "pic.twitter.com/7DziBhprfZ",
+                "expanded_url": "https://twitter.com/elpopular_pe/status/1415311379427434498/photo/1",
+                "type": "photo",
+                "sizes": {
+                    "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                    },
+                    "small": {
+                        "w": 680,
+                        "h": 357,
+                        "resize": "fit"
+                    },
+                    "medium": {
+                        "w": 1200,
+                        "h": 630,
+                        "resize": "fit"
+                    },
+                    "large": {
+                        "w": 1200,
+                        "h": 630,
+                        "resize": "fit"
+                    }
+                },
+                "source_status_id": 1415311379427434498,
+                "source_status_id_str": "1415311379427434498",
+                "source_user_id": 204962679,
+                "source_user_id_str": "204962679"
+            }
+        ]
+    },
+    "metadata": {
+        "iso_language_code": "es",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 1728932216,
+        "id_str": "1728932216",
+        "name": "edavid sanguisalas",
+        "screen_name": "edavid57edavid",
+        "location": "",
+        "description": "",
+        "url": null,
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 802,
+        "friends_count": 52,
+        "listed_count": 772,
+        "created_at": "Wed Sep 04 14:27:09 +0000 2013",
+        "favourites_count": 102330,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 623229,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/378800000410895751/3e902542255d84ec560d19b936ee6d86_normal.jpeg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/378800000410895751/3e902542255d84ec560d19b936ee6d86_normal.jpeg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1728932216/1504402543",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": true,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+        "created_at": "Wed Jul 14 14:05:02 +0000 2021",
+        "id": 1415311379427434498,
+        "id_str": "1415311379427434498",
+        "full_text": "Rayo Vallecano contrat\u00f3 reemplazo de Luis Adv\u00edncula \u25bahttps://t.co/3g7siuM01B https://t.co/7DziBhprfZ",
+        "truncated": false,
+        "display_text_range": [
+            0,
+            76
+        ],
+        "entities": {
+            "hashtags": [],
+            "symbols": [],
+            "user_mentions": [],
+            "urls": [
+                {
+                    "url": "https://t.co/3g7siuM01B",
+                    "expanded_url": "https://buff.ly/3yX5ekZ",
+                    "display_url": "buff.ly/3yX5ekZ",
+                    "indices": [
+                        53,
+                        76
+                    ]
+                }
+            ],
+            "media": [
+                {
+                    "id": 1415311376105545728,
+                    "id_str": "1415311376105545728",
+                    "indices": [
+                        77,
+                        100
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/E6QyMqtXIAAoMLI.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/E6QyMqtXIAAoMLI.jpg",
+                    "url": "https://t.co/7DziBhprfZ",
+                    "display_url": "pic.twitter.com/7DziBhprfZ",
+                    "expanded_url": "https://twitter.com/elpopular_pe/status/1415311379427434498/photo/1",
+                    "type": "photo",
+                    "sizes": {
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "small": {
+                            "w": 680,
+                            "h": 357,
+                            "resize": "fit"
+                        },
+                        "medium": {
+                            "w": 1200,
+                            "h": 630,
+                            "resize": "fit"
+                        },
+                        "large": {
+                            "w": 1200,
+                            "h": 630,
+                            "resize": "fit"
+                        }
+                    }
+                }
+            ]
+        },
+        "extended_entities": {
+            "media": [
+                {
+                    "id": 1415311376105545728,
+                    "id_str": "1415311376105545728",
+                    "indices": [
+                        77,
+                        100
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/E6QyMqtXIAAoMLI.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/E6QyMqtXIAAoMLI.jpg",
+                    "url": "https://t.co/7DziBhprfZ",
+                    "display_url": "pic.twitter.com/7DziBhprfZ",
+                    "expanded_url": "https://twitter.com/elpopular_pe/status/1415311379427434498/photo/1",
+                    "type": "photo",
+                    "sizes": {
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "small": {
+                            "w": 680,
+                            "h": 357,
+                            "resize": "fit"
+                        },
+                        "medium": {
+                            "w": 1200,
+                            "h": 630,
+                            "resize": "fit"
+                        },
+                        "large": {
+                            "w": 1200,
+                            "h": 630,
+                            "resize": "fit"
+                        }
+                    }
+                }
+            ]
+        },
+        "metadata": {
+            "iso_language_code": "es",
+            "result_type": "recent"
+        },
+        "source": "<a href=\"https://buffer.com\" rel=\"nofollow\">Buffer</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 204962679,
+            "id_str": "204962679",
+            "name": "El Popular",
+            "screen_name": "elpopular_pe",
+            "location": "Per\u00fa",
+            "description": "Tu diario El Popular tambi\u00e9n te informa y entretiene en Twitter. S\u00edguenos y participa de las promociones que tenemos para ti.",
+            "url": "http://t.co/03RS2e13Ob",
+            "entities": {
+                "url": {
+                    "urls": [
+                        {
+                            "url": "http://t.co/03RS2e13Ob",
+                            "expanded_url": "http://www.elpopular.pe/",
+                            "display_url": "elpopular.pe",
+                            "indices": [
+                                0,
+                                22
+                            ]
+                        }
+                    ]
+                },
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 96022,
+            "friends_count": 973,
+            "listed_count": 361,
+            "created_at": "Tue Oct 19 21:23:44 +0000 2010",
+            "favourites_count": 287,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": true,
+            "verified": false,
+            "statuses_count": 240082,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "F0DB3E",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1345342589944418307/3jlV7C6e_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1345342589944418307/3jlV7C6e_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/204962679/1624546873",
+            "profile_link_color": "0084B4",
+            "profile_sidebar_border_color": "FFFFFF",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "has_extended_profile": false,
+            "default_profile": false,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none",
+            "withheld_in_countries": []
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 1,
+        "favorite_count": 0,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "es"
+    },
+    "is_quote_status": false,
+    "retweet_count": 1,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": true,
+    "lang": "es"
+}

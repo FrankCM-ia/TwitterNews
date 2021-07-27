@@ -1,0 +1,206 @@
+{
+    "created_at": "Wed Jul 14 22:28:21 +0000 2021",
+    "id": 1415438043910230018,
+    "id_str": "1415438043910230018",
+    "full_text": "RT @criticoycitrico: Hace 20 semanas que vengo leyendo que este fin de semana viaja Advincula al pa\u00eds.",
+    "truncated": false,
+    "display_text_range": [
+        0,
+        102
+    ],
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "criticoycitrico",
+                "name": "Cr\u00edtico C\u00edtrico",
+                "id": 3236380514,
+                "id_str": "3236380514",
+                "indices": [
+                    3,
+                    19
+                ]
+            }
+        ],
+        "urls": []
+    },
+    "metadata": {
+        "iso_language_code": "es",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 1415045666468925447,
+        "id_str": "1415045666468925447",
+        "name": "Iv\u00e1n",
+        "screen_name": "Ivn32404217",
+        "location": "",
+        "description": "\u25aa\ufe0fIvan Ariceta\n\u25aa\ufe0f01/09/04\n\u25aa\ufe0fFlorida, Uruguay\n\u25aa\ufe0fC.A.C",
+        "url": null,
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 15,
+        "friends_count": 49,
+        "listed_count": 0,
+        "created_at": "Tue Jul 13 20:29:24 +0000 2021",
+        "favourites_count": 22,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 1,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": null,
+        "profile_background_image_url_https": null,
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1415047486704656389/2m7_qvOF_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1415047486704656389/2m7_qvOF_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1415045666468925447/1626208675",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": true,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+        "created_at": "Wed Jul 14 16:44:30 +0000 2021",
+        "id": 1415351507826970627,
+        "id_str": "1415351507826970627",
+        "full_text": "Hace 20 semanas que vengo leyendo que este fin de semana viaja Advincula al pa\u00eds.",
+        "truncated": false,
+        "display_text_range": [
+            0,
+            81
+        ],
+        "entities": {
+            "hashtags": [],
+            "symbols": [],
+            "user_mentions": [],
+            "urls": []
+        },
+        "metadata": {
+            "iso_language_code": "es",
+            "result_type": "recent"
+        },
+        "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 3236380514,
+            "id_str": "3236380514",
+            "name": "Cr\u00edtico C\u00edtrico",
+            "screen_name": "criticoycitrico",
+            "location": "Your mother, Argentina",
+            "description": "Hablo de cine en @KrakozhiaPod. Doy cursos de an\u00e1lisis cinematogr\u00e1fico. Consultar por privado.\nLetterboxd: https://t.co/J7bKBOMgHm",
+            "url": "https://t.co/UCWjsHWBBi",
+            "entities": {
+                "url": {
+                    "urls": [
+                        {
+                            "url": "https://t.co/UCWjsHWBBi",
+                            "expanded_url": "https://www.youtube.com/channel/UCS2LwMscKs7BNNcY45Cyctw",
+                            "display_url": "youtube.com/channel/UCS2Lw\u2026",
+                            "indices": [
+                                0,
+                                23
+                            ]
+                        }
+                    ]
+                },
+                "description": {
+                    "urls": [
+                        {
+                            "url": "https://t.co/J7bKBOMgHm",
+                            "expanded_url": "http://letterboxd.com/criticoycitrico",
+                            "display_url": "letterboxd.com/criticoycitrico",
+                            "indices": [
+                                107,
+                                130
+                            ]
+                        }
+                    ]
+                }
+            },
+            "protected": false,
+            "followers_count": 29926,
+            "friends_count": 2910,
+            "listed_count": 122,
+            "created_at": "Thu Jun 04 20:50:53 +0000 2015",
+            "favourites_count": 130321,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": false,
+            "verified": false,
+            "statuses_count": 87400,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "352726",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": true,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1414080588479451141/txWEKXh-_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1414080588479451141/txWEKXh-_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/3236380514/1598847633",
+            "profile_link_color": "D02B55",
+            "profile_sidebar_border_color": "000000",
+            "profile_sidebar_fill_color": "000000",
+            "profile_text_color": "000000",
+            "profile_use_background_image": true,
+            "has_extended_profile": true,
+            "default_profile": false,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none",
+            "withheld_in_countries": []
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 5,
+        "favorite_count": 170,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "es"
+    },
+    "is_quote_status": false,
+    "retweet_count": 5,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "es"
+}

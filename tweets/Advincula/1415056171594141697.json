@@ -1,0 +1,244 @@
+{
+    "created_at": "Tue Jul 13 21:10:56 +0000 2021",
+    "id": 1415056171594141697,
+    "id_str": "1415056171594141697",
+    "full_text": "RT @Jason_5445: @FCeras @14Javimunoz @jotajordi13 Esta ha sido la copa m\u00e1s aburrida y con menos f\u00fatbol de las 4 que se han hecho desde 2015\u2026",
+    "truncated": false,
+    "display_text_range": [
+        0,
+        140
+    ],
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "Jason_5445",
+                "name": "J",
+                "id": 1224424880533319690,
+                "id_str": "1224424880533319690",
+                "indices": [
+                    3,
+                    14
+                ]
+            },
+            {
+                "screen_name": "FCeras",
+                "name": "Fernando Ceras",
+                "id": 308437029,
+                "id_str": "308437029",
+                "indices": [
+                    16,
+                    23
+                ]
+            },
+            {
+                "screen_name": "14Javimunoz",
+                "name": "Javimunoz",
+                "id": 1162846889659830272,
+                "id_str": "1162846889659830272",
+                "indices": [
+                    24,
+                    36
+                ]
+            },
+            {
+                "screen_name": "jotajordi13",
+                "name": "Jota Jordi",
+                "id": 858392269,
+                "id_str": "858392269",
+                "indices": [
+                    37,
+                    49
+                ]
+            }
+        ],
+        "urls": []
+    },
+    "metadata": {
+        "iso_language_code": "es",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 2401687068,
+        "id_str": "2401687068",
+        "name": "Chef CIFP Compostela",
+        "screen_name": "Chef_Compostela",
+        "location": "",
+        "description": "Ironias del destino. Eu Formo cocineiros. Busca!!! Alumno de Cresp\u00edn, Zulema,Carou, Deborado y Rial",
+        "url": null,
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 33,
+        "friends_count": 202,
+        "listed_count": 1,
+        "created_at": "Fri Mar 21 14:54:43 +0000 2014",
+        "favourites_count": 435,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 4758,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "EBE5C1",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/463700057934413824/SlGSpz13_normal.png",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/463700057934413824/SlGSpz13_normal.png",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2401687068/1403022046",
+        "profile_link_color": "4A0C0C",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+        "created_at": "Tue Jul 13 17:48:37 +0000 2021",
+        "id": 1415005259043385345,
+        "id_str": "1415005259043385345",
+        "full_text": "@FCeras @14Javimunoz @jotajordi13 Esta ha sido la copa m\u00e1s aburrida y con menos f\u00fatbol de las 4 que se han hecho desde 2015. El nivel ha sido baj\u00edsimo.\n\nIncluso los equipos llegaron con bajas a lo que eran en a\u00f1os anteriores (Per\u00fa sin Guerrero y Adv\u00edncula; Colombia sin James y Falcao)",
+        "truncated": false,
+        "display_text_range": [
+            34,
+            285
+        ],
+        "entities": {
+            "hashtags": [],
+            "symbols": [],
+            "user_mentions": [
+                {
+                    "screen_name": "FCeras",
+                    "name": "Fernando Ceras",
+                    "id": 308437029,
+                    "id_str": "308437029",
+                    "indices": [
+                        0,
+                        7
+                    ]
+                },
+                {
+                    "screen_name": "14Javimunoz",
+                    "name": "Javimunoz",
+                    "id": 1162846889659830272,
+                    "id_str": "1162846889659830272",
+                    "indices": [
+                        8,
+                        20
+                    ]
+                },
+                {
+                    "screen_name": "jotajordi13",
+                    "name": "Jota Jordi",
+                    "id": 858392269,
+                    "id_str": "858392269",
+                    "indices": [
+                        21,
+                        33
+                    ]
+                }
+            ],
+            "urls": []
+        },
+        "metadata": {
+            "iso_language_code": "es",
+            "result_type": "recent"
+        },
+        "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+        "in_reply_to_status_id": 1414997275659603976,
+        "in_reply_to_status_id_str": "1414997275659603976",
+        "in_reply_to_user_id": 308437029,
+        "in_reply_to_user_id_str": "308437029",
+        "in_reply_to_screen_name": "FCeras",
+        "user": {
+            "id": 1224424880533319690,
+            "id_str": "1224424880533319690",
+            "name": "J",
+            "screen_name": "Jason_5445",
+            "location": "Lima",
+            "description": "",
+            "url": null,
+            "entities": {
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 49,
+            "friends_count": 585,
+            "listed_count": 0,
+            "created_at": "Mon Feb 03 20:10:32 +0000 2020",
+            "favourites_count": 11100,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": false,
+            "verified": false,
+            "statuses_count": 592,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "F5F8FA",
+            "profile_background_image_url": null,
+            "profile_background_image_url_https": null,
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1397975269026193411/VuGpN6Ae_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1397975269026193411/VuGpN6Ae_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/1224424880533319690/1620689048",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "has_extended_profile": false,
+            "default_profile": true,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none",
+            "withheld_in_countries": []
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 1,
+        "favorite_count": 2,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "es"
+    },
+    "is_quote_status": false,
+    "retweet_count": 1,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "es"
+}

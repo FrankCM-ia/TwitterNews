@@ -1,0 +1,106 @@
+{
+    "created_at": "Thu Jul 15 22:33:48 +0000 2021",
+    "id": 1415801799672537090,
+    "id_str": "1415801799672537090",
+    "full_text": "@elseniorxxx @Tato_Aguilera La 4 es para advincula q viene un fin de semana de estos",
+    "truncated": false,
+    "display_text_range": [
+        28,
+        84
+    ],
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "elseniorxxx",
+                "name": "Diego Banda",
+                "id": 136415809,
+                "id_str": "136415809",
+                "indices": [
+                    0,
+                    12
+                ]
+            },
+            {
+                "screen_name": "Tato_Aguilera",
+                "name": "Leandro Aguilera",
+                "id": 140441829,
+                "id_str": "140441829",
+                "indices": [
+                    13,
+                    27
+                ]
+            }
+        ],
+        "urls": []
+    },
+    "metadata": {
+        "iso_language_code": "es",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "in_reply_to_status_id": 1415800206390595588,
+    "in_reply_to_status_id_str": "1415800206390595588",
+    "in_reply_to_user_id": 136415809,
+    "in_reply_to_user_id_str": "136415809",
+    "in_reply_to_screen_name": "elseniorxxx",
+    "user": {
+        "id": 1055915085766541313,
+        "id_str": "1055915085766541313",
+        "name": "Ariel41",
+        "screen_name": "Ariel4114",
+        "location": "Mar del Plata, Argentina",
+        "description": "",
+        "url": null,
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 669,
+        "friends_count": 783,
+        "listed_count": 0,
+        "created_at": "Fri Oct 26 20:12:29 +0000 2018",
+        "favourites_count": 23720,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 5053,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": null,
+        "profile_background_image_url_https": null,
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1371545034760323073/17POr6_h_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1371545034760323073/17POr6_h_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 5,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "es"
+}

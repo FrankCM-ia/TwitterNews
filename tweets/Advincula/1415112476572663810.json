@@ -1,0 +1,110 @@
+{
+    "created_at": "Wed Jul 14 00:54:40 +0000 2021",
+    "id": 1415112476572663810,
+    "id_str": "1415112476572663810",
+    "full_text": "@salbarracin Tal cual. Y se le ,fue casi medio plantel y vinieron muy pocos jugadores. Lo que no entiendo es que ahora llegan Adv\u00edncula, tal vez Borja o Roger Mart\u00ednez....\u00bfpara jugar el torneo local?",
+    "truncated": false,
+    "display_text_range": [
+        13,
+        199
+    ],
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "salbarracin",
+                "name": "Santiago Albarrac\u00edn",
+                "id": 17240520,
+                "id_str": "17240520",
+                "indices": [
+                    0,
+                    12
+                ]
+            }
+        ],
+        "urls": []
+    },
+    "metadata": {
+        "iso_language_code": "es",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "in_reply_to_status_id": 1415112147458314244,
+    "in_reply_to_status_id_str": "1415112147458314244",
+    "in_reply_to_user_id": 17240520,
+    "in_reply_to_user_id_str": "17240520",
+    "in_reply_to_screen_name": "salbarracin",
+    "user": {
+        "id": 45483589,
+        "id_str": "45483589",
+        "name": "Sergio Levinsky",
+        "screen_name": "sergiole",
+        "location": "Madrid/Bs As",
+        "description": "Periodista y soci\u00f3logo. Columnista en Infobae, Jornada y Radio Cooperativa. Corresponsal de Kicker (Alemania). Canal de youtube: Sergio Levinsky. 10 Mundiales.",
+        "url": "https://t.co/6b8XmcUTpy",
+        "entities": {
+            "url": {
+                "urls": [
+                    {
+                        "url": "https://t.co/6b8XmcUTpy",
+                        "expanded_url": "http://www.sergiol-nimasnimenos.blogspot.com",
+                        "display_url": "sergiol-nimasnimenos.blogspot.com",
+                        "indices": [
+                            0,
+                            23
+                        ]
+                    }
+                ]
+            },
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 4688,
+        "friends_count": 493,
+        "listed_count": 92,
+        "created_at": "Mon Jun 08 02:43:50 +0000 2009",
+        "favourites_count": 4887,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 112307,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/768264799671185408/DRg3P5j__normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/768264799671185408/DRg3P5j__normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/45483589/1604079775",
+        "profile_link_color": "FAB81E",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "profile_use_background_image": false,
+        "has_extended_profile": true,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 1,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "es"
+}

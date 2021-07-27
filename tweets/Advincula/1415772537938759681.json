@@ -1,0 +1,206 @@
+{
+    "created_at": "Thu Jul 15 20:37:31 +0000 2021",
+    "id": 1415772537938759681,
+    "id_str": "1415772537938759681",
+    "full_text": "RT @VocesFutbolPeru: \ud83d\udde3\ufe0f Luis Adv\u00edncula Presv\u00edtero, pap\u00e1 de Luis Adv\u00edncula: \"Mi hijo tiene m\u00e1s chocolate que yo. Eso sin duda\".\n\n\ud83d\udd0a @RadioUni\u2026",
+    "truncated": false,
+    "display_text_range": [
+        0,
+        140
+    ],
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "VocesFutbolPeru",
+                "name": "Las Voces Del F\u00fatbol | Per\u00fa",
+                "id": 1162216910169100288,
+                "id_str": "1162216910169100288",
+                "indices": [
+                    3,
+                    19
+                ]
+            }
+        ],
+        "urls": []
+    },
+    "metadata": {
+        "iso_language_code": "es",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 1308819442835562496,
+        "id_str": "1308819442835562496",
+        "name": "Pierre Manrique",
+        "screen_name": "ManriqueSports",
+        "location": "Lima, Peru",
+        "description": "Conductor de LAS VOCES DEL FUTBOL. Periodista por naturaleza. Me hackearon la cuenta. A remarla desde cero. No est\u00e1 muerto quien pelea. Lo mejor est\u00e1 por venir.",
+        "url": null,
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 4817,
+        "friends_count": 1938,
+        "listed_count": 11,
+        "created_at": "Wed Sep 23 17:24:32 +0000 2020",
+        "favourites_count": 329,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 3675,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": null,
+        "profile_background_image_url_https": null,
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1374497025555795968/eq5h4WDy_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1374497025555795968/eq5h4WDy_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": true,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+        "created_at": "Thu Jul 15 18:35:20 +0000 2021",
+        "id": 1415741788313227278,
+        "id_str": "1415741788313227278",
+        "full_text": "\ud83d\udde3\ufe0f Luis Adv\u00edncula Presv\u00edtero, pap\u00e1 de Luis Adv\u00edncula: \"Mi hijo tiene m\u00e1s chocolate que yo. Eso sin duda\".\n\n\ud83d\udd0a @RadioUnionPeru",
+        "truncated": false,
+        "display_text_range": [
+            0,
+            124
+        ],
+        "entities": {
+            "hashtags": [],
+            "symbols": [],
+            "user_mentions": [
+                {
+                    "screen_name": "RadioUnionPeru",
+                    "name": "Radio Uni\u00f3n",
+                    "id": 288237812,
+                    "id_str": "288237812",
+                    "indices": [
+                        109,
+                        124
+                    ]
+                }
+            ],
+            "urls": []
+        },
+        "metadata": {
+            "iso_language_code": "es",
+            "result_type": "recent"
+        },
+        "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 1162216910169100288,
+            "id_str": "1162216910169100288",
+            "name": "Las Voces Del F\u00fatbol | Per\u00fa",
+            "screen_name": "VocesFutbolPeru",
+            "location": "Lima, Per\u00fa",
+            "description": "\ud83d\uddd3 Lunes a Viernes de \u23f0 1 a 2:30 PM por \ud83d\udcfb @RadioUnionPeru 103.3 FM. \ud83d\udc49\ud83c\udffd @ManriqueSports, @E_FLEISCHMAN y @Conejal3\u203c\ufe0f#LasVocesDelF\u00fatbol \ud83c\udf99\ufe0f\u26bd\ufe0f",
+            "url": "https://t.co/m5oJt5KR9e",
+            "entities": {
+                "url": {
+                    "urls": [
+                        {
+                            "url": "https://t.co/m5oJt5KR9e",
+                            "expanded_url": "https://radios.com.pe/union/",
+                            "display_url": "radios.com.pe/union/",
+                            "indices": [
+                                0,
+                                23
+                            ]
+                        }
+                    ]
+                },
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 8496,
+            "friends_count": 286,
+            "listed_count": 19,
+            "created_at": "Fri Aug 16 04:18:30 +0000 2019",
+            "favourites_count": 6373,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": true,
+            "verified": false,
+            "statuses_count": 12223,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "F5F8FA",
+            "profile_background_image_url": null,
+            "profile_background_image_url_https": null,
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1334632247002099715/XrB9KN3b_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1334632247002099715/XrB9KN3b_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/1162216910169100288/1616096561",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "has_extended_profile": false,
+            "default_profile": true,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none",
+            "withheld_in_countries": []
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 1,
+        "favorite_count": 14,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "es"
+    },
+    "is_quote_status": false,
+    "retweet_count": 1,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "es"
+}

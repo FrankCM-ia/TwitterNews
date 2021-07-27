@@ -1,0 +1,142 @@
+{
+    "created_at": "Sun Jul 11 11:00:37 +0000 2021",
+    "id": 1414177803042447363,
+    "id_str": "1414177803042447363",
+    "full_text": "@Glorymontd @justicierope Tampoco quiere usar su derecho a Insurgencia... Esra c\u00f3mo Keiko modo dem\u00f3crata pac\u00edficaA la final creo que Keiko se fa unir a la lucha ahora necesitamos a los B\u00fafalos Apristas #APRA donde est\u00e1n @partidoaprista  vamos a la lucha entremos a Palacio #FuerzaPopular @PFuerzaPopular",
+    "truncated": false,
+    "display_text_range": [
+        26,
+        303
+    ],
+    "entities": {
+        "hashtags": [
+            {
+                "text": "APRA",
+                "indices": [
+                    202,
+                    207
+                ]
+            },
+            {
+                "text": "FuerzaPopular",
+                "indices": [
+                    273,
+                    287
+                ]
+            }
+        ],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "Glorymontd",
+                "name": "Glory",
+                "id": 828707219634081793,
+                "id_str": "828707219634081793",
+                "indices": [
+                    0,
+                    11
+                ]
+            },
+            {
+                "screen_name": "justicierope",
+                "name": "\ud83e\udd87 El Justiciero\u2122",
+                "id": 1359043155937669126,
+                "id_str": "1359043155937669126",
+                "indices": [
+                    12,
+                    25
+                ]
+            },
+            {
+                "screen_name": "partidoaprista",
+                "name": "APRA",
+                "id": 50533948,
+                "id_str": "50533948",
+                "indices": [
+                    220,
+                    235
+                ]
+            },
+            {
+                "screen_name": "PFuerzaPopular",
+                "name": "Partido Pol\u00edtico Fuerza Popular \ud83c\uddf5\ud83c\uddea",
+                "id": 721086806,
+                "id_str": "721086806",
+                "indices": [
+                    288,
+                    303
+                ]
+            }
+        ],
+        "urls": []
+    },
+    "metadata": {
+        "iso_language_code": "es",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "in_reply_to_status_id": 1414024174729842688,
+    "in_reply_to_status_id_str": "1414024174729842688",
+    "in_reply_to_user_id": 828707219634081793,
+    "in_reply_to_user_id_str": "828707219634081793",
+    "in_reply_to_screen_name": "Glorymontd",
+    "user": {
+        "id": 301097061,
+        "id_str": "301097061",
+        "name": "Liliana Amesquita",
+        "screen_name": "khabia",
+        "location": "",
+        "description": "Enfermera Tecnica especializada\nPresidente Electa de la Rep\u00fablica del Peru",
+        "url": null,
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 174,
+        "friends_count": 610,
+        "listed_count": 1,
+        "created_at": "Wed May 18 21:39:22 +0000 2011",
+        "favourites_count": 16993,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 6523,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1414817042599976963/US6U50Uq_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1414817042599976963/US6U50Uq_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/301097061/1626003459",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 1,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "es"
+}

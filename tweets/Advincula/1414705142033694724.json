@@ -1,0 +1,241 @@
+{
+    "created_at": "Mon Jul 12 21:56:04 +0000 2021",
+    "id": 1414705142033694724,
+    "id_str": "1414705142033694724",
+    "full_text": "#Adv\u00edncula pr\u00f3ximo a ser nuevo refuerzo de @BocaJrsOficial , 2.500.000 por el pase del jugador. Otro que tiene grandes chances de arribar es #Borja, #Boca tiene todo arreglado con #Palmeiras, 4.000.000 por el 50%, falta definir el contrato. https://t.co/s3AzfztU5a",
+    "truncated": false,
+    "display_text_range": [
+        0,
+        240
+    ],
+    "entities": {
+        "hashtags": [
+            {
+                "text": "Adv\u00edncula",
+                "indices": [
+                    0,
+                    10
+                ]
+            },
+            {
+                "text": "Borja",
+                "indices": [
+                    141,
+                    147
+                ]
+            },
+            {
+                "text": "Boca",
+                "indices": [
+                    149,
+                    154
+                ]
+            },
+            {
+                "text": "Palmeiras",
+                "indices": [
+                    180,
+                    190
+                ]
+            }
+        ],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "BocaJrsOficial",
+                "name": "Boca Juniors",
+                "id": 42933426,
+                "id_str": "42933426",
+                "indices": [
+                    43,
+                    58
+                ]
+            }
+        ],
+        "urls": [],
+        "media": [
+            {
+                "id": 1414705135289241600,
+                "id_str": "1414705135289241600",
+                "indices": [
+                    241,
+                    264
+                ],
+                "media_url": "http://pbs.twimg.com/media/E6IK0zrWEAAEsPC.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/E6IK0zrWEAAEsPC.jpg",
+                "url": "https://t.co/s3AzfztU5a",
+                "display_url": "pic.twitter.com/s3AzfztU5a",
+                "expanded_url": "https://twitter.com/lucasdgregorio/status/1414705142033694724/photo/1",
+                "type": "photo",
+                "sizes": {
+                    "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                    },
+                    "medium": {
+                        "w": 1200,
+                        "h": 628,
+                        "resize": "fit"
+                    },
+                    "small": {
+                        "w": 680,
+                        "h": 356,
+                        "resize": "fit"
+                    },
+                    "large": {
+                        "w": 1438,
+                        "h": 752,
+                        "resize": "fit"
+                    }
+                }
+            }
+        ]
+    },
+    "extended_entities": {
+        "media": [
+            {
+                "id": 1414705135289241600,
+                "id_str": "1414705135289241600",
+                "indices": [
+                    241,
+                    264
+                ],
+                "media_url": "http://pbs.twimg.com/media/E6IK0zrWEAAEsPC.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/E6IK0zrWEAAEsPC.jpg",
+                "url": "https://t.co/s3AzfztU5a",
+                "display_url": "pic.twitter.com/s3AzfztU5a",
+                "expanded_url": "https://twitter.com/lucasdgregorio/status/1414705142033694724/photo/1",
+                "type": "photo",
+                "sizes": {
+                    "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                    },
+                    "medium": {
+                        "w": 1200,
+                        "h": 628,
+                        "resize": "fit"
+                    },
+                    "small": {
+                        "w": 680,
+                        "h": 356,
+                        "resize": "fit"
+                    },
+                    "large": {
+                        "w": 1438,
+                        "h": 752,
+                        "resize": "fit"
+                    }
+                }
+            },
+            {
+                "id": 1414705135285121026,
+                "id_str": "1414705135285121026",
+                "indices": [
+                    241,
+                    264
+                ],
+                "media_url": "http://pbs.twimg.com/media/E6IK0zqXMAIxzTr.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/E6IK0zqXMAIxzTr.jpg",
+                "url": "https://t.co/s3AzfztU5a",
+                "display_url": "pic.twitter.com/s3AzfztU5a",
+                "expanded_url": "https://twitter.com/lucasdgregorio/status/1414705142033694724/photo/1",
+                "type": "photo",
+                "sizes": {
+                    "large": {
+                        "w": 1260,
+                        "h": 740,
+                        "resize": "fit"
+                    },
+                    "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                    },
+                    "medium": {
+                        "w": 1200,
+                        "h": 705,
+                        "resize": "fit"
+                    },
+                    "small": {
+                        "w": 680,
+                        "h": 399,
+                        "resize": "fit"
+                    }
+                }
+            }
+        ]
+    },
+    "metadata": {
+        "iso_language_code": "es",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 511067166,
+        "id_str": "511067166",
+        "name": "Lucas Gregorio",
+        "screen_name": "lucasdgregorio",
+        "location": "",
+        "description": "Argentina - \ud83c\udfa4\ud83c\udfa7\ud83d\udcfb @equipoatodoboca @late931oficial @ElSol1450",
+        "url": null,
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 281,
+        "friends_count": 425,
+        "listed_count": 0,
+        "created_at": "Thu Mar 01 23:59:20 +0000 2012",
+        "favourites_count": 785,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 380,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "475257",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/378800000383729797/774fb4e2ec56d2f64dff6c72540329fe_normal.jpeg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/378800000383729797/774fb4e2ec56d2f64dff6c72540329fe_normal.jpeg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/511067166/1616591049",
+        "profile_link_color": "08090A",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 1,
+    "favorite_count": 1,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "es"
+}

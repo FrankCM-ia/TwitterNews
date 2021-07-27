@@ -1,0 +1,97 @@
+{
+    "created_at": "Wed Jul 14 01:30:51 +0000 2021",
+    "id": 1415121583933468675,
+    "id_str": "1415121583933468675",
+    "full_text": "@Rgonza711 Si seguro q juega pero n Diciembre q haga sus valijas y c regrese a Mexico para q siga la joda. Hay q traer a\u00fan creador de juego enganche y creo q con Advincula y si traen a Borja el equipo est\u00e1 para + hay  pibes q corren y ponen la gota d sudor y sacrificio!!!Aguante Boca \ud83d\udc99\ud83d\udc9b\ud83d\udc99",
+    "truncated": false,
+    "display_text_range": [
+        11,
+        288
+    ],
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "Rgonza711",
+                "name": "RICARDO R. GONZALEZ",
+                "id": 283283241,
+                "id_str": "283283241",
+                "indices": [
+                    0,
+                    10
+                ]
+            }
+        ],
+        "urls": []
+    },
+    "metadata": {
+        "iso_language_code": "es",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_status_id": 1415112861588860932,
+    "in_reply_to_status_id_str": "1415112861588860932",
+    "in_reply_to_user_id": 283283241,
+    "in_reply_to_user_id_str": "283283241",
+    "in_reply_to_screen_name": "Rgonza711",
+    "user": {
+        "id": 273226945,
+        "id_str": "273226945",
+        "name": "Joe LaGuna \u201cBoca es mi pasion\u201d",
+        "screen_name": "gherico7",
+        "location": "Florida",
+        "description": "jukebox collector, antiques restoration specialist. Hincha de Boca a va muerte Diego eterno sos el mejor de todos los tiempos",
+        "url": null,
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 107,
+        "friends_count": 193,
+        "listed_count": 0,
+        "created_at": "Mon Mar 28 02:34:07 +0000 2011",
+        "favourites_count": 4173,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 1553,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1215384900259516440/i-Qj4Nc__normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1215384900259516440/i-Qj4Nc__normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/273226945/1478878953",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 2,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "es"
+}

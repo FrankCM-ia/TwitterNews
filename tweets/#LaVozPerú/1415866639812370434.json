@@ -1,0 +1,94 @@
+{
+    "created_at": "Fri Jul 16 02:51:27 +0000 2021",
+    "id": 1415866639812370434,
+    "id_str": "1415866639812370434",
+    "full_text": "Ptm daniela bloque\u00f3 a mike cuando fue la audici\u00f3n de ivan y ahora siento q no lo va a elegir y ESTOY MOLESTISIMA WEYYYYY #LaVozPeru",
+    "truncated": false,
+    "display_text_range": [
+        0,
+        131
+    ],
+    "entities": {
+        "hashtags": [
+            {
+                "text": "LaVozPeru",
+                "indices": [
+                    121,
+                    131
+                ]
+            }
+        ],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+    },
+    "metadata": {
+        "iso_language_code": "es",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 735689262,
+        "id_str": "735689262",
+        "name": "dom",
+        "screen_name": "dominique_1298",
+        "location": "Lima, Peru",
+        "description": "me cri\u00e9 cantando \"pobres los ricos\" de floricienta y mi primer concierto fue para ver a los prisioneros",
+        "url": null,
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 188,
+        "friends_count": 535,
+        "listed_count": 0,
+        "created_at": "Fri Aug 03 23:05:20 +0000 2012",
+        "favourites_count": 78786,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 10427,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme17/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme17/bg.gif",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1412795700363120643/voNW-MRr_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1412795700363120643/voNW-MRr_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/735689262/1625760322",
+        "profile_link_color": "981CEB",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "profile_use_background_image": false,
+        "has_extended_profile": true,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 2,
+    "favorite_count": 10,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "es"
+}

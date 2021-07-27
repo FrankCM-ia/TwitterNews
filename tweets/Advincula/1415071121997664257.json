@@ -1,0 +1,120 @@
+{
+    "created_at": "Tue Jul 13 22:10:20 +0000 2021",
+    "id": 1415071121997664257,
+    "id_str": "1415071121997664257",
+    "full_text": "Casi confirmado: \u00bfQu\u00e9 falta para que se cierre la llegada de Adv\u00edncula a Boca?\n https://t.co/XMqdi26Zll",
+    "truncated": false,
+    "display_text_range": [
+        0,
+        103
+    ],
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+            {
+                "url": "https://t.co/XMqdi26Zll",
+                "expanded_url": "https://bolavip.com/ar/boca/Que-falta-para-que-se-cierre-la-llegada-de-Luis-Advincula-a-Boca-Juniors-Peru-Juan-Roman-Riquelme-Miguel-Angel-Russo-20210713-0038.html",
+                "display_url": "bolavip.com/ar/boca/Que-fa\u2026",
+                "indices": [
+                    80,
+                    103
+                ]
+            }
+        ]
+    },
+    "metadata": {
+        "iso_language_code": "es",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"http://www.socialbakers.com/\" rel=\"nofollow\">Emplifi</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 3097263101,
+        "id_str": "3097263101",
+        "name": "Bolavip Argentina",
+        "screen_name": "BolavipAr",
+        "location": "",
+        "description": "Todo lo que te interesa est\u00e1, como siempre, en Bolavip.\nBolavip Argentina en Telegram: https://t.co/po41NnYp8m",
+        "url": "http://t.co/m4dU0CPf9a",
+        "entities": {
+            "url": {
+                "urls": [
+                    {
+                        "url": "http://t.co/m4dU0CPf9a",
+                        "expanded_url": "http://bolavip.com/",
+                        "display_url": "bolavip.com",
+                        "indices": [
+                            0,
+                            22
+                        ]
+                    }
+                ]
+            },
+            "description": {
+                "urls": [
+                    {
+                        "url": "https://t.co/po41NnYp8m",
+                        "expanded_url": "https://t.me/BolavipArgentina",
+                        "display_url": "t.me/BolavipArgenti\u2026",
+                        "indices": [
+                            87,
+                            110
+                        ]
+                    }
+                ]
+            }
+        },
+        "protected": false,
+        "followers_count": 17150,
+        "friends_count": 108,
+        "listed_count": 54,
+        "created_at": "Thu Mar 19 17:38:51 +0000 2015",
+        "favourites_count": 1389,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": true,
+        "statuses_count": 30036,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1334882941399404545/zRYrHSh6_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1334882941399404545/zRYrHSh6_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/3097263101/1625971697",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 2,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "es"
+}

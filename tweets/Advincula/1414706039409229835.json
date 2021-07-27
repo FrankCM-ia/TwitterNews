@@ -1,0 +1,107 @@
+{
+    "created_at": "Mon Jul 12 21:59:38 +0000 2021",
+    "id": 1414706039409229835,
+    "id_str": "1414706039409229835",
+    "full_text": "@ideaspatagonica @TNTSportsAR Capo, Torreira se ofreci\u00f3 el, Boca no lo busco. Cavani reconoci\u00f3 q estuvo a punto de jugar en Boca y decidi\u00f3 quedarse 1 a\u00f1o m\u00e1s en Europa, no fue humo. Y Advincula en est\u00e1s hora se cierra. Si quer\u00e9s hacerte el gracioso hacelo con cosas coherentes",
+    "truncated": false,
+    "display_text_range": [
+        30,
+        276
+    ],
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "ideaspatagonica",
+                "name": "Ideas(DESDE)ElSur",
+                "id": 2984858007,
+                "id_str": "2984858007",
+                "indices": [
+                    0,
+                    16
+                ]
+            },
+            {
+                "screen_name": "TNTSportsAR",
+                "name": "TNT Sports Argentina",
+                "id": 854784383982723072,
+                "id_str": "854784383982723072",
+                "indices": [
+                    17,
+                    29
+                ]
+            }
+        ],
+        "urls": []
+    },
+    "metadata": {
+        "iso_language_code": "es",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "in_reply_to_status_id": 1414704471771389966,
+    "in_reply_to_status_id_str": "1414704471771389966",
+    "in_reply_to_user_id": 2984858007,
+    "in_reply_to_user_id_str": "2984858007",
+    "in_reply_to_screen_name": "ideaspatagonica",
+    "user": {
+        "id": 4405484495,
+        "id_str": "4405484495",
+        "name": "fernando schotz",
+        "screen_name": "fernandoschotz1",
+        "location": "",
+        "description": "",
+        "url": null,
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 40,
+        "friends_count": 134,
+        "listed_count": 0,
+        "created_at": "Mon Dec 07 14:06:51 +0000 2015",
+        "favourites_count": 9911,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 7134,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/673867871718678528/yoSlOMEF_normal.png",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/673867871718678528/yoSlOMEF_normal.png",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/4405484495/1449497591",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "es"
+}

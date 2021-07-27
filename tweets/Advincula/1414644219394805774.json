@@ -1,0 +1,117 @@
+{
+    "created_at": "Mon Jul 12 17:53:59 +0000 2021",
+    "id": 1414644219394805774,
+    "id_str": "1414644219394805774",
+    "full_text": "#MercadoDePases | \ud83d\udce3  El Xeneize lleg\u00f3 a un acuerdo con Palmeiras por el delantero colombiano, pero la complicaci\u00f3n se encuentra en el contrato del jugador. Por su parte, el arribo del lateral peruano est\u00e1 encaminado. \u26bd\u26bd\n\u2b07 Sigue leyendo la nota \u2b07\n\nhttps://t.co/BRQJQDdcC9",
+    "truncated": false,
+    "display_text_range": [
+        0,
+        270
+    ],
+    "entities": {
+        "hashtags": [
+            {
+                "text": "MercadoDePases",
+                "indices": [
+                    0,
+                    15
+                ]
+            }
+        ],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+            {
+                "url": "https://t.co/BRQJQDdcC9",
+                "expanded_url": "http://www.nuevodiarioweb.com.ar/noticias/2021/07/12/303365-boca-acelera-por-borja-mientras-espera-la-llegada-de-advincula",
+                "display_url": "nuevodiarioweb.com.ar/noticias/2021/\u2026",
+                "indices": [
+                    247,
+                    270
+                ]
+            }
+        ]
+    },
+    "metadata": {
+        "iso_language_code": "es",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 4715906122,
+        "id_str": "4715906122",
+        "name": "Nuevo Diario Web",
+        "screen_name": "NuevoDiarioSDE",
+        "location": "Santiago del Estero, Argentina",
+        "description": "Nuevo Diario de Santiago del Estero. Siempre te damos m\u00e1s.",
+        "url": "https://t.co/ivy6fNBLpX",
+        "entities": {
+            "url": {
+                "urls": [
+                    {
+                        "url": "https://t.co/ivy6fNBLpX",
+                        "expanded_url": "http://www.nuevodiarioweb.com.ar/",
+                        "display_url": "nuevodiarioweb.com.ar",
+                        "indices": [
+                            0,
+                            23
+                        ]
+                    }
+                ]
+            },
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 4596,
+        "friends_count": 131,
+        "listed_count": 78,
+        "created_at": "Tue Jan 05 15:21:18 +0000 2016",
+        "favourites_count": 9,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 84603,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "DD2E44",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/965692742255996928/DvfzvvAp_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/965692742255996928/DvfzvvAp_normal.jpg",
+        "profile_link_color": "A20D0D",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "profile_use_background_image": true,
+        "has_extended_profile": true,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "es"
+}

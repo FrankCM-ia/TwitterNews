@@ -1,0 +1,110 @@
+{
+    "created_at": "Tue Jul 13 01:34:45 +0000 2021",
+    "id": 1414760176939323401,
+    "id_str": "1414760176939323401",
+    "full_text": "@LucasPettinari Eso es refuerzo? El tano te tra\u00eda figuras de primer nivel y ahora se emocionan por Borja y Advincula!!!! Que devaluado est\u00e1 el mercado jajajaja",
+    "truncated": false,
+    "display_text_range": [
+        16,
+        159
+    ],
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "LucasPettinari",
+                "name": "Lucas",
+                "id": 425920549,
+                "id_str": "425920549",
+                "indices": [
+                    0,
+                    15
+                ]
+            }
+        ],
+        "urls": []
+    },
+    "metadata": {
+        "iso_language_code": "es",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "in_reply_to_status_id": 1414759660498919428,
+    "in_reply_to_status_id_str": "1414759660498919428",
+    "in_reply_to_user_id": 425920549,
+    "in_reply_to_user_id_str": "425920549",
+    "in_reply_to_screen_name": "LucasPettinari",
+    "user": {
+        "id": 146270546,
+        "id_str": "146270546",
+        "name": "Ignacio Caceres",
+        "screen_name": "nachoocaceres",
+        "location": "Avellaneda",
+        "description": "Birrero. Los Diaz m\u00e1s felices siempre fueron ramonistas. Cavegol por siempre. AntiOlave como toda persona de bien.",
+        "url": "https://t.co/s7afkSlerC",
+        "entities": {
+            "url": {
+                "urls": [
+                    {
+                        "url": "https://t.co/s7afkSlerC",
+                        "expanded_url": "https://www.instagram.com/nachocaceres19/?hl=es-la",
+                        "display_url": "instagram.com/nachocaceres19\u2026",
+                        "indices": [
+                            0,
+                            23
+                        ]
+                    }
+                ]
+            },
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 776,
+        "friends_count": 2076,
+        "listed_count": 1,
+        "created_at": "Fri May 21 01:16:38 +0000 2010",
+        "favourites_count": 20931,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 41861,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "EBEBEB",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1273753698712391683/M_s-QUsj_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1273753698712391683/M_s-QUsj_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/146270546/1558887162",
+        "profile_link_color": "990000",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "D6EDFF",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": true,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "es"
+}

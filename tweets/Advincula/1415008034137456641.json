@@ -1,0 +1,117 @@
+{
+    "created_at": "Tue Jul 13 17:59:39 +0000 2021",
+    "id": 1415008034137456641,
+    "id_str": "1415008034137456641",
+    "full_text": "@FerrettiGuille @WilyMelgarejo Y Advincula ya no va a @BocaJrsOficial",
+    "truncated": false,
+    "display_text_range": [
+        31,
+        69
+    ],
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "FerrettiGuille",
+                "name": "Guillermo Ferretti",
+                "id": 1056717882720174080,
+                "id_str": "1056717882720174080",
+                "indices": [
+                    0,
+                    15
+                ]
+            },
+            {
+                "screen_name": "WilyMelgarejo",
+                "name": "Wily Melgarejo Ramos \ud83e\udd18\ud83c\udffc& \u26bd",
+                "id": 290105321,
+                "id_str": "290105321",
+                "indices": [
+                    16,
+                    30
+                ]
+            },
+            {
+                "screen_name": "BocaJrsOficial",
+                "name": "Boca Juniors",
+                "id": 42933426,
+                "id_str": "42933426",
+                "indices": [
+                    54,
+                    69
+                ]
+            }
+        ],
+        "urls": []
+    },
+    "metadata": {
+        "iso_language_code": "es",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "in_reply_to_status_id": 1414998607040765955,
+    "in_reply_to_status_id_str": "1414998607040765955",
+    "in_reply_to_user_id": 1056717882720174080,
+    "in_reply_to_user_id_str": "1056717882720174080",
+    "in_reply_to_screen_name": "FerrettiGuille",
+    "user": {
+        "id": 887120966962352134,
+        "id_str": "887120966962352134",
+        "name": "darkman",
+        "screen_name": "wachy40",
+        "location": "",
+        "description": "Adicto a #Universitario al rock & roll \ud83c\udfb6\ud83c\udfb8\ud83d\udda4y a #barcelona en ese orden",
+        "url": null,
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 276,
+        "friends_count": 2074,
+        "listed_count": 1,
+        "created_at": "Tue Jul 18 01:24:55 +0000 2017",
+        "favourites_count": 46416,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 24302,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": null,
+        "profile_background_image_url_https": null,
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1408061934549696514/QEzjz-fx_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1408061934549696514/QEzjz-fx_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/887120966962352134/1544121601",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 2,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "es"
+}

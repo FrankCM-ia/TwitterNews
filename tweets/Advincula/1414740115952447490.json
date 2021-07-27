@@ -1,0 +1,126 @@
+{
+    "created_at": "Tue Jul 13 00:15:02 +0000 2021",
+    "id": 1414740115952447490,
+    "id_str": "1414740115952447490",
+    "full_text": "@gpdl_00 @JosManu14031664 @pedrocarcajadas @ErrorArbitralTR El rayo jugar\u00e1 contra el Barcelona, atl\u00e9tico, etc. Advincula si se queda va a ser banca, para el rayo no es imprescindible. Por algo en los partidos importantes siempre o alternaba o era banca desde el inicio",
+    "truncated": false,
+    "display_text_range": [
+        60,
+        268
+    ],
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "gpdl_00",
+                "name": "\u00f8",
+                "id": 3674400317,
+                "id_str": "3674400317",
+                "indices": [
+                    0,
+                    8
+                ]
+            },
+            {
+                "screen_name": "JosManu14031664",
+                "name": "Jos\u00e9 Manuel Montes",
+                "id": 1311568619906699265,
+                "id_str": "1311568619906699265",
+                "indices": [
+                    9,
+                    25
+                ]
+            },
+            {
+                "screen_name": "pedrocarcajadas",
+                "name": "pedrocarcajadas",
+                "id": 1413235791590043653,
+                "id_str": "1413235791590043653",
+                "indices": [
+                    26,
+                    42
+                ]
+            },
+            {
+                "screen_name": "ErrorArbitralTR",
+                "name": "Error ArbitraI",
+                "id": 1291860085388582918,
+                "id_str": "1291860085388582918",
+                "indices": [
+                    43,
+                    59
+                ]
+            }
+        ],
+        "urls": []
+    },
+    "metadata": {
+        "iso_language_code": "es",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "in_reply_to_status_id": 1414719894407598083,
+    "in_reply_to_status_id_str": "1414719894407598083",
+    "in_reply_to_user_id": 3674400317,
+    "in_reply_to_user_id_str": "3674400317",
+    "in_reply_to_screen_name": "gpdl_00",
+    "user": {
+        "id": 1292136103638634496,
+        "id_str": "1292136103638634496",
+        "name": "Ra\u00fal_NR",
+        "screen_name": "nr9_nr",
+        "location": "Andorra",
+        "description": "",
+        "url": null,
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 0,
+        "friends_count": 20,
+        "listed_count": 0,
+        "created_at": "Sat Aug 08 16:30:59 +0000 2020",
+        "favourites_count": 69,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 152,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": null,
+        "profile_background_image_url_https": null,
+        "profile_background_tile": false,
+        "profile_image_url": "http://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+        "profile_image_url_https": "https://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": true,
+        "default_profile_image": true,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "es"
+}

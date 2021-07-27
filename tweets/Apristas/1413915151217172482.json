@@ -1,0 +1,211 @@
+{
+    "created_at": "Sat Jul 10 17:36:55 +0000 2021",
+    "id": 1413915151217172482,
+    "id_str": "1413915151217172482",
+    "full_text": "RT @Joselyn_Montoya: El lugar de la memoria, que fue iniciativa de Alan Garc\u00eda, se niega a pasar  \u201c1214\u201d documental en memoria a los aprist\u2026",
+    "truncated": false,
+    "display_text_range": [
+        0,
+        140
+    ],
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "Joselyn_Montoya",
+                "name": "JossMontoya",
+                "id": 302313643,
+                "id_str": "302313643",
+                "indices": [
+                    3,
+                    19
+                ]
+            }
+        ],
+        "urls": []
+    },
+    "metadata": {
+        "iso_language_code": "es",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 952745832939446273,
+        "id_str": "952745832939446273",
+        "name": "CBS",
+        "screen_name": "claudiobedoyas1",
+        "location": "",
+        "description": "@justiciaparalaU",
+        "url": null,
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 563,
+        "friends_count": 2959,
+        "listed_count": 1,
+        "created_at": "Mon Jan 15 03:34:42 +0000 2018",
+        "favourites_count": 60205,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 38822,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": null,
+        "profile_background_image_url_https": null,
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1287191353835900929/9ddO262T_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1287191353835900929/9ddO262T_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+        "created_at": "Fri Jul 09 03:07:49 +0000 2021",
+        "id": 1413334046554431488,
+        "id_str": "1413334046554431488",
+        "full_text": "El lugar de la memoria, que fue iniciativa de Alan Garc\u00eda, se niega a pasar  \u201c1214\u201d documental en memoria a los apristas asesinados por los terroristas de sendero luminoso, por qu\u00e9 se niegan? No se pueden meter con sus camaradas?! \n#betoasaber @esquinabaja @hernanismo",
+        "truncated": false,
+        "display_text_range": [
+            0,
+            268
+        ],
+        "entities": {
+            "hashtags": [
+                {
+                    "text": "betoasaber",
+                    "indices": [
+                        232,
+                        243
+                    ]
+                }
+            ],
+            "symbols": [],
+            "user_mentions": [
+                {
+                    "screen_name": "esquinabaja",
+                    "name": "Carla Garc\u00eda B \ud83d\udc9a",
+                    "id": 19729967,
+                    "id_str": "19729967",
+                    "indices": [
+                        244,
+                        256
+                    ]
+                },
+                {
+                    "screen_name": "hernanismo",
+                    "name": "Hern\u00e1n Hurtado",
+                    "id": 442283723,
+                    "id_str": "442283723",
+                    "indices": [
+                        257,
+                        268
+                    ]
+                }
+            ],
+            "urls": []
+        },
+        "metadata": {
+            "iso_language_code": "es",
+            "result_type": "recent"
+        },
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 302313643,
+            "id_str": "302313643",
+            "name": "JossMontoya",
+            "screen_name": "Joselyn_Montoya",
+            "location": "lima-peru ",
+            "description": "Mortal, no hagas de tu odio inmortal",
+            "url": null,
+            "entities": {
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 234,
+            "friends_count": 158,
+            "listed_count": 0,
+            "created_at": "Fri May 20 23:59:27 +0000 2011",
+            "favourites_count": 3325,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": false,
+            "verified": false,
+            "statuses_count": 516,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "FF6699",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme11/bg.gif",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme11/bg.gif",
+            "profile_background_tile": true,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1376785312509263875/z2jX7U9i_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1376785312509263875/z2jX7U9i_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/302313643/1619929386",
+            "profile_link_color": "B40B43",
+            "profile_sidebar_border_color": "CC3366",
+            "profile_sidebar_fill_color": "E5507E",
+            "profile_text_color": "362720",
+            "profile_use_background_image": true,
+            "has_extended_profile": false,
+            "default_profile": false,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none",
+            "withheld_in_countries": []
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 333,
+        "favorite_count": 1168,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "es"
+    },
+    "is_quote_status": false,
+    "retweet_count": 333,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "es"
+}

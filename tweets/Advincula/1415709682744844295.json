@@ -1,0 +1,284 @@
+{
+    "created_at": "Thu Jul 15 16:27:45 +0000 2021",
+    "id": 1415709682744844295,
+    "id_str": "1415709682744844295",
+    "full_text": "RT @Agencia_Andina: El lateral derecho peruano Luis Adv\u00edncula se encuentra a la espera de que se concrete el acuerdo para jugar en el Boca\u2026",
+    "truncated": false,
+    "display_text_range": [
+        0,
+        139
+    ],
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "Agencia_Andina",
+                "name": "Agencia Andina",
+                "id": 40933920,
+                "id_str": "40933920",
+                "indices": [
+                    3,
+                    18
+                ]
+            }
+        ],
+        "urls": []
+    },
+    "metadata": {
+        "iso_language_code": "es",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 122623936,
+        "id_str": "122623936",
+        "name": "KShigella",
+        "screen_name": "KShigella",
+        "location": "Lima, Peru",
+        "description": "M\u00e9dico~Cirujano\nS\u00f3lo queda leer...\n\u00a1Ariano resurgiendo!\n#YDaleUxSiempreEscuchar\u00e1n\nHijo de mis padres\nPadre de mi hijo",
+        "url": null,
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 136,
+        "friends_count": 693,
+        "listed_count": 4,
+        "created_at": "Sat Mar 13 09:53:46 +0000 2010",
+        "favourites_count": 7374,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 49602,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "0099B9",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme4/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme4/bg.gif",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1339228745979355136/uV6FvpAK_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1339228745979355136/uV6FvpAK_normal.jpg",
+        "profile_link_color": "0099B9",
+        "profile_sidebar_border_color": "5ED4DC",
+        "profile_sidebar_fill_color": "95E8EC",
+        "profile_text_color": "3C3940",
+        "profile_use_background_image": true,
+        "has_extended_profile": true,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+        "created_at": "Thu Jul 15 16:20:33 +0000 2021",
+        "id": 1415707871128530944,
+        "id_str": "1415707871128530944",
+        "full_text": "El lateral derecho peruano Luis Adv\u00edncula se encuentra a la espera de que se concrete el acuerdo para jugar en el Boca Juniors. https://t.co/ivQm8QqNv6 https://t.co/GAV2ISwBKY",
+        "truncated": false,
+        "display_text_range": [
+            0,
+            151
+        ],
+        "entities": {
+            "hashtags": [],
+            "symbols": [],
+            "user_mentions": [],
+            "urls": [
+                {
+                    "url": "https://t.co/ivQm8QqNv6",
+                    "expanded_url": "https://bit.ly/3xHQOoN",
+                    "display_url": "bit.ly/3xHQOoN",
+                    "indices": [
+                        128,
+                        151
+                    ]
+                }
+            ],
+            "media": [
+                {
+                    "id": 1415707395158941701,
+                    "id_str": "1415707395158941701",
+                    "indices": [
+                        152,
+                        175
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/E6WaYApXoAUthnz.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/E6WaYApXoAUthnz.jpg",
+                    "url": "https://t.co/GAV2ISwBKY",
+                    "display_url": "pic.twitter.com/GAV2ISwBKY",
+                    "expanded_url": "https://twitter.com/Agencia_Andina/status/1415707871128530944/photo/1",
+                    "type": "photo",
+                    "sizes": {
+                        "large": {
+                            "w": 1800,
+                            "h": 1200,
+                            "resize": "fit"
+                        },
+                        "small": {
+                            "w": 680,
+                            "h": 453,
+                            "resize": "fit"
+                        },
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "medium": {
+                            "w": 1200,
+                            "h": 800,
+                            "resize": "fit"
+                        }
+                    }
+                }
+            ]
+        },
+        "extended_entities": {
+            "media": [
+                {
+                    "id": 1415707395158941701,
+                    "id_str": "1415707395158941701",
+                    "indices": [
+                        152,
+                        175
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/E6WaYApXoAUthnz.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/E6WaYApXoAUthnz.jpg",
+                    "url": "https://t.co/GAV2ISwBKY",
+                    "display_url": "pic.twitter.com/GAV2ISwBKY",
+                    "expanded_url": "https://twitter.com/Agencia_Andina/status/1415707871128530944/photo/1",
+                    "type": "photo",
+                    "sizes": {
+                        "large": {
+                            "w": 1800,
+                            "h": 1200,
+                            "resize": "fit"
+                        },
+                        "small": {
+                            "w": 680,
+                            "h": 453,
+                            "resize": "fit"
+                        },
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "medium": {
+                            "w": 1200,
+                            "h": 800,
+                            "resize": "fit"
+                        }
+                    }
+                }
+            ]
+        },
+        "metadata": {
+            "iso_language_code": "es",
+            "result_type": "recent"
+        },
+        "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 40933920,
+            "id_str": "40933920",
+            "name": "Agencia Andina",
+            "screen_name": "Agencia_Andina",
+            "location": "Lima",
+            "description": "Revisa las noticias sobre Per\u00fa y el mundo en la Agencia Peruana de Noticias Andina. Tambi\u00e9n sigue a @DiarioElPeruano #PongoElHombro #SiNosCuidamosGanamos",
+            "url": "https://t.co/xEZhXUD0fK",
+            "entities": {
+                "url": {
+                    "urls": [
+                        {
+                            "url": "https://t.co/xEZhXUD0fK",
+                            "expanded_url": "http://www.andina.pe",
+                            "display_url": "andina.pe",
+                            "indices": [
+                                0,
+                                23
+                            ]
+                        }
+                    ]
+                },
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 678157,
+            "friends_count": 1724,
+            "listed_count": 2275,
+            "created_at": "Mon May 18 18:31:50 +0000 2009",
+            "favourites_count": 8224,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": true,
+            "verified": true,
+            "statuses_count": 529059,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "FFFFFF",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme7/bg.gif",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme7/bg.gif",
+            "profile_background_tile": true,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1407042285087379457/x9Vuh_ya_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1407042285087379457/x9Vuh_ya_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/40933920/1625679317",
+            "profile_link_color": "DF111B",
+            "profile_sidebar_border_color": "FFFFFF",
+            "profile_sidebar_fill_color": "C9C9C9",
+            "profile_text_color": "000000",
+            "profile_use_background_image": true,
+            "has_extended_profile": false,
+            "default_profile": false,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "regular",
+            "withheld_in_countries": []
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 2,
+        "favorite_count": 6,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "es"
+    },
+    "is_quote_status": false,
+    "retweet_count": 2,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "es"
+}

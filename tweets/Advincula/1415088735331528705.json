@@ -1,0 +1,236 @@
+{
+    "created_at": "Tue Jul 13 23:20:20 +0000 2021",
+    "id": 1415088735331528705,
+    "id_str": "1415088735331528705",
+    "full_text": "RT @tadokolo79: Julio Mel\u00e9ndez: \u201cJuan Rom\u00e1n Riquelme me llam\u00f3 por Luis Adv\u00edncula\u201d | ENTREVISTA   @sejocatoblepas \n\nhttps://t.co/tDZsaPkd7T\u2026",
+    "truncated": false,
+    "display_text_range": [
+        0,
+        139
+    ],
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "tadokolo79",
+                "name": "TADOKORO",
+                "id": 4839576934,
+                "id_str": "4839576934",
+                "indices": [
+                    3,
+                    14
+                ]
+            },
+            {
+                "screen_name": "sejocatoblepas",
+                "name": "Jos\u00e9 Antonio Bragayrac",
+                "id": 184576969,
+                "id_str": "184576969",
+                "indices": [
+                    97,
+                    112
+                ]
+            }
+        ],
+        "urls": [
+            {
+                "url": "https://t.co/tDZsaPkd7T",
+                "expanded_url": "https://elcomercio.pe/deporte-total/seleccion/julio-melendez-juan-roman-riquelme-me-llamo-por-luis-advincula-boca-juniors-advincula-a-boca-nczd-emcc-noticia/",
+                "display_url": "elcomercio.pe/deporte-total/\u2026",
+                "indices": [
+                    115,
+                    138
+                ]
+            }
+        ]
+    },
+    "metadata": {
+        "iso_language_code": "es",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 2374366243,
+        "id_str": "2374366243",
+        "name": "Juan De La Cruz",
+        "screen_name": "yosoykaizem",
+        "location": "Lima, Peru",
+        "description": "Aliancista desde antes de nacer y hasta el \u00faltimo d\u00eda de mi vida... sin AlianzaLima en mi vida no sabr\u00eda que es al amor verdadero! Este amor no es para cobardes",
+        "url": null,
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 486,
+        "friends_count": 1776,
+        "listed_count": 0,
+        "created_at": "Wed Mar 05 21:21:15 +0000 2014",
+        "favourites_count": 45807,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 16957,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1361184175420821507/tqbjH0yw_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1361184175420821507/tqbjH0yw_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2374366243/1512422676",
+        "profile_link_color": "3B94D9",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "profile_use_background_image": false,
+        "has_extended_profile": true,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+        "created_at": "Tue Jul 13 23:09:29 +0000 2021",
+        "id": 1415086007167463425,
+        "id_str": "1415086007167463425",
+        "full_text": "Julio Mel\u00e9ndez: \u201cJuan Rom\u00e1n Riquelme me llam\u00f3 por Luis Adv\u00edncula\u201d | ENTREVISTA   @sejocatoblepas \n\nhttps://t.co/tDZsaPkd7T a trav\u00e9s de @elcomercio_peru",
+        "truncated": false,
+        "display_text_range": [
+            0,
+            151
+        ],
+        "entities": {
+            "hashtags": [],
+            "symbols": [],
+            "user_mentions": [
+                {
+                    "screen_name": "sejocatoblepas",
+                    "name": "Jos\u00e9 Antonio Bragayrac",
+                    "id": 184576969,
+                    "id_str": "184576969",
+                    "indices": [
+                        81,
+                        96
+                    ]
+                },
+                {
+                    "screen_name": "elcomercio_peru",
+                    "name": "El Comercio",
+                    "id": 233033221,
+                    "id_str": "233033221",
+                    "indices": [
+                        135,
+                        151
+                    ]
+                }
+            ],
+            "urls": [
+                {
+                    "url": "https://t.co/tDZsaPkd7T",
+                    "expanded_url": "https://elcomercio.pe/deporte-total/seleccion/julio-melendez-juan-roman-riquelme-me-llamo-por-luis-advincula-boca-juniors-advincula-a-boca-nczd-emcc-noticia/",
+                    "display_url": "elcomercio.pe/deporte-total/\u2026",
+                    "indices": [
+                        99,
+                        122
+                    ]
+                }
+            ]
+        },
+        "metadata": {
+            "iso_language_code": "es",
+            "result_type": "recent"
+        },
+        "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 4839576934,
+            "id_str": "4839576934",
+            "name": "TADOKORO",
+            "screen_name": "tadokolo79",
+            "location": "",
+            "description": "Periodista. Los indispensables est\u00e1n en el cementerio / El m\u00fasculo tiene memoria.",
+            "url": null,
+            "entities": {
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 5889,
+            "friends_count": 3765,
+            "listed_count": 20,
+            "created_at": "Sat Jan 23 19:32:04 +0000 2016",
+            "favourites_count": 35444,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": true,
+            "verified": false,
+            "statuses_count": 17939,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "131516",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+            "profile_background_tile": true,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1245141031013822464/vGP4N6RL_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1245141031013822464/vGP4N6RL_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/4839576934/1481953228",
+            "profile_link_color": "009999",
+            "profile_sidebar_border_color": "EEEEEE",
+            "profile_sidebar_fill_color": "EFEFEF",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "has_extended_profile": false,
+            "default_profile": false,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none",
+            "withheld_in_countries": []
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 13,
+        "favorite_count": 29,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "es"
+    },
+    "is_quote_status": false,
+    "retweet_count": 13,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "es"
+}

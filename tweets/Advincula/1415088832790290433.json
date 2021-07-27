@@ -1,0 +1,201 @@
+{
+    "created_at": "Tue Jul 13 23:20:43 +0000 2021",
+    "id": 1415088832790290433,
+    "id_str": "1415088832790290433",
+    "full_text": "Resumen del primer tiempo: rezando que vengan Advincula y Borja https://t.co/YhF6muQppA",
+    "truncated": false,
+    "display_text_range": [
+        0,
+        63
+    ],
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [],
+        "media": [
+            {
+                "id": 1415088827824234496,
+                "id_str": "1415088827824234496",
+                "indices": [
+                    64,
+                    87
+                ],
+                "media_url": "http://pbs.twimg.com/media/E6NnypwWYAAN41Z.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/E6NnypwWYAAN41Z.jpg",
+                "url": "https://t.co/YhF6muQppA",
+                "display_url": "pic.twitter.com/YhF6muQppA",
+                "expanded_url": "https://twitter.com/JulianBJ_/status/1415088832790290433/photo/1",
+                "type": "photo",
+                "sizes": {
+                    "small": {
+                        "w": 580,
+                        "h": 330,
+                        "resize": "fit"
+                    },
+                    "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                    },
+                    "medium": {
+                        "w": 580,
+                        "h": 330,
+                        "resize": "fit"
+                    },
+                    "large": {
+                        "w": 580,
+                        "h": 330,
+                        "resize": "fit"
+                    }
+                }
+            }
+        ]
+    },
+    "extended_entities": {
+        "media": [
+            {
+                "id": 1415088827824234496,
+                "id_str": "1415088827824234496",
+                "indices": [
+                    64,
+                    87
+                ],
+                "media_url": "http://pbs.twimg.com/media/E6NnypwWYAAN41Z.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/E6NnypwWYAAN41Z.jpg",
+                "url": "https://t.co/YhF6muQppA",
+                "display_url": "pic.twitter.com/YhF6muQppA",
+                "expanded_url": "https://twitter.com/JulianBJ_/status/1415088832790290433/photo/1",
+                "type": "photo",
+                "sizes": {
+                    "small": {
+                        "w": 580,
+                        "h": 330,
+                        "resize": "fit"
+                    },
+                    "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                    },
+                    "medium": {
+                        "w": 580,
+                        "h": 330,
+                        "resize": "fit"
+                    },
+                    "large": {
+                        "w": 580,
+                        "h": 330,
+                        "resize": "fit"
+                    }
+                }
+            },
+            {
+                "id": 1415088830454042627,
+                "id_str": "1415088830454042627",
+                "indices": [
+                    64,
+                    87
+                ],
+                "media_url": "http://pbs.twimg.com/media/E6NnyzjWEAMp9p_.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/E6NnyzjWEAMp9p_.jpg",
+                "url": "https://t.co/YhF6muQppA",
+                "display_url": "pic.twitter.com/YhF6muQppA",
+                "expanded_url": "https://twitter.com/JulianBJ_/status/1415088832790290433/photo/1",
+                "type": "photo",
+                "sizes": {
+                    "medium": {
+                        "w": 340,
+                        "h": 340,
+                        "resize": "fit"
+                    },
+                    "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                    },
+                    "large": {
+                        "w": 340,
+                        "h": 340,
+                        "resize": "fit"
+                    },
+                    "small": {
+                        "w": 340,
+                        "h": 340,
+                        "resize": "fit"
+                    }
+                }
+            }
+        ]
+    },
+    "metadata": {
+        "iso_language_code": "es",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 259720020,
+        "id_str": "259720020",
+        "name": "Julian",
+        "screen_name": "JulianBJ_",
+        "location": "",
+        "description": "Descendiste? Tu opini\u00f3n no cuenta.",
+        "url": null,
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 5321,
+        "friends_count": 1884,
+        "listed_count": 7,
+        "created_at": "Wed Mar 02 13:17:39 +0000 2011",
+        "favourites_count": 56536,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 45406,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1359771431761043456/B-5S_UOK_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1359771431761043456/B-5S_UOK_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/259720020/1620780128",
+        "profile_link_color": "00B315",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 6,
+    "favorite_count": 61,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "es"
+}

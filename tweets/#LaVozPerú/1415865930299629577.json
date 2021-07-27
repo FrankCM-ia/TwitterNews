@@ -1,0 +1,204 @@
+{
+    "created_at": "Fri Jul 16 02:48:37 +0000 2021",
+    "id": 1415865930299629577,
+    "id_str": "1415865930299629577",
+    "full_text": "RT @stylexhardy: DISCRIMINAR, ESO NO ESTA NADA BIEN ANTES LOS OJOS DE DIOS TODOS SOMOS IGUALES\n\nQUE GANAS DE CANTAR ESO A TODO PULM\u00d3N\n#LaVo\u2026",
+    "truncated": false,
+    "display_text_range": [
+        0,
+        140
+    ],
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "stylexhardy",
+                "name": "anya \ud83c\uddf5\ud83c\uddea",
+                "id": 1113161330,
+                "id_str": "1113161330",
+                "indices": [
+                    3,
+                    15
+                ]
+            }
+        ],
+        "urls": []
+    },
+    "metadata": {
+        "iso_language_code": "es",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 796398349,
+        "id_str": "796398349",
+        "name": "Jimena \ud83c\uddf5\ud83c\uddea",
+        "screen_name": "iLOUISBESTIES",
+        "location": "louis fetus ",
+        "description": "viendo brooklyn 99 con Zayn",
+        "url": "https://t.co/NGis5LZVIm",
+        "entities": {
+            "url": {
+                "urls": [
+                    {
+                        "url": "https://t.co/NGis5LZVIm",
+                        "expanded_url": "https://jimenaxotb.carrd.co/",
+                        "display_url": "jimenaxotb.carrd.co",
+                        "indices": [
+                            0,
+                            23
+                        ]
+                    }
+                ]
+            },
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 468,
+        "friends_count": 555,
+        "listed_count": 9,
+        "created_at": "Sat Sep 01 16:15:50 +0000 2012",
+        "favourites_count": 18200,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 46834,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "ACDED6",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme18/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme18/bg.gif",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1414778432878268416/iLmGMxbz_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1414778432878268416/iLmGMxbz_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/796398349/1623938676",
+        "profile_link_color": "038543",
+        "profile_sidebar_border_color": "EEEEEE",
+        "profile_sidebar_fill_color": "F6F6F6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": true,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+        "created_at": "Fri Jul 16 02:46:14 +0000 2021",
+        "id": 1415865328207269889,
+        "id_str": "1415865328207269889",
+        "full_text": "DISCRIMINAR, ESO NO ESTA NADA BIEN ANTES LOS OJOS DE DIOS TODOS SOMOS IGUALES\n\nQUE GANAS DE CANTAR ESO A TODO PULM\u00d3N\n#LaVozPeru",
+        "truncated": false,
+        "display_text_range": [
+            0,
+            127
+        ],
+        "entities": {
+            "hashtags": [
+                {
+                    "text": "LaVozPeru",
+                    "indices": [
+                        117,
+                        127
+                    ]
+                }
+            ],
+            "symbols": [],
+            "user_mentions": [],
+            "urls": []
+        },
+        "metadata": {
+            "iso_language_code": "es",
+            "result_type": "recent"
+        },
+        "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 1113161330,
+            "id_str": "1113161330",
+            "name": "anya \ud83c\uddf5\ud83c\uddea",
+            "screen_name": "stylexhardy",
+            "location": "",
+            "description": "\u210b\u2661\naveces me pregunto porqu\u00e9 tanta gente buena me rodea, pero luego pienso que si estoy en su vida... tal vez no son tan buenas personas.",
+            "url": null,
+            "entities": {
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 7194,
+            "friends_count": 4480,
+            "listed_count": 37,
+            "created_at": "Wed Jan 23 01:54:36 +0000 2013",
+            "favourites_count": 32629,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": false,
+            "verified": false,
+            "statuses_count": 61180,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "EBEBEB",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+            "profile_background_tile": true,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1411508343173230596/gEpAdHEF_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1411508343173230596/gEpAdHEF_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/1113161330/1625468176",
+            "profile_link_color": "F58EA8",
+            "profile_sidebar_border_color": "A8C7F7",
+            "profile_sidebar_fill_color": "C0DFEC",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "has_extended_profile": true,
+            "default_profile": false,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "regular",
+            "withheld_in_countries": []
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 3,
+        "favorite_count": 15,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "es"
+    },
+    "is_quote_status": false,
+    "retweet_count": 3,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "es"
+}

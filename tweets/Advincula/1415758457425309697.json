@@ -1,0 +1,127 @@
+{
+    "created_at": "Thu Jul 15 19:41:34 +0000 2021",
+    "id": 1415758457425309697,
+    "id_str": "1415758457425309697",
+    "full_text": "@BlueGrone94 @xjhaircm15 @VocesFutbolPeru @RadioUnionPeru El pap\u00e1 de Advincula es mundialista? Porque la opini\u00f3n la dio el pap\u00e1 \ud83d\ude39 tan desesperados est\u00e1n por figurar de alguna forma porque futbol\u00edsticamente solo lo hacen dando l\u00e1stima en un torneo mediocre \ud83d\ude39",
+    "truncated": false,
+    "display_text_range": [
+        58,
+        257
+    ],
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "BlueGrone94",
+                "name": "Alexis",
+                "id": 87823453,
+                "id_str": "87823453",
+                "indices": [
+                    0,
+                    12
+                ]
+            },
+            {
+                "screen_name": "xjhaircm15",
+                "name": "JairSCm",
+                "id": 1293765685420666885,
+                "id_str": "1293765685420666885",
+                "indices": [
+                    13,
+                    24
+                ]
+            },
+            {
+                "screen_name": "VocesFutbolPeru",
+                "name": "Las Voces Del F\u00fatbol | Per\u00fa",
+                "id": 1162216910169100288,
+                "id_str": "1162216910169100288",
+                "indices": [
+                    25,
+                    41
+                ]
+            },
+            {
+                "screen_name": "RadioUnionPeru",
+                "name": "Radio Uni\u00f3n",
+                "id": 288237812,
+                "id_str": "288237812",
+                "indices": [
+                    42,
+                    57
+                ]
+            }
+        ],
+        "urls": []
+    },
+    "metadata": {
+        "iso_language_code": "es",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "in_reply_to_status_id": 1415748437497294857,
+    "in_reply_to_status_id_str": "1415748437497294857",
+    "in_reply_to_user_id": 87823453,
+    "in_reply_to_user_id_str": "87823453",
+    "in_reply_to_screen_name": "BlueGrone94",
+    "user": {
+        "id": 452516077,
+        "id_str": "452516077",
+        "name": "Eduu Tenorio",
+        "screen_name": "EduuTenorio",
+        "location": "Per\u00fa",
+        "description": "",
+        "url": null,
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 304,
+        "friends_count": 159,
+        "listed_count": 1,
+        "created_at": "Sun Jan 01 23:18:07 +0000 2012",
+        "favourites_count": 564,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 1130,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/951307412291686400/d0hJPA1S_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/951307412291686400/d0hJPA1S_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/452516077/1402949480",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 6,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "es"
+}

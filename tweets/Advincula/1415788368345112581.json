@@ -1,0 +1,115 @@
+{
+    "created_at": "Thu Jul 15 21:40:25 +0000 2021",
+    "id": 1415788368345112581,
+    "id_str": "1415788368345112581",
+    "full_text": "El defensor Luis #Adv\u00edncula \ud83c\uddf5\ud83c\uddea es nuevo jugador de #Boca Juniors \ud83c\udde6\ud83c\uddf7. Pagaron 2,5M\u20ac. #Fichajes #Espa\u00f1a",
+    "truncated": false,
+    "display_text_range": [
+        0,
+        101
+    ],
+    "entities": {
+        "hashtags": [
+            {
+                "text": "Adv\u00edncula",
+                "indices": [
+                    17,
+                    27
+                ]
+            },
+            {
+                "text": "Boca",
+                "indices": [
+                    51,
+                    56
+                ]
+            },
+            {
+                "text": "Fichajes",
+                "indices": [
+                    84,
+                    93
+                ]
+            },
+            {
+                "text": "Espa\u00f1a",
+                "indices": [
+                    94,
+                    101
+                ]
+            }
+        ],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+    },
+    "metadata": {
+        "iso_language_code": "es",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "in_reply_to_status_id": 1407859316695220232,
+    "in_reply_to_status_id_str": "1407859316695220232",
+    "in_reply_to_user_id": 1458853440,
+    "in_reply_to_user_id_str": "1458853440",
+    "in_reply_to_screen_name": "FutbolFichajes",
+    "user": {
+        "id": 1458853440,
+        "id_str": "1458853440",
+        "name": "F\u00fatbol Fichajes (en \ud83c\udfe1)",
+        "screen_name": "FutbolFichajes",
+        "location": "Argentina",
+        "description": "Fichajes e informaci\u00f3n del f\u00fatbol masculino de Am\u00e9rica y Europa / Consultas al MD / #MercadoDePases / #MercadoDaBola / #Fichajes",
+        "url": null,
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 11032,
+        "friends_count": 93,
+        "listed_count": 46,
+        "created_at": "Sun May 26 05:59:07 +0000 2013",
+        "favourites_count": 2662,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 16160,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1365126433509699585/VVr5Xr-D_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1365126433509699585/VVr5Xr-D_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1458853440/1615506366",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": true,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 9,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "es"
+}

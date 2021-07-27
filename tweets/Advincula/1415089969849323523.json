@@ -1,0 +1,239 @@
+{
+    "created_at": "Tue Jul 13 23:25:14 +0000 2021",
+    "id": 1415089969849323523,
+    "id_str": "1415089969849323523",
+    "full_text": "RT @diarioas: \ud83d\udd19 El Rayo vuelve al trabajo con sorpresas\n\n\u27a1\ufe0f Adv\u00edncula entren\u00f3 con el grupo, pero dos futbolistas citados se ausentaron de l\u2026",
+    "truncated": false,
+    "display_text_range": [
+        0,
+        140
+    ],
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "diarioas",
+                "name": "Diario AS",
+                "id": 7996522,
+                "id_str": "7996522",
+                "indices": [
+                    3,
+                    12
+                ]
+            }
+        ],
+        "urls": []
+    },
+    "metadata": {
+        "iso_language_code": "es",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 20024751,
+        "id_str": "20024751",
+        "name": "Cesar, algo mas",
+        "screen_name": "zerojuls",
+        "location": "Lima - Peru",
+        "description": "Si decides, s\u00edgueme ... pero no se a donde voy ...",
+        "url": "http://t.co/dqj7Hjrlkx",
+        "entities": {
+            "url": {
+                "urls": [
+                    {
+                        "url": "http://t.co/dqj7Hjrlkx",
+                        "expanded_url": "http://zerojuls.blogspot.com/",
+                        "display_url": "zerojuls.blogspot.com",
+                        "indices": [
+                            0,
+                            22
+                        ]
+                    }
+                ]
+            },
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 1093,
+        "friends_count": 1521,
+        "listed_count": 187,
+        "created_at": "Wed Feb 04 03:19:06 +0000 2009",
+        "favourites_count": 233815,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 338975,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "131516",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+        "profile_background_tile": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1145501003/Zj_logo_normal.png",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1145501003/Zj_logo_normal.png",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/20024751/1348071866",
+        "profile_link_color": "009999",
+        "profile_sidebar_border_color": "EEEEEE",
+        "profile_sidebar_fill_color": "EFEFEF",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+        "created_at": "Tue Jul 13 22:46:09 +0000 2021",
+        "id": 1415080135817105408,
+        "id_str": "1415080135817105408",
+        "full_text": "\ud83d\udd19 El Rayo vuelve al trabajo con sorpresas\n\n\u27a1\ufe0f Adv\u00edncula entren\u00f3 con el grupo, pero dos futbolistas citados se ausentaron de la primera sesi\u00f3n. Qasmi y Morro dejaron su futuro en el aire. https://t.co/q9CTxFnDXb",
+        "truncated": false,
+        "display_text_range": [
+            0,
+            210
+        ],
+        "entities": {
+            "hashtags": [],
+            "symbols": [],
+            "user_mentions": [],
+            "urls": [
+                {
+                    "url": "https://t.co/q9CTxFnDXb",
+                    "expanded_url": "https://bit.ly/2T7xB0x",
+                    "display_url": "bit.ly/2T7xB0x",
+                    "indices": [
+                        187,
+                        210
+                    ]
+                }
+            ]
+        },
+        "metadata": {
+            "iso_language_code": "es",
+            "result_type": "recent"
+        },
+        "source": "<a href=\"https://www.echobox.com\" rel=\"nofollow\">Echobox</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 7996522,
+            "id_str": "7996522",
+            "name": "Diario AS",
+            "screen_name": "diarioas",
+            "location": "Madrid",
+            "description": "El twitter de https://t.co/xLH76kk3Lb. Sigue en directo las principales novedades del mundo del deporte. Tambi\u00e9n en: https://t.co/gnixIS8PPF",
+            "url": "https://t.co/NDc5RP8RCK",
+            "entities": {
+                "url": {
+                    "urls": [
+                        {
+                            "url": "https://t.co/NDc5RP8RCK",
+                            "expanded_url": "http://www.as.com",
+                            "display_url": "as.com",
+                            "indices": [
+                                0,
+                                23
+                            ]
+                        }
+                    ]
+                },
+                "description": {
+                    "urls": [
+                        {
+                            "url": "https://t.co/xLH76kk3Lb",
+                            "expanded_url": "http://www.AS.com",
+                            "display_url": "AS.com",
+                            "indices": [
+                                14,
+                                37
+                            ]
+                        },
+                        {
+                            "url": "https://t.co/gnixIS8PPF",
+                            "expanded_url": "http://facebook.com/as",
+                            "display_url": "facebook.com/as",
+                            "indices": [
+                                117,
+                                140
+                            ]
+                        }
+                    ]
+                }
+            },
+            "protected": false,
+            "followers_count": 2824045,
+            "friends_count": 788,
+            "listed_count": 12249,
+            "created_at": "Mon Aug 06 16:36:33 +0000 2007",
+            "favourites_count": 12126,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": true,
+            "verified": true,
+            "statuses_count": 465438,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "202020",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1369195859448127490/8MFJvfWi_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1369195859448127490/8MFJvfWi_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/7996522/1626171452",
+            "profile_link_color": "CA0305",
+            "profile_sidebar_border_color": "B5B5B5",
+            "profile_sidebar_fill_color": "E0E0E0",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "has_extended_profile": true,
+            "default_profile": false,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "regular",
+            "withheld_in_countries": []
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 1,
+        "favorite_count": 34,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "es"
+    },
+    "is_quote_status": false,
+    "retweet_count": 1,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "es"
+}

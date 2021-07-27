@@ -1,0 +1,349 @@
+{
+    "created_at": "Tue Jul 13 19:42:03 +0000 2021",
+    "id": 1415033802645192705,
+    "id_str": "1415033802645192705",
+    "full_text": "RT @VarskySports: Boca \ud83c\udde6\ud83c\uddf7 y Rayo Vallecano \ud83c\uddea\ud83c\uddf8 llegaron a un acuerdo por el monto de la ficha del peruano Luis Adv\u00edncula \ud83c\uddf5\ud83c\uddea. Resta definir l\u2026",
+    "truncated": false,
+    "display_text_range": [
+        0,
+        140
+    ],
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "VarskySports",
+                "name": "VarskySports",
+                "id": 131967942,
+                "id_str": "131967942",
+                "indices": [
+                    3,
+                    16
+                ]
+            }
+        ],
+        "urls": []
+    },
+    "metadata": {
+        "iso_language_code": "es",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 1653867552,
+        "id_str": "1653867552",
+        "name": "Raliemant",
+        "screen_name": "Raliemant",
+        "location": "San Luis, Argentina",
+        "description": "El Fede - Male, 29 - Argentine - PC, Games \ud83d\udd79, Beer, Friends, Cars, Music \ud83c\udfb6 - Freak AF - \u00bfMe lees? \u00bfMe seguis? Si no te gustan mis tweets, FUERA!",
+        "url": null,
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 205,
+        "friends_count": 392,
+        "listed_count": 9,
+        "created_at": "Wed Aug 07 21:19:34 +0000 2013",
+        "favourites_count": 60232,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 34019,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/611005289702232064/j09ZzPxq_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/611005289702232064/j09ZzPxq_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1653867552/1435724007",
+        "profile_link_color": "1B95E0",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "profile_use_background_image": false,
+        "has_extended_profile": false,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+        "created_at": "Sat Jul 10 01:28:15 +0000 2021",
+        "id": 1413671376578392073,
+        "id_str": "1413671376578392073",
+        "full_text": "Boca \ud83c\udde6\ud83c\uddf7 y Rayo Vallecano \ud83c\uddea\ud83c\uddf8 llegaron a un acuerdo por el monto de la ficha del peruano Luis Adv\u00edncula \ud83c\uddf5\ud83c\uddea. Resta definir la forma de pago y detalles vinculados al defensor.\n\nV\u00eda @CLMerlo, el N\u00ba 1 de Sudam\u00e9rica en cuanto al #MercadoDePases \u26bd\ufe0f. https://t.co/UcYsuWmcI1",
+        "truncated": false,
+        "display_text_range": [
+            0,
+            241
+        ],
+        "entities": {
+            "hashtags": [
+                {
+                    "text": "MercadoDePases",
+                    "indices": [
+                        222,
+                        237
+                    ]
+                }
+            ],
+            "symbols": [],
+            "user_mentions": [
+                {
+                    "screen_name": "CLMerlo",
+                    "name": "C\u00e9sar Luis Merlo",
+                    "id": 150263990,
+                    "id_str": "150263990",
+                    "indices": [
+                        177,
+                        185
+                    ]
+                }
+            ],
+            "urls": [],
+            "media": [
+                {
+                    "id": 1413671052467703810,
+                    "id_str": "1413671052467703810",
+                    "indices": [
+                        242,
+                        265
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/E55eVQ-XEAIkUjY.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/E55eVQ-XEAIkUjY.jpg",
+                    "url": "https://t.co/UcYsuWmcI1",
+                    "display_url": "pic.twitter.com/UcYsuWmcI1",
+                    "expanded_url": "https://twitter.com/VarskySports/status/1413671376578392073/photo/1",
+                    "type": "photo",
+                    "sizes": {
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "small": {
+                            "w": 680,
+                            "h": 680,
+                            "resize": "fit"
+                        },
+                        "large": {
+                            "w": 700,
+                            "h": 700,
+                            "resize": "fit"
+                        },
+                        "medium": {
+                            "w": 700,
+                            "h": 700,
+                            "resize": "fit"
+                        }
+                    }
+                }
+            ]
+        },
+        "extended_entities": {
+            "media": [
+                {
+                    "id": 1413671052467703810,
+                    "id_str": "1413671052467703810",
+                    "indices": [
+                        242,
+                        265
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/E55eVQ-XEAIkUjY.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/E55eVQ-XEAIkUjY.jpg",
+                    "url": "https://t.co/UcYsuWmcI1",
+                    "display_url": "pic.twitter.com/UcYsuWmcI1",
+                    "expanded_url": "https://twitter.com/VarskySports/status/1413671376578392073/photo/1",
+                    "type": "photo",
+                    "sizes": {
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "small": {
+                            "w": 680,
+                            "h": 680,
+                            "resize": "fit"
+                        },
+                        "large": {
+                            "w": 700,
+                            "h": 700,
+                            "resize": "fit"
+                        },
+                        "medium": {
+                            "w": 700,
+                            "h": 700,
+                            "resize": "fit"
+                        }
+                    }
+                },
+                {
+                    "id": 1413671282298826756,
+                    "id_str": "1413671282298826756",
+                    "indices": [
+                        242,
+                        265
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/E55eipKXsAQZDC6.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/E55eipKXsAQZDC6.jpg",
+                    "url": "https://t.co/UcYsuWmcI1",
+                    "display_url": "pic.twitter.com/UcYsuWmcI1",
+                    "expanded_url": "https://twitter.com/VarskySports/status/1413671376578392073/photo/1",
+                    "type": "photo",
+                    "sizes": {
+                        "large": {
+                            "w": 266,
+                            "h": 189,
+                            "resize": "fit"
+                        },
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "medium": {
+                            "w": 266,
+                            "h": 189,
+                            "resize": "fit"
+                        },
+                        "small": {
+                            "w": 266,
+                            "h": 189,
+                            "resize": "fit"
+                        }
+                    }
+                }
+            ]
+        },
+        "metadata": {
+            "iso_language_code": "es",
+            "result_type": "recent"
+        },
+        "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 131967942,
+            "id_str": "131967942",
+            "name": "VarskySports",
+            "screen_name": "VarskySports",
+            "location": "Desde Buenos Aires, Argentina",
+            "description": "Bienvenidos al Canal de Deportes en Twitter. https://t.co/q5RgK3L5Ov. https://t.co/b9Hqsb6OMs VarskySports@VarskySports.com.ar",
+            "url": "https://t.co/jM06qk8H4d",
+            "entities": {
+                "url": {
+                    "urls": [
+                        {
+                            "url": "https://t.co/jM06qk8H4d",
+                            "expanded_url": "http://www.VarskySports.com.ar",
+                            "display_url": "VarskySports.com.ar",
+                            "indices": [
+                                0,
+                                23
+                            ]
+                        }
+                    ]
+                },
+                "description": {
+                    "urls": [
+                        {
+                            "url": "https://t.co/q5RgK3L5Ov",
+                            "expanded_url": "http://Facebook.com/VarskySports",
+                            "display_url": "Facebook.com/VarskySports",
+                            "indices": [
+                                45,
+                                68
+                            ]
+                        },
+                        {
+                            "url": "https://t.co/b9Hqsb6OMs",
+                            "expanded_url": "http://Instagram.com/VarskySports",
+                            "display_url": "Instagram.com/VarskySports",
+                            "indices": [
+                                70,
+                                93
+                            ]
+                        }
+                    ]
+                }
+            },
+            "protected": false,
+            "followers_count": 1794753,
+            "friends_count": 143870,
+            "listed_count": 5959,
+            "created_at": "Sun Apr 11 22:24:12 +0000 2010",
+            "favourites_count": 226,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": true,
+            "verified": true,
+            "statuses_count": 163542,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": true,
+            "profile_background_color": "ABB8C2",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": true,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1401997598714732544/LjkZHAof_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1401997598714732544/LjkZHAof_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/131967942/1585749592",
+            "profile_link_color": "115EA1",
+            "profile_sidebar_border_color": "FFFFFF",
+            "profile_sidebar_fill_color": "E4E4E4",
+            "profile_text_color": "000000",
+            "profile_use_background_image": false,
+            "has_extended_profile": false,
+            "default_profile": false,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none",
+            "withheld_in_countries": []
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 277,
+        "favorite_count": 1738,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "es"
+    },
+    "is_quote_status": false,
+    "retweet_count": 277,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "es"
+}

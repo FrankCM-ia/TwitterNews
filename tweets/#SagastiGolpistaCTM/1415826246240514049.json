@@ -1,0 +1,134 @@
+{
+    "created_at": "Fri Jul 16 00:10:56 +0000 2021",
+    "id": 1415826246240514049,
+    "id_str": "1415826246240514049",
+    "full_text": "@NuritadeChoiMin @justicierope @shey016 @PasquinDeM Sigue llorando! \ud83e\udd23\ud83e\udd23 #SagastiGolpistaCTM",
+    "truncated": false,
+    "display_text_range": [
+        52,
+        90
+    ],
+    "entities": {
+        "hashtags": [
+            {
+                "text": "SagastiGolpistaCTM",
+                "indices": [
+                    71,
+                    90
+                ]
+            }
+        ],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "NuritadeChoiMin",
+                "name": "Nurita",
+                "id": 959816748869607429,
+                "id_str": "959816748869607429",
+                "indices": [
+                    0,
+                    16
+                ]
+            },
+            {
+                "screen_name": "justicierope",
+                "name": "\ud83e\udd87 El Justiciero\u2122",
+                "id": 1359043155937669126,
+                "id_str": "1359043155937669126",
+                "indices": [
+                    17,
+                    30
+                ]
+            },
+            {
+                "screen_name": "shey016",
+                "name": "Shey*",
+                "id": 57849838,
+                "id_str": "57849838",
+                "indices": [
+                    31,
+                    39
+                ]
+            },
+            {
+                "screen_name": "PasquinDeM",
+                "name": "\u2119\ud835\udd52\ud835\udd64\ud835\udd62\ud835\udd66\ud835\udd5a\ud835\udd5f \ud835\udd55\ud835\udd56 \ud835\udd44\ud835\udd5a\ud835\udd56\ud835\udd63\ud835\udd54\ud835\udd60\ud835\udd5d\ud835\udd56\ud835\udd64",
+                "id": 729458728274169857,
+                "id_str": "729458728274169857",
+                "indices": [
+                    40,
+                    51
+                ]
+            }
+        ],
+        "urls": []
+    },
+    "metadata": {
+        "iso_language_code": "es",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "in_reply_to_status_id": 1415821648226308097,
+    "in_reply_to_status_id_str": "1415821648226308097",
+    "in_reply_to_user_id": 959816748869607429,
+    "in_reply_to_user_id_str": "959816748869607429",
+    "in_reply_to_screen_name": "NuritadeChoiMin",
+    "user": {
+        "id": 4114899311,
+        "id_str": "4114899311",
+        "name": "Lesly",
+        "screen_name": "lesccs22",
+        "location": "",
+        "description": "Peruana, Economista.\nPresidente Electa de la Rep\u00fablica del Per\u00fa.",
+        "url": null,
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 93,
+        "friends_count": 63,
+        "listed_count": 0,
+        "created_at": "Wed Nov 04 21:51:49 +0000 2015",
+        "favourites_count": 28590,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 14131,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1404586702371536896/yX0XR1WW_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1404586702371536896/yX0XR1WW_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "es"
+}

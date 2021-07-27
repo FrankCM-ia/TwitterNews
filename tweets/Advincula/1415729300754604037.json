@@ -1,0 +1,318 @@
+{
+    "created_at": "Thu Jul 15 17:45:42 +0000 2021",
+    "id": 1415729300754604037,
+    "id_str": "1415729300754604037",
+    "full_text": "RT @okdobleamarilla: \ud83d\udea8 #ALERTA | #MercadodePases: Todo acordado entre #Boca y Luis Adv\u00edncula\n\n\ud83d\udccc El acuerdo se cerr\u00f3 en \u20ac 2,3 millones\n\ud83d\udccc Lle\u2026",
+    "truncated": false,
+    "display_text_range": [
+        0,
+        140
+    ],
+    "entities": {
+        "hashtags": [
+            {
+                "text": "ALERTA",
+                "indices": [
+                    23,
+                    30
+                ]
+            },
+            {
+                "text": "MercadodePases",
+                "indices": [
+                    33,
+                    48
+                ]
+            },
+            {
+                "text": "Boca",
+                "indices": [
+                    70,
+                    75
+                ]
+            }
+        ],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "okdobleamarilla",
+                "name": "doble amarilla",
+                "id": 804699227100213249,
+                "id_str": "804699227100213249",
+                "indices": [
+                    3,
+                    19
+                ]
+            }
+        ],
+        "urls": []
+    },
+    "metadata": {
+        "iso_language_code": "es",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 740241910481162241,
+        "id_str": "740241910481162241",
+        "name": "Yoooo",
+        "screen_name": "roodri87",
+        "location": "",
+        "description": "Jes\u00fas mi estilo de vida. posiblemente en tweeter solo habl\u00e9 de Boca, defienda las 2 vidas, y este en contra de todo progresismo barato. vos si sos bienvenido.",
+        "url": null,
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 532,
+        "friends_count": 869,
+        "listed_count": 0,
+        "created_at": "Tue Jun 07 17:59:59 +0000 2016",
+        "favourites_count": 91847,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 74273,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": null,
+        "profile_background_image_url_https": null,
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1299906411762245632/a5MpXMz2_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1299906411762245632/a5MpXMz2_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+        "created_at": "Thu Jul 15 15:18:29 +0000 2021",
+        "id": 1415692248902156289,
+        "id_str": "1415692248902156289",
+        "full_text": "\ud83d\udea8 #ALERTA | #MercadodePases: Todo acordado entre #Boca y Luis Adv\u00edncula\n\n\ud83d\udccc El acuerdo se cerr\u00f3 en \u20ac 2,3 millones\n\ud83d\udccc Llegar\u00e1 el s\u00e1bado a Buenos Aires y en el Xeneize analizan cu\u00e1ndo se sumar\u00e1 al plantel https://t.co/RnHuzF9EuR",
+        "truncated": false,
+        "display_text_range": [
+            0,
+            200
+        ],
+        "entities": {
+            "hashtags": [
+                {
+                    "text": "ALERTA",
+                    "indices": [
+                        2,
+                        9
+                    ]
+                },
+                {
+                    "text": "MercadodePases",
+                    "indices": [
+                        12,
+                        27
+                    ]
+                },
+                {
+                    "text": "Boca",
+                    "indices": [
+                        49,
+                        54
+                    ]
+                }
+            ],
+            "symbols": [],
+            "user_mentions": [],
+            "urls": [],
+            "media": [
+                {
+                    "id": 1415692219202351107,
+                    "id_str": "1415692219202351107",
+                    "indices": [
+                        201,
+                        224
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/E6WMkpzXMAMSH8g.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/E6WMkpzXMAMSH8g.jpg",
+                    "url": "https://t.co/RnHuzF9EuR",
+                    "display_url": "pic.twitter.com/RnHuzF9EuR",
+                    "expanded_url": "https://twitter.com/okdobleamarilla/status/1415692248902156289/photo/1",
+                    "type": "photo",
+                    "sizes": {
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "large": {
+                            "w": 1200,
+                            "h": 675,
+                            "resize": "fit"
+                        },
+                        "medium": {
+                            "w": 1200,
+                            "h": 675,
+                            "resize": "fit"
+                        },
+                        "small": {
+                            "w": 680,
+                            "h": 383,
+                            "resize": "fit"
+                        }
+                    }
+                }
+            ]
+        },
+        "extended_entities": {
+            "media": [
+                {
+                    "id": 1415692219202351107,
+                    "id_str": "1415692219202351107",
+                    "indices": [
+                        201,
+                        224
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/E6WMkpzXMAMSH8g.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/E6WMkpzXMAMSH8g.jpg",
+                    "url": "https://t.co/RnHuzF9EuR",
+                    "display_url": "pic.twitter.com/RnHuzF9EuR",
+                    "expanded_url": "https://twitter.com/okdobleamarilla/status/1415692248902156289/photo/1",
+                    "type": "photo",
+                    "sizes": {
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "large": {
+                            "w": 1200,
+                            "h": 675,
+                            "resize": "fit"
+                        },
+                        "medium": {
+                            "w": 1200,
+                            "h": 675,
+                            "resize": "fit"
+                        },
+                        "small": {
+                            "w": 680,
+                            "h": 383,
+                            "resize": "fit"
+                        }
+                    }
+                }
+            ]
+        },
+        "metadata": {
+            "iso_language_code": "es",
+            "result_type": "recent"
+        },
+        "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 804699227100213249,
+            "id_str": "804699227100213249",
+            "name": "doble amarilla",
+            "screen_name": "okdobleamarilla",
+            "location": "IG: /dobleamarillaok",
+            "description": "Periodistas sin filtro. Contamos la verdad que a otros les cuesta. Del F\u00fatbol champagne a la rosca de los escritorios.",
+            "url": "https://t.co/jEwjp6pzoI",
+            "entities": {
+                "url": {
+                    "urls": [
+                        {
+                            "url": "https://t.co/jEwjp6pzoI",
+                            "expanded_url": "http://www.dobleamarilla.com.ar",
+                            "display_url": "dobleamarilla.com.ar",
+                            "indices": [
+                                0,
+                                23
+                            ]
+                        }
+                    ]
+                },
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 40379,
+            "friends_count": 3847,
+            "listed_count": 159,
+            "created_at": "Fri Dec 02 14:50:21 +0000 2016",
+            "favourites_count": 3196,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": false,
+            "verified": false,
+            "statuses_count": 55060,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "F5F8FA",
+            "profile_background_image_url": null,
+            "profile_background_image_url_https": null,
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1399801871339040774/rFnO_cJo_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1399801871339040774/rFnO_cJo_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/804699227100213249/1622573749",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "has_extended_profile": false,
+            "default_profile": true,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none",
+            "withheld_in_countries": []
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 26,
+        "favorite_count": 101,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "es"
+    },
+    "is_quote_status": false,
+    "retweet_count": 26,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "es"
+}

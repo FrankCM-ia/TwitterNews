@@ -1,0 +1,97 @@
+{
+    "created_at": "Wed Jul 14 03:51:34 +0000 2021",
+    "id": 1415156995783643137,
+    "id_str": "1415156995783643137",
+    "full_text": "@PedroCastilloTe Ja, ja, ja... el bloqueo no existe. Es embargo. Bloqueo es lo que dice Adv\u00edncula. Inf\u00f3rmate bien antes de tuitear sandeces, seudo prosor.",
+    "truncated": false,
+    "display_text_range": [
+        17,
+        154
+    ],
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "PedroCastilloTe",
+                "name": "Pedro Castillo Terrones",
+                "id": 1357969682683334657,
+                "id_str": "1357969682683334657",
+                "indices": [
+                    0,
+                    16
+                ]
+            }
+        ],
+        "urls": []
+    },
+    "metadata": {
+        "iso_language_code": "es",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "in_reply_to_status_id": 1415145721658056704,
+    "in_reply_to_status_id_str": "1415145721658056704",
+    "in_reply_to_user_id": 1357969682683334657,
+    "in_reply_to_user_id_str": "1357969682683334657",
+    "in_reply_to_screen_name": "PedroCastilloTe",
+    "user": {
+        "id": 895479836969361408,
+        "id_str": "895479836969361408",
+        "name": "KrlsCMA",
+        "screen_name": "Ph071241krMQ",
+        "location": "",
+        "description": "Autoproclamado presidente electo de la Rep\u00fablica del Per\u00fa 2021 - 2026. Comunismo es pobreza.",
+        "url": null,
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 67,
+        "friends_count": 74,
+        "listed_count": 0,
+        "created_at": "Thu Aug 10 03:00:05 +0000 2017",
+        "favourites_count": 6591,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 41118,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": null,
+        "profile_background_image_url_https": null,
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1404457359758536710/-owQ1rRe_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1404457359758536710/-owQ1rRe_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/895479836969361408/1625438114",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "es"
+}

@@ -1,0 +1,107 @@
+{
+    "created_at": "Wed Jul 14 00:36:50 +0000 2021",
+    "id": 1415107988839350273,
+    "id_str": "1415107988839350273",
+    "full_text": "@_JugadorNro12 Lo van a tapar al chelo con la poronga de advincula, como hicieron con Varela x negocios de una dirigencia q no est\u00e1 a la altura de las circunstancias ni de un club tan grande como @BocaJrsOficial se cagan en los hinchas SOLO NEGOCIOS",
+    "truncated": false,
+    "display_text_range": [
+        15,
+        249
+    ],
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "_JugadorNro12",
+                "name": "\u2113\u03b1\u03c5\u0442\u03b1\u044f\u03c3",
+                "id": 856232364908957696,
+                "id_str": "856232364908957696",
+                "indices": [
+                    0,
+                    14
+                ]
+            },
+            {
+                "screen_name": "BocaJrsOficial",
+                "name": "Boca Juniors",
+                "id": 42933426,
+                "id_str": "42933426",
+                "indices": [
+                    196,
+                    211
+                ]
+            }
+        ],
+        "urls": []
+    },
+    "metadata": {
+        "iso_language_code": "es",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_status_id": 1415104961906630661,
+    "in_reply_to_status_id_str": "1415104961906630661",
+    "in_reply_to_user_id": 856232364908957696,
+    "in_reply_to_user_id_str": "856232364908957696",
+    "in_reply_to_screen_name": "_JugadorNro12",
+    "user": {
+        "id": 902025402,
+        "id_str": "902025402",
+        "name": "El Coni",
+        "screen_name": "NicolasFrutero",
+        "location": "Venado Tuerto, Argentina",
+        "description": "no se trata de prometer el cielo ni de mostrar el infierno, solo se trata de compartir la realidad",
+        "url": null,
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 2336,
+        "friends_count": 2299,
+        "listed_count": 0,
+        "created_at": "Wed Oct 24 15:21:55 +0000 2012",
+        "favourites_count": 4144,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 4424,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1287907009183064065/WXTaG5qY_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1287907009183064065/WXTaG5qY_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/902025402/1595896095",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": true,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 1,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "es"
+}

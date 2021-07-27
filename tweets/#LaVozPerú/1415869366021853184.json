@@ -1,0 +1,94 @@
+{
+    "created_at": "Fri Jul 16 03:02:17 +0000 2021",
+    "id": 1415869366021853184,
+    "id_str": "1415869366021853184",
+    "full_text": "Ivaaannn queeee??? Bien merecido,solo no lo v\u00ed venir #lavozper\u00fa",
+    "truncated": false,
+    "display_text_range": [
+        0,
+        63
+    ],
+    "entities": {
+        "hashtags": [
+            {
+                "text": "lavozper\u00fa",
+                "indices": [
+                    53,
+                    63
+                ]
+            }
+        ],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+    },
+    "metadata": {
+        "iso_language_code": "es",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 2230817472,
+        "id_str": "2230817472",
+        "name": "mary",
+        "screen_name": "Kekitoh_",
+        "location": "Lima, Peru",
+        "description": "cuidao que la vida ya se puso mala",
+        "url": null,
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 164,
+        "friends_count": 467,
+        "listed_count": 1,
+        "created_at": "Thu Dec 05 03:09:49 +0000 2013",
+        "favourites_count": 5659,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 1874,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "94D487",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1382497711740612611/jzI9bleX_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1382497711740612611/jzI9bleX_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2230817472/1622750270",
+        "profile_link_color": "9266CC",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": true,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 3,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "es"
+}

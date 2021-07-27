@@ -1,0 +1,188 @@
+{
+    "created_at": "Thu Jul 15 19:46:19 +0000 2021",
+    "id": 1415759653540073472,
+    "id_str": "1415759653540073472",
+    "full_text": "\"Yo quisiera que Lucho se retire en el club Alianza Lima\", confes\u00f3 el padre de Luis Adv\u00edncula. \u00bfCrees que 'Bolt' le cumpla el deseo a su pap\u00e1?\n\n\u27a1 https://t.co/G8CSOzbeDs https://t.co/eV5dzR3jy7",
+    "truncated": false,
+    "display_text_range": [
+        0,
+        169
+    ],
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+            {
+                "url": "https://t.co/G8CSOzbeDs",
+                "expanded_url": "https://bit.ly/3xIvTlv",
+                "display_url": "bit.ly/3xIvTlv",
+                "indices": [
+                    146,
+                    169
+                ]
+            }
+        ],
+        "media": [
+            {
+                "id": 1415757608213000201,
+                "id_str": "1415757608213000201",
+                "indices": [
+                    170,
+                    193
+                ],
+                "media_url": "http://pbs.twimg.com/media/E6XICy2XsAkz0gP.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/E6XICy2XsAkz0gP.jpg",
+                "url": "https://t.co/eV5dzR3jy7",
+                "display_url": "pic.twitter.com/eV5dzR3jy7",
+                "expanded_url": "https://twitter.com/liberoperu/status/1415759653540073472/photo/1",
+                "type": "photo",
+                "sizes": {
+                    "large": {
+                        "w": 670,
+                        "h": 369,
+                        "resize": "fit"
+                    },
+                    "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                    },
+                    "medium": {
+                        "w": 670,
+                        "h": 369,
+                        "resize": "fit"
+                    },
+                    "small": {
+                        "w": 670,
+                        "h": 369,
+                        "resize": "fit"
+                    }
+                }
+            }
+        ]
+    },
+    "extended_entities": {
+        "media": [
+            {
+                "id": 1415757608213000201,
+                "id_str": "1415757608213000201",
+                "indices": [
+                    170,
+                    193
+                ],
+                "media_url": "http://pbs.twimg.com/media/E6XICy2XsAkz0gP.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/E6XICy2XsAkz0gP.jpg",
+                "url": "https://t.co/eV5dzR3jy7",
+                "display_url": "pic.twitter.com/eV5dzR3jy7",
+                "expanded_url": "https://twitter.com/liberoperu/status/1415759653540073472/photo/1",
+                "type": "photo",
+                "sizes": {
+                    "large": {
+                        "w": 670,
+                        "h": 369,
+                        "resize": "fit"
+                    },
+                    "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                    },
+                    "medium": {
+                        "w": 670,
+                        "h": 369,
+                        "resize": "fit"
+                    },
+                    "small": {
+                        "w": 670,
+                        "h": 369,
+                        "resize": "fit"
+                    }
+                }
+            }
+        ]
+    },
+    "metadata": {
+        "iso_language_code": "es",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 1095458060041039872,
+        "id_str": "1095458060041039872",
+        "name": "L\u00edbero Per\u00fa",
+        "screen_name": "liberoperu",
+        "location": "Lima, Peru",
+        "description": "Sigue de cerca toda la pasi\u00f3n por el deporte rey en L\u00edbero: Tu f\u00fatbol, tu pasi\u00f3n.",
+        "url": "https://t.co/BUJS1Ya8eU",
+        "entities": {
+            "url": {
+                "urls": [
+                    {
+                        "url": "https://t.co/BUJS1Ya8eU",
+                        "expanded_url": "https://libero.pe/",
+                        "display_url": "libero.pe",
+                        "indices": [
+                            0,
+                            23
+                        ]
+                    }
+                ]
+            },
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 11386,
+        "friends_count": 694,
+        "listed_count": 58,
+        "created_at": "Tue Feb 12 23:02:09 +0000 2019",
+        "favourites_count": 285,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 86149,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1333975198958280707/wFrIhjzW_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1333975198958280707/wFrIhjzW_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1095458060041039872/1619700243",
+        "profile_link_color": "000000",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "profile_use_background_image": false,
+        "has_extended_profile": false,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 1,
+    "favorite_count": 6,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "es"
+}

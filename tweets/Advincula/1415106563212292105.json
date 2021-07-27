@@ -1,0 +1,99 @@
+{
+    "created_at": "Wed Jul 14 00:31:10 +0000 2021",
+    "id": 1415106563212292105,
+    "id_str": "1415106563212292105",
+    "full_text": "Si el Consejo cierra a Adv\u00edncula y a Borja, Boca estar\u00eda armando un buen plantel entre jugadores de jerarqu\u00eda, otros con experiencia en el f\u00fatbol local y pibes del club. Si no llegan, no veremos mucho m\u00e1s que lo de hoy, y quiz\u00e1s no alcance.",
+    "truncated": false,
+    "display_text_range": [
+        0,
+        240
+    ],
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+    },
+    "metadata": {
+        "iso_language_code": "es",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 381486961,
+        "id_str": "381486961",
+        "name": "Bochi",
+        "screen_name": "BochaGagliardi",
+        "location": "",
+        "description": "Del que nunca descendi\u00f3 y m\u00e1s copas gan\u00f3",
+        "url": "https://t.co/BIIkXhHTSV",
+        "entities": {
+            "url": {
+                "urls": [
+                    {
+                        "url": "https://t.co/BIIkXhHTSV",
+                        "expanded_url": "http://Instagram.com/bochagagliardi",
+                        "display_url": "Instagram.com/bochagagliardi",
+                        "indices": [
+                            0,
+                            23
+                        ]
+                    }
+                ]
+            },
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 606,
+        "friends_count": 198,
+        "listed_count": 0,
+        "created_at": "Wed Sep 28 12:27:45 +0000 2011",
+        "favourites_count": 1290,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 15267,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "022330",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1059814616732233729/Z9vqLxjX_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1059814616732233729/Z9vqLxjX_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/381486961/1571941740",
+        "profile_link_color": "643D9E",
+        "profile_sidebar_border_color": "A8C7F7",
+        "profile_sidebar_fill_color": "C0DFEC",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": true,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 1,
+    "favorite_count": 11,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "es"
+}
