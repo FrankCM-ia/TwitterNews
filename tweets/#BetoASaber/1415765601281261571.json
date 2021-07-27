@@ -1,0 +1,122 @@
+{
+    "created_at": "Thu Jul 15 20:09:57 +0000 2021",
+    "id": 1415765601281261571,
+    "id_str": "1415765601281261571",
+    "full_text": "Beto y que hagan un atestado por cada televidente que forma parte de esa \"organizaci\u00f3n criminal\" llamada #BetoASaber y que transmite @willaxtv .\nVeremos c\u00f3mo termina ese abogaducho cuando le lleguen cientos de miles de denuncias por difamaci\u00f3n.\n#BetoNoEst\u00e1sSolo\ncc. @esquinabaja",
+    "truncated": false,
+    "display_text_range": [
+        0,
+        278
+    ],
+    "entities": {
+        "hashtags": [
+            {
+                "text": "BetoASaber",
+                "indices": [
+                    105,
+                    116
+                ]
+            },
+            {
+                "text": "BetoNoEst\u00e1sSolo",
+                "indices": [
+                    245,
+                    261
+                ]
+            }
+        ],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "willaxtv",
+                "name": "Willax Televisi\u00f3n",
+                "id": 38512990,
+                "id_str": "38512990",
+                "indices": [
+                    133,
+                    142
+                ]
+            },
+            {
+                "screen_name": "esquinabaja",
+                "name": "Carla Garc\u00eda B \ud83d\udc9a",
+                "id": 19729967,
+                "id_str": "19729967",
+                "indices": [
+                    266,
+                    278
+                ]
+            }
+        ],
+        "urls": []
+    },
+    "metadata": {
+        "iso_language_code": "es",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "in_reply_to_status_id": 1415765599150645252,
+    "in_reply_to_status_id_str": "1415765599150645252",
+    "in_reply_to_user_id": 991085975957835777,
+    "in_reply_to_user_id_str": "991085975957835777",
+    "in_reply_to_screen_name": "eddobarvich",
+    "user": {
+        "id": 991085975957835777,
+        "id_str": "991085975957835777",
+        "name": "Eduardo Barrionuevo Gargurevich",
+        "screen_name": "eddobarvich",
+        "location": "Lima, Peru",
+        "description": "Empresario. Presidente Electo de la Rep\u00fablica del Per\u00fa (2021-2026 con opci\u00f3n a quedarme hasta el 2050).",
+        "url": null,
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 71,
+        "friends_count": 263,
+        "listed_count": 0,
+        "created_at": "Mon Apr 30 22:44:44 +0000 2018",
+        "favourites_count": 684,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 4107,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1399851720344227841/guI5ZnjI_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1399851720344227841/guI5ZnjI_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/991085975957835777/1619936512",
+        "profile_link_color": "FAB81E",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "profile_use_background_image": false,
+        "has_extended_profile": true,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "es"
+}

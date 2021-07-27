@@ -1,0 +1,462 @@
+{
+    "created_at": "Fri Jul 16 03:54:38 +0000 2021",
+    "id": 1415882542155124742,
+    "id_str": "1415882542155124742",
+    "full_text": "RT @blackdragon1802: Un Boeing 737 de la Fuerza A\u00e9rea Mexicana #Mexico aterriz\u00f3 este jueves en #LaHabana, #Cuba \u00bfTRAJO REGALITOS? #SOSCuba\u2026",
+    "truncated": false,
+    "display_text_range": [
+        0,
+        139
+    ],
+    "entities": {
+        "hashtags": [
+            {
+                "text": "Mexico",
+                "indices": [
+                    63,
+                    70
+                ]
+            },
+            {
+                "text": "LaHabana",
+                "indices": [
+                    95,
+                    104
+                ]
+            },
+            {
+                "text": "Cuba",
+                "indices": [
+                    106,
+                    111
+                ]
+            },
+            {
+                "text": "SOSCuba",
+                "indices": [
+                    130,
+                    138
+                ]
+            }
+        ],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "blackdragon1802",
+                "name": "Lord \u0646",
+                "id": 151490775,
+                "id_str": "151490775",
+                "indices": [
+                    3,
+                    19
+                ]
+            }
+        ],
+        "urls": []
+    },
+    "metadata": {
+        "iso_language_code": "es",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 1215011004805001216,
+        "id_str": "1215011004805001216",
+        "name": "cahotiyermadi \ud83c\udde9\ud83c\uddf0",
+        "screen_name": "cahotiyermadi",
+        "location": "",
+        "description": "believes at revenge.. CH\ud83d\udca5\ud83d\udda4\ud83d\udda4\u2763\n #LeagueOf Warriors",
+        "url": null,
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 1254,
+        "friends_count": 1205,
+        "listed_count": 1,
+        "created_at": "Wed Jan 08 20:43:54 +0000 2020",
+        "favourites_count": 32423,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 90488,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": null,
+        "profile_background_image_url_https": null,
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1392157119370055684/yBLtNfgz_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1392157119370055684/yBLtNfgz_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1215011004805001216/1591455488",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+        "created_at": "Fri Jul 16 03:36:33 +0000 2021",
+        "id": 1415877989880012800,
+        "id_str": "1415877989880012800",
+        "full_text": "Un Boeing 737 de la Fuerza A\u00e9rea Mexicana #Mexico aterriz\u00f3 este jueves en #LaHabana, #Cuba \u00bfTRAJO REGALITOS? #SOSCuba #SOSCubaLibre #ANCentral #TVPer\u00faNoticias #ATVNoticias #Edici\u00f3nCentral #AlEstiloJuliana #CanalN #90Central #Willax #RPP https://t.co/QRiYXitDOd",
+        "truncated": false,
+        "display_text_range": [
+            0,
+            236
+        ],
+        "entities": {
+            "hashtags": [
+                {
+                    "text": "Mexico",
+                    "indices": [
+                        42,
+                        49
+                    ]
+                },
+                {
+                    "text": "LaHabana",
+                    "indices": [
+                        74,
+                        83
+                    ]
+                },
+                {
+                    "text": "Cuba",
+                    "indices": [
+                        85,
+                        90
+                    ]
+                },
+                {
+                    "text": "SOSCuba",
+                    "indices": [
+                        109,
+                        117
+                    ]
+                },
+                {
+                    "text": "SOSCubaLibre",
+                    "indices": [
+                        118,
+                        131
+                    ]
+                },
+                {
+                    "text": "ANCentral",
+                    "indices": [
+                        132,
+                        142
+                    ]
+                },
+                {
+                    "text": "TVPer\u00faNoticias",
+                    "indices": [
+                        143,
+                        158
+                    ]
+                },
+                {
+                    "text": "ATVNoticias",
+                    "indices": [
+                        159,
+                        171
+                    ]
+                },
+                {
+                    "text": "Edici\u00f3nCentral",
+                    "indices": [
+                        172,
+                        187
+                    ]
+                },
+                {
+                    "text": "AlEstiloJuliana",
+                    "indices": [
+                        188,
+                        204
+                    ]
+                },
+                {
+                    "text": "CanalN",
+                    "indices": [
+                        205,
+                        212
+                    ]
+                },
+                {
+                    "text": "90Central",
+                    "indices": [
+                        213,
+                        223
+                    ]
+                },
+                {
+                    "text": "Willax",
+                    "indices": [
+                        224,
+                        231
+                    ]
+                },
+                {
+                    "text": "RPP",
+                    "indices": [
+                        232,
+                        236
+                    ]
+                }
+            ],
+            "symbols": [],
+            "user_mentions": [],
+            "urls": [],
+            "media": [
+                {
+                    "id": 1415877981571014656,
+                    "id_str": "1415877981571014656",
+                    "indices": [
+                        237,
+                        260
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/E6Y1hcjWYAAZNW4.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/E6Y1hcjWYAAZNW4.jpg",
+                    "url": "https://t.co/QRiYXitDOd",
+                    "display_url": "pic.twitter.com/QRiYXitDOd",
+                    "expanded_url": "https://twitter.com/blackdragon1802/status/1415877989880012800/photo/1",
+                    "type": "photo",
+                    "sizes": {
+                        "large": {
+                            "w": 1024,
+                            "h": 666,
+                            "resize": "fit"
+                        },
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "medium": {
+                            "w": 1024,
+                            "h": 666,
+                            "resize": "fit"
+                        },
+                        "small": {
+                            "w": 680,
+                            "h": 442,
+                            "resize": "fit"
+                        }
+                    }
+                }
+            ]
+        },
+        "extended_entities": {
+            "media": [
+                {
+                    "id": 1415877981571014656,
+                    "id_str": "1415877981571014656",
+                    "indices": [
+                        237,
+                        260
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/E6Y1hcjWYAAZNW4.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/E6Y1hcjWYAAZNW4.jpg",
+                    "url": "https://t.co/QRiYXitDOd",
+                    "display_url": "pic.twitter.com/QRiYXitDOd",
+                    "expanded_url": "https://twitter.com/blackdragon1802/status/1415877989880012800/photo/1",
+                    "type": "photo",
+                    "sizes": {
+                        "large": {
+                            "w": 1024,
+                            "h": 666,
+                            "resize": "fit"
+                        },
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "medium": {
+                            "w": 1024,
+                            "h": 666,
+                            "resize": "fit"
+                        },
+                        "small": {
+                            "w": 680,
+                            "h": 442,
+                            "resize": "fit"
+                        }
+                    }
+                },
+                {
+                    "id": 1415877985081638914,
+                    "id_str": "1415877985081638914",
+                    "indices": [
+                        237,
+                        260
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/E6Y1hpoWQAI7z7H.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/E6Y1hpoWQAI7z7H.jpg",
+                    "url": "https://t.co/QRiYXitDOd",
+                    "display_url": "pic.twitter.com/QRiYXitDOd",
+                    "expanded_url": "https://twitter.com/blackdragon1802/status/1415877989880012800/photo/1",
+                    "type": "photo",
+                    "sizes": {
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "medium": {
+                            "w": 896,
+                            "h": 487,
+                            "resize": "fit"
+                        },
+                        "small": {
+                            "w": 680,
+                            "h": 370,
+                            "resize": "fit"
+                        },
+                        "large": {
+                            "w": 896,
+                            "h": 487,
+                            "resize": "fit"
+                        }
+                    }
+                },
+                {
+                    "id": 1415877987971604480,
+                    "id_str": "1415877987971604480",
+                    "indices": [
+                        237,
+                        260
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/E6Y1h0ZXoAARdfg.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/E6Y1h0ZXoAARdfg.jpg",
+                    "url": "https://t.co/QRiYXitDOd",
+                    "display_url": "pic.twitter.com/QRiYXitDOd",
+                    "expanded_url": "https://twitter.com/blackdragon1802/status/1415877989880012800/photo/1",
+                    "type": "photo",
+                    "sizes": {
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "small": {
+                            "w": 680,
+                            "h": 274,
+                            "resize": "fit"
+                        },
+                        "medium": {
+                            "w": 1170,
+                            "h": 471,
+                            "resize": "fit"
+                        },
+                        "large": {
+                            "w": 1170,
+                            "h": 471,
+                            "resize": "fit"
+                        }
+                    }
+                }
+            ]
+        },
+        "metadata": {
+            "iso_language_code": "es",
+            "result_type": "recent"
+        },
+        "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 151490775,
+            "id_str": "151490775",
+            "name": "Lord \u0646",
+            "screen_name": "blackdragon1802",
+            "location": "Marte - Soy un marciano ",
+            "description": "El mal prevalece cuando los hombres buenos no hacen nada - T\u00fa apoyas indirectamente la persecuci\u00f3n del Inocente cuando permaneces mudo. EN DIOS CONFIAMOS!!",
+            "url": null,
+            "entities": {
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 2019,
+            "friends_count": 1614,
+            "listed_count": 14,
+            "created_at": "Thu Jun 03 14:37:21 +0000 2010",
+            "favourites_count": 457,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": false,
+            "verified": false,
+            "statuses_count": 69436,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": true,
+            "profile_background_color": "7EB9D9",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": true,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/560939363178008576/A-bhNC-H_normal.jpeg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/560939363178008576/A-bhNC-H_normal.jpeg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/151490775/1422569930",
+            "profile_link_color": "150EED",
+            "profile_sidebar_border_color": "FFFFFF",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "has_extended_profile": false,
+            "default_profile": false,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none",
+            "withheld_in_countries": []
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 7,
+        "favorite_count": 3,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "es"
+    },
+    "is_quote_status": false,
+    "retweet_count": 7,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "es"
+}

@@ -1,0 +1,233 @@
+{
+    "created_at": "Fri Jul 16 02:32:49 +0000 2021",
+    "id": 1415861951238971399,
+    "id_str": "1415861951238971399",
+    "full_text": "RT @willaxtv: #BetoASaber | Beto Ortiz: \u201cFrancisco Sagasti lleg\u00f3 al poder con dos cad\u00e1veres a cuestas\u201d https://t.co/3MVSMJouQY",
+    "truncated": false,
+    "display_text_range": [
+        0,
+        126
+    ],
+    "entities": {
+        "hashtags": [
+            {
+                "text": "BetoASaber",
+                "indices": [
+                    14,
+                    25
+                ]
+            }
+        ],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "willaxtv",
+                "name": "Willax Televisi\u00f3n",
+                "id": 38512990,
+                "id_str": "38512990",
+                "indices": [
+                    3,
+                    12
+                ]
+            }
+        ],
+        "urls": [
+            {
+                "url": "https://t.co/3MVSMJouQY",
+                "expanded_url": "https://willax.tv/beto-ortiz-francisco-sagasti-llego-al-poder-con-dos-cadaveres-a-cuestas/",
+                "display_url": "willax.tv/beto-ortiz-fra\u2026",
+                "indices": [
+                    103,
+                    126
+                ]
+            }
+        ]
+    },
+    "metadata": {
+        "iso_language_code": "es",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 733975964,
+        "id_str": "733975964",
+        "name": "MASB",
+        "screen_name": "malsaba06",
+        "location": "Lima, Per\u00fa",
+        "description": "Autoproclamado Presidente del Per\u00fa 2021, si el PROSOR puede porque yo no?",
+        "url": null,
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 184,
+        "friends_count": 938,
+        "listed_count": 1,
+        "created_at": "Fri Aug 03 02:22:28 +0000 2012",
+        "favourites_count": 48839,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 47302,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1391543463045382146/vFJUPbK4_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1391543463045382146/vFJUPbK4_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+        "created_at": "Fri Jul 16 02:12:59 +0000 2021",
+        "id": 1415856962214973443,
+        "id_str": "1415856962214973443",
+        "full_text": "#BetoASaber | Beto Ortiz: \u201cFrancisco Sagasti lleg\u00f3 al poder con dos cad\u00e1veres a cuestas\u201d https://t.co/3MVSMJouQY",
+        "truncated": false,
+        "display_text_range": [
+            0,
+            112
+        ],
+        "entities": {
+            "hashtags": [
+                {
+                    "text": "BetoASaber",
+                    "indices": [
+                        0,
+                        11
+                    ]
+                }
+            ],
+            "symbols": [],
+            "user_mentions": [],
+            "urls": [
+                {
+                    "url": "https://t.co/3MVSMJouQY",
+                    "expanded_url": "https://willax.tv/beto-ortiz-francisco-sagasti-llego-al-poder-con-dos-cadaveres-a-cuestas/",
+                    "display_url": "willax.tv/beto-ortiz-fra\u2026",
+                    "indices": [
+                        89,
+                        112
+                    ]
+                }
+            ]
+        },
+        "metadata": {
+            "iso_language_code": "es",
+            "result_type": "recent"
+        },
+        "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 38512990,
+            "id_str": "38512990",
+            "name": "Willax Televisi\u00f3n",
+            "screen_name": "willaxtv",
+            "location": "Lima, Peru",
+            "description": "Canal peruano: Se\u00f1al abierta DIGITAL 1.1 | MovistarTV C16 | DirecTV 1191 | ClaroTV C12  | BestCable C8 | 250+ cableoperadores a nivel nacional.",
+            "url": "https://t.co/NNUraKfCkP",
+            "entities": {
+                "url": {
+                    "urls": [
+                        {
+                            "url": "https://t.co/NNUraKfCkP",
+                            "expanded_url": "http://willax.tv",
+                            "display_url": "willax.tv",
+                            "indices": [
+                                0,
+                                23
+                            ]
+                        }
+                    ]
+                },
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 407558,
+            "friends_count": 895,
+            "listed_count": 1002,
+            "created_at": "Thu May 07 20:45:07 +0000 2009",
+            "favourites_count": 4909,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": false,
+            "verified": false,
+            "statuses_count": 123829,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "131516",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1211698998807011332/E8t5u8Nk_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1211698998807011332/E8t5u8Nk_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/38512990/1624760073",
+            "profile_link_color": "FAB81E",
+            "profile_sidebar_border_color": "FFFFFF",
+            "profile_sidebar_fill_color": "E6E6E6",
+            "profile_text_color": "6B6B6B",
+            "profile_use_background_image": true,
+            "has_extended_profile": false,
+            "default_profile": false,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none",
+            "withheld_in_countries": []
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 216,
+        "favorite_count": 646,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "es"
+    },
+    "is_quote_status": false,
+    "retweet_count": 216,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "es"
+}

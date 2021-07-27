@@ -1,0 +1,107 @@
+{
+    "created_at": "Fri Jul 16 02:35:06 +0000 2021",
+    "id": 1415862528240914445,
+    "id_str": "1415862528240914445",
+    "full_text": "#AlEstiloJuliana A PAlacio carajo hay que ir cueste lo que cueste. Un pu\u00f1ado de ignorantes con machetes no nos pueden intimidar Somos m\u00e1s! Si todos sali\u00e9ramos a palacio no hay machetes no hay polic\u00eda que nos pare. No entreguemos nuestro pa\u00eds!",
+    "truncated": false,
+    "display_text_range": [
+        0,
+        242
+    ],
+    "entities": {
+        "hashtags": [
+            {
+                "text": "AlEstiloJuliana",
+                "indices": [
+                    0,
+                    16
+                ]
+            }
+        ],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+    },
+    "metadata": {
+        "iso_language_code": "es",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 1402258839081267206,
+        "id_str": "1402258839081267206",
+        "name": "Jonatan",
+        "screen_name": "Yonaflores1089",
+        "location": "Buenos Aires, Argentina",
+        "description": "L'\u00e9l\u00e9gance est la seule beaut\u00e9 qui ne se fane pas \u2696\ufe0f \ud83d\udcda Abogac\u00eda UBA \u2708\ufe0f \ud83e\uddf3\ud83c\udf0e\u264e\ufe0f\ud83c\udff3\ufe0f\u200d\ud83c\udf08. Trolls comunistas \u2702\ufe0f la principal.Cuenta respaldo.",
+        "url": "https://t.co/VAzPC4EQ59",
+        "entities": {
+            "url": {
+                "urls": [
+                    {
+                        "url": "https://t.co/VAzPC4EQ59",
+                        "expanded_url": "https://www.instagram.com/yona.flores1/",
+                        "display_url": "instagram.com/yona.flores1/",
+                        "indices": [
+                            0,
+                            23
+                        ]
+                    }
+                ]
+            },
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 18,
+        "friends_count": 252,
+        "listed_count": 0,
+        "created_at": "Tue Jun 08 13:39:12 +0000 2021",
+        "favourites_count": 2442,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 1823,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": null,
+        "profile_background_image_url_https": null,
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1402259061794643982/sPMvPRrZ_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1402259061794643982/sPMvPRrZ_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1402258839081267206/1623192542",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": true,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 3,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "es"
+}

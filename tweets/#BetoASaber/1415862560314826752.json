@@ -1,0 +1,253 @@
+{
+    "created_at": "Fri Jul 16 02:35:14 +0000 2021",
+    "id": 1415862560314826752,
+    "id_str": "1415862560314826752",
+    "full_text": "RT @washy2020: #BetoASaber Increible pero cierto, botaron como a un perro a Richard Muro del Hospital Almenara. Y ahora qu\u00e9 dir\u00e1 @Defensori\u2026",
+    "truncated": false,
+    "display_text_range": [
+        0,
+        140
+    ],
+    "entities": {
+        "hashtags": [
+            {
+                "text": "BetoASaber",
+                "indices": [
+                    15,
+                    26
+                ]
+            }
+        ],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "washy2020",
+                "name": "Washy",
+                "id": 1268624494685544448,
+                "id_str": "1268624494685544448",
+                "indices": [
+                    3,
+                    13
+                ]
+            }
+        ],
+        "urls": []
+    },
+    "metadata": {
+        "iso_language_code": "es",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 17950360,
+        "id_str": "17950360",
+        "name": "Giancarlo Falconi #SinCienciaNoHayFuturo",
+        "screen_name": "gfalconic",
+        "location": "Lima - Per\u00fa",
+        "description": "\ud83d\udc49Innovacion , Transformaci\u00f3n Digital,  Startups.  Modelos de Negocio Design thinking  Design Sprint \ud83d\udc41\ufe0f\ud83d\udc41\ufe0f Catedr\u00e1tico Emprendedor \n\ud83d\udc47\ud83d\udc47\ud83d\udc47",
+        "url": "https://t.co/hOdmLGl3IV",
+        "entities": {
+            "url": {
+                "urls": [
+                    {
+                        "url": "https://t.co/hOdmLGl3IV",
+                        "expanded_url": "https://www.linkedin.com/in/giancarlofalconicanepa/",
+                        "display_url": "linkedin.com/in/giancarlofa\u2026",
+                        "indices": [
+                            0,
+                            23
+                        ]
+                    }
+                ]
+            },
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 10689,
+        "friends_count": 7924,
+        "listed_count": 539,
+        "created_at": "Sun Dec 07 23:29:20 +0000 2008",
+        "favourites_count": 29439,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 85409,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "131516",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+        "profile_background_tile": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1396228699872284672/pUlEsoz-_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1396228699872284672/pUlEsoz-_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/17950360/1625182682",
+        "profile_link_color": "FF691F",
+        "profile_sidebar_border_color": "EEEEEE",
+        "profile_sidebar_fill_color": "EFEFEF",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+        "created_at": "Fri Jul 16 02:33:05 +0000 2021",
+        "id": 1415862021002772481,
+        "id_str": "1415862021002772481",
+        "full_text": "#BetoASaber Increible pero cierto, botaron como a un perro a Richard Muro del Hospital Almenara. Y ahora qu\u00e9 dir\u00e1 @Defensoria_Peru @FiscaliaPeru @PoliciaPeru @OEA_oficial",
+        "truncated": false,
+        "display_text_range": [
+            0,
+            170
+        ],
+        "entities": {
+            "hashtags": [
+                {
+                    "text": "BetoASaber",
+                    "indices": [
+                        0,
+                        11
+                    ]
+                }
+            ],
+            "symbols": [],
+            "user_mentions": [
+                {
+                    "screen_name": "Defensoria_Peru",
+                    "name": "Defensor\u00eda Per\u00fa",
+                    "id": 107428718,
+                    "id_str": "107428718",
+                    "indices": [
+                        114,
+                        130
+                    ]
+                },
+                {
+                    "screen_name": "FiscaliaPeru",
+                    "name": "Ministerio P\u00fablico",
+                    "id": 302151609,
+                    "id_str": "302151609",
+                    "indices": [
+                        131,
+                        144
+                    ]
+                },
+                {
+                    "screen_name": "PoliciaPeru",
+                    "name": "Polic\u00eda Nacional del Per\u00fa",
+                    "id": 213769482,
+                    "id_str": "213769482",
+                    "indices": [
+                        145,
+                        157
+                    ]
+                },
+                {
+                    "screen_name": "OEA_oficial",
+                    "name": "OEA",
+                    "id": 242448965,
+                    "id_str": "242448965",
+                    "indices": [
+                        158,
+                        170
+                    ]
+                }
+            ],
+            "urls": []
+        },
+        "metadata": {
+            "iso_language_code": "es",
+            "result_type": "recent"
+        },
+        "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 1268624494685544448,
+            "id_str": "1268624494685544448",
+            "name": "Washy",
+            "screen_name": "washy2020",
+            "location": "",
+            "description": "Humilde y super sincero",
+            "url": null,
+            "entities": {
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 23,
+            "friends_count": 130,
+            "listed_count": 0,
+            "created_at": "Thu Jun 04 19:24:25 +0000 2020",
+            "favourites_count": 8,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": false,
+            "verified": false,
+            "statuses_count": 672,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "F5F8FA",
+            "profile_background_image_url": null,
+            "profile_background_image_url_https": null,
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1268624851050401800/o-zWQbWe_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1268624851050401800/o-zWQbWe_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/1268624494685544448/1591300096",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "has_extended_profile": false,
+            "default_profile": true,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none",
+            "withheld_in_countries": []
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 7,
+        "favorite_count": 7,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "es"
+    },
+    "is_quote_status": false,
+    "retweet_count": 7,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "es"
+}

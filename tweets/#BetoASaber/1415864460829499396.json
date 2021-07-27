@@ -1,0 +1,327 @@
+{
+    "created_at": "Fri Jul 16 02:42:47 +0000 2021",
+    "id": 1415864460829499396,
+    "id_str": "1415864460829499396",
+    "full_text": "RT @REVSC5: @danielfolivares\nPara que te enteres\nPa eso fumas??? Para hablar webadas??\nYa pues !!!\n#elpollofarsante\n#BetoASaber\n#BetoOrtiz\u2026",
+    "truncated": false,
+    "display_text_range": [
+        0,
+        139
+    ],
+    "entities": {
+        "hashtags": [
+            {
+                "text": "elpollofarsante",
+                "indices": [
+                    99,
+                    115
+                ]
+            },
+            {
+                "text": "BetoASaber",
+                "indices": [
+                    116,
+                    127
+                ]
+            },
+            {
+                "text": "BetoOrtiz",
+                "indices": [
+                    128,
+                    138
+                ]
+            }
+        ],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "REVSC5",
+                "name": "REVSC 2021",
+                "id": 1328896144160804866,
+                "id_str": "1328896144160804866",
+                "indices": [
+                    3,
+                    10
+                ]
+            },
+            {
+                "screen_name": "danielfolivares",
+                "name": "Daniel Olivares",
+                "id": 266888814,
+                "id_str": "266888814",
+                "indices": [
+                    12,
+                    28
+                ]
+            }
+        ],
+        "urls": []
+    },
+    "metadata": {
+        "iso_language_code": "es",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 1327004599392276480,
+        "id_str": "1327004599392276480",
+        "name": "KARITO",
+        "screen_name": "Karol41",
+        "location": "Peru",
+        "description": "Siempre escuchemos a todas las partes de una historia. Soy una buena caminante \ud83d\udeb6\u200d\u2640\ufe0f",
+        "url": null,
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 32,
+        "friends_count": 210,
+        "listed_count": 0,
+        "created_at": "Thu Nov 12 21:45:37 +0000 2020",
+        "favourites_count": 3744,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 3553,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": null,
+        "profile_background_image_url_https": null,
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1353526940620238848/iL39sDhS_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1353526940620238848/iL39sDhS_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1327004599392276480/1605217805",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": true,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+        "created_at": "Fri Jul 16 02:37:46 +0000 2021",
+        "id": 1415863197194727430,
+        "id_str": "1415863197194727430",
+        "full_text": "@danielfolivares\nPara que te enteres\nPa eso fumas??? Para hablar webadas??\nYa pues !!!\n#elpollofarsante\n#BetoASaber\n#BetoOrtiz https://t.co/3elXGZgnLP",
+        "truncated": false,
+        "display_text_range": [
+            0,
+            126
+        ],
+        "entities": {
+            "hashtags": [
+                {
+                    "text": "elpollofarsante",
+                    "indices": [
+                        87,
+                        103
+                    ]
+                },
+                {
+                    "text": "BetoASaber",
+                    "indices": [
+                        104,
+                        115
+                    ]
+                },
+                {
+                    "text": "BetoOrtiz",
+                    "indices": [
+                        116,
+                        126
+                    ]
+                }
+            ],
+            "symbols": [],
+            "user_mentions": [
+                {
+                    "screen_name": "danielfolivares",
+                    "name": "Daniel Olivares",
+                    "id": 266888814,
+                    "id_str": "266888814",
+                    "indices": [
+                        0,
+                        16
+                    ]
+                }
+            ],
+            "urls": [],
+            "media": [
+                {
+                    "id": 1415863191477829637,
+                    "id_str": "1415863191477829637",
+                    "indices": [
+                        127,
+                        150
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/E6YoEjKWQAUjgfs.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/E6YoEjKWQAUjgfs.jpg",
+                    "url": "https://t.co/3elXGZgnLP",
+                    "display_url": "pic.twitter.com/3elXGZgnLP",
+                    "expanded_url": "https://twitter.com/REVSC5/status/1415863197194727430/photo/1",
+                    "type": "photo",
+                    "sizes": {
+                        "small": {
+                            "w": 680,
+                            "h": 472,
+                            "resize": "fit"
+                        },
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "medium": {
+                            "w": 900,
+                            "h": 625,
+                            "resize": "fit"
+                        },
+                        "large": {
+                            "w": 900,
+                            "h": 625,
+                            "resize": "fit"
+                        }
+                    }
+                }
+            ]
+        },
+        "extended_entities": {
+            "media": [
+                {
+                    "id": 1415863191477829637,
+                    "id_str": "1415863191477829637",
+                    "indices": [
+                        127,
+                        150
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/E6YoEjKWQAUjgfs.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/E6YoEjKWQAUjgfs.jpg",
+                    "url": "https://t.co/3elXGZgnLP",
+                    "display_url": "pic.twitter.com/3elXGZgnLP",
+                    "expanded_url": "https://twitter.com/REVSC5/status/1415863197194727430/photo/1",
+                    "type": "photo",
+                    "sizes": {
+                        "small": {
+                            "w": 680,
+                            "h": 472,
+                            "resize": "fit"
+                        },
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "medium": {
+                            "w": 900,
+                            "h": 625,
+                            "resize": "fit"
+                        },
+                        "large": {
+                            "w": 900,
+                            "h": 625,
+                            "resize": "fit"
+                        }
+                    }
+                }
+            ]
+        },
+        "metadata": {
+            "iso_language_code": "es",
+            "result_type": "recent"
+        },
+        "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": 266888814,
+        "in_reply_to_user_id_str": "266888814",
+        "in_reply_to_screen_name": "danielfolivares",
+        "user": {
+            "id": 1328896144160804866,
+            "id_str": "1328896144160804866",
+            "name": "REVSC 2021",
+            "screen_name": "REVSC5",
+            "location": "Lima, Peru",
+            "description": "PERUANO CON GANAS DE EXPRESARSE...FUERZA PERU.. NO SOLO TIRAR PIEDRAS ES FORMA DE EXPRESION..\ud83c\uddf5\ud83c\uddea.ROCK HISTORIA FUTBOL",
+            "url": null,
+            "entities": {
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 78,
+            "friends_count": 142,
+            "listed_count": 1,
+            "created_at": "Wed Nov 18 03:01:59 +0000 2020",
+            "favourites_count": 4006,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": false,
+            "verified": false,
+            "statuses_count": 3754,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "F5F8FA",
+            "profile_background_image_url": null,
+            "profile_background_image_url_https": null,
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1364206027407769603/4DOhx4v9_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1364206027407769603/4DOhx4v9_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/1328896144160804866/1605670116",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "has_extended_profile": true,
+            "default_profile": true,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none",
+            "withheld_in_countries": []
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 2,
+        "favorite_count": 3,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "es"
+    },
+    "is_quote_status": false,
+    "retweet_count": 2,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "es"
+}

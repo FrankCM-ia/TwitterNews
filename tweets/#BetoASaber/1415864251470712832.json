@@ -1,0 +1,136 @@
+{
+    "created_at": "Fri Jul 16 02:41:57 +0000 2021",
+    "id": 1415864251470712832,
+    "id_str": "1415864251470712832",
+    "full_text": "#RichardMuroSiMeRepresenta Sali\u00f3 a defender la democracia y fue atacado a fierrazos por malditos delincuentes comunistas\nQue #RichardMuro sea un ejemplo para los m\u00e1s j\u00f3venes #LaCalleEsNuestra #SagastiSeJodioElPuebloYaSalio #SagastiGolpistaCTM \n#SagastiGolpistaCTM #BetoASaber",
+    "truncated": false,
+    "display_text_range": [
+        0,
+        275
+    ],
+    "entities": {
+        "hashtags": [
+            {
+                "text": "RichardMuroSiMeRepresenta",
+                "indices": [
+                    0,
+                    26
+                ]
+            },
+            {
+                "text": "RichardMuro",
+                "indices": [
+                    125,
+                    137
+                ]
+            },
+            {
+                "text": "LaCalleEsNuestra",
+                "indices": [
+                    174,
+                    191
+                ]
+            },
+            {
+                "text": "SagastiSeJodioElPuebloYaSalio",
+                "indices": [
+                    192,
+                    222
+                ]
+            },
+            {
+                "text": "SagastiGolpistaCTM",
+                "indices": [
+                    223,
+                    242
+                ]
+            },
+            {
+                "text": "SagastiGolpistaCTM",
+                "indices": [
+                    244,
+                    263
+                ]
+            },
+            {
+                "text": "BetoASaber",
+                "indices": [
+                    264,
+                    275
+                ]
+            }
+        ],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+    },
+    "metadata": {
+        "iso_language_code": "es",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 1357178517625143300,
+        "id_str": "1357178517625143300",
+        "name": "Sampamara",
+        "screen_name": "sampamara",
+        "location": "Lima Per\u00fa",
+        "description": "Presidente electo de la Rep\u00fablica del Per\u00fa (2021-2026) \ud83c\uddf5\ud83c\uddea\nNo me gusta la mermelada ni el caviar\nLa libertad es tu derecho fundamental\nCero a la izquierda!",
+        "url": null,
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 197,
+        "friends_count": 912,
+        "listed_count": 0,
+        "created_at": "Thu Feb 04 04:06:08 +0000 2021",
+        "favourites_count": 4558,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 3288,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": null,
+        "profile_background_image_url_https": null,
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1358281374491439106/c54Idp96_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1358281374491439106/c54Idp96_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1357178517625143300/1617943925",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": true,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 1,
+    "favorite_count": 3,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "es"
+}

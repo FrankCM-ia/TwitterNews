@@ -1,0 +1,269 @@
+{
+    "created_at": "Fri Jul 16 02:18:26 +0000 2021",
+    "id": 1415858330623479814,
+    "id_str": "1415858330623479814",
+    "full_text": "RT @huberpflo: Fiscalia atento, aqu\u00ed esta uno de los agresores a periodista, pertenece al grupo armado de la Pestilencia. \ud83d\ude20\ud83d\ude20\ud83d\ude20 #AlEstiloJuli\u2026",
+    "truncated": false,
+    "display_text_range": [
+        0,
+        140
+    ],
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "huberpflo",
+                "name": "Huberflow",
+                "id": 774397694051749888,
+                "id_str": "774397694051749888",
+                "indices": [
+                    3,
+                    13
+                ]
+            }
+        ],
+        "urls": []
+    },
+    "metadata": {
+        "iso_language_code": "es",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 899129438960537604,
+        "id_str": "899129438960537604",
+        "name": "Gtvo \ud83d\udc3e\ud83c\udf77\ud83c\uddf5\ud83c\uddea",
+        "screen_name": "Gtvo5791",
+        "location": "",
+        "description": "",
+        "url": null,
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 7,
+        "friends_count": 157,
+        "listed_count": 0,
+        "created_at": "Sun Aug 20 04:42:18 +0000 2017",
+        "favourites_count": 289,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 102,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": null,
+        "profile_background_image_url_https": null,
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1404246439992213508/eR1fyWpg_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1404246439992213508/eR1fyWpg_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+        "created_at": "Fri Jul 16 00:49:23 +0000 2021",
+        "id": 1415835923250622470,
+        "id_str": "1415835923250622470",
+        "full_text": "Fiscalia atento, aqu\u00ed esta uno de los agresores a periodista, pertenece al grupo armado de la Pestilencia. \ud83d\ude20\ud83d\ude20\ud83d\ude20 #AlEstiloJuliana https://t.co/WFOVOY1XLp",
+        "truncated": false,
+        "display_text_range": [
+            0,
+            127
+        ],
+        "entities": {
+            "hashtags": [
+                {
+                    "text": "AlEstiloJuliana",
+                    "indices": [
+                        111,
+                        127
+                    ]
+                }
+            ],
+            "symbols": [],
+            "user_mentions": [],
+            "urls": [],
+            "media": [
+                {
+                    "id": 1415835918561333248,
+                    "id_str": "1415835918561333248",
+                    "indices": [
+                        128,
+                        151
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/E6YPRDoWUAAQM0w.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/E6YPRDoWUAAQM0w.jpg",
+                    "url": "https://t.co/WFOVOY1XLp",
+                    "display_url": "pic.twitter.com/WFOVOY1XLp",
+                    "expanded_url": "https://twitter.com/huberpflo/status/1415835923250622470/photo/1",
+                    "type": "photo",
+                    "sizes": {
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "medium": {
+                            "w": 1200,
+                            "h": 900,
+                            "resize": "fit"
+                        },
+                        "small": {
+                            "w": 680,
+                            "h": 510,
+                            "resize": "fit"
+                        },
+                        "large": {
+                            "w": 2048,
+                            "h": 1536,
+                            "resize": "fit"
+                        }
+                    }
+                }
+            ]
+        },
+        "extended_entities": {
+            "media": [
+                {
+                    "id": 1415835918561333248,
+                    "id_str": "1415835918561333248",
+                    "indices": [
+                        128,
+                        151
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/E6YPRDoWUAAQM0w.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/E6YPRDoWUAAQM0w.jpg",
+                    "url": "https://t.co/WFOVOY1XLp",
+                    "display_url": "pic.twitter.com/WFOVOY1XLp",
+                    "expanded_url": "https://twitter.com/huberpflo/status/1415835923250622470/photo/1",
+                    "type": "photo",
+                    "sizes": {
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "medium": {
+                            "w": 1200,
+                            "h": 900,
+                            "resize": "fit"
+                        },
+                        "small": {
+                            "w": 680,
+                            "h": 510,
+                            "resize": "fit"
+                        },
+                        "large": {
+                            "w": 2048,
+                            "h": 1536,
+                            "resize": "fit"
+                        }
+                    }
+                }
+            ]
+        },
+        "metadata": {
+            "iso_language_code": "es",
+            "result_type": "recent"
+        },
+        "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 774397694051749888,
+            "id_str": "774397694051749888",
+            "name": "Huberflow",
+            "screen_name": "huberpflo",
+            "location": "Peru",
+            "description": "SOY CANCERIANO-IRONICO-SARCASTISCO-REALISTA Y SOBRETODO ROMANTICO \ud83e\udd23\ud83e\udd23",
+            "url": null,
+            "entities": {
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 185,
+            "friends_count": 292,
+            "listed_count": 1,
+            "created_at": "Sat Sep 10 00:02:52 +0000 2016",
+            "favourites_count": 6080,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": true,
+            "verified": false,
+            "statuses_count": 34784,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "F5F8FA",
+            "profile_background_image_url": null,
+            "profile_background_image_url_https": null,
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1409734734025003017/eUpAxCje_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1409734734025003017/eUpAxCje_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/774397694051749888/1560106940",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "has_extended_profile": false,
+            "default_profile": true,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none",
+            "withheld_in_countries": []
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 43,
+        "favorite_count": 195,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "es"
+    },
+    "is_quote_status": false,
+    "retweet_count": 43,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "es"
+}

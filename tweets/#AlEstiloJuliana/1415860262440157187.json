@@ -1,0 +1,304 @@
+{
+    "created_at": "Fri Jul 16 02:26:06 +0000 2021",
+    "id": 1415860262440157187,
+    "id_str": "1415860262440157187",
+    "full_text": "RT @moritalima: Toma Porky @rlopezaliaga1, para que te alejes del diablo. El opus te condena jaja. No perdiste el rosario, nunca lo tuviste\u2026",
+    "truncated": false,
+    "display_text_range": [
+        0,
+        140
+    ],
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "moritalima",
+                "name": "Morita",
+                "id": 1187216848045117440,
+                "id_str": "1187216848045117440",
+                "indices": [
+                    3,
+                    14
+                ]
+            },
+            {
+                "screen_name": "rlopezaliaga1",
+                "name": "Rafael L\u00f3pez Aliaga",
+                "id": 2492789645,
+                "id_str": "2492789645",
+                "indices": [
+                    27,
+                    41
+                ]
+            }
+        ],
+        "urls": []
+    },
+    "metadata": {
+        "iso_language_code": "es",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 1201394760033980417,
+        "id_str": "1201394760033980417",
+        "name": "Virus",
+        "screen_name": "virusenzoo",
+        "location": "",
+        "description": "Mis tweets son como los qlos, los tengo en la punta de la lengua.\nTwitter es mi tercera personalidad.\nAntifujimorista hasta los huesos.",
+        "url": "https://t.co/1JnIh1pMz9",
+        "entities": {
+            "url": {
+                "urls": [
+                    {
+                        "url": "https://t.co/1JnIh1pMz9",
+                        "expanded_url": "https://www.instagram.com/virusenzo/",
+                        "display_url": "instagram.com/virusenzo/",
+                        "indices": [
+                            0,
+                            23
+                        ]
+                    }
+                ]
+            },
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 181,
+        "friends_count": 233,
+        "listed_count": 0,
+        "created_at": "Mon Dec 02 06:56:56 +0000 2019",
+        "favourites_count": 4076,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 1618,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": null,
+        "profile_background_image_url_https": null,
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1374970736763408385/0Ej6CJ-V_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1374970736763408385/0Ej6CJ-V_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1201394760033980417/1624040277",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+        "created_at": "Thu Jul 08 02:04:58 +0000 2021",
+        "id": 1412955842001899520,
+        "id_str": "1412955842001899520",
+        "full_text": "Toma Porky @rlopezaliaga1, para que te alejes del diablo. El opus te condena jaja. No perdiste el rosario, nunca lo tuviste extremista y tu mala junta Jorge Montoya. Par de impresentables anti democr\u00e1ticos, se van a quedar solos. #AlEstiloJuliana https://t.co/IZkRak3nH0",
+        "truncated": false,
+        "display_text_range": [
+            0,
+            246
+        ],
+        "entities": {
+            "hashtags": [
+                {
+                    "text": "AlEstiloJuliana",
+                    "indices": [
+                        230,
+                        246
+                    ]
+                }
+            ],
+            "symbols": [],
+            "user_mentions": [
+                {
+                    "screen_name": "rlopezaliaga1",
+                    "name": "Rafael L\u00f3pez Aliaga",
+                    "id": 2492789645,
+                    "id_str": "2492789645",
+                    "indices": [
+                        11,
+                        25
+                    ]
+                }
+            ],
+            "urls": [],
+            "media": [
+                {
+                    "id": 1412955839867068417,
+                    "id_str": "1412955839867068417",
+                    "indices": [
+                        247,
+                        270
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/E5vT2aaXIAELmHI.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/E5vT2aaXIAELmHI.jpg",
+                    "url": "https://t.co/IZkRak3nH0",
+                    "display_url": "pic.twitter.com/IZkRak3nH0",
+                    "expanded_url": "https://twitter.com/moritalima/status/1412955842001899520/photo/1",
+                    "type": "photo",
+                    "sizes": {
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "medium": {
+                            "w": 640,
+                            "h": 480,
+                            "resize": "fit"
+                        },
+                        "small": {
+                            "w": 640,
+                            "h": 480,
+                            "resize": "fit"
+                        },
+                        "large": {
+                            "w": 640,
+                            "h": 480,
+                            "resize": "fit"
+                        }
+                    }
+                }
+            ]
+        },
+        "extended_entities": {
+            "media": [
+                {
+                    "id": 1412955839867068417,
+                    "id_str": "1412955839867068417",
+                    "indices": [
+                        247,
+                        270
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/E5vT2aaXIAELmHI.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/E5vT2aaXIAELmHI.jpg",
+                    "url": "https://t.co/IZkRak3nH0",
+                    "display_url": "pic.twitter.com/IZkRak3nH0",
+                    "expanded_url": "https://twitter.com/moritalima/status/1412955842001899520/photo/1",
+                    "type": "photo",
+                    "sizes": {
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "medium": {
+                            "w": 640,
+                            "h": 480,
+                            "resize": "fit"
+                        },
+                        "small": {
+                            "w": 640,
+                            "h": 480,
+                            "resize": "fit"
+                        },
+                        "large": {
+                            "w": 640,
+                            "h": 480,
+                            "resize": "fit"
+                        }
+                    }
+                }
+            ]
+        },
+        "metadata": {
+            "iso_language_code": "es",
+            "result_type": "recent"
+        },
+        "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 1187216848045117440,
+            "id_str": "1187216848045117440",
+            "name": "Morita",
+            "screen_name": "moritalima",
+            "location": "Lima ",
+            "description": "Comunicadora, ambientalista, cin\u00e9fila. Centro \ud83d\udc9c No despierten mi ira. \ud83d\ude08\ud83c\uddf5\ud83c\uddea",
+            "url": null,
+            "entities": {
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 576,
+            "friends_count": 63,
+            "listed_count": 1,
+            "created_at": "Thu Oct 24 03:58:56 +0000 2019",
+            "favourites_count": 7248,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": false,
+            "verified": false,
+            "statuses_count": 2305,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "F5F8FA",
+            "profile_background_image_url": null,
+            "profile_background_image_url_https": null,
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1415400771894587393/YjMZY8XL_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1415400771894587393/YjMZY8XL_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/1187216848045117440/1625691706",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "has_extended_profile": true,
+            "default_profile": true,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none",
+            "withheld_in_countries": []
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 24,
+        "favorite_count": 190,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "es"
+    },
+    "is_quote_status": false,
+    "retweet_count": 24,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "es"
+}

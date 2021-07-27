@@ -1,0 +1,365 @@
+{
+    "created_at": "Thu Jul 15 05:34:41 +0000 2021",
+    "id": 1415545333229236225,
+    "id_str": "1415545333229236225",
+    "full_text": "RT @963_shaw: Alguien: *Canta una canci\u00f3n de disney*\nYo inmediatamente:\n#LaVozPeru https://t.co/CtVe9d1RcE",
+    "truncated": false,
+    "display_text_range": [
+        0,
+        106
+    ],
+    "entities": {
+        "hashtags": [
+            {
+                "text": "LaVozPeru",
+                "indices": [
+                    72,
+                    82
+                ]
+            }
+        ],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "963_shaw",
+                "name": "~A\ud83e\udde3(Taylor's Version)\ud83e\udde3",
+                "id": 704121604108898304,
+                "id_str": "704121604108898304",
+                "indices": [
+                    3,
+                    12
+                ]
+            }
+        ],
+        "urls": [],
+        "media": [
+            {
+                "id": 1415500376133050371,
+                "id_str": "1415500376133050371",
+                "indices": [
+                    83,
+                    106
+                ],
+                "media_url": "http://pbs.twimg.com/media/E6TeF6rXoAMCJyB.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/E6TeF6rXoAMCJyB.jpg",
+                "url": "https://t.co/CtVe9d1RcE",
+                "display_url": "pic.twitter.com/CtVe9d1RcE",
+                "expanded_url": "https://twitter.com/963_shaw/status/1415500379903733761/photo/1",
+                "type": "photo",
+                "sizes": {
+                    "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                    },
+                    "large": {
+                        "w": 461,
+                        "h": 561,
+                        "resize": "fit"
+                    },
+                    "small": {
+                        "w": 461,
+                        "h": 561,
+                        "resize": "fit"
+                    },
+                    "medium": {
+                        "w": 461,
+                        "h": 561,
+                        "resize": "fit"
+                    }
+                },
+                "source_status_id": 1415500379903733761,
+                "source_status_id_str": "1415500379903733761",
+                "source_user_id": 704121604108898304,
+                "source_user_id_str": "704121604108898304"
+            }
+        ]
+    },
+    "extended_entities": {
+        "media": [
+            {
+                "id": 1415500376133050371,
+                "id_str": "1415500376133050371",
+                "indices": [
+                    83,
+                    106
+                ],
+                "media_url": "http://pbs.twimg.com/media/E6TeF6rXoAMCJyB.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/E6TeF6rXoAMCJyB.jpg",
+                "url": "https://t.co/CtVe9d1RcE",
+                "display_url": "pic.twitter.com/CtVe9d1RcE",
+                "expanded_url": "https://twitter.com/963_shaw/status/1415500379903733761/photo/1",
+                "type": "photo",
+                "sizes": {
+                    "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                    },
+                    "large": {
+                        "w": 461,
+                        "h": 561,
+                        "resize": "fit"
+                    },
+                    "small": {
+                        "w": 461,
+                        "h": 561,
+                        "resize": "fit"
+                    },
+                    "medium": {
+                        "w": 461,
+                        "h": 561,
+                        "resize": "fit"
+                    }
+                },
+                "source_status_id": 1415500379903733761,
+                "source_status_id_str": "1415500379903733761",
+                "source_user_id": 704121604108898304,
+                "source_user_id_str": "704121604108898304"
+            }
+        ]
+    },
+    "metadata": {
+        "iso_language_code": "es",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 1133880141300490240,
+        "id_str": "1133880141300490240",
+        "name": "Jenni \ud83c\uddf5\ud83c\uddea\ud83d\udc9b In The Heights",
+        "screen_name": "lowrossdel",
+        "location": "Run nation ",
+        "description": "\ud83d\udc9b Disney fan ~ Stan HAMILTON , TDE , Laura Marano, Lin~\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 \n \n                            \u2d35 R5'er sis @drunkxhs",
+        "url": null,
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 739,
+        "friends_count": 1084,
+        "listed_count": 12,
+        "created_at": "Wed May 29 23:37:46 +0000 2019",
+        "favourites_count": 42002,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 29262,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": null,
+        "profile_background_image_url_https": null,
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1413912159503978498/LCTNFwxf_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1413912159503978498/LCTNFwxf_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1133880141300490240/1593052186",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": true,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+        "created_at": "Thu Jul 15 02:36:03 +0000 2021",
+        "id": 1415500379903733761,
+        "id_str": "1415500379903733761",
+        "full_text": "Alguien: *Canta una canci\u00f3n de disney*\nYo inmediatamente:\n#LaVozPeru https://t.co/CtVe9d1RcE",
+        "truncated": false,
+        "display_text_range": [
+            0,
+            68
+        ],
+        "entities": {
+            "hashtags": [
+                {
+                    "text": "LaVozPeru",
+                    "indices": [
+                        58,
+                        68
+                    ]
+                }
+            ],
+            "symbols": [],
+            "user_mentions": [],
+            "urls": [],
+            "media": [
+                {
+                    "id": 1415500376133050371,
+                    "id_str": "1415500376133050371",
+                    "indices": [
+                        69,
+                        92
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/E6TeF6rXoAMCJyB.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/E6TeF6rXoAMCJyB.jpg",
+                    "url": "https://t.co/CtVe9d1RcE",
+                    "display_url": "pic.twitter.com/CtVe9d1RcE",
+                    "expanded_url": "https://twitter.com/963_shaw/status/1415500379903733761/photo/1",
+                    "type": "photo",
+                    "sizes": {
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "large": {
+                            "w": 461,
+                            "h": 561,
+                            "resize": "fit"
+                        },
+                        "small": {
+                            "w": 461,
+                            "h": 561,
+                            "resize": "fit"
+                        },
+                        "medium": {
+                            "w": 461,
+                            "h": 561,
+                            "resize": "fit"
+                        }
+                    }
+                }
+            ]
+        },
+        "extended_entities": {
+            "media": [
+                {
+                    "id": 1415500376133050371,
+                    "id_str": "1415500376133050371",
+                    "indices": [
+                        69,
+                        92
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/E6TeF6rXoAMCJyB.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/E6TeF6rXoAMCJyB.jpg",
+                    "url": "https://t.co/CtVe9d1RcE",
+                    "display_url": "pic.twitter.com/CtVe9d1RcE",
+                    "expanded_url": "https://twitter.com/963_shaw/status/1415500379903733761/photo/1",
+                    "type": "photo",
+                    "sizes": {
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "large": {
+                            "w": 461,
+                            "h": 561,
+                            "resize": "fit"
+                        },
+                        "small": {
+                            "w": 461,
+                            "h": 561,
+                            "resize": "fit"
+                        },
+                        "medium": {
+                            "w": 461,
+                            "h": 561,
+                            "resize": "fit"
+                        }
+                    }
+                }
+            ]
+        },
+        "metadata": {
+            "iso_language_code": "es",
+            "result_type": "recent"
+        },
+        "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 704121604108898304,
+            "id_str": "704121604108898304",
+            "name": "~A\ud83e\udde3(Taylor's Version)\ud83e\udde3",
+            "screen_name": "963_shaw",
+            "location": "",
+            "description": "",
+            "url": null,
+            "entities": {
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 192,
+            "friends_count": 555,
+            "listed_count": 2,
+            "created_at": "Mon Feb 29 01:50:47 +0000 2016",
+            "favourites_count": 24699,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": true,
+            "verified": false,
+            "statuses_count": 15314,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "000000",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1337965264630067200/YcZH0rHf_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1337965264630067200/YcZH0rHf_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/704121604108898304/1584820416",
+            "profile_link_color": "981CEB",
+            "profile_sidebar_border_color": "000000",
+            "profile_sidebar_fill_color": "000000",
+            "profile_text_color": "000000",
+            "profile_use_background_image": false,
+            "has_extended_profile": true,
+            "default_profile": false,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none",
+            "withheld_in_countries": []
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 21,
+        "favorite_count": 184,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "es"
+    },
+    "is_quote_status": false,
+    "retweet_count": 21,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "es"
+}

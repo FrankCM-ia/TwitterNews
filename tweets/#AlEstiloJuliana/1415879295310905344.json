@@ -1,0 +1,378 @@
+{
+    "created_at": "Fri Jul 16 03:41:44 +0000 2021",
+    "id": 1415879295310905344,
+    "id_str": "1415879295310905344",
+    "full_text": "RT @AliciaJoseChura: #AlEstiloJuliana que te parece esta noticia #SeguimosEnLaCancha ? https://t.co/hi5sRhXNmp",
+    "truncated": false,
+    "display_text_range": [
+        0,
+        110
+    ],
+    "entities": {
+        "hashtags": [
+            {
+                "text": "AlEstiloJuliana",
+                "indices": [
+                    21,
+                    37
+                ]
+            },
+            {
+                "text": "SeguimosEnLaCancha",
+                "indices": [
+                    65,
+                    84
+                ]
+            }
+        ],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "AliciaJoseChura",
+                "name": "AliciaJoseChura",
+                "id": 1350177309110788097,
+                "id_str": "1350177309110788097",
+                "indices": [
+                    3,
+                    19
+                ]
+            }
+        ],
+        "urls": [],
+        "media": [
+            {
+                "id": 1415873125615554569,
+                "id_str": "1415873125615554569",
+                "indices": [
+                    87,
+                    110
+                ],
+                "media_url": "http://pbs.twimg.com/media/E6YxGytWUAkrklL.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/E6YxGytWUAkrklL.jpg",
+                "url": "https://t.co/hi5sRhXNmp",
+                "display_url": "pic.twitter.com/hi5sRhXNmp",
+                "expanded_url": "https://twitter.com/AliciaJoseChura/status/1415873129809907714/photo/1",
+                "type": "photo",
+                "sizes": {
+                    "large": {
+                        "w": 706,
+                        "h": 500,
+                        "resize": "fit"
+                    },
+                    "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                    },
+                    "medium": {
+                        "w": 706,
+                        "h": 500,
+                        "resize": "fit"
+                    },
+                    "small": {
+                        "w": 680,
+                        "h": 482,
+                        "resize": "fit"
+                    }
+                },
+                "source_status_id": 1415873129809907714,
+                "source_status_id_str": "1415873129809907714",
+                "source_user_id": 1350177309110788097,
+                "source_user_id_str": "1350177309110788097"
+            }
+        ]
+    },
+    "extended_entities": {
+        "media": [
+            {
+                "id": 1415873125615554569,
+                "id_str": "1415873125615554569",
+                "indices": [
+                    87,
+                    110
+                ],
+                "media_url": "http://pbs.twimg.com/media/E6YxGytWUAkrklL.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/E6YxGytWUAkrklL.jpg",
+                "url": "https://t.co/hi5sRhXNmp",
+                "display_url": "pic.twitter.com/hi5sRhXNmp",
+                "expanded_url": "https://twitter.com/AliciaJoseChura/status/1415873129809907714/photo/1",
+                "type": "photo",
+                "sizes": {
+                    "large": {
+                        "w": 706,
+                        "h": 500,
+                        "resize": "fit"
+                    },
+                    "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                    },
+                    "medium": {
+                        "w": 706,
+                        "h": 500,
+                        "resize": "fit"
+                    },
+                    "small": {
+                        "w": 680,
+                        "h": 482,
+                        "resize": "fit"
+                    }
+                },
+                "source_status_id": 1415873129809907714,
+                "source_status_id_str": "1415873129809907714",
+                "source_user_id": 1350177309110788097,
+                "source_user_id_str": "1350177309110788097"
+            }
+        ]
+    },
+    "metadata": {
+        "iso_language_code": "es",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 2287579226,
+        "id_str": "2287579226",
+        "name": "CenseaFiscal",
+        "screen_name": "censea_fiscal",
+        "location": "Cercado de Lima",
+        "description": "Asesoria y Consultoria Contable y Tributaria",
+        "url": null,
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 1465,
+        "friends_count": 279,
+        "listed_count": 6,
+        "created_at": "Sun Jan 12 03:50:18 +0000 2014",
+        "favourites_count": 20446,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 16757,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1173267866474483713/sNZh33Un_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1173267866474483713/sNZh33Un_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2287579226/1568563834",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+        "created_at": "Fri Jul 16 03:17:14 +0000 2021",
+        "id": 1415873129809907714,
+        "id_str": "1415873129809907714",
+        "full_text": "#AlEstiloJuliana que te parece esta noticia #SeguimosEnLaCancha ? https://t.co/hi5sRhXNmp",
+        "truncated": false,
+        "display_text_range": [
+            0,
+            65
+        ],
+        "entities": {
+            "hashtags": [
+                {
+                    "text": "AlEstiloJuliana",
+                    "indices": [
+                        0,
+                        16
+                    ]
+                },
+                {
+                    "text": "SeguimosEnLaCancha",
+                    "indices": [
+                        44,
+                        63
+                    ]
+                }
+            ],
+            "symbols": [],
+            "user_mentions": [],
+            "urls": [],
+            "media": [
+                {
+                    "id": 1415873125615554569,
+                    "id_str": "1415873125615554569",
+                    "indices": [
+                        66,
+                        89
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/E6YxGytWUAkrklL.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/E6YxGytWUAkrklL.jpg",
+                    "url": "https://t.co/hi5sRhXNmp",
+                    "display_url": "pic.twitter.com/hi5sRhXNmp",
+                    "expanded_url": "https://twitter.com/AliciaJoseChura/status/1415873129809907714/photo/1",
+                    "type": "photo",
+                    "sizes": {
+                        "large": {
+                            "w": 706,
+                            "h": 500,
+                            "resize": "fit"
+                        },
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "medium": {
+                            "w": 706,
+                            "h": 500,
+                            "resize": "fit"
+                        },
+                        "small": {
+                            "w": 680,
+                            "h": 482,
+                            "resize": "fit"
+                        }
+                    }
+                }
+            ]
+        },
+        "extended_entities": {
+            "media": [
+                {
+                    "id": 1415873125615554569,
+                    "id_str": "1415873125615554569",
+                    "indices": [
+                        66,
+                        89
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/E6YxGytWUAkrklL.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/E6YxGytWUAkrklL.jpg",
+                    "url": "https://t.co/hi5sRhXNmp",
+                    "display_url": "pic.twitter.com/hi5sRhXNmp",
+                    "expanded_url": "https://twitter.com/AliciaJoseChura/status/1415873129809907714/photo/1",
+                    "type": "photo",
+                    "sizes": {
+                        "large": {
+                            "w": 706,
+                            "h": 500,
+                            "resize": "fit"
+                        },
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "medium": {
+                            "w": 706,
+                            "h": 500,
+                            "resize": "fit"
+                        },
+                        "small": {
+                            "w": 680,
+                            "h": 482,
+                            "resize": "fit"
+                        }
+                    }
+                }
+            ]
+        },
+        "metadata": {
+            "iso_language_code": "es",
+            "result_type": "recent"
+        },
+        "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 1350177309110788097,
+            "id_str": "1350177309110788097",
+            "name": "AliciaJoseChura",
+            "screen_name": "AliciaJoseChura",
+            "location": "",
+            "description": "Simplemente Feliz porque La Vida Es Bella\ud83c\udf3b\ud83c\udf37\ud83c\udf3b\ud83c\udf31",
+            "url": null,
+            "entities": {
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 6,
+            "friends_count": 36,
+            "listed_count": 0,
+            "created_at": "Fri Jan 15 20:26:29 +0000 2021",
+            "favourites_count": 44,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": false,
+            "verified": false,
+            "statuses_count": 74,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "F5F8FA",
+            "profile_background_image_url": null,
+            "profile_background_image_url_https": null,
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1350177883499732992/eQ3thu_z_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1350177883499732992/eQ3thu_z_normal.jpg",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "has_extended_profile": true,
+            "default_profile": true,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none",
+            "withheld_in_countries": []
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 8,
+        "favorite_count": 27,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "es"
+    },
+    "is_quote_status": false,
+    "retweet_count": 8,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "es"
+}

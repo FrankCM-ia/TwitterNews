@@ -1,0 +1,199 @@
+{
+    "created_at": "Thu Jul 15 03:52:39 +0000 2021",
+    "id": 1415519656341819392,
+    "id_str": "1415519656341819392",
+    "full_text": "RT @animalnocturnoZ: Oye la \u00fanica batalla buena fue la de los rockeros, Noah y el otro. Me siento estafado, esperaba m\u00e1s #LaVozPeru",
+    "truncated": false,
+    "display_text_range": [
+        0,
+        131
+    ],
+    "entities": {
+        "hashtags": [
+            {
+                "text": "LaVozPeru",
+                "indices": [
+                    121,
+                    131
+                ]
+            }
+        ],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "animalnocturnoZ",
+                "name": "Jim on the ground \ud83c\udf19\ud83e\udd20",
+                "id": 842600439853981697,
+                "id_str": "842600439853981697",
+                "indices": [
+                    3,
+                    19
+                ]
+            }
+        ],
+        "urls": []
+    },
+    "metadata": {
+        "iso_language_code": "es",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 1407385193602850819,
+        "id_str": "1407385193602850819",
+        "name": "Adriana \ud83c\udf88",
+        "screen_name": "adrimay_13",
+        "location": "",
+        "description": "",
+        "url": null,
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 7,
+        "friends_count": 10,
+        "listed_count": 0,
+        "created_at": "Tue Jun 22 17:09:23 +0000 2021",
+        "favourites_count": 49,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 231,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": null,
+        "profile_background_image_url_https": null,
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1407386039006732288/JZtIEmEm_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1407386039006732288/JZtIEmEm_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1407385193602850819/1624381970",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": true,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+        "created_at": "Thu Jul 15 03:18:31 +0000 2021",
+        "id": 1415511066260430849,
+        "id_str": "1415511066260430849",
+        "full_text": "Oye la \u00fanica batalla buena fue la de los rockeros, Noah y el otro. Me siento estafado, esperaba m\u00e1s #LaVozPeru",
+        "truncated": false,
+        "display_text_range": [
+            0,
+            110
+        ],
+        "entities": {
+            "hashtags": [
+                {
+                    "text": "LaVozPeru",
+                    "indices": [
+                        100,
+                        110
+                    ]
+                }
+            ],
+            "symbols": [],
+            "user_mentions": [],
+            "urls": []
+        },
+        "metadata": {
+            "iso_language_code": "es",
+            "result_type": "recent"
+        },
+        "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 842600439853981697,
+            "id_str": "842600439853981697",
+            "name": "Jim on the ground \ud83c\udf19",
+            "screen_name": "animalnocturnoZ",
+            "location": "HE/HIM  \ud83c\uddf5\ud83c\uddea",
+            "description": "quiero picarones \ud83e\udda5",
+            "url": null,
+            "entities": {
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 815,
+            "friends_count": 781,
+            "listed_count": 2,
+            "created_at": "Fri Mar 17 04:56:14 +0000 2017",
+            "favourites_count": 28103,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": false,
+            "verified": false,
+            "statuses_count": 8357,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "F5F8FA",
+            "profile_background_image_url": null,
+            "profile_background_image_url_https": null,
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1415884135814639622/wlN8N-DG_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1415884135814639622/wlN8N-DG_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/842600439853981697/1626288159",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "has_extended_profile": false,
+            "default_profile": true,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none",
+            "withheld_in_countries": []
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 1,
+        "favorite_count": 0,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "es"
+    },
+    "is_quote_status": false,
+    "retweet_count": 1,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "es"
+}

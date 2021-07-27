@@ -1,0 +1,308 @@
+{
+    "created_at": "Fri Jul 16 02:36:55 +0000 2021",
+    "id": 1415862983520100352,
+    "id_str": "1415862983520100352",
+    "full_text": "RT @AceSalaverry: #BetoASaber \nAl dem\u00f3crata Richard Muro lo atacan las hordas de Per\u00fa libre a la esposa y cu\u00f1ada pero nadie se indigna por\u2026",
+    "truncated": false,
+    "display_text_range": [
+        0,
+        139
+    ],
+    "entities": {
+        "hashtags": [
+            {
+                "text": "BetoASaber",
+                "indices": [
+                    18,
+                    29
+                ]
+            }
+        ],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "AceSalaverry",
+                "name": "Angela Salaverry Ace",
+                "id": 4306868361,
+                "id_str": "4306868361",
+                "indices": [
+                    3,
+                    16
+                ]
+            }
+        ],
+        "urls": []
+    },
+    "metadata": {
+        "iso_language_code": "es",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 1163634654940995584,
+        "id_str": "1163634654940995584",
+        "name": "Doky",
+        "screen_name": "Doky38111283",
+        "location": "",
+        "description": "",
+        "url": null,
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 50,
+        "friends_count": 244,
+        "listed_count": 0,
+        "created_at": "Tue Aug 20 02:12:00 +0000 2019",
+        "favourites_count": 10570,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 8337,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": null,
+        "profile_background_image_url_https": null,
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1198761760964202496/f9rTzgQd_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1198761760964202496/f9rTzgQd_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+        "created_at": "Fri Jul 16 02:29:38 +0000 2021",
+        "id": 1415861149015416849,
+        "id_str": "1415861149015416849",
+        "full_text": "#BetoASaber \nAl dem\u00f3crata Richard Muro lo atacan las hordas de Per\u00fa libre a la esposa y cu\u00f1ada pero nadie se indigna por \u00e9l ni denuncia la @FiscaliaPeru\n@Defensoria_Peru \n@EsSaludPeru \nQue indignaci\u00f3n los comunistas atacan a los dem\u00f3cratas pero nadie sale a defenderlo. https://t.co/MWS4DsurmI",
+        "truncated": false,
+        "display_text_range": [
+            0,
+            269
+        ],
+        "entities": {
+            "hashtags": [
+                {
+                    "text": "BetoASaber",
+                    "indices": [
+                        0,
+                        11
+                    ]
+                }
+            ],
+            "symbols": [],
+            "user_mentions": [
+                {
+                    "screen_name": "FiscaliaPeru",
+                    "name": "Ministerio P\u00fablico",
+                    "id": 302151609,
+                    "id_str": "302151609",
+                    "indices": [
+                        139,
+                        152
+                    ]
+                },
+                {
+                    "screen_name": "Defensoria_Peru",
+                    "name": "Defensor\u00eda Per\u00fa",
+                    "id": 107428718,
+                    "id_str": "107428718",
+                    "indices": [
+                        153,
+                        169
+                    ]
+                },
+                {
+                    "screen_name": "EsSaludPeru",
+                    "name": "EsSalud",
+                    "id": 615541648,
+                    "id_str": "615541648",
+                    "indices": [
+                        171,
+                        183
+                    ]
+                }
+            ],
+            "urls": [],
+            "media": [
+                {
+                    "id": 1415861145500536833,
+                    "id_str": "1415861145500536833",
+                    "indices": [
+                        270,
+                        293
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/E6YmNdTWUAEFu9d.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/E6YmNdTWUAEFu9d.jpg",
+                    "url": "https://t.co/MWS4DsurmI",
+                    "display_url": "pic.twitter.com/MWS4DsurmI",
+                    "expanded_url": "https://twitter.com/AceSalaverry/status/1415861149015416849/photo/1",
+                    "type": "photo",
+                    "sizes": {
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "small": {
+                            "w": 680,
+                            "h": 417,
+                            "resize": "fit"
+                        },
+                        "medium": {
+                            "w": 1200,
+                            "h": 737,
+                            "resize": "fit"
+                        },
+                        "large": {
+                            "w": 2048,
+                            "h": 1257,
+                            "resize": "fit"
+                        }
+                    }
+                }
+            ]
+        },
+        "extended_entities": {
+            "media": [
+                {
+                    "id": 1415861145500536833,
+                    "id_str": "1415861145500536833",
+                    "indices": [
+                        270,
+                        293
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/E6YmNdTWUAEFu9d.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/E6YmNdTWUAEFu9d.jpg",
+                    "url": "https://t.co/MWS4DsurmI",
+                    "display_url": "pic.twitter.com/MWS4DsurmI",
+                    "expanded_url": "https://twitter.com/AceSalaverry/status/1415861149015416849/photo/1",
+                    "type": "photo",
+                    "sizes": {
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "small": {
+                            "w": 680,
+                            "h": 417,
+                            "resize": "fit"
+                        },
+                        "medium": {
+                            "w": 1200,
+                            "h": 737,
+                            "resize": "fit"
+                        },
+                        "large": {
+                            "w": 2048,
+                            "h": 1257,
+                            "resize": "fit"
+                        }
+                    }
+                }
+            ]
+        },
+        "metadata": {
+            "iso_language_code": "es",
+            "result_type": "recent"
+        },
+        "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 4306868361,
+            "id_str": "4306868361",
+            "name": "Angela Salaverry Ace",
+            "screen_name": "AceSalaverry",
+            "location": "",
+            "description": "Dios, Patria y mi familia, anti caviar, anti ideolog\u00eda de g\u00e9nero, pro vida.",
+            "url": null,
+            "entities": {
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 3338,
+            "friends_count": 225,
+            "listed_count": 11,
+            "created_at": "Sat Nov 28 12:13:23 +0000 2015",
+            "favourites_count": 261893,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": true,
+            "verified": false,
+            "statuses_count": 57912,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "C0DEED",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1144802798464356352/WSLLWE4V_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1144802798464356352/WSLLWE4V_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/4306868361/1468462670",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "has_extended_profile": true,
+            "default_profile": true,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none",
+            "withheld_in_countries": []
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 7,
+        "favorite_count": 9,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "es"
+    },
+    "is_quote_status": false,
+    "retweet_count": 7,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "es"
+}

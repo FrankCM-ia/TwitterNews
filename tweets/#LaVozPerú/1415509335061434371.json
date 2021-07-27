@@ -1,0 +1,406 @@
+{
+    "created_at": "Thu Jul 15 03:11:39 +0000 2021",
+    "id": 1415509335061434371,
+    "id_str": "1415509335061434371",
+    "full_text": "RT @LaVozPeruOf: Lucy Young es la ganadora de esta batalla del #EquipoEva \ud83c\udfa4\ud83c\udfb6#LaVozPer\u00fa \n#LasBatallasLaVozPer\u00fa https://t.co/W4vOKwlpnE",
+    "truncated": false,
+    "display_text_range": [
+        0,
+        133
+    ],
+    "entities": {
+        "hashtags": [
+            {
+                "text": "EquipoEva",
+                "indices": [
+                    63,
+                    73
+                ]
+            },
+            {
+                "text": "LaVozPer\u00fa",
+                "indices": [
+                    76,
+                    86
+                ]
+            },
+            {
+                "text": "LasBatallasLaVozPer\u00fa",
+                "indices": [
+                    88,
+                    109
+                ]
+            }
+        ],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "LaVozPeruOf",
+                "name": "La Voz Per\u00fa",
+                "id": 1380630304910622722,
+                "id_str": "1380630304910622722",
+                "indices": [
+                    3,
+                    15
+                ]
+            }
+        ],
+        "urls": [],
+        "media": [
+            {
+                "id": 1415509178140041217,
+                "id_str": "1415509178140041217",
+                "indices": [
+                    110,
+                    133
+                ],
+                "media_url": "http://pbs.twimg.com/media/E6TmGQtXoAE49kS.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/E6TmGQtXoAE49kS.jpg",
+                "url": "https://t.co/W4vOKwlpnE",
+                "display_url": "pic.twitter.com/W4vOKwlpnE",
+                "expanded_url": "https://twitter.com/LaVozPeruOf/status/1415509233492283393/photo/1",
+                "type": "photo",
+                "sizes": {
+                    "medium": {
+                        "w": 1200,
+                        "h": 675,
+                        "resize": "fit"
+                    },
+                    "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                    },
+                    "large": {
+                        "w": 2048,
+                        "h": 1152,
+                        "resize": "fit"
+                    },
+                    "small": {
+                        "w": 680,
+                        "h": 383,
+                        "resize": "fit"
+                    }
+                },
+                "source_status_id": 1415509233492283393,
+                "source_status_id_str": "1415509233492283393",
+                "source_user_id": 1380630304910622722,
+                "source_user_id_str": "1380630304910622722"
+            }
+        ]
+    },
+    "extended_entities": {
+        "media": [
+            {
+                "id": 1415509178140041217,
+                "id_str": "1415509178140041217",
+                "indices": [
+                    110,
+                    133
+                ],
+                "media_url": "http://pbs.twimg.com/media/E6TmGQtXoAE49kS.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/E6TmGQtXoAE49kS.jpg",
+                "url": "https://t.co/W4vOKwlpnE",
+                "display_url": "pic.twitter.com/W4vOKwlpnE",
+                "expanded_url": "https://twitter.com/LaVozPeruOf/status/1415509233492283393/photo/1",
+                "type": "photo",
+                "sizes": {
+                    "medium": {
+                        "w": 1200,
+                        "h": 675,
+                        "resize": "fit"
+                    },
+                    "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                    },
+                    "large": {
+                        "w": 2048,
+                        "h": 1152,
+                        "resize": "fit"
+                    },
+                    "small": {
+                        "w": 680,
+                        "h": 383,
+                        "resize": "fit"
+                    }
+                },
+                "source_status_id": 1415509233492283393,
+                "source_status_id_str": "1415509233492283393",
+                "source_user_id": 1380630304910622722,
+                "source_user_id_str": "1380630304910622722"
+            }
+        ]
+    },
+    "metadata": {
+        "iso_language_code": "es",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 187657372,
+        "id_str": "187657372",
+        "name": "Latina.pe",
+        "screen_name": "Latina_pe",
+        "location": "Lima, Per\u00fa",
+        "description": "#LatinaViveContigo",
+        "url": "https://t.co/nEHp5xnAmd",
+        "entities": {
+            "url": {
+                "urls": [
+                    {
+                        "url": "https://t.co/nEHp5xnAmd",
+                        "expanded_url": "http://www.latina.pe",
+                        "display_url": "latina.pe",
+                        "indices": [
+                            0,
+                            23
+                        ]
+                    }
+                ]
+            },
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 3168169,
+        "friends_count": 540,
+        "listed_count": 3919,
+        "created_at": "Mon Sep 06 20:39:06 +0000 2010",
+        "favourites_count": 7961,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "verified": true,
+        "statuses_count": 234656,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "6000FF",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1409996885016854531/Yi37Itil_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1409996885016854531/Yi37Itil_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/187657372/1617325258",
+        "profile_link_color": "6000FF",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "F0D23C",
+        "profile_text_color": "FFFFFF",
+        "profile_use_background_image": false,
+        "has_extended_profile": false,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+        "created_at": "Thu Jul 15 03:11:14 +0000 2021",
+        "id": 1415509233492283393,
+        "id_str": "1415509233492283393",
+        "full_text": "Lucy Young es la ganadora de esta batalla del #EquipoEva \ud83c\udfa4\ud83c\udfb6#LaVozPer\u00fa \n#LasBatallasLaVozPer\u00fa https://t.co/W4vOKwlpnE",
+        "truncated": false,
+        "display_text_range": [
+            0,
+            92
+        ],
+        "entities": {
+            "hashtags": [
+                {
+                    "text": "EquipoEva",
+                    "indices": [
+                        46,
+                        56
+                    ]
+                },
+                {
+                    "text": "LaVozPer\u00fa",
+                    "indices": [
+                        59,
+                        69
+                    ]
+                },
+                {
+                    "text": "LasBatallasLaVozPer\u00fa",
+                    "indices": [
+                        71,
+                        92
+                    ]
+                }
+            ],
+            "symbols": [],
+            "user_mentions": [],
+            "urls": [],
+            "media": [
+                {
+                    "id": 1415509178140041217,
+                    "id_str": "1415509178140041217",
+                    "indices": [
+                        93,
+                        116
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/E6TmGQtXoAE49kS.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/E6TmGQtXoAE49kS.jpg",
+                    "url": "https://t.co/W4vOKwlpnE",
+                    "display_url": "pic.twitter.com/W4vOKwlpnE",
+                    "expanded_url": "https://twitter.com/LaVozPeruOf/status/1415509233492283393/photo/1",
+                    "type": "photo",
+                    "sizes": {
+                        "medium": {
+                            "w": 1200,
+                            "h": 675,
+                            "resize": "fit"
+                        },
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "large": {
+                            "w": 2048,
+                            "h": 1152,
+                            "resize": "fit"
+                        },
+                        "small": {
+                            "w": 680,
+                            "h": 383,
+                            "resize": "fit"
+                        }
+                    }
+                }
+            ]
+        },
+        "extended_entities": {
+            "media": [
+                {
+                    "id": 1415509178140041217,
+                    "id_str": "1415509178140041217",
+                    "indices": [
+                        93,
+                        116
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/E6TmGQtXoAE49kS.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/E6TmGQtXoAE49kS.jpg",
+                    "url": "https://t.co/W4vOKwlpnE",
+                    "display_url": "pic.twitter.com/W4vOKwlpnE",
+                    "expanded_url": "https://twitter.com/LaVozPeruOf/status/1415509233492283393/photo/1",
+                    "type": "photo",
+                    "sizes": {
+                        "medium": {
+                            "w": 1200,
+                            "h": 675,
+                            "resize": "fit"
+                        },
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "large": {
+                            "w": 2048,
+                            "h": 1152,
+                            "resize": "fit"
+                        },
+                        "small": {
+                            "w": 680,
+                            "h": 383,
+                            "resize": "fit"
+                        }
+                    }
+                }
+            ]
+        },
+        "metadata": {
+            "iso_language_code": "es",
+            "result_type": "recent"
+        },
+        "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 1380630304910622722,
+            "id_str": "1380630304910622722",
+            "name": "La Voz Per\u00fa",
+            "screen_name": "LaVozPeruOf",
+            "location": "",
+            "description": "Prep\u00e1rate para el mejor show en #LaVozPer\u00fa por @latina_pe \n#ViveContigo",
+            "url": null,
+            "entities": {
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 1867,
+            "friends_count": 4,
+            "listed_count": 2,
+            "created_at": "Fri Apr 09 21:15:25 +0000 2021",
+            "favourites_count": 21,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": false,
+            "verified": false,
+            "statuses_count": 111,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "F5F8FA",
+            "profile_background_image_url": null,
+            "profile_background_image_url_https": null,
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1406050710328840192/zgjk95LC_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1406050710328840192/zgjk95LC_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/1380630304910622722/1623810327",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "has_extended_profile": true,
+            "default_profile": true,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none",
+            "withheld_in_countries": []
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 2,
+        "favorite_count": 57,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "es"
+    },
+    "is_quote_status": false,
+    "retweet_count": 2,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "es"
+}

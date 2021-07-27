@@ -1,0 +1,115 @@
+{
+    "created_at": "Thu Jul 15 03:06:56 +0000 2021",
+    "id": 1415508147993776130,
+    "id_str": "1415508147993776130",
+    "full_text": "@daiunoegarcia @BTS_twt Yo pensando que es la #lavozper\u00fa \ud83e\udd7a F",
+    "truncated": false,
+    "display_text_range": [
+        24,
+        60
+    ],
+    "entities": {
+        "hashtags": [
+            {
+                "text": "lavozper\u00fa",
+                "indices": [
+                    46,
+                    56
+                ]
+            }
+        ],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "daiunoegarcia",
+                "name": "~~\ud835\udd6f\ud835\udd86\ud835\udd8e\ud835\udd9a\ud83c\udfd6\u1d2e\u1d58\u1d57\u1d57\u1d49\u02b3\u27ed\u27ec \u1d2e\u1d31 \u2077~\ub2e4\uc57c\ub098~\u2661\ud83c\udde6\ud83c\uddf7",
+                "id": 1316000664170967042,
+                "id_str": "1316000664170967042",
+                "indices": [
+                    0,
+                    14
+                ]
+            },
+            {
+                "screen_name": "BTS_twt",
+                "name": "\ubc29\ud0c4\uc18c\ub144\ub2e8",
+                "id": 335141638,
+                "id_str": "335141638",
+                "indices": [
+                    15,
+                    23
+                ]
+            }
+        ],
+        "urls": []
+    },
+    "metadata": {
+        "iso_language_code": "es",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "in_reply_to_status_id": 1415489615985790976,
+    "in_reply_to_status_id_str": "1415489615985790976",
+    "in_reply_to_user_id": 1316000664170967042,
+    "in_reply_to_user_id_str": "1316000664170967042",
+    "in_reply_to_screen_name": "daiunoegarcia",
+    "user": {
+        "id": 1413700933993877505,
+        "id_str": "1413700933993877505",
+        "name": "\u2666\ufe0f\ud83c\udd7a\ud83c\udd78\ud83c\udd7c\ud83c\udd76\ud83c\udd70\ud83c\udd71\ud83c\udd84\ud83d\udc51",
+        "screen_name": "bts_x_gaby7",
+        "location": "",
+        "description": "Sigo a mis tannies \ud83d\udc9c",
+        "url": null,
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 2,
+        "friends_count": 12,
+        "listed_count": 0,
+        "created_at": "Sat Jul 10 03:26:14 +0000 2021",
+        "favourites_count": 2073,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 379,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": null,
+        "profile_background_image_url_https": null,
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1415077035408494592/5Ngr9MKb_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1415077035408494592/5Ngr9MKb_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1413700933993877505/1626115189",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": true,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 3,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "es"
+}

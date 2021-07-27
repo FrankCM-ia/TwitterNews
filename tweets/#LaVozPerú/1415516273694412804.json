@@ -1,0 +1,365 @@
+{
+    "created_at": "Thu Jul 15 03:39:13 +0000 2021",
+    "id": 1415516273694412804,
+    "id_str": "1415516273694412804",
+    "full_text": "RT @margguk: QUE LINDO LE HABL\u00d3 MAURI A SEBAS, MAURI TE AMO #LaVozPeru https://t.co/xGgsmzAgjY",
+    "truncated": false,
+    "display_text_range": [
+        0,
+        94
+    ],
+    "entities": {
+        "hashtags": [
+            {
+                "text": "LaVozPeru",
+                "indices": [
+                    60,
+                    70
+                ]
+            }
+        ],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "margguk",
+                "name": "\ud835\udd10\ud835\udd1e\ud835\udd2f\ud835\udd26\ud835\udd20\ud835\udd26\ud835\udd22\ud835\udd29\ud835\udd2c \u1d2e\u1d31 \u2077 \ud83c\uddf5\ud83c\uddea",
+                "id": 800512763025948672,
+                "id_str": "800512763025948672",
+                "indices": [
+                    3,
+                    11
+                ]
+            }
+        ],
+        "urls": [],
+        "media": [
+            {
+                "id": 1415502430557589507,
+                "id_str": "1415502430557589507",
+                "indices": [
+                    71,
+                    94
+                ],
+                "media_url": "http://pbs.twimg.com/media/E6Tf9gAWUAMv1EC.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/E6Tf9gAWUAMv1EC.jpg",
+                "url": "https://t.co/xGgsmzAgjY",
+                "display_url": "pic.twitter.com/xGgsmzAgjY",
+                "expanded_url": "https://twitter.com/margguk/status/1415502435389476875/photo/1",
+                "type": "photo",
+                "sizes": {
+                    "large": {
+                        "w": 639,
+                        "h": 480,
+                        "resize": "fit"
+                    },
+                    "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                    },
+                    "small": {
+                        "w": 639,
+                        "h": 480,
+                        "resize": "fit"
+                    },
+                    "medium": {
+                        "w": 639,
+                        "h": 480,
+                        "resize": "fit"
+                    }
+                },
+                "source_status_id": 1415502435389476875,
+                "source_status_id_str": "1415502435389476875",
+                "source_user_id": 800512763025948672,
+                "source_user_id_str": "800512763025948672"
+            }
+        ]
+    },
+    "extended_entities": {
+        "media": [
+            {
+                "id": 1415502430557589507,
+                "id_str": "1415502430557589507",
+                "indices": [
+                    71,
+                    94
+                ],
+                "media_url": "http://pbs.twimg.com/media/E6Tf9gAWUAMv1EC.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/E6Tf9gAWUAMv1EC.jpg",
+                "url": "https://t.co/xGgsmzAgjY",
+                "display_url": "pic.twitter.com/xGgsmzAgjY",
+                "expanded_url": "https://twitter.com/margguk/status/1415502435389476875/photo/1",
+                "type": "photo",
+                "sizes": {
+                    "large": {
+                        "w": 639,
+                        "h": 480,
+                        "resize": "fit"
+                    },
+                    "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                    },
+                    "small": {
+                        "w": 639,
+                        "h": 480,
+                        "resize": "fit"
+                    },
+                    "medium": {
+                        "w": 639,
+                        "h": 480,
+                        "resize": "fit"
+                    }
+                },
+                "source_status_id": 1415502435389476875,
+                "source_status_id_str": "1415502435389476875",
+                "source_user_id": 800512763025948672,
+                "source_user_id_str": "800512763025948672"
+            }
+        ]
+    },
+    "metadata": {
+        "iso_language_code": "es",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 1384975921346752520,
+        "id_str": "1384975921346752520",
+        "name": "ale_dreamer\ud83c\uddf5\ud83c\uddea",
+        "screen_name": "AcasiAlely",
+        "location": "Cusco, Peru",
+        "description": "#MIA\nHoy es el cumplea\u00f1os de la princesa del pop latino... si hablo de Danna Paola.\ud83e\udd73\ud83e\udd7a\ud83c\udf89",
+        "url": null,
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 29,
+        "friends_count": 99,
+        "listed_count": 0,
+        "created_at": "Wed Apr 21 21:03:02 +0000 2021",
+        "favourites_count": 3806,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 928,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": null,
+        "profile_background_image_url_https": null,
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1407561332061360130/LMuH0nlW_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1407561332061360130/LMuH0nlW_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1384975921346752520/1624424326",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": true,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+        "created_at": "Thu Jul 15 02:44:14 +0000 2021",
+        "id": 1415502435389476875,
+        "id_str": "1415502435389476875",
+        "full_text": "QUE LINDO LE HABL\u00d3 MAURI A SEBAS, MAURI TE AMO #LaVozPeru https://t.co/xGgsmzAgjY",
+        "truncated": false,
+        "display_text_range": [
+            0,
+            57
+        ],
+        "entities": {
+            "hashtags": [
+                {
+                    "text": "LaVozPeru",
+                    "indices": [
+                        47,
+                        57
+                    ]
+                }
+            ],
+            "symbols": [],
+            "user_mentions": [],
+            "urls": [],
+            "media": [
+                {
+                    "id": 1415502430557589507,
+                    "id_str": "1415502430557589507",
+                    "indices": [
+                        58,
+                        81
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/E6Tf9gAWUAMv1EC.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/E6Tf9gAWUAMv1EC.jpg",
+                    "url": "https://t.co/xGgsmzAgjY",
+                    "display_url": "pic.twitter.com/xGgsmzAgjY",
+                    "expanded_url": "https://twitter.com/margguk/status/1415502435389476875/photo/1",
+                    "type": "photo",
+                    "sizes": {
+                        "large": {
+                            "w": 639,
+                            "h": 480,
+                            "resize": "fit"
+                        },
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "small": {
+                            "w": 639,
+                            "h": 480,
+                            "resize": "fit"
+                        },
+                        "medium": {
+                            "w": 639,
+                            "h": 480,
+                            "resize": "fit"
+                        }
+                    }
+                }
+            ]
+        },
+        "extended_entities": {
+            "media": [
+                {
+                    "id": 1415502430557589507,
+                    "id_str": "1415502430557589507",
+                    "indices": [
+                        58,
+                        81
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/E6Tf9gAWUAMv1EC.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/E6Tf9gAWUAMv1EC.jpg",
+                    "url": "https://t.co/xGgsmzAgjY",
+                    "display_url": "pic.twitter.com/xGgsmzAgjY",
+                    "expanded_url": "https://twitter.com/margguk/status/1415502435389476875/photo/1",
+                    "type": "photo",
+                    "sizes": {
+                        "large": {
+                            "w": 639,
+                            "h": 480,
+                            "resize": "fit"
+                        },
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "small": {
+                            "w": 639,
+                            "h": 480,
+                            "resize": "fit"
+                        },
+                        "medium": {
+                            "w": 639,
+                            "h": 480,
+                            "resize": "fit"
+                        }
+                    }
+                }
+            ]
+        },
+        "metadata": {
+            "iso_language_code": "es",
+            "result_type": "recent"
+        },
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 800512763025948672,
+            "id_str": "800512763025948672",
+            "name": "\ud835\udd10\ud835\udd1e\ud835\udd2f\ud835\udd26\ud835\udd20\ud835\udd26\ud835\udd22\ud835\udd29\ud835\udd2c \u1d2e\u1d31 \u2077 \ud83c\uddf5\ud83c\uddea",
+            "screen_name": "margguk",
+            "location": "",
+            "description": "",
+            "url": null,
+            "entities": {
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 89,
+            "friends_count": 454,
+            "listed_count": 0,
+            "created_at": "Mon Nov 21 01:34:50 +0000 2016",
+            "favourites_count": 48147,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": false,
+            "verified": false,
+            "statuses_count": 8117,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "F5F8FA",
+            "profile_background_image_url": null,
+            "profile_background_image_url_https": null,
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1396640443874557955/YrYkr1MR_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1396640443874557955/YrYkr1MR_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/800512763025948672/1585590814",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "has_extended_profile": false,
+            "default_profile": true,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none",
+            "withheld_in_countries": []
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 10,
+        "favorite_count": 95,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "es"
+    },
+    "is_quote_status": false,
+    "retweet_count": 10,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "es"
+}

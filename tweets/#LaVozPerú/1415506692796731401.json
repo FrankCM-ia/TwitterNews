@@ -1,0 +1,172 @@
+{
+    "created_at": "Thu Jul 15 03:01:09 +0000 2021",
+    "id": 1415506692796731401,
+    "id_str": "1415506692796731401",
+    "full_text": "Ya tenemos devuelta a Mauri pero me falta \u00c1ngel L\u00f3pez \ud83d\udc94 #LaVozPeru https://t.co/I04UpD3nLD",
+    "truncated": false,
+    "display_text_range": [
+        0,
+        66
+    ],
+    "entities": {
+        "hashtags": [
+            {
+                "text": "LaVozPeru",
+                "indices": [
+                    56,
+                    66
+                ]
+            }
+        ],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [],
+        "media": [
+            {
+                "id": 1415506688610811910,
+                "id_str": "1415506688610811910",
+                "indices": [
+                    67,
+                    90
+                ],
+                "media_url": "http://pbs.twimg.com/media/E6Tj1WfWQAYPUrn.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/E6Tj1WfWQAYPUrn.jpg",
+                "url": "https://t.co/I04UpD3nLD",
+                "display_url": "pic.twitter.com/I04UpD3nLD",
+                "expanded_url": "https://twitter.com/kileyzqi/status/1415506692796731401/photo/1",
+                "type": "photo",
+                "sizes": {
+                    "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                    },
+                    "small": {
+                        "w": 528,
+                        "h": 680,
+                        "resize": "fit"
+                    },
+                    "medium": {
+                        "w": 600,
+                        "h": 772,
+                        "resize": "fit"
+                    },
+                    "large": {
+                        "w": 600,
+                        "h": 772,
+                        "resize": "fit"
+                    }
+                }
+            }
+        ]
+    },
+    "extended_entities": {
+        "media": [
+            {
+                "id": 1415506688610811910,
+                "id_str": "1415506688610811910",
+                "indices": [
+                    67,
+                    90
+                ],
+                "media_url": "http://pbs.twimg.com/media/E6Tj1WfWQAYPUrn.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/E6Tj1WfWQAYPUrn.jpg",
+                "url": "https://t.co/I04UpD3nLD",
+                "display_url": "pic.twitter.com/I04UpD3nLD",
+                "expanded_url": "https://twitter.com/kileyzqi/status/1415506692796731401/photo/1",
+                "type": "photo",
+                "sizes": {
+                    "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                    },
+                    "small": {
+                        "w": 528,
+                        "h": 680,
+                        "resize": "fit"
+                    },
+                    "medium": {
+                        "w": 600,
+                        "h": 772,
+                        "resize": "fit"
+                    },
+                    "large": {
+                        "w": 600,
+                        "h": 772,
+                        "resize": "fit"
+                    }
+                }
+            }
+        ]
+    },
+    "metadata": {
+        "iso_language_code": "es",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 1327859706900205568,
+        "id_str": "1327859706900205568",
+        "name": "mileyzqi",
+        "screen_name": "kileyzqi",
+        "location": "",
+        "description": "no veo la hora de escapar de mi pa\u00eds. ~~. \ud83c\uddf5\ud83c\uddea",
+        "url": null,
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 4,
+        "friends_count": 30,
+        "listed_count": 0,
+        "created_at": "Sun Nov 15 06:23:36 +0000 2020",
+        "favourites_count": 1005,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 294,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": null,
+        "profile_background_image_url_https": null,
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1354585736985665536/Enb5-Wvm_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1354585736985665536/Enb5-Wvm_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": true,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 19,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": true,
+    "lang": "es"
+}

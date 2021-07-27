@@ -1,0 +1,312 @@
+{
+    "created_at": "Fri Jul 16 02:24:46 +0000 2021",
+    "id": 1415859924517769220,
+    "id_str": "1415859924517769220",
+    "full_text": "RT @willaxtv: #BetoASaber | Beto Ortiz: Mira esos ojos reventados, Daniel Olivares.\n\nEn vivo https://t.co/4AJELMLOQ2    \nClaroTV: C12\nMovis\u2026",
+    "truncated": false,
+    "display_text_range": [
+        0,
+        140
+    ],
+    "entities": {
+        "hashtags": [
+            {
+                "text": "BetoASaber",
+                "indices": [
+                    14,
+                    25
+                ]
+            }
+        ],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "willaxtv",
+                "name": "Willax Televisi\u00f3n",
+                "id": 38512990,
+                "id_str": "38512990",
+                "indices": [
+                    3,
+                    12
+                ]
+            }
+        ],
+        "urls": [
+            {
+                "url": "https://t.co/4AJELMLOQ2",
+                "expanded_url": "https://willax.tv/en-vivo/",
+                "display_url": "willax.tv/en-vivo/",
+                "indices": [
+                    93,
+                    116
+                ]
+            }
+        ]
+    },
+    "metadata": {
+        "iso_language_code": "es",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 2787344043,
+        "id_str": "2787344043",
+        "name": "Luis Roman\u00ed \ud83c\uddf5\ud83c\uddea\u00a0\ud83c\uddf2\ud83c\uddfd",
+        "screen_name": "luisromani11",
+        "location": "Lima, Per\u00fa",
+        "description": "Hincha del Club Universitario De Deportes @Universitario y del Club Deportivo Guadalajara @Chivas .... \ud83c\uddf5\ud83c\uddea\u00a0\ud83c\uddf2\ud83c\uddfd",
+        "url": null,
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 311,
+        "friends_count": 3388,
+        "listed_count": 0,
+        "created_at": "Sat Sep 27 16:29:18 +0000 2014",
+        "favourites_count": 4633,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 34590,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1383071543702532100/N83MZlM6_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1383071543702532100/N83MZlM6_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2787344043/1529758189",
+        "profile_link_color": "E81C4F",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "profile_use_background_image": false,
+        "has_extended_profile": true,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+        "created_at": "Fri Jul 16 02:19:04 +0000 2021",
+        "id": 1415858490522931204,
+        "id_str": "1415858490522931204",
+        "full_text": "#BetoASaber | Beto Ortiz: Mira esos ojos reventados, Daniel Olivares.\n\nEn vivo https://t.co/4AJELMLOQ2    \nClaroTV: C12\nMovistarTV: C16\nDirecTV: C1191\nBestCable C8 https://t.co/ow6m0WpvKO",
+        "truncated": false,
+        "display_text_range": [
+            0,
+            163
+        ],
+        "entities": {
+            "hashtags": [
+                {
+                    "text": "BetoASaber",
+                    "indices": [
+                        0,
+                        11
+                    ]
+                }
+            ],
+            "symbols": [],
+            "user_mentions": [],
+            "urls": [
+                {
+                    "url": "https://t.co/4AJELMLOQ2",
+                    "expanded_url": "https://willax.tv/en-vivo/",
+                    "display_url": "willax.tv/en-vivo/",
+                    "indices": [
+                        79,
+                        102
+                    ]
+                }
+            ],
+            "media": [
+                {
+                    "id": 1415858383014539268,
+                    "id_str": "1415858383014539268",
+                    "indices": [
+                        164,
+                        187
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/E6YjsqPXMAQB9p_.png",
+                    "media_url_https": "https://pbs.twimg.com/media/E6YjsqPXMAQB9p_.png",
+                    "url": "https://t.co/ow6m0WpvKO",
+                    "display_url": "pic.twitter.com/ow6m0WpvKO",
+                    "expanded_url": "https://twitter.com/willaxtv/status/1415858490522931204/photo/1",
+                    "type": "photo",
+                    "sizes": {
+                        "medium": {
+                            "w": 679,
+                            "h": 373,
+                            "resize": "fit"
+                        },
+                        "small": {
+                            "w": 679,
+                            "h": 373,
+                            "resize": "fit"
+                        },
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "large": {
+                            "w": 679,
+                            "h": 373,
+                            "resize": "fit"
+                        }
+                    }
+                }
+            ]
+        },
+        "extended_entities": {
+            "media": [
+                {
+                    "id": 1415858383014539268,
+                    "id_str": "1415858383014539268",
+                    "indices": [
+                        164,
+                        187
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/E6YjsqPXMAQB9p_.png",
+                    "media_url_https": "https://pbs.twimg.com/media/E6YjsqPXMAQB9p_.png",
+                    "url": "https://t.co/ow6m0WpvKO",
+                    "display_url": "pic.twitter.com/ow6m0WpvKO",
+                    "expanded_url": "https://twitter.com/willaxtv/status/1415858490522931204/photo/1",
+                    "type": "photo",
+                    "sizes": {
+                        "medium": {
+                            "w": 679,
+                            "h": 373,
+                            "resize": "fit"
+                        },
+                        "small": {
+                            "w": 679,
+                            "h": 373,
+                            "resize": "fit"
+                        },
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "large": {
+                            "w": 679,
+                            "h": 373,
+                            "resize": "fit"
+                        }
+                    }
+                }
+            ]
+        },
+        "metadata": {
+            "iso_language_code": "es",
+            "result_type": "recent"
+        },
+        "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 38512990,
+            "id_str": "38512990",
+            "name": "Willax Televisi\u00f3n",
+            "screen_name": "willaxtv",
+            "location": "Lima, Peru",
+            "description": "Canal peruano: Se\u00f1al abierta DIGITAL 1.1 | MovistarTV C16 | DirecTV 1191 | ClaroTV C12  | BestCable C8 | 250+ cableoperadores a nivel nacional.",
+            "url": "https://t.co/NNUraKfCkP",
+            "entities": {
+                "url": {
+                    "urls": [
+                        {
+                            "url": "https://t.co/NNUraKfCkP",
+                            "expanded_url": "http://willax.tv",
+                            "display_url": "willax.tv",
+                            "indices": [
+                                0,
+                                23
+                            ]
+                        }
+                    ]
+                },
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 407559,
+            "friends_count": 895,
+            "listed_count": 1002,
+            "created_at": "Thu May 07 20:45:07 +0000 2009",
+            "favourites_count": 4909,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": false,
+            "verified": false,
+            "statuses_count": 123829,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "131516",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1211698998807011332/E8t5u8Nk_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1211698998807011332/E8t5u8Nk_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/38512990/1624760073",
+            "profile_link_color": "FAB81E",
+            "profile_sidebar_border_color": "FFFFFF",
+            "profile_sidebar_fill_color": "E6E6E6",
+            "profile_text_color": "6B6B6B",
+            "profile_use_background_image": true,
+            "has_extended_profile": false,
+            "default_profile": false,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none",
+            "withheld_in_countries": []
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 58,
+        "favorite_count": 134,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "es"
+    },
+    "is_quote_status": false,
+    "retweet_count": 58,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "es"
+}

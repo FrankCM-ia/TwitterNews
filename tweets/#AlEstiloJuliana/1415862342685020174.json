@@ -1,0 +1,285 @@
+{
+    "created_at": "Fri Jul 16 02:34:22 +0000 2021",
+    "id": 1415862342685020174,
+    "id_str": "1415862342685020174",
+    "full_text": "RT @ivnvc: Y en #AlEstiloJuliana una reportera mermelera hizo hora y drama porque le pusieron una bandera. Esos mermeleros fueron a prop\u00f3si\u2026",
+    "truncated": false,
+    "display_text_range": [
+        0,
+        140
+    ],
+    "entities": {
+        "hashtags": [
+            {
+                "text": "AlEstiloJuliana",
+                "indices": [
+                    16,
+                    32
+                ]
+            }
+        ],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "ivnvc",
+                "name": "Ivan Villanueva",
+                "id": 382786670,
+                "id_str": "382786670",
+                "indices": [
+                    3,
+                    9
+                ]
+            }
+        ],
+        "urls": []
+    },
+    "metadata": {
+        "iso_language_code": "es",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 791471949897666560,
+        "id_str": "791471949897666560",
+        "name": "Lu_Colme",
+        "screen_name": "lucrecolmenares",
+        "location": "Lima, Peru",
+        "description": "Soy la Presidenta electa del Per\u00fa (2021-2026) gracias a todos los votos fantasmas que logre conseguir",
+        "url": null,
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 1172,
+        "friends_count": 2360,
+        "listed_count": 0,
+        "created_at": "Thu Oct 27 02:49:52 +0000 2016",
+        "favourites_count": 94864,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 83743,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1379165328966565894/mHl3TMHG_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1379165328966565894/mHl3TMHG_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/791471949897666560/1623181088",
+        "profile_link_color": "1B95E0",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "profile_use_background_image": false,
+        "has_extended_profile": false,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+        "created_at": "Fri Jul 16 01:50:30 +0000 2021",
+        "id": 1415851304665194502,
+        "id_str": "1415851304665194502",
+        "full_text": "Y en #AlEstiloJuliana una reportera mermelera hizo hora y drama porque le pusieron una bandera. Esos mermeleros fueron a prop\u00f3sito a hacerse las \"vistimas\".\n#SagastiGolpistaCTM as\u00ed qued\u00f3 el adulto mayor luego de la agresi\u00f3n de las bestias de Per\u00fa Libre. https://t.co/ByyPHbxcNz",
+        "truncated": false,
+        "display_text_range": [
+            0,
+            253
+        ],
+        "entities": {
+            "hashtags": [
+                {
+                    "text": "AlEstiloJuliana",
+                    "indices": [
+                        5,
+                        21
+                    ]
+                },
+                {
+                    "text": "SagastiGolpistaCTM",
+                    "indices": [
+                        157,
+                        176
+                    ]
+                }
+            ],
+            "symbols": [],
+            "user_mentions": [],
+            "urls": [],
+            "media": [
+                {
+                    "id": 1415850656037015553,
+                    "id_str": "1415850656037015553",
+                    "indices": [
+                        254,
+                        277
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/E6Ycq5AXEAEUDGa.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/E6Ycq5AXEAEUDGa.jpg",
+                    "url": "https://t.co/ByyPHbxcNz",
+                    "display_url": "pic.twitter.com/ByyPHbxcNz",
+                    "expanded_url": "https://twitter.com/ivnvc/status/1415851304665194502/photo/1",
+                    "type": "photo",
+                    "sizes": {
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "small": {
+                            "w": 384,
+                            "h": 680,
+                            "resize": "fit"
+                        },
+                        "large": {
+                            "w": 578,
+                            "h": 1024,
+                            "resize": "fit"
+                        },
+                        "medium": {
+                            "w": 578,
+                            "h": 1024,
+                            "resize": "fit"
+                        }
+                    }
+                }
+            ]
+        },
+        "extended_entities": {
+            "media": [
+                {
+                    "id": 1415850656037015553,
+                    "id_str": "1415850656037015553",
+                    "indices": [
+                        254,
+                        277
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/E6Ycq5AXEAEUDGa.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/E6Ycq5AXEAEUDGa.jpg",
+                    "url": "https://t.co/ByyPHbxcNz",
+                    "display_url": "pic.twitter.com/ByyPHbxcNz",
+                    "expanded_url": "https://twitter.com/ivnvc/status/1415851304665194502/photo/1",
+                    "type": "photo",
+                    "sizes": {
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "small": {
+                            "w": 384,
+                            "h": 680,
+                            "resize": "fit"
+                        },
+                        "large": {
+                            "w": 578,
+                            "h": 1024,
+                            "resize": "fit"
+                        },
+                        "medium": {
+                            "w": 578,
+                            "h": 1024,
+                            "resize": "fit"
+                        }
+                    }
+                }
+            ]
+        },
+        "metadata": {
+            "iso_language_code": "es",
+            "result_type": "recent"
+        },
+        "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 382786670,
+            "id_str": "382786670",
+            "name": "Ivan Villanueva",
+            "screen_name": "ivnvc",
+            "location": "Lima",
+            "description": "Escribo lo que otros no quieren escribir. #UNI #MTUCI",
+            "url": null,
+            "entities": {
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 696,
+            "friends_count": 550,
+            "listed_count": 0,
+            "created_at": "Fri Sep 30 17:46:04 +0000 2011",
+            "favourites_count": 66050,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": false,
+            "verified": false,
+            "statuses_count": 117450,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "000000",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/913116071028252672/UNaYd8sZ_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/913116071028252672/UNaYd8sZ_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/382786670/1610417085",
+            "profile_link_color": "1B95E0",
+            "profile_sidebar_border_color": "000000",
+            "profile_sidebar_fill_color": "000000",
+            "profile_text_color": "000000",
+            "profile_use_background_image": false,
+            "has_extended_profile": false,
+            "default_profile": false,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none",
+            "withheld_in_countries": []
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 8,
+        "favorite_count": 14,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "es"
+    },
+    "is_quote_status": false,
+    "retweet_count": 8,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "es"
+}

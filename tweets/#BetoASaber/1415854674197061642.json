@@ -1,0 +1,292 @@
+{
+    "created_at": "Fri Jul 16 02:03:54 +0000 2021",
+    "id": 1415854674197061642,
+    "id_str": "1415854674197061642",
+    "full_text": "RT @Jull230: #BetoASaber le pegaron con un machete palos y tubos de construcci\u00f3n al adulto mayor Muro \n\nDesgraciado \n#Sagastidictador https\u2026",
+    "truncated": false,
+    "display_text_range": [
+        0,
+        140
+    ],
+    "entities": {
+        "hashtags": [
+            {
+                "text": "BetoASaber",
+                "indices": [
+                    13,
+                    24
+                ]
+            },
+            {
+                "text": "Sagastidictador",
+                "indices": [
+                    117,
+                    133
+                ]
+            }
+        ],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "Jull230",
+                "name": "Juliana L.",
+                "id": 2243403758,
+                "id_str": "2243403758",
+                "indices": [
+                    3,
+                    11
+                ]
+            }
+        ],
+        "urls": []
+    },
+    "metadata": {
+        "iso_language_code": "es",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 61526480,
+        "id_str": "61526480",
+        "name": "Dem\u00f3crata",
+        "screen_name": "democratajusta",
+        "location": "",
+        "description": "Peruana, abogada que desea que la justicia en el Per\u00fa sea justa",
+        "url": null,
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 146,
+        "friends_count": 208,
+        "listed_count": 0,
+        "created_at": "Thu Jul 30 16:14:53 +0000 2009",
+        "favourites_count": 18177,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 9839,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1414360037296848903/cBd_Bnbx_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1414360037296848903/cBd_Bnbx_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/61526480/1626044841",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": true,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+        "created_at": "Fri Jul 16 02:02:05 +0000 2021",
+        "id": 1415854216556343297,
+        "id_str": "1415854216556343297",
+        "full_text": "#BetoASaber le pegaron con un machete palos y tubos de construcci\u00f3n al adulto mayor Muro \n\nDesgraciado \n#Sagastidictador https://t.co/9REIBKbDgz",
+        "truncated": false,
+        "display_text_range": [
+            0,
+            120
+        ],
+        "entities": {
+            "hashtags": [
+                {
+                    "text": "BetoASaber",
+                    "indices": [
+                        0,
+                        11
+                    ]
+                },
+                {
+                    "text": "Sagastidictador",
+                    "indices": [
+                        104,
+                        120
+                    ]
+                }
+            ],
+            "symbols": [],
+            "user_mentions": [],
+            "urls": [],
+            "media": [
+                {
+                    "id": 1415854213616193537,
+                    "id_str": "1415854213616193537",
+                    "indices": [
+                        121,
+                        144
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/E6Yf5-BVUAEEC5F.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/E6Yf5-BVUAEEC5F.jpg",
+                    "url": "https://t.co/9REIBKbDgz",
+                    "display_url": "pic.twitter.com/9REIBKbDgz",
+                    "expanded_url": "https://twitter.com/Jull230/status/1415854216556343297/photo/1",
+                    "type": "photo",
+                    "sizes": {
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "large": {
+                            "w": 2048,
+                            "h": 946,
+                            "resize": "fit"
+                        },
+                        "small": {
+                            "w": 680,
+                            "h": 314,
+                            "resize": "fit"
+                        },
+                        "medium": {
+                            "w": 1200,
+                            "h": 554,
+                            "resize": "fit"
+                        }
+                    }
+                }
+            ]
+        },
+        "extended_entities": {
+            "media": [
+                {
+                    "id": 1415854213616193537,
+                    "id_str": "1415854213616193537",
+                    "indices": [
+                        121,
+                        144
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/E6Yf5-BVUAEEC5F.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/E6Yf5-BVUAEEC5F.jpg",
+                    "url": "https://t.co/9REIBKbDgz",
+                    "display_url": "pic.twitter.com/9REIBKbDgz",
+                    "expanded_url": "https://twitter.com/Jull230/status/1415854216556343297/photo/1",
+                    "type": "photo",
+                    "sizes": {
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "large": {
+                            "w": 2048,
+                            "h": 946,
+                            "resize": "fit"
+                        },
+                        "small": {
+                            "w": 680,
+                            "h": 314,
+                            "resize": "fit"
+                        },
+                        "medium": {
+                            "w": 1200,
+                            "h": 554,
+                            "resize": "fit"
+                        }
+                    }
+                }
+            ]
+        },
+        "metadata": {
+            "iso_language_code": "es",
+            "result_type": "recent"
+        },
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 2243403758,
+            "id_str": "2243403758",
+            "name": "Juliana L.",
+            "screen_name": "Jull230",
+            "location": "",
+            "description": "Presidenta de la Republica del Peru (2021 - 2026)\n\nEl conocimiento y el acceso a la informaci\u00f3n es un derecho humano",
+            "url": null,
+            "entities": {
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 203,
+            "friends_count": 133,
+            "listed_count": 3,
+            "created_at": "Fri Dec 13 05:34:01 +0000 2013",
+            "favourites_count": 44562,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": false,
+            "verified": false,
+            "statuses_count": 17122,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "C0DEED",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/494306329540845568/D8c-Kdsm_normal.jpeg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/494306329540845568/D8c-Kdsm_normal.jpeg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/2243403758/1406686875",
+            "profile_link_color": "0084B4",
+            "profile_sidebar_border_color": "FFFFFF",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "has_extended_profile": false,
+            "default_profile": false,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none",
+            "withheld_in_countries": []
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 1,
+        "favorite_count": 1,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "es"
+    },
+    "is_quote_status": false,
+    "retweet_count": 1,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "es"
+}

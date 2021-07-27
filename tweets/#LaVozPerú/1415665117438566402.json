@@ -1,0 +1,198 @@
+{
+    "created_at": "Thu Jul 15 13:30:40 +0000 2021",
+    "id": 1415665117438566402,
+    "id_str": "1415665117438566402",
+    "full_text": "RT @jmkfiltr: noah hizo un cover de butter, ap\u00f3yenlo :(( #LaVozPeru",
+    "truncated": false,
+    "display_text_range": [
+        0,
+        67
+    ],
+    "entities": {
+        "hashtags": [
+            {
+                "text": "LaVozPeru",
+                "indices": [
+                    57,
+                    67
+                ]
+            }
+        ],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "jmkfiltr",
+                "name": "cami comeback \u00a8\u032e",
+                "id": 1130903943750529024,
+                "id_str": "1130903943750529024",
+                "indices": [
+                    3,
+                    12
+                ]
+            }
+        ],
+        "urls": []
+    },
+    "metadata": {
+        "iso_language_code": "es",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 1396655422921138178,
+        "id_str": "1396655422921138178",
+        "name": "Astrid Bared",
+        "screen_name": "AstridBared",
+        "location": "",
+        "description": "Army forever \u2665\ufe0f",
+        "url": null,
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 11,
+        "friends_count": 63,
+        "listed_count": 0,
+        "created_at": "Mon May 24 02:33:12 +0000 2021",
+        "favourites_count": 6960,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 3037,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": null,
+        "profile_background_image_url_https": null,
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1397637135637811200/2v9gEnbk_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1397637135637811200/2v9gEnbk_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": true,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+        "created_at": "Thu Jul 15 02:15:26 +0000 2021",
+        "id": 1415495188731027456,
+        "id_str": "1415495188731027456",
+        "full_text": "noah hizo un cover de butter, ap\u00f3yenlo :(( #LaVozPeru",
+        "truncated": false,
+        "display_text_range": [
+            0,
+            53
+        ],
+        "entities": {
+            "hashtags": [
+                {
+                    "text": "LaVozPeru",
+                    "indices": [
+                        43,
+                        53
+                    ]
+                }
+            ],
+            "symbols": [],
+            "user_mentions": [],
+            "urls": []
+        },
+        "metadata": {
+            "iso_language_code": "es",
+            "result_type": "recent"
+        },
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 1130903943750529024,
+            "id_str": "1130903943750529024",
+            "name": "cami AURON TE EXTRA\u00d1E \u00a8\u032e",
+            "screen_name": "jmkfiltr",
+            "location": "",
+            "description": "\u3164\u3164\u3164\u3164\u3164\u3164\u3164\u3164 \ud835\uddc0\ud835\uddc0\ud835\uddce\ud835\uddc4 \ud835\uddcf\ud835\uddc8\ud835\uddc2\ud835\uddbc\ud835\uddbe \u4e00 \ud835\ude5f\ud835\ude5e\ud835\ude62\ud835\ude5e\ud835\ude63-\ud835\ude68\ud835\ude68\ud835\ude5e \ud83e\uddc7 \u3164\u3164\u3164\u3164\u3164\u3164\u3164\u3164 \u2800\u2800\u2800 @sanalouvss \u2315 #teampot0",
+            "url": null,
+            "entities": {
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 953,
+            "friends_count": 764,
+            "listed_count": 15,
+            "created_at": "Tue May 21 18:31:26 +0000 2019",
+            "favourites_count": 45899,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": true,
+            "verified": false,
+            "statuses_count": 56971,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "F5F8FA",
+            "profile_background_image_url": null,
+            "profile_background_image_url_https": null,
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1401893292585926657/c5FmyME6_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1401893292585926657/c5FmyME6_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/1130903943750529024/1625931980",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "has_extended_profile": true,
+            "default_profile": true,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none",
+            "withheld_in_countries": []
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 3,
+        "favorite_count": 8,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "es"
+    },
+    "is_quote_status": false,
+    "retweet_count": 3,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "es"
+}

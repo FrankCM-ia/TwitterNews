@@ -1,0 +1,107 @@
+{
+    "created_at": "Thu Jul 15 02:46:26 +0000 2021",
+    "id": 1415502991361257472,
+    "id_str": "1415502991361257472",
+    "full_text": "De una vez que llame a este par para una temporada de teatro de Aladin, de una vez!! #LaVozPer\u00fa",
+    "truncated": false,
+    "display_text_range": [
+        0,
+        95
+    ],
+    "entities": {
+        "hashtags": [
+            {
+                "text": "LaVozPer\u00fa",
+                "indices": [
+                    85,
+                    95
+                ]
+            }
+        ],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+    },
+    "metadata": {
+        "iso_language_code": "es",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 196878687,
+        "id_str": "196878687",
+        "name": "Soy Vickvaporud.",
+        "screen_name": "vicshowperu",
+        "location": "Lima - Per\u00fa",
+        "description": "Actor. Ya me dio Covid.",
+        "url": "https://t.co/oZhFbeGUTY",
+        "entities": {
+            "url": {
+                "urls": [
+                    {
+                        "url": "https://t.co/oZhFbeGUTY",
+                        "expanded_url": "http://www.fb.com/ramosvictor.actor",
+                        "display_url": "fb.com/ramosvictor.ac\u2026",
+                        "indices": [
+                            0,
+                            23
+                        ]
+                    }
+                ]
+            },
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 596,
+        "friends_count": 127,
+        "listed_count": 3,
+        "created_at": "Thu Sep 30 03:17:49 +0000 2010",
+        "favourites_count": 8099,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 22975,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1267335512647483395/mYLz6_eG_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1267335512647483395/mYLz6_eG_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/196878687/1513874901",
+        "profile_link_color": "4A913C",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "profile_use_background_image": false,
+        "has_extended_profile": true,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "es"
+}

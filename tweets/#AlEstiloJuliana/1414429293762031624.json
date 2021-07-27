@@ -1,0 +1,199 @@
+{
+    "created_at": "Mon Jul 12 03:39:57 +0000 2021",
+    "id": 1414429293762031624,
+    "id_str": "1414429293762031624",
+    "full_text": "#G2Cubano opera/asesora en #Lima #Per\u00fa \u00bfcontinuar\u00e1 con plan d violencia para \u00e9sta semana? Lo dhoy en #Cuba #SOSCuba cay\u00f3 como de sorpresa  \u00bfKARMA? \n#ANCentral #TVPer\u00faNoticias #ATVNoticias #Edici\u00f3nCentral #AlEstiloJuliana #CanalN #90Central #Willax #RPP #Per\u00faLibre #FuerzaPopular",
+    "truncated": false,
+    "display_text_range": [
+        0,
+        278
+    ],
+    "entities": {
+        "hashtags": [
+            {
+                "text": "G2Cubano",
+                "indices": [
+                    0,
+                    9
+                ]
+            },
+            {
+                "text": "Lima",
+                "indices": [
+                    27,
+                    32
+                ]
+            },
+            {
+                "text": "Per\u00fa",
+                "indices": [
+                    33,
+                    38
+                ]
+            },
+            {
+                "text": "Cuba",
+                "indices": [
+                    101,
+                    106
+                ]
+            },
+            {
+                "text": "SOSCuba",
+                "indices": [
+                    107,
+                    115
+                ]
+            },
+            {
+                "text": "ANCentral",
+                "indices": [
+                    148,
+                    158
+                ]
+            },
+            {
+                "text": "TVPer\u00faNoticias",
+                "indices": [
+                    159,
+                    174
+                ]
+            },
+            {
+                "text": "ATVNoticias",
+                "indices": [
+                    175,
+                    187
+                ]
+            },
+            {
+                "text": "Edici\u00f3nCentral",
+                "indices": [
+                    188,
+                    203
+                ]
+            },
+            {
+                "text": "AlEstiloJuliana",
+                "indices": [
+                    204,
+                    220
+                ]
+            },
+            {
+                "text": "CanalN",
+                "indices": [
+                    221,
+                    228
+                ]
+            },
+            {
+                "text": "90Central",
+                "indices": [
+                    229,
+                    239
+                ]
+            },
+            {
+                "text": "Willax",
+                "indices": [
+                    240,
+                    247
+                ]
+            },
+            {
+                "text": "RPP",
+                "indices": [
+                    248,
+                    252
+                ]
+            },
+            {
+                "text": "Per\u00faLibre",
+                "indices": [
+                    253,
+                    263
+                ]
+            },
+            {
+                "text": "FuerzaPopular",
+                "indices": [
+                    264,
+                    278
+                ]
+            }
+        ],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+    },
+    "metadata": {
+        "iso_language_code": "es",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 151490775,
+        "id_str": "151490775",
+        "name": "Lord \u0646",
+        "screen_name": "blackdragon1802",
+        "location": "Marte - Soy un marciano ",
+        "description": "El mal prevalece cuando los hombres buenos no hacen nada - T\u00fa apoyas indirectamente la persecuci\u00f3n del Inocente cuando permaneces mudo. EN DIOS CONFIAMOS!!",
+        "url": null,
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 2019,
+        "friends_count": 1614,
+        "listed_count": 14,
+        "created_at": "Thu Jun 03 14:37:21 +0000 2010",
+        "favourites_count": 457,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 69436,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": true,
+        "profile_background_color": "7EB9D9",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/560939363178008576/A-bhNC-H_normal.jpeg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/560939363178008576/A-bhNC-H_normal.jpeg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/151490775/1422569930",
+        "profile_link_color": "150EED",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "es"
+}

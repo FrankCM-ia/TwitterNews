@@ -1,0 +1,105 @@
+{
+    "created_at": "Thu Jul 15 02:51:51 +0000 2021",
+    "id": 1415504355747315712,
+    "id_str": "1415504355747315712",
+    "full_text": "@alitafur1 Me gusta como se desenvuelve en #lavozper\u00fa es expontanea y le pone ritmo \ud83d\udc4d\ud83c\udffc ojala q no haga caso a esa gente y q siga trabajando q@lo hace super bien !",
+    "truncated": false,
+    "display_text_range": [
+        11,
+        162
+    ],
+    "entities": {
+        "hashtags": [
+            {
+                "text": "lavozper\u00fa",
+                "indices": [
+                    43,
+                    53
+                ]
+            }
+        ],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "alitafur1",
+                "name": "Ali Stephanie \ud83c\uddf5\ud83c\uddea",
+                "id": 1657019426,
+                "id_str": "1657019426",
+                "indices": [
+                    0,
+                    10
+                ]
+            }
+        ],
+        "urls": []
+    },
+    "metadata": {
+        "iso_language_code": "es",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_status_id": 1415503247922577408,
+    "in_reply_to_status_id_str": "1415503247922577408",
+    "in_reply_to_user_id": 1657019426,
+    "in_reply_to_user_id_str": "1657019426",
+    "in_reply_to_screen_name": "alitafur1",
+    "user": {
+        "id": 206455272,
+        "id_str": "206455272",
+        "name": "Rokxi",
+        "screen_name": "rokxi77",
+        "location": "Lima, Peru",
+        "description": "PERU \ud83c\uddf5\ud83c\uddea\u2665\ufe0f\ud83d\udcaa\ud83c\udffb\ud83d\udc4a\ud83c\udffc ...  Soy BIEN MALA \ud83d\ude08",
+        "url": null,
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 871,
+        "friends_count": 539,
+        "listed_count": 9,
+        "created_at": "Sat Oct 23 00:36:23 +0000 2010",
+        "favourites_count": 112071,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 156360,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "B2DFDA",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme13/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme13/bg.gif",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1406810772819283971/hFw_uZLN_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1406810772819283971/hFw_uZLN_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/206455272/1491362932",
+        "profile_link_color": "93A644",
+        "profile_sidebar_border_color": "EEEEEE",
+        "profile_sidebar_fill_color": "FFFFFF",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 1,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "es"
+}

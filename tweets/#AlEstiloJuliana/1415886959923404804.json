@@ -1,0 +1,199 @@
+{
+    "created_at": "Fri Jul 16 04:12:11 +0000 2021",
+    "id": 1415886959923404804,
+    "id_str": "1415886959923404804",
+    "full_text": "RT @arrozchaufaa: #AlEstiloJuliana , a esa mujer no deber\u00edan darle ni un programa y encima dice que es imparcial. Que conchuda.",
+    "truncated": false,
+    "display_text_range": [
+        0,
+        127
+    ],
+    "entities": {
+        "hashtags": [
+            {
+                "text": "AlEstiloJuliana",
+                "indices": [
+                    18,
+                    34
+                ]
+            }
+        ],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "arrozchaufaa",
+                "name": "arrozchaufaa",
+                "id": 1402069376187174913,
+                "id_str": "1402069376187174913",
+                "indices": [
+                    3,
+                    16
+                ]
+            }
+        ],
+        "urls": []
+    },
+    "metadata": {
+        "iso_language_code": "es",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 1405766357380071428,
+        "id_str": "1405766357380071428",
+        "name": "GATO \ud83d\udde3\ufe0f ANTICOMUNISTA \ud83c\udf10\ud83d\udcaa\ud83c\udffb\ud83c\uddf5\ud83c\uddea",
+        "screen_name": "CambioMentalZ",
+        "location": "La Libertad, Peru",
+        "description": "La democracia se defiende con u\u00f1as y garras Presidente del Per\u00fa 2021- 2026  \ud83d\udcaa\ud83c\udffb",
+        "url": null,
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 75,
+        "friends_count": 576,
+        "listed_count": 1,
+        "created_at": "Fri Jun 18 05:56:48 +0000 2021",
+        "favourites_count": 7741,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 5518,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": null,
+        "profile_background_image_url_https": null,
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1405766664449187844/YTZ1oyQf_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1405766664449187844/YTZ1oyQf_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1405766357380071428/1624868318",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": true,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+        "created_at": "Fri Jul 16 03:40:40 +0000 2021",
+        "id": 1415879028804816898,
+        "id_str": "1415879028804816898",
+        "full_text": "#AlEstiloJuliana , a esa mujer no deber\u00edan darle ni un programa y encima dice que es imparcial. Que conchuda.",
+        "truncated": false,
+        "display_text_range": [
+            0,
+            109
+        ],
+        "entities": {
+            "hashtags": [
+                {
+                    "text": "AlEstiloJuliana",
+                    "indices": [
+                        0,
+                        16
+                    ]
+                }
+            ],
+            "symbols": [],
+            "user_mentions": [],
+            "urls": []
+        },
+        "metadata": {
+            "iso_language_code": "es",
+            "result_type": "recent"
+        },
+        "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 1402069376187174913,
+            "id_str": "1402069376187174913",
+            "name": "arrozchaufaa",
+            "screen_name": "arrozchaufaa",
+            "location": "",
+            "description": "Me llega al pincho si te ofendiste por uno de mis comentarios bby",
+            "url": null,
+            "entities": {
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 6,
+            "friends_count": 22,
+            "listed_count": 0,
+            "created_at": "Tue Jun 08 01:06:20 +0000 2021",
+            "favourites_count": 1349,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": false,
+            "verified": false,
+            "statuses_count": 131,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "F5F8FA",
+            "profile_background_image_url": null,
+            "profile_background_image_url_https": null,
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1414731966868557829/rBXFFqeQ_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1414731966868557829/rBXFFqeQ_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/1402069376187174913/1623775360",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "has_extended_profile": false,
+            "default_profile": true,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none",
+            "withheld_in_countries": []
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 2,
+        "favorite_count": 4,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "es"
+    },
+    "is_quote_status": false,
+    "retweet_count": 2,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "es"
+}

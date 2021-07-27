@@ -1,0 +1,402 @@
+{
+    "created_at": "Fri Jul 16 02:51:18 +0000 2021",
+    "id": 1415866602633973760,
+    "id_str": "1415866602633973760",
+    "full_text": "RT @jorgesomontes61: #BetoASaber Increible pero cierto, botaron como a un perro al sr. Richard Muro del Hospital Almenara. Y ahora qu\u00e9 dir\u00e1\u2026",
+    "truncated": false,
+    "display_text_range": [
+        0,
+        140
+    ],
+    "entities": {
+        "hashtags": [
+            {
+                "text": "BetoASaber",
+                "indices": [
+                    21,
+                    32
+                ]
+            }
+        ],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "jorgesomontes61",
+                "name": "jorgesomontes6901@gmail.com\ud83d\udd76",
+                "id": 1202232444541378561,
+                "id_str": "1202232444541378561",
+                "indices": [
+                    3,
+                    19
+                ]
+            }
+        ],
+        "urls": []
+    },
+    "metadata": {
+        "iso_language_code": "es",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 1399821728566681600,
+        "id_str": "1399821728566681600",
+        "name": "Opinopatia\u274c\u274c\u26ea\ufe0f\u274c\u274c",
+        "screen_name": "Pierycatess",
+        "location": "Orion\u2019s belt ",
+        "description": "1000% derecha desde mucho antes que varios se colgaran de la etiqueta,,, lejos, BIEN LEJOS del comunismo y todas sus m\u00e1scaras.",
+        "url": "https://t.co/K4UO4k1MAV",
+        "entities": {
+            "url": {
+                "urls": [
+                    {
+                        "url": "https://t.co/K4UO4k1MAV",
+                        "expanded_url": "http://www.MuerteAlcomunismo.com",
+                        "display_url": "MuerteAlcomunismo.com",
+                        "indices": [
+                            0,
+                            23
+                        ]
+                    }
+                ]
+            },
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 135,
+        "friends_count": 249,
+        "listed_count": 0,
+        "created_at": "Tue Jun 01 20:15:11 +0000 2021",
+        "favourites_count": 2010,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 17912,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": null,
+        "profile_background_image_url_https": null,
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1407468943791566851/OwRo9VF-_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1407468943791566851/OwRo9VF-_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1399821728566681600/1623960090",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": true,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+        "created_at": "Fri Jul 16 02:48:49 +0000 2021",
+        "id": 1415865978404098052,
+        "id_str": "1415865978404098052",
+        "full_text": "#BetoASaber Increible pero cierto, botaron como a un perro al sr. Richard Muro del Hospital Almenara. Y ahora qu\u00e9 dir\u00e1 @Defensoria_Peru @FiscaliaPeru @PoliciaPeru @OEA_oficial @MinjusDH_Peru @julianaoxenford @elcomercio_peru @ExpresoPeru @PBOPeru @KikeBravoPrado @SoyJudyRo94 https://t.co/oLREEy1V3L",
+        "truncated": false,
+        "display_text_range": [
+            0,
+            275
+        ],
+        "entities": {
+            "hashtags": [
+                {
+                    "text": "BetoASaber",
+                    "indices": [
+                        0,
+                        11
+                    ]
+                }
+            ],
+            "symbols": [],
+            "user_mentions": [
+                {
+                    "screen_name": "Defensoria_Peru",
+                    "name": "Defensor\u00eda Per\u00fa",
+                    "id": 107428718,
+                    "id_str": "107428718",
+                    "indices": [
+                        119,
+                        135
+                    ]
+                },
+                {
+                    "screen_name": "FiscaliaPeru",
+                    "name": "Ministerio P\u00fablico",
+                    "id": 302151609,
+                    "id_str": "302151609",
+                    "indices": [
+                        136,
+                        149
+                    ]
+                },
+                {
+                    "screen_name": "PoliciaPeru",
+                    "name": "Polic\u00eda Nacional del Per\u00fa",
+                    "id": 213769482,
+                    "id_str": "213769482",
+                    "indices": [
+                        150,
+                        162
+                    ]
+                },
+                {
+                    "screen_name": "OEA_oficial",
+                    "name": "OEA",
+                    "id": 242448965,
+                    "id_str": "242448965",
+                    "indices": [
+                        163,
+                        175
+                    ]
+                },
+                {
+                    "screen_name": "MinjusDH_Peru",
+                    "name": "Ministerio de Justicia y Derechos Humanos",
+                    "id": 60989762,
+                    "id_str": "60989762",
+                    "indices": [
+                        176,
+                        190
+                    ]
+                },
+                {
+                    "screen_name": "julianaoxenford",
+                    "name": "julianaoxenford",
+                    "id": 1271961894685937670,
+                    "id_str": "1271961894685937670",
+                    "indices": [
+                        191,
+                        207
+                    ]
+                },
+                {
+                    "screen_name": "elcomercio_peru",
+                    "name": "El Comercio",
+                    "id": 233033221,
+                    "id_str": "233033221",
+                    "indices": [
+                        208,
+                        224
+                    ]
+                },
+                {
+                    "screen_name": "ExpresoPeru",
+                    "name": "Diario Expreso",
+                    "id": 225232891,
+                    "id_str": "225232891",
+                    "indices": [
+                        225,
+                        237
+                    ]
+                },
+                {
+                    "screen_name": "PBOPeru",
+                    "name": "PBO",
+                    "id": 2401702404,
+                    "id_str": "2401702404",
+                    "indices": [
+                        238,
+                        246
+                    ]
+                },
+                {
+                    "screen_name": "KikeBravoPrado",
+                    "name": "Kike Bravo Prado\ud83c\uddf5\ud83c\uddea",
+                    "id": 55704833,
+                    "id_str": "55704833",
+                    "indices": [
+                        247,
+                        262
+                    ]
+                },
+                {
+                    "screen_name": "SoyJudyRo94",
+                    "name": "Judy Rodr\u00edguez",
+                    "id": 1275894652017795074,
+                    "id_str": "1275894652017795074",
+                    "indices": [
+                        263,
+                        275
+                    ]
+                }
+            ],
+            "urls": [],
+            "media": [
+                {
+                    "id": 1415865966681014276,
+                    "id_str": "1415865966681014276",
+                    "indices": [
+                        276,
+                        299
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/E6YqmFmWQAQwx9w.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/E6YqmFmWQAQwx9w.jpg",
+                    "url": "https://t.co/oLREEy1V3L",
+                    "display_url": "pic.twitter.com/oLREEy1V3L",
+                    "expanded_url": "https://twitter.com/jorgesomontes61/status/1415865978404098052/photo/1",
+                    "type": "photo",
+                    "sizes": {
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "small": {
+                            "w": 680,
+                            "h": 680,
+                            "resize": "fit"
+                        },
+                        "large": {
+                            "w": 2048,
+                            "h": 2048,
+                            "resize": "fit"
+                        },
+                        "medium": {
+                            "w": 1200,
+                            "h": 1200,
+                            "resize": "fit"
+                        }
+                    }
+                }
+            ]
+        },
+        "extended_entities": {
+            "media": [
+                {
+                    "id": 1415865966681014276,
+                    "id_str": "1415865966681014276",
+                    "indices": [
+                        276,
+                        299
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/E6YqmFmWQAQwx9w.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/E6YqmFmWQAQwx9w.jpg",
+                    "url": "https://t.co/oLREEy1V3L",
+                    "display_url": "pic.twitter.com/oLREEy1V3L",
+                    "expanded_url": "https://twitter.com/jorgesomontes61/status/1415865978404098052/photo/1",
+                    "type": "photo",
+                    "sizes": {
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "small": {
+                            "w": 680,
+                            "h": 680,
+                            "resize": "fit"
+                        },
+                        "large": {
+                            "w": 2048,
+                            "h": 2048,
+                            "resize": "fit"
+                        },
+                        "medium": {
+                            "w": 1200,
+                            "h": 1200,
+                            "resize": "fit"
+                        }
+                    }
+                }
+            ]
+        },
+        "metadata": {
+            "iso_language_code": "es",
+            "result_type": "recent"
+        },
+        "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 1202232444541378561,
+            "id_str": "1202232444541378561",
+            "name": "jorgesomontes6901@gmail.com\ud83d\udd76",
+            "screen_name": "jorgesomontes61",
+            "location": "Huanuco, Peru",
+            "description": "Lic. en Administracion, Maestria en Marketing y Tecnico en Computacion - Trabajo en una Constructora SALMA - Soltero - que la fuerza te acompa\u00f1e - \ud83d\udc96",
+            "url": null,
+            "entities": {
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 3249,
+            "friends_count": 4335,
+            "listed_count": 3,
+            "created_at": "Wed Dec 04 14:26:03 +0000 2019",
+            "favourites_count": 181351,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": false,
+            "verified": false,
+            "statuses_count": 169262,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "F5F8FA",
+            "profile_background_image_url": null,
+            "profile_background_image_url_https": null,
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1202439487625629696/c_MFgi2u_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1202439487625629696/c_MFgi2u_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/1202232444541378561/1602513652",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "has_extended_profile": true,
+            "default_profile": true,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none",
+            "withheld_in_countries": []
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 3,
+        "favorite_count": 6,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "es"
+    },
+    "is_quote_status": false,
+    "retweet_count": 3,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "es"
+}

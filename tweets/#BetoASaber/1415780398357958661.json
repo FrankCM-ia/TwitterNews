@@ -1,0 +1,340 @@
+{
+    "created_at": "Thu Jul 15 21:08:45 +0000 2021",
+    "id": 1415780398357958661,
+    "id_str": "1415780398357958661",
+    "full_text": "Mira @PolloFarsantePe como esta congresista se burla del cobarde ataque que este valiente patriota recibi\u00f3 de manos de los radicales del sombrero luminoso.\n\n#BetoASaber https://t.co/W2MdWQPKtx",
+    "truncated": false,
+    "display_text_range": [
+        0,
+        168
+    ],
+    "entities": {
+        "hashtags": [
+            {
+                "text": "BetoASaber",
+                "indices": [
+                    157,
+                    168
+                ]
+            }
+        ],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "PolloFarsantePe",
+                "name": "ElPolloFarsante",
+                "id": 1409887097838841857,
+                "id_str": "1409887097838841857",
+                "indices": [
+                    5,
+                    21
+                ]
+            }
+        ],
+        "urls": [
+            {
+                "url": "https://t.co/W2MdWQPKtx",
+                "expanded_url": "https://twitter.com/Imperium_peru/status/1415779242755899396",
+                "display_url": "twitter.com/Imperium_peru/\u2026",
+                "indices": [
+                    169,
+                    192
+                ]
+            }
+        ]
+    },
+    "metadata": {
+        "iso_language_code": "es",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 1365832269815021569,
+        "id_str": "1365832269815021569",
+        "name": "L\u00f3gica de Caviar \ud83e\udd21",
+        "screen_name": "logicadecaviar",
+        "location": "",
+        "description": "\u201cEl caviar es un par\u00e1sito maligno que chupa de la teta del Estado, se reproduce, muere y luego viene otro caviar a reemplazarlo\u201d\n- Rafael L\u00f3pez Aliaga",
+        "url": null,
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 59,
+        "friends_count": 182,
+        "listed_count": 0,
+        "created_at": "Sun Feb 28 01:12:53 +0000 2021",
+        "favourites_count": 943,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 1884,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": null,
+        "profile_background_image_url_https": null,
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1366114708873498624/5g24oC-w_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1366114708873498624/5g24oC-w_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1365832269815021569/1614543597",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": true,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": true,
+    "quoted_status_id": 1415779242755899396,
+    "quoted_status_id_str": "1415779242755899396",
+    "quoted_status": {
+        "created_at": "Thu Jul 15 21:04:10 +0000 2021",
+        "id": 1415779242755899396,
+        "id_str": "1415779242755899396",
+        "full_text": "La #IzquierdaMiserable sigue desestimando el intento de asesinato a un anciano. https://t.co/4H1cOgoxpA",
+        "truncated": false,
+        "display_text_range": [
+            0,
+            79
+        ],
+        "entities": {
+            "hashtags": [
+                {
+                    "text": "IzquierdaMiserable",
+                    "indices": [
+                        3,
+                        22
+                    ]
+                }
+            ],
+            "symbols": [],
+            "user_mentions": [],
+            "urls": [],
+            "media": [
+                {
+                    "id": 1415778986945392649,
+                    "id_str": "1415778986945392649",
+                    "indices": [
+                        80,
+                        103
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/E6XbfM1XsAkdtry.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/E6XbfM1XsAkdtry.jpg",
+                    "url": "https://t.co/4H1cOgoxpA",
+                    "display_url": "pic.twitter.com/4H1cOgoxpA",
+                    "expanded_url": "https://twitter.com/Imperium_peru/status/1415779242755899396/photo/1",
+                    "type": "photo",
+                    "sizes": {
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "medium": {
+                            "w": 654,
+                            "h": 963,
+                            "resize": "fit"
+                        },
+                        "large": {
+                            "w": 654,
+                            "h": 963,
+                            "resize": "fit"
+                        },
+                        "small": {
+                            "w": 462,
+                            "h": 680,
+                            "resize": "fit"
+                        }
+                    }
+                }
+            ]
+        },
+        "extended_entities": {
+            "media": [
+                {
+                    "id": 1415778986945392649,
+                    "id_str": "1415778986945392649",
+                    "indices": [
+                        80,
+                        103
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/E6XbfM1XsAkdtry.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/E6XbfM1XsAkdtry.jpg",
+                    "url": "https://t.co/4H1cOgoxpA",
+                    "display_url": "pic.twitter.com/4H1cOgoxpA",
+                    "expanded_url": "https://twitter.com/Imperium_peru/status/1415779242755899396/photo/1",
+                    "type": "photo",
+                    "sizes": {
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "medium": {
+                            "w": 654,
+                            "h": 963,
+                            "resize": "fit"
+                        },
+                        "large": {
+                            "w": 654,
+                            "h": 963,
+                            "resize": "fit"
+                        },
+                        "small": {
+                            "w": 462,
+                            "h": 680,
+                            "resize": "fit"
+                        }
+                    }
+                },
+                {
+                    "id": 1415779001818402821,
+                    "id_str": "1415779001818402821",
+                    "indices": [
+                        80,
+                        103
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/E6XbgEPX0AUcni_.png",
+                    "media_url_https": "https://pbs.twimg.com/media/E6XbgEPX0AUcni_.png",
+                    "url": "https://t.co/4H1cOgoxpA",
+                    "display_url": "pic.twitter.com/4H1cOgoxpA",
+                    "expanded_url": "https://twitter.com/Imperium_peru/status/1415779242755899396/photo/1",
+                    "type": "photo",
+                    "sizes": {
+                        "large": {
+                            "w": 744,
+                            "h": 602,
+                            "resize": "fit"
+                        },
+                        "small": {
+                            "w": 680,
+                            "h": 550,
+                            "resize": "fit"
+                        },
+                        "medium": {
+                            "w": 744,
+                            "h": 602,
+                            "resize": "fit"
+                        },
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        }
+                    }
+                }
+            ]
+        },
+        "metadata": {
+            "iso_language_code": "es",
+            "result_type": "recent"
+        },
+        "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 1221825335148392448,
+            "id_str": "1221825335148392448",
+            "name": "Imperium.pe \ud83d\udc38",
+            "screen_name": "Imperium_peru",
+            "location": "Valhalla",
+            "description": "An\u00f3nimo, autoritario, anti-comunista, tradicional y siempre propenso a humillar progres. \n\nSiguenos en tu red social favorita \ud83d\udc47",
+            "url": "https://t.co/OjohVxEXDW",
+            "entities": {
+                "url": {
+                    "urls": [
+                        {
+                            "url": "https://t.co/OjohVxEXDW",
+                            "expanded_url": "http://www.linktr.ee/ImperiumPeru",
+                            "display_url": "linktr.ee/ImperiumPeru",
+                            "indices": [
+                                0,
+                                23
+                            ]
+                        }
+                    ]
+                },
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 1160,
+            "friends_count": 385,
+            "listed_count": 3,
+            "created_at": "Mon Jan 27 16:00:41 +0000 2020",
+            "favourites_count": 3485,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": false,
+            "verified": false,
+            "statuses_count": 3651,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "F5F8FA",
+            "profile_background_image_url": null,
+            "profile_background_image_url_https": null,
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1393092281264136194/m3Qjd5yQ_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1393092281264136194/m3Qjd5yQ_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/1221825335148392448/1624309631",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "has_extended_profile": false,
+            "default_profile": true,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none",
+            "withheld_in_countries": []
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 7,
+        "favorite_count": 19,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "es"
+    },
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "es"
+}

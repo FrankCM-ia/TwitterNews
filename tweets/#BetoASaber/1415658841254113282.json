@@ -1,0 +1,297 @@
+{
+    "created_at": "Thu Jul 15 13:05:44 +0000 2021",
+    "id": 1415658841254113282,
+    "id_str": "1415658841254113282",
+    "full_text": "RT @buxtrep: Polic\u00eda apuntando con un arma a un manifestante dem\u00f3crata, qu\u00e9 digan algo los comunistas caviares, \u00a1seguro cerrar\u00e1n el hocico!\u2026",
+    "truncated": false,
+    "display_text_range": [
+        0,
+        140
+    ],
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "buxtrep",
+                "name": "BUXTREP \u00a1\ud835\udc12i\ud835\udc20\u00e1\ud835\udc26\ud835\udc28\ud835\udc27\ud835\udc28\ud835\udc2c!",
+                "id": 945118148919005184,
+                "id_str": "945118148919005184",
+                "indices": [
+                    3,
+                    11
+                ]
+            }
+        ],
+        "urls": []
+    },
+    "metadata": {
+        "iso_language_code": "es",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 2347063759,
+        "id_str": "2347063759",
+        "name": "Arena Pol\u00edtica",
+        "screen_name": "Arena_Politica1",
+        "location": "Peru",
+        "description": "Lugar donde se ver\u00e1n  los rtweets m\u00e1s pol\u00e9micos de la pol\u00edtica y actualidad \ud83d\ude45\u200d\u2642\ufe0f",
+        "url": null,
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 2994,
+        "friends_count": 1629,
+        "listed_count": 9,
+        "created_at": "Sun Feb 16 15:55:19 +0000 2014",
+        "favourites_count": 63786,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 160034,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1409358848125775872/q2cixYVv_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1409358848125775872/q2cixYVv_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2347063759/1557606206",
+        "profile_link_color": "FF691F",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "profile_use_background_image": false,
+        "has_extended_profile": false,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+        "created_at": "Thu Jul 15 02:28:46 +0000 2021",
+        "id": 1415498546133016579,
+        "id_str": "1415498546133016579",
+        "full_text": "Polic\u00eda apuntando con un arma a un manifestante dem\u00f3crata, qu\u00e9 digan algo los comunistas caviares, \u00a1seguro cerrar\u00e1n el hocico!\n#SagastiSeJodioElPuebloYaSalio \n#SagastiSeJodioElPuebloYaSalio \n#BetoASaber https://t.co/r598pE3Aux",
+        "truncated": false,
+        "display_text_range": [
+            0,
+            202
+        ],
+        "entities": {
+            "hashtags": [
+                {
+                    "text": "SagastiSeJodioElPuebloYaSalio",
+                    "indices": [
+                        127,
+                        157
+                    ]
+                },
+                {
+                    "text": "SagastiSeJodioElPuebloYaSalio",
+                    "indices": [
+                        159,
+                        189
+                    ]
+                },
+                {
+                    "text": "BetoASaber",
+                    "indices": [
+                        191,
+                        202
+                    ]
+                }
+            ],
+            "symbols": [],
+            "user_mentions": [],
+            "urls": [],
+            "media": [
+                {
+                    "id": 1415497700297093123,
+                    "id_str": "1415497700297093123",
+                    "indices": [
+                        203,
+                        226
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/E6TbqKaXMAMlZ2i.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/E6TbqKaXMAMlZ2i.jpg",
+                    "url": "https://t.co/r598pE3Aux",
+                    "display_url": "pic.twitter.com/r598pE3Aux",
+                    "expanded_url": "https://twitter.com/buxtrep/status/1415498546133016579/photo/1",
+                    "type": "photo",
+                    "sizes": {
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "small": {
+                            "w": 517,
+                            "h": 452,
+                            "resize": "fit"
+                        },
+                        "large": {
+                            "w": 517,
+                            "h": 452,
+                            "resize": "fit"
+                        },
+                        "medium": {
+                            "w": 517,
+                            "h": 452,
+                            "resize": "fit"
+                        }
+                    }
+                }
+            ]
+        },
+        "extended_entities": {
+            "media": [
+                {
+                    "id": 1415497700297093123,
+                    "id_str": "1415497700297093123",
+                    "indices": [
+                        203,
+                        226
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/E6TbqKaXMAMlZ2i.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/E6TbqKaXMAMlZ2i.jpg",
+                    "url": "https://t.co/r598pE3Aux",
+                    "display_url": "pic.twitter.com/r598pE3Aux",
+                    "expanded_url": "https://twitter.com/buxtrep/status/1415498546133016579/photo/1",
+                    "type": "photo",
+                    "sizes": {
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "small": {
+                            "w": 517,
+                            "h": 452,
+                            "resize": "fit"
+                        },
+                        "large": {
+                            "w": 517,
+                            "h": 452,
+                            "resize": "fit"
+                        },
+                        "medium": {
+                            "w": 517,
+                            "h": 452,
+                            "resize": "fit"
+                        }
+                    }
+                }
+            ]
+        },
+        "metadata": {
+            "iso_language_code": "es",
+            "result_type": "recent"
+        },
+        "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 945118148919005184,
+            "id_str": "945118148919005184",
+            "name": "BUXTREP \u00a1\ud835\udc12i\ud835\udc20\u00e1\ud835\udc26\ud835\udc28\ud835\udc27\ud835\udc28\ud835\udc2c!",
+            "screen_name": "buxtrep",
+            "location": "Per\u00fa",
+            "description": "\u00a1S\u00cdGUEME Y TE SIGO!, solo por este mes.\nNo me sigues, dejo de seguirte!\n\u00a1Somos dem\u00f3cratas!\nNo trolls!\nSubimos videos de #BetoASaber y m\u00e1s programas al instante!",
+            "url": "https://t.co/cnXdwhw5GX",
+            "entities": {
+                "url": {
+                    "urls": [
+                        {
+                            "url": "https://t.co/cnXdwhw5GX",
+                            "expanded_url": "https://www.youtube.com/c/Buxtrep",
+                            "display_url": "youtube.com/c/Buxtrep",
+                            "indices": [
+                                0,
+                                23
+                            ]
+                        }
+                    ]
+                },
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 881,
+            "friends_count": 1299,
+            "listed_count": 3,
+            "created_at": "Mon Dec 25 02:25:00 +0000 2017",
+            "favourites_count": 10596,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": false,
+            "verified": false,
+            "statuses_count": 10273,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "F5F8FA",
+            "profile_background_image_url": null,
+            "profile_background_image_url_https": null,
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1407510853373530114/_UGsaBrm_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1407510853373530114/_UGsaBrm_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/945118148919005184/1626038157",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "has_extended_profile": false,
+            "default_profile": true,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none",
+            "withheld_in_countries": []
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 124,
+        "favorite_count": 202,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "es"
+    },
+    "is_quote_status": false,
+    "retweet_count": 124,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "es"
+}

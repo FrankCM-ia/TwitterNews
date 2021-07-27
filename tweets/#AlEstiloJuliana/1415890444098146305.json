@@ -1,0 +1,268 @@
+{
+    "created_at": "Fri Jul 16 04:26:02 +0000 2021",
+    "id": 1415890444098146305,
+    "id_str": "1415890444098146305",
+    "full_text": "RT @atv_noticias: #AlEstiloJuliana | Hombre persigui\u00f3 a reportera mientras realizaba cobertura  https://t.co/Mzkp2Jm0Ht @julianaoxenford",
+    "truncated": false,
+    "display_text_range": [
+        0,
+        136
+    ],
+    "entities": {
+        "hashtags": [
+            {
+                "text": "AlEstiloJuliana",
+                "indices": [
+                    18,
+                    34
+                ]
+            }
+        ],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "atv_noticias",
+                "name": "ATV Noticias",
+                "id": 153625642,
+                "id_str": "153625642",
+                "indices": [
+                    3,
+                    16
+                ]
+            },
+            {
+                "screen_name": "julianaoxenford",
+                "name": "julianaoxenford",
+                "id": 1271961894685937670,
+                "id_str": "1271961894685937670",
+                "indices": [
+                    120,
+                    136
+                ]
+            }
+        ],
+        "urls": [
+            {
+                "url": "https://t.co/Mzkp2Jm0Ht",
+                "expanded_url": "https://bit.ly/3xPWcX2",
+                "display_url": "bit.ly/3xPWcX2",
+                "indices": [
+                    96,
+                    119
+                ]
+            }
+        ]
+    },
+    "metadata": {
+        "iso_language_code": "es",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 55715767,
+        "id_str": "55715767",
+        "name": "eddy maidana",
+        "screen_name": "emaidana",
+        "location": "Lima - Per\u00fa",
+        "description": "Imperfecciones\n\nComida\n\nViajes\n\nCine\n\nScifi",
+        "url": "https://t.co/ejDz02HZvC",
+        "entities": {
+            "url": {
+                "urls": [
+                    {
+                        "url": "https://t.co/ejDz02HZvC",
+                        "expanded_url": "http://instagram.com/eddymaidana",
+                        "display_url": "instagram.com/eddymaidana",
+                        "indices": [
+                            0,
+                            23
+                        ]
+                    }
+                ]
+            },
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 371,
+        "friends_count": 493,
+        "listed_count": 26,
+        "created_at": "Sat Jul 11 00:59:05 +0000 2009",
+        "favourites_count": 1891,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 7090,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "ACDED6",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme18/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme18/bg.gif",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1309309032965066753/sqZ6P3s2_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1309309032965066753/sqZ6P3s2_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/55715767/1396088136",
+        "profile_link_color": "038543",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "F6F6F6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": true,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+        "created_at": "Fri Jul 16 01:27:14 +0000 2021",
+        "id": 1415845448519233536,
+        "id_str": "1415845448519233536",
+        "full_text": "#AlEstiloJuliana | Hombre persigui\u00f3 a reportera mientras realizaba cobertura  https://t.co/Mzkp2Jm0Ht @julianaoxenford",
+        "truncated": false,
+        "display_text_range": [
+            0,
+            118
+        ],
+        "entities": {
+            "hashtags": [
+                {
+                    "text": "AlEstiloJuliana",
+                    "indices": [
+                        0,
+                        16
+                    ]
+                }
+            ],
+            "symbols": [],
+            "user_mentions": [
+                {
+                    "screen_name": "julianaoxenford",
+                    "name": "julianaoxenford",
+                    "id": 1271961894685937670,
+                    "id_str": "1271961894685937670",
+                    "indices": [
+                        102,
+                        118
+                    ]
+                }
+            ],
+            "urls": [
+                {
+                    "url": "https://t.co/Mzkp2Jm0Ht",
+                    "expanded_url": "https://bit.ly/3xPWcX2",
+                    "display_url": "bit.ly/3xPWcX2",
+                    "indices": [
+                        78,
+                        101
+                    ]
+                }
+            ]
+        },
+        "metadata": {
+            "iso_language_code": "es",
+            "result_type": "recent"
+        },
+        "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 153625642,
+            "id_str": "153625642",
+            "name": "ATV Noticias",
+            "screen_name": "atv_noticias",
+            "location": "Lima, Per\u00fa",
+            "description": "Cuenta OFICIAL de nuestra fuerza informativa #ATVNoticias. \nS\u00edguenos y ent\u00e9rate de lo que sucede en Per\u00fa y el mundo. @atvpe",
+            "url": "http://t.co/v7bOa2TbBw",
+            "entities": {
+                "url": {
+                    "urls": [
+                        {
+                            "url": "http://t.co/v7bOa2TbBw",
+                            "expanded_url": "http://www.atv.pe",
+                            "display_url": "atv.pe",
+                            "indices": [
+                                0,
+                                22
+                            ]
+                        }
+                    ]
+                },
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 1265397,
+            "friends_count": 358,
+            "listed_count": 1264,
+            "created_at": "Wed Jun 09 01:33:56 +0000 2010",
+            "favourites_count": 2007,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": false,
+            "verified": false,
+            "statuses_count": 47518,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "4B66B1",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1217102848670027778/O7Nj2o92_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1217102848670027778/O7Nj2o92_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/153625642/1622442456",
+            "profile_link_color": "FF691F",
+            "profile_sidebar_border_color": "000000",
+            "profile_sidebar_fill_color": "000000",
+            "profile_text_color": "000000",
+            "profile_use_background_image": true,
+            "has_extended_profile": false,
+            "default_profile": false,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "regular",
+            "withheld_in_countries": []
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 15,
+        "favorite_count": 42,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "es"
+    },
+    "is_quote_status": false,
+    "retweet_count": 15,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "es"
+}

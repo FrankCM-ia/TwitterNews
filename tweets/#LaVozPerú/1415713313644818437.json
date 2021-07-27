@@ -1,0 +1,136 @@
+{
+    "created_at": "Thu Jul 15 16:42:11 +0000 2021",
+    "id": 1415713313644818437,
+    "id_str": "1415713313644818437",
+    "full_text": "@TETEXGIRL @Marcel75799 @BTS_twt Gente este grupo realiz\u00f3 un cover de \"Boy With Luv\", hasta el rap lo hicieron en coreano, est\u00e1 genial. Ah y tambi\u00e9n hicieron de \"Butter\" \ud83d\ude00\n#LaVozPeru\nhttps://t.co/peZFEjsx30",
+    "truncated": false,
+    "display_text_range": [
+        33,
+        206
+    ],
+    "entities": {
+        "hashtags": [
+            {
+                "text": "LaVozPeru",
+                "indices": [
+                    172,
+                    182
+                ]
+            }
+        ],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "TETEXGIRL",
+                "name": "Honey \u2077; \ud83e\udd20",
+                "id": 1308443552972759040,
+                "id_str": "1308443552972759040",
+                "indices": [
+                    0,
+                    10
+                ]
+            },
+            {
+                "screen_name": "Marcel75799",
+                "name": "\ud83d\udc51Marcel\u2077\ud83d\udc9c0\u00b0\u00d7\u2027\u208a\u2726\u02da\u2027\u2070\u02e3\u00b9\u207c\u2744\ufe0f\u1d2e\u1d31",
+                "id": 1055415573604171777,
+                "id_str": "1055415573604171777",
+                "indices": [
+                    11,
+                    23
+                ]
+            },
+            {
+                "screen_name": "BTS_twt",
+                "name": "\ubc29\ud0c4\uc18c\ub144\ub2e8",
+                "id": 335141638,
+                "id_str": "335141638",
+                "indices": [
+                    24,
+                    32
+                ]
+            }
+        ],
+        "urls": [
+            {
+                "url": "https://t.co/peZFEjsx30",
+                "expanded_url": "https://youtu.be/J3Jmt_yLVsw",
+                "display_url": "youtu.be/J3Jmt_yLVsw",
+                "indices": [
+                    183,
+                    206
+                ]
+            }
+        ]
+    },
+    "metadata": {
+        "iso_language_code": "es",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "in_reply_to_status_id": 1415400082862743558,
+    "in_reply_to_status_id_str": "1415400082862743558",
+    "in_reply_to_user_id": 1308443552972759040,
+    "in_reply_to_user_id_str": "1308443552972759040",
+    "in_reply_to_screen_name": "TETEXGIRL",
+    "user": {
+        "id": 994985231697444864,
+        "id_str": "994985231697444864",
+        "name": "La Flor de la Canela\u2077",
+        "screen_name": "illaryunnie018",
+        "location": "En la Tienda M\u00e1gica ",
+        "description": "\ud83d\udc9cOT7\ud83d\udc9c\n#ThankYouBTS #ONLYARMY  \n                     Mis Reinas: Hwasa, Jessi y mi gata Frydda!\n        Dime todo lo que quieras, menos \ud83c\udf4a",
+        "url": null,
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 519,
+        "friends_count": 682,
+        "listed_count": 1,
+        "created_at": "Fri May 11 16:58:59 +0000 2018",
+        "favourites_count": 41017,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 16876,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": null,
+        "profile_background_image_url_https": null,
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1410000453132247043/JPW9frQW_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1410000453132247043/JPW9frQW_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/994985231697444864/1624222804",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": true,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "es"
+}

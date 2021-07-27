@@ -1,0 +1,211 @@
+{
+    "created_at": "Fri Jul 16 03:47:57 +0000 2021",
+    "id": 1415880859509526529,
+    "id_str": "1415880859509526529",
+    "full_text": "RT @anticaviar4: La mermelera de @julianaoxenford calladita sobre el brutal ataque a Richard Muro por parte de simpatizantes de Per\u00fa Libre.\u2026",
+    "truncated": false,
+    "display_text_range": [
+        0,
+        140
+    ],
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "anticaviar4",
+                "name": "snowball \ud83c\uddf5\ud83c\uddea\ud83c\uddea\ud83c\uddf8",
+                "id": 1370208216865460227,
+                "id_str": "1370208216865460227",
+                "indices": [
+                    3,
+                    15
+                ]
+            },
+            {
+                "screen_name": "julianaoxenford",
+                "name": "julianaoxenford",
+                "id": 1271961894685937670,
+                "id_str": "1271961894685937670",
+                "indices": [
+                    33,
+                    49
+                ]
+            }
+        ],
+        "urls": []
+    },
+    "metadata": {
+        "iso_language_code": "es",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 1398405382280826888,
+        "id_str": "1398405382280826888",
+        "name": "Yon\u2764\ud83c\uddf5\ud83c\uddea",
+        "screen_name": "Yon39297309",
+        "location": "",
+        "description": "trabajo y tengo mis metas trazadas .",
+        "url": null,
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 20,
+        "friends_count": 45,
+        "listed_count": 1,
+        "created_at": "Fri May 28 22:27:17 +0000 2021",
+        "favourites_count": 3849,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 5692,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": null,
+        "profile_background_image_url_https": null,
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1403570022702854150/Xu545uGW_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1403570022702854150/Xu545uGW_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": true,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+        "created_at": "Fri Jul 16 02:39:04 +0000 2021",
+        "id": 1415863523784151045,
+        "id_str": "1415863523784151045",
+        "full_text": "La mermelera de @julianaoxenford calladita sobre el brutal ataque a Richard Muro por parte de simpatizantes de Per\u00fa Libre. Una arrastrada #AlEstiloJuliana",
+        "truncated": false,
+        "display_text_range": [
+            0,
+            154
+        ],
+        "entities": {
+            "hashtags": [
+                {
+                    "text": "AlEstiloJuliana",
+                    "indices": [
+                        138,
+                        154
+                    ]
+                }
+            ],
+            "symbols": [],
+            "user_mentions": [
+                {
+                    "screen_name": "julianaoxenford",
+                    "name": "julianaoxenford",
+                    "id": 1271961894685937670,
+                    "id_str": "1271961894685937670",
+                    "indices": [
+                        16,
+                        32
+                    ]
+                }
+            ],
+            "urls": []
+        },
+        "metadata": {
+            "iso_language_code": "es",
+            "result_type": "recent"
+        },
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 1370208216865460227,
+            "id_str": "1370208216865460227",
+            "name": "snowball \ud83c\uddf5\ud83c\uddea\ud83c\uddea\ud83c\uddf8",
+            "screen_name": "anticaviar4",
+            "location": "Santa Barbara, CA",
+            "description": "21. Los resentidos me dicen privilegiado.",
+            "url": null,
+            "entities": {
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 43,
+            "friends_count": 58,
+            "listed_count": 0,
+            "created_at": "Fri Mar 12 03:01:29 +0000 2021",
+            "favourites_count": 2165,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": false,
+            "verified": false,
+            "statuses_count": 99,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "F5F8FA",
+            "profile_background_image_url": null,
+            "profile_background_image_url_https": null,
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1399959341399101445/ZvWeTNVI_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1399959341399101445/ZvWeTNVI_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/1370208216865460227/1622626296",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "has_extended_profile": true,
+            "default_profile": true,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none",
+            "withheld_in_countries": []
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 26,
+        "favorite_count": 72,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "es"
+    },
+    "is_quote_status": false,
+    "retweet_count": 26,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "es"
+}

@@ -1,0 +1,301 @@
+{
+    "created_at": "Fri Jul 16 00:56:36 +0000 2021",
+    "id": 1415837738725789701,
+    "id_str": "1415837738725789701",
+    "full_text": "RT @RosaTolerante: \ud83d\ude1d \ud83e\udd23 \ud83d\ude1c tweeter le borra publicaci\u00f3n y suspende temporalmente la cuenta de @willaxtv \n\nBeto Ortiz se desespera \ud83e\udd23\ud83d\ude1c\ud83d\ude1d@pollofa\u2026",
+    "truncated": false,
+    "display_text_range": [
+        0,
+        140
+    ],
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "RosaTolerante",
+                "name": "Rosa Maria \ud83d\udccc\u201dTolerante\u201d",
+                "id": 1256707737599258625,
+                "id_str": "1256707737599258625",
+                "indices": [
+                    3,
+                    17
+                ]
+            },
+            {
+                "screen_name": "willaxtv",
+                "name": "Willax Televisi\u00f3n",
+                "id": 38512990,
+                "id_str": "38512990",
+                "indices": [
+                    92,
+                    101
+                ]
+            }
+        ],
+        "urls": []
+    },
+    "metadata": {
+        "iso_language_code": "es",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 1242499030678208512,
+        "id_str": "1242499030678208512",
+        "name": "Nevel peruano",
+        "screen_name": "claudiahatake",
+        "location": "Riverdale",
+        "description": "PEPERMENT",
+        "url": null,
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 38,
+        "friends_count": 801,
+        "listed_count": 0,
+        "created_at": "Tue Mar 24 17:10:39 +0000 2020",
+        "favourites_count": 6732,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 1777,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": null,
+        "profile_background_image_url_https": null,
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1405915147676401666/DNxNYct2_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1405915147676401666/DNxNYct2_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1242499030678208512/1587106512",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+        "created_at": "Tue Jul 13 02:19:51 +0000 2021",
+        "id": 1414771523769053190,
+        "id_str": "1414771523769053190",
+        "full_text": "\ud83d\ude1d \ud83e\udd23 \ud83d\ude1c tweeter le borra publicaci\u00f3n y suspende temporalmente la cuenta de @willaxtv \n\nBeto Ortiz se desespera \ud83e\udd23\ud83d\ude1c\ud83d\ude1d@pollofarsantepe #BetoASaber https://t.co/DkSKotNjMr",
+        "truncated": false,
+        "display_text_range": [
+            0,
+            140
+        ],
+        "entities": {
+            "hashtags": [
+                {
+                    "text": "BetoASaber",
+                    "indices": [
+                        129,
+                        140
+                    ]
+                }
+            ],
+            "symbols": [],
+            "user_mentions": [
+                {
+                    "screen_name": "willaxtv",
+                    "name": "Willax Televisi\u00f3n",
+                    "id": 38512990,
+                    "id_str": "38512990",
+                    "indices": [
+                        73,
+                        82
+                    ]
+                },
+                {
+                    "screen_name": "PolloFarsantePe",
+                    "name": "ElPolloFarsante",
+                    "id": 1409887097838841857,
+                    "id_str": "1409887097838841857",
+                    "indices": [
+                        112,
+                        128
+                    ]
+                }
+            ],
+            "urls": [],
+            "media": [
+                {
+                    "id": 1414771513128099840,
+                    "id_str": "1414771513128099840",
+                    "indices": [
+                        141,
+                        164
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/E6JHMgZXoAA7buK.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/E6JHMgZXoAA7buK.jpg",
+                    "url": "https://t.co/DkSKotNjMr",
+                    "display_url": "pic.twitter.com/DkSKotNjMr",
+                    "expanded_url": "https://twitter.com/RosaTolerante/status/1414771523769053190/photo/1",
+                    "type": "photo",
+                    "sizes": {
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "medium": {
+                            "w": 881,
+                            "h": 1200,
+                            "resize": "fit"
+                        },
+                        "large": {
+                            "w": 1242,
+                            "h": 1692,
+                            "resize": "fit"
+                        },
+                        "small": {
+                            "w": 499,
+                            "h": 680,
+                            "resize": "fit"
+                        }
+                    }
+                }
+            ]
+        },
+        "extended_entities": {
+            "media": [
+                {
+                    "id": 1414771513128099840,
+                    "id_str": "1414771513128099840",
+                    "indices": [
+                        141,
+                        164
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/E6JHMgZXoAA7buK.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/E6JHMgZXoAA7buK.jpg",
+                    "url": "https://t.co/DkSKotNjMr",
+                    "display_url": "pic.twitter.com/DkSKotNjMr",
+                    "expanded_url": "https://twitter.com/RosaTolerante/status/1414771523769053190/photo/1",
+                    "type": "photo",
+                    "sizes": {
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "medium": {
+                            "w": 881,
+                            "h": 1200,
+                            "resize": "fit"
+                        },
+                        "large": {
+                            "w": 1242,
+                            "h": 1692,
+                            "resize": "fit"
+                        },
+                        "small": {
+                            "w": 499,
+                            "h": 680,
+                            "resize": "fit"
+                        }
+                    }
+                }
+            ]
+        },
+        "metadata": {
+            "iso_language_code": "es",
+            "result_type": "recent"
+        },
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 1256707737599258625,
+            "id_str": "1256707737599258625",
+            "name": "Rosa Maria \ud83d\udccc\u201dTolerante\u201d",
+            "screen_name": "RosaTolerante",
+            "location": "Tu Corazon",
+            "description": "Fake, cuenta parodia!  aunque los #FujiApristas piensan que soy la original. 100% Dem\u00f3crata. #FujimoriNuncaMas",
+            "url": null,
+            "entities": {
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 22523,
+            "friends_count": 87,
+            "listed_count": 25,
+            "created_at": "Sat May 02 22:10:57 +0000 2020",
+            "favourites_count": 27206,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": false,
+            "verified": false,
+            "statuses_count": 17937,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "F5F8FA",
+            "profile_background_image_url": null,
+            "profile_background_image_url_https": null,
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1412065724051435527/lz0wSa-9_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1412065724051435527/lz0wSa-9_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/1256707737599258625/1601648746",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "has_extended_profile": false,
+            "default_profile": true,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none",
+            "withheld_in_countries": []
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 178,
+        "favorite_count": 875,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "es"
+    },
+    "is_quote_status": false,
+    "retweet_count": 178,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "es"
+}

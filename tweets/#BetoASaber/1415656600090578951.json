@@ -1,0 +1,257 @@
+{
+    "created_at": "Thu Jul 15 12:56:49 +0000 2021",
+    "id": 1415656600090578951,
+    "id_str": "1415656600090578951",
+    "full_text": "@NanoGuerra4 Y de los asfixiados y heridos por la arremetida de la Polic\u00eda no dice nada!!! Estamos en esta situaci\u00f3n XNO CUIDAR LOS VOTOS  XNO HABER PUESTO PERSONEROS y no dice nada de las v\u00edctimas de las marchas!!\u00a1 @willaxtv  #BetoASaber @rlopezaliaga1 @MilagrosLeivaG https://t.co/P8HPrmmAeX",
+    "truncated": false,
+    "display_text_range": [
+        0,
+        269
+    ],
+    "entities": {
+        "hashtags": [
+            {
+                "text": "BetoASaber",
+                "indices": [
+                    227,
+                    238
+                ]
+            }
+        ],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "NanoGuerra4",
+                "name": "Nano Guerra",
+                "id": 1326713607384666112,
+                "id_str": "1326713607384666112",
+                "indices": [
+                    0,
+                    12
+                ]
+            },
+            {
+                "screen_name": "willaxtv",
+                "name": "Willax Televisi\u00f3n",
+                "id": 38512990,
+                "id_str": "38512990",
+                "indices": [
+                    216,
+                    225
+                ]
+            },
+            {
+                "screen_name": "rlopezaliaga1",
+                "name": "Rafael L\u00f3pez Aliaga",
+                "id": 2492789645,
+                "id_str": "2492789645",
+                "indices": [
+                    239,
+                    253
+                ]
+            },
+            {
+                "screen_name": "MilagrosLeivaG",
+                "name": "milagrosleiva",
+                "id": 224916991,
+                "id_str": "224916991",
+                "indices": [
+                    254,
+                    269
+                ]
+            }
+        ],
+        "urls": [
+            {
+                "url": "https://t.co/P8HPrmmAeX",
+                "expanded_url": "https://twitter.com/Politica_ECpe/status/1415489490861404160",
+                "display_url": "twitter.com/Politica_ECpe/\u2026",
+                "indices": [
+                    270,
+                    293
+                ]
+            }
+        ]
+    },
+    "metadata": {
+        "iso_language_code": "es",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": 1326713607384666112,
+    "in_reply_to_user_id_str": "1326713607384666112",
+    "in_reply_to_screen_name": "NanoGuerra4",
+    "user": {
+        "id": 1137831319348555776,
+        "id_str": "1137831319348555776",
+        "name": "Noche Oscura123",
+        "screen_name": "Nocheoscura123",
+        "location": "",
+        "description": "Noche oscura123",
+        "url": null,
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 44,
+        "friends_count": 279,
+        "listed_count": 0,
+        "created_at": "Sun Jun 09 21:18:21 +0000 2019",
+        "favourites_count": 5368,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 13366,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": null,
+        "profile_background_image_url_https": null,
+        "profile_background_tile": false,
+        "profile_image_url": "http://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+        "profile_image_url_https": "https://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": true,
+        "default_profile_image": true,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": true,
+    "quoted_status_id": 1415489490861404160,
+    "quoted_status_id_str": "1415489490861404160",
+    "quoted_status": {
+        "created_at": "Thu Jul 15 01:52:47 +0000 2021",
+        "id": 1415489490861404160,
+        "id_str": "1415489490861404160",
+        "full_text": "Keiko Fujimori tras ataque a ministros: \u201cRechazo esas actitudes y las condeno p\u00fablicamente\u201d\n\nhttps://t.co/veXFWcHhFn",
+        "truncated": false,
+        "display_text_range": [
+            0,
+            116
+        ],
+        "entities": {
+            "hashtags": [],
+            "symbols": [],
+            "user_mentions": [],
+            "urls": [
+                {
+                    "url": "https://t.co/veXFWcHhFn",
+                    "expanded_url": "https://elcomercio.pe/politica/elecciones/keiko-fujimori-tras-ataque-a-ministros-de-salud-y-vivienda-rechazo-esas-actitudes-y-las-condeno-publicamente-fuerza-popular-oscar-ugarte-solangel-fernandez-nndc-noticia/",
+                    "display_url": "elcomercio.pe/politica/elecc\u2026",
+                    "indices": [
+                        93,
+                        116
+                    ]
+                }
+            ]
+        },
+        "metadata": {
+            "iso_language_code": "es",
+            "result_type": "recent"
+        },
+        "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 1616146872,
+            "id_str": "1616146872",
+            "name": "Pol\u00edtica El Comercio",
+            "screen_name": "Politica_ECpe",
+            "location": "Lima, Per\u00fa",
+            "description": "Cuenta oficial de la secci\u00f3n Pol\u00edtica del diario El Comercio.",
+            "url": "https://t.co/kGu3HW4Z2s",
+            "entities": {
+                "url": {
+                    "urls": [
+                        {
+                            "url": "https://t.co/kGu3HW4Z2s",
+                            "expanded_url": "http://elcomercio.pe/politica",
+                            "display_url": "elcomercio.pe/politica",
+                            "indices": [
+                                0,
+                                23
+                            ]
+                        }
+                    ]
+                },
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 449381,
+            "friends_count": 779,
+            "listed_count": 810,
+            "created_at": "Tue Jul 23 21:44:58 +0000 2013",
+            "favourites_count": 0,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": false,
+            "verified": false,
+            "statuses_count": 87743,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "C0DEED",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1377342660747403273/gO0xZXbc_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1377342660747403273/gO0xZXbc_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/1616146872/1606510307",
+            "profile_link_color": "0084B4",
+            "profile_sidebar_border_color": "FFFFFF",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "has_extended_profile": false,
+            "default_profile": false,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none",
+            "withheld_in_countries": []
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 7,
+        "favorite_count": 24,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "es"
+    },
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "es"
+}

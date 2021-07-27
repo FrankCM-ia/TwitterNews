@@ -1,0 +1,180 @@
+{
+    "created_at": "Fri Jul 16 02:54:09 +0000 2021",
+    "id": 1415867322036797440,
+    "id_str": "1415867322036797440",
+    "full_text": "Ah, pero cuando se trata de un simpatizante de Fuerza Popular tirado y sangrando en la pista a causa de los salvajes de Per\u00fa Libre: no, aqu\u00ed no pas\u00f3 nada. Y no faltan los tontos \u00fatiles de la izquierda morada.\n\n#AlEstiloJuliana #LasCosasComoSon https://t.co/i9yQf3yufP",
+    "truncated": false,
+    "display_text_range": [
+        0,
+        243
+    ],
+    "entities": {
+        "hashtags": [
+            {
+                "text": "AlEstiloJuliana",
+                "indices": [
+                    210,
+                    226
+                ]
+            },
+            {
+                "text": "LasCosasComoSon",
+                "indices": [
+                    227,
+                    243
+                ]
+            }
+        ],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [],
+        "media": [
+            {
+                "id": 1415866899762712582,
+                "id_str": "1415866899762712582",
+                "indices": [
+                    244,
+                    267
+                ],
+                "media_url": "http://pbs.twimg.com/media/E6YrcZmXEAYcJYl.png",
+                "media_url_https": "https://pbs.twimg.com/media/E6YrcZmXEAYcJYl.png",
+                "url": "https://t.co/i9yQf3yufP",
+                "display_url": "pic.twitter.com/i9yQf3yufP",
+                "expanded_url": "https://twitter.com/AlGranoSinFloro/status/1415867322036797440/photo/1",
+                "type": "photo",
+                "sizes": {
+                    "small": {
+                        "w": 680,
+                        "h": 383,
+                        "resize": "fit"
+                    },
+                    "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                    },
+                    "medium": {
+                        "w": 1011,
+                        "h": 570,
+                        "resize": "fit"
+                    },
+                    "large": {
+                        "w": 1011,
+                        "h": 570,
+                        "resize": "fit"
+                    }
+                }
+            }
+        ]
+    },
+    "extended_entities": {
+        "media": [
+            {
+                "id": 1415866899762712582,
+                "id_str": "1415866899762712582",
+                "indices": [
+                    244,
+                    267
+                ],
+                "media_url": "http://pbs.twimg.com/media/E6YrcZmXEAYcJYl.png",
+                "media_url_https": "https://pbs.twimg.com/media/E6YrcZmXEAYcJYl.png",
+                "url": "https://t.co/i9yQf3yufP",
+                "display_url": "pic.twitter.com/i9yQf3yufP",
+                "expanded_url": "https://twitter.com/AlGranoSinFloro/status/1415867322036797440/photo/1",
+                "type": "photo",
+                "sizes": {
+                    "small": {
+                        "w": 680,
+                        "h": 383,
+                        "resize": "fit"
+                    },
+                    "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                    },
+                    "medium": {
+                        "w": 1011,
+                        "h": 570,
+                        "resize": "fit"
+                    },
+                    "large": {
+                        "w": 1011,
+                        "h": 570,
+                        "resize": "fit"
+                    }
+                }
+            }
+        ]
+    },
+    "metadata": {
+        "iso_language_code": "es",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 1394143023655698432,
+        "id_str": "1394143023655698432",
+        "name": "Las cosas como son",
+        "screen_name": "AlGranoSinFloro",
+        "location": "",
+        "description": "Dejar el negacionismo atr\u00e1s y aceptar aquello que es distinto de lo que damos por hecho es el principio para alinearse a la realidad. Ah\u00ed entramos nosotros.",
+        "url": null,
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 2,
+        "friends_count": 37,
+        "listed_count": 0,
+        "created_at": "Mon May 17 04:09:51 +0000 2021",
+        "favourites_count": 74,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 158,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": null,
+        "profile_background_image_url_https": null,
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1394143166002044928/qtEWBK4D_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1394143166002044928/qtEWBK4D_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1394143023655698432/1626052560",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": true,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "es"
+}

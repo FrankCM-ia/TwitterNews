@@ -1,0 +1,298 @@
+{
+    "created_at": "Fri Jul 16 02:36:17 +0000 2021",
+    "id": 1415862823570264070,
+    "id_str": "1415862823570264070",
+    "full_text": "RT @BerenisseV: El se\u00f1or no puede caminar y la reportera de #BetoASaber se le corta la voz para contar lo que sucedi\u00f3 con este patriota.\nPo\u2026",
+    "truncated": false,
+    "display_text_range": [
+        0,
+        140
+    ],
+    "entities": {
+        "hashtags": [
+            {
+                "text": "BetoASaber",
+                "indices": [
+                    60,
+                    71
+                ]
+            }
+        ],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "BerenisseV",
+                "name": "Bere",
+                "id": 636698063,
+                "id_str": "636698063",
+                "indices": [
+                    3,
+                    14
+                ]
+            }
+        ],
+        "urls": []
+    },
+    "metadata": {
+        "iso_language_code": "es",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 2941623093,
+        "id_str": "2941623093",
+        "name": "\u10e6iKON7=brotherhood\u10e6",
+        "screen_name": "iKONbrothe7hood",
+        "location": "",
+        "description": "Supporting an artist or a group IS NOT an excuse for hating, bashing or badmouthing others\ud83e\udd17",
+        "url": "https://t.co/BvXjdEZG7B",
+        "entities": {
+            "url": {
+                "urls": [
+                    {
+                        "url": "https://t.co/BvXjdEZG7B",
+                        "expanded_url": "https://www.instagram.com/br5the7hood/",
+                        "display_url": "instagram.com/br5the7hood/",
+                        "indices": [
+                            0,
+                            23
+                        ]
+                    }
+                ]
+            },
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 16,
+        "friends_count": 52,
+        "listed_count": 0,
+        "created_at": "Fri Dec 26 02:55:58 +0000 2014",
+        "favourites_count": 35311,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 29091,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "9266CC",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1139274693763108881/PY4z8o-E_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1139274693763108881/PY4z8o-E_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2941623093/1560511261",
+        "profile_link_color": "9266CC",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+        "created_at": "Fri Jul 16 02:26:47 +0000 2021",
+        "id": 1415860435375599629,
+        "id_str": "1415860435375599629",
+        "full_text": "El se\u00f1or no puede caminar y la reportera de #BetoASaber se le corta la voz para contar lo que sucedi\u00f3 con este patriota.\nPor favor alg\u00fan abogado patriota que ayude a la familia para meter a la c\u00e1rcel a los delincuentes que lo intentaron matar a machetazos. \n#JusticiaParaRichard https://t.co/29wPK49SWf",
+        "truncated": false,
+        "display_text_range": [
+            0,
+            278
+        ],
+        "entities": {
+            "hashtags": [
+                {
+                    "text": "BetoASaber",
+                    "indices": [
+                        44,
+                        55
+                    ]
+                },
+                {
+                    "text": "JusticiaParaRichard",
+                    "indices": [
+                        258,
+                        278
+                    ]
+                }
+            ],
+            "symbols": [],
+            "user_mentions": [],
+            "urls": [],
+            "media": [
+                {
+                    "id": 1415860400801918979,
+                    "id_str": "1415860400801918979",
+                    "indices": [
+                        279,
+                        302
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/E6YliHFXMAMS8Df.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/E6YliHFXMAMS8Df.jpg",
+                    "url": "https://t.co/29wPK49SWf",
+                    "display_url": "pic.twitter.com/29wPK49SWf",
+                    "expanded_url": "https://twitter.com/BerenisseV/status/1415860435375599629/photo/1",
+                    "type": "photo",
+                    "sizes": {
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "large": {
+                            "w": 2048,
+                            "h": 1415,
+                            "resize": "fit"
+                        },
+                        "small": {
+                            "w": 680,
+                            "h": 470,
+                            "resize": "fit"
+                        },
+                        "medium": {
+                            "w": 1200,
+                            "h": 829,
+                            "resize": "fit"
+                        }
+                    }
+                }
+            ]
+        },
+        "extended_entities": {
+            "media": [
+                {
+                    "id": 1415860400801918979,
+                    "id_str": "1415860400801918979",
+                    "indices": [
+                        279,
+                        302
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/E6YliHFXMAMS8Df.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/E6YliHFXMAMS8Df.jpg",
+                    "url": "https://t.co/29wPK49SWf",
+                    "display_url": "pic.twitter.com/29wPK49SWf",
+                    "expanded_url": "https://twitter.com/BerenisseV/status/1415860435375599629/photo/1",
+                    "type": "photo",
+                    "sizes": {
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "large": {
+                            "w": 2048,
+                            "h": 1415,
+                            "resize": "fit"
+                        },
+                        "small": {
+                            "w": 680,
+                            "h": 470,
+                            "resize": "fit"
+                        },
+                        "medium": {
+                            "w": 1200,
+                            "h": 829,
+                            "resize": "fit"
+                        }
+                    }
+                }
+            ]
+        },
+        "metadata": {
+            "iso_language_code": "es",
+            "result_type": "recent"
+        },
+        "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 636698063,
+            "id_str": "636698063",
+            "name": "Bere",
+            "screen_name": "BerenisseV",
+            "location": "Lima - Per\u00fa",
+            "description": "Cuando las personas son libres de elegir, eligen la libertad\u270c\ufe0f\nDerecha\u27a1\ufe0f Libertaria\ud83d\udc0d",
+            "url": null,
+            "entities": {
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 409,
+            "friends_count": 693,
+            "listed_count": 11,
+            "created_at": "Mon Jul 16 04:36:21 +0000 2012",
+            "favourites_count": 14865,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": false,
+            "verified": false,
+            "statuses_count": 6621,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "ACDED6",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme7/bg.gif",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme7/bg.gif",
+            "profile_background_tile": true,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1411064241377972228/NFGjOPUr_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1411064241377972228/NFGjOPUr_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/636698063/1618372669",
+            "profile_link_color": "1B95E0",
+            "profile_sidebar_border_color": "FFFFFF",
+            "profile_sidebar_fill_color": "F3F3F3",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "has_extended_profile": true,
+            "default_profile": false,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none",
+            "withheld_in_countries": []
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 4,
+        "favorite_count": 9,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "es"
+    },
+    "is_quote_status": false,
+    "retweet_count": 4,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "es"
+}

@@ -1,0 +1,225 @@
+{
+    "created_at": "Fri Jul 16 02:38:37 +0000 2021",
+    "id": 1415863410999414785,
+    "id_str": "1415863410999414785",
+    "full_text": "@FiscaliaPeru es un antro de delincuentes. Est\u00e1 para ser investigada.\nHay que agradecer a @PolloFarsantePe pues gracias a su programa #BetoASaber pudo contactar con un empresario que pagar\u00e1 el tratamiento del Ing. RICHARD Muro.\nQu\u00e9 pena que otros canales no se hayan preocupado. https://t.co/tFfdXQv8yj",
+    "truncated": false,
+    "display_text_range": [
+        0,
+        278
+    ],
+    "entities": {
+        "hashtags": [
+            {
+                "text": "BetoASaber",
+                "indices": [
+                    134,
+                    145
+                ]
+            }
+        ],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "FiscaliaPeru",
+                "name": "Ministerio P\u00fablico",
+                "id": 302151609,
+                "id_str": "302151609",
+                "indices": [
+                    0,
+                    13
+                ]
+            },
+            {
+                "screen_name": "PolloFarsantePe",
+                "name": "ElPolloFarsante",
+                "id": 1409887097838841857,
+                "id_str": "1409887097838841857",
+                "indices": [
+                    90,
+                    106
+                ]
+            }
+        ],
+        "urls": [
+            {
+                "url": "https://t.co/tFfdXQv8yj",
+                "expanded_url": "https://twitter.com/socioperiodismo/status/1415860308539846656",
+                "display_url": "twitter.com/socioperiodism\u2026",
+                "indices": [
+                    279,
+                    302
+                ]
+            }
+        ]
+    },
+    "metadata": {
+        "iso_language_code": "es",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": 302151609,
+    "in_reply_to_user_id_str": "302151609",
+    "in_reply_to_screen_name": "FiscaliaPeru",
+    "user": {
+        "id": 991085975957835777,
+        "id_str": "991085975957835777",
+        "name": "Eduardo Barrionuevo Gargurevich",
+        "screen_name": "eddobarvich",
+        "location": "Lima, Peru",
+        "description": "Empresario. Presidente Electo de la Rep\u00fablica del Per\u00fa (2021-2026 con opci\u00f3n a quedarme hasta el 2050).",
+        "url": null,
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 71,
+        "friends_count": 263,
+        "listed_count": 0,
+        "created_at": "Mon Apr 30 22:44:44 +0000 2018",
+        "favourites_count": 684,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 4107,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1399851720344227841/guI5ZnjI_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1399851720344227841/guI5ZnjI_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/991085975957835777/1619936512",
+        "profile_link_color": "FAB81E",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "profile_use_background_image": false,
+        "has_extended_profile": true,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": true,
+    "quoted_status_id": 1415860308539846656,
+    "quoted_status_id_str": "1415860308539846656",
+    "quoted_status": {
+        "created_at": "Fri Jul 16 02:26:17 +0000 2021",
+        "id": 1415860308539846656,
+        "id_str": "1415860308539846656",
+        "full_text": "Terrible la agresi\u00f3n en contra del ciudadano Richard Muro, en la plaza San Mart\u00edn. Que el @FiscaliaPeru determine los responsables de ese crimen.",
+        "truncated": false,
+        "display_text_range": [
+            0,
+            145
+        ],
+        "entities": {
+            "hashtags": [],
+            "symbols": [],
+            "user_mentions": [
+                {
+                    "screen_name": "FiscaliaPeru",
+                    "name": "Ministerio P\u00fablico",
+                    "id": 302151609,
+                    "id_str": "302151609",
+                    "indices": [
+                        90,
+                        103
+                    ]
+                }
+            ],
+            "urls": []
+        },
+        "metadata": {
+            "iso_language_code": "es",
+            "result_type": "recent"
+        },
+        "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 628015213,
+            "id_str": "628015213",
+            "name": "Rene Gastelumendi",
+            "screen_name": "socioperiodismo",
+            "location": "Lima-Per\u00fa",
+            "description": "Periodista peruano, muy por debajo del bien y del mal.  \"Socioliberal\" Wannabe escritor. Surfer amateur. Creador de la frase: Sufre, peruano, sufre.",
+            "url": null,
+            "entities": {
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 219477,
+            "friends_count": 1126,
+            "listed_count": 366,
+            "created_at": "Fri Jul 06 03:49:56 +0000 2012",
+            "favourites_count": 10659,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": false,
+            "verified": false,
+            "statuses_count": 35032,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "C0DEED",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1252000062626041858/qFcXsmw-_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1252000062626041858/qFcXsmw-_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/628015213/1462519404",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "has_extended_profile": false,
+            "default_profile": true,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none",
+            "withheld_in_countries": []
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 182,
+        "favorite_count": 845,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "es"
+    },
+    "retweet_count": 0,
+    "favorite_count": 3,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "es"
+}

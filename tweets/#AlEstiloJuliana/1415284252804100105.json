@@ -1,0 +1,243 @@
+{
+    "created_at": "Wed Jul 14 12:17:15 +0000 2021",
+    "id": 1415284252804100105,
+    "id_str": "1415284252804100105",
+    "full_text": "RT @pnacionalistap: .@Ollanta_HumalaT en #AlEstiloJuliana: \"Castillo, al haber sacado 19% en 1ra vuelta, y 50% en 2da vuelta, debe aprender\u2026",
+    "truncated": false,
+    "display_text_range": [
+        0,
+        140
+    ],
+    "entities": {
+        "hashtags": [
+            {
+                "text": "AlEstiloJuliana",
+                "indices": [
+                    41,
+                    57
+                ]
+            }
+        ],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "pnacionalistap",
+                "name": "Partido Nacionalista",
+                "id": 75608800,
+                "id_str": "75608800",
+                "indices": [
+                    3,
+                    18
+                ]
+            },
+            {
+                "screen_name": "Ollanta_HumalaT",
+                "name": "Ollanta Humala Tasso",
+                "id": 151190865,
+                "id_str": "151190865",
+                "indices": [
+                    21,
+                    37
+                ]
+            }
+        ],
+        "urls": []
+    },
+    "metadata": {
+        "iso_language_code": "es",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 62904521,
+        "id_str": "62904521",
+        "name": "Sayda",
+        "screen_name": "SAYSAYSAYSA",
+        "location": "Per\u00fa, Lima",
+        "description": "S\u00f3lo es posible avanzar, cuando se mira lejos...\ud83e\udd29\ud83d\ude18\ud83c\udf37\nAqui solo democr\u00e1ticos...",
+        "url": null,
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 2149,
+        "friends_count": 1733,
+        "listed_count": 55,
+        "created_at": "Tue Aug 04 19:28:56 +0000 2009",
+        "favourites_count": 430674,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 281800,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme10/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme10/bg.gif",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1408809151917068294/XpRh9fWI_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1408809151917068294/XpRh9fWI_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/62904521/1624565287",
+        "profile_link_color": "F58EA8",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "profile_use_background_image": false,
+        "has_extended_profile": true,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+        "created_at": "Wed Jul 14 01:31:21 +0000 2021",
+        "id": 1415121708361687045,
+        "id_str": "1415121708361687045",
+        "full_text": ".@Ollanta_HumalaT en #AlEstiloJuliana: \"Castillo, al haber sacado 19% en 1ra vuelta, y 50% en 2da vuelta, debe aprender a gobernar para todos los peruanos. Quiz\u00e1 en 6 meses, sus actuales aliados lo tilden de traidor, lo abandonen y sean su oposici\u00f3n, como nos ocurri\u00f3 a nosotros\".",
+        "truncated": false,
+        "display_text_range": [
+            0,
+            280
+        ],
+        "entities": {
+            "hashtags": [
+                {
+                    "text": "AlEstiloJuliana",
+                    "indices": [
+                        21,
+                        37
+                    ]
+                }
+            ],
+            "symbols": [],
+            "user_mentions": [
+                {
+                    "screen_name": "Ollanta_HumalaT",
+                    "name": "Ollanta Humala Tasso",
+                    "id": 151190865,
+                    "id_str": "151190865",
+                    "indices": [
+                        1,
+                        17
+                    ]
+                }
+            ],
+            "urls": []
+        },
+        "metadata": {
+            "iso_language_code": "es",
+            "result_type": "recent"
+        },
+        "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 75608800,
+            "id_str": "75608800",
+            "name": "Partido Nacionalista",
+            "screen_name": "pnacionalistap",
+            "location": "Lima",
+            "description": "Cuenta Oficial del Partido Nacionalista Peruano. Organizaci\u00f3n Pol\u00edtica fundada por el expresidente Ollanta Humala Tasso. https://t.co/ZY6f88PiVl",
+            "url": "https://t.co/40zwZEgQJr",
+            "entities": {
+                "url": {
+                    "urls": [
+                        {
+                            "url": "https://t.co/40zwZEgQJr",
+                            "expanded_url": "http://www.partidonacionalistaperuano.org.pe",
+                            "display_url": "partidonacionalistaperuano.org.pe",
+                            "indices": [
+                                0,
+                                23
+                            ]
+                        }
+                    ]
+                },
+                "description": {
+                    "urls": [
+                        {
+                            "url": "https://t.co/ZY6f88PiVl",
+                            "expanded_url": "https://www.facebook.com/pnacionalistap",
+                            "display_url": "facebook.com/pnacionalistap",
+                            "indices": [
+                                121,
+                                144
+                            ]
+                        }
+                    ]
+                }
+            },
+            "protected": false,
+            "followers_count": 34558,
+            "friends_count": 790,
+            "listed_count": 307,
+            "created_at": "Sat Sep 19 18:20:09 +0000 2009",
+            "favourites_count": 7057,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": true,
+            "verified": false,
+            "statuses_count": 14940,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "F7F5FA",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1331962281396232193/Hmdcp0Y5_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1331962281396232193/Hmdcp0Y5_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/75608800/1613778183",
+            "profile_link_color": "E10B1C",
+            "profile_sidebar_border_color": "FFFFFF",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "has_extended_profile": false,
+            "default_profile": false,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none",
+            "withheld_in_countries": []
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 37,
+        "favorite_count": 103,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "es"
+    },
+    "is_quote_status": false,
+    "retweet_count": 37,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "es"
+}

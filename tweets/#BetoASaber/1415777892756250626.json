@@ -1,0 +1,303 @@
+{
+    "created_at": "Thu Jul 15 20:58:48 +0000 2021",
+    "id": 1415777892756250626,
+    "id_str": "1415777892756250626",
+    "full_text": "RT @12untraviolento: #BetoASaber \nExcelente informe de Claudia Toro, desenmacarando  al Frepap y su alianza con Peru Libre para que no se e\u2026",
+    "truncated": false,
+    "display_text_range": [
+        0,
+        140
+    ],
+    "entities": {
+        "hashtags": [
+            {
+                "text": "BetoASaber",
+                "indices": [
+                    21,
+                    32
+                ]
+            }
+        ],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "12untraviolento",
+                "name": "12untraviolento",
+                "id": 1380226180759044096,
+                "id_str": "1380226180759044096",
+                "indices": [
+                    3,
+                    19
+                ]
+            }
+        ],
+        "urls": []
+    },
+    "metadata": {
+        "iso_language_code": "es",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 1364425709217853441,
+        "id_str": "1364425709217853441",
+        "name": "PsicologaTatiana",
+        "screen_name": "PsicologaTatia3",
+        "location": "Lima, Peru",
+        "description": "\u201c La mente sana es un privilegio\u201d#leoobservo tweet",
+        "url": null,
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 1,
+        "friends_count": 51,
+        "listed_count": 0,
+        "created_at": "Wed Feb 24 04:03:46 +0000 2021",
+        "favourites_count": 30,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 90,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": null,
+        "profile_background_image_url_https": null,
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1411027771174834180/LetanBRC_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1411027771174834180/LetanBRC_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1364425709217853441/1625250212",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": true,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+        "created_at": "Fri Jul 09 04:24:45 +0000 2021",
+        "id": 1413353407033774085,
+        "id_str": "1413353407033774085",
+        "full_text": "#BetoASaber \nExcelente informe de Claudia Toro, desenmacarando  al Frepap y su alianza con Peru Libre para que no se eligan a mienbros del TC, ya sabemos como funciona los \"truques y favores\" https://t.co/Uo5iBp4Pyo",
+        "truncated": false,
+        "display_text_range": [
+            0,
+            191
+        ],
+        "entities": {
+            "hashtags": [
+                {
+                    "text": "BetoASaber",
+                    "indices": [
+                        0,
+                        11
+                    ]
+                }
+            ],
+            "symbols": [],
+            "user_mentions": [],
+            "urls": [],
+            "media": [
+                {
+                    "id": 1413352815733448705,
+                    "id_str": "1413352815733448705",
+                    "indices": [
+                        192,
+                        215
+                    ],
+                    "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1413352815733448705/pu/img/CooZwMz6WjEGFQlT.jpg",
+                    "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1413352815733448705/pu/img/CooZwMz6WjEGFQlT.jpg",
+                    "url": "https://t.co/Uo5iBp4Pyo",
+                    "display_url": "pic.twitter.com/Uo5iBp4Pyo",
+                    "expanded_url": "https://twitter.com/12untraviolento/status/1413353407033774085/video/1",
+                    "type": "photo",
+                    "sizes": {
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "medium": {
+                            "w": 854,
+                            "h": 458,
+                            "resize": "fit"
+                        },
+                        "large": {
+                            "w": 854,
+                            "h": 458,
+                            "resize": "fit"
+                        },
+                        "small": {
+                            "w": 680,
+                            "h": 365,
+                            "resize": "fit"
+                        }
+                    }
+                }
+            ]
+        },
+        "extended_entities": {
+            "media": [
+                {
+                    "id": 1413352815733448705,
+                    "id_str": "1413352815733448705",
+                    "indices": [
+                        192,
+                        215
+                    ],
+                    "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1413352815733448705/pu/img/CooZwMz6WjEGFQlT.jpg",
+                    "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1413352815733448705/pu/img/CooZwMz6WjEGFQlT.jpg",
+                    "url": "https://t.co/Uo5iBp4Pyo",
+                    "display_url": "pic.twitter.com/Uo5iBp4Pyo",
+                    "expanded_url": "https://twitter.com/12untraviolento/status/1413353407033774085/video/1",
+                    "type": "video",
+                    "sizes": {
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "medium": {
+                            "w": 854,
+                            "h": 458,
+                            "resize": "fit"
+                        },
+                        "large": {
+                            "w": 854,
+                            "h": 458,
+                            "resize": "fit"
+                        },
+                        "small": {
+                            "w": 680,
+                            "h": 365,
+                            "resize": "fit"
+                        }
+                    },
+                    "video_info": {
+                        "aspect_ratio": [
+                            427,
+                            229
+                        ],
+                        "duration_millis": 43467,
+                        "variants": [
+                            {
+                                "content_type": "application/x-mpegURL",
+                                "url": "https://video.twimg.com/ext_tw_video/1413352815733448705/pu/pl/Z3yIdmohHZYOD0l3.m3u8?tag=12&container=fmp4"
+                            },
+                            {
+                                "bitrate": 256000,
+                                "content_type": "video/mp4",
+                                "url": "https://video.twimg.com/ext_tw_video/1413352815733448705/pu/vid/502x270/q7fHOUIyfDd2adoc.mp4?tag=12"
+                            },
+                            {
+                                "bitrate": 832000,
+                                "content_type": "video/mp4",
+                                "url": "https://video.twimg.com/ext_tw_video/1413352815733448705/pu/vid/854x458/AvYi42fjcuQAUmhJ.mp4?tag=12"
+                            }
+                        ]
+                    },
+                    "additional_media_info": {
+                        "monetizable": false
+                    }
+                }
+            ]
+        },
+        "metadata": {
+            "iso_language_code": "es",
+            "result_type": "recent"
+        },
+        "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 1380226180759044096,
+            "id_str": "1380226180759044096",
+            "name": "12untraviolento",
+            "screen_name": "12untraviolento",
+            "location": "",
+            "description": "Solo se que nada Se\npromotor de eventos\nliberal de derecha",
+            "url": null,
+            "entities": {
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 40,
+            "friends_count": 67,
+            "listed_count": 0,
+            "created_at": "Thu Apr 08 18:29:17 +0000 2021",
+            "favourites_count": 3579,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": false,
+            "verified": false,
+            "statuses_count": 4084,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "F5F8FA",
+            "profile_background_image_url": null,
+            "profile_background_image_url_https": null,
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1380226987449589767/KjElPxDN_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1380226987449589767/KjElPxDN_normal.jpg",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "has_extended_profile": true,
+            "default_profile": true,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none",
+            "withheld_in_countries": []
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 172,
+        "favorite_count": 477,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "es"
+    },
+    "is_quote_status": false,
+    "retweet_count": 172,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "es"
+}

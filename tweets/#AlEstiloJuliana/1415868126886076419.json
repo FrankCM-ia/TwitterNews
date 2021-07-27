@@ -1,0 +1,284 @@
+{
+    "created_at": "Fri Jul 16 02:57:21 +0000 2021",
+    "id": 1415868126886076419,
+    "id_str": "1415868126886076419",
+    "full_text": "RT @11Incorrecto: Ya podemos decir que es una dictadura o esperamos a que nos desaparesca el gobierno del lapiz y la oz? \n#SagastiGolpistaC\u2026",
+    "truncated": false,
+    "display_text_range": [
+        0,
+        140
+    ],
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "11Incorrecto",
+                "name": "Incorrecto.11",
+                "id": 1343924130408787973,
+                "id_str": "1343924130408787973",
+                "indices": [
+                    3,
+                    16
+                ]
+            }
+        ],
+        "urls": []
+    },
+    "metadata": {
+        "iso_language_code": "es",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 1258201230914072577,
+        "id_str": "1258201230914072577",
+        "name": "Cl",
+        "screen_name": "Cl63600281",
+        "location": "",
+        "description": "x",
+        "url": null,
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 103,
+        "friends_count": 627,
+        "listed_count": 0,
+        "created_at": "Thu May 07 01:05:44 +0000 2020",
+        "favourites_count": 15567,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 11711,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": null,
+        "profile_background_image_url_https": null,
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1412183795755802628/c5dNqBio_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1412183795755802628/c5dNqBio_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1258201230914072577/1625526014",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+        "created_at": "Fri Jul 16 02:25:16 +0000 2021",
+        "id": 1415860052750123014,
+        "id_str": "1415860052750123014",
+        "full_text": "Ya podemos decir que es una dictadura o esperamos a que nos desaparesca el gobierno del lapiz y la oz? \n#SagastiGolpistaCTM #AlEstiloJuliana #AuditoriaInternacionalYa https://t.co/fKwJYSpnc6",
+        "truncated": false,
+        "display_text_range": [
+            0,
+            166
+        ],
+        "entities": {
+            "hashtags": [
+                {
+                    "text": "SagastiGolpistaCTM",
+                    "indices": [
+                        104,
+                        123
+                    ]
+                },
+                {
+                    "text": "AlEstiloJuliana",
+                    "indices": [
+                        124,
+                        140
+                    ]
+                },
+                {
+                    "text": "AuditoriaInternacionalYa",
+                    "indices": [
+                        141,
+                        166
+                    ]
+                }
+            ],
+            "symbols": [],
+            "user_mentions": [],
+            "urls": [],
+            "media": [
+                {
+                    "id": 1415860049105272832,
+                    "id_str": "1415860049105272832",
+                    "indices": [
+                        167,
+                        190
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/E6YlNo6WQAAM4vv.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/E6YlNo6WQAAM4vv.jpg",
+                    "url": "https://t.co/fKwJYSpnc6",
+                    "display_url": "pic.twitter.com/fKwJYSpnc6",
+                    "expanded_url": "https://twitter.com/11Incorrecto/status/1415860052750123014/photo/1",
+                    "type": "photo",
+                    "sizes": {
+                        "large": {
+                            "w": 1517,
+                            "h": 1200,
+                            "resize": "fit"
+                        },
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "medium": {
+                            "w": 1200,
+                            "h": 949,
+                            "resize": "fit"
+                        },
+                        "small": {
+                            "w": 680,
+                            "h": 538,
+                            "resize": "fit"
+                        }
+                    }
+                }
+            ]
+        },
+        "extended_entities": {
+            "media": [
+                {
+                    "id": 1415860049105272832,
+                    "id_str": "1415860049105272832",
+                    "indices": [
+                        167,
+                        190
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/E6YlNo6WQAAM4vv.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/E6YlNo6WQAAM4vv.jpg",
+                    "url": "https://t.co/fKwJYSpnc6",
+                    "display_url": "pic.twitter.com/fKwJYSpnc6",
+                    "expanded_url": "https://twitter.com/11Incorrecto/status/1415860052750123014/photo/1",
+                    "type": "photo",
+                    "sizes": {
+                        "large": {
+                            "w": 1517,
+                            "h": 1200,
+                            "resize": "fit"
+                        },
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "medium": {
+                            "w": 1200,
+                            "h": 949,
+                            "resize": "fit"
+                        },
+                        "small": {
+                            "w": 680,
+                            "h": 538,
+                            "resize": "fit"
+                        }
+                    }
+                }
+            ]
+        },
+        "metadata": {
+            "iso_language_code": "es",
+            "result_type": "recent"
+        },
+        "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 1343924130408787973,
+            "id_str": "1343924130408787973",
+            "name": "Incorrecto.11",
+            "screen_name": "11Incorrecto",
+            "location": "",
+            "description": "Atista. Libertario, derecha, paleolibertario, conserva, depende de como me levante.\ud83c\udfa8",
+            "url": null,
+            "entities": {
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 221,
+            "friends_count": 49,
+            "listed_count": 1,
+            "created_at": "Tue Dec 29 14:17:44 +0000 2020",
+            "favourites_count": 1021,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": false,
+            "verified": false,
+            "statuses_count": 385,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "F5F8FA",
+            "profile_background_image_url": null,
+            "profile_background_image_url_https": null,
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1366372233531260928/hlJlTgwE_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1366372233531260928/hlJlTgwE_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/1343924130408787973/1614728470",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "has_extended_profile": true,
+            "default_profile": true,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none",
+            "withheld_in_countries": []
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 67,
+        "favorite_count": 181,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "es"
+    },
+    "is_quote_status": false,
+    "retweet_count": 67,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "es"
+}

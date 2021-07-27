@@ -1,0 +1,184 @@
+{
+    "created_at": "Fri Jul 16 03:30:20 +0000 2021",
+    "id": 1415876426423746563,
+    "id_str": "1415876426423746563",
+    "full_text": "Le mueven el carro a Ugarte: @julianaoxenford \"ay terrible, como es posible esta violencia\" Masacran a un patriota, el Sr. Muro: \"muda \ud83e\udd10\" la inhumanidad en su m\u00e1ximo esplendor. Sra, h\u00e1ganos un favor y v\u00e1yase a su pa\u00eds comunista, ac\u00e1 no la queremos \n#AlEstiloJuliana https://t.co/mlnQOWN7dT",
+    "truncated": false,
+    "display_text_range": [
+        0,
+        265
+    ],
+    "entities": {
+        "hashtags": [
+            {
+                "text": "AlEstiloJuliana",
+                "indices": [
+                    249,
+                    265
+                ]
+            }
+        ],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "julianaoxenford",
+                "name": "julianaoxenford",
+                "id": 1271961894685937670,
+                "id_str": "1271961894685937670",
+                "indices": [
+                    29,
+                    45
+                ]
+            }
+        ],
+        "urls": [],
+        "media": [
+            {
+                "id": 1415876413375324162,
+                "id_str": "1415876413375324162",
+                "indices": [
+                    266,
+                    289
+                ],
+                "media_url": "http://pbs.twimg.com/media/E6Y0GKkXIAIsdIM.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/E6Y0GKkXIAIsdIM.jpg",
+                "url": "https://t.co/mlnQOWN7dT",
+                "display_url": "pic.twitter.com/mlnQOWN7dT",
+                "expanded_url": "https://twitter.com/MaryYanezV/status/1415876426423746563/photo/1",
+                "type": "photo",
+                "sizes": {
+                    "medium": {
+                        "w": 1200,
+                        "h": 1163,
+                        "resize": "fit"
+                    },
+                    "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                    },
+                    "small": {
+                        "w": 680,
+                        "h": 659,
+                        "resize": "fit"
+                    },
+                    "large": {
+                        "w": 2048,
+                        "h": 1984,
+                        "resize": "fit"
+                    }
+                }
+            }
+        ]
+    },
+    "extended_entities": {
+        "media": [
+            {
+                "id": 1415876413375324162,
+                "id_str": "1415876413375324162",
+                "indices": [
+                    266,
+                    289
+                ],
+                "media_url": "http://pbs.twimg.com/media/E6Y0GKkXIAIsdIM.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/E6Y0GKkXIAIsdIM.jpg",
+                "url": "https://t.co/mlnQOWN7dT",
+                "display_url": "pic.twitter.com/mlnQOWN7dT",
+                "expanded_url": "https://twitter.com/MaryYanezV/status/1415876426423746563/photo/1",
+                "type": "photo",
+                "sizes": {
+                    "medium": {
+                        "w": 1200,
+                        "h": 1163,
+                        "resize": "fit"
+                    },
+                    "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                    },
+                    "small": {
+                        "w": 680,
+                        "h": 659,
+                        "resize": "fit"
+                    },
+                    "large": {
+                        "w": 2048,
+                        "h": 1984,
+                        "resize": "fit"
+                    }
+                }
+            }
+        ]
+    },
+    "metadata": {
+        "iso_language_code": "es",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 165646830,
+        "id_str": "165646830",
+        "name": "Mary Ya\u00f1ez Valencia",
+        "screen_name": "MaryYanezV",
+        "location": "Lima",
+        "description": "Veritas Liberabit Vos. \nCat\u00f3lica Mariana. \nConservadora. \nNo necesito que el Estado me mantenga, solo que me deje trabajar \ud83d\udcaa\ud83c\udffc\ud83c\uddf5\ud83c\uddea",
+        "url": null,
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 75,
+        "friends_count": 350,
+        "listed_count": 0,
+        "created_at": "Mon Jul 12 04:41:23 +0000 2010",
+        "favourites_count": 10800,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 1915,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "EBEBEB",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme7/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme7/bg.gif",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1397028319862923266/L_YCTcZT_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1397028319862923266/L_YCTcZT_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/165646830/1601517785",
+        "profile_link_color": "990000",
+        "profile_sidebar_border_color": "DFDFDF",
+        "profile_sidebar_fill_color": "F3F3F3",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": true,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 1,
+    "favorite_count": 4,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "es"
+}

@@ -1,0 +1,317 @@
+{
+    "created_at": "Fri Jul 16 02:40:07 +0000 2021",
+    "id": 1415863790424543235,
+    "id_str": "1415863790424543235",
+    "full_text": "RT @JDFlorez95: Esto no lo viste venir Porky? Traidores como este sujeto nunca faltan, y menos si son topos de otras tendencias pol\u00edticas!\u2026",
+    "truncated": false,
+    "display_text_range": [
+        0,
+        139
+    ],
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "JDFlorez95",
+                "name": "Juan Diego Fl\u00f3rez Calder\u00f3n \ud83c\uddf5\ud83c\uddea",
+                "id": 1362961580359639044,
+                "id_str": "1362961580359639044",
+                "indices": [
+                    3,
+                    14
+                ]
+            }
+        ],
+        "urls": []
+    },
+    "metadata": {
+        "iso_language_code": "es",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 4922590204,
+        "id_str": "4922590204",
+        "name": "Democracia y Libertad",
+        "screen_name": "Eliascarlos123",
+        "location": "Espa\u00f1a",
+        "description": "Republicanista liberal o socio-liberal dem\u00f3crata a 100%",
+        "url": null,
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 8,
+        "friends_count": 300,
+        "listed_count": 0,
+        "created_at": "Wed Feb 17 05:14:01 +0000 2016",
+        "favourites_count": 1180,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 332,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": null,
+        "profile_background_image_url_https": null,
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1413034705906282496/DedqyGnI_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1413034705906282496/DedqyGnI_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/4922590204/1625957280",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": true,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+        "created_at": "Thu Jul 08 03:16:11 +0000 2021",
+        "id": 1412973763562557442,
+        "id_str": "1412973763562557442",
+        "full_text": "Esto no lo viste venir Porky? Traidores como este sujeto nunca faltan, y menos si son topos de otras tendencias pol\u00edticas! @rlopezaliaga1 #AlEstiloJuliana https://t.co/LsBV7qXBcM",
+        "truncated": false,
+        "display_text_range": [
+            0,
+            154
+        ],
+        "entities": {
+            "hashtags": [
+                {
+                    "text": "AlEstiloJuliana",
+                    "indices": [
+                        138,
+                        154
+                    ]
+                }
+            ],
+            "symbols": [],
+            "user_mentions": [
+                {
+                    "screen_name": "rlopezaliaga1",
+                    "name": "Rafael L\u00f3pez Aliaga",
+                    "id": 2492789645,
+                    "id_str": "2492789645",
+                    "indices": [
+                        123,
+                        137
+                    ]
+                }
+            ],
+            "urls": [],
+            "media": [
+                {
+                    "id": 1412973757975699456,
+                    "id_str": "1412973757975699456",
+                    "indices": [
+                        155,
+                        178
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/E5vkJYkXIAAwyfu.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/E5vkJYkXIAAwyfu.jpg",
+                    "url": "https://t.co/LsBV7qXBcM",
+                    "display_url": "pic.twitter.com/LsBV7qXBcM",
+                    "expanded_url": "https://twitter.com/JDFlorez95/status/1412973763562557442/photo/1",
+                    "type": "photo",
+                    "sizes": {
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "small": {
+                            "w": 680,
+                            "h": 376,
+                            "resize": "fit"
+                        },
+                        "medium": {
+                            "w": 720,
+                            "h": 398,
+                            "resize": "fit"
+                        },
+                        "large": {
+                            "w": 720,
+                            "h": 398,
+                            "resize": "fit"
+                        }
+                    }
+                }
+            ]
+        },
+        "extended_entities": {
+            "media": [
+                {
+                    "id": 1412973757975699456,
+                    "id_str": "1412973757975699456",
+                    "indices": [
+                        155,
+                        178
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/E5vkJYkXIAAwyfu.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/E5vkJYkXIAAwyfu.jpg",
+                    "url": "https://t.co/LsBV7qXBcM",
+                    "display_url": "pic.twitter.com/LsBV7qXBcM",
+                    "expanded_url": "https://twitter.com/JDFlorez95/status/1412973763562557442/photo/1",
+                    "type": "photo",
+                    "sizes": {
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "small": {
+                            "w": 680,
+                            "h": 376,
+                            "resize": "fit"
+                        },
+                        "medium": {
+                            "w": 720,
+                            "h": 398,
+                            "resize": "fit"
+                        },
+                        "large": {
+                            "w": 720,
+                            "h": 398,
+                            "resize": "fit"
+                        }
+                    }
+                },
+                {
+                    "id": 1412973761054318592,
+                    "id_str": "1412973761054318592",
+                    "indices": [
+                        155,
+                        178
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/E5vkJkCXIAAw06b.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/E5vkJkCXIAAw06b.jpg",
+                    "url": "https://t.co/LsBV7qXBcM",
+                    "display_url": "pic.twitter.com/LsBV7qXBcM",
+                    "expanded_url": "https://twitter.com/JDFlorez95/status/1412973763562557442/photo/1",
+                    "type": "photo",
+                    "sizes": {
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "small": {
+                            "w": 505,
+                            "h": 677,
+                            "resize": "fit"
+                        },
+                        "medium": {
+                            "w": 505,
+                            "h": 677,
+                            "resize": "fit"
+                        },
+                        "large": {
+                            "w": 505,
+                            "h": 677,
+                            "resize": "fit"
+                        }
+                    }
+                }
+            ]
+        },
+        "metadata": {
+            "iso_language_code": "es",
+            "result_type": "recent"
+        },
+        "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 1362961580359639044,
+            "id_str": "1362961580359639044",
+            "name": "Juan Diego Fl\u00f3rez Calder\u00f3n \ud83c\uddf5\ud83c\uddea",
+            "screen_name": "JDFlorez95",
+            "location": "",
+            "description": "Peruano, librepensador. Derecha siempre derecha! \ud83d\udcaa",
+            "url": null,
+            "entities": {
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 32,
+            "friends_count": 110,
+            "listed_count": 1,
+            "created_at": "Sat Feb 20 03:05:47 +0000 2021",
+            "favourites_count": 2197,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": false,
+            "verified": false,
+            "statuses_count": 284,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "F5F8FA",
+            "profile_background_image_url": null,
+            "profile_background_image_url_https": null,
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1403939251771879428/e9_629vk_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1403939251771879428/e9_629vk_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/1362961580359639044/1620772386",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "has_extended_profile": true,
+            "default_profile": true,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none",
+            "withheld_in_countries": []
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 119,
+        "favorite_count": 598,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "es"
+    },
+    "is_quote_status": false,
+    "retweet_count": 119,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "es"
+}

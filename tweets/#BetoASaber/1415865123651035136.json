@@ -1,0 +1,283 @@
+{
+    "created_at": "Fri Jul 16 02:45:25 +0000 2021",
+    "id": 1415865123651035136,
+    "id_str": "1415865123651035136",
+    "full_text": "RT @Richie_1958: Ninguno de los programas de TV progresistas hablan de la cobarde agresi\u00f3n que v\u00e1ndalos y simpatizantes de Per\u00fa Libre han p\u2026",
+    "truncated": false,
+    "display_text_range": [
+        0,
+        140
+    ],
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "Richie_1958",
+                "name": "Ricardo Qui\u00f1e Pe\u00f1a",
+                "id": 271971781,
+                "id_str": "271971781",
+                "indices": [
+                    3,
+                    15
+                ]
+            }
+        ],
+        "urls": []
+    },
+    "metadata": {
+        "iso_language_code": "es",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 2243403758,
+        "id_str": "2243403758",
+        "name": "Juliana L.",
+        "screen_name": "Jull230",
+        "location": "",
+        "description": "Presidenta de la Republica del Peru (2021 - 2026)\n\nEl conocimiento y el acceso a la informaci\u00f3n es un derecho humano",
+        "url": null,
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 203,
+        "friends_count": 133,
+        "listed_count": 3,
+        "created_at": "Fri Dec 13 05:34:01 +0000 2013",
+        "favourites_count": 44562,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 17122,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/494306329540845568/D8c-Kdsm_normal.jpeg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/494306329540845568/D8c-Kdsm_normal.jpeg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2243403758/1406686875",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+        "created_at": "Fri Jul 16 02:37:44 +0000 2021",
+        "id": 1415863189695340547,
+        "id_str": "1415863189695340547",
+        "full_text": "Ninguno de los programas de TV progresistas hablan de la cobarde agresi\u00f3n que v\u00e1ndalos y simpatizantes de Per\u00fa Libre han propinado hacia el Sr. Richard Muro, persona mayor de edad. Willax es el \u00fanico. Una l\u00e1stima. #BetoASaber https://t.co/Oo3ddDHMiy",
+        "truncated": false,
+        "display_text_range": [
+            0,
+            225
+        ],
+        "entities": {
+            "hashtags": [
+                {
+                    "text": "BetoASaber",
+                    "indices": [
+                        214,
+                        225
+                    ]
+                }
+            ],
+            "symbols": [],
+            "user_mentions": [],
+            "urls": [],
+            "media": [
+                {
+                    "id": 1415863186713202692,
+                    "id_str": "1415863186713202692",
+                    "indices": [
+                        226,
+                        249
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/E6YoERaX0AQEBn2.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/E6YoERaX0AQEBn2.jpg",
+                    "url": "https://t.co/Oo3ddDHMiy",
+                    "display_url": "pic.twitter.com/Oo3ddDHMiy",
+                    "expanded_url": "https://twitter.com/Richie_1958/status/1415863189695340547/photo/1",
+                    "type": "photo",
+                    "sizes": {
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "large": {
+                            "w": 2048,
+                            "h": 1536,
+                            "resize": "fit"
+                        },
+                        "medium": {
+                            "w": 1200,
+                            "h": 900,
+                            "resize": "fit"
+                        },
+                        "small": {
+                            "w": 680,
+                            "h": 510,
+                            "resize": "fit"
+                        }
+                    }
+                }
+            ]
+        },
+        "extended_entities": {
+            "media": [
+                {
+                    "id": 1415863186713202692,
+                    "id_str": "1415863186713202692",
+                    "indices": [
+                        226,
+                        249
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/E6YoERaX0AQEBn2.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/E6YoERaX0AQEBn2.jpg",
+                    "url": "https://t.co/Oo3ddDHMiy",
+                    "display_url": "pic.twitter.com/Oo3ddDHMiy",
+                    "expanded_url": "https://twitter.com/Richie_1958/status/1415863189695340547/photo/1",
+                    "type": "photo",
+                    "sizes": {
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "large": {
+                            "w": 2048,
+                            "h": 1536,
+                            "resize": "fit"
+                        },
+                        "medium": {
+                            "w": 1200,
+                            "h": 900,
+                            "resize": "fit"
+                        },
+                        "small": {
+                            "w": 680,
+                            "h": 510,
+                            "resize": "fit"
+                        }
+                    }
+                }
+            ]
+        },
+        "metadata": {
+            "iso_language_code": "es",
+            "result_type": "recent"
+        },
+        "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 271971781,
+            "id_str": "271971781",
+            "name": "Ricardo Qui\u00f1e Pe\u00f1a",
+            "screen_name": "Richie_1958",
+            "location": "",
+            "description": "Administrador de Empresas y Pol\u00edtico. Amante de la buena lectura, fan ac\u00e9rrimo de the Beatles y del Rock Cl\u00e1sico.",
+            "url": "https://t.co/sDh1EMupzQ",
+            "entities": {
+                "url": {
+                    "urls": [
+                        {
+                            "url": "https://t.co/sDh1EMupzQ",
+                            "expanded_url": "https://instagram.com/ricardoquinepena?igshid=15xegiwni670g",
+                            "display_url": "instagram.com/ricardoquinepe\u2026",
+                            "indices": [
+                                0,
+                                23
+                            ]
+                        }
+                    ]
+                },
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 46,
+            "friends_count": 96,
+            "listed_count": 1,
+            "created_at": "Fri Mar 25 15:10:38 +0000 2011",
+            "favourites_count": 10371,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": false,
+            "verified": false,
+            "statuses_count": 4595,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "C0DEED",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1393771051700658177/BBOFHjP2_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1393771051700658177/BBOFHjP2_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/271971781/1621135504",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "has_extended_profile": true,
+            "default_profile": true,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none",
+            "withheld_in_countries": []
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 4,
+        "favorite_count": 8,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "es"
+    },
+    "is_quote_status": false,
+    "retweet_count": 4,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "es"
+}

@@ -1,0 +1,365 @@
+{
+    "created_at": "Thu Jul 15 03:37:46 +0000 2021",
+    "id": 1415515911130341377,
+    "id_str": "1415515911130341377",
+    "full_text": "RT @lechecitaconpan: Ya que Noah no se pudo quedar, declaro a Sebasti\u00e1n mi nuevo amor de la noche #LaVozPeru https://t.co/Emmu1eNl3S",
+    "truncated": false,
+    "display_text_range": [
+        0,
+        132
+    ],
+    "entities": {
+        "hashtags": [
+            {
+                "text": "LaVozPeru",
+                "indices": [
+                    98,
+                    108
+                ]
+            }
+        ],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "lechecitaconpan",
+                "name": "tedigoquenoseptm",
+                "id": 1349777663343423494,
+                "id_str": "1349777663343423494",
+                "indices": [
+                    3,
+                    19
+                ]
+            }
+        ],
+        "urls": [],
+        "media": [
+            {
+                "id": 1415500419707678720,
+                "id_str": "1415500419707678720",
+                "indices": [
+                    109,
+                    132
+                ],
+                "media_url": "http://pbs.twimg.com/media/E6TeIdAXsAAzus4.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/E6TeIdAXsAAzus4.jpg",
+                "url": "https://t.co/Emmu1eNl3S",
+                "display_url": "pic.twitter.com/Emmu1eNl3S",
+                "expanded_url": "https://twitter.com/lechecitaconpan/status/1415500425214705665/photo/1",
+                "type": "photo",
+                "sizes": {
+                    "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                    },
+                    "medium": {
+                        "w": 482,
+                        "h": 305,
+                        "resize": "fit"
+                    },
+                    "large": {
+                        "w": 482,
+                        "h": 305,
+                        "resize": "fit"
+                    },
+                    "small": {
+                        "w": 482,
+                        "h": 305,
+                        "resize": "fit"
+                    }
+                },
+                "source_status_id": 1415500425214705665,
+                "source_status_id_str": "1415500425214705665",
+                "source_user_id": 1349777663343423494,
+                "source_user_id_str": "1349777663343423494"
+            }
+        ]
+    },
+    "extended_entities": {
+        "media": [
+            {
+                "id": 1415500419707678720,
+                "id_str": "1415500419707678720",
+                "indices": [
+                    109,
+                    132
+                ],
+                "media_url": "http://pbs.twimg.com/media/E6TeIdAXsAAzus4.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/E6TeIdAXsAAzus4.jpg",
+                "url": "https://t.co/Emmu1eNl3S",
+                "display_url": "pic.twitter.com/Emmu1eNl3S",
+                "expanded_url": "https://twitter.com/lechecitaconpan/status/1415500425214705665/photo/1",
+                "type": "photo",
+                "sizes": {
+                    "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                    },
+                    "medium": {
+                        "w": 482,
+                        "h": 305,
+                        "resize": "fit"
+                    },
+                    "large": {
+                        "w": 482,
+                        "h": 305,
+                        "resize": "fit"
+                    },
+                    "small": {
+                        "w": 482,
+                        "h": 305,
+                        "resize": "fit"
+                    }
+                },
+                "source_status_id": 1415500425214705665,
+                "source_status_id_str": "1415500425214705665",
+                "source_user_id": 1349777663343423494,
+                "source_user_id_str": "1349777663343423494"
+            }
+        ]
+    },
+    "metadata": {
+        "iso_language_code": "es",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 1251648352544063495,
+        "id_str": "1251648352544063495",
+        "name": "a",
+        "screen_name": "merlex123",
+        "location": "",
+        "description": "Mood: Llorarle mucho a Lexie, Mark y Luke.",
+        "url": null,
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 19,
+        "friends_count": 19,
+        "listed_count": 0,
+        "created_at": "Sat Apr 18 23:06:54 +0000 2020",
+        "favourites_count": 11152,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 1745,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": null,
+        "profile_background_image_url_https": null,
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1391866078113026051/n-LOREAn_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1391866078113026051/n-LOREAn_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1251648352544063495/1617935761",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+        "created_at": "Thu Jul 15 02:36:14 +0000 2021",
+        "id": 1415500425214705665,
+        "id_str": "1415500425214705665",
+        "full_text": "Ya que Noah no se pudo quedar, declaro a Sebasti\u00e1n mi nuevo amor de la noche #LaVozPeru https://t.co/Emmu1eNl3S",
+        "truncated": false,
+        "display_text_range": [
+            0,
+            87
+        ],
+        "entities": {
+            "hashtags": [
+                {
+                    "text": "LaVozPeru",
+                    "indices": [
+                        77,
+                        87
+                    ]
+                }
+            ],
+            "symbols": [],
+            "user_mentions": [],
+            "urls": [],
+            "media": [
+                {
+                    "id": 1415500419707678720,
+                    "id_str": "1415500419707678720",
+                    "indices": [
+                        88,
+                        111
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/E6TeIdAXsAAzus4.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/E6TeIdAXsAAzus4.jpg",
+                    "url": "https://t.co/Emmu1eNl3S",
+                    "display_url": "pic.twitter.com/Emmu1eNl3S",
+                    "expanded_url": "https://twitter.com/lechecitaconpan/status/1415500425214705665/photo/1",
+                    "type": "photo",
+                    "sizes": {
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "medium": {
+                            "w": 482,
+                            "h": 305,
+                            "resize": "fit"
+                        },
+                        "large": {
+                            "w": 482,
+                            "h": 305,
+                            "resize": "fit"
+                        },
+                        "small": {
+                            "w": 482,
+                            "h": 305,
+                            "resize": "fit"
+                        }
+                    }
+                }
+            ]
+        },
+        "extended_entities": {
+            "media": [
+                {
+                    "id": 1415500419707678720,
+                    "id_str": "1415500419707678720",
+                    "indices": [
+                        88,
+                        111
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/E6TeIdAXsAAzus4.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/E6TeIdAXsAAzus4.jpg",
+                    "url": "https://t.co/Emmu1eNl3S",
+                    "display_url": "pic.twitter.com/Emmu1eNl3S",
+                    "expanded_url": "https://twitter.com/lechecitaconpan/status/1415500425214705665/photo/1",
+                    "type": "photo",
+                    "sizes": {
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "medium": {
+                            "w": 482,
+                            "h": 305,
+                            "resize": "fit"
+                        },
+                        "large": {
+                            "w": 482,
+                            "h": 305,
+                            "resize": "fit"
+                        },
+                        "small": {
+                            "w": 482,
+                            "h": 305,
+                            "resize": "fit"
+                        }
+                    }
+                }
+            ]
+        },
+        "metadata": {
+            "iso_language_code": "es",
+            "result_type": "recent"
+        },
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 1349777663343423494,
+            "id_str": "1349777663343423494",
+            "name": "tedigoquenoseptm",
+            "screen_name": "lechecitaconpan",
+            "location": "",
+            "description": "A veces como que s\u00ed, pero no.",
+            "url": null,
+            "entities": {
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 20,
+            "friends_count": 21,
+            "listed_count": 0,
+            "created_at": "Thu Jan 14 17:57:36 +0000 2021",
+            "favourites_count": 850,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": false,
+            "verified": false,
+            "statuses_count": 218,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "F5F8FA",
+            "profile_background_image_url": null,
+            "profile_background_image_url_https": null,
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1399424702423220231/TBYX9xGz_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1399424702423220231/TBYX9xGz_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/1349777663343423494/1621812650",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "has_extended_profile": true,
+            "default_profile": true,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none",
+            "withheld_in_countries": []
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 3,
+        "favorite_count": 72,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "es"
+    },
+    "is_quote_status": false,
+    "retweet_count": 3,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "es"
+}

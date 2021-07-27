@@ -1,0 +1,513 @@
+{
+    "created_at": "Fri Jul 16 03:39:27 +0000 2021",
+    "id": 1415878722926882821,
+    "id_str": "1415878722926882821",
+    "full_text": "Ataque criminal de partidarios comunistas de Per\u00fa Libre en centro de Lima\n@cnnbrk @CNN @CNNPolitics @CNNInternatDesk @cnni @bbcmundo @BBCBreaking @BBCWorld @BBCBreaking @ABC\n@hrw_espanol\n@ActualidadRT\u00a0 \n@dw_espanol\u00a0 \n@bbcmundo \nNano #AlEstiloJuliana #SagastiGolpistaCTM Interbank https://t.co/MQa3GqiKDv",
+    "truncated": false,
+    "display_text_range": [
+        0,
+        279
+    ],
+    "entities": {
+        "hashtags": [
+            {
+                "text": "AlEstiloJuliana",
+                "indices": [
+                    233,
+                    249
+                ]
+            },
+            {
+                "text": "SagastiGolpistaCTM",
+                "indices": [
+                    250,
+                    269
+                ]
+            }
+        ],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "cnnbrk",
+                "name": "CNN Breaking News",
+                "id": 428333,
+                "id_str": "428333",
+                "indices": [
+                    74,
+                    81
+                ]
+            },
+            {
+                "screen_name": "CNN",
+                "name": "CNN",
+                "id": 759251,
+                "id_str": "759251",
+                "indices": [
+                    82,
+                    86
+                ]
+            },
+            {
+                "screen_name": "CNNPolitics",
+                "name": "CNN Politics",
+                "id": 13850422,
+                "id_str": "13850422",
+                "indices": [
+                    87,
+                    99
+                ]
+            },
+            {
+                "screen_name": "CNNInternatDesk",
+                "name": "International News",
+                "id": 18559380,
+                "id_str": "18559380",
+                "indices": [
+                    100,
+                    116
+                ]
+            },
+            {
+                "screen_name": "cnni",
+                "name": "CNN International",
+                "id": 2097571,
+                "id_str": "2097571",
+                "indices": [
+                    117,
+                    122
+                ]
+            },
+            {
+                "screen_name": "bbcmundo",
+                "name": "BBC News Mundo",
+                "id": 10012122,
+                "id_str": "10012122",
+                "indices": [
+                    123,
+                    132
+                ]
+            },
+            {
+                "screen_name": "BBCBreaking",
+                "name": "BBC Breaking News",
+                "id": 5402612,
+                "id_str": "5402612",
+                "indices": [
+                    133,
+                    145
+                ]
+            },
+            {
+                "screen_name": "BBCWorld",
+                "name": "BBC News (World)",
+                "id": 742143,
+                "id_str": "742143",
+                "indices": [
+                    146,
+                    155
+                ]
+            },
+            {
+                "screen_name": "BBCBreaking",
+                "name": "BBC Breaking News",
+                "id": 5402612,
+                "id_str": "5402612",
+                "indices": [
+                    156,
+                    168
+                ]
+            },
+            {
+                "screen_name": "ABC",
+                "name": "ABC News",
+                "id": 28785486,
+                "id_str": "28785486",
+                "indices": [
+                    169,
+                    173
+                ]
+            },
+            {
+                "screen_name": "hrw_espanol",
+                "name": "Human Rights Watch",
+                "id": 187042474,
+                "id_str": "187042474",
+                "indices": [
+                    174,
+                    186
+                ]
+            },
+            {
+                "screen_name": "ActualidadRT",
+                "name": "RT en Espa\u00f1ol",
+                "id": 100731315,
+                "id_str": "100731315",
+                "indices": [
+                    187,
+                    200
+                ]
+            },
+            {
+                "screen_name": "dw_espanol",
+                "name": "DW Espa\u00f1ol",
+                "id": 6135622,
+                "id_str": "6135622",
+                "indices": [
+                    203,
+                    214
+                ]
+            },
+            {
+                "screen_name": "bbcmundo",
+                "name": "BBC News Mundo",
+                "id": 10012122,
+                "id_str": "10012122",
+                "indices": [
+                    217,
+                    226
+                ]
+            }
+        ],
+        "urls": [
+            {
+                "url": "https://t.co/MQa3GqiKDv",
+                "expanded_url": "https://twitter.com/RafaelRomeroVas/status/1415860642884603908",
+                "display_url": "twitter.com/RafaelRomeroVa\u2026",
+                "indices": [
+                    280,
+                    303
+                ]
+            }
+        ]
+    },
+    "metadata": {
+        "iso_language_code": "es",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 976492380978376704,
+        "id_str": "976492380978376704",
+        "name": "Antonio",
+        "screen_name": "Antonio39185305",
+        "location": "",
+        "description": "",
+        "url": null,
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 84,
+        "friends_count": 0,
+        "listed_count": 1,
+        "created_at": "Wed Mar 21 16:15:00 +0000 2018",
+        "favourites_count": 15973,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 15968,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": null,
+        "profile_background_image_url_https": null,
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1334846362773491712/I9CPN8fa_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1334846362773491712/I9CPN8fa_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": true,
+    "quoted_status_id": 1415860642884603908,
+    "quoted_status_id_str": "1415860642884603908",
+    "quoted_status": {
+        "created_at": "Fri Jul 16 02:27:37 +0000 2021",
+        "id": 1415860642884603908,
+        "id_str": "1415860642884603908",
+        "full_text": "\u00bfD\u00f3nde diablos est\u00e1n los comunicados pro-derechos humanos de @Ideele, @ACTransparencia, @ProeticaPeru, de los \"caviaresrojimorados\" y d\u00f3nde la acci\u00f3n de @PePeElice, el @MininterPeru, el @MinjusDH_Peru? Solidaridad con el Sr. Richard Muro y su familia atacada por @PERU_LIBRE1. https://t.co/Y4rpiQZ5ro",
+        "truncated": false,
+        "display_text_range": [
+            0,
+            276
+        ],
+        "entities": {
+            "hashtags": [],
+            "symbols": [],
+            "user_mentions": [
+                {
+                    "screen_name": "Ideele",
+                    "name": "IDL",
+                    "id": 114858832,
+                    "id_str": "114858832",
+                    "indices": [
+                        61,
+                        68
+                    ]
+                },
+                {
+                    "screen_name": "ACTransparencia",
+                    "name": "Transparencia Per\u00fa",
+                    "id": 69351861,
+                    "id_str": "69351861",
+                    "indices": [
+                        70,
+                        86
+                    ]
+                },
+                {
+                    "screen_name": "ProeticaPeru",
+                    "name": "Pro\u00e9tica",
+                    "id": 94351910,
+                    "id_str": "94351910",
+                    "indices": [
+                        88,
+                        101
+                    ]
+                },
+                {
+                    "screen_name": "PePeElice",
+                    "name": "Jos\u00e9 Elice",
+                    "id": 812526120230879232,
+                    "id_str": "812526120230879232",
+                    "indices": [
+                        153,
+                        163
+                    ]
+                },
+                {
+                    "screen_name": "MininterPeru",
+                    "name": "Ministerio del Interior \ud83c\uddf5\ud83c\uddea",
+                    "id": 98964508,
+                    "id_str": "98964508",
+                    "indices": [
+                        168,
+                        181
+                    ]
+                },
+                {
+                    "screen_name": "MinjusDH_Peru",
+                    "name": "Ministerio de Justicia y Derechos Humanos",
+                    "id": 60989762,
+                    "id_str": "60989762",
+                    "indices": [
+                        186,
+                        200
+                    ]
+                },
+                {
+                    "screen_name": "PERU_LIBRE1",
+                    "name": "Per\u00fa Libre",
+                    "id": 1387280174480334851,
+                    "id_str": "1387280174480334851",
+                    "indices": [
+                        263,
+                        275
+                    ]
+                }
+            ],
+            "urls": [],
+            "media": [
+                {
+                    "id": 1415860640078516232,
+                    "id_str": "1415860640078516232",
+                    "indices": [
+                        277,
+                        300
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/E6YlwCdWUAgPsjj.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/E6YlwCdWUAgPsjj.jpg",
+                    "url": "https://t.co/Y4rpiQZ5ro",
+                    "display_url": "pic.twitter.com/Y4rpiQZ5ro",
+                    "expanded_url": "https://twitter.com/RafaelRomeroVas/status/1415860642884603908/photo/1",
+                    "type": "photo",
+                    "sizes": {
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "large": {
+                            "w": 2048,
+                            "h": 1146,
+                            "resize": "fit"
+                        },
+                        "small": {
+                            "w": 680,
+                            "h": 381,
+                            "resize": "fit"
+                        },
+                        "medium": {
+                            "w": 1200,
+                            "h": 671,
+                            "resize": "fit"
+                        }
+                    }
+                }
+            ]
+        },
+        "extended_entities": {
+            "media": [
+                {
+                    "id": 1415860640078516232,
+                    "id_str": "1415860640078516232",
+                    "indices": [
+                        277,
+                        300
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/E6YlwCdWUAgPsjj.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/E6YlwCdWUAgPsjj.jpg",
+                    "url": "https://t.co/Y4rpiQZ5ro",
+                    "display_url": "pic.twitter.com/Y4rpiQZ5ro",
+                    "expanded_url": "https://twitter.com/RafaelRomeroVas/status/1415860642884603908/photo/1",
+                    "type": "photo",
+                    "sizes": {
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "large": {
+                            "w": 2048,
+                            "h": 1146,
+                            "resize": "fit"
+                        },
+                        "small": {
+                            "w": 680,
+                            "h": 381,
+                            "resize": "fit"
+                        },
+                        "medium": {
+                            "w": 1200,
+                            "h": 671,
+                            "resize": "fit"
+                        }
+                    }
+                }
+            ]
+        },
+        "metadata": {
+            "iso_language_code": "es",
+            "result_type": "recent"
+        },
+        "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 169299339,
+            "id_str": "169299339",
+            "name": "Rafael Romero",
+            "screen_name": "RafaelRomeroVas",
+            "location": "Lima, Per\u00fa",
+            "description": "Periodista, analista pol\u00edtico, consultor en comunicaci\u00f3n estrat\u00e9gica y marketing.\n\nhttps://t.co/GXAy4LDFiS",
+            "url": "http://t.co/zobFxca2cW",
+            "entities": {
+                "url": {
+                    "urls": [
+                        {
+                            "url": "http://t.co/zobFxca2cW",
+                            "expanded_url": "http://rafaelromerovasquez.blogspot.com/",
+                            "display_url": "rafaelromerovasquez.blogspot.com",
+                            "indices": [
+                                0,
+                                22
+                            ]
+                        }
+                    ]
+                },
+                "description": {
+                    "urls": [
+                        {
+                            "url": "https://t.co/GXAy4LDFiS",
+                            "expanded_url": "https://www.facebook.com/rafaelromerovasquez67",
+                            "display_url": "facebook.com/rafaelromerova\u2026",
+                            "indices": [
+                                83,
+                                106
+                            ]
+                        }
+                    ]
+                }
+            },
+            "protected": false,
+            "followers_count": 4916,
+            "friends_count": 762,
+            "listed_count": 37,
+            "created_at": "Thu Jul 22 00:57:53 +0000 2010",
+            "favourites_count": 25425,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": false,
+            "verified": false,
+            "statuses_count": 30121,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "000000",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/515196564461977600/EaToeXdd_normal.jpeg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/515196564461977600/EaToeXdd_normal.jpeg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/169299339/1411666265",
+            "profile_link_color": "3B94D9",
+            "profile_sidebar_border_color": "000000",
+            "profile_sidebar_fill_color": "000000",
+            "profile_text_color": "000000",
+            "profile_use_background_image": false,
+            "has_extended_profile": false,
+            "default_profile": false,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none",
+            "withheld_in_countries": []
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 390,
+        "favorite_count": 783,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "es"
+    },
+    "retweet_count": 1,
+    "favorite_count": 1,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "es"
+}

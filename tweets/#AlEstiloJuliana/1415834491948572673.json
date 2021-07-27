@@ -1,0 +1,318 @@
+{
+    "created_at": "Fri Jul 16 00:43:42 +0000 2021",
+    "id": 1415834491948572673,
+    "id_str": "1415834491948572673",
+    "full_text": "@julianaoxenford #AlEstiloJuliana No dir\u00e1s nada sobre el se\u00f1or al que lo simpatizantes de Per\u00fa libre LE ROMPIERON LA CABEZA? https://t.co/AYmevEUdZn",
+    "truncated": false,
+    "display_text_range": [
+        0,
+        124
+    ],
+    "entities": {
+        "hashtags": [
+            {
+                "text": "AlEstiloJuliana",
+                "indices": [
+                    17,
+                    33
+                ]
+            }
+        ],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "julianaoxenford",
+                "name": "julianaoxenford",
+                "id": 1271961894685937670,
+                "id_str": "1271961894685937670",
+                "indices": [
+                    0,
+                    16
+                ]
+            }
+        ],
+        "urls": [
+            {
+                "url": "https://t.co/AYmevEUdZn",
+                "expanded_url": "https://twitter.com/samantha_dere/status/1415767538194059274",
+                "display_url": "twitter.com/samantha_dere/\u2026",
+                "indices": [
+                    125,
+                    148
+                ]
+            }
+        ]
+    },
+    "metadata": {
+        "iso_language_code": "es",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": 1271961894685937670,
+    "in_reply_to_user_id_str": "1271961894685937670",
+    "in_reply_to_screen_name": "julianaoxenford",
+    "user": {
+        "id": 527619024,
+        "id_str": "527619024",
+        "name": "Axel",
+        "screen_name": "Amelio1423",
+        "location": "",
+        "description": "Economista privilegiado seg\u00fan un progre. UP. 22 a\u00f1os.",
+        "url": null,
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 277,
+        "friends_count": 68,
+        "listed_count": 0,
+        "created_at": "Sat Mar 17 16:34:35 +0000 2012",
+        "favourites_count": 570,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 272,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1399167049356791811/8ri9jz1l_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1399167049356791811/8ri9jz1l_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "regular",
+        "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": true,
+    "quoted_status_id": 1415767538194059274,
+    "quoted_status_id_str": "1415767538194059274",
+    "quoted_status": {
+        "created_at": "Thu Jul 15 20:17:39 +0000 2021",
+        "id": 1415767538194059274,
+        "id_str": "1415767538194059274",
+        "full_text": "Problemas mentales tiene esta se\u00f1ora \ud83e\udd2e https://t.co/rE4yA4rXkO",
+        "truncated": false,
+        "display_text_range": [
+            0,
+            38
+        ],
+        "entities": {
+            "hashtags": [],
+            "symbols": [],
+            "user_mentions": [],
+            "urls": [],
+            "media": [
+                {
+                    "id": 1415767525930016773,
+                    "id_str": "1415767525930016773",
+                    "indices": [
+                        39,
+                        62
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/E6XREFOXoAUL6Wi.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/E6XREFOXoAUL6Wi.jpg",
+                    "url": "https://t.co/rE4yA4rXkO",
+                    "display_url": "pic.twitter.com/rE4yA4rXkO",
+                    "expanded_url": "https://twitter.com/samantha_dere/status/1415767538194059274/photo/1",
+                    "type": "photo",
+                    "sizes": {
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "medium": {
+                            "w": 688,
+                            "h": 1199,
+                            "resize": "fit"
+                        },
+                        "small": {
+                            "w": 390,
+                            "h": 680,
+                            "resize": "fit"
+                        },
+                        "large": {
+                            "w": 688,
+                            "h": 1199,
+                            "resize": "fit"
+                        }
+                    }
+                }
+            ]
+        },
+        "extended_entities": {
+            "media": [
+                {
+                    "id": 1415767525930016773,
+                    "id_str": "1415767525930016773",
+                    "indices": [
+                        39,
+                        62
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/E6XREFOXoAUL6Wi.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/E6XREFOXoAUL6Wi.jpg",
+                    "url": "https://t.co/rE4yA4rXkO",
+                    "display_url": "pic.twitter.com/rE4yA4rXkO",
+                    "expanded_url": "https://twitter.com/samantha_dere/status/1415767538194059274/photo/1",
+                    "type": "photo",
+                    "sizes": {
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "medium": {
+                            "w": 688,
+                            "h": 1199,
+                            "resize": "fit"
+                        },
+                        "small": {
+                            "w": 390,
+                            "h": 680,
+                            "resize": "fit"
+                        },
+                        "large": {
+                            "w": 688,
+                            "h": 1199,
+                            "resize": "fit"
+                        }
+                    }
+                },
+                {
+                    "id": 1415767525942517763,
+                    "id_str": "1415767525942517763",
+                    "indices": [
+                        39,
+                        62
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/E6XREFRWYAMpY_W.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/E6XREFRWYAMpY_W.jpg",
+                    "url": "https://t.co/rE4yA4rXkO",
+                    "display_url": "pic.twitter.com/rE4yA4rXkO",
+                    "expanded_url": "https://twitter.com/samantha_dere/status/1415767538194059274/photo/1",
+                    "type": "photo",
+                    "sizes": {
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "medium": {
+                            "w": 836,
+                            "h": 1200,
+                            "resize": "fit"
+                        },
+                        "large": {
+                            "w": 1242,
+                            "h": 1782,
+                            "resize": "fit"
+                        },
+                        "small": {
+                            "w": 474,
+                            "h": 680,
+                            "resize": "fit"
+                        }
+                    }
+                }
+            ]
+        },
+        "metadata": {
+            "iso_language_code": "es",
+            "result_type": "recent"
+        },
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 519804043,
+            "id_str": "519804043",
+            "name": "la fe",
+            "screen_name": "samantha_dere",
+            "location": "Lima, Peru",
+            "description": "pasando el rato",
+            "url": null,
+            "entities": {
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 376,
+            "friends_count": 278,
+            "listed_count": 0,
+            "created_at": "Fri Mar 09 20:40:38 +0000 2012",
+            "favourites_count": 42204,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": false,
+            "verified": false,
+            "statuses_count": 5293,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "C0DEED",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1411049637251796992/6VG4Nuaz_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1411049637251796992/6VG4Nuaz_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/519804043/1624776488",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "has_extended_profile": false,
+            "default_profile": true,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none",
+            "withheld_in_countries": []
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 127,
+        "favorite_count": 380,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "es"
+    },
+    "retweet_count": 1,
+    "favorite_count": 2,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "es"
+}

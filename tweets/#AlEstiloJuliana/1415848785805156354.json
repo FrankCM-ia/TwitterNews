@@ -1,0 +1,173 @@
+{
+    "created_at": "Fri Jul 16 01:40:30 +0000 2021",
+    "id": 1415848785805156354,
+    "id_str": "1415848785805156354",
+    "full_text": "#AlEstiloJuliana\nEl programa favorito de los rojetes chupa l\u00e1pices saltan del culo escaldado cada vez q rompe pi\u00f1ata y habla sus estupideces felicidades rojetes \ud83d\udc7d\ud83d\udca9\ud83d\udca9\ud83e\udd21\ud83d\udca9\ud83e\udd21 https://t.co/Rk9ztjRP2s",
+    "truncated": false,
+    "display_text_range": [
+        0,
+        167
+    ],
+    "entities": {
+        "hashtags": [
+            {
+                "text": "AlEstiloJuliana",
+                "indices": [
+                    0,
+                    16
+                ]
+            }
+        ],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [],
+        "media": [
+            {
+                "id": 1415848783104073731,
+                "id_str": "1415848783104073731",
+                "indices": [
+                    168,
+                    191
+                ],
+                "media_url": "http://pbs.twimg.com/media/E6Ya93yWYAMt3aU.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/E6Ya93yWYAMt3aU.jpg",
+                "url": "https://t.co/Rk9ztjRP2s",
+                "display_url": "pic.twitter.com/Rk9ztjRP2s",
+                "expanded_url": "https://twitter.com/enriquedb07/status/1415848785805156354/photo/1",
+                "type": "photo",
+                "sizes": {
+                    "large": {
+                        "w": 720,
+                        "h": 1025,
+                        "resize": "fit"
+                    },
+                    "small": {
+                        "w": 478,
+                        "h": 680,
+                        "resize": "fit"
+                    },
+                    "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                    },
+                    "medium": {
+                        "w": 720,
+                        "h": 1025,
+                        "resize": "fit"
+                    }
+                }
+            }
+        ]
+    },
+    "extended_entities": {
+        "media": [
+            {
+                "id": 1415848783104073731,
+                "id_str": "1415848783104073731",
+                "indices": [
+                    168,
+                    191
+                ],
+                "media_url": "http://pbs.twimg.com/media/E6Ya93yWYAMt3aU.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/E6Ya93yWYAMt3aU.jpg",
+                "url": "https://t.co/Rk9ztjRP2s",
+                "display_url": "pic.twitter.com/Rk9ztjRP2s",
+                "expanded_url": "https://twitter.com/enriquedb07/status/1415848785805156354/photo/1",
+                "type": "photo",
+                "sizes": {
+                    "large": {
+                        "w": 720,
+                        "h": 1025,
+                        "resize": "fit"
+                    },
+                    "small": {
+                        "w": 478,
+                        "h": 680,
+                        "resize": "fit"
+                    },
+                    "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                    },
+                    "medium": {
+                        "w": 720,
+                        "h": 1025,
+                        "resize": "fit"
+                    }
+                }
+            }
+        ]
+    },
+    "metadata": {
+        "iso_language_code": "es",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 239145132,
+        "id_str": "239145132",
+        "name": "ELGueRRerO\u00ae",
+        "screen_name": "enriquedb07",
+        "location": "Peru",
+        "description": "El Poder Lo Hacemos Nosotros \ud83c\udf0d",
+        "url": null,
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 52,
+        "friends_count": 228,
+        "listed_count": 0,
+        "created_at": "Sun Jan 16 23:00:50 +0000 2011",
+        "favourites_count": 73,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 5442,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1410928383979147269/7L2isuUR_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1410928383979147269/7L2isuUR_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/239145132/1625227770",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "es"
+}

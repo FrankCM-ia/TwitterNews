@@ -1,0 +1,94 @@
+{
+    "created_at": "Thu Jul 15 02:43:39 +0000 2021",
+    "id": 1415502289419317250,
+    "id_str": "1415502289419317250",
+    "full_text": "A mi me encant\u00f3 Sebasti\u00e1n #LaVozPeru",
+    "truncated": false,
+    "display_text_range": [
+        0,
+        36
+    ],
+    "entities": {
+        "hashtags": [
+            {
+                "text": "LaVozPeru",
+                "indices": [
+                    26,
+                    36
+                ]
+            }
+        ],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+    },
+    "metadata": {
+        "iso_language_code": "es",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 149745531,
+        "id_str": "149745531",
+        "name": "Karla",
+        "screen_name": "km_karla",
+        "location": "Peru",
+        "description": "Siempre igual pero distinta...",
+        "url": null,
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 284,
+        "friends_count": 606,
+        "listed_count": 7,
+        "created_at": "Sun May 30 03:30:16 +0000 2010",
+        "favourites_count": 2955,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 47884,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "1A1B1F",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1327801186725015554/SxpgWly0_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1327801186725015554/SxpgWly0_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/149745531/1547168619",
+        "profile_link_color": "29088A",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "profile_use_background_image": true,
+        "has_extended_profile": true,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 2,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "es"
+}

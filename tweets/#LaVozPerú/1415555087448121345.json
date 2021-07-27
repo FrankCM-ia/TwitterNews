@@ -1,0 +1,305 @@
+{
+    "created_at": "Thu Jul 15 06:13:27 +0000 2021",
+    "id": 1415555087448121345,
+    "id_str": "1415555087448121345",
+    "full_text": "RT @LaVozPeruOf: Sebastian Tello es el ganador de esta batalla del #EquipoGuillermo \ud83c\udfa4\ud83c\udfb6#LaVozPer\u00fa \n#LasBatallasLaVozPer\u00fa https://t.co/ypJ9lu\u2026",
+    "truncated": false,
+    "display_text_range": [
+        0,
+        140
+    ],
+    "entities": {
+        "hashtags": [
+            {
+                "text": "EquipoGuillermo",
+                "indices": [
+                    67,
+                    83
+                ]
+            },
+            {
+                "text": "LaVozPer\u00fa",
+                "indices": [
+                    86,
+                    96
+                ]
+            },
+            {
+                "text": "LasBatallasLaVozPer\u00fa",
+                "indices": [
+                    98,
+                    119
+                ]
+            }
+        ],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "LaVozPeruOf",
+                "name": "La Voz Per\u00fa",
+                "id": 1380630304910622722,
+                "id_str": "1380630304910622722",
+                "indices": [
+                    3,
+                    15
+                ]
+            }
+        ],
+        "urls": []
+    },
+    "metadata": {
+        "iso_language_code": "es",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 1266121877346549761,
+        "id_str": "1266121877346549761",
+        "name": "Edgar Balarezo Gonzales",
+        "screen_name": "EddieBala4",
+        "location": "Chiclayo, Peru",
+        "description": "Music lover \ud83c\udfa7. English teacher \ud83d\udc68\u200d\ud83c\udfeb. Gemini \u264a.",
+        "url": null,
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 309,
+        "friends_count": 1687,
+        "listed_count": 0,
+        "created_at": "Thu May 28 21:40:37 +0000 2020",
+        "favourites_count": 3934,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 4828,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": null,
+        "profile_background_image_url_https": null,
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1400802953246674951/lEweUw3E_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1400802953246674951/lEweUw3E_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+        "created_at": "Thu Jul 15 02:44:56 +0000 2021",
+        "id": 1415502611646648326,
+        "id_str": "1415502611646648326",
+        "full_text": "Sebastian Tello es el ganador de esta batalla del #EquipoGuillermo \ud83c\udfa4\ud83c\udfb6#LaVozPer\u00fa \n#LasBatallasLaVozPer\u00fa https://t.co/ypJ9luJzvO",
+        "truncated": false,
+        "display_text_range": [
+            0,
+            102
+        ],
+        "entities": {
+            "hashtags": [
+                {
+                    "text": "EquipoGuillermo",
+                    "indices": [
+                        50,
+                        66
+                    ]
+                },
+                {
+                    "text": "LaVozPer\u00fa",
+                    "indices": [
+                        69,
+                        79
+                    ]
+                },
+                {
+                    "text": "LasBatallasLaVozPer\u00fa",
+                    "indices": [
+                        81,
+                        102
+                    ]
+                }
+            ],
+            "symbols": [],
+            "user_mentions": [],
+            "urls": [],
+            "media": [
+                {
+                    "id": 1415501895939072006,
+                    "id_str": "1415501895939072006",
+                    "indices": [
+                        103,
+                        126
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/E6TfeYZXIAYAGYq.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/E6TfeYZXIAYAGYq.jpg",
+                    "url": "https://t.co/ypJ9luJzvO",
+                    "display_url": "pic.twitter.com/ypJ9luJzvO",
+                    "expanded_url": "https://twitter.com/LaVozPeruOf/status/1415502611646648326/photo/1",
+                    "type": "photo",
+                    "sizes": {
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "medium": {
+                            "w": 1200,
+                            "h": 675,
+                            "resize": "fit"
+                        },
+                        "small": {
+                            "w": 680,
+                            "h": 383,
+                            "resize": "fit"
+                        },
+                        "large": {
+                            "w": 2048,
+                            "h": 1152,
+                            "resize": "fit"
+                        }
+                    }
+                }
+            ]
+        },
+        "extended_entities": {
+            "media": [
+                {
+                    "id": 1415501895939072006,
+                    "id_str": "1415501895939072006",
+                    "indices": [
+                        103,
+                        126
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/E6TfeYZXIAYAGYq.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/E6TfeYZXIAYAGYq.jpg",
+                    "url": "https://t.co/ypJ9luJzvO",
+                    "display_url": "pic.twitter.com/ypJ9luJzvO",
+                    "expanded_url": "https://twitter.com/LaVozPeruOf/status/1415502611646648326/photo/1",
+                    "type": "photo",
+                    "sizes": {
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "medium": {
+                            "w": 1200,
+                            "h": 675,
+                            "resize": "fit"
+                        },
+                        "small": {
+                            "w": 680,
+                            "h": 383,
+                            "resize": "fit"
+                        },
+                        "large": {
+                            "w": 2048,
+                            "h": 1152,
+                            "resize": "fit"
+                        }
+                    }
+                }
+            ]
+        },
+        "metadata": {
+            "iso_language_code": "es",
+            "result_type": "recent"
+        },
+        "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 1380630304910622722,
+            "id_str": "1380630304910622722",
+            "name": "La Voz Per\u00fa",
+            "screen_name": "LaVozPeruOf",
+            "location": "",
+            "description": "Prep\u00e1rate para el mejor show en #LaVozPer\u00fa por @latina_pe \n#ViveContigo",
+            "url": null,
+            "entities": {
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 1867,
+            "friends_count": 4,
+            "listed_count": 2,
+            "created_at": "Fri Apr 09 21:15:25 +0000 2021",
+            "favourites_count": 21,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": false,
+            "verified": false,
+            "statuses_count": 111,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "F5F8FA",
+            "profile_background_image_url": null,
+            "profile_background_image_url_https": null,
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1406050710328840192/zgjk95LC_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1406050710328840192/zgjk95LC_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/1380630304910622722/1623810327",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "has_extended_profile": true,
+            "default_profile": true,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none",
+            "withheld_in_countries": []
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 20,
+        "favorite_count": 396,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "es"
+    },
+    "is_quote_status": false,
+    "retweet_count": 20,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "es"
+}

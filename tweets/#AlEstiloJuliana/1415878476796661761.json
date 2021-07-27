@@ -1,0 +1,282 @@
+{
+    "created_at": "Fri Jul 16 03:38:29 +0000 2021",
+    "id": 1415878476796661761,
+    "id_str": "1415878476796661761",
+    "full_text": "RT @Frank69188674: @Carolin21115256 #SagastiGolpistaCTM #AlEstiloJuliana @julianaoxenford ya ? O el antifuj te tapar\u00e1 la boca? @danielfoliv\u2026",
+    "truncated": false,
+    "display_text_range": [
+        0,
+        140
+    ],
+    "entities": {
+        "hashtags": [
+            {
+                "text": "SagastiGolpistaCTM",
+                "indices": [
+                    36,
+                    55
+                ]
+            },
+            {
+                "text": "AlEstiloJuliana",
+                "indices": [
+                    56,
+                    72
+                ]
+            }
+        ],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "Frank69188674",
+                "name": "Frank",
+                "id": 1391519970148995072,
+                "id_str": "1391519970148995072",
+                "indices": [
+                    3,
+                    17
+                ]
+            },
+            {
+                "screen_name": "Carolin21115256",
+                "name": "~Carolina \ud83c\udf3b",
+                "id": 1286684876750696448,
+                "id_str": "1286684876750696448",
+                "indices": [
+                    19,
+                    35
+                ]
+            },
+            {
+                "screen_name": "julianaoxenford",
+                "name": "julianaoxenford",
+                "id": 1271961894685937670,
+                "id_str": "1271961894685937670",
+                "indices": [
+                    73,
+                    89
+                ]
+            }
+        ],
+        "urls": []
+    },
+    "metadata": {
+        "iso_language_code": "es",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 978613990162075648,
+        "id_str": "978613990162075648",
+        "name": "Carlos R",
+        "screen_name": "CarlosR120807",
+        "location": "",
+        "description": "",
+        "url": null,
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 153,
+        "friends_count": 10,
+        "listed_count": 0,
+        "created_at": "Tue Mar 27 12:45:31 +0000 2018",
+        "favourites_count": 33900,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 45082,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": null,
+        "profile_background_image_url_https": null,
+        "profile_background_tile": false,
+        "profile_image_url": "http://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+        "profile_image_url_https": "https://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": true,
+        "default_profile_image": true,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+        "created_at": "Fri Jul 16 03:34:16 +0000 2021",
+        "id": 1415877418632589314,
+        "id_str": "1415877418632589314",
+        "full_text": "@Carolin21115256 #SagastiGolpistaCTM #AlEstiloJuliana @julianaoxenford ya ? O el antifuj te tapar\u00e1 la boca? @danielfolivares ya est\u00e1s en tierra o sigues en las nubes pensando que \u00e9sto no es grave ? @Vero_Mendoza_F @sigridbazan ya regreso el inter en tu cerro de S.Isidro ? O solo est\u00e1n  modo\ud83d\udc69\u200d\ud83e\uddaf\ud83d\udc69\u200d\ud83e\uddaf",
+        "truncated": false,
+        "display_text_range": [
+            17,
+            297
+        ],
+        "entities": {
+            "hashtags": [
+                {
+                    "text": "SagastiGolpistaCTM",
+                    "indices": [
+                        17,
+                        36
+                    ]
+                },
+                {
+                    "text": "AlEstiloJuliana",
+                    "indices": [
+                        37,
+                        53
+                    ]
+                }
+            ],
+            "symbols": [],
+            "user_mentions": [
+                {
+                    "screen_name": "Carolin21115256",
+                    "name": "~Carolina \ud83c\udf3b",
+                    "id": 1286684876750696448,
+                    "id_str": "1286684876750696448",
+                    "indices": [
+                        0,
+                        16
+                    ]
+                },
+                {
+                    "screen_name": "julianaoxenford",
+                    "name": "julianaoxenford",
+                    "id": 1271961894685937670,
+                    "id_str": "1271961894685937670",
+                    "indices": [
+                        54,
+                        70
+                    ]
+                },
+                {
+                    "screen_name": "danielfolivares",
+                    "name": "Daniel Olivares",
+                    "id": 266888814,
+                    "id_str": "266888814",
+                    "indices": [
+                        108,
+                        124
+                    ]
+                },
+                {
+                    "screen_name": "Vero_Mendoza_F",
+                    "name": "Ver\u00f3nika Mendoza",
+                    "id": 358445205,
+                    "id_str": "358445205",
+                    "indices": [
+                        198,
+                        213
+                    ]
+                },
+                {
+                    "screen_name": "sigridbazan",
+                    "name": "Sigrid Baz\u00e1n",
+                    "id": 54797928,
+                    "id_str": "54797928",
+                    "indices": [
+                        214,
+                        226
+                    ]
+                }
+            ],
+            "urls": []
+        },
+        "metadata": {
+            "iso_language_code": "es",
+            "result_type": "recent"
+        },
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "in_reply_to_status_id": 1415514065150091264,
+        "in_reply_to_status_id_str": "1415514065150091264",
+        "in_reply_to_user_id": 1286684876750696448,
+        "in_reply_to_user_id_str": "1286684876750696448",
+        "in_reply_to_screen_name": "Carolin21115256",
+        "user": {
+            "id": 1391519970148995072,
+            "id_str": "1391519970148995072",
+            "name": "Frank",
+            "screen_name": "Frank69188674",
+            "location": "",
+            "description": "",
+            "url": null,
+            "entities": {
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 0,
+            "friends_count": 10,
+            "listed_count": 0,
+            "created_at": "Sun May 09 22:26:43 +0000 2021",
+            "favourites_count": 95,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": false,
+            "verified": false,
+            "statuses_count": 38,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "F5F8FA",
+            "profile_background_image_url": null,
+            "profile_background_image_url_https": null,
+            "profile_background_tile": false,
+            "profile_image_url": "http://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+            "profile_image_url_https": "https://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "has_extended_profile": true,
+            "default_profile": true,
+            "default_profile_image": true,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none",
+            "withheld_in_countries": []
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 2,
+        "favorite_count": 4,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "es"
+    },
+    "is_quote_status": false,
+    "retweet_count": 2,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "es"
+}

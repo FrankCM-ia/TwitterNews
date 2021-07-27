@@ -1,0 +1,195 @@
+{
+    "created_at": "Fri Jul 16 02:45:33 +0000 2021",
+    "id": 1415865156089831441,
+    "id_str": "1415865156089831441",
+    "full_text": "@PoliciaPeru @MininterPeru @larepublica_pe @noticias_tvperu @PTV_Noticias @RPPNoticias @noticiAmerica @Latina_Noticias @atvmasnoticias #BetoASaber | Beto Ortiz: Es una verg\u00fcenza que las instituciones est\u00e9n arrodilladas al gobierno morado. Afortunadamente, hay empresarios que ayudar\u00e1n con la recuperaci\u00f3n de Richard Muro.\n\nEn vivo https://t.co/XJ4pgUt895",
+    "truncated": false,
+    "display_text_range": [
+        135,
+        354
+    ],
+    "entities": {
+        "hashtags": [
+            {
+                "text": "BetoASaber",
+                "indices": [
+                    135,
+                    146
+                ]
+            }
+        ],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "PoliciaPeru",
+                "name": "Polic\u00eda Nacional del Per\u00fa",
+                "id": 213769482,
+                "id_str": "213769482",
+                "indices": [
+                    0,
+                    12
+                ]
+            },
+            {
+                "screen_name": "MininterPeru",
+                "name": "Ministerio del Interior \ud83c\uddf5\ud83c\uddea",
+                "id": 98964508,
+                "id_str": "98964508",
+                "indices": [
+                    13,
+                    26
+                ]
+            },
+            {
+                "screen_name": "larepublica_pe",
+                "name": "Diario La Rep\u00fablica",
+                "id": 66746614,
+                "id_str": "66746614",
+                "indices": [
+                    27,
+                    42
+                ]
+            },
+            {
+                "screen_name": "noticias_tvperu",
+                "name": "TVPer\u00fa Noticias",
+                "id": 63597537,
+                "id_str": "63597537",
+                "indices": [
+                    43,
+                    59
+                ]
+            },
+            {
+                "screen_name": "PTV_Noticias",
+                "name": "Panamericana Noticias",
+                "id": 527506722,
+                "id_str": "527506722",
+                "indices": [
+                    60,
+                    73
+                ]
+            },
+            {
+                "screen_name": "RPPNoticias",
+                "name": "RPP Noticias",
+                "id": 9075022,
+                "id_str": "9075022",
+                "indices": [
+                    74,
+                    86
+                ]
+            },
+            {
+                "screen_name": "noticiAmerica",
+                "name": "Am\u00e9rica Noticias",
+                "id": 65549291,
+                "id_str": "65549291",
+                "indices": [
+                    87,
+                    101
+                ]
+            },
+            {
+                "screen_name": "Latina_Noticias",
+                "name": "Latina Noticias",
+                "id": 78201907,
+                "id_str": "78201907",
+                "indices": [
+                    102,
+                    118
+                ]
+            },
+            {
+                "screen_name": "atvmasnoticias",
+                "name": "ATV+ Noticias",
+                "id": 1231444076,
+                "id_str": "1231444076",
+                "indices": [
+                    119,
+                    134
+                ]
+            }
+        ],
+        "urls": [
+            {
+                "url": "https://t.co/XJ4pgUt895",
+                "expanded_url": "https://willax.tv/en-vivo/",
+                "display_url": "willax.tv/en-vivo/",
+                "indices": [
+                    331,
+                    354
+                ]
+            }
+        ]
+    },
+    "metadata": {
+        "iso_language_code": "es",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "in_reply_to_status_id": 1415854121731739649,
+    "in_reply_to_status_id_str": "1415854121731739649",
+    "in_reply_to_user_id": 213769482,
+    "in_reply_to_user_id_str": "213769482",
+    "in_reply_to_screen_name": "PoliciaPeru",
+    "user": {
+        "id": 1407030193504632832,
+        "id_str": "1407030193504632832",
+        "name": "angelfire22 \ud83c\uddf5\ud83c\uddea\ud83c\uddfa\ud83c\uddf2\ud83c\udde8\ud83c\uddfa #SOSCuba #SOSPer\u00fa",
+        "screen_name": "angelfire223",
+        "location": "",
+        "description": "Patriota y dem\u00f3crata \ud83c\uddfa\ud83c\uddf2\ud83c\uddf5\ud83c\uddea. Anticomunista y antiterrorista pero eso no me hace naranja.",
+        "url": null,
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 7,
+        "friends_count": 117,
+        "listed_count": 1,
+        "created_at": "Mon Jun 21 17:41:43 +0000 2021",
+        "favourites_count": 562,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 710,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": null,
+        "profile_background_image_url_https": null,
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1408647091954589697/iP31GxlI_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1408647091954589697/iP31GxlI_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": true,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 2,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "es"
+}

@@ -1,0 +1,378 @@
+{
+    "created_at": "Thu Jul 15 21:12:07 +0000 2021",
+    "id": 1415781244089032709,
+    "id_str": "1415781244089032709",
+    "full_text": "RT @DinosaurYGS: Ahora si esperar hasta la batalla de Milena Warthon... Uff\n\n#LaVozPeru https://t.co/KU8R3feyOO",
+    "truncated": false,
+    "display_text_range": [
+        0,
+        111
+    ],
+    "entities": {
+        "hashtags": [
+            {
+                "text": "LaVozPeru",
+                "indices": [
+                    77,
+                    87
+                ]
+            }
+        ],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "DinosaurYGS",
+                "name": "Dinosaur \ud83d\udd25",
+                "id": 760302363395649536,
+                "id_str": "760302363395649536",
+                "indices": [
+                    3,
+                    15
+                ]
+            }
+        ],
+        "urls": [],
+        "media": [
+            {
+                "id": 1415489586634149889,
+                "id_str": "1415489586634149889",
+                "indices": [
+                    88,
+                    111
+                ],
+                "media_url": "http://pbs.twimg.com/media/E6TUR4qX0AEg2sn.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/E6TUR4qX0AEg2sn.jpg",
+                "url": "https://t.co/KU8R3feyOO",
+                "display_url": "pic.twitter.com/KU8R3feyOO",
+                "expanded_url": "https://twitter.com/DinosaurYGS/status/1415489588764844038/photo/1",
+                "type": "photo",
+                "sizes": {
+                    "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                    },
+                    "large": {
+                        "w": 514,
+                        "h": 680,
+                        "resize": "fit"
+                    },
+                    "medium": {
+                        "w": 514,
+                        "h": 680,
+                        "resize": "fit"
+                    },
+                    "small": {
+                        "w": 514,
+                        "h": 680,
+                        "resize": "fit"
+                    }
+                },
+                "source_status_id": 1415489588764844038,
+                "source_status_id_str": "1415489588764844038",
+                "source_user_id": 760302363395649536,
+                "source_user_id_str": "760302363395649536"
+            }
+        ]
+    },
+    "extended_entities": {
+        "media": [
+            {
+                "id": 1415489586634149889,
+                "id_str": "1415489586634149889",
+                "indices": [
+                    88,
+                    111
+                ],
+                "media_url": "http://pbs.twimg.com/media/E6TUR4qX0AEg2sn.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/E6TUR4qX0AEg2sn.jpg",
+                "url": "https://t.co/KU8R3feyOO",
+                "display_url": "pic.twitter.com/KU8R3feyOO",
+                "expanded_url": "https://twitter.com/DinosaurYGS/status/1415489588764844038/photo/1",
+                "type": "photo",
+                "sizes": {
+                    "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                    },
+                    "large": {
+                        "w": 514,
+                        "h": 680,
+                        "resize": "fit"
+                    },
+                    "medium": {
+                        "w": 514,
+                        "h": 680,
+                        "resize": "fit"
+                    },
+                    "small": {
+                        "w": 514,
+                        "h": 680,
+                        "resize": "fit"
+                    }
+                },
+                "source_status_id": 1415489588764844038,
+                "source_status_id_str": "1415489588764844038",
+                "source_user_id": 760302363395649536,
+                "source_user_id_str": "760302363395649536"
+            }
+        ]
+    },
+    "metadata": {
+        "iso_language_code": "es",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 161478709,
+        "id_str": "161478709",
+        "name": "Milena Warthon",
+        "screen_name": "milenawarthon",
+        "location": "Lima, Peru",
+        "description": "Cantautora de Pop Andino, \nComunicadora\n\ud83c\uddf5\ud83c\uddea\u2728",
+        "url": "https://t.co/DRGtLaD6pU",
+        "entities": {
+            "url": {
+                "urls": [
+                    {
+                        "url": "https://t.co/DRGtLaD6pU",
+                        "expanded_url": "http://instagram.com/milenawarthon",
+                        "display_url": "instagram.com/milenawarthon",
+                        "indices": [
+                            0,
+                            23
+                        ]
+                    }
+                ]
+            },
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 398,
+        "friends_count": 19,
+        "listed_count": 0,
+        "created_at": "Wed Jun 30 23:40:00 +0000 2010",
+        "favourites_count": 317,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 688,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "E3CCDD",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme17/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme17/bg.gif",
+        "profile_background_tile": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1328112351334330368/CME75bL0_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1328112351334330368/CME75bL0_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/161478709/1614229931",
+        "profile_link_color": "A899A2",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "E5507E",
+        "profile_text_color": "362720",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+        "created_at": "Thu Jul 15 01:53:11 +0000 2021",
+        "id": 1415489588764844038,
+        "id_str": "1415489588764844038",
+        "full_text": "Ahora si esperar hasta la batalla de Milena Warthon... Uff\n\n#LaVozPeru https://t.co/KU8R3feyOO",
+        "truncated": false,
+        "display_text_range": [
+            0,
+            70
+        ],
+        "entities": {
+            "hashtags": [
+                {
+                    "text": "LaVozPeru",
+                    "indices": [
+                        60,
+                        70
+                    ]
+                }
+            ],
+            "symbols": [],
+            "user_mentions": [],
+            "urls": [],
+            "media": [
+                {
+                    "id": 1415489586634149889,
+                    "id_str": "1415489586634149889",
+                    "indices": [
+                        71,
+                        94
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/E6TUR4qX0AEg2sn.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/E6TUR4qX0AEg2sn.jpg",
+                    "url": "https://t.co/KU8R3feyOO",
+                    "display_url": "pic.twitter.com/KU8R3feyOO",
+                    "expanded_url": "https://twitter.com/DinosaurYGS/status/1415489588764844038/photo/1",
+                    "type": "photo",
+                    "sizes": {
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "large": {
+                            "w": 514,
+                            "h": 680,
+                            "resize": "fit"
+                        },
+                        "medium": {
+                            "w": 514,
+                            "h": 680,
+                            "resize": "fit"
+                        },
+                        "small": {
+                            "w": 514,
+                            "h": 680,
+                            "resize": "fit"
+                        }
+                    }
+                }
+            ]
+        },
+        "extended_entities": {
+            "media": [
+                {
+                    "id": 1415489586634149889,
+                    "id_str": "1415489586634149889",
+                    "indices": [
+                        71,
+                        94
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/E6TUR4qX0AEg2sn.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/E6TUR4qX0AEg2sn.jpg",
+                    "url": "https://t.co/KU8R3feyOO",
+                    "display_url": "pic.twitter.com/KU8R3feyOO",
+                    "expanded_url": "https://twitter.com/DinosaurYGS/status/1415489588764844038/photo/1",
+                    "type": "photo",
+                    "sizes": {
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "large": {
+                            "w": 514,
+                            "h": 680,
+                            "resize": "fit"
+                        },
+                        "medium": {
+                            "w": 514,
+                            "h": 680,
+                            "resize": "fit"
+                        },
+                        "small": {
+                            "w": 514,
+                            "h": 680,
+                            "resize": "fit"
+                        }
+                    }
+                }
+            ]
+        },
+        "metadata": {
+            "iso_language_code": "es",
+            "result_type": "recent"
+        },
+        "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 760302363395649536,
+            "id_str": "760302363395649536",
+            "name": "Dinosaur \ud83d\udd25",
+            "screen_name": "DinosaurYGS",
+            "location": "",
+            "description": "Go?",
+            "url": null,
+            "entities": {
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 15,
+            "friends_count": 73,
+            "listed_count": 0,
+            "created_at": "Tue Aug 02 02:33:03 +0000 2016",
+            "favourites_count": 127,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": false,
+            "verified": false,
+            "statuses_count": 253,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "F5F8FA",
+            "profile_background_image_url": null,
+            "profile_background_image_url_https": null,
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1313704083845455872/3-RVT4LI_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1313704083845455872/3-RVT4LI_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/760302363395649536/1602046461",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "has_extended_profile": false,
+            "default_profile": true,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none",
+            "withheld_in_countries": []
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 1,
+        "favorite_count": 2,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "es"
+    },
+    "is_quote_status": false,
+    "retweet_count": 1,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "es"
+}

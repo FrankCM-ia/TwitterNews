@@ -1,0 +1,258 @@
+{
+    "created_at": "Fri Jul 16 02:52:55 +0000 2021",
+    "id": 1415867011566026753,
+    "id_str": "1415867011566026753",
+    "full_text": "RT @sullama: @Perulibreprensa est\u00e1 lleno de terroristas y delincuentes, por otro lado q verg\u00fcenza q en Hospital Almenara,hayan tenido toda\u2026",
+    "truncated": false,
+    "display_text_range": [
+        0,
+        139
+    ],
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "sullama",
+                "name": "NANCY MESUR \ud83c\uddf5\ud83c\uddea #NoAlComunismoTerrorista",
+                "id": 32693299,
+                "id_str": "32693299",
+                "indices": [
+                    3,
+                    11
+                ]
+            },
+            {
+                "screen_name": "Perulibreprensa",
+                "name": "Per\u00fa Libre - Prensa",
+                "id": 974082942191497217,
+                "id_str": "974082942191497217",
+                "indices": [
+                    13,
+                    29
+                ]
+            }
+        ],
+        "urls": []
+    },
+    "metadata": {
+        "iso_language_code": "es",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 2389977313,
+        "id_str": "2389977313",
+        "name": "Saint David Alejandro Parco Huaringa",
+        "screen_name": "SaintFlore",
+        "location": "Lima, Peru",
+        "description": "Ing. Civil de la Universidad Peruana de Ciencias Aplicadas, Luchador por un Per\u00fa Mejor. Futuro Pol\u00edtico. Defensor de lo Justo.",
+        "url": "https://t.co/sLrUfaekTL",
+        "entities": {
+            "url": {
+                "urls": [
+                    {
+                        "url": "https://t.co/sLrUfaekTL",
+                        "expanded_url": "https://www.facebook.com/saint.davisflores",
+                        "display_url": "facebook.com/saint.davisflo\u2026",
+                        "indices": [
+                            0,
+                            23
+                        ]
+                    }
+                ]
+            },
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 97,
+        "friends_count": 156,
+        "listed_count": 0,
+        "created_at": "Fri Mar 14 22:37:38 +0000 2014",
+        "favourites_count": 1943,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 24276,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1077638851634647045/hiXoa79m_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1077638851634647045/hiXoa79m_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2389977313/1547320403",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+        "created_at": "Fri Jul 16 02:49:27 +0000 2021",
+        "id": 1415866136684597257,
+        "id_str": "1415866136684597257",
+        "full_text": "@Perulibreprensa est\u00e1 lleno de terroristas y delincuentes, por otro lado q verg\u00fcenza q en Hospital Almenara,hayan tenido toda la noche tal Sr Muro en una silla de ruedas y como si fuera un animal lo despachan a su casa \n@FSagasti eres un desgraciado\n#BetoASaber  @PolloFarsantePe",
+        "truncated": false,
+        "display_text_range": [
+            0,
+            279
+        ],
+        "entities": {
+            "hashtags": [
+                {
+                    "text": "BetoASaber",
+                    "indices": [
+                        250,
+                        261
+                    ]
+                }
+            ],
+            "symbols": [],
+            "user_mentions": [
+                {
+                    "screen_name": "Perulibreprensa",
+                    "name": "Per\u00fa Libre - Prensa",
+                    "id": 974082942191497217,
+                    "id_str": "974082942191497217",
+                    "indices": [
+                        0,
+                        16
+                    ]
+                },
+                {
+                    "screen_name": "FSagasti",
+                    "name": "Francisco Sagasti",
+                    "id": 472996281,
+                    "id_str": "472996281",
+                    "indices": [
+                        220,
+                        229
+                    ]
+                },
+                {
+                    "screen_name": "PolloFarsantePe",
+                    "name": "ElPolloFarsante",
+                    "id": 1409887097838841857,
+                    "id_str": "1409887097838841857",
+                    "indices": [
+                        263,
+                        279
+                    ]
+                }
+            ],
+            "urls": []
+        },
+        "metadata": {
+            "iso_language_code": "es",
+            "result_type": "recent"
+        },
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": 974082942191497217,
+        "in_reply_to_user_id_str": "974082942191497217",
+        "in_reply_to_screen_name": "Perulibreprensa",
+        "user": {
+            "id": 32693299,
+            "id_str": "32693299",
+            "name": "NANCY MESUR \ud83c\uddf5\ud83c\uddea #NoAlComunismoTerrorista",
+            "screen_name": "sullama",
+            "location": "Peru",
+            "description": "Pro-vida. Pro-familia\u201cConocer\u00e9is la verdad, y los har\u00e1 libres.\u201d FIEL SEGUIDORA DE MI SALVADOR JESUCRISTO,Anticomunista,anti marxistas,leninista y dem\u00e1s hierbas",
+            "url": "https://t.co/08H6JLJYnh",
+            "entities": {
+                "url": {
+                    "urls": [
+                        {
+                            "url": "https://t.co/08H6JLJYnh",
+                            "expanded_url": "https://www.instagram.com/nncymesur/",
+                            "display_url": "instagram.com/nncymesur/",
+                            "indices": [
+                                0,
+                                23
+                            ]
+                        }
+                    ]
+                },
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 8502,
+            "friends_count": 1442,
+            "listed_count": 13,
+            "created_at": "Sat Apr 18 00:53:43 +0000 2009",
+            "favourites_count": 33011,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": true,
+            "verified": false,
+            "statuses_count": 47246,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "000000",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme4/bg.gif",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme4/bg.gif",
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1384659313826873345/8zQM7-9b_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1384659313826873345/8zQM7-9b_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/32693299/1590373468",
+            "profile_link_color": "F58EA8",
+            "profile_sidebar_border_color": "000000",
+            "profile_sidebar_fill_color": "000000",
+            "profile_text_color": "000000",
+            "profile_use_background_image": false,
+            "has_extended_profile": true,
+            "default_profile": false,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none",
+            "withheld_in_countries": []
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 6,
+        "favorite_count": 10,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "es"
+    },
+    "is_quote_status": false,
+    "retweet_count": 6,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "es"
+}

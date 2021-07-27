@@ -1,0 +1,339 @@
+{
+    "created_at": "Thu Jul 15 16:19:30 +0000 2021",
+    "id": 1415707606740504576,
+    "id_str": "1415707606740504576",
+    "full_text": "@OCMAPJ \u00bfQu\u00e9 pasa? \u00bfJueza supernumeraria da libertad a #LosDinamicosDelCentro? \u00bfEso llaman #Justicia? @willaxtv #BetoASaber https://t.co/cKaUPs229e",
+    "truncated": false,
+    "display_text_range": [
+        0,
+        123
+    ],
+    "entities": {
+        "hashtags": [
+            {
+                "text": "LosDinamicosDelCentro",
+                "indices": [
+                    55,
+                    77
+                ]
+            },
+            {
+                "text": "Justicia",
+                "indices": [
+                    91,
+                    100
+                ]
+            },
+            {
+                "text": "BetoASaber",
+                "indices": [
+                    112,
+                    123
+                ]
+            }
+        ],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "OCMAPJ",
+                "name": "OCMA PODER JUDICIAL",
+                "id": 827295222166126594,
+                "id_str": "827295222166126594",
+                "indices": [
+                    0,
+                    7
+                ]
+            },
+            {
+                "screen_name": "willaxtv",
+                "name": "Willax Televisi\u00f3n",
+                "id": 38512990,
+                "id_str": "38512990",
+                "indices": [
+                    102,
+                    111
+                ]
+            }
+        ],
+        "urls": [
+            {
+                "url": "https://t.co/cKaUPs229e",
+                "expanded_url": "https://twitter.com/MarthaChavezC/status/1415645410627096578",
+                "display_url": "twitter.com/MarthaChavezC/\u2026",
+                "indices": [
+                    124,
+                    147
+                ]
+            }
+        ]
+    },
+    "metadata": {
+        "iso_language_code": "es",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": 827295222166126594,
+    "in_reply_to_user_id_str": "827295222166126594",
+    "in_reply_to_screen_name": "OCMAPJ",
+    "user": {
+        "id": 1018393945,
+        "id_str": "1018393945",
+        "name": "Gigi",
+        "screen_name": "Gigi42964140",
+        "location": "",
+        "description": "",
+        "url": null,
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 175,
+        "friends_count": 50,
+        "listed_count": 2,
+        "created_at": "Mon Dec 17 21:40:38 +0000 2012",
+        "favourites_count": 92084,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 84271,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/3100415741/05c9d9fca9d0b26fb943b93c1c07c46e_normal.jpeg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/3100415741/05c9d9fca9d0b26fb943b93c1c07c46e_normal.jpeg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": true,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": true,
+    "quoted_status_id": 1415645410627096578,
+    "quoted_status_id_str": "1415645410627096578",
+    "quoted_status": {
+        "created_at": "Thu Jul 15 12:12:21 +0000 2021",
+        "id": 1415645410627096578,
+        "id_str": "1415645410627096578",
+        "full_text": "\u00bfOtra \"jueza\" supernumeraria? \u00bfEnviada a Jun\u00edn desde Lima, oportunamente, desde hace unos a\u00f1os en que el clan Cerron comenz\u00f3 a tener problemas con la justicia? \u00bfQue pueden decir la @OCMAPJ y la muy locuaz (en video pero corredora para el Congreso) titular del  @Poder_Judicial_ ? https://t.co/jmAX0z1QVN https://t.co/XGkdTlk5Gg",
+        "truncated": false,
+        "display_text_range": [
+            0,
+            303
+        ],
+        "entities": {
+            "hashtags": [],
+            "symbols": [],
+            "user_mentions": [
+                {
+                    "screen_name": "OCMAPJ",
+                    "name": "OCMA PODER JUDICIAL",
+                    "id": 827295222166126594,
+                    "id_str": "827295222166126594",
+                    "indices": [
+                        181,
+                        188
+                    ]
+                },
+                {
+                    "screen_name": "Poder_Judicial_",
+                    "name": "Poder Judicial Per\u00fa",
+                    "id": 271439668,
+                    "id_str": "271439668",
+                    "indices": [
+                        261,
+                        277
+                    ]
+                }
+            ],
+            "urls": [
+                {
+                    "url": "https://t.co/jmAX0z1QVN",
+                    "expanded_url": "https://twitter.com/diariocorreo/status/1415642302756888586",
+                    "display_url": "twitter.com/diariocorreo/s\u2026",
+                    "indices": [
+                        280,
+                        303
+                    ]
+                }
+            ],
+            "media": [
+                {
+                    "id": 1415645400518828034,
+                    "id_str": "1415645400518828034",
+                    "indices": [
+                        304,
+                        327
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/E6Vh_cnXIAI7dhP.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/E6Vh_cnXIAI7dhP.jpg",
+                    "url": "https://t.co/XGkdTlk5Gg",
+                    "display_url": "pic.twitter.com/XGkdTlk5Gg",
+                    "expanded_url": "https://twitter.com/MarthaChavezC/status/1415645410627096578/photo/1",
+                    "type": "photo",
+                    "sizes": {
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "medium": {
+                            "w": 719,
+                            "h": 1200,
+                            "resize": "fit"
+                        },
+                        "small": {
+                            "w": 407,
+                            "h": 680,
+                            "resize": "fit"
+                        },
+                        "large": {
+                            "w": 1080,
+                            "h": 1803,
+                            "resize": "fit"
+                        }
+                    }
+                }
+            ]
+        },
+        "extended_entities": {
+            "media": [
+                {
+                    "id": 1415645400518828034,
+                    "id_str": "1415645400518828034",
+                    "indices": [
+                        304,
+                        327
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/E6Vh_cnXIAI7dhP.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/E6Vh_cnXIAI7dhP.jpg",
+                    "url": "https://t.co/XGkdTlk5Gg",
+                    "display_url": "pic.twitter.com/XGkdTlk5Gg",
+                    "expanded_url": "https://twitter.com/MarthaChavezC/status/1415645410627096578/photo/1",
+                    "type": "photo",
+                    "sizes": {
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "medium": {
+                            "w": 719,
+                            "h": 1200,
+                            "resize": "fit"
+                        },
+                        "small": {
+                            "w": 407,
+                            "h": 680,
+                            "resize": "fit"
+                        },
+                        "large": {
+                            "w": 1080,
+                            "h": 1803,
+                            "resize": "fit"
+                        }
+                    }
+                }
+            ]
+        },
+        "metadata": {
+            "iso_language_code": "es",
+            "result_type": "recent"
+        },
+        "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 240551153,
+            "id_str": "240551153",
+            "name": "Martha Ch\u00e1vez Coss\u00edo",
+            "screen_name": "MarthaChavezC",
+            "location": "Lima, Peru",
+            "description": "Digo lo que pienso, hago lo que digo. Abogada, docente universitaria, estudiante,Congresista fujimorista 1992/95; 1995/2000; 2000/01; 2001/06, 2011/16 y 2020/21",
+            "url": null,
+            "entities": {
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 167980,
+            "friends_count": 739,
+            "listed_count": 399,
+            "created_at": "Thu Jan 20 05:23:25 +0000 2011",
+            "favourites_count": 56999,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": true,
+            "verified": false,
+            "statuses_count": 43250,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "C0DEED",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1372164477437755397/CTZkmUS-_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1372164477437755397/CTZkmUS-_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/240551153/1619531263",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "has_extended_profile": false,
+            "default_profile": true,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none",
+            "withheld_in_countries": []
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": true,
+        "quoted_status_id": 1415642302756888586,
+        "quoted_status_id_str": "1415642302756888586",
+        "retweet_count": 478,
+        "favorite_count": 834,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "es"
+    },
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "es"
+}

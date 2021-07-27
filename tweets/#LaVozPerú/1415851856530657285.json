@@ -1,0 +1,364 @@
+{
+    "created_at": "Fri Jul 16 01:52:42 +0000 2021",
+    "id": 1415851856530657285,
+    "id_str": "1415851856530657285",
+    "full_text": "RT @unabichota_: yo con los elegidos del grupo de mike que practican con danny ocean\n#LaVozPeru https://t.co/s9foP48DrC",
+    "truncated": false,
+    "display_text_range": [
+        0,
+        119
+    ],
+    "entities": {
+        "hashtags": [
+            {
+                "text": "LaVozPeru",
+                "indices": [
+                    85,
+                    95
+                ]
+            }
+        ],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "unabichota_",
+                "name": "panconchorizo \ud83c\uddf5\ud83c\uddea",
+                "id": 1412547106359943172,
+                "id_str": "1412547106359943172",
+                "indices": [
+                    3,
+                    15
+                ]
+            }
+        ],
+        "urls": [],
+        "media": [
+            {
+                "id": 1415850999328264197,
+                "id_str": "1415850999328264197",
+                "indices": [
+                    96,
+                    119
+                ],
+                "media_url": "http://pbs.twimg.com/media/E6Yc-33X0AUzUsy.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/E6Yc-33X0AUzUsy.jpg",
+                "url": "https://t.co/s9foP48DrC",
+                "display_url": "pic.twitter.com/s9foP48DrC",
+                "expanded_url": "https://twitter.com/unabichota_/status/1415851003056902154/photo/1",
+                "type": "photo",
+                "sizes": {
+                    "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                    },
+                    "large": {
+                        "w": 480,
+                        "h": 360,
+                        "resize": "fit"
+                    },
+                    "medium": {
+                        "w": 480,
+                        "h": 360,
+                        "resize": "fit"
+                    },
+                    "small": {
+                        "w": 480,
+                        "h": 360,
+                        "resize": "fit"
+                    }
+                },
+                "source_status_id": 1415851003056902154,
+                "source_status_id_str": "1415851003056902154",
+                "source_user_id": 1412547106359943172,
+                "source_user_id_str": "1412547106359943172"
+            }
+        ]
+    },
+    "extended_entities": {
+        "media": [
+            {
+                "id": 1415850999328264197,
+                "id_str": "1415850999328264197",
+                "indices": [
+                    96,
+                    119
+                ],
+                "media_url": "http://pbs.twimg.com/media/E6Yc-33X0AUzUsy.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/E6Yc-33X0AUzUsy.jpg",
+                "url": "https://t.co/s9foP48DrC",
+                "display_url": "pic.twitter.com/s9foP48DrC",
+                "expanded_url": "https://twitter.com/unabichota_/status/1415851003056902154/photo/1",
+                "type": "photo",
+                "sizes": {
+                    "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                    },
+                    "large": {
+                        "w": 480,
+                        "h": 360,
+                        "resize": "fit"
+                    },
+                    "medium": {
+                        "w": 480,
+                        "h": 360,
+                        "resize": "fit"
+                    },
+                    "small": {
+                        "w": 480,
+                        "h": 360,
+                        "resize": "fit"
+                    }
+                },
+                "source_status_id": 1415851003056902154,
+                "source_status_id_str": "1415851003056902154",
+                "source_user_id": 1412547106359943172,
+                "source_user_id_str": "1412547106359943172"
+            }
+        ]
+    },
+    "metadata": {
+        "iso_language_code": "es",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 753428848138747904,
+        "id_str": "753428848138747904",
+        "name": "\u02dc*\u2022\ud835\udc19\ud835\udc1a\ud835\udc26\ud835\udc1a\ud835\udc2b\ud835\udc1a\u2022*\u02dc \ud83c\uddf5\ud83c\uddea\ud83c\uddee\ud83c\uddf9",
+        "screen_name": "xristalmoon",
+        "location": "s a t u r n o",
+        "description": "And I'm so sick of seventeen\nWhere's my fucking teenage dream?",
+        "url": null,
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 67,
+        "friends_count": 161,
+        "listed_count": 1,
+        "created_at": "Thu Jul 14 03:20:10 +0000 2016",
+        "favourites_count": 2617,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 1719,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1414349237366689798/jBH1KfDE_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1414349237366689798/jBH1KfDE_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/753428848138747904/1622464495",
+        "profile_link_color": "19CF86",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "profile_use_background_image": false,
+        "has_extended_profile": true,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+        "created_at": "Fri Jul 16 01:49:19 +0000 2021",
+        "id": 1415851003056902154,
+        "id_str": "1415851003056902154",
+        "full_text": "yo con los elegidos del grupo de mike que practican con danny ocean\n#LaVozPeru https://t.co/s9foP48DrC",
+        "truncated": false,
+        "display_text_range": [
+            0,
+            78
+        ],
+        "entities": {
+            "hashtags": [
+                {
+                    "text": "LaVozPeru",
+                    "indices": [
+                        68,
+                        78
+                    ]
+                }
+            ],
+            "symbols": [],
+            "user_mentions": [],
+            "urls": [],
+            "media": [
+                {
+                    "id": 1415850999328264197,
+                    "id_str": "1415850999328264197",
+                    "indices": [
+                        79,
+                        102
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/E6Yc-33X0AUzUsy.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/E6Yc-33X0AUzUsy.jpg",
+                    "url": "https://t.co/s9foP48DrC",
+                    "display_url": "pic.twitter.com/s9foP48DrC",
+                    "expanded_url": "https://twitter.com/unabichota_/status/1415851003056902154/photo/1",
+                    "type": "photo",
+                    "sizes": {
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "large": {
+                            "w": 480,
+                            "h": 360,
+                            "resize": "fit"
+                        },
+                        "medium": {
+                            "w": 480,
+                            "h": 360,
+                            "resize": "fit"
+                        },
+                        "small": {
+                            "w": 480,
+                            "h": 360,
+                            "resize": "fit"
+                        }
+                    }
+                }
+            ]
+        },
+        "extended_entities": {
+            "media": [
+                {
+                    "id": 1415850999328264197,
+                    "id_str": "1415850999328264197",
+                    "indices": [
+                        79,
+                        102
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/E6Yc-33X0AUzUsy.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/E6Yc-33X0AUzUsy.jpg",
+                    "url": "https://t.co/s9foP48DrC",
+                    "display_url": "pic.twitter.com/s9foP48DrC",
+                    "expanded_url": "https://twitter.com/unabichota_/status/1415851003056902154/photo/1",
+                    "type": "photo",
+                    "sizes": {
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "large": {
+                            "w": 480,
+                            "h": 360,
+                            "resize": "fit"
+                        },
+                        "medium": {
+                            "w": 480,
+                            "h": 360,
+                            "resize": "fit"
+                        },
+                        "small": {
+                            "w": 480,
+                            "h": 360,
+                            "resize": "fit"
+                        }
+                    }
+                }
+            ]
+        },
+        "metadata": {
+            "iso_language_code": "es",
+            "result_type": "recent"
+        },
+        "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 1412547106359943172,
+            "id_str": "1412547106359943172",
+            "name": "panconchorizo \ud83c\uddf5\ud83c\uddea",
+            "screen_name": "unabichota_",
+            "location": "Peru",
+            "description": "me desahogo aqu\u00ed",
+            "url": null,
+            "entities": {
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 0,
+            "friends_count": 16,
+            "listed_count": 0,
+            "created_at": "Tue Jul 06 23:01:02 +0000 2021",
+            "favourites_count": 209,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": false,
+            "verified": false,
+            "statuses_count": 140,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "F5F8FA",
+            "profile_background_image_url": null,
+            "profile_background_image_url_https": null,
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1412638612219478020/07sybZg4_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1412638612219478020/07sybZg4_normal.jpg",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "has_extended_profile": true,
+            "default_profile": true,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none",
+            "withheld_in_countries": []
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 1,
+        "favorite_count": 6,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "es"
+    },
+    "is_quote_status": false,
+    "retweet_count": 1,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "es"
+}

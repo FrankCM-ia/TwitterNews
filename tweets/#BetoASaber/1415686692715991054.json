@@ -1,0 +1,347 @@
+{
+    "created_at": "Thu Jul 15 14:56:24 +0000 2021",
+    "id": 1415686692715991054,
+    "id_str": "1415686692715991054",
+    "full_text": "RT @buxtrep: Beto Ortiz en #BetoASaber: Manifestantes de Per\u00fa Libre agredi\u00f3 gravemente a adulto mayor que manifestaba pac\u00edficamente a favor\u2026",
+    "truncated": false,
+    "display_text_range": [
+        0,
+        140
+    ],
+    "entities": {
+        "hashtags": [
+            {
+                "text": "BetoASaber",
+                "indices": [
+                    27,
+                    38
+                ]
+            }
+        ],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "buxtrep",
+                "name": "BUXTREP \u00a1\ud835\udc12i\ud835\udc20\u00e1\ud835\udc26\ud835\udc28\ud835\udc27\ud835\udc28\ud835\udc2c!",
+                "id": 945118148919005184,
+                "id_str": "945118148919005184",
+                "indices": [
+                    3,
+                    11
+                ]
+            }
+        ],
+        "urls": []
+    },
+    "metadata": {
+        "iso_language_code": "es",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 798349327643144192,
+        "id_str": "798349327643144192",
+        "name": "Rochi Montana",
+        "screen_name": "RoxiCasmon90",
+        "location": "La Libertad, Peru",
+        "description": "",
+        "url": null,
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 60,
+        "friends_count": 137,
+        "listed_count": 0,
+        "created_at": "Tue Nov 15 02:18:07 +0000 2016",
+        "favourites_count": 14741,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 4667,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": null,
+        "profile_background_image_url_https": null,
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1119708648047951873/Rpe-mYUa_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1119708648047951873/Rpe-mYUa_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/798349327643144192/1497723859",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+        "created_at": "Thu Jul 15 02:04:18 +0000 2021",
+        "id": 1415492389741989888,
+        "id_str": "1415492389741989888",
+        "full_text": "Beto Ortiz en #BetoASaber: Manifestantes de Per\u00fa Libre agredi\u00f3 gravemente a adulto mayor que manifestaba pac\u00edficamente a favor de la democracia\n@PolloFarsantePe \n#SagastiSeJodioElPuebloYaSalio \n#SagastiSeJodioElPuebloYaSalio https://t.co/5hEqElXZNT",
+        "truncated": false,
+        "display_text_range": [
+            0,
+            224
+        ],
+        "entities": {
+            "hashtags": [
+                {
+                    "text": "BetoASaber",
+                    "indices": [
+                        14,
+                        25
+                    ]
+                },
+                {
+                    "text": "SagastiSeJodioElPuebloYaSalio",
+                    "indices": [
+                        162,
+                        192
+                    ]
+                },
+                {
+                    "text": "SagastiSeJodioElPuebloYaSalio",
+                    "indices": [
+                        194,
+                        224
+                    ]
+                }
+            ],
+            "symbols": [],
+            "user_mentions": [
+                {
+                    "screen_name": "PolloFarsantePe",
+                    "name": "ElPolloFarsante",
+                    "id": 1409887097838841857,
+                    "id_str": "1409887097838841857",
+                    "indices": [
+                        144,
+                        160
+                    ]
+                }
+            ],
+            "urls": [],
+            "media": [
+                {
+                    "id": 1415491703872671746,
+                    "id_str": "1415491703872671746",
+                    "indices": [
+                        225,
+                        248
+                    ],
+                    "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1415491703872671746/pu/img/tjg8w9ljWhVRWSu5.jpg",
+                    "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1415491703872671746/pu/img/tjg8w9ljWhVRWSu5.jpg",
+                    "url": "https://t.co/5hEqElXZNT",
+                    "display_url": "pic.twitter.com/5hEqElXZNT",
+                    "expanded_url": "https://twitter.com/buxtrep/status/1415492389741989888/video/1",
+                    "type": "photo",
+                    "sizes": {
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "medium": {
+                            "w": 1200,
+                            "h": 675,
+                            "resize": "fit"
+                        },
+                        "small": {
+                            "w": 680,
+                            "h": 383,
+                            "resize": "fit"
+                        },
+                        "large": {
+                            "w": 1280,
+                            "h": 720,
+                            "resize": "fit"
+                        }
+                    }
+                }
+            ]
+        },
+        "extended_entities": {
+            "media": [
+                {
+                    "id": 1415491703872671746,
+                    "id_str": "1415491703872671746",
+                    "indices": [
+                        225,
+                        248
+                    ],
+                    "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1415491703872671746/pu/img/tjg8w9ljWhVRWSu5.jpg",
+                    "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1415491703872671746/pu/img/tjg8w9ljWhVRWSu5.jpg",
+                    "url": "https://t.co/5hEqElXZNT",
+                    "display_url": "pic.twitter.com/5hEqElXZNT",
+                    "expanded_url": "https://twitter.com/buxtrep/status/1415492389741989888/video/1",
+                    "type": "video",
+                    "sizes": {
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "medium": {
+                            "w": 1200,
+                            "h": 675,
+                            "resize": "fit"
+                        },
+                        "small": {
+                            "w": 680,
+                            "h": 383,
+                            "resize": "fit"
+                        },
+                        "large": {
+                            "w": 1280,
+                            "h": 720,
+                            "resize": "fit"
+                        }
+                    },
+                    "video_info": {
+                        "aspect_ratio": [
+                            16,
+                            9
+                        ],
+                        "duration_millis": 88999,
+                        "variants": [
+                            {
+                                "bitrate": 832000,
+                                "content_type": "video/mp4",
+                                "url": "https://video.twimg.com/ext_tw_video/1415491703872671746/pu/vid/640x360/1EBcf-rjt7zTajP1.mp4?tag=12"
+                            },
+                            {
+                                "bitrate": 2176000,
+                                "content_type": "video/mp4",
+                                "url": "https://video.twimg.com/ext_tw_video/1415491703872671746/pu/vid/1280x720/QIoq9Vas0QDDByQI.mp4?tag=12"
+                            },
+                            {
+                                "content_type": "application/x-mpegURL",
+                                "url": "https://video.twimg.com/ext_tw_video/1415491703872671746/pu/pl/7lyf-3l1qo3pHfH5.m3u8?tag=12&container=fmp4"
+                            },
+                            {
+                                "bitrate": 256000,
+                                "content_type": "video/mp4",
+                                "url": "https://video.twimg.com/ext_tw_video/1415491703872671746/pu/vid/480x270/yPObzhZp5z9wvvT3.mp4?tag=12"
+                            }
+                        ]
+                    },
+                    "additional_media_info": {
+                        "monetizable": false
+                    }
+                }
+            ]
+        },
+        "metadata": {
+            "iso_language_code": "es",
+            "result_type": "recent"
+        },
+        "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 945118148919005184,
+            "id_str": "945118148919005184",
+            "name": "BUXTREP \u00a1\ud835\udc12i\ud835\udc20\u00e1\ud835\udc26\ud835\udc28\ud835\udc27\ud835\udc28\ud835\udc2c!",
+            "screen_name": "buxtrep",
+            "location": "Per\u00fa",
+            "description": "\u00a1S\u00cdGUEME Y TE SIGO!, solo por este mes.\nNo me sigues, dejo de seguirte!\n\u00a1Somos dem\u00f3cratas!\nNo trolls!\nSubimos videos de #BetoASaber y m\u00e1s programas al instante!",
+            "url": "https://t.co/cnXdwhw5GX",
+            "entities": {
+                "url": {
+                    "urls": [
+                        {
+                            "url": "https://t.co/cnXdwhw5GX",
+                            "expanded_url": "https://www.youtube.com/c/Buxtrep",
+                            "display_url": "youtube.com/c/Buxtrep",
+                            "indices": [
+                                0,
+                                23
+                            ]
+                        }
+                    ]
+                },
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 881,
+            "friends_count": 1299,
+            "listed_count": 3,
+            "created_at": "Mon Dec 25 02:25:00 +0000 2017",
+            "favourites_count": 10596,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": false,
+            "verified": false,
+            "statuses_count": 10273,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "F5F8FA",
+            "profile_background_image_url": null,
+            "profile_background_image_url_https": null,
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1407510853373530114/_UGsaBrm_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1407510853373530114/_UGsaBrm_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/945118148919005184/1626038157",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "has_extended_profile": false,
+            "default_profile": true,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none",
+            "withheld_in_countries": []
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 373,
+        "favorite_count": 724,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "es"
+    },
+    "is_quote_status": false,
+    "retweet_count": 373,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "es"
+}

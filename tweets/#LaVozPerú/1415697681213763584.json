@@ -1,0 +1,197 @@
+{
+    "created_at": "Thu Jul 15 15:40:04 +0000 2021",
+    "id": 1415697681213763584,
+    "id_str": "1415697681213763584",
+    "full_text": "RT @GossipLima: Lo mejor de  #LaVozPer\u00fa en la etapa de batallas es que al fin Daniela no interrumpe a los cantantes \ud83e\udd23",
+    "truncated": false,
+    "display_text_range": [
+        0,
+        117
+    ],
+    "entities": {
+        "hashtags": [
+            {
+                "text": "LaVozPer\u00fa",
+                "indices": [
+                    29,
+                    39
+                ]
+            }
+        ],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "GossipLima",
+                "name": "Gossip Lima",
+                "id": 1264175154663493632,
+                "id_str": "1264175154663493632",
+                "indices": [
+                    3,
+                    14
+                ]
+            }
+        ],
+        "urls": []
+    },
+    "metadata": {
+        "iso_language_code": "es",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 620504430,
+        "id_str": "620504430",
+        "name": "Angie Raymundo ",
+        "screen_name": "angieraymundo1",
+        "location": "",
+        "description": "Estudiante\ud83d\udcda Administraci\u00f3n y Negocios Internacionales \u2764\nAmante del caf\u00e9 \u2615",
+        "url": null,
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 51,
+        "friends_count": 240,
+        "listed_count": 0,
+        "created_at": "Wed Jun 27 23:05:53 +0000 2012",
+        "favourites_count": 20863,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 9342,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1333974679929954305/SL_XmPsl_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1333974679929954305/SL_XmPsl_normal.jpg",
+        "profile_link_color": "B3009E",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": true,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+        "created_at": "Thu Jul 15 02:59:52 +0000 2021",
+        "id": 1415506369789239299,
+        "id_str": "1415506369789239299",
+        "full_text": "Lo mejor de  #LaVozPer\u00fa en la etapa de batallas es que al fin Daniela no interrumpe a los cantantes \ud83e\udd23",
+        "truncated": false,
+        "display_text_range": [
+            0,
+            101
+        ],
+        "entities": {
+            "hashtags": [
+                {
+                    "text": "LaVozPer\u00fa",
+                    "indices": [
+                        13,
+                        23
+                    ]
+                }
+            ],
+            "symbols": [],
+            "user_mentions": [],
+            "urls": []
+        },
+        "metadata": {
+            "iso_language_code": "es",
+            "result_type": "recent"
+        },
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 1264175154663493632,
+            "id_str": "1264175154663493632",
+            "name": "Gossip Lima",
+            "screen_name": "GossipLima",
+            "location": "",
+            "description": "Todo el chisme pol\u00edtico lo encuentras aqu\u00ed \ud83d\udd25   Tienes algo que contar? m\u00e1ndanos un DM",
+            "url": null,
+            "entities": {
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 3420,
+            "friends_count": 31,
+            "listed_count": 1,
+            "created_at": "Sat May 23 12:43:49 +0000 2020",
+            "favourites_count": 1039,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": false,
+            "verified": false,
+            "statuses_count": 1026,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "F5F8FA",
+            "profile_background_image_url": null,
+            "profile_background_image_url_https": null,
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1264177610470326275/0FKpFvU2_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1264177610470326275/0FKpFvU2_normal.jpg",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "has_extended_profile": false,
+            "default_profile": true,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none",
+            "withheld_in_countries": []
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 2,
+        "favorite_count": 9,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "es"
+    },
+    "is_quote_status": false,
+    "retweet_count": 2,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "es"
+}

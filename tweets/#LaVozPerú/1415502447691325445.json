@@ -1,0 +1,211 @@
+{
+    "created_at": "Thu Jul 15 02:44:16 +0000 2021",
+    "id": 1415502447691325445,
+    "id_str": "1415502447691325445",
+    "full_text": "RT @jeazmin25: Quiero un novio que me cante como  Sebasti\u00e1n xd #LaVozPeru",
+    "truncated": false,
+    "display_text_range": [
+        0,
+        73
+    ],
+    "entities": {
+        "hashtags": [
+            {
+                "text": "LaVozPeru",
+                "indices": [
+                    63,
+                    73
+                ]
+            }
+        ],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "jeazmin25",
+                "name": "Jeazmin",
+                "id": 128978025,
+                "id_str": "128978025",
+                "indices": [
+                    3,
+                    13
+                ]
+            }
+        ],
+        "urls": []
+    },
+    "metadata": {
+        "iso_language_code": "es",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 128260472,
+        "id_str": "128260472",
+        "name": "Zule",
+        "screen_name": "zule_a_r",
+        "location": "por ah\u00ed xD",
+        "description": "Amante de las hamburguesas y todo el colesterol(?), tbn de las cosas asi\u00e1ticas y randoms, caprichosa, alegre, desafinada al cantar, sufre de Ofidiofobia, etc...",
+        "url": null,
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 94,
+        "friends_count": 275,
+        "listed_count": 1,
+        "created_at": "Wed Mar 31 16:07:34 +0000 2010",
+        "favourites_count": 1574,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 1038,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": true,
+        "profile_background_color": "FCEDDB",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1277247475829653509/9Q0K9_AU_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1277247475829653509/9Q0K9_AU_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/128260472/1493667095",
+        "profile_link_color": "CC1090",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "F5F562",
+        "profile_text_color": "115BF0",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+        "created_at": "Thu Jul 15 02:43:09 +0000 2021",
+        "id": 1415502165246947328,
+        "id_str": "1415502165246947328",
+        "full_text": "Quiero un novio que me cante como  Sebasti\u00e1n xd #LaVozPeru",
+        "truncated": false,
+        "display_text_range": [
+            0,
+            58
+        ],
+        "entities": {
+            "hashtags": [
+                {
+                    "text": "LaVozPeru",
+                    "indices": [
+                        48,
+                        58
+                    ]
+                }
+            ],
+            "symbols": [],
+            "user_mentions": [],
+            "urls": []
+        },
+        "metadata": {
+            "iso_language_code": "es",
+            "result_type": "recent"
+        },
+        "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 128978025,
+            "id_str": "128978025",
+            "name": "Jeazmin",
+            "screen_name": "jeazmin25",
+            "location": "Per\u00fa-Trujillo",
+            "description": "Mi vida no es perfecta pero estoy agradecido por todo lo que tengo.",
+            "url": "https://t.co/otMk2JeOOe",
+            "entities": {
+                "url": {
+                    "urls": [
+                        {
+                            "url": "https://t.co/otMk2JeOOe",
+                            "expanded_url": "http://instagram.com/sheylasilvestre5",
+                            "display_url": "instagram.com/sheylasilvestr\u2026",
+                            "indices": [
+                                0,
+                                23
+                            ]
+                        }
+                    ]
+                },
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 631,
+            "friends_count": 112,
+            "listed_count": 0,
+            "created_at": "Fri Apr 02 20:13:43 +0000 2010",
+            "favourites_count": 438,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": true,
+            "verified": false,
+            "statuses_count": 4317,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "DBE9ED",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme3/bg.gif",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme3/bg.gif",
+            "profile_background_tile": true,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1350667067305955328/BsAUH9AS_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1350667067305955328/BsAUH9AS_normal.jpg",
+            "profile_link_color": "CC3366",
+            "profile_sidebar_border_color": "FFFFFF",
+            "profile_sidebar_fill_color": "F5DCEF",
+            "profile_text_color": "ED1D70",
+            "profile_use_background_image": false,
+            "has_extended_profile": true,
+            "default_profile": false,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "regular",
+            "withheld_in_countries": []
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 2,
+        "favorite_count": 4,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "es"
+    },
+    "is_quote_status": false,
+    "retweet_count": 2,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "es"
+}

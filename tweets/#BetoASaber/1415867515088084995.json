@@ -1,0 +1,301 @@
+{
+    "created_at": "Fri Jul 16 02:54:55 +0000 2021",
+    "id": 1415867515088084995,
+    "id_str": "1415867515088084995",
+    "full_text": "RT @Dianasemi: As\u00ed qued\u00f3 Richard Muro tras ser atacado por los seguidores de \u2066@perulibre1\u2069 anoche. Ahora en reportaje de Claudia Toro v\u00eda\u2026",
+    "truncated": false,
+    "display_text_range": [
+        0,
+        138
+    ],
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "Dianasemi",
+                "name": "Diana Seminario",
+                "id": 54749527,
+                "id_str": "54749527",
+                "indices": [
+                    3,
+                    13
+                ]
+            },
+            {
+                "screen_name": "perulibre1",
+                "name": "peru libre",
+                "id": 447671678,
+                "id_str": "447671678",
+                "indices": [
+                    78,
+                    89
+                ]
+            }
+        ],
+        "urls": []
+    },
+    "metadata": {
+        "iso_language_code": "es",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 126819323,
+        "id_str": "126819323",
+        "name": "Manuel Espejo",
+        "screen_name": "manuelespejor",
+        "location": "Lima - Per\u00fa",
+        "description": "",
+        "url": null,
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 199,
+        "friends_count": 937,
+        "listed_count": 2,
+        "created_at": "Sat Mar 27 02:49:56 +0000 2010",
+        "favourites_count": 29056,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 37231,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "F6D540",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1205991027665846273/WLAsRyq6_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1205991027665846273/WLAsRyq6_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/126819323/1390186038",
+        "profile_link_color": "F68940",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "C99F44",
+        "profile_text_color": "F9B54F",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+        "created_at": "Fri Jul 16 02:25:48 +0000 2021",
+        "id": 1415860188452638723,
+        "id_str": "1415860188452638723",
+        "full_text": "As\u00ed qued\u00f3 Richard Muro tras ser atacado por los seguidores de \u2066@perulibre1\u2069 anoche. Ahora en reportaje de Claudia Toro v\u00eda  #BetoASaber en \u2066@willaxtv\u2069 https://t.co/qQxXWrF5FV",
+        "truncated": false,
+        "display_text_range": [
+            0,
+            150
+        ],
+        "entities": {
+            "hashtags": [
+                {
+                    "text": "BetoASaber",
+                    "indices": [
+                        124,
+                        135
+                    ]
+                }
+            ],
+            "symbols": [],
+            "user_mentions": [
+                {
+                    "screen_name": "perulibre1",
+                    "name": "peru libre",
+                    "id": 447671678,
+                    "id_str": "447671678",
+                    "indices": [
+                        63,
+                        74
+                    ]
+                },
+                {
+                    "screen_name": "willaxtv",
+                    "name": "Willax Televisi\u00f3n",
+                    "id": 38512990,
+                    "id_str": "38512990",
+                    "indices": [
+                        140,
+                        149
+                    ]
+                }
+            ],
+            "urls": [],
+            "media": [
+                {
+                    "id": 1415860181993394180,
+                    "id_str": "1415860181993394180",
+                    "indices": [
+                        151,
+                        174
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/E6YlVX9WEAQWFKw.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/E6YlVX9WEAQWFKw.jpg",
+                    "url": "https://t.co/qQxXWrF5FV",
+                    "display_url": "pic.twitter.com/qQxXWrF5FV",
+                    "expanded_url": "https://twitter.com/Dianasemi/status/1415860188452638723/photo/1",
+                    "type": "photo",
+                    "sizes": {
+                        "small": {
+                            "w": 680,
+                            "h": 639,
+                            "resize": "fit"
+                        },
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "large": {
+                            "w": 1610,
+                            "h": 1512,
+                            "resize": "fit"
+                        },
+                        "medium": {
+                            "w": 1200,
+                            "h": 1127,
+                            "resize": "fit"
+                        }
+                    }
+                }
+            ]
+        },
+        "extended_entities": {
+            "media": [
+                {
+                    "id": 1415860181993394180,
+                    "id_str": "1415860181993394180",
+                    "indices": [
+                        151,
+                        174
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/E6YlVX9WEAQWFKw.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/E6YlVX9WEAQWFKw.jpg",
+                    "url": "https://t.co/qQxXWrF5FV",
+                    "display_url": "pic.twitter.com/qQxXWrF5FV",
+                    "expanded_url": "https://twitter.com/Dianasemi/status/1415860188452638723/photo/1",
+                    "type": "photo",
+                    "sizes": {
+                        "small": {
+                            "w": 680,
+                            "h": 639,
+                            "resize": "fit"
+                        },
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "large": {
+                            "w": 1610,
+                            "h": 1512,
+                            "resize": "fit"
+                        },
+                        "medium": {
+                            "w": 1200,
+                            "h": 1127,
+                            "resize": "fit"
+                        }
+                    }
+                }
+            ]
+        },
+        "metadata": {
+            "iso_language_code": "es",
+            "result_type": "recent"
+        },
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 54749527,
+            "id_str": "54749527",
+            "name": "Diana Seminario",
+            "screen_name": "Dianasemi",
+            "location": "Lima",
+            "description": "Analista pol\u00edtica. Master en Comunicaci\u00f3n y Marketing Pol\u00edtico UNIR.",
+            "url": null,
+            "entities": {
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 65274,
+            "friends_count": 1690,
+            "listed_count": 272,
+            "created_at": "Wed Jul 08 01:16:22 +0000 2009",
+            "favourites_count": 36503,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": false,
+            "verified": false,
+            "statuses_count": 42339,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "C0DEED",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1400591199443079170/6IurpN3J_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1400591199443079170/6IurpN3J_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/54749527/1506954583",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "has_extended_profile": false,
+            "default_profile": true,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none",
+            "withheld_in_countries": []
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 168,
+        "favorite_count": 334,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "es"
+    },
+    "is_quote_status": false,
+    "retweet_count": 168,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "es"
+}

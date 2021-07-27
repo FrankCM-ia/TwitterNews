@@ -1,0 +1,373 @@
+{
+    "created_at": "Tue Jul 13 05:21:12 +0000 2021",
+    "id": 1414817165224685569,
+    "id_str": "1414817165224685569",
+    "full_text": "RT @elsoplonpe: Todav\u00eda hay posibilidades de que Pedro Castillo no Juramente el 28 de Julio\n#JNESacateElSombrero \n#JNESacateElSombrero \nJul\u2026",
+    "truncated": false,
+    "display_text_range": [
+        0,
+        140
+    ],
+    "entities": {
+        "hashtags": [
+            {
+                "text": "JNESacateElSombrero",
+                "indices": [
+                    92,
+                    112
+                ]
+            },
+            {
+                "text": "JNESacateElSombrero",
+                "indices": [
+                    114,
+                    134
+                ]
+            }
+        ],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "elsoplonpe",
+                "name": "El Sopl\u00f3n (S\u00cdGUEME Y TE SIGO)",
+                "id": 1290653226719739904,
+                "id_str": "1290653226719739904",
+                "indices": [
+                    3,
+                    14
+                ]
+            }
+        ],
+        "urls": []
+    },
+    "metadata": {
+        "iso_language_code": "es",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 1286356660634693634,
+        "id_str": "1286356660634693634",
+        "name": "Kate",
+        "screen_name": "Kate23409746",
+        "location": "",
+        "description": "",
+        "url": null,
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 48,
+        "friends_count": 74,
+        "listed_count": 0,
+        "created_at": "Thu Jul 23 17:45:12 +0000 2020",
+        "favourites_count": 24608,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 2497,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": null,
+        "profile_background_image_url_https": null,
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1286356973672370176/LAjDy8i4_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1286356973672370176/LAjDy8i4_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": true,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+        "created_at": "Tue Jul 13 01:54:57 +0000 2021",
+        "id": 1414765261182443526,
+        "id_str": "1414765261182443526",
+        "full_text": "Todav\u00eda hay posibilidades de que Pedro Castillo no Juramente el 28 de Julio\n#JNESacateElSombrero \n#JNESacateElSombrero \nJuliana Oxenford #alestilojuliana #BetoASaber #PolloFarsante #NuevasEleccionesPeru, Butters, Poky https://t.co/tSqFXXbyrz",
+        "truncated": false,
+        "display_text_range": [
+            0,
+            217
+        ],
+        "entities": {
+            "hashtags": [
+                {
+                    "text": "JNESacateElSombrero",
+                    "indices": [
+                        76,
+                        96
+                    ]
+                },
+                {
+                    "text": "JNESacateElSombrero",
+                    "indices": [
+                        98,
+                        118
+                    ]
+                },
+                {
+                    "text": "alestilojuliana",
+                    "indices": [
+                        137,
+                        153
+                    ]
+                },
+                {
+                    "text": "BetoASaber",
+                    "indices": [
+                        154,
+                        165
+                    ]
+                },
+                {
+                    "text": "PolloFarsante",
+                    "indices": [
+                        166,
+                        180
+                    ]
+                },
+                {
+                    "text": "NuevasEleccionesPeru",
+                    "indices": [
+                        181,
+                        202
+                    ]
+                }
+            ],
+            "symbols": [],
+            "user_mentions": [],
+            "urls": [
+                {
+                    "url": "https://t.co/tSqFXXbyrz",
+                    "expanded_url": "https://twitter.com/buxtrep/status/1414758315268182024",
+                    "display_url": "twitter.com/buxtrep/status\u2026",
+                    "indices": [
+                        218,
+                        241
+                    ]
+                }
+            ]
+        },
+        "metadata": {
+            "iso_language_code": "es",
+            "result_type": "recent"
+        },
+        "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 1290653226719739904,
+            "id_str": "1290653226719739904",
+            "name": "El Sopl\u00f3n (S\u00cdGUEME Y TE SIGO)",
+            "screen_name": "elsoplonpe",
+            "location": "Lima",
+            "description": "TE SIGO, NO ME SIGUES, YA NO TE SIGO\n#SiguemeYTeSigo\nDemocr\u00e1ta, escucho todas las opiniones para sacar mis propia conclusiones",
+            "url": null,
+            "entities": {
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 433,
+            "friends_count": 814,
+            "listed_count": 0,
+            "created_at": "Tue Aug 04 14:18:11 +0000 2020",
+            "favourites_count": 1081,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": false,
+            "verified": false,
+            "statuses_count": 700,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "F5F8FA",
+            "profile_background_image_url": null,
+            "profile_background_image_url_https": null,
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1406340581710782465/oDeig5kN_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1406340581710782465/oDeig5kN_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/1290653226719739904/1624132611",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "has_extended_profile": true,
+            "default_profile": true,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none",
+            "withheld_in_countries": []
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": true,
+        "quoted_status_id": 1414758315268182024,
+        "quoted_status_id_str": "1414758315268182024",
+        "quoted_status": {
+            "created_at": "Tue Jul 13 01:27:21 +0000 2021",
+            "id": 1414758315268182024,
+            "id_str": "1414758315268182024",
+            "full_text": "Lo que faltar\u00eda despu\u00e9s de que el JNE terminara de resolver las apelaciones.\nLos JEE tienen que emitir las actas descentralizadas a m\u00e1s tardar el d\u00eda mi\u00e9rcoles... DE NO HABER APELACI\u00d3N Pedrito Cantinflas JURAMENTAR\u00cdA EL 20 DE JULIO\n#JNESacateElSombrero \nhttps://t.co/Dgt6Oiwhwc",
+            "truncated": false,
+            "display_text_range": [
+                0,
+                277
+            ],
+            "entities": {
+                "hashtags": [
+                    {
+                        "text": "JNESacateElSombrero",
+                        "indices": [
+                            232,
+                            252
+                        ]
+                    }
+                ],
+                "symbols": [],
+                "user_mentions": [],
+                "urls": [
+                    {
+                        "url": "https://t.co/Dgt6Oiwhwc",
+                        "expanded_url": "https://youtu.be/C9CvD_qOvzE",
+                        "display_url": "youtu.be/C9CvD_qOvzE",
+                        "indices": [
+                            254,
+                            277
+                        ]
+                    }
+                ]
+            },
+            "metadata": {
+                "iso_language_code": "es",
+                "result_type": "recent"
+            },
+            "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+            "in_reply_to_status_id": null,
+            "in_reply_to_status_id_str": null,
+            "in_reply_to_user_id": null,
+            "in_reply_to_user_id_str": null,
+            "in_reply_to_screen_name": null,
+            "user": {
+                "id": 945118148919005184,
+                "id_str": "945118148919005184",
+                "name": "BUXTREP \u00a1\ud835\udc12i\ud835\udc20\u00e1\ud835\udc26\ud835\udc28\ud835\udc27\ud835\udc28\ud835\udc2c!",
+                "screen_name": "buxtrep",
+                "location": "Per\u00fa",
+                "description": "\u00a1S\u00cdGUEME Y TE SIGO!, solo por este mes.\nNo me sigues, dejo de seguirte!\n\u00a1Somos dem\u00f3cratas!\nNo trolls!\nSubimos videos de #BetoASaber y m\u00e1s programas al instante!",
+                "url": "https://t.co/cnXdwhw5GX",
+                "entities": {
+                    "url": {
+                        "urls": [
+                            {
+                                "url": "https://t.co/cnXdwhw5GX",
+                                "expanded_url": "https://www.youtube.com/c/Buxtrep",
+                                "display_url": "youtube.com/c/Buxtrep",
+                                "indices": [
+                                    0,
+                                    23
+                                ]
+                            }
+                        ]
+                    },
+                    "description": {
+                        "urls": []
+                    }
+                },
+                "protected": false,
+                "followers_count": 888,
+                "friends_count": 1309,
+                "listed_count": 3,
+                "created_at": "Mon Dec 25 02:25:00 +0000 2017",
+                "favourites_count": 10598,
+                "utc_offset": null,
+                "time_zone": null,
+                "geo_enabled": false,
+                "verified": false,
+                "statuses_count": 10275,
+                "lang": null,
+                "contributors_enabled": false,
+                "is_translator": false,
+                "is_translation_enabled": false,
+                "profile_background_color": "F5F8FA",
+                "profile_background_image_url": null,
+                "profile_background_image_url_https": null,
+                "profile_background_tile": false,
+                "profile_image_url": "http://pbs.twimg.com/profile_images/1407510853373530114/_UGsaBrm_normal.jpg",
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/1407510853373530114/_UGsaBrm_normal.jpg",
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/945118148919005184/1626038157",
+                "profile_link_color": "1DA1F2",
+                "profile_sidebar_border_color": "C0DEED",
+                "profile_sidebar_fill_color": "DDEEF6",
+                "profile_text_color": "333333",
+                "profile_use_background_image": true,
+                "has_extended_profile": false,
+                "default_profile": true,
+                "default_profile_image": false,
+                "following": false,
+                "follow_request_sent": false,
+                "notifications": false,
+                "translator_type": "none",
+                "withheld_in_countries": []
+            },
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "contributors": null,
+            "is_quote_status": false,
+            "retweet_count": 14,
+            "favorite_count": 24,
+            "favorited": false,
+            "retweeted": false,
+            "possibly_sensitive": false,
+            "lang": "es"
+        },
+        "retweet_count": 16,
+        "favorite_count": 22,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "es"
+    },
+    "is_quote_status": true,
+    "quoted_status_id": 1414758315268182024,
+    "quoted_status_id_str": "1414758315268182024",
+    "retweet_count": 16,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "es"
+}

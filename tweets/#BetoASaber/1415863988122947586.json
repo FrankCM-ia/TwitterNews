@@ -1,0 +1,277 @@
+{
+    "created_at": "Fri Jul 16 02:40:54 +0000 2021",
+    "id": 1415863988122947586,
+    "id_str": "1415863988122947586",
+    "full_text": "RT @PoliticasTv: #Pol\u00edticasEnWillax | #BetoASaber Nos explica quien es el Juez Bello, el juez favorito de @VLADIMIR_CERRON en una investiga\u2026",
+    "truncated": false,
+    "display_text_range": [
+        0,
+        140
+    ],
+    "entities": {
+        "hashtags": [
+            {
+                "text": "Pol\u00edticasEnWillax",
+                "indices": [
+                    17,
+                    35
+                ]
+            },
+            {
+                "text": "BetoASaber",
+                "indices": [
+                    38,
+                    49
+                ]
+            }
+        ],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "PoliticasTv",
+                "name": "Pol\u00edticas TV",
+                "id": 94376828,
+                "id_str": "94376828",
+                "indices": [
+                    3,
+                    15
+                ]
+            },
+            {
+                "screen_name": "VLADIMIR_CERRON",
+                "name": "Vladimir Cerr\u00f3n",
+                "id": 521651938,
+                "id_str": "521651938",
+                "indices": [
+                    106,
+                    122
+                ]
+            }
+        ],
+        "urls": []
+    },
+    "metadata": {
+        "iso_language_code": "es",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 89358642,
+        "id_str": "89358642",
+        "name": "LUIS ROJAS PINEDA",
+        "screen_name": "SHIVAGO94",
+        "location": "Sud America Per\u00fa.",
+        "description": "Soy amigo de la cultura,  la educaci\u00f3n y el deporte  amo la naturaleza y el medio ambiente. no hay otro lugar m\u00e1s hermoso que el Per\u00fa***",
+        "url": null,
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 171,
+        "friends_count": 3138,
+        "listed_count": 0,
+        "created_at": "Thu Nov 12 03:13:07 +0000 2009",
+        "favourites_count": 33483,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 38836,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "022330",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/528013921924288512/1o8L0Nl4_normal.jpeg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/528013921924288512/1o8L0Nl4_normal.jpeg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/89358642/1414723459",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "C0DFEC",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": true,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+        "created_at": "Tue Jul 13 02:31:50 +0000 2021",
+        "id": 1414774539989438475,
+        "id_str": "1414774539989438475",
+        "full_text": "#Pol\u00edticasEnWillax | #BetoASaber Nos explica quien es el Juez Bello, el juez favorito de @VLADIMIR_CERRON en una investigaci\u00f3n de @claudiatoro \ud83d\udcaa\ud83c\uddf5\ud83c\uddea por la se\u00f1al de @willaxtv @esquinabaja",
+        "truncated": false,
+        "display_text_range": [
+            0,
+            185
+        ],
+        "entities": {
+            "hashtags": [
+                {
+                    "text": "Pol\u00edticasEnWillax",
+                    "indices": [
+                        0,
+                        18
+                    ]
+                },
+                {
+                    "text": "BetoASaber",
+                    "indices": [
+                        21,
+                        32
+                    ]
+                }
+            ],
+            "symbols": [],
+            "user_mentions": [
+                {
+                    "screen_name": "VLADIMIR_CERRON",
+                    "name": "Vladimir Cerr\u00f3n",
+                    "id": 521651938,
+                    "id_str": "521651938",
+                    "indices": [
+                        89,
+                        105
+                    ]
+                },
+                {
+                    "screen_name": "claudiatoro",
+                    "name": "claud",
+                    "id": 21252962,
+                    "id_str": "21252962",
+                    "indices": [
+                        130,
+                        142
+                    ]
+                },
+                {
+                    "screen_name": "willaxtv",
+                    "name": "Willax Televisi\u00f3n",
+                    "id": 38512990,
+                    "id_str": "38512990",
+                    "indices": [
+                        163,
+                        172
+                    ]
+                },
+                {
+                    "screen_name": "esquinabaja",
+                    "name": "Carla Garc\u00eda B \ud83d\udc9a",
+                    "id": 19729967,
+                    "id_str": "19729967",
+                    "indices": [
+                        173,
+                        185
+                    ]
+                }
+            ],
+            "urls": []
+        },
+        "metadata": {
+            "iso_language_code": "es",
+            "result_type": "recent"
+        },
+        "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 94376828,
+            "id_str": "94376828",
+            "name": "Pol\u00edticas TV",
+            "screen_name": "PoliticasTv",
+            "location": "Per\u00fa",
+            "description": "Vamos a hablar de pol\u00edtica \ud83c\uddf5\ud83c\uddea \nNadie nos va a callar \ud83d\udce3 \nTodos los s\u00e1bados a las 8:00PM @willaxtv \ud83d\udcf1",
+            "url": "https://t.co/7SLYDlm4zX",
+            "entities": {
+                "url": {
+                    "urls": [
+                        {
+                            "url": "https://t.co/7SLYDlm4zX",
+                            "expanded_url": "http://www.youtube.com/c/Pol\u00edticasTV",
+                            "display_url": "youtube.com/c/Pol\u00edticasTV",
+                            "indices": [
+                                0,
+                                23
+                            ]
+                        }
+                    ]
+                },
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 6577,
+            "friends_count": 353,
+            "listed_count": 1,
+            "created_at": "Thu Dec 03 17:46:49 +0000 2009",
+            "favourites_count": 1290,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": false,
+            "verified": false,
+            "statuses_count": 1336,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "C0DEED",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1392493498532761610/0syAhXNe_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1392493498532761610/0syAhXNe_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/94376828/1625781486",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "has_extended_profile": false,
+            "default_profile": true,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none",
+            "withheld_in_countries": []
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 91,
+        "favorite_count": 267,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "es"
+    },
+    "is_quote_status": false,
+    "retweet_count": 91,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "es"
+}

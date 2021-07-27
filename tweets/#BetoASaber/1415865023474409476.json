@@ -1,0 +1,191 @@
+{
+    "created_at": "Fri Jul 16 02:45:01 +0000 2021",
+    "id": 1415865023474409476,
+    "id_str": "1415865023474409476",
+    "full_text": "RT @unhombrenlaluna: Grupo la Rep\u00fablica es el encargado de verificar si lo que se escribe en la red es verdad o no, estos caviares quieren\u2026",
+    "truncated": false,
+    "display_text_range": [
+        0,
+        139
+    ],
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "unhombrenlaluna",
+                "name": "rogelio",
+                "id": 1022997947129245701,
+                "id_str": "1022997947129245701",
+                "indices": [
+                    3,
+                    19
+                ]
+            }
+        ],
+        "urls": []
+    },
+    "metadata": {
+        "iso_language_code": "es",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 985383653852229632,
+        "id_str": "985383653852229632",
+        "name": "Julius",
+        "screen_name": "Cesarju16462234",
+        "location": "S.J.L. - Lima.",
+        "description": "Peace and love",
+        "url": null,
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 423,
+        "friends_count": 352,
+        "listed_count": 0,
+        "created_at": "Sun Apr 15 05:05:45 +0000 2018",
+        "favourites_count": 121649,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 153146,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": null,
+        "profile_background_image_url_https": null,
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/985400672039374849/wGEn5T6__normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/985400672039374849/wGEn5T6__normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/985383653852229632/1523918438",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": true,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+        "created_at": "Thu Jul 15 02:50:01 +0000 2021",
+        "id": 1415503893484744706,
+        "id_str": "1415503893484744706",
+        "full_text": "Grupo la Rep\u00fablica es el encargado de verificar si lo que se escribe en la red es verdad o no, estos caviares quieren que pensemos como ellos, que se joda el topo de la prensa de Vladimiro montesinos. #BetoASaber",
+        "truncated": false,
+        "display_text_range": [
+            0,
+            212
+        ],
+        "entities": {
+            "hashtags": [
+                {
+                    "text": "BetoASaber",
+                    "indices": [
+                        201,
+                        212
+                    ]
+                }
+            ],
+            "symbols": [],
+            "user_mentions": [],
+            "urls": []
+        },
+        "metadata": {
+            "iso_language_code": "es",
+            "result_type": "recent"
+        },
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 1022997947129245701,
+            "id_str": "1022997947129245701",
+            "name": "rogelio",
+            "screen_name": "unhombrenlaluna",
+            "location": "",
+            "description": "a\u00fan no encuentro la f\u00f3rmula para alcanzar la felicidad, pero de algo estoy seguro, el comunismo solo trae infelicidad.",
+            "url": null,
+            "entities": {
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 758,
+            "friends_count": 349,
+            "listed_count": 2,
+            "created_at": "Sat Jul 28 00:11:31 +0000 2018",
+            "favourites_count": 537,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": false,
+            "verified": false,
+            "statuses_count": 6880,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "F5F8FA",
+            "profile_background_image_url": null,
+            "profile_background_image_url_https": null,
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1414395187598663680/WYxcjpNl_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1414395187598663680/WYxcjpNl_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/1022997947129245701/1626271306",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "has_extended_profile": false,
+            "default_profile": true,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none",
+            "withheld_in_countries": []
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 2,
+        "favorite_count": 6,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "es"
+    },
+    "is_quote_status": false,
+    "retweet_count": 2,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "es"
+}

@@ -1,0 +1,226 @@
+{
+    "created_at": "Fri Jul 16 03:27:43 +0000 2021",
+    "id": 1415875768475860992,
+    "id_str": "1415875768475860992",
+    "full_text": "RT @Resilie89867194: #AlEstiloJuliana #SagastiGolpistaCTM Se supone que usted dice ser una periodista correcta y parcial, pero a\u00fan as\u00ed no l\u2026",
+    "truncated": false,
+    "display_text_range": [
+        0,
+        140
+    ],
+    "entities": {
+        "hashtags": [
+            {
+                "text": "AlEstiloJuliana",
+                "indices": [
+                    21,
+                    37
+                ]
+            },
+            {
+                "text": "SagastiGolpistaCTM",
+                "indices": [
+                    38,
+                    57
+                ]
+            }
+        ],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "Resilie89867194",
+                "name": "\ud83c\udf8dResiliencia\ud83c\udf8d",
+                "id": 1415865737839845378,
+                "id_str": "1415865737839845378",
+                "indices": [
+                    3,
+                    19
+                ]
+            }
+        ],
+        "urls": []
+    },
+    "metadata": {
+        "iso_language_code": "es",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 1649504702,
+        "id_str": "1649504702",
+        "name": "Jose Antonio De Amat",
+        "screen_name": "Antonio_De_Amat",
+        "location": "Lima - Peru.",
+        "description": "Anti Comunista No creo en el Socialismo del Siglo XXI que llev\u00f3 a Venezuela a la pobreza ni en el Comunismo que llev\u00f3 a Cuba a ser un pa\u00eds miserable",
+        "url": "https://t.co/06P8YHW8ZL",
+        "entities": {
+            "url": {
+                "urls": [
+                    {
+                        "url": "https://t.co/06P8YHW8ZL",
+                        "expanded_url": "http://www.peru.com",
+                        "display_url": "peru.com",
+                        "indices": [
+                            0,
+                            23
+                        ]
+                    }
+                ]
+            },
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 2199,
+        "friends_count": 4711,
+        "listed_count": 14,
+        "created_at": "Tue Aug 06 04:57:39 +0000 2013",
+        "favourites_count": 46260,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 92595,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1250152452109852672/Qu-6Xm76_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1250152452109852672/Qu-6Xm76_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1649504702/1620737336",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": true,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+        "created_at": "Fri Jul 16 03:25:39 +0000 2021",
+        "id": 1415875247786573826,
+        "id_str": "1415875247786573826",
+        "full_text": "#AlEstiloJuliana #SagastiGolpistaCTM Se supone que usted dice ser una periodista correcta y parcial, pero a\u00fan as\u00ed no lo demuestra, el se\u00f1or Richard Muro pudo haber muerto, y el estado en el que se encuentra actualmente es deplorable, su trabajo es informar, mas no lo ha hecho.",
+        "truncated": false,
+        "display_text_range": [
+            0,
+            277
+        ],
+        "entities": {
+            "hashtags": [
+                {
+                    "text": "AlEstiloJuliana",
+                    "indices": [
+                        0,
+                        16
+                    ]
+                },
+                {
+                    "text": "SagastiGolpistaCTM",
+                    "indices": [
+                        17,
+                        36
+                    ]
+                }
+            ],
+            "symbols": [],
+            "user_mentions": [],
+            "urls": []
+        },
+        "metadata": {
+            "iso_language_code": "es",
+            "result_type": "recent"
+        },
+        "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 1415865737839845378,
+            "id_str": "1415865737839845378",
+            "name": "\ud83c\udf8dResiliencia\ud83c\udf8d",
+            "screen_name": "Resilie89867194",
+            "location": "",
+            "description": "\ud83c\udf8dResiliencia\ud83c\udf8d\n-Capacidad de adaptaci\u00f3n de un ser vivo frente a un agente perturbador ,un estado o situaci\u00f3n adversos...",
+            "url": null,
+            "entities": {
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 0,
+            "friends_count": 1,
+            "listed_count": 0,
+            "created_at": "Fri Jul 16 02:48:15 +0000 2021",
+            "favourites_count": 12,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": false,
+            "verified": false,
+            "statuses_count": 12,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "F5F8FA",
+            "profile_background_image_url": null,
+            "profile_background_image_url_https": null,
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1415866022385627136/K5iLRheK_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1415866022385627136/K5iLRheK_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/1415865737839845378/1626404850",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "has_extended_profile": true,
+            "default_profile": true,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none",
+            "withheld_in_countries": []
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 2,
+        "favorite_count": 6,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "es"
+    },
+    "is_quote_status": false,
+    "retweet_count": 2,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "es"
+}

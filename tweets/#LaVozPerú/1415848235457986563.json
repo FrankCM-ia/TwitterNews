@@ -1,0 +1,94 @@
+{
+    "created_at": "Fri Jul 16 01:38:19 +0000 2021",
+    "id": 1415848235457986563,
+    "id_str": "1415848235457986563",
+    "full_text": "Sent\u00eda que esa canci\u00f3n iba a favorecer a una participante pero noo \ud83d\udc40.\n#LaVozPer\u00fa",
+    "truncated": false,
+    "display_text_range": [
+        0,
+        80
+    ],
+    "entities": {
+        "hashtags": [
+            {
+                "text": "LaVozPer\u00fa",
+                "indices": [
+                    70,
+                    80
+                ]
+            }
+        ],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+    },
+    "metadata": {
+        "iso_language_code": "es",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 1491237308,
+        "id_str": "1491237308",
+        "name": "\ud835\ude7a\ud835\ude8a\ud835\ude9b\ud835\ude98\ud835\ude95\ud835\ude92\ud835\ude97\ud835\ude8a \ud83c\uddf5\ud83c\uddea",
+        "screen_name": "karoochoa25",
+        "location": "Peru",
+        "description": "\ud835\udc40\ud835\udc62\ud835\udc60\ud835\udc56\ud835\udc50 \ud835\udc4e\ud835\udc5b\ud835\udc51 \ud835\udc35\ud835\udc5c\ud835\udc5c\ud835\udc58\ud835\udc60 \ud83e\udd0d.",
+        "url": null,
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 1165,
+        "friends_count": 1677,
+        "listed_count": 19,
+        "created_at": "Fri Jun 07 20:26:42 +0000 2013",
+        "favourites_count": 22435,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 10972,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme10/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme10/bg.gif",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1408648934084460549/XFjcZiP2_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1408648934084460549/XFjcZiP2_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1491237308/1624683053",
+        "profile_link_color": "F58EA8",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "profile_use_background_image": false,
+        "has_extended_profile": true,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "es"
+}

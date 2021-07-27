@@ -1,0 +1,240 @@
+{
+    "created_at": "Fri Jul 16 02:25:50 +0000 2021",
+    "id": 1415860194383474688,
+    "id_str": "1415860194383474688",
+    "full_text": "RT @washy2020: #BetoASaber Pruebas contundentes de la brutal agresi\u00f3n de los comunistas de Per\u00fa Libre contra el adulto mayor Richard Muro y\u2026",
+    "truncated": false,
+    "display_text_range": [
+        0,
+        140
+    ],
+    "entities": {
+        "hashtags": [
+            {
+                "text": "BetoASaber",
+                "indices": [
+                    15,
+                    26
+                ]
+            }
+        ],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "washy2020",
+                "name": "Washy",
+                "id": 1268624494685544448,
+                "id_str": "1268624494685544448",
+                "indices": [
+                    3,
+                    13
+                ]
+            }
+        ],
+        "urls": []
+    },
+    "metadata": {
+        "iso_language_code": "es",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 1231427922302586882,
+        "id_str": "1231427922302586882",
+        "name": "To\u00f1ito",
+        "screen_name": "govitota1",
+        "location": "",
+        "description": "Carismatico y super alegre.",
+        "url": null,
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 14,
+        "friends_count": 22,
+        "listed_count": 0,
+        "created_at": "Sun Feb 23 03:59:01 +0000 2020",
+        "favourites_count": 377,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 1340,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": null,
+        "profile_background_image_url_https": null,
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1231428832827203584/HU9IUkJb_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1231428832827203584/HU9IUkJb_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1231427922302586882/1582430751",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+        "created_at": "Fri Jul 16 02:21:47 +0000 2021",
+        "id": 1415859175582806017,
+        "id_str": "1415859175582806017",
+        "full_text": "#BetoASaber Pruebas contundentes de la brutal agresi\u00f3n de los comunistas de Per\u00fa Libre contra el adulto mayor Richard Muro y la prensa mermelera calladitos. Est\u00e1 pintado @Defensoria_Peru @FiscaliaPeru @OEA_oficial @PoliciaPeru",
+        "truncated": false,
+        "display_text_range": [
+            0,
+            226
+        ],
+        "entities": {
+            "hashtags": [
+                {
+                    "text": "BetoASaber",
+                    "indices": [
+                        0,
+                        11
+                    ]
+                }
+            ],
+            "symbols": [],
+            "user_mentions": [
+                {
+                    "screen_name": "Defensoria_Peru",
+                    "name": "Defensor\u00eda Per\u00fa",
+                    "id": 107428718,
+                    "id_str": "107428718",
+                    "indices": [
+                        170,
+                        186
+                    ]
+                },
+                {
+                    "screen_name": "FiscaliaPeru",
+                    "name": "Ministerio P\u00fablico",
+                    "id": 302151609,
+                    "id_str": "302151609",
+                    "indices": [
+                        187,
+                        200
+                    ]
+                },
+                {
+                    "screen_name": "OEA_oficial",
+                    "name": "OEA",
+                    "id": 242448965,
+                    "id_str": "242448965",
+                    "indices": [
+                        201,
+                        213
+                    ]
+                },
+                {
+                    "screen_name": "PoliciaPeru",
+                    "name": "Polic\u00eda Nacional del Per\u00fa",
+                    "id": 213769482,
+                    "id_str": "213769482",
+                    "indices": [
+                        214,
+                        226
+                    ]
+                }
+            ],
+            "urls": []
+        },
+        "metadata": {
+            "iso_language_code": "es",
+            "result_type": "recent"
+        },
+        "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 1268624494685544448,
+            "id_str": "1268624494685544448",
+            "name": "Washy",
+            "screen_name": "washy2020",
+            "location": "",
+            "description": "Humilde y super sincero",
+            "url": null,
+            "entities": {
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 23,
+            "friends_count": 130,
+            "listed_count": 0,
+            "created_at": "Thu Jun 04 19:24:25 +0000 2020",
+            "favourites_count": 8,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": false,
+            "verified": false,
+            "statuses_count": 672,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "F5F8FA",
+            "profile_background_image_url": null,
+            "profile_background_image_url_https": null,
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1268624851050401800/o-zWQbWe_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1268624851050401800/o-zWQbWe_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/1268624494685544448/1591300096",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "has_extended_profile": false,
+            "default_profile": true,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none",
+            "withheld_in_countries": []
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 1,
+        "favorite_count": 3,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "es"
+    },
+    "is_quote_status": false,
+    "retweet_count": 1,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "es"
+}

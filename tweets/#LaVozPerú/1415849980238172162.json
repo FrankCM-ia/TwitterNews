@@ -1,0 +1,378 @@
+{
+    "created_at": "Fri Jul 16 01:45:15 +0000 2021",
+    "id": 1415849980238172162,
+    "id_str": "1415849980238172162",
+    "full_text": "RT @stylexhardy: C\u00f3mo que Danny Ocean no va a cantar \"me rehuso\"???\n\n#LaVozPeru https://t.co/22FawXQ2Bc",
+    "truncated": false,
+    "display_text_range": [
+        0,
+        103
+    ],
+    "entities": {
+        "hashtags": [
+            {
+                "text": "LaVozPeru",
+                "indices": [
+                    69,
+                    79
+                ]
+            }
+        ],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "stylexhardy",
+                "name": "anya \ud83c\uddf5\ud83c\uddea",
+                "id": 1113161330,
+                "id_str": "1113161330",
+                "indices": [
+                    3,
+                    15
+                ]
+            }
+        ],
+        "urls": [],
+        "media": [
+            {
+                "id": 1415849823513759745,
+                "id_str": "1415849823513759745",
+                "indices": [
+                    80,
+                    103
+                ],
+                "media_url": "http://pbs.twimg.com/media/E6Yb6bnWUAEvoVq.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/E6Yb6bnWUAEvoVq.jpg",
+                "url": "https://t.co/22FawXQ2Bc",
+                "display_url": "pic.twitter.com/22FawXQ2Bc",
+                "expanded_url": "https://twitter.com/stylexhardy/status/1415849828668616712/photo/1",
+                "type": "photo",
+                "sizes": {
+                    "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                    },
+                    "medium": {
+                        "w": 908,
+                        "h": 591,
+                        "resize": "fit"
+                    },
+                    "small": {
+                        "w": 680,
+                        "h": 443,
+                        "resize": "fit"
+                    },
+                    "large": {
+                        "w": 908,
+                        "h": 591,
+                        "resize": "fit"
+                    }
+                },
+                "source_status_id": 1415849828668616712,
+                "source_status_id_str": "1415849828668616712",
+                "source_user_id": 1113161330,
+                "source_user_id_str": "1113161330"
+            }
+        ]
+    },
+    "extended_entities": {
+        "media": [
+            {
+                "id": 1415849823513759745,
+                "id_str": "1415849823513759745",
+                "indices": [
+                    80,
+                    103
+                ],
+                "media_url": "http://pbs.twimg.com/media/E6Yb6bnWUAEvoVq.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/E6Yb6bnWUAEvoVq.jpg",
+                "url": "https://t.co/22FawXQ2Bc",
+                "display_url": "pic.twitter.com/22FawXQ2Bc",
+                "expanded_url": "https://twitter.com/stylexhardy/status/1415849828668616712/photo/1",
+                "type": "photo",
+                "sizes": {
+                    "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                    },
+                    "medium": {
+                        "w": 908,
+                        "h": 591,
+                        "resize": "fit"
+                    },
+                    "small": {
+                        "w": 680,
+                        "h": 443,
+                        "resize": "fit"
+                    },
+                    "large": {
+                        "w": 908,
+                        "h": 591,
+                        "resize": "fit"
+                    }
+                },
+                "source_status_id": 1415849828668616712,
+                "source_status_id_str": "1415849828668616712",
+                "source_user_id": 1113161330,
+                "source_user_id_str": "1113161330"
+            }
+        ]
+    },
+    "metadata": {
+        "iso_language_code": "es",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 475548357,
+        "id_str": "475548357",
+        "name": "Jason Zegarra",
+        "screen_name": "JasonZegarra",
+        "location": "",
+        "description": "Arquitecto | Pok\u00e9mon Go - Team Mystic |",
+        "url": "https://t.co/IJGlNnKkm2",
+        "entities": {
+            "url": {
+                "urls": [
+                    {
+                        "url": "https://t.co/IJGlNnKkm2",
+                        "expanded_url": "http://Instagram.com/jasonzegarra",
+                        "display_url": "Instagram.com/jasonzegarra",
+                        "indices": [
+                            0,
+                            23
+                        ]
+                    }
+                ]
+            },
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 448,
+        "friends_count": 347,
+        "listed_count": 1,
+        "created_at": "Fri Jan 27 05:30:42 +0000 2012",
+        "favourites_count": 48301,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 23581,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+        "profile_background_tile": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1403097309160869890/Y9ZC0B_a_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1403097309160869890/Y9ZC0B_a_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/475548357/1562303311",
+        "profile_link_color": "1B95E0",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "profile_use_background_image": true,
+        "has_extended_profile": true,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+        "created_at": "Fri Jul 16 01:44:39 +0000 2021",
+        "id": 1415849828668616712,
+        "id_str": "1415849828668616712",
+        "full_text": "C\u00f3mo que Danny Ocean no va a cantar \"me rehuso\"???\n\n#LaVozPeru https://t.co/22FawXQ2Bc",
+        "truncated": false,
+        "display_text_range": [
+            0,
+            62
+        ],
+        "entities": {
+            "hashtags": [
+                {
+                    "text": "LaVozPeru",
+                    "indices": [
+                        52,
+                        62
+                    ]
+                }
+            ],
+            "symbols": [],
+            "user_mentions": [],
+            "urls": [],
+            "media": [
+                {
+                    "id": 1415849823513759745,
+                    "id_str": "1415849823513759745",
+                    "indices": [
+                        63,
+                        86
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/E6Yb6bnWUAEvoVq.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/E6Yb6bnWUAEvoVq.jpg",
+                    "url": "https://t.co/22FawXQ2Bc",
+                    "display_url": "pic.twitter.com/22FawXQ2Bc",
+                    "expanded_url": "https://twitter.com/stylexhardy/status/1415849828668616712/photo/1",
+                    "type": "photo",
+                    "sizes": {
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "medium": {
+                            "w": 908,
+                            "h": 591,
+                            "resize": "fit"
+                        },
+                        "small": {
+                            "w": 680,
+                            "h": 443,
+                            "resize": "fit"
+                        },
+                        "large": {
+                            "w": 908,
+                            "h": 591,
+                            "resize": "fit"
+                        }
+                    }
+                }
+            ]
+        },
+        "extended_entities": {
+            "media": [
+                {
+                    "id": 1415849823513759745,
+                    "id_str": "1415849823513759745",
+                    "indices": [
+                        63,
+                        86
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/E6Yb6bnWUAEvoVq.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/E6Yb6bnWUAEvoVq.jpg",
+                    "url": "https://t.co/22FawXQ2Bc",
+                    "display_url": "pic.twitter.com/22FawXQ2Bc",
+                    "expanded_url": "https://twitter.com/stylexhardy/status/1415849828668616712/photo/1",
+                    "type": "photo",
+                    "sizes": {
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "medium": {
+                            "w": 908,
+                            "h": 591,
+                            "resize": "fit"
+                        },
+                        "small": {
+                            "w": 680,
+                            "h": 443,
+                            "resize": "fit"
+                        },
+                        "large": {
+                            "w": 908,
+                            "h": 591,
+                            "resize": "fit"
+                        }
+                    }
+                }
+            ]
+        },
+        "metadata": {
+            "iso_language_code": "es",
+            "result_type": "recent"
+        },
+        "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 1113161330,
+            "id_str": "1113161330",
+            "name": "anya \ud83c\uddf5\ud83c\uddea",
+            "screen_name": "stylexhardy",
+            "location": "",
+            "description": "\u210b\u2661\naveces me pregunto porqu\u00e9 tanta gente buena me rodea, pero luego pienso que si estoy en su vida... tal vez no son tan buenas personas.",
+            "url": null,
+            "entities": {
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 7194,
+            "friends_count": 4480,
+            "listed_count": 37,
+            "created_at": "Wed Jan 23 01:54:36 +0000 2013",
+            "favourites_count": 32629,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": false,
+            "verified": false,
+            "statuses_count": 61180,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "EBEBEB",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+            "profile_background_tile": true,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1411508343173230596/gEpAdHEF_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1411508343173230596/gEpAdHEF_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/1113161330/1625468176",
+            "profile_link_color": "F58EA8",
+            "profile_sidebar_border_color": "A8C7F7",
+            "profile_sidebar_fill_color": "C0DFEC",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "has_extended_profile": true,
+            "default_profile": false,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "regular",
+            "withheld_in_countries": []
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 6,
+        "favorite_count": 51,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "es"
+    },
+    "is_quote_status": false,
+    "retweet_count": 6,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "es"
+}

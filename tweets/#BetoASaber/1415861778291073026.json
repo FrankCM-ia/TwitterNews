@@ -1,0 +1,253 @@
+{
+    "created_at": "Fri Jul 16 02:32:08 +0000 2021",
+    "id": 1415861778291073026,
+    "id_str": "1415861778291073026",
+    "full_text": "RT @DorisAzores: @julianaoxenford @FSagasti Juliana, jualiana, crees que si #BetoASaber no los hubiera descubierto, ni la mafia de las vacu\u2026",
+    "truncated": false,
+    "display_text_range": [
+        0,
+        140
+    ],
+    "entities": {
+        "hashtags": [
+            {
+                "text": "BetoASaber",
+                "indices": [
+                    76,
+                    87
+                ]
+            }
+        ],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "DorisAzores",
+                "name": "Carmensioux",
+                "id": 405949329,
+                "id_str": "405949329",
+                "indices": [
+                    3,
+                    15
+                ]
+            },
+            {
+                "screen_name": "julianaoxenford",
+                "name": "julianaoxenford",
+                "id": 1271961894685937670,
+                "id_str": "1271961894685937670",
+                "indices": [
+                    17,
+                    33
+                ]
+            },
+            {
+                "screen_name": "FSagasti",
+                "name": "Francisco Sagasti",
+                "id": 472996281,
+                "id_str": "472996281",
+                "indices": [
+                    34,
+                    43
+                ]
+            }
+        ],
+        "urls": []
+    },
+    "metadata": {
+        "iso_language_code": "es",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 282109564,
+        "id_str": "282109564",
+        "name": "Diegoqg",
+        "screen_name": "ciberescritor",
+        "location": "Per\u00f9",
+        "description": "Escritor, Bohemio. Amigo de mis amigos, monote\u00edsta, enemigo de los fujiapristones !",
+        "url": "https://t.co/KJejqpr0Fu",
+        "entities": {
+            "url": {
+                "urls": [
+                    {
+                        "url": "https://t.co/KJejqpr0Fu",
+                        "expanded_url": "http://parnasin.foroactivo.com",
+                        "display_url": "parnasin.foroactivo.com",
+                        "indices": [
+                            0,
+                            23
+                        ]
+                    }
+                ]
+            },
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 319,
+        "friends_count": 669,
+        "listed_count": 0,
+        "created_at": "Thu Apr 14 15:25:45 +0000 2011",
+        "favourites_count": 42817,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 26589,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "131516",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+        "profile_background_tile": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1376766397687062530/WwgkwHJa_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1376766397687062530/WwgkwHJa_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/282109564/1600086764",
+        "profile_link_color": "009999",
+        "profile_sidebar_border_color": "EEEEEE",
+        "profile_sidebar_fill_color": "EFEFEF",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": true,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+        "created_at": "Thu Jul 15 17:38:14 +0000 2021",
+        "id": 1415727420993310725,
+        "id_str": "1415727420993310725",
+        "full_text": "@julianaoxenford @FSagasti Juliana, jualiana, crees que si #BetoASaber no los hubiera descubierto, ni la mafia de las vacunas, hubieramos tenido Pfizer? Ya pues jaja Mas bien porque no preguntas, que fue de la segunda lista VIP? Por qu\u00e9, nadie pregunta?",
+        "truncated": false,
+        "display_text_range": [
+            27,
+            253
+        ],
+        "entities": {
+            "hashtags": [
+                {
+                    "text": "BetoASaber",
+                    "indices": [
+                        59,
+                        70
+                    ]
+                }
+            ],
+            "symbols": [],
+            "user_mentions": [
+                {
+                    "screen_name": "julianaoxenford",
+                    "name": "julianaoxenford",
+                    "id": 1271961894685937670,
+                    "id_str": "1271961894685937670",
+                    "indices": [
+                        0,
+                        16
+                    ]
+                },
+                {
+                    "screen_name": "FSagasti",
+                    "name": "Francisco Sagasti",
+                    "id": 472996281,
+                    "id_str": "472996281",
+                    "indices": [
+                        17,
+                        26
+                    ]
+                }
+            ],
+            "urls": []
+        },
+        "metadata": {
+            "iso_language_code": "es",
+            "result_type": "recent"
+        },
+        "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+        "in_reply_to_status_id": 1415716794506129416,
+        "in_reply_to_status_id_str": "1415716794506129416",
+        "in_reply_to_user_id": 1271961894685937670,
+        "in_reply_to_user_id_str": "1271961894685937670",
+        "in_reply_to_screen_name": "julianaoxenford",
+        "user": {
+            "id": 405949329,
+            "id_str": "405949329",
+            "name": "Carmensioux",
+            "screen_name": "DorisAzores",
+            "location": "Lima - Peru",
+            "description": "Acepto lo que soy; madre, abuela, audaz, r\u00e1pida, \u00e1gil,  valiente, arriesgada. Soy fuerte!\nPatriota. Presidenta electa de la Republica del Per\u00fa (2021 - 2026)",
+            "url": null,
+            "entities": {
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 7773,
+            "friends_count": 744,
+            "listed_count": 26,
+            "created_at": "Sun Nov 06 01:34:36 +0000 2011",
+            "favourites_count": 142732,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": true,
+            "verified": false,
+            "statuses_count": 171077,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "ACDED6",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme18/bg.gif",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme18/bg.gif",
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1404996718161190913/n_7AiBT6_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1404996718161190913/n_7AiBT6_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/405949329/1625885488",
+            "profile_link_color": "038543",
+            "profile_sidebar_border_color": "EEEEEE",
+            "profile_sidebar_fill_color": "F6F6F6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "has_extended_profile": true,
+            "default_profile": false,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none",
+            "withheld_in_countries": []
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 1,
+        "favorite_count": 12,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "es"
+    },
+    "is_quote_status": false,
+    "retweet_count": 1,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "es"
+}

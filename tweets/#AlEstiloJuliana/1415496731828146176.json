@@ -1,0 +1,389 @@
+{
+    "created_at": "Thu Jul 15 02:21:34 +0000 2021",
+    "id": 1415496731828146176,
+    "id_str": "1415496731828146176",
+    "full_text": "RT @blackdragon1802: \ud83d\udd34URGENTE|  #SOSCubaSanAntonio #SOSMatanzasCuba #SOSCuba Nos reportan q comunistas dlas boinas negras asesinan d tiro a\u2026",
+    "truncated": false,
+    "display_text_range": [
+        0,
+        140
+    ],
+    "entities": {
+        "hashtags": [
+            {
+                "text": "SOSCubaSanAntonio",
+                "indices": [
+                    32,
+                    50
+                ]
+            },
+            {
+                "text": "SOSMatanzasCuba",
+                "indices": [
+                    51,
+                    67
+                ]
+            },
+            {
+                "text": "SOSCuba",
+                "indices": [
+                    68,
+                    76
+                ]
+            }
+        ],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "blackdragon1802",
+                "name": "Lord \u0646",
+                "id": 151490775,
+                "id_str": "151490775",
+                "indices": [
+                    3,
+                    19
+                ]
+            }
+        ],
+        "urls": []
+    },
+    "metadata": {
+        "iso_language_code": "es",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 1356407724758732800,
+        "id_str": "1356407724758732800",
+        "name": "Sim\u00f3n Altamirano",
+        "screen_name": "SimnAltamirano4",
+        "location": "tierra caliente",
+        "description": "#\ud835\udd0f\ud835\udd26\ud835\udd24\ud835\udd1e\ud835\udd07\ud835\udd22\ud835\udd0a\ud835\udd32\ud835\udd22\ud835\udd2f\ud835\udd2f\ud835\udd22\ud835\udd2f\ud835\udd2c\ud835\udd30",
+        "url": null,
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 1856,
+        "friends_count": 3411,
+        "listed_count": 1,
+        "created_at": "Tue Feb 02 01:03:19 +0000 2021",
+        "favourites_count": 1945,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 2712,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": null,
+        "profile_background_image_url_https": null,
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1357478078335901707/IWt05MGF_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1357478078335901707/IWt05MGF_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": true,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+        "created_at": "Mon Jul 12 02:18:04 +0000 2021",
+        "id": 1414408686915756035,
+        "id_str": "1414408686915756035",
+        "full_text": "\ud83d\udd34URGENTE|  #SOSCubaSanAntonio #SOSMatanzasCuba #SOSCuba Nos reportan q comunistas dlas boinas negras asesinan d tiro a la cabeza a muchacho detenido con esposas en el suelo #ANCentral #TVPer\u00faNoticias #ATVNoticias #Edici\u00f3nCentral #AlEstiloJuliana #CanalN #90Central #Willax #RPP https://t.co/tJtXU4Tiy9",
+        "truncated": false,
+        "display_text_range": [
+            0,
+            277
+        ],
+        "entities": {
+            "hashtags": [
+                {
+                    "text": "SOSCubaSanAntonio",
+                    "indices": [
+                        11,
+                        29
+                    ]
+                },
+                {
+                    "text": "SOSMatanzasCuba",
+                    "indices": [
+                        30,
+                        46
+                    ]
+                },
+                {
+                    "text": "SOSCuba",
+                    "indices": [
+                        47,
+                        55
+                    ]
+                },
+                {
+                    "text": "ANCentral",
+                    "indices": [
+                        173,
+                        183
+                    ]
+                },
+                {
+                    "text": "TVPer\u00faNoticias",
+                    "indices": [
+                        184,
+                        199
+                    ]
+                },
+                {
+                    "text": "ATVNoticias",
+                    "indices": [
+                        200,
+                        212
+                    ]
+                },
+                {
+                    "text": "Edici\u00f3nCentral",
+                    "indices": [
+                        213,
+                        228
+                    ]
+                },
+                {
+                    "text": "AlEstiloJuliana",
+                    "indices": [
+                        229,
+                        245
+                    ]
+                },
+                {
+                    "text": "CanalN",
+                    "indices": [
+                        246,
+                        253
+                    ]
+                },
+                {
+                    "text": "90Central",
+                    "indices": [
+                        254,
+                        264
+                    ]
+                },
+                {
+                    "text": "Willax",
+                    "indices": [
+                        265,
+                        272
+                    ]
+                },
+                {
+                    "text": "RPP",
+                    "indices": [
+                        273,
+                        277
+                    ]
+                }
+            ],
+            "symbols": [],
+            "user_mentions": [],
+            "urls": [],
+            "media": [
+                {
+                    "id": 1414408537636278275,
+                    "id_str": "1414408537636278275",
+                    "indices": [
+                        278,
+                        301
+                    ],
+                    "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1414408537636278275/pu/img/CjTK-s6t-H38rdM8.jpg",
+                    "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1414408537636278275/pu/img/CjTK-s6t-H38rdM8.jpg",
+                    "url": "https://t.co/tJtXU4Tiy9",
+                    "display_url": "pic.twitter.com/tJtXU4Tiy9",
+                    "expanded_url": "https://twitter.com/blackdragon1802/status/1414408686915756035/video/1",
+                    "type": "photo",
+                    "sizes": {
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "medium": {
+                            "w": 240,
+                            "h": 426,
+                            "resize": "fit"
+                        },
+                        "small": {
+                            "w": 240,
+                            "h": 426,
+                            "resize": "fit"
+                        },
+                        "large": {
+                            "w": 240,
+                            "h": 426,
+                            "resize": "fit"
+                        }
+                    }
+                }
+            ]
+        },
+        "extended_entities": {
+            "media": [
+                {
+                    "id": 1414408537636278275,
+                    "id_str": "1414408537636278275",
+                    "indices": [
+                        278,
+                        301
+                    ],
+                    "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1414408537636278275/pu/img/CjTK-s6t-H38rdM8.jpg",
+                    "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1414408537636278275/pu/img/CjTK-s6t-H38rdM8.jpg",
+                    "url": "https://t.co/tJtXU4Tiy9",
+                    "display_url": "pic.twitter.com/tJtXU4Tiy9",
+                    "expanded_url": "https://twitter.com/blackdragon1802/status/1414408686915756035/video/1",
+                    "type": "video",
+                    "sizes": {
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "medium": {
+                            "w": 240,
+                            "h": 426,
+                            "resize": "fit"
+                        },
+                        "small": {
+                            "w": 240,
+                            "h": 426,
+                            "resize": "fit"
+                        },
+                        "large": {
+                            "w": 240,
+                            "h": 426,
+                            "resize": "fit"
+                        }
+                    },
+                    "video_info": {
+                        "aspect_ratio": [
+                            40,
+                            71
+                        ],
+                        "duration_millis": 12427,
+                        "variants": [
+                            {
+                                "bitrate": 632000,
+                                "content_type": "video/mp4",
+                                "url": "https://video.twimg.com/ext_tw_video/1414408537636278275/pu/vid/240x426/U7SYc7kFwzjIIGxL.mp4?tag=12"
+                            },
+                            {
+                                "content_type": "application/x-mpegURL",
+                                "url": "https://video.twimg.com/ext_tw_video/1414408537636278275/pu/pl/vBqGdNOrHK-tWBYM.m3u8?tag=12&container=fmp4"
+                            }
+                        ]
+                    },
+                    "additional_media_info": {
+                        "monetizable": false
+                    }
+                }
+            ]
+        },
+        "metadata": {
+            "iso_language_code": "es",
+            "result_type": "recent"
+        },
+        "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 151490775,
+            "id_str": "151490775",
+            "name": "Lord \u0646",
+            "screen_name": "blackdragon1802",
+            "location": "Marte - Soy un marciano ",
+            "description": "El mal prevalece cuando los hombres buenos no hacen nada - T\u00fa apoyas indirectamente la persecuci\u00f3n del Inocente cuando permaneces mudo. EN DIOS CONFIAMOS!!",
+            "url": null,
+            "entities": {
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 2019,
+            "friends_count": 1614,
+            "listed_count": 14,
+            "created_at": "Thu Jun 03 14:37:21 +0000 2010",
+            "favourites_count": 457,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": false,
+            "verified": false,
+            "statuses_count": 69436,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": true,
+            "profile_background_color": "7EB9D9",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": true,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/560939363178008576/A-bhNC-H_normal.jpeg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/560939363178008576/A-bhNC-H_normal.jpeg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/151490775/1422569930",
+            "profile_link_color": "150EED",
+            "profile_sidebar_border_color": "FFFFFF",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "has_extended_profile": false,
+            "default_profile": false,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none",
+            "withheld_in_countries": []
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 267,
+        "favorite_count": 123,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "es"
+    },
+    "is_quote_status": false,
+    "retweet_count": 267,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "es"
+}
