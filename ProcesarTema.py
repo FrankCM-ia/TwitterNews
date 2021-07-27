@@ -167,3 +167,4 @@ def process_topic2(dir_addr, topic_name, Max ,stem = False, ):
 # mkWordCloud(df1, topic + '_Lemma_60', topic)
 
 # mkWordCloud(df2, topic + '_Stem_60', topic)
+# hola
