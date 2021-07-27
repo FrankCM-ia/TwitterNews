@@ -1,0 +1,127 @@
+{
+    "created_at": "Wed Jul 14 17:43:29 +0000 2021",
+    "id": 1415366354421653507,
+    "id_str": "1415366354421653507",
+    "full_text": "@Gomez_RM19 @Saaayfer @NoloFCB @elchiringuitotv Humillantes eliminaciones si, pero te recuerdo que ha en 2020 y 2019, llego a semis no a octavos. Hablas de rid\u00edculo, pero R Madrid no existe en champions desde que se les fue CR, tantita madre antes de hablar me parece te falta",
+    "truncated": false,
+    "display_text_range": [
+        48,
+        276
+    ],
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "Gomez_RM19",
+                "name": "Sergio Gomez",
+                "id": 253223680,
+                "id_str": "253223680",
+                "indices": [
+                    0,
+                    11
+                ]
+            },
+            {
+                "screen_name": "Saaayfer",
+                "name": "kK",
+                "id": 959024498363248640,
+                "id_str": "959024498363248640",
+                "indices": [
+                    12,
+                    21
+                ]
+            },
+            {
+                "screen_name": "NoloFCB",
+                "name": "#10",
+                "id": 1294410777454096384,
+                "id_str": "1294410777454096384",
+                "indices": [
+                    22,
+                    30
+                ]
+            },
+            {
+                "screen_name": "elchiringuitotv",
+                "name": "El Chiringuito TV",
+                "id": 18905975,
+                "id_str": "18905975",
+                "indices": [
+                    31,
+                    47
+                ]
+            }
+        ],
+        "urls": []
+    },
+    "metadata": {
+        "iso_language_code": "es",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "in_reply_to_status_id": 1415134612045631489,
+    "in_reply_to_status_id_str": "1415134612045631489",
+    "in_reply_to_user_id": 253223680,
+    "in_reply_to_user_id_str": "253223680",
+    "in_reply_to_screen_name": "Gomez_RM19",
+    "user": {
+        "id": 1608872432,
+        "id_str": "1608872432",
+        "name": "Marko GarVar",
+        "screen_name": "markogava",
+        "location": "Quer\u00e9taro Arteaga, M\u00e9xico",
+        "description": "Afortunado esposo y orgulloso Padre, chivahermano de coraz\u00f3n",
+        "url": null,
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 285,
+        "friends_count": 788,
+        "listed_count": 4,
+        "created_at": "Sat Jul 20 19:17:34 +0000 2013",
+        "favourites_count": 58275,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 13109,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1104537509638344704/JZfsEgA-_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1104537509638344704/JZfsEgA-_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1608872432/1525930246",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": true,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "es"
+}

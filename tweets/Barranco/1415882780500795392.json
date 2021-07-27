@@ -1,0 +1,203 @@
+{
+    "created_at": "Fri Jul 16 03:55:35 +0000 2021",
+    "id": 1415882780500795392,
+    "id_str": "1415882780500795392",
+    "full_text": "RT @Anavlisq: @arnoldsuarezg La uni\u00f3n en Barranco!",
+    "truncated": false,
+    "display_text_range": [
+        0,
+        50
+    ],
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "Anavlisq",
+                "name": "Chivi \ud83d\udc3e",
+                "id": 315249512,
+                "id_str": "315249512",
+                "indices": [
+                    3,
+                    12
+                ]
+            },
+            {
+                "screen_name": "arnoldsuarezg",
+                "name": "hey arnold!",
+                "id": 554820864,
+                "id_str": "554820864",
+                "indices": [
+                    14,
+                    28
+                ]
+            }
+        ],
+        "urls": []
+    },
+    "metadata": {
+        "iso_language_code": "es",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 1308179439130468356,
+        "id_str": "1308179439130468356",
+        "name": "Per\u00fa Justo",
+        "screen_name": "PerJusto1",
+        "location": "",
+        "description": "",
+        "url": null,
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 137,
+        "friends_count": 425,
+        "listed_count": 0,
+        "created_at": "Mon Sep 21 23:01:15 +0000 2020",
+        "favourites_count": 14573,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 15783,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": null,
+        "profile_background_image_url_https": null,
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1308369239888277504/W_R9yJ-4_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1308369239888277504/W_R9yJ-4_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": true,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+        "created_at": "Fri Jul 16 03:01:17 +0000 2021",
+        "id": 1415869114279731204,
+        "id_str": "1415869114279731204",
+        "full_text": "@arnoldsuarezg La uni\u00f3n en Barranco!",
+        "truncated": false,
+        "display_text_range": [
+            15,
+            36
+        ],
+        "entities": {
+            "hashtags": [],
+            "symbols": [],
+            "user_mentions": [
+                {
+                    "screen_name": "arnoldsuarezg",
+                    "name": "hey arnold!",
+                    "id": 554820864,
+                    "id_str": "554820864",
+                    "indices": [
+                        0,
+                        14
+                    ]
+                }
+            ],
+            "urls": []
+        },
+        "metadata": {
+            "iso_language_code": "es",
+            "result_type": "recent"
+        },
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "in_reply_to_status_id": 1415868662704132096,
+        "in_reply_to_status_id_str": "1415868662704132096",
+        "in_reply_to_user_id": 554820864,
+        "in_reply_to_user_id_str": "554820864",
+        "in_reply_to_screen_name": "arnoldsuarezg",
+        "user": {
+            "id": 315249512,
+            "id_str": "315249512",
+            "name": "Chivi \ud83d\udc3e",
+            "screen_name": "Anavlisq",
+            "location": "",
+            "description": "Administraci\u00f3n. Dog lover!!! 2 amores \u2764\ufe0f.\u201dLa vida es simple pero nos empe\u00f1amos en hacerla dif\u00edcil\u201d",
+            "url": null,
+            "entities": {
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 3001,
+            "friends_count": 871,
+            "listed_count": 3,
+            "created_at": "Sat Jun 11 15:11:32 +0000 2011",
+            "favourites_count": 52314,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": true,
+            "verified": false,
+            "statuses_count": 18673,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "FF6699",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme11/bg.gif",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme11/bg.gif",
+            "profile_background_tile": true,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1405221451330777091/sdmosoNm_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1405221451330777091/sdmosoNm_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/315249512/1591068681",
+            "profile_link_color": "B40B43",
+            "profile_sidebar_border_color": "CC3366",
+            "profile_sidebar_fill_color": "E5507E",
+            "profile_text_color": "362720",
+            "profile_use_background_image": true,
+            "has_extended_profile": true,
+            "default_profile": false,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none",
+            "withheld_in_countries": []
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 1,
+        "favorite_count": 49,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "es"
+    },
+    "is_quote_status": false,
+    "retweet_count": 1,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "es"
+}

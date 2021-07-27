@@ -1,0 +1,151 @@
+{
+    "created_at": "Thu Jul 15 14:10:09 +0000 2021",
+    "id": 1415675052905754636,
+    "id_str": "1415675052905754636",
+    "full_text": "@AlertaRacismo @chicafroperuana @ashantiperu @Defensoria_Peru @AMosqueraRosado@IndecopiOficial@tailoyoficial:  Exigimos a las tiendas TaiLoy las disculpas p\u00fablicas por la discriminaci\u00f3n que sufri\u00f3 Ani Medrano al ser detenida en Barranco. https://t.co/1YT8h8706h",
+    "truncated": false,
+    "display_text_range": [
+        0,
+        261
+    ],
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "AlertaRacismo",
+                "name": "Alerta Racismo",
+                "id": 1209279895,
+                "id_str": "1209279895",
+                "indices": [
+                    0,
+                    14
+                ]
+            },
+            {
+                "screen_name": "chicafroperuana",
+                "name": "Chica.Afroperuana",
+                "id": 1007143043911299072,
+                "id_str": "1007143043911299072",
+                "indices": [
+                    15,
+                    31
+                ]
+            },
+            {
+                "screen_name": "ashantiperu",
+                "name": "Ashanti Per\u00fa - Afrodescendientes",
+                "id": 501223163,
+                "id_str": "501223163",
+                "indices": [
+                    32,
+                    44
+                ]
+            },
+            {
+                "screen_name": "Defensoria_Peru",
+                "name": "Defensor\u00eda Per\u00fa",
+                "id": 107428718,
+                "id_str": "107428718",
+                "indices": [
+                    45,
+                    61
+                ]
+            }
+        ],
+        "urls": [
+            {
+                "url": "https://t.co/1YT8h8706h",
+                "expanded_url": "http://www.change.org/NoMasDiscriminacionTAYLOY",
+                "display_url": "change.org/NoMasDiscrimin\u2026",
+                "indices": [
+                    238,
+                    261
+                ]
+            }
+        ]
+    },
+    "metadata": {
+        "iso_language_code": "es",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": 1209279895,
+    "in_reply_to_user_id_str": "1209279895",
+    "in_reply_to_screen_name": "AlertaRacismo",
+    "user": {
+        "id": 280239363,
+        "id_str": "280239363",
+        "name": "Carlos E Salinas",
+        "screen_name": "scarlosenrique",
+        "location": "Lima - Peru",
+        "description": "Electr\u00f3nico industrial y estudiante de Ing. de Sistemas, intereses: Electr\u00f3nica,  Rob\u00f3tica, conspiraciones, M\u00fasica, Canto, Educaci\u00f3n STEAM, Politica y EBR",
+        "url": "https://t.co/fuNYfC7kaV",
+        "entities": {
+            "url": {
+                "urls": [
+                    {
+                        "url": "https://t.co/fuNYfC7kaV",
+                        "expanded_url": "http://www.winsysgroup.com",
+                        "display_url": "winsysgroup.com",
+                        "indices": [
+                            0,
+                            23
+                        ]
+                    }
+                ]
+            },
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 268,
+        "friends_count": 1301,
+        "listed_count": 4,
+        "created_at": "Sun Apr 10 23:07:13 +0000 2011",
+        "favourites_count": 48841,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 9290,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme19/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme19/bg.gif",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1097275488966529024/nWTpUaX__normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1097275488966529024/nWTpUaX__normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/280239363/1550445924",
+        "profile_link_color": "91D2FA",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "profile_use_background_image": false,
+        "has_extended_profile": false,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "es"
+}

@@ -1,0 +1,96 @@
+{
+    "created_at": "Wed Jul 14 17:49:44 +0000 2021",
+    "id": 1415367924584435713,
+    "id_str": "1415367924584435713",
+    "full_text": "@Leonlec Jajajajajaj que ganas le tienen algunos a FP.. si, los madridistas debemos exigir su renuncia por unos audios de hace 15 a\u00f1os, robados de su intimidad. El presidente de las 5 Champions y que tiene al club en el top mundial. Tremendo periodismo compa\u00f1ero\u2026",
+    "truncated": false,
+    "display_text_range": [
+        9,
+        263
+    ],
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "Leonlec",
+                "name": "Le\u00f3n Lecanda",
+                "id": 150027815,
+                "id_str": "150027815",
+                "indices": [
+                    0,
+                    8
+                ]
+            }
+        ],
+        "urls": []
+    },
+    "metadata": {
+        "iso_language_code": "es",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_status_id": 1415311109821763586,
+    "in_reply_to_status_id_str": "1415311109821763586",
+    "in_reply_to_user_id": 150027815,
+    "in_reply_to_user_id_str": "150027815",
+    "in_reply_to_screen_name": "Leonlec",
+    "user": {
+        "id": 32504291,
+        "id_str": "32504291",
+        "name": "Leonardo Mart\u00edn",
+        "screen_name": "LeoMartin_7",
+        "location": "",
+        "description": ":)",
+        "url": null,
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 552,
+        "friends_count": 536,
+        "listed_count": 2,
+        "created_at": "Fri Apr 17 18:10:34 +0000 2009",
+        "favourites_count": 539,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 10496,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1167226633377472512/cEfgsn3u_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1167226633377472512/cEfgsn3u_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "es"
+}

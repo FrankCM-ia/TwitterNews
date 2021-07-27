@@ -1,0 +1,226 @@
+{
+    "created_at": "Wed Jul 14 17:59:53 +0000 2021",
+    "id": 1415370480891072518,
+    "id_str": "1415370480891072518",
+    "full_text": "RT @PanAmPost_es: \u201cLa crisis humanitaria que viven los cubanos ya deber\u00eda alertarnos de las consecuencias del comunismo\u201d https://t.co/YSgVg\u2026",
+    "truncated": false,
+    "display_text_range": [
+        0,
+        140
+    ],
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "PanAmPost_es",
+                "name": "PanAm Post Espa\u00f1ol",
+                "id": 2228816504,
+                "id_str": "2228816504",
+                "indices": [
+                    3,
+                    16
+                ]
+            }
+        ],
+        "urls": []
+    },
+    "metadata": {
+        "iso_language_code": "es",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 141792032,
+        "id_str": "141792032",
+        "name": "JM10",
+        "screen_name": "jorgemario10",
+        "location": "",
+        "description": "Yo soy paraco, PARA COmer hay que trabajar.\nAteo de derecha. No voy a votar por el que diga Uribe, voto por el que represente la derecha.",
+        "url": null,
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 269,
+        "friends_count": 116,
+        "listed_count": 4,
+        "created_at": "Sun May 09 02:16:57 +0000 2010",
+        "favourites_count": 39450,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 84635,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1394280696324182020/lKuiW9Bh_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1394280696324182020/lKuiW9Bh_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/141792032/1538156488",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+        "created_at": "Wed Jul 14 17:30:02 +0000 2021",
+        "id": 1415362969517580290,
+        "id_str": "1415362969517580290",
+        "full_text": "\u201cLa crisis humanitaria que viven los cubanos ya deber\u00eda alertarnos de las consecuencias del comunismo\u201d https://t.co/YSgVgnP1Qf #Opini\u00f3n \u270d\ufe0f por @hugobalderrama",
+        "truncated": false,
+        "display_text_range": [
+            0,
+            158
+        ],
+        "entities": {
+            "hashtags": [
+                {
+                    "text": "Opini\u00f3n",
+                    "indices": [
+                        127,
+                        135
+                    ]
+                }
+            ],
+            "symbols": [],
+            "user_mentions": [
+                {
+                    "screen_name": "hugobalderrama",
+                    "name": "Hugo Balderrama",
+                    "id": 726063440,
+                    "id_str": "726063440",
+                    "indices": [
+                        143,
+                        158
+                    ]
+                }
+            ],
+            "urls": [
+                {
+                    "url": "https://t.co/YSgVgnP1Qf",
+                    "expanded_url": "https://bit.ly/3kbJkGq",
+                    "display_url": "bit.ly/3kbJkGq",
+                    "indices": [
+                        103,
+                        126
+                    ]
+                }
+            ]
+        },
+        "metadata": {
+            "iso_language_code": "es",
+            "result_type": "recent"
+        },
+        "source": "<a href=\"https://buffer.com\" rel=\"nofollow\">Buffer</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 2228816504,
+            "id_str": "2228816504",
+            "name": "PanAm Post Espa\u00f1ol",
+            "screen_name": "PanAmPost_es",
+            "location": "Miami, FL",
+            "description": "La principal fuente de an\u00e1lisis e informaci\u00f3n de Am\u00e9rica",
+            "url": "https://t.co/rBL3Do8vQ4",
+            "entities": {
+                "url": {
+                    "urls": [
+                        {
+                            "url": "https://t.co/rBL3Do8vQ4",
+                            "expanded_url": "https://www.panampost.com",
+                            "display_url": "panampost.com",
+                            "indices": [
+                                0,
+                                23
+                            ]
+                        }
+                    ]
+                },
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 206040,
+            "friends_count": 146,
+            "listed_count": 951,
+            "created_at": "Tue Dec 03 20:28:36 +0000 2013",
+            "favourites_count": 3521,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": true,
+            "verified": true,
+            "statuses_count": 206646,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "EEEEEE",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1394839951137726465/X2hdXVDG_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1394839951137726465/X2hdXVDG_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/2228816504/1621390736",
+            "profile_link_color": "5999DE",
+            "profile_sidebar_border_color": "FFFFFF",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "has_extended_profile": false,
+            "default_profile": false,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "regular",
+            "withheld_in_countries": []
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 12,
+        "favorite_count": 19,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "es"
+    },
+    "is_quote_status": false,
+    "retweet_count": 12,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "es"
+}

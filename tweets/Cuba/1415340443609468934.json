@@ -1,0 +1,380 @@
+{
+    "created_at": "Wed Jul 14 16:00:32 +0000 2021",
+    "id": 1415340443609468934,
+    "id_str": "1415340443609468934",
+    "full_text": "RT @RadioRelojCuba: Multitudinaria marcha encabezada por las m\u00e1ximas autoridades pol\u00edticas y gubernamentales en #Camaguey mostr\u00f3 el firme r\u2026",
+    "truncated": false,
+    "display_text_range": [
+        0,
+        140
+    ],
+    "entities": {
+        "hashtags": [
+            {
+                "text": "Camaguey",
+                "indices": [
+                    112,
+                    121
+                ]
+            }
+        ],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "RadioRelojCuba",
+                "name": "Radio Reloj, Cuba",
+                "id": 186406983,
+                "id_str": "186406983",
+                "indices": [
+                    3,
+                    18
+                ]
+            }
+        ],
+        "urls": []
+    },
+    "metadata": {
+        "iso_language_code": "es",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 1326597448224165888,
+        "id_str": "1326597448224165888",
+        "name": "Rigo Su\u00e1rez",
+        "screen_name": "RigoSurez2",
+        "location": "",
+        "description": "Auditor Adjunto en Nescor, S.A",
+        "url": null,
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 50,
+        "friends_count": 22,
+        "listed_count": 0,
+        "created_at": "Wed Nov 11 18:47:48 +0000 2020",
+        "favourites_count": 0,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 1052,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": null,
+        "profile_background_image_url_https": null,
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1326597867432255490/-th567qq_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1326597867432255490/-th567qq_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": true,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+        "created_at": "Tue Jul 13 01:27:13 +0000 2021",
+        "id": 1414758280434421761,
+        "id_str": "1414758280434421761",
+        "full_text": "Multitudinaria marcha encabezada por las m\u00e1ximas autoridades pol\u00edticas y gubernamentales en #Camaguey mostr\u00f3 el firme respaldo del pueblo agramontino a la Revoluci\u00f3n #Cubana ante los intentos desestabilizadores de grup\u00fasculos de mercenarios pagados desde el exterior \ud83d\udcf7 @ACN_Cuba https://t.co/UKltEOaUR5",
+        "truncated": false,
+        "display_text_range": [
+            0,
+            278
+        ],
+        "entities": {
+            "hashtags": [
+                {
+                    "text": "Camaguey",
+                    "indices": [
+                        92,
+                        101
+                    ]
+                },
+                {
+                    "text": "Cubana",
+                    "indices": [
+                        166,
+                        173
+                    ]
+                }
+            ],
+            "symbols": [],
+            "user_mentions": [
+                {
+                    "screen_name": "ACN_Cuba",
+                    "name": "Agencia Cubana de Noticias",
+                    "id": 101813998,
+                    "id_str": "101813998",
+                    "indices": [
+                        269,
+                        278
+                    ]
+                }
+            ],
+            "urls": [],
+            "media": [
+                {
+                    "id": 1414758256279539715,
+                    "id_str": "1414758256279539715",
+                    "indices": [
+                        279,
+                        302
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/E6I7I2yX0AMc8z3.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/E6I7I2yX0AMc8z3.jpg",
+                    "url": "https://t.co/UKltEOaUR5",
+                    "display_url": "pic.twitter.com/UKltEOaUR5",
+                    "expanded_url": "https://twitter.com/RadioRelojCuba/status/1414758280434421761/photo/1",
+                    "type": "photo",
+                    "sizes": {
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "large": {
+                            "w": 792,
+                            "h": 535,
+                            "resize": "fit"
+                        },
+                        "small": {
+                            "w": 680,
+                            "h": 459,
+                            "resize": "fit"
+                        },
+                        "medium": {
+                            "w": 792,
+                            "h": 535,
+                            "resize": "fit"
+                        }
+                    }
+                }
+            ]
+        },
+        "extended_entities": {
+            "media": [
+                {
+                    "id": 1414758256279539715,
+                    "id_str": "1414758256279539715",
+                    "indices": [
+                        279,
+                        302
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/E6I7I2yX0AMc8z3.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/E6I7I2yX0AMc8z3.jpg",
+                    "url": "https://t.co/UKltEOaUR5",
+                    "display_url": "pic.twitter.com/UKltEOaUR5",
+                    "expanded_url": "https://twitter.com/RadioRelojCuba/status/1414758280434421761/photo/1",
+                    "type": "photo",
+                    "sizes": {
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "large": {
+                            "w": 792,
+                            "h": 535,
+                            "resize": "fit"
+                        },
+                        "small": {
+                            "w": 680,
+                            "h": 459,
+                            "resize": "fit"
+                        },
+                        "medium": {
+                            "w": 792,
+                            "h": 535,
+                            "resize": "fit"
+                        }
+                    }
+                },
+                {
+                    "id": 1414758256292020233,
+                    "id_str": "1414758256292020233",
+                    "indices": [
+                        279,
+                        302
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/E6I7I21WQAkiqzx.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/E6I7I21WQAkiqzx.jpg",
+                    "url": "https://t.co/UKltEOaUR5",
+                    "display_url": "pic.twitter.com/UKltEOaUR5",
+                    "expanded_url": "https://twitter.com/RadioRelojCuba/status/1414758280434421761/photo/1",
+                    "type": "photo",
+                    "sizes": {
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "small": {
+                            "w": 680,
+                            "h": 429,
+                            "resize": "fit"
+                        },
+                        "large": {
+                            "w": 792,
+                            "h": 500,
+                            "resize": "fit"
+                        },
+                        "medium": {
+                            "w": 792,
+                            "h": 500,
+                            "resize": "fit"
+                        }
+                    }
+                },
+                {
+                    "id": 1414758256275337223,
+                    "id_str": "1414758256275337223",
+                    "indices": [
+                        279,
+                        302
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/E6I7I2xXsAczksH.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/E6I7I2xXsAczksH.jpg",
+                    "url": "https://t.co/UKltEOaUR5",
+                    "display_url": "pic.twitter.com/UKltEOaUR5",
+                    "expanded_url": "https://twitter.com/RadioRelojCuba/status/1414758280434421761/photo/1",
+                    "type": "photo",
+                    "sizes": {
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "small": {
+                            "w": 680,
+                            "h": 428,
+                            "resize": "fit"
+                        },
+                        "large": {
+                            "w": 792,
+                            "h": 499,
+                            "resize": "fit"
+                        },
+                        "medium": {
+                            "w": 792,
+                            "h": 499,
+                            "resize": "fit"
+                        }
+                    }
+                }
+            ]
+        },
+        "metadata": {
+            "iso_language_code": "es",
+            "result_type": "recent"
+        },
+        "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 186406983,
+            "id_str": "186406983",
+            "name": "Radio Reloj, Cuba",
+            "screen_name": "RadioRelojCuba",
+            "location": "La Habana, Cuba",
+            "description": "@RadioRelojCuba El canal de informaci\u00f3n continua m\u00e1s antiguo del mundo. Transmitimos desde La #Habana, #Cuba, cada #noticia en #1Minuto \ud83c\udde8\ud83c\uddfa",
+            "url": "http://t.co/MgrNbMVtFw",
+            "entities": {
+                "url": {
+                    "urls": [
+                        {
+                            "url": "http://t.co/MgrNbMVtFw",
+                            "expanded_url": "http://www.radioreloj.cu/",
+                            "display_url": "radioreloj.cu",
+                            "indices": [
+                                0,
+                                22
+                            ]
+                        }
+                    ]
+                },
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 45574,
+            "friends_count": 16673,
+            "listed_count": 254,
+            "created_at": "Fri Sep 03 11:27:24 +0000 2010",
+            "favourites_count": 42594,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": true,
+            "verified": false,
+            "statuses_count": 102373,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "FFFFFF",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme17/bg.gif",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme17/bg.gif",
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1326342591097561088/2_8q4Uwr_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1326342591097561088/2_8q4Uwr_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/186406983/1611638019",
+            "profile_link_color": "C91414",
+            "profile_sidebar_border_color": "FFFFFF",
+            "profile_sidebar_fill_color": "E6F6F9",
+            "profile_text_color": "333333",
+            "profile_use_background_image": false,
+            "has_extended_profile": true,
+            "default_profile": false,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none",
+            "withheld_in_countries": []
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 420,
+        "favorite_count": 662,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "es"
+    },
+    "is_quote_status": false,
+    "retweet_count": 420,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "es"
+}

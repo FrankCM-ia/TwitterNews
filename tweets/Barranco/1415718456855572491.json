@@ -1,0 +1,167 @@
+{
+    "created_at": "Thu Jul 15 17:02:37 +0000 2021",
+    "id": 1415718456855572491,
+    "id_str": "1415718456855572491",
+    "full_text": "@CHAMACO74650710 @GustavoRugeles @OIZuluaga @ernestomaciast @JOSEOBDULIO @EIExpedienteCol @IvanDuque @FLIP_org Es que si estaba en el filo del barranco, con su \"espaldarazo\" lo acaba de lanzar al vac\u00edo. Pero eso es bueno, que se vayan despejando las cartas.",
+    "truncated": false,
+    "display_text_range": [
+        111,
+        257
+    ],
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "CHAMACO74650710",
+                "name": "CHAMACO",
+                "id": 1235248697178574848,
+                "id_str": "1235248697178574848",
+                "indices": [
+                    0,
+                    16
+                ]
+            },
+            {
+                "screen_name": "GustavoRugeles",
+                "name": "Gustavo Rugeles",
+                "id": 208308070,
+                "id_str": "208308070",
+                "indices": [
+                    17,
+                    32
+                ]
+            },
+            {
+                "screen_name": "OIZuluaga",
+                "name": "\u00d3scar Iv\u00e1n Zuluaga",
+                "id": 262814659,
+                "id_str": "262814659",
+                "indices": [
+                    33,
+                    43
+                ]
+            },
+            {
+                "screen_name": "ernestomaciast",
+                "name": "Ernesto Mac\u00edas Tovar \ud83c\udde8\ud83c\uddf4",
+                "id": 138922361,
+                "id_str": "138922361",
+                "indices": [
+                    44,
+                    59
+                ]
+            },
+            {
+                "screen_name": "JOSEOBDULIO",
+                "name": "Jose Obdulio Gaviria",
+                "id": 185859540,
+                "id_str": "185859540",
+                "indices": [
+                    60,
+                    72
+                ]
+            },
+            {
+                "screen_name": "EIExpedienteCol",
+                "name": "El Expediente",
+                "id": 858010830079758336,
+                "id_str": "858010830079758336",
+                "indices": [
+                    73,
+                    89
+                ]
+            },
+            {
+                "screen_name": "IvanDuque",
+                "name": "Iv\u00e1n Duque \ud83c\udde8\ud83c\uddf4",
+                "id": 77653794,
+                "id_str": "77653794",
+                "indices": [
+                    90,
+                    100
+                ]
+            },
+            {
+                "screen_name": "FLIP_org",
+                "name": "FLIP",
+                "id": 55379094,
+                "id_str": "55379094",
+                "indices": [
+                    101,
+                    110
+                ]
+            }
+        ],
+        "urls": []
+    },
+    "metadata": {
+        "iso_language_code": "es",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "in_reply_to_status_id": 1415677998196355076,
+    "in_reply_to_status_id_str": "1415677998196355076",
+    "in_reply_to_user_id": 1235248697178574848,
+    "in_reply_to_user_id_str": "1235248697178574848",
+    "in_reply_to_screen_name": "CHAMACO74650710",
+    "user": {
+        "id": 128334306,
+        "id_str": "128334306",
+        "name": "M\u00e1rgara Ortiz",
+        "screen_name": "MargaraOrtiz66",
+        "location": "Cali, ve! ",
+        "description": "#Antimamerta \u201cNuestro liderazgo lo ejercen solamente nuestras ideas\u201d\nMi bandera Es \ud83c\udde8\ud83c\uddf4 y la Derecha es el rumbo!",
+        "url": null,
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 10640,
+        "friends_count": 4928,
+        "listed_count": 41,
+        "created_at": "Wed Mar 31 20:38:34 +0000 2010",
+        "favourites_count": 86496,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 227363,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "B2DFDA",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme13/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme13/bg.gif",
+        "profile_background_tile": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1292979368759787521/wUODm37i_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1292979368759787521/wUODm37i_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/128334306/1568142002",
+        "profile_link_color": "4465A6",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "FFFFFF",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": true,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 1,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "es"
+}

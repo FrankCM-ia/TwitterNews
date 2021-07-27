@@ -1,0 +1,97 @@
+{
+    "created_at": "Wed Jul 14 18:04:49 +0000 2021",
+    "id": 1415371723952857091,
+    "id_str": "1415371723952857091",
+    "full_text": "@Orteguinha13 Sin champions?? JAJAJAJAJAJAJA",
+    "truncated": false,
+    "display_text_range": [
+        14,
+        44
+    ],
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "Orteguinha13",
+                "name": "O13",
+                "id": 977236014,
+                "id_str": "977236014",
+                "indices": [
+                    0,
+                    13
+                ]
+            }
+        ],
+        "urls": []
+    },
+    "metadata": {
+        "iso_language_code": "es",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "in_reply_to_status_id": 1415367028362383363,
+    "in_reply_to_status_id_str": "1415367028362383363",
+    "in_reply_to_user_id": 977236014,
+    "in_reply_to_user_id_str": "977236014",
+    "in_reply_to_screen_name": "Orteguinha13",
+    "user": {
+        "id": 1221176001012666372,
+        "id_str": "1221176001012666372",
+        "name": "Miguel Quintas",
+        "screen_name": "Quintas_24",
+        "location": "Ourense, Espa\u00f1a",
+        "description": "\ud83d\udcdaeei\ud83d\udcda",
+        "url": null,
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 44,
+        "friends_count": 85,
+        "listed_count": 0,
+        "created_at": "Sat Jan 25 21:01:06 +0000 2020",
+        "favourites_count": 1638,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 276,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": null,
+        "profile_background_image_url_https": null,
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1347939260343721989/x7a3GOZj_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1347939260343721989/x7a3GOZj_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1221176001012666372/1579986361",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "es"
+}

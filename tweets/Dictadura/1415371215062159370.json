@@ -1,0 +1,291 @@
+{
+    "created_at": "Wed Jul 14 18:02:48 +0000 2021",
+    "id": 1415371215062159370,
+    "id_str": "1415371215062159370",
+    "full_text": "RT @YOCC77: Esta Sra que dice defender derechos humanos, es una c\u00f3mplice arp\u00eda de la dictadura terrorista cubana, 4 d\u00edas callada \ud83d\ude21\nHabla @m\u2026",
+    "truncated": false,
+    "display_text_range": [
+        0,
+        140
+    ],
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "YOCC77",
+                "name": "YC",
+                "id": 1218928851138596865,
+                "id_str": "1218928851138596865",
+                "indices": [
+                    3,
+                    10
+                ]
+            }
+        ],
+        "urls": []
+    },
+    "metadata": {
+        "iso_language_code": "es",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 1291519546382319617,
+        "id_str": "1291519546382319617",
+        "name": "Lainiker Gonz\u00e1lez",
+        "screen_name": "Lainike62527744",
+        "location": "",
+        "description": "",
+        "url": null,
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 10,
+        "friends_count": 33,
+        "listed_count": 0,
+        "created_at": "Thu Aug 06 23:40:51 +0000 2020",
+        "favourites_count": 1065,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 1144,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": null,
+        "profile_background_image_url_https": null,
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1413599002474553349/cNzHlYri_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1413599002474553349/cNzHlYri_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1291519546382319617/1625866377",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": true,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+        "created_at": "Wed Jul 14 12:34:34 +0000 2021",
+        "id": 1415288610077696002,
+        "id_str": "1415288610077696002",
+        "full_text": "Esta Sra que dice defender derechos humanos, es una c\u00f3mplice arp\u00eda de la dictadura terrorista cubana, 4 d\u00edas callada \ud83d\ude21\nHabla @mbachelet!\n\nThis lady who claims to defend human rights, is a harpy of the Cuban terrorist dictatorship, 4 days silenced \ud83d\ude21\nBachelet speaks \ud83d\ude31\n#SOSCuba https://t.co/adXBFmhSRT",
+        "truncated": false,
+        "display_text_range": [
+            0,
+            275
+        ],
+        "entities": {
+            "hashtags": [
+                {
+                    "text": "SOSCuba",
+                    "indices": [
+                        267,
+                        275
+                    ]
+                }
+            ],
+            "symbols": [],
+            "user_mentions": [
+                {
+                    "screen_name": "mbachelet",
+                    "name": "Michelle Bachelet",
+                    "id": 4119914644,
+                    "id_str": "4119914644",
+                    "indices": [
+                        125,
+                        135
+                    ]
+                }
+            ],
+            "urls": [],
+            "media": [
+                {
+                    "id": 1415288606596423682,
+                    "id_str": "1415288606596423682",
+                    "indices": [
+                        276,
+                        299
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/E6QdfTrWYAIfys-.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/E6QdfTrWYAIfys-.jpg",
+                    "url": "https://t.co/adXBFmhSRT",
+                    "display_url": "pic.twitter.com/adXBFmhSRT",
+                    "expanded_url": "https://twitter.com/YOCC77/status/1415288610077696002/photo/1",
+                    "type": "photo",
+                    "sizes": {
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "small": {
+                            "w": 680,
+                            "h": 456,
+                            "resize": "fit"
+                        },
+                        "large": {
+                            "w": 1242,
+                            "h": 832,
+                            "resize": "fit"
+                        },
+                        "medium": {
+                            "w": 1200,
+                            "h": 804,
+                            "resize": "fit"
+                        }
+                    }
+                }
+            ]
+        },
+        "extended_entities": {
+            "media": [
+                {
+                    "id": 1415288606596423682,
+                    "id_str": "1415288606596423682",
+                    "indices": [
+                        276,
+                        299
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/E6QdfTrWYAIfys-.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/E6QdfTrWYAIfys-.jpg",
+                    "url": "https://t.co/adXBFmhSRT",
+                    "display_url": "pic.twitter.com/adXBFmhSRT",
+                    "expanded_url": "https://twitter.com/YOCC77/status/1415288610077696002/photo/1",
+                    "type": "photo",
+                    "sizes": {
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "small": {
+                            "w": 680,
+                            "h": 456,
+                            "resize": "fit"
+                        },
+                        "large": {
+                            "w": 1242,
+                            "h": 832,
+                            "resize": "fit"
+                        },
+                        "medium": {
+                            "w": 1200,
+                            "h": 804,
+                            "resize": "fit"
+                        }
+                    }
+                }
+            ]
+        },
+        "metadata": {
+            "iso_language_code": "es",
+            "result_type": "recent"
+        },
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 1218928851138596865,
+            "id_str": "1218928851138596865",
+            "name": "YC",
+            "screen_name": "YOCC77",
+            "location": "#FLORIDA\ud83c\uddfa\ud83c\uddf8 #AFreeState ",
+            "description": "#HomelandAndLife #MAGA2024 #PatriaYVida https://t.co/MXkNGmy4PE",
+            "url": null,
+            "entities": {
+                "description": {
+                    "urls": [
+                        {
+                            "url": "https://t.co/MXkNGmy4PE",
+                            "expanded_url": "http://youtu.be/lYjv_oamL6o",
+                            "display_url": "youtu.be/lYjv_oamL6o",
+                            "indices": [
+                                40,
+                                63
+                            ]
+                        }
+                    ]
+                }
+            },
+            "protected": false,
+            "followers_count": 32712,
+            "friends_count": 31525,
+            "listed_count": 9,
+            "created_at": "Sun Jan 19 16:11:11 +0000 2020",
+            "favourites_count": 159939,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": false,
+            "verified": false,
+            "statuses_count": 75301,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "F5F8FA",
+            "profile_background_image_url": null,
+            "profile_background_image_url_https": null,
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1412058196592709636/rR0ffImU_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1412058196592709636/rR0ffImU_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/1218928851138596865/1625705527",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "has_extended_profile": true,
+            "default_profile": true,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none",
+            "withheld_in_countries": []
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 26,
+        "favorite_count": 25,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": true,
+        "lang": "es"
+    },
+    "is_quote_status": false,
+    "retweet_count": 26,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "es"
+}

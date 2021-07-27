@@ -1,0 +1,255 @@
+{
+    "created_at": "Wed Jul 14 16:00:17 +0000 2021",
+    "id": 1415340380497879044,
+    "id_str": "1415340380497879044",
+    "full_text": "@mdelpueblo \nEn vivo y directo pod\u00e9s ver lo que opinan los cubanos sobre el gobierno en Cuba\n#SOSCubaLibre \n#SOSCuba \nNo quieren a Fidel, no quieren m\u00e1s comunismo. Solo trae miseria para el pueblo y opulencia para los oligarcas. https://t.co/UUGlVFnCZW",
+    "truncated": false,
+    "display_text_range": [
+        0,
+        228
+    ],
+    "entities": {
+        "hashtags": [
+            {
+                "text": "SOSCubaLibre",
+                "indices": [
+                    93,
+                    106
+                ]
+            },
+            {
+                "text": "SOSCuba",
+                "indices": [
+                    108,
+                    116
+                ]
+            }
+        ],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "mdelpueblo",
+                "name": "Mariano Del P\u00f3polo",
+                "id": 143199693,
+                "id_str": "143199693",
+                "indices": [
+                    0,
+                    11
+                ]
+            }
+        ],
+        "urls": [],
+        "media": [
+            {
+                "id": 1415340323157520391,
+                "id_str": "1415340323157520391",
+                "indices": [
+                    229,
+                    252
+                ],
+                "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1415340323157520391/pu/img/ZlzcpT5seiWGlzQH.jpg",
+                "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1415340323157520391/pu/img/ZlzcpT5seiWGlzQH.jpg",
+                "url": "https://t.co/UUGlVFnCZW",
+                "display_url": "pic.twitter.com/UUGlVFnCZW",
+                "expanded_url": "https://twitter.com/XTezanosP/status/1415340380497879044/video/1",
+                "type": "photo",
+                "sizes": {
+                    "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                    },
+                    "medium": {
+                        "w": 540,
+                        "h": 1200,
+                        "resize": "fit"
+                    },
+                    "small": {
+                        "w": 306,
+                        "h": 680,
+                        "resize": "fit"
+                    },
+                    "large": {
+                        "w": 576,
+                        "h": 1280,
+                        "resize": "fit"
+                    }
+                }
+            }
+        ]
+    },
+    "extended_entities": {
+        "media": [
+            {
+                "id": 1415340323157520391,
+                "id_str": "1415340323157520391",
+                "indices": [
+                    229,
+                    252
+                ],
+                "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1415340323157520391/pu/img/ZlzcpT5seiWGlzQH.jpg",
+                "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1415340323157520391/pu/img/ZlzcpT5seiWGlzQH.jpg",
+                "url": "https://t.co/UUGlVFnCZW",
+                "display_url": "pic.twitter.com/UUGlVFnCZW",
+                "expanded_url": "https://twitter.com/XTezanosP/status/1415340380497879044/video/1",
+                "type": "video",
+                "sizes": {
+                    "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                    },
+                    "medium": {
+                        "w": 540,
+                        "h": 1200,
+                        "resize": "fit"
+                    },
+                    "small": {
+                        "w": 306,
+                        "h": 680,
+                        "resize": "fit"
+                    },
+                    "large": {
+                        "w": 576,
+                        "h": 1280,
+                        "resize": "fit"
+                    }
+                },
+                "video_info": {
+                    "aspect_ratio": [
+                        9,
+                        20
+                    ],
+                    "duration_millis": 21015,
+                    "variants": [
+                        {
+                            "bitrate": 632000,
+                            "content_type": "video/mp4",
+                            "url": "https://video.twimg.com/ext_tw_video/1415340323157520391/pu/vid/320x710/J_1_8NyrGH50qQcL.mp4?tag=12"
+                        },
+                        {
+                            "bitrate": 2176000,
+                            "content_type": "video/mp4",
+                            "url": "https://video.twimg.com/ext_tw_video/1415340323157520391/pu/vid/576x1280/juKlawVjhdaCzJFB.mp4?tag=12"
+                        },
+                        {
+                            "content_type": "application/x-mpegURL",
+                            "url": "https://video.twimg.com/ext_tw_video/1415340323157520391/pu/pl/9Ow_i5pHHXmP0ZNk.m3u8?tag=12&container=fmp4"
+                        },
+                        {
+                            "bitrate": 950000,
+                            "content_type": "video/mp4",
+                            "url": "https://video.twimg.com/ext_tw_video/1415340323157520391/pu/vid/480x1066/ZGgU5KvXteu1pYBe.mp4?tag=12"
+                        }
+                    ]
+                },
+                "additional_media_info": {
+                    "monetizable": false
+                }
+            }
+        ]
+    },
+    "metadata": {
+        "iso_language_code": "es",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": 143199693,
+    "in_reply_to_user_id_str": "143199693",
+    "in_reply_to_screen_name": "mdelpueblo",
+    "user": {
+        "id": 998509148,
+        "id_str": "998509148",
+        "name": "Ximena de Tezanos Pinto",
+        "screen_name": "XTezanosP",
+        "location": "Argentina",
+        "description": "Ciudadana de primera, soberana de mis derechos, responsable de mis actos",
+        "url": null,
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 393,
+        "friends_count": 432,
+        "listed_count": 2,
+        "created_at": "Sun Dec 09 03:42:44 +0000 2012",
+        "favourites_count": 8192,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 2637,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1407281861806759937/jzeuTBof_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1407281861806759937/jzeuTBof_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/998509148/1597281289",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": {
+        "id": "018f1cde6bad9747",
+        "url": "https://api.twitter.com/1.1/geo/id/018f1cde6bad9747.json",
+        "place_type": "city",
+        "name": "Ciudad Aut\u00f3noma de Buenos Aires",
+        "full_name": "Ciudad Aut\u00f3noma de Buenos Aires, Argentina",
+        "country_code": "AR",
+        "country": "Argentina",
+        "contained_within": [],
+        "bounding_box": {
+            "type": "Polygon",
+            "coordinates": [
+                [
+                    [
+                        -58.5317922,
+                        -34.674453
+                    ],
+                    [
+                        -58.353494,
+                        -34.674453
+                    ],
+                    [
+                        -58.353494,
+                        -34.534177
+                    ],
+                    [
+                        -58.5317922,
+                        -34.534177
+                    ]
+                ]
+            ]
+        },
+        "attributes": {}
+    },
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 1,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "es"
+}

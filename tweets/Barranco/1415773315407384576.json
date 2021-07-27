@@ -1,0 +1,240 @@
+{
+    "created_at": "Thu Jul 15 20:40:36 +0000 2021",
+    "id": 1415773315407384576,
+    "id_str": "1415773315407384576",
+    "full_text": "RT @elgatopolitico_: #As\u00edLasCosas \ud83d\udea8\ud83d\udea8\ud83d\udea8\n\"El Loret que yo vi en el careo estaba muy empeque\u00f1ecido (...) \u00c9l maneja de una manera muy tramposa e\u2026",
+    "truncated": false,
+    "display_text_range": [
+        0,
+        140
+    ],
+    "entities": {
+        "hashtags": [
+            {
+                "text": "As\u00edLasCosas",
+                "indices": [
+                    21,
+                    33
+                ]
+            }
+        ],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "elgatopolitico_",
+                "name": "El gato pol\u00edtico",
+                "id": 1091416480543985664,
+                "id_str": "1091416480543985664",
+                "indices": [
+                    3,
+                    19
+                ]
+            }
+        ],
+        "urls": []
+    },
+    "metadata": {
+        "iso_language_code": "es",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 573287227,
+        "id_str": "573287227",
+        "name": "Yascara Y. ViBe",
+        "screen_name": "YascaraYViBe",
+        "location": "Colima, M\u00e9xico",
+        "description": "AMLOVER 100%\n\nPURA Y SENSIBLE EN MI SER,  Hidrocalida , Guanajuatense de coraz\u00f3n y Colimense por Amor",
+        "url": null,
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 562,
+        "friends_count": 563,
+        "listed_count": 0,
+        "created_at": "Mon May 07 04:13:14 +0000 2012",
+        "favourites_count": 46113,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 17337,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/925915711846998016/d6l_8cB6_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/925915711846998016/d6l_8cB6_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/573287227/1610911273",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": true,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+        "created_at": "Tue Jul 13 18:15:35 +0000 2021",
+        "id": 1415012043338522626,
+        "id_str": "1415012043338522626",
+        "full_text": "#As\u00edLasCosas \ud83d\udea8\ud83d\udea8\ud83d\udea8\n\"El Loret que yo vi en el careo estaba muy empeque\u00f1ecido (...) \u00c9l maneja de una manera muy tramposa el t\u00e9rmino 'montaje'\" , excolaboradora de #LordMontajes lo desmiente.\nhttps://t.co/FU5knnBaY7",
+        "truncated": false,
+        "display_text_range": [
+            0,
+            210
+        ],
+        "entities": {
+            "hashtags": [
+                {
+                    "text": "As\u00edLasCosas",
+                    "indices": [
+                        0,
+                        12
+                    ]
+                },
+                {
+                    "text": "LordMontajes",
+                    "indices": [
+                        159,
+                        172
+                    ]
+                }
+            ],
+            "symbols": [],
+            "user_mentions": [],
+            "urls": [
+                {
+                    "url": "https://t.co/FU5knnBaY7",
+                    "expanded_url": "https://elgatopolitico.news/2021/07/13/vi-a-un-ser-muy-diminuto-vuelve-a-mentir-laura-barranco-desmiente-a-loret-video/",
+                    "display_url": "elgatopolitico.news/2021/07/13/vi-\u2026",
+                    "indices": [
+                        187,
+                        210
+                    ]
+                }
+            ]
+        },
+        "metadata": {
+            "iso_language_code": "es",
+            "result_type": "recent"
+        },
+        "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 1091416480543985664,
+            "id_str": "1091416480543985664",
+            "name": "El gato pol\u00edtico",
+            "screen_name": "elgatopolitico_",
+            "location": "",
+            "description": "El gato pol\u00edtico para servirle a usted y para denunciar a las ratas del poder #ConFe\n\nSuscr\u00edbanse: https://t.co/UyHqrdhJQQ",
+            "url": "https://t.co/meEcRsWOfa",
+            "entities": {
+                "url": {
+                    "urls": [
+                        {
+                            "url": "https://t.co/meEcRsWOfa",
+                            "expanded_url": "https://elgatopolitico.news/",
+                            "display_url": "elgatopolitico.news",
+                            "indices": [
+                                0,
+                                23
+                            ]
+                        }
+                    ]
+                },
+                "description": {
+                    "urls": [
+                        {
+                            "url": "https://t.co/UyHqrdhJQQ",
+                            "expanded_url": "https://www.youtube.com/channel/UCovIPORYymie5TEbzy998qA",
+                            "display_url": "youtube.com/channel/UCovIP\u2026",
+                            "indices": [
+                                99,
+                                122
+                            ]
+                        }
+                    ]
+                }
+            },
+            "protected": false,
+            "followers_count": 126189,
+            "friends_count": 7765,
+            "listed_count": 177,
+            "created_at": "Fri Feb 01 19:22:21 +0000 2019",
+            "favourites_count": 4563,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": false,
+            "verified": false,
+            "statuses_count": 7832,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "F5F8FA",
+            "profile_background_image_url": null,
+            "profile_background_image_url_https": null,
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1353857606427832321/TyXZzOWm_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1353857606427832321/TyXZzOWm_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/1091416480543985664/1562263677",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "has_extended_profile": false,
+            "default_profile": true,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none",
+            "withheld_in_countries": []
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 347,
+        "favorite_count": 752,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "es"
+    },
+    "is_quote_status": false,
+    "retweet_count": 347,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "es"
+}

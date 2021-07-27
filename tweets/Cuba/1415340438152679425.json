@@ -1,0 +1,227 @@
+{
+    "created_at": "Wed Jul 14 16:00:30 +0000 2021",
+    "id": 1415340438152679425,
+    "id_str": "1415340438152679425",
+    "full_text": "RT @T13: \ud83d\udd34 Human Rights Watch emplaza a Bachelet a \"romper el silencio\" por violaciones a los DD.HH en Cuba\n\nhttps://t.co/3drgWbt2cu",
+    "truncated": false,
+    "display_text_range": [
+        0,
+        132
+    ],
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "T13",
+                "name": "T13",
+                "id": 24952459,
+                "id_str": "24952459",
+                "indices": [
+                    3,
+                    7
+                ]
+            }
+        ],
+        "urls": [
+            {
+                "url": "https://t.co/3drgWbt2cu",
+                "expanded_url": "http://t13.cl/386606",
+                "display_url": "t13.cl/386606",
+                "indices": [
+                    109,
+                    132
+                ]
+            }
+        ]
+    },
+    "metadata": {
+        "iso_language_code": "es",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 1377036384226119681,
+        "id_str": "1377036384226119681",
+        "name": "Sebastian Alexis",
+        "screen_name": "Sebasti52253628",
+        "location": "",
+        "description": "#Patriota #Rechazo",
+        "url": null,
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 1500,
+        "friends_count": 2673,
+        "listed_count": 0,
+        "created_at": "Tue Mar 30 23:14:01 +0000 2021",
+        "favourites_count": 13252,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 14836,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": null,
+        "profile_background_image_url_https": null,
+        "profile_background_tile": false,
+        "profile_image_url": "http://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+        "profile_image_url_https": "https://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": true,
+        "default_profile": true,
+        "default_profile_image": true,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+        "created_at": "Wed Jul 14 15:04:02 +0000 2021",
+        "id": 1415326227074797573,
+        "id_str": "1415326227074797573",
+        "full_text": "\ud83d\udd34 Human Rights Watch emplaza a Bachelet a \"romper el silencio\" por violaciones a los DD.HH en Cuba\n\nhttps://t.co/3drgWbt2cu",
+        "truncated": false,
+        "display_text_range": [
+            0,
+            123
+        ],
+        "entities": {
+            "hashtags": [],
+            "symbols": [],
+            "user_mentions": [],
+            "urls": [
+                {
+                    "url": "https://t.co/3drgWbt2cu",
+                    "expanded_url": "http://t13.cl/386606",
+                    "display_url": "t13.cl/386606",
+                    "indices": [
+                        100,
+                        123
+                    ]
+                }
+            ]
+        },
+        "metadata": {
+            "iso_language_code": "es",
+            "result_type": "recent"
+        },
+        "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 24952459,
+            "id_str": "24952459",
+            "name": "T13",
+            "screen_name": "T13",
+            "location": "Santiago, Chile",
+            "description": "Somos el Departamento de Prensa de Canal 13. Tus denuncias al \ud83d\udcf1+56939200797\n\nSe\u00f1al T13 EN VIVO y m\u00e1s  \ud83d\udcf9 https://t.co/dCoYlzkotH\n\ud83d\udcf7 Tambi\u00e9n en TikTok, Twitch e Insta.",
+            "url": "https://t.co/4saJ0daju3",
+            "entities": {
+                "url": {
+                    "urls": [
+                        {
+                            "url": "https://t.co/4saJ0daju3",
+                            "expanded_url": "https://www.T13.cl",
+                            "display_url": "T13.cl",
+                            "indices": [
+                                0,
+                                23
+                            ]
+                        }
+                    ]
+                },
+                "description": {
+                    "urls": [
+                        {
+                            "url": "https://t.co/dCoYlzkotH",
+                            "expanded_url": "http://cutt.ly/frRIeWP",
+                            "display_url": "cutt.ly/frRIeWP",
+                            "indices": [
+                                104,
+                                127
+                            ]
+                        }
+                    ]
+                }
+            },
+            "protected": false,
+            "followers_count": 3415158,
+            "friends_count": 101926,
+            "listed_count": 7578,
+            "created_at": "Tue Mar 17 20:54:09 +0000 2009",
+            "favourites_count": 950,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": true,
+            "verified": true,
+            "statuses_count": 614406,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "FAF7FA",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1340607118672588801/jGHqe5pq_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1340607118672588801/jGHqe5pq_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/24952459/1621376488",
+            "profile_link_color": "FF691F",
+            "profile_sidebar_border_color": "FFFFFF",
+            "profile_sidebar_fill_color": "999796",
+            "profile_text_color": "544F54",
+            "profile_use_background_image": false,
+            "has_extended_profile": false,
+            "default_profile": false,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none",
+            "withheld_in_countries": []
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 171,
+        "favorite_count": 399,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "es"
+    },
+    "is_quote_status": false,
+    "retweet_count": 171,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "es"
+}

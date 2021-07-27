@@ -1,0 +1,204 @@
+{
+    "created_at": "Wed Jul 14 16:00:44 +0000 2021",
+    "id": 1415340495551729667,
+    "id_str": "1415340495551729667",
+    "full_text": "RT @RicardoOrtizMJI: Si cae el comunismo en Cuba habr\u00e1 un efecto domino, despu\u00e9s caer\u00e1 Maduro y todo el comunismo en Latino Am\u00e9rica, ser\u00e1 h\u2026",
+    "truncated": false,
+    "display_text_range": [
+        0,
+        140
+    ],
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "RicardoOrtizMJI",
+                "name": "Ricardo\u00ae \ud83d\ude0e",
+                "id": 1406506614,
+                "id_str": "1406506614",
+                "indices": [
+                    3,
+                    19
+                ]
+            }
+        ],
+        "urls": []
+    },
+    "metadata": {
+        "iso_language_code": "es",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 840444031,
+        "id_str": "840444031",
+        "name": "eduardo jofre ibarra",
+        "screen_name": "NPR1995",
+        "location": "",
+        "description": "",
+        "url": null,
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 61,
+        "friends_count": 110,
+        "listed_count": 0,
+        "created_at": "Sat Sep 22 21:01:16 +0000 2012",
+        "favourites_count": 3720,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 1392,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1242104363964923906/Ut4gMBqB_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1242104363964923906/Ut4gMBqB_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+        "created_at": "Tue Jul 13 14:50:43 +0000 2021",
+        "id": 1414960485225664517,
+        "id_str": "1414960485225664517",
+        "full_text": "Si cae el comunismo en Cuba habr\u00e1 un efecto domino, despu\u00e9s caer\u00e1 Maduro y todo el comunismo en Latino Am\u00e9rica, ser\u00e1 hermoso!\nZurdos! Se les viene la noche!\n\n#JadueJuisteGueno\n#SOSCuba\n#ZurdosSinInternet",
+        "truncated": false,
+        "display_text_range": [
+            0,
+            203
+        ],
+        "entities": {
+            "hashtags": [
+                {
+                    "text": "JadueJuisteGueno",
+                    "indices": [
+                        158,
+                        175
+                    ]
+                },
+                {
+                    "text": "SOSCuba",
+                    "indices": [
+                        176,
+                        184
+                    ]
+                },
+                {
+                    "text": "ZurdosSinInternet",
+                    "indices": [
+                        185,
+                        203
+                    ]
+                }
+            ],
+            "symbols": [],
+            "user_mentions": [],
+            "urls": []
+        },
+        "metadata": {
+            "iso_language_code": "es",
+            "result_type": "recent"
+        },
+        "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 1406506614,
+            "id_str": "1406506614",
+            "name": "Ricardo\u00ae \ud83d\ude0e",
+            "screen_name": "RicardoOrtizMJI",
+            "location": "Estaci\u00f3n Central, Chile",
+            "description": "Papa con tatuajes, igual que uno normal pero m\u00e1s Bkn!\ud83d\ude0e disfruto lo simple/MMA,UFC/Rock/de la raza maldita/Opine de politica un a\u00f1o en radio\ud83c\udf99\ufe0fIron\u00eda y sarcasmo",
+            "url": null,
+            "entities": {
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 16053,
+            "friends_count": 16431,
+            "listed_count": 18,
+            "created_at": "Mon May 06 01:45:09 +0000 2013",
+            "favourites_count": 184860,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": true,
+            "verified": false,
+            "statuses_count": 225770,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "C0DEED",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": true,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1409880008034824200/UvzSR7-v_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1409880008034824200/UvzSR7-v_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/1406506614/1529091149",
+            "profile_link_color": "ABB8C2",
+            "profile_sidebar_border_color": "000000",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "has_extended_profile": true,
+            "default_profile": false,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none",
+            "withheld_in_countries": []
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 350,
+        "favorite_count": 854,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "es"
+    },
+    "is_quote_status": false,
+    "retweet_count": 350,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "es"
+}

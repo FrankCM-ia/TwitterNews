@@ -1,0 +1,239 @@
+{
+    "created_at": "Wed Jul 14 16:00:22 +0000 2021",
+    "id": 1415340403071594503,
+    "id_str": "1415340403071594503",
+    "full_text": "@horaciorlarreta Ahora HDRP?? Desde el d\u00eda 11 hoy es 14 y reci\u00e9n sal\u00eds? SOS igual a @alferdez  no te enteraste lo que est\u00e1 pasando en Cuba,m\u00e1s peroncho comunista no pod\u00e9s ser.\nSali\u00f3 el l\u00edder Mauricio Macri y no les queda otra que SALIR.\nRATAS\n#SOSCuba \n#SOSArgentina \n#MacriEsElLider https://t.co/cJWot6EDx5",
+    "truncated": false,
+    "display_text_range": [
+        17,
+        283
+    ],
+    "entities": {
+        "hashtags": [
+            {
+                "text": "SOSCuba",
+                "indices": [
+                    243,
+                    251
+                ]
+            },
+            {
+                "text": "SOSArgentina",
+                "indices": [
+                    253,
+                    266
+                ]
+            },
+            {
+                "text": "MacriEsElLider",
+                "indices": [
+                    268,
+                    283
+                ]
+            }
+        ],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "horaciorlarreta",
+                "name": "Horacio Rodr\u00edguez Larreta \u270b\ud83c\udffc\ud83e\uddfc\ud83e\udd1a\ud83c\udffc",
+                "id": 77009449,
+                "id_str": "77009449",
+                "indices": [
+                    0,
+                    16
+                ]
+            },
+            {
+                "screen_name": "alferdez",
+                "name": "Alberto Fern\u00e1ndez",
+                "id": 149991703,
+                "id_str": "149991703",
+                "indices": [
+                    84,
+                    93
+                ]
+            }
+        ],
+        "urls": [],
+        "media": [
+            {
+                "id": 1415340294158028801,
+                "id_str": "1415340294158028801",
+                "indices": [
+                    284,
+                    307
+                ],
+                "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1415340294158028801/pu/img/kufH7ToSuuwcP1cl.jpg",
+                "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1415340294158028801/pu/img/kufH7ToSuuwcP1cl.jpg",
+                "url": "https://t.co/cJWot6EDx5",
+                "display_url": "pic.twitter.com/cJWot6EDx5",
+                "expanded_url": "https://twitter.com/flaca_marti/status/1415340403071594503/video/1",
+                "type": "photo",
+                "sizes": {
+                    "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                    },
+                    "medium": {
+                        "w": 1200,
+                        "h": 559,
+                        "resize": "fit"
+                    },
+                    "small": {
+                        "w": 680,
+                        "h": 317,
+                        "resize": "fit"
+                    },
+                    "large": {
+                        "w": 1280,
+                        "h": 596,
+                        "resize": "fit"
+                    }
+                }
+            }
+        ]
+    },
+    "extended_entities": {
+        "media": [
+            {
+                "id": 1415340294158028801,
+                "id_str": "1415340294158028801",
+                "indices": [
+                    284,
+                    307
+                ],
+                "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1415340294158028801/pu/img/kufH7ToSuuwcP1cl.jpg",
+                "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1415340294158028801/pu/img/kufH7ToSuuwcP1cl.jpg",
+                "url": "https://t.co/cJWot6EDx5",
+                "display_url": "pic.twitter.com/cJWot6EDx5",
+                "expanded_url": "https://twitter.com/flaca_marti/status/1415340403071594503/video/1",
+                "type": "video",
+                "sizes": {
+                    "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                    },
+                    "medium": {
+                        "w": 1200,
+                        "h": 559,
+                        "resize": "fit"
+                    },
+                    "small": {
+                        "w": 680,
+                        "h": 317,
+                        "resize": "fit"
+                    },
+                    "large": {
+                        "w": 1280,
+                        "h": 596,
+                        "resize": "fit"
+                    }
+                },
+                "video_info": {
+                    "aspect_ratio": [
+                        320,
+                        149
+                    ],
+                    "duration_millis": 52514,
+                    "variants": [
+                        {
+                            "bitrate": 2176000,
+                            "content_type": "video/mp4",
+                            "url": "https://video.twimg.com/ext_tw_video/1415340294158028801/pu/vid/1280x596/wOupq-4nBQA2CivC.mp4?tag=12"
+                        },
+                        {
+                            "bitrate": 832000,
+                            "content_type": "video/mp4",
+                            "url": "https://video.twimg.com/ext_tw_video/1415340294158028801/pu/vid/772x360/u1l3dLcQ6SKyDBnm.mp4?tag=12"
+                        },
+                        {
+                            "bitrate": 256000,
+                            "content_type": "video/mp4",
+                            "url": "https://video.twimg.com/ext_tw_video/1415340294158028801/pu/vid/578x270/C-sV5_tGyS7ect2H.mp4?tag=12"
+                        },
+                        {
+                            "content_type": "application/x-mpegURL",
+                            "url": "https://video.twimg.com/ext_tw_video/1415340294158028801/pu/pl/KhtGY-q46qhL1UFC.m3u8?tag=12&container=fmp4"
+                        }
+                    ]
+                },
+                "additional_media_info": {
+                    "monetizable": false
+                }
+            }
+        ]
+    },
+    "metadata": {
+        "iso_language_code": "es",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "in_reply_to_status_id": 1415313776899940353,
+    "in_reply_to_status_id_str": "1415313776899940353",
+    "in_reply_to_user_id": 77009449,
+    "in_reply_to_user_id_str": "77009449",
+    "in_reply_to_screen_name": "horaciorlarreta",
+    "user": {
+        "id": 1176934859366944769,
+        "id_str": "1176934859366944769",
+        "name": "FlacaMartiColon\u2764\ufe0f\ud83d\udda4 \ud83c\udfc6\u2b50\ud83c\udfd1\ud83d\udc51\ud83d\udc99\ud83c\udde6\ud83c\uddf7",
+        "screen_name": "flaca_marti",
+        "location": "Santa Fe, Argentina",
+        "description": "Cuando la patria est\u00e1 en peligro todo est\u00e1 permitido, excepto no defenderla Por eso  dfendamos la rep\u00fablica, ns merecemos 1 pa\u00eds libre d Corruptos",
+        "url": null,
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 5841,
+        "friends_count": 6360,
+        "listed_count": 3,
+        "created_at": "Wed Sep 25 19:02:19 +0000 2019",
+        "favourites_count": 108416,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 112704,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": null,
+        "profile_background_image_url_https": null,
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1385004933427122176/EUZ473HH_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1385004933427122176/EUZ473HH_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1176934859366944769/1622860536",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": true,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 1,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "es"
+}

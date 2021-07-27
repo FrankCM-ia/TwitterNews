@@ -1,0 +1,502 @@
+{
+    "created_at": "Wed Jul 14 18:02:05 +0000 2021",
+    "id": 1415371032169488386,
+    "id_str": "1415371032169488386",
+    "full_text": "RT @mauriciomacri: Apoyo al pueblo cubano que reclama el fin de la dictadura. #SOSCuba https://t.co/KttZ6F5KFe",
+    "truncated": false,
+    "display_text_range": [
+        0,
+        110
+    ],
+    "entities": {
+        "hashtags": [
+            {
+                "text": "SOSCuba",
+                "indices": [
+                    78,
+                    86
+                ]
+            }
+        ],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "mauriciomacri",
+                "name": "Mauricio Macri",
+                "id": 24900072,
+                "id_str": "24900072",
+                "indices": [
+                    3,
+                    17
+                ]
+            }
+        ],
+        "urls": [],
+        "media": [
+            {
+                "id": 1415304208178466817,
+                "id_str": "1415304208178466817",
+                "indices": [
+                    87,
+                    110
+                ],
+                "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1415304208178466817/pu/img/hfLnQn24Bgw1VqLk.jpg",
+                "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1415304208178466817/pu/img/hfLnQn24Bgw1VqLk.jpg",
+                "url": "https://t.co/KttZ6F5KFe",
+                "display_url": "pic.twitter.com/KttZ6F5KFe",
+                "expanded_url": "https://twitter.com/mauriciomacri/status/1415304348221984768/video/1",
+                "type": "photo",
+                "sizes": {
+                    "medium": {
+                        "w": 640,
+                        "h": 640,
+                        "resize": "fit"
+                    },
+                    "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                    },
+                    "large": {
+                        "w": 640,
+                        "h": 640,
+                        "resize": "fit"
+                    },
+                    "small": {
+                        "w": 640,
+                        "h": 640,
+                        "resize": "fit"
+                    }
+                },
+                "source_status_id": 1415304348221984768,
+                "source_status_id_str": "1415304348221984768",
+                "source_user_id": 24900072,
+                "source_user_id_str": "24900072"
+            }
+        ]
+    },
+    "extended_entities": {
+        "media": [
+            {
+                "id": 1415304208178466817,
+                "id_str": "1415304208178466817",
+                "indices": [
+                    87,
+                    110
+                ],
+                "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1415304208178466817/pu/img/hfLnQn24Bgw1VqLk.jpg",
+                "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1415304208178466817/pu/img/hfLnQn24Bgw1VqLk.jpg",
+                "url": "https://t.co/KttZ6F5KFe",
+                "display_url": "pic.twitter.com/KttZ6F5KFe",
+                "expanded_url": "https://twitter.com/mauriciomacri/status/1415304348221984768/video/1",
+                "type": "video",
+                "sizes": {
+                    "medium": {
+                        "w": 640,
+                        "h": 640,
+                        "resize": "fit"
+                    },
+                    "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                    },
+                    "large": {
+                        "w": 640,
+                        "h": 640,
+                        "resize": "fit"
+                    },
+                    "small": {
+                        "w": 640,
+                        "h": 640,
+                        "resize": "fit"
+                    }
+                },
+                "source_status_id": 1415304348221984768,
+                "source_status_id_str": "1415304348221984768",
+                "source_user_id": 24900072,
+                "source_user_id_str": "24900072",
+                "video_info": {
+                    "aspect_ratio": [
+                        1,
+                        1
+                    ],
+                    "duration_millis": 40933,
+                    "variants": [
+                        {
+                            "bitrate": 432000,
+                            "content_type": "video/mp4",
+                            "url": "https://video.twimg.com/ext_tw_video/1415304208178466817/pu/vid/320x320/YGAobpImt2I_kGEY.mp4?tag=12"
+                        },
+                        {
+                            "bitrate": 832000,
+                            "content_type": "video/mp4",
+                            "url": "https://video.twimg.com/ext_tw_video/1415304208178466817/pu/vid/540x540/6-wvICmXOYomlPK8.mp4?tag=12"
+                        },
+                        {
+                            "bitrate": 1280000,
+                            "content_type": "video/mp4",
+                            "url": "https://video.twimg.com/ext_tw_video/1415304208178466817/pu/vid/640x640/DSL-DU98jPrIFZTH.mp4?tag=12"
+                        },
+                        {
+                            "content_type": "application/x-mpegURL",
+                            "url": "https://video.twimg.com/ext_tw_video/1415304208178466817/pu/pl/_2YT7Vlh8mnpOwra.m3u8?tag=12&container=fmp4"
+                        }
+                    ]
+                },
+                "additional_media_info": {
+                    "monetizable": false,
+                    "source_user": {
+                        "id": 24900072,
+                        "id_str": "24900072",
+                        "name": "Mauricio Macri",
+                        "screen_name": "mauriciomacri",
+                        "location": "Buenos Aires, Argentina",
+                        "description": "Ex presidente de la Rep\u00fablica Argentina. Miembro fundador de PRO Argentina y Cambiemos. Casado. 4 hijos. Hincha de Boca.",
+                        "url": "https://t.co/wTNCQ6fzyK",
+                        "entities": {
+                            "url": {
+                                "urls": [
+                                    {
+                                        "url": "https://t.co/wTNCQ6fzyK",
+                                        "expanded_url": "http://www.mauriciomacri.com.ar/",
+                                        "display_url": "mauriciomacri.com.ar",
+                                        "indices": [
+                                            0,
+                                            23
+                                        ]
+                                    }
+                                ]
+                            },
+                            "description": {
+                                "urls": []
+                            }
+                        },
+                        "protected": false,
+                        "followers_count": 5111855,
+                        "friends_count": 634,
+                        "listed_count": 7365,
+                        "created_at": "Tue Mar 17 15:42:21 +0000 2009",
+                        "favourites_count": 124,
+                        "utc_offset": null,
+                        "time_zone": null,
+                        "geo_enabled": true,
+                        "verified": true,
+                        "statuses_count": 10307,
+                        "lang": null,
+                        "contributors_enabled": false,
+                        "is_translator": false,
+                        "is_translation_enabled": false,
+                        "profile_background_color": "000000",
+                        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+                        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+                        "profile_background_tile": false,
+                        "profile_image_url": "http://pbs.twimg.com/profile_images/653558348273569792/joxg8DZD_normal.png",
+                        "profile_image_url_https": "https://pbs.twimg.com/profile_images/653558348273569792/joxg8DZD_normal.png",
+                        "profile_banner_url": "https://pbs.twimg.com/profile_banners/24900072/1574719653",
+                        "profile_link_color": "0083B3",
+                        "profile_sidebar_border_color": "FFFFFF",
+                        "profile_sidebar_fill_color": "CFEDF7",
+                        "profile_text_color": "000000",
+                        "profile_use_background_image": true,
+                        "has_extended_profile": false,
+                        "default_profile": false,
+                        "default_profile_image": false,
+                        "following": false,
+                        "follow_request_sent": false,
+                        "notifications": false,
+                        "translator_type": "none",
+                        "withheld_in_countries": []
+                    }
+                }
+            }
+        ]
+    },
+    "metadata": {
+        "iso_language_code": "es",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 208565303,
+        "id_str": "208565303",
+        "name": "Tom \ud83c\uddfa\ud83c\uddf8 \ud83c\uddec\ud83c\udde7 \ud83d\ude02",
+        "screen_name": "TomOKComputer",
+        "location": "Buenos Aires",
+        "description": "An\u00a0appeaser\u00a0is one who feeds a crocodile, hoping it will eat him last. Winston Churchill.",
+        "url": null,
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 377,
+        "friends_count": 986,
+        "listed_count": 9,
+        "created_at": "Wed Oct 27 14:18:25 +0000 2010",
+        "favourites_count": 127984,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 299552,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "131516",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+        "profile_background_tile": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1413444405474697217/SCR1LMW5_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1413444405474697217/SCR1LMW5_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/208565303/1625402244",
+        "profile_link_color": "009999",
+        "profile_sidebar_border_color": "EEEEEE",
+        "profile_sidebar_fill_color": "EFEFEF",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": true,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+        "created_at": "Wed Jul 14 13:37:06 +0000 2021",
+        "id": 1415304348221984768,
+        "id_str": "1415304348221984768",
+        "full_text": "Apoyo al pueblo cubano que reclama el fin de la dictadura. #SOSCuba https://t.co/KttZ6F5KFe",
+        "truncated": false,
+        "display_text_range": [
+            0,
+            67
+        ],
+        "entities": {
+            "hashtags": [
+                {
+                    "text": "SOSCuba",
+                    "indices": [
+                        59,
+                        67
+                    ]
+                }
+            ],
+            "symbols": [],
+            "user_mentions": [],
+            "urls": [],
+            "media": [
+                {
+                    "id": 1415304208178466817,
+                    "id_str": "1415304208178466817",
+                    "indices": [
+                        68,
+                        91
+                    ],
+                    "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1415304208178466817/pu/img/hfLnQn24Bgw1VqLk.jpg",
+                    "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1415304208178466817/pu/img/hfLnQn24Bgw1VqLk.jpg",
+                    "url": "https://t.co/KttZ6F5KFe",
+                    "display_url": "pic.twitter.com/KttZ6F5KFe",
+                    "expanded_url": "https://twitter.com/mauriciomacri/status/1415304348221984768/video/1",
+                    "type": "photo",
+                    "sizes": {
+                        "medium": {
+                            "w": 640,
+                            "h": 640,
+                            "resize": "fit"
+                        },
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "large": {
+                            "w": 640,
+                            "h": 640,
+                            "resize": "fit"
+                        },
+                        "small": {
+                            "w": 640,
+                            "h": 640,
+                            "resize": "fit"
+                        }
+                    }
+                }
+            ]
+        },
+        "extended_entities": {
+            "media": [
+                {
+                    "id": 1415304208178466817,
+                    "id_str": "1415304208178466817",
+                    "indices": [
+                        68,
+                        91
+                    ],
+                    "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1415304208178466817/pu/img/hfLnQn24Bgw1VqLk.jpg",
+                    "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1415304208178466817/pu/img/hfLnQn24Bgw1VqLk.jpg",
+                    "url": "https://t.co/KttZ6F5KFe",
+                    "display_url": "pic.twitter.com/KttZ6F5KFe",
+                    "expanded_url": "https://twitter.com/mauriciomacri/status/1415304348221984768/video/1",
+                    "type": "video",
+                    "sizes": {
+                        "medium": {
+                            "w": 640,
+                            "h": 640,
+                            "resize": "fit"
+                        },
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "large": {
+                            "w": 640,
+                            "h": 640,
+                            "resize": "fit"
+                        },
+                        "small": {
+                            "w": 640,
+                            "h": 640,
+                            "resize": "fit"
+                        }
+                    },
+                    "video_info": {
+                        "aspect_ratio": [
+                            1,
+                            1
+                        ],
+                        "duration_millis": 40933,
+                        "variants": [
+                            {
+                                "bitrate": 432000,
+                                "content_type": "video/mp4",
+                                "url": "https://video.twimg.com/ext_tw_video/1415304208178466817/pu/vid/320x320/YGAobpImt2I_kGEY.mp4?tag=12"
+                            },
+                            {
+                                "bitrate": 832000,
+                                "content_type": "video/mp4",
+                                "url": "https://video.twimg.com/ext_tw_video/1415304208178466817/pu/vid/540x540/6-wvICmXOYomlPK8.mp4?tag=12"
+                            },
+                            {
+                                "bitrate": 1280000,
+                                "content_type": "video/mp4",
+                                "url": "https://video.twimg.com/ext_tw_video/1415304208178466817/pu/vid/640x640/DSL-DU98jPrIFZTH.mp4?tag=12"
+                            },
+                            {
+                                "content_type": "application/x-mpegURL",
+                                "url": "https://video.twimg.com/ext_tw_video/1415304208178466817/pu/pl/_2YT7Vlh8mnpOwra.m3u8?tag=12&container=fmp4"
+                            }
+                        ]
+                    },
+                    "additional_media_info": {
+                        "monetizable": false
+                    }
+                }
+            ]
+        },
+        "metadata": {
+            "iso_language_code": "es",
+            "result_type": "recent"
+        },
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 24900072,
+            "id_str": "24900072",
+            "name": "Mauricio Macri",
+            "screen_name": "mauriciomacri",
+            "location": "Buenos Aires, Argentina",
+            "description": "Ex presidente de la Rep\u00fablica Argentina. Miembro fundador de PRO Argentina y Cambiemos. Casado. 4 hijos. Hincha de Boca.",
+            "url": "https://t.co/wTNCQ6fzyK",
+            "entities": {
+                "url": {
+                    "urls": [
+                        {
+                            "url": "https://t.co/wTNCQ6fzyK",
+                            "expanded_url": "http://www.mauriciomacri.com.ar/",
+                            "display_url": "mauriciomacri.com.ar",
+                            "indices": [
+                                0,
+                                23
+                            ]
+                        }
+                    ]
+                },
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 5111855,
+            "friends_count": 634,
+            "listed_count": 7365,
+            "created_at": "Tue Mar 17 15:42:21 +0000 2009",
+            "favourites_count": 124,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": true,
+            "verified": true,
+            "statuses_count": 10307,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "000000",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/653558348273569792/joxg8DZD_normal.png",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/653558348273569792/joxg8DZD_normal.png",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/24900072/1574719653",
+            "profile_link_color": "0083B3",
+            "profile_sidebar_border_color": "FFFFFF",
+            "profile_sidebar_fill_color": "CFEDF7",
+            "profile_text_color": "000000",
+            "profile_use_background_image": true,
+            "has_extended_profile": false,
+            "default_profile": false,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none",
+            "withheld_in_countries": []
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 5897,
+        "favorite_count": 17489,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "es"
+    },
+    "is_quote_status": false,
+    "retweet_count": 5897,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "es"
+}

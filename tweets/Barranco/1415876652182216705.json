@@ -1,0 +1,331 @@
+{
+    "created_at": "Fri Jul 16 03:31:14 +0000 2021",
+    "id": 1415876652182216705,
+    "id_str": "1415876652182216705",
+    "full_text": "RT @TuMundoADiario: \ud83c\uddf7\ud83c\uddfa  #LoViral #Internacional  Dos mujeres que eran empujadas sobre un columpio, cayeron hacia un barranco de mil 920 met\u2026",
+    "truncated": false,
+    "display_text_range": [
+        0,
+        140
+    ],
+    "entities": {
+        "hashtags": [
+            {
+                "text": "LoViral",
+                "indices": [
+                    24,
+                    32
+                ]
+            },
+            {
+                "text": "Internacional",
+                "indices": [
+                    33,
+                    47
+                ]
+            }
+        ],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "TuMundoADiario",
+                "name": "Diario El Mundo",
+                "id": 36291851,
+                "id_str": "36291851",
+                "indices": [
+                    3,
+                    18
+                ]
+            }
+        ],
+        "urls": []
+    },
+    "metadata": {
+        "iso_language_code": "es",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 2844482883,
+        "id_str": "2844482883",
+        "name": "akemi lg",
+        "screen_name": "aakitty7",
+        "location": "en alg\u00fan lugar ",
+        "description": "aqu\u00ed nada m\u00e1s pasando el rato :)",
+        "url": null,
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 128,
+        "friends_count": 275,
+        "listed_count": 4,
+        "created_at": "Sun Oct 26 00:43:43 +0000 2014",
+        "favourites_count": 11762,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 9564,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "131516",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/907037227590418433/NP29rhk__normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/907037227590418433/NP29rhk__normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2844482883/1593931662",
+        "profile_link_color": "009999",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": true,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+        "created_at": "Fri Jul 16 02:01:04 +0000 2021",
+        "id": 1415853962763268097,
+        "id_str": "1415853962763268097",
+        "full_text": "\ud83c\uddf7\ud83c\uddfa  #LoViral #Internacional  Dos mujeres que eran empujadas sobre un columpio, cayeron hacia un barranco de mil 920 metros en el ca\u00f1\u00f3n Sulak en Daguest\u00e1n, Rusia. Afortunadamente cayeron sobre una plataforma de madera que las detuvo y sobrevivieron para contarlo. https://t.co/z6d308dags",
+        "truncated": false,
+        "display_text_range": [
+            0,
+            262
+        ],
+        "entities": {
+            "hashtags": [
+                {
+                    "text": "LoViral",
+                    "indices": [
+                        4,
+                        12
+                    ]
+                },
+                {
+                    "text": "Internacional",
+                    "indices": [
+                        13,
+                        27
+                    ]
+                }
+            ],
+            "symbols": [],
+            "user_mentions": [],
+            "urls": [],
+            "media": [
+                {
+                    "id": 1415853832148422656,
+                    "id_str": "1415853832148422656",
+                    "indices": [
+                        263,
+                        286
+                    ],
+                    "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1415853832148422656/pu/img/Kpkl9_LFd8Ssu2A0.jpg",
+                    "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1415853832148422656/pu/img/Kpkl9_LFd8Ssu2A0.jpg",
+                    "url": "https://t.co/z6d308dags",
+                    "display_url": "pic.twitter.com/z6d308dags",
+                    "expanded_url": "https://twitter.com/TuMundoADiario/status/1415853962763268097/video/1",
+                    "type": "photo",
+                    "sizes": {
+                        "small": {
+                            "w": 480,
+                            "h": 480,
+                            "resize": "fit"
+                        },
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "large": {
+                            "w": 480,
+                            "h": 480,
+                            "resize": "fit"
+                        },
+                        "medium": {
+                            "w": 480,
+                            "h": 480,
+                            "resize": "fit"
+                        }
+                    }
+                }
+            ]
+        },
+        "extended_entities": {
+            "media": [
+                {
+                    "id": 1415853832148422656,
+                    "id_str": "1415853832148422656",
+                    "indices": [
+                        263,
+                        286
+                    ],
+                    "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1415853832148422656/pu/img/Kpkl9_LFd8Ssu2A0.jpg",
+                    "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1415853832148422656/pu/img/Kpkl9_LFd8Ssu2A0.jpg",
+                    "url": "https://t.co/z6d308dags",
+                    "display_url": "pic.twitter.com/z6d308dags",
+                    "expanded_url": "https://twitter.com/TuMundoADiario/status/1415853962763268097/video/1",
+                    "type": "video",
+                    "sizes": {
+                        "small": {
+                            "w": 480,
+                            "h": 480,
+                            "resize": "fit"
+                        },
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "large": {
+                            "w": 480,
+                            "h": 480,
+                            "resize": "fit"
+                        },
+                        "medium": {
+                            "w": 480,
+                            "h": 480,
+                            "resize": "fit"
+                        }
+                    },
+                    "video_info": {
+                        "aspect_ratio": [
+                            1,
+                            1
+                        ],
+                        "duration_millis": 29238,
+                        "variants": [
+                            {
+                                "bitrate": 832000,
+                                "content_type": "video/mp4",
+                                "url": "https://video.twimg.com/ext_tw_video/1415853832148422656/pu/vid/480x480/wCWDlWv4eFrHjK-7.mp4?tag=12"
+                            },
+                            {
+                                "bitrate": 432000,
+                                "content_type": "video/mp4",
+                                "url": "https://video.twimg.com/ext_tw_video/1415853832148422656/pu/vid/320x320/vyDtIyTvQqO17jRH.mp4?tag=12"
+                            },
+                            {
+                                "content_type": "application/x-mpegURL",
+                                "url": "https://video.twimg.com/ext_tw_video/1415853832148422656/pu/pl/NEYIXnyV3Z4q-E6m.m3u8?tag=12&container=fmp4"
+                            }
+                        ]
+                    },
+                    "additional_media_info": {
+                        "monetizable": false
+                    }
+                }
+            ]
+        },
+        "metadata": {
+            "iso_language_code": "es",
+            "result_type": "recent"
+        },
+        "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 36291851,
+            "id_str": "36291851",
+            "name": "Diario El Mundo",
+            "screen_name": "TuMundoADiario",
+            "location": "C\u00f3rdoba, Veracruz",
+            "description": "Tu mundo a diario...",
+            "url": "https://t.co/nihP6yfTgv",
+            "entities": {
+                "url": {
+                    "urls": [
+                        {
+                            "url": "https://t.co/nihP6yfTgv",
+                            "expanded_url": "http://www.diarioelmundo.com.mx",
+                            "display_url": "diarioelmundo.com.mx",
+                            "indices": [
+                                0,
+                                23
+                            ]
+                        }
+                    ]
+                },
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 33907,
+            "friends_count": 4644,
+            "listed_count": 357,
+            "created_at": "Wed Apr 29 04:57:52 +0000 2009",
+            "favourites_count": 52,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": false,
+            "verified": false,
+            "statuses_count": 223859,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "0099B9",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme4/bg.gif",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme4/bg.gif",
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1322910110235168771/MwWBAN-e_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1322910110235168771/MwWBAN-e_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/36291851/1586311862",
+            "profile_link_color": "0099B9",
+            "profile_sidebar_border_color": "5ED4DC",
+            "profile_sidebar_fill_color": "95E8EC",
+            "profile_text_color": "3C3940",
+            "profile_use_background_image": true,
+            "has_extended_profile": true,
+            "default_profile": false,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none",
+            "withheld_in_countries": []
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 2,
+        "favorite_count": 1,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "es"
+    },
+    "is_quote_status": false,
+    "retweet_count": 2,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "es"
+}

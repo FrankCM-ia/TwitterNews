@@ -1,0 +1,97 @@
+{
+    "created_at": "Thu Jul 15 20:36:45 +0000 2021",
+    "id": 1415772347039162370,
+    "id_str": "1415772347039162370",
+    "full_text": "@ivanedlm Otro que se tir\u00f3 por el barranco.",
+    "truncated": false,
+    "display_text_range": [
+        10,
+        43
+    ],
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "ivanedlm",
+                "name": "Iv\u00e1n Espinosa de los Monteros",
+                "id": 48976307,
+                "id_str": "48976307",
+                "indices": [
+                    0,
+                    9
+                ]
+            }
+        ],
+        "urls": []
+    },
+    "metadata": {
+        "iso_language_code": "es",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+    "in_reply_to_status_id": 1415445412157300737,
+    "in_reply_to_status_id_str": "1415445412157300737",
+    "in_reply_to_user_id": 48976307,
+    "in_reply_to_user_id_str": "48976307",
+    "in_reply_to_screen_name": "ivanedlm",
+    "user": {
+        "id": 1045614091,
+        "id_str": "1045614091",
+        "name": "jlpp",
+        "screen_name": "jlpp_Yo",
+        "location": "Madrid",
+        "description": "",
+        "url": null,
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 237,
+        "friends_count": 784,
+        "listed_count": 0,
+        "created_at": "Sat Dec 29 18:16:19 +0000 2012",
+        "favourites_count": 34701,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 4201,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1412342708950216706/SXw1Y-f0_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1412342708950216706/SXw1Y-f0_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1045614091/1625563717",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": true,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "es"
+}

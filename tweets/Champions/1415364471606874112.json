@@ -1,0 +1,97 @@
+{
+    "created_at": "Wed Jul 14 17:36:00 +0000 2021",
+    "id": 1415364471606874112,
+    "id_str": "1415364471606874112",
+    "full_text": "@TORRESrobe 3 a\u00f1os y solo dos de titular\n\nLas otras nom\u00e1s de cambio, le daban preferencia a Van Persie\n\nY la champions ni la jug\u00f3\n\nPero en fin",
+    "truncated": false,
+    "display_text_range": [
+        12,
+        142
+    ],
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "TORRESrobe",
+                "name": "Robe Torres \u26aa",
+                "id": 369803144,
+                "id_str": "369803144",
+                "indices": [
+                    0,
+                    11
+                ]
+            }
+        ],
+        "urls": []
+    },
+    "metadata": {
+        "iso_language_code": "es",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "in_reply_to_status_id": 1415363459202654208,
+    "in_reply_to_status_id_str": "1415363459202654208",
+    "in_reply_to_user_id": 369803144,
+    "in_reply_to_user_id_str": "369803144",
+    "in_reply_to_screen_name": "TORRESrobe",
+    "user": {
+        "id": 1374703161311703041,
+        "id_str": "1374703161311703041",
+        "name": "Celsito Ortyz",
+        "screen_name": "pacorroelrorro1",
+        "location": "De \u0427\u0435\u0447\u0435\u043d\u0441\u043a\u0430\u044f \u0420\u0435\u0441\u043f\u0443\u0431\u043b pal mundo",
+        "description": "\u041d\u043e\u0445\u0447\u0438\u0439\u0447\u043e\u044c\nRayado a morir\n\u041c\u043e\u044f \u0441\u0435\u043c\u044c\u044f - \u043c\u043e\u0439 \u0434\u0432\u0438\u0433\u0430\u0442\u0435\u043b\u044c\n\u0417\u0430 \u043f\u043e\u043b\u0438\u0442\u0438\u0447\u0435\u0441\u043a\u0443\u044e \u0441\u043e\u0432\u0435\u0441\u0442\u044c \u0432 \u043f\u043e\u043b\u044c\u0437\u0443 \u041c\u0435\u043a\u0441\u0438\u043a\u0438",
+        "url": null,
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 1036,
+        "friends_count": 1341,
+        "listed_count": 2,
+        "created_at": "Wed Mar 24 12:42:58 +0000 2021",
+        "favourites_count": 22781,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 14918,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": null,
+        "profile_background_image_url_https": null,
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1401959965984763909/fhm2ftCF_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1401959965984763909/fhm2ftCF_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1374703161311703041/1622515349",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": true,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 1,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "es"
+}

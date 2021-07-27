@@ -1,0 +1,117 @@
+{
+    "created_at": "Wed Jul 14 17:29:17 +0000 2021",
+    "id": 1415362780530622465,
+    "id_str": "1415362780530622465",
+    "full_text": "@JONNATHANPLU @NachoJP_ @RadioFCB Yo antes era asi, defendia que messi ganara 50k pero cuando me entere que ganaba 75 no se puede bro, imposible qie podamos sentarnos aplaudir eso viendo como llevan a\u00f1os sin llegar si quiera  a una final de champions. Despu\u00e9s del 2-8 como caminaban incluyendo messi te parece \ud83d\udc94",
+    "truncated": false,
+    "display_text_range": [
+        34,
+        311
+    ],
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "JONNATHANPLU",
+                "name": "Jonnathan Montezuma",
+                "id": 1205668495,
+                "id_str": "1205668495",
+                "indices": [
+                    0,
+                    13
+                ]
+            },
+            {
+                "screen_name": "NachoJP_",
+                "name": "Nacho Jim\u00e9nez",
+                "id": 2982697647,
+                "id_str": "2982697647",
+                "indices": [
+                    14,
+                    23
+                ]
+            },
+            {
+                "screen_name": "RadioFCB",
+                "name": "Radio Bar\u00e7a \u00ae\ufe0f\ud83d\udd0a",
+                "id": 1160881962,
+                "id_str": "1160881962",
+                "indices": [
+                    24,
+                    33
+                ]
+            }
+        ],
+        "urls": []
+    },
+    "metadata": {
+        "iso_language_code": "es",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "in_reply_to_status_id": 1415358239273857028,
+    "in_reply_to_status_id_str": "1415358239273857028",
+    "in_reply_to_user_id": 1205668495,
+    "in_reply_to_user_id_str": "1205668495",
+    "in_reply_to_screen_name": "JONNATHANPLU",
+    "user": {
+        "id": 2779455993,
+        "id_str": "2779455993",
+        "name": "PasionPorElBalon\u26bd",
+        "screen_name": "OlnySoccer",
+        "location": "",
+        "description": "\ud83c\udfd6 \u26bd \ud83c\udf0f  \u2708 \ud83c\udfab",
+        "url": null,
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 95,
+        "friends_count": 236,
+        "listed_count": 0,
+        "created_at": "Sun Sep 21 20:04:56 +0000 2014",
+        "favourites_count": 12992,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 10180,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1399046666586673158/ZRmMkjDh_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1399046666586673158/ZRmMkjDh_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2779455993/1596308183",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": true,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "es"
+}

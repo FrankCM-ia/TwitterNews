@@ -1,0 +1,107 @@
+{
+    "created_at": "Fri Jul 16 00:15:23 +0000 2021",
+    "id": 1415827364903325700,
+    "id_str": "1415827364903325700",
+    "full_text": "@Atopedepower10 @PabloEchenique Errej\u00f3n , imposible, \"trabaja\" tres d\u00edas a la semana; quiz\u00e1s, Redondo en el barranco lleve 20 horas escalando para salir!",
+    "truncated": false,
+    "display_text_range": [
+        32,
+        153
+    ],
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "Atopedepower10",
+                "name": "\ud83c\uddea\ud83c\uddf8RubiaVox",
+                "id": 1353115766359547904,
+                "id_str": "1353115766359547904",
+                "indices": [
+                    0,
+                    15
+                ]
+            },
+            {
+                "screen_name": "PabloEchenique",
+                "name": "Pablo Echenique",
+                "id": 25555639,
+                "id_str": "25555639",
+                "indices": [
+                    16,
+                    31
+                ]
+            }
+        ],
+        "urls": []
+    },
+    "metadata": {
+        "iso_language_code": "es",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "in_reply_to_status_id": 1415780380548947975,
+    "in_reply_to_status_id_str": "1415780380548947975",
+    "in_reply_to_user_id": 1353115766359547904,
+    "in_reply_to_user_id_str": "1353115766359547904",
+    "in_reply_to_screen_name": "Atopedepower10",
+    "user": {
+        "id": 1080013740,
+        "id_str": "1080013740",
+        "name": "RAY . Mayo, #1.808",
+        "screen_name": "ramon1953uc",
+        "location": "Spain",
+        "description": "Peat\u00f3n del mundo, lo material importa pero m\u00e1s sentirse libre y\n\n feliz amando y respetando,",
+        "url": null,
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 3385,
+        "friends_count": 4998,
+        "listed_count": 21,
+        "created_at": "Fri Jan 11 15:25:27 +0000 2013",
+        "favourites_count": 47026,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 117056,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/758789100027588608/jxTVMVVM_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/758789100027588608/jxTVMVVM_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1080013740/1416103963",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 1,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "es"
+}

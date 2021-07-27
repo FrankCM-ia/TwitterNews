@@ -1,0 +1,158 @@
+{
+    "created_at": "Thu Jul 15 21:13:11 +0000 2021",
+    "id": 1415781512096763905,
+    "id_str": "1415781512096763905",
+    "full_text": "@_VicenteSerrano @julioastillero @CarlosLoret @LAURABARRANCO @jmmaganap Por cierto, @_VicenteSerrano, lo que se\u00f1ala el video editado por Loret, no es algo que se desconociera: Que ni Laura Barranco o Juan Manuel Maga\u00f1a ten\u00edan idea de que se trataba de un montaje ni lo idearon as\u00ed hasta tiempo despu\u00e9s: https://t.co/jnqpD6D7oh.",
+    "truncated": false,
+    "display_text_range": [
+        72,
+        327
+    ],
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "_VicenteSerrano",
+                "name": "Sin Censura",
+                "id": 628750106,
+                "id_str": "628750106",
+                "indices": [
+                    0,
+                    16
+                ]
+            },
+            {
+                "screen_name": "julioastillero",
+                "name": "Julio Astillero",
+                "id": 52422182,
+                "id_str": "52422182",
+                "indices": [
+                    17,
+                    32
+                ]
+            },
+            {
+                "screen_name": "CarlosLoret",
+                "name": "Carlos Loret de Mola",
+                "id": 68844197,
+                "id_str": "68844197",
+                "indices": [
+                    33,
+                    45
+                ]
+            },
+            {
+                "screen_name": "LAURABARRANCO",
+                "name": "Laura Barranco",
+                "id": 118627815,
+                "id_str": "118627815",
+                "indices": [
+                    46,
+                    60
+                ]
+            },
+            {
+                "screen_name": "jmmaganap",
+                "name": "Juan Manuel Maga\u00f1a",
+                "id": 313712713,
+                "id_str": "313712713",
+                "indices": [
+                    61,
+                    71
+                ]
+            },
+            {
+                "screen_name": "_VicenteSerrano",
+                "name": "Sin Censura",
+                "id": 628750106,
+                "id_str": "628750106",
+                "indices": [
+                    84,
+                    100
+                ]
+            }
+        ],
+        "urls": [
+            {
+                "url": "https://t.co/jnqpD6D7oh",
+                "expanded_url": "https://www.youtube.com/watch?v=pX1StV_JztE&t=1940s",
+                "display_url": "youtube.com/watch?v=pX1StV\u2026",
+                "indices": [
+                    303,
+                    326
+                ]
+            }
+        ]
+    },
+    "metadata": {
+        "iso_language_code": "es",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "in_reply_to_status_id": 1415763335694405640,
+    "in_reply_to_status_id_str": "1415763335694405640",
+    "in_reply_to_user_id": 628750106,
+    "in_reply_to_user_id_str": "628750106",
+    "in_reply_to_screen_name": "_VicenteSerrano",
+    "user": {
+        "id": 159193534,
+        "id_str": "159193534",
+        "name": "DJ Enyix",
+        "screen_name": "djenyix",
+        "location": "Distrito Federal",
+        "description": "Mit\u00f3mano \u00e9mulo de Alfredo Jalife (en lo mit\u00f3mano). Condecorado con Medalla de Honor, una vez le gan\u00e9 a Chuck Norris a las vencidas usando solo mi dedo me\u00f1ique.",
+        "url": null,
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 49,
+        "friends_count": 179,
+        "listed_count": 4,
+        "created_at": "Thu Jun 24 18:30:43 +0000 2010",
+        "favourites_count": 433,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 2694,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1530333489/FotoEnyix_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1530333489/FotoEnyix_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/159193534/1621009356",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "es"
+}

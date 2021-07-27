@@ -1,0 +1,261 @@
+{
+    "created_at": "Thu Jul 15 06:14:57 +0000 2021",
+    "id": 1415555465208025090,
+    "id_str": "1415555465208025090",
+    "full_text": "RT @keteden191: Toda Espa\u00f1a estamos esperando: \nQ te tires al Barranco.pero q sea x el \"gran ca\u00f1\u00f3n del colorado\" Nunca un dirigente hubo co\u2026",
+    "truncated": false,
+    "display_text_range": [
+        0,
+        140
+    ],
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "keteden191",
+                "name": "keteden19",
+                "id": 1245377492011102211,
+                "id_str": "1245377492011102211",
+                "indices": [
+                    3,
+                    14
+                ]
+            }
+        ],
+        "urls": []
+    },
+    "metadata": {
+        "iso_language_code": "es",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 1241759325137375232,
+        "id_str": "1241759325137375232",
+        "name": "Mathusal\u00e9n",
+        "screen_name": "mathusalen2020",
+        "location": "M\u00e1laga (Espa\u00f1a)",
+        "description": "Jubilado en ejercicio",
+        "url": null,
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 572,
+        "friends_count": 1932,
+        "listed_count": 0,
+        "created_at": "Sun Mar 22 16:11:22 +0000 2020",
+        "favourites_count": 13509,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 118515,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": null,
+        "profile_background_image_url_https": null,
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1327673300856737792/L7go1r8S_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1327673300856737792/L7go1r8S_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1241759325137375232/1599578218",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": true,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+        "created_at": "Thu Jul 15 06:05:52 +0000 2021",
+        "id": 1415553181518647296,
+        "id_str": "1415553181518647296",
+        "full_text": "Toda Espa\u00f1a estamos esperando: \nQ te tires al Barranco.pero q sea x el \"gran ca\u00f1\u00f3n del colorado\" Nunca un dirigente hubo con m\u00e1s poca verg\u00fcenza, ni hizo m\u00e1s  da\u00f1o a Espa\u00f1a \nUn traidor sin escr\u00fapulo un enemigo\nHist\u00f3rico \" no te vamos a olvidar\" \n\"KABRONAZO\" RTW https://t.co/qtOCK1lL4M",
+        "truncated": false,
+        "display_text_range": [
+            0,
+            260
+        ],
+        "entities": {
+            "hashtags": [],
+            "symbols": [],
+            "user_mentions": [],
+            "urls": [],
+            "media": [
+                {
+                    "id": 1415553178578337793,
+                    "id_str": "1415553178578337793",
+                    "indices": [
+                        261,
+                        284
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/E6UOHbHWQAExh5f.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/E6UOHbHWQAExh5f.jpg",
+                    "url": "https://t.co/qtOCK1lL4M",
+                    "display_url": "pic.twitter.com/qtOCK1lL4M",
+                    "expanded_url": "https://twitter.com/keteden191/status/1415553181518647296/photo/1",
+                    "type": "photo",
+                    "sizes": {
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "large": {
+                            "w": 2048,
+                            "h": 1536,
+                            "resize": "fit"
+                        },
+                        "small": {
+                            "w": 680,
+                            "h": 510,
+                            "resize": "fit"
+                        },
+                        "medium": {
+                            "w": 1200,
+                            "h": 900,
+                            "resize": "fit"
+                        }
+                    }
+                }
+            ]
+        },
+        "extended_entities": {
+            "media": [
+                {
+                    "id": 1415553178578337793,
+                    "id_str": "1415553178578337793",
+                    "indices": [
+                        261,
+                        284
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/E6UOHbHWQAExh5f.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/E6UOHbHWQAExh5f.jpg",
+                    "url": "https://t.co/qtOCK1lL4M",
+                    "display_url": "pic.twitter.com/qtOCK1lL4M",
+                    "expanded_url": "https://twitter.com/keteden191/status/1415553181518647296/photo/1",
+                    "type": "photo",
+                    "sizes": {
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "large": {
+                            "w": 2048,
+                            "h": 1536,
+                            "resize": "fit"
+                        },
+                        "small": {
+                            "w": 680,
+                            "h": 510,
+                            "resize": "fit"
+                        },
+                        "medium": {
+                            "w": 1200,
+                            "h": 900,
+                            "resize": "fit"
+                        }
+                    }
+                }
+            ]
+        },
+        "metadata": {
+            "iso_language_code": "es",
+            "result_type": "recent"
+        },
+        "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 1245377492011102211,
+            "id_str": "1245377492011102211",
+            "name": "keteden19",
+            "screen_name": "keteden191",
+            "location": "",
+            "description": "espa\u00f1ol de principio",
+            "url": null,
+            "entities": {
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 728,
+            "friends_count": 811,
+            "listed_count": 0,
+            "created_at": "Wed Apr 01 15:49:00 +0000 2020",
+            "favourites_count": 7878,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": true,
+            "verified": false,
+            "statuses_count": 11600,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "F5F8FA",
+            "profile_background_image_url": null,
+            "profile_background_image_url_https": null,
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1413231764705787906/qBFvZCjT_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1413231764705787906/qBFvZCjT_normal.jpg",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "has_extended_profile": false,
+            "default_profile": true,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none",
+            "withheld_in_countries": []
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 3,
+        "favorite_count": 3,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "es"
+    },
+    "is_quote_status": false,
+    "retweet_count": 3,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "es"
+}

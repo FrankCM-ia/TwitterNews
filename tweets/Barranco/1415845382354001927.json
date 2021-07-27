@@ -1,0 +1,97 @@
+{
+    "created_at": "Fri Jul 16 01:26:58 +0000 2021",
+    "id": 1415845382354001927,
+    "id_str": "1415845382354001927",
+    "full_text": "@DrSleep88 Esta s\u00ed le gan\u00f3 a la del barranco.",
+    "truncated": false,
+    "display_text_range": [
+        11,
+        45
+    ],
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "DrSleep88",
+                "name": "D r. S u e \u00f1 o",
+                "id": 825159990180671488,
+                "id_str": "825159990180671488",
+                "indices": [
+                    0,
+                    10
+                ]
+            }
+        ],
+        "urls": []
+    },
+    "metadata": {
+        "iso_language_code": "es",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "in_reply_to_status_id": 1415830932871909377,
+    "in_reply_to_status_id_str": "1415830932871909377",
+    "in_reply_to_user_id": 825159990180671488,
+    "in_reply_to_user_id_str": "825159990180671488",
+    "in_reply_to_screen_name": "DrSleep88",
+    "user": {
+        "id": 890323186906214402,
+        "id_str": "890323186906214402",
+        "name": "\ud83d\udfe3",
+        "screen_name": "DrNopalito",
+        "location": "La Ciudad De Las Monta\u00f1as",
+        "description": "DGO\ud83e\udd82-\ud83d\udc0e MTY | MD\ud83d\udd2c\ud83c\udfe5 | LGBT\ud835\udc10 \ud83c\udff3\ufe0f\u200d\ud83c\udf08 EBM + mame \ud83d\udcda | Tweets \u2260 Advice nor endorsed | Opinions = My own | Autistic \ud83d\udc99 Jew-ish \u2721",
+        "url": null,
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 554,
+        "friends_count": 341,
+        "listed_count": 1,
+        "created_at": "Wed Jul 26 21:29:23 +0000 2017",
+        "favourites_count": 50098,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 13097,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": null,
+        "profile_background_image_url_https": null,
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1415015801162244101/LtivUTkS_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1415015801162244101/LtivUTkS_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/890323186906214402/1613684538",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": true,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 5,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "es"
+}

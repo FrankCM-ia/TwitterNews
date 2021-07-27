@@ -1,0 +1,243 @@
+{
+    "created_at": "Fri Jul 16 05:12:49 +0000 2021",
+    "id": 1415902216809025538,
+    "id_str": "1415902216809025538",
+    "full_text": "RT @larepublica_pe: \ud83d\udea8 #LO\u00daLTIMO | Puno: rescatan cad\u00e1ver de turista que cay\u00f3 a barranco en el nevado Allinccapac\n\nSeg\u00fan la Polic\u00eda, los tur\u2026",
+    "truncated": false,
+    "display_text_range": [
+        0,
+        140
+    ],
+    "entities": {
+        "hashtags": [
+            {
+                "text": "LO\u00daLTIMO",
+                "indices": [
+                    22,
+                    31
+                ]
+            }
+        ],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "larepublica_pe",
+                "name": "Diario La Rep\u00fablica",
+                "id": 66746614,
+                "id_str": "66746614",
+                "indices": [
+                    3,
+                    18
+                ]
+            }
+        ],
+        "urls": []
+    },
+    "metadata": {
+        "iso_language_code": "es",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 2367472622,
+        "id_str": "2367472622",
+        "name": "Salud en Casa",
+        "screen_name": "Salud_en_casa1",
+        "location": "Peru",
+        "description": "Somos  un espacio dedicado a la poblaci\u00f3n, mediante consejos de especialistas de salud.. Encuentranos en: https://t.co/Go6ekrNKLX",
+        "url": null,
+        "entities": {
+            "description": {
+                "urls": [
+                    {
+                        "url": "https://t.co/Go6ekrNKLX",
+                        "expanded_url": "https://www.facebook.com/pages/Salud-en-Casa/459742357428274?focus_composer=true&ref_type=bookmark",
+                        "display_url": "facebook.com/pages/Salud-en\u2026",
+                        "indices": [
+                            106,
+                            129
+                        ]
+                    }
+                ]
+            }
+        },
+        "protected": false,
+        "followers_count": 8144,
+        "friends_count": 3368,
+        "listed_count": 86,
+        "created_at": "Sat Mar 01 18:54:22 +0000 2014",
+        "favourites_count": 78188,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 112540,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "B2DFDA",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1409175268682612745/pivFwsPT_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1409175268682612745/pivFwsPT_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2367472622/1622726039",
+        "profile_link_color": "93A644",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": true,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+        "created_at": "Fri Jul 16 05:04:42 +0000 2021",
+        "id": 1415900174153621506,
+        "id_str": "1415900174153621506",
+        "full_text": "\ud83d\udea8 #LO\u00daLTIMO | Puno: rescatan cad\u00e1ver de turista que cay\u00f3 a barranco en el nevado Allinccapac\n\nSeg\u00fan la Polic\u00eda, los turistas decidieron ascender el nevado sin gu\u00eda. La embajada de Estados Unidos solicit\u00f3 a las autoridades agilizar las tareas de rescate.\n\nhttps://t.co/p5A5jBOoef",
+        "truncated": false,
+        "display_text_range": [
+            0,
+            278
+        ],
+        "entities": {
+            "hashtags": [
+                {
+                    "text": "LO\u00daLTIMO",
+                    "indices": [
+                        2,
+                        11
+                    ]
+                }
+            ],
+            "symbols": [],
+            "user_mentions": [],
+            "urls": [
+                {
+                    "url": "https://t.co/p5A5jBOoef",
+                    "expanded_url": "https://larepublica.pe/sociedad/2021/07/15/puno-rescatan-cadaver-de-turista-que-cayo-a-barranco-en-el-nevado-allinccapac-lrsd/",
+                    "display_url": "larepublica.pe/sociedad/2021/\u2026",
+                    "indices": [
+                        255,
+                        278
+                    ]
+                }
+            ]
+        },
+        "metadata": {
+            "iso_language_code": "es",
+            "result_type": "recent"
+        },
+        "source": "<a href=\"https://www.hootsuite.com\" rel=\"nofollow\">Hootsuite Inc.</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 66746614,
+            "id_str": "66746614",
+            "name": "Diario La Rep\u00fablica",
+            "screen_name": "larepublica_pe",
+            "location": "Lima, Per\u00fa",
+            "description": "Te informamos aqu\u00ed lo que sucede en Per\u00fa y el mundo. S\u00edguenos: @Politica_LR @DeportesLR @LRTendencias @VerificadorLR @Domingo_LR\n\u27a1 https://t.co/HkEjb13UCB",
+            "url": "https://t.co/WEiyb5UFcO",
+            "entities": {
+                "url": {
+                    "urls": [
+                        {
+                            "url": "https://t.co/WEiyb5UFcO",
+                            "expanded_url": "https://larepublica.pe/",
+                            "display_url": "larepublica.pe",
+                            "indices": [
+                                0,
+                                23
+                            ]
+                        }
+                    ]
+                },
+                "description": {
+                    "urls": [
+                        {
+                            "url": "https://t.co/HkEjb13UCB",
+                            "expanded_url": "http://instagram.com/larepublica_pe/",
+                            "display_url": "instagram.com/larepublica_pe/",
+                            "indices": [
+                                131,
+                                154
+                            ]
+                        }
+                    ]
+                }
+            },
+            "protected": false,
+            "followers_count": 2439145,
+            "friends_count": 912,
+            "listed_count": 5164,
+            "created_at": "Tue Aug 18 17:49:35 +0000 2009",
+            "favourites_count": 1099,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": true,
+            "verified": true,
+            "statuses_count": 613940,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "FFFFFF",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+            "profile_background_tile": true,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1381339673021267974/KbnnoMEE_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1381339673021267974/KbnnoMEE_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/66746614/1582064376",
+            "profile_link_color": "BD0D0D",
+            "profile_sidebar_border_color": "FFFFFF",
+            "profile_sidebar_fill_color": "F7F7F7",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "has_extended_profile": false,
+            "default_profile": false,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none",
+            "withheld_in_countries": []
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 7,
+        "favorite_count": 12,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "es"
+    },
+    "is_quote_status": false,
+    "retweet_count": 7,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "es"
+}

@@ -1,0 +1,466 @@
+{
+    "created_at": "Wed Jul 14 16:00:19 +0000 2021",
+    "id": 1415340391491162116,
+    "id_str": "1415340391491162116",
+    "full_text": "RT @DeZurdaTeam: Los legisladores estadounidenses de Florida @marcorubio @MarioDB @MaElviraSalazar @RepCarlos tienen las manos manchadas de\u2026",
+    "truncated": false,
+    "display_text_range": [
+        0,
+        140
+    ],
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "DeZurdaTeam",
+                "name": "DeZurdaTeam",
+                "id": 1210114575942717441,
+                "id_str": "1210114575942717441",
+                "indices": [
+                    3,
+                    15
+                ]
+            },
+            {
+                "screen_name": "marcorubio",
+                "name": "Marco Rubio",
+                "id": 15745368,
+                "id_str": "15745368",
+                "indices": [
+                    61,
+                    72
+                ]
+            },
+            {
+                "screen_name": "MarioDB",
+                "name": "Mario Diaz-Balart",
+                "id": 37094727,
+                "id_str": "37094727",
+                "indices": [
+                    73,
+                    81
+                ]
+            },
+            {
+                "screen_name": "MaElviraSalazar",
+                "name": "Mar\u00eda Elvira Salazar \ud83c\uddfa\ud83c\uddf8",
+                "id": 40282700,
+                "id_str": "40282700",
+                "indices": [
+                    82,
+                    98
+                ]
+            },
+            {
+                "screen_name": "RepCarlos",
+                "name": "Congressman Carlos A. Gimenez",
+                "id": 1343679195034103808,
+                "id_str": "1343679195034103808",
+                "indices": [
+                    99,
+                    109
+                ]
+            }
+        ],
+        "urls": []
+    },
+    "metadata": {
+        "iso_language_code": "es",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 870881040,
+        "id_str": "870881040",
+        "name": "Omar Ca\u00f1ongo",
+        "screen_name": "oect0301",
+        "location": "Venezuela. Estado Miranda.",
+        "description": "",
+        "url": null,
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 2168,
+        "friends_count": 2598,
+        "listed_count": 10,
+        "created_at": "Wed Oct 10 01:14:25 +0000 2012",
+        "favourites_count": 4233,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 63517,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1228042199641796609/kzO-iaZp_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1228042199641796609/kzO-iaZp_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/870881040/1581623105",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": true,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+        "created_at": "Wed Jul 14 12:50:53 +0000 2021",
+        "id": 1415292717437968384,
+        "id_str": "1415292717437968384",
+        "full_text": "Los legisladores estadounidenses de Florida @marcorubio @MarioDB @MaElviraSalazar @RepCarlos tienen las manos manchadas de sangre.\n\nMiremos bien sus rostros y recuerdemos que estos injerencistas amenazan la seguridad de nuestros hijos. \n\n#MiMoncadaHoy #Cuba https://t.co/DvUFwh6N48",
+        "truncated": false,
+        "display_text_range": [
+            0,
+            257
+        ],
+        "entities": {
+            "hashtags": [
+                {
+                    "text": "MiMoncadaHoy",
+                    "indices": [
+                        238,
+                        251
+                    ]
+                },
+                {
+                    "text": "Cuba",
+                    "indices": [
+                        252,
+                        257
+                    ]
+                }
+            ],
+            "symbols": [],
+            "user_mentions": [
+                {
+                    "screen_name": "marcorubio",
+                    "name": "Marco Rubio",
+                    "id": 15745368,
+                    "id_str": "15745368",
+                    "indices": [
+                        44,
+                        55
+                    ]
+                },
+                {
+                    "screen_name": "MarioDB",
+                    "name": "Mario Diaz-Balart",
+                    "id": 37094727,
+                    "id_str": "37094727",
+                    "indices": [
+                        56,
+                        64
+                    ]
+                },
+                {
+                    "screen_name": "MaElviraSalazar",
+                    "name": "Mar\u00eda Elvira Salazar \ud83c\uddfa\ud83c\uddf8",
+                    "id": 40282700,
+                    "id_str": "40282700",
+                    "indices": [
+                        65,
+                        81
+                    ]
+                },
+                {
+                    "screen_name": "RepCarlos",
+                    "name": "Congressman Carlos A. Gimenez",
+                    "id": 1343679195034103808,
+                    "id_str": "1343679195034103808",
+                    "indices": [
+                        82,
+                        92
+                    ]
+                }
+            ],
+            "urls": [],
+            "media": [
+                {
+                    "id": 1415292689419997190,
+                    "id_str": "1415292689419997190",
+                    "indices": [
+                        258,
+                        281
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/E6QhM9YWEAYxKxy.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/E6QhM9YWEAYxKxy.jpg",
+                    "url": "https://t.co/DvUFwh6N48",
+                    "display_url": "pic.twitter.com/DvUFwh6N48",
+                    "expanded_url": "https://twitter.com/DeZurdaTeam/status/1415292717437968384/photo/1",
+                    "type": "photo",
+                    "sizes": {
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "medium": {
+                            "w": 980,
+                            "h": 658,
+                            "resize": "fit"
+                        },
+                        "large": {
+                            "w": 980,
+                            "h": 658,
+                            "resize": "fit"
+                        },
+                        "small": {
+                            "w": 680,
+                            "h": 457,
+                            "resize": "fit"
+                        }
+                    }
+                }
+            ]
+        },
+        "extended_entities": {
+            "media": [
+                {
+                    "id": 1415292689419997190,
+                    "id_str": "1415292689419997190",
+                    "indices": [
+                        258,
+                        281
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/E6QhM9YWEAYxKxy.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/E6QhM9YWEAYxKxy.jpg",
+                    "url": "https://t.co/DvUFwh6N48",
+                    "display_url": "pic.twitter.com/DvUFwh6N48",
+                    "expanded_url": "https://twitter.com/DeZurdaTeam/status/1415292717437968384/photo/1",
+                    "type": "photo",
+                    "sizes": {
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "medium": {
+                            "w": 980,
+                            "h": 658,
+                            "resize": "fit"
+                        },
+                        "large": {
+                            "w": 980,
+                            "h": 658,
+                            "resize": "fit"
+                        },
+                        "small": {
+                            "w": 680,
+                            "h": 457,
+                            "resize": "fit"
+                        }
+                    }
+                },
+                {
+                    "id": 1415292692259655681,
+                    "id_str": "1415292692259655681",
+                    "indices": [
+                        258,
+                        281
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/E6QhNH9X0AECrX-.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/E6QhNH9X0AECrX-.jpg",
+                    "url": "https://t.co/DvUFwh6N48",
+                    "display_url": "pic.twitter.com/DvUFwh6N48",
+                    "expanded_url": "https://twitter.com/DeZurdaTeam/status/1415292717437968384/photo/1",
+                    "type": "photo",
+                    "sizes": {
+                        "large": {
+                            "w": 980,
+                            "h": 551,
+                            "resize": "fit"
+                        },
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "medium": {
+                            "w": 980,
+                            "h": 551,
+                            "resize": "fit"
+                        },
+                        "small": {
+                            "w": 680,
+                            "h": 382,
+                            "resize": "fit"
+                        }
+                    }
+                },
+                {
+                    "id": 1415292694654554114,
+                    "id_str": "1415292694654554114",
+                    "indices": [
+                        258,
+                        281
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/E6QhNQ4XEAIPv5D.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/E6QhNQ4XEAIPv5D.jpg",
+                    "url": "https://t.co/DvUFwh6N48",
+                    "display_url": "pic.twitter.com/DvUFwh6N48",
+                    "expanded_url": "https://twitter.com/DeZurdaTeam/status/1415292717437968384/photo/1",
+                    "type": "photo",
+                    "sizes": {
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "medium": {
+                            "w": 960,
+                            "h": 1200,
+                            "resize": "fit"
+                        },
+                        "large": {
+                            "w": 1200,
+                            "h": 1500,
+                            "resize": "fit"
+                        },
+                        "small": {
+                            "w": 544,
+                            "h": 680,
+                            "resize": "fit"
+                        }
+                    }
+                },
+                {
+                    "id": 1415292715827441673,
+                    "id_str": "1415292715827441673",
+                    "indices": [
+                        258,
+                        281
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/E6QhOfwXsAk0pDE.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/E6QhOfwXsAk0pDE.jpg",
+                    "url": "https://t.co/DvUFwh6N48",
+                    "display_url": "pic.twitter.com/DvUFwh6N48",
+                    "expanded_url": "https://twitter.com/DeZurdaTeam/status/1415292717437968384/photo/1",
+                    "type": "photo",
+                    "sizes": {
+                        "medium": {
+                            "w": 201,
+                            "h": 251,
+                            "resize": "fit"
+                        },
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "small": {
+                            "w": 201,
+                            "h": 251,
+                            "resize": "fit"
+                        },
+                        "large": {
+                            "w": 201,
+                            "h": 251,
+                            "resize": "fit"
+                        }
+                    }
+                }
+            ]
+        },
+        "metadata": {
+            "iso_language_code": "es",
+            "result_type": "recent"
+        },
+        "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 1210114575942717441,
+            "id_str": "1210114575942717441",
+            "name": "DeZurdaTeam",
+            "screen_name": "DeZurdaTeam",
+            "location": "La Habana, Cuba ",
+            "description": "#DeZurdaTeam \ud83c\udde8\ud83c\uddfa \ud83c\uddf2\ud83c\uddfd \ud83c\udde8\ud83c\uddf4 \ud83c\uddea\ud83c\udde8 \ud83c\uddf5\ud83c\uddea \ud83c\uddfb\ud83c\uddea \ud83c\uddf5\ud83c\uddfe \ud83c\udde8\ud83c\uddf1 \ud83c\uddfa\ud83c\uddfe \ud83c\udde6\ud83c\uddf7 \ud83c\udde7\ud83c\uddf7 \ud83c\uddf3\ud83c\uddee \ud83c\udde7\ud83c\uddf4 La unidad dentro de los principios. Esa es nuestra l\u00ednea!",
+            "url": null,
+            "entities": {
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 18284,
+            "friends_count": 358,
+            "listed_count": 56,
+            "created_at": "Thu Dec 26 08:26:58 +0000 2019",
+            "favourites_count": 3643,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": false,
+            "verified": false,
+            "statuses_count": 965,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "F5F8FA",
+            "profile_background_image_url": null,
+            "profile_background_image_url_https": null,
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1385058774327640064/8RHpEM24_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1385058774327640064/8RHpEM24_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/1210114575942717441/1620816382",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "has_extended_profile": false,
+            "default_profile": true,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none",
+            "withheld_in_countries": []
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 165,
+        "favorite_count": 157,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "es"
+    },
+    "is_quote_status": false,
+    "retweet_count": 165,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "es"
+}

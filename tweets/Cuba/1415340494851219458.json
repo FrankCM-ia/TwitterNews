@@ -1,0 +1,269 @@
+{
+    "created_at": "Wed Jul 14 16:00:44 +0000 2021",
+    "id": 1415340494851219458,
+    "id_str": "1415340494851219458",
+    "full_text": "RT @fisgonmonero: En la desgracia se conoce la calidad \u00e9tica de la gente y los gobiernos.\nEn diciembre de 2020, cuando el Covid golpe\u00f3 a M\u00e9\u2026",
+    "truncated": false,
+    "display_text_range": [
+        0,
+        140
+    ],
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "fisgonmonero",
+                "name": "Rafael Barajas",
+                "id": 218162682,
+                "id_str": "218162682",
+                "indices": [
+                    3,
+                    16
+                ]
+            }
+        ],
+        "urls": []
+    },
+    "metadata": {
+        "iso_language_code": "es",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 103111667,
+        "id_str": "103111667",
+        "name": "Jos\u00e9 G\u00f3mez",
+        "screen_name": "docgomez01",
+        "location": "La 4TVa",
+        "description": "M\u00e9dico",
+        "url": null,
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 1542,
+        "friends_count": 52,
+        "listed_count": 17,
+        "created_at": "Fri Jan 08 23:05:02 +0000 2010",
+        "favourites_count": 1073,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 31140,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1309670257662062592/U8f4RSmx_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1309670257662062592/U8f4RSmx_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/103111667/1619390035",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": true,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+        "created_at": "Tue Jul 13 11:52:21 +0000 2021",
+        "id": 1414915601672380420,
+        "id_str": "1414915601672380420",
+        "full_text": "En la desgracia se conoce la calidad \u00e9tica de la gente y los gobiernos.\nEn diciembre de 2020, cuando el Covid golpe\u00f3 a M\u00e9xico con fuerza, Cuba nos mand\u00f3 a 500 m\u00e9dicos.\nHoy que la pandemia golpea a Cuba, Washington aprovecha para desestabilizar.\n#BloqueoNoSolidaridadSi https://t.co/9MEzvdoFgq",
+        "truncated": false,
+        "display_text_range": [
+            0,
+            268
+        ],
+        "entities": {
+            "hashtags": [
+                {
+                    "text": "BloqueoNoSolidaridadSi",
+                    "indices": [
+                        245,
+                        268
+                    ]
+                }
+            ],
+            "symbols": [],
+            "user_mentions": [],
+            "urls": [],
+            "media": [
+                {
+                    "id": 1414915425314525188,
+                    "id_str": "1414915425314525188",
+                    "indices": [
+                        269,
+                        292
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/E6LKFTEX0AQOsaS.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/E6LKFTEX0AQOsaS.jpg",
+                    "url": "https://t.co/9MEzvdoFgq",
+                    "display_url": "pic.twitter.com/9MEzvdoFgq",
+                    "expanded_url": "https://twitter.com/fisgonmonero/status/1414915601672380420/photo/1",
+                    "type": "photo",
+                    "sizes": {
+                        "large": {
+                            "w": 1424,
+                            "h": 2048,
+                            "resize": "fit"
+                        },
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "small": {
+                            "w": 473,
+                            "h": 680,
+                            "resize": "fit"
+                        },
+                        "medium": {
+                            "w": 834,
+                            "h": 1200,
+                            "resize": "fit"
+                        }
+                    }
+                }
+            ]
+        },
+        "extended_entities": {
+            "media": [
+                {
+                    "id": 1414915425314525188,
+                    "id_str": "1414915425314525188",
+                    "indices": [
+                        269,
+                        292
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/E6LKFTEX0AQOsaS.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/E6LKFTEX0AQOsaS.jpg",
+                    "url": "https://t.co/9MEzvdoFgq",
+                    "display_url": "pic.twitter.com/9MEzvdoFgq",
+                    "expanded_url": "https://twitter.com/fisgonmonero/status/1414915601672380420/photo/1",
+                    "type": "photo",
+                    "sizes": {
+                        "large": {
+                            "w": 1424,
+                            "h": 2048,
+                            "resize": "fit"
+                        },
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "small": {
+                            "w": 473,
+                            "h": 680,
+                            "resize": "fit"
+                        },
+                        "medium": {
+                            "w": 834,
+                            "h": 1200,
+                            "resize": "fit"
+                        }
+                    }
+                }
+            ]
+        },
+        "metadata": {
+            "iso_language_code": "es",
+            "result_type": "recent"
+        },
+        "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 218162682,
+            "id_str": "218162682",
+            "name": "Rafael Barajas",
+            "screen_name": "fisgonmonero",
+            "location": "M\u00e9xico",
+            "description": "Monero de @LaJornada y @El_Chamuco, mejor conocido como El Fisg\u00f3n.",
+            "url": null,
+            "entities": {
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 166754,
+            "friends_count": 984,
+            "listed_count": 864,
+            "created_at": "Sun Nov 21 16:04:29 +0000 2010",
+            "favourites_count": 12578,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": false,
+            "verified": false,
+            "statuses_count": 9726,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "C0DEED",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/795746953569140736/FxpiMmqL_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/795746953569140736/FxpiMmqL_normal.jpg",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "has_extended_profile": false,
+            "default_profile": true,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none",
+            "withheld_in_countries": []
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 2319,
+        "favorite_count": 4264,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "es"
+    },
+    "is_quote_status": false,
+    "retweet_count": 2319,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "es"
+}

@@ -1,0 +1,116 @@
+{
+    "created_at": "Wed Jul 14 18:04:39 +0000 2021",
+    "id": 1415371680042655748,
+    "id_str": "1415371680042655748",
+    "full_text": "@maka_jarrah @Gabrielcamp30n @elmostrador No ha matado a nadie, ni se ha convertido en dictadura, porque nunca han tenido la oportunidad de hacerlo, porque el chileno no lo ha votado, porque tenemos ejemplos de sobra para saber c\u00f3mo se comportar\u00e1n.\nEl PC chileno le rinde honores a Lenin, a kim jong il, a Castro a Maduro",
+    "truncated": false,
+    "display_text_range": [
+        42,
+        321
+    ],
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "maka_jarrah",
+                "name": "\ud83e\udd8b Rebel_Scum \ud83e\udd8b",
+                "id": 25251509,
+                "id_str": "25251509",
+                "indices": [
+                    0,
+                    12
+                ]
+            },
+            {
+                "screen_name": "Gabrielcamp30n",
+                "name": "Gabriel Caro Rojas #Jadue Presidente",
+                "id": 4574357854,
+                "id_str": "4574357854",
+                "indices": [
+                    13,
+                    28
+                ]
+            },
+            {
+                "screen_name": "elmostrador",
+                "name": "El Mostrador",
+                "id": 12815132,
+                "id_str": "12815132",
+                "indices": [
+                    29,
+                    41
+                ]
+            }
+        ],
+        "urls": []
+    },
+    "metadata": {
+        "iso_language_code": "es",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "in_reply_to_status_id": 1415370225562923011,
+    "in_reply_to_status_id_str": "1415370225562923011",
+    "in_reply_to_user_id": 25251509,
+    "in_reply_to_user_id_str": "25251509",
+    "in_reply_to_screen_name": "maka_jarrah",
+    "user": {
+        "id": 823963239360958465,
+        "id_str": "823963239360958465",
+        "name": "Carlos Olivares",
+        "screen_name": "colivarespardo",
+        "location": "",
+        "description": "",
+        "url": null,
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 151,
+        "friends_count": 392,
+        "listed_count": 0,
+        "created_at": "Tue Jan 24 18:38:39 +0000 2017",
+        "favourites_count": 2042,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 6036,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": null,
+        "profile_background_image_url_https": null,
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1226120289681125377/YRC6LkQb_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1226120289681125377/YRC6LkQb_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "es"
+}

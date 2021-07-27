@@ -1,0 +1,97 @@
+{
+    "created_at": "Wed Jul 14 18:02:48 +0000 2021",
+    "id": 1415371213531189249,
+    "id_str": "1415371213531189249",
+    "full_text": "@BrunoRguezP De eso se trata de democracia cosa que desgraciadamente en cuba no la hay porque es una dictadura unipartidista donde no existe ni el m\u00e1s elemental de los derechos humanos,comenzando por la libre expresi\u00f3n",
+    "truncated": false,
+    "display_text_range": [
+        13,
+        218
+    ],
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "BrunoRguezP",
+                "name": "Bruno Rodr\u00edguez P",
+                "id": 1074358534853271555,
+                "id_str": "1074358534853271555",
+                "indices": [
+                    0,
+                    12
+                ]
+            }
+        ],
+        "urls": []
+    },
+    "metadata": {
+        "iso_language_code": "es",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_status_id": 1415312467497046022,
+    "in_reply_to_status_id_str": "1415312467497046022",
+    "in_reply_to_user_id": 1074358534853271555,
+    "in_reply_to_user_id_str": "1074358534853271555",
+    "in_reply_to_screen_name": "BrunoRguezP",
+    "user": {
+        "id": 1087046064757182464,
+        "id_str": "1087046064757182464",
+        "name": "Jesus Garcia",
+        "screen_name": "JesusGa67884262",
+        "location": "",
+        "description": "Libertad sobre todo lo demas",
+        "url": null,
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 3,
+        "friends_count": 13,
+        "listed_count": 0,
+        "created_at": "Sun Jan 20 17:55:52 +0000 2019",
+        "favourites_count": 197,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 1254,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": null,
+        "profile_background_image_url_https": null,
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1217914147985379328/mdrOSbaP_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1217914147985379328/mdrOSbaP_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1087046064757182464/1578815988",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "es"
+}

@@ -1,0 +1,138 @@
+{
+    "created_at": "Wed Jul 14 16:00:38 +0000 2021",
+    "id": 1415340471174537219,
+    "id_str": "1415340471174537219",
+    "full_text": "Cuando el Estado ataca, persigue, secuestra a sus ciudadanos, la \u00fanica caracterizaci\u00f3n que le corresponde es la de dictatorial. No importa si es de izquierda o derecha.\nLos sue\u00f1os que prometieron hace 62 a\u00f1os se desplomaron. No hubo hombre nuevo.\n#SOSCuba\n\nhttps://t.co/mZb7ZWOCK5",
+    "truncated": false,
+    "display_text_range": [
+        0,
+        280
+    ],
+    "entities": {
+        "hashtags": [
+            {
+                "text": "SOSCuba",
+                "indices": [
+                    247,
+                    255
+                ]
+            }
+        ],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+            {
+                "url": "https://t.co/mZb7ZWOCK5",
+                "expanded_url": "https://www.lanacion.com.ar/el-mundo/represion-en-cuba-fuerzas-del-regimen-entraron-a-la-casa-de-un-manifestante-y-le-dispararon-frente-a-nid14072021/",
+                "display_url": "lanacion.com.ar/el-mundo/repre\u2026",
+                "indices": [
+                    257,
+                    280
+                ]
+            }
+        ]
+    },
+    "metadata": {
+        "iso_language_code": "es",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 209777699,
+        "id_str": "209777699",
+        "name": "Bruno Ariel Gini",
+        "screen_name": "brugini",
+        "location": "Misiones - Argentina",
+        "description": "Secretario de Extensi\u00f3n, Cultura y Relaciones Institucionales de la #UNAU. Profesor de Historia. Radical. De la Cole. Del taladro.",
+        "url": null,
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 774,
+        "friends_count": 659,
+        "listed_count": 4,
+        "created_at": "Fri Oct 29 22:27:56 +0000 2010",
+        "favourites_count": 6703,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 5033,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "ABB8C2",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1227957884241223680/BppBPF_I_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1227957884241223680/BppBPF_I_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/209777699/1483372154",
+        "profile_link_color": "1B5785",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "A0C5C7",
+        "profile_text_color": "333333",
+        "profile_use_background_image": false,
+        "has_extended_profile": true,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": {
+        "id": "33c4b9983fe31b5d",
+        "url": "https://api.twitter.com/1.1/geo/id/33c4b9983fe31b5d.json",
+        "place_type": "admin",
+        "name": "Misiones",
+        "full_name": "Misiones, Argentina",
+        "country_code": "AR",
+        "country": "Argentina",
+        "contained_within": [],
+        "bounding_box": {
+            "type": "Polygon",
+            "coordinates": [
+                [
+                    [
+                        -56.059714,
+                        -28.1632757
+                    ],
+                    [
+                        -53.641135,
+                        -28.1632757
+                    ],
+                    [
+                        -53.641135,
+                        -25.494475
+                    ],
+                    [
+                        -56.059714,
+                        -25.494475
+                    ]
+                ]
+            ]
+        },
+        "attributes": {}
+    },
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 1,
+    "favorite_count": 1,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "es"
+}

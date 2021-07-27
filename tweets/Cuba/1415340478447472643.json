@@ -1,0 +1,196 @@
+{
+    "created_at": "Wed Jul 14 16:00:40 +0000 2021",
+    "id": 1415340478447472643,
+    "id_str": "1415340478447472643",
+    "full_text": "RT @maxlacobara: Mi mujer es cubana. En Cuba ten\u00edan una granja y la buena suerte de que el comunismo, en lugar de sacarles todo, les sac\u00f3 s\u2026",
+    "truncated": false,
+    "display_text_range": [
+        0,
+        140
+    ],
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "maxlacobara",
+                "name": "Max Lacobara",
+                "id": 273977115,
+                "id_str": "273977115",
+                "indices": [
+                    3,
+                    15
+                ]
+            }
+        ],
+        "urls": []
+    },
+    "metadata": {
+        "iso_language_code": "es",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 1189971122923724801,
+        "id_str": "1189971122923724801",
+        "name": "Palmiro Caballasca",
+        "screen_name": "PalmiroCaballa2",
+        "location": "Vicente L\u00f3pez, Argentina",
+        "description": "Con un K no se discute. Si les dan la orden, el agua se transforma en aire, el sol en luna y el cielo deja de ser azul...cuando no dan mas pasan a la agresi\u00f3n.",
+        "url": null,
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 1082,
+        "friends_count": 1752,
+        "listed_count": 0,
+        "created_at": "Thu Oct 31 18:23:35 +0000 2019",
+        "favourites_count": 34943,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 29349,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": null,
+        "profile_background_image_url_https": null,
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1189982185358610433/d4rWppeV_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1189982185358610433/d4rWppeV_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1189971122923724801/1572548838",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+        "created_at": "Wed Jul 14 01:22:24 +0000 2021",
+        "id": 1415119455701581824,
+        "id_str": "1415119455701581824",
+        "full_text": "Mi mujer es cubana. En Cuba ten\u00edan una granja y la buena suerte de que el comunismo, en lugar de sacarles todo, les sac\u00f3 solo la mitad de su propiedad y producci\u00f3n. Un buen d\u00eda pudieron irse, aunque, dejando toda su vida detr\u00e1s. Ella no puede ver nada de Cuba sin llorar.",
+        "truncated": false,
+        "display_text_range": [
+            0,
+            271
+        ],
+        "entities": {
+            "hashtags": [],
+            "symbols": [],
+            "user_mentions": [],
+            "urls": []
+        },
+        "metadata": {
+            "iso_language_code": "es",
+            "result_type": "recent"
+        },
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 273977115,
+            "id_str": "273977115",
+            "name": "Max Lacobara",
+            "screen_name": "maxlacobara",
+            "location": "Miami, FL",
+            "description": "Airplane Pilot. Security & Business Continuity Professional. \u201820 Dodge Challenger R/T Scat Pack+ Widebody\ud83d\udccdMiami \ud83c\udde6\ud83c\uddf7\ud83c\uddfa\ud83c\uddf8",
+            "url": "https://t.co/h1JRXgNspO",
+            "entities": {
+                "url": {
+                    "urls": [
+                        {
+                            "url": "https://t.co/h1JRXgNspO",
+                            "expanded_url": "http://www.instagram.com/mlacobara",
+                            "display_url": "instagram.com/mlacobara",
+                            "indices": [
+                                0,
+                                23
+                            ]
+                        }
+                    ]
+                },
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 3345,
+            "friends_count": 1408,
+            "listed_count": 15,
+            "created_at": "Tue Mar 29 13:58:25 +0000 2011",
+            "favourites_count": 125590,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": false,
+            "verified": false,
+            "statuses_count": 29961,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": true,
+            "profile_background_color": "C0DEED",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1359348726985351168/UQREvWUj_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1359348726985351168/UQREvWUj_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/273977115/1428595014",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "has_extended_profile": true,
+            "default_profile": true,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none",
+            "withheld_in_countries": []
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 953,
+        "favorite_count": 4818,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "es"
+    },
+    "is_quote_status": false,
+    "retweet_count": 953,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "es"
+}

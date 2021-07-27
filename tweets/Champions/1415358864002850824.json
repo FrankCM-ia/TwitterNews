@@ -1,0 +1,140 @@
+{
+    "created_at": "Wed Jul 14 17:13:43 +0000 2021",
+    "id": 1415358864002850824,
+    "id_str": "1415358864002850824",
+    "full_text": "@leoriccardi @albert_roge @sanantheone @sport De vaina gan\u00f3 8 pichichis en la liga, de vaina levanto 4 champions, de vaina 10 ligas, de vaina gan\u00f3 6 balones de oro.. De vainita \ud83e\udd23 las cosas que se leen por aqu\u00ed",
+    "truncated": false,
+    "display_text_range": [
+        46,
+        209
+    ],
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "leoriccardi",
+                "name": "Leo",
+                "id": 142512654,
+                "id_str": "142512654",
+                "indices": [
+                    0,
+                    12
+                ]
+            },
+            {
+                "screen_name": "albert_roge",
+                "name": "Albert Rog\u00e9",
+                "id": 106803944,
+                "id_str": "106803944",
+                "indices": [
+                    13,
+                    25
+                ]
+            },
+            {
+                "screen_name": "sanantheone",
+                "name": "Ivan San Antonio",
+                "id": 179110779,
+                "id_str": "179110779",
+                "indices": [
+                    26,
+                    38
+                ]
+            },
+            {
+                "screen_name": "sport",
+                "name": "Diario SPORT",
+                "id": 19343904,
+                "id_str": "19343904",
+                "indices": [
+                    39,
+                    45
+                ]
+            }
+        ],
+        "urls": []
+    },
+    "metadata": {
+        "iso_language_code": "es",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "in_reply_to_status_id": 1415334125569990661,
+    "in_reply_to_status_id_str": "1415334125569990661",
+    "in_reply_to_user_id": 142512654,
+    "in_reply_to_user_id_str": "142512654",
+    "in_reply_to_screen_name": "leoriccardi",
+    "user": {
+        "id": 156398178,
+        "id_str": "156398178",
+        "name": "Tomas Ramirez",
+        "screen_name": "tomasramirezdlc",
+        "location": "Santiago, Chile",
+        "description": "#Musico #Clarinetista en Orquesta Sinfonica del estado @BitacoraVE #Informatica #UDONE - Viva la vida.",
+        "url": "https://t.co/ateuBBQPfd",
+        "entities": {
+            "url": {
+                "urls": [
+                    {
+                        "url": "https://t.co/ateuBBQPfd",
+                        "expanded_url": "http://www.facebook.com/Tomasrdc",
+                        "display_url": "facebook.com/Tomasrdc",
+                        "indices": [
+                            0,
+                            23
+                        ]
+                    }
+                ]
+            },
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 279,
+        "friends_count": 735,
+        "listed_count": 6,
+        "created_at": "Wed Jun 16 21:07:33 +0000 2010",
+        "favourites_count": 822,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 3566,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/899805334864265221/cIcrN_0j_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/899805334864265221/cIcrN_0j_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/156398178/1406397976",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": true,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "es"
+}

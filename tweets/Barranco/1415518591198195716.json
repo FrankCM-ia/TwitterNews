@@ -1,0 +1,360 @@
+{
+    "created_at": "Thu Jul 15 03:48:25 +0000 2021",
+    "id": 1415518591198195716,
+    "id_str": "1415518591198195716",
+    "full_text": "RT @SentimentaIPunk: Lo de Colombia es un esc\u00e1ndalo y es un crimen, sumado a su papel en Hait\u00ed ya no tiene nombre, pero algunos 'activistas\u2026",
+    "truncated": false,
+    "display_text_range": [
+        0,
+        140
+    ],
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "SentimentaIPunk",
+                "name": "\u00d8",
+                "id": 431344168,
+                "id_str": "431344168",
+                "indices": [
+                    3,
+                    19
+                ]
+            }
+        ],
+        "urls": []
+    },
+    "metadata": {
+        "iso_language_code": "es",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 451654980,
+        "id_str": "451654980",
+        "name": "S. On",
+        "screen_name": "a_trochemoche",
+        "location": "",
+        "description": "",
+        "url": null,
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 1448,
+        "friends_count": 2142,
+        "listed_count": 52,
+        "created_at": "Sat Dec 31 20:32:00 +0000 2011",
+        "favourites_count": 66318,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 139643,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "131516",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+        "profile_background_tile": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1160441649165721600/lHdSDLgV_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1160441649165721600/lHdSDLgV_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/451654980/1496375951",
+        "profile_link_color": "009999",
+        "profile_sidebar_border_color": "EEEEEE",
+        "profile_sidebar_fill_color": "EFEFEF",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+        "created_at": "Wed Jul 14 14:48:25 +0000 2021",
+        "id": 1415322297209171969,
+        "id_str": "1415322297209171969",
+        "full_text": "Lo de Colombia es un esc\u00e1ndalo y es un crimen, sumado a su papel en Hait\u00ed ya no tiene nombre, pero algunos 'activistas' y ONG\u00b4s solo ven a Cuba. Qu\u00e9 pinche raro. Los est\u00e1n llevando al barranco desinformativo. https://t.co/SeFdZhlWg3",
+        "truncated": false,
+        "display_text_range": [
+            0,
+            208
+        ],
+        "entities": {
+            "hashtags": [],
+            "symbols": [],
+            "user_mentions": [],
+            "urls": [
+                {
+                    "url": "https://t.co/SeFdZhlWg3",
+                    "expanded_url": "https://twitter.com/Justiciaypazcol/status/1415298975138291713",
+                    "display_url": "twitter.com/Justiciaypazco\u2026",
+                    "indices": [
+                        209,
+                        232
+                    ]
+                }
+            ]
+        },
+        "metadata": {
+            "iso_language_code": "es",
+            "result_type": "recent"
+        },
+        "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 431344168,
+            "id_str": "431344168",
+            "name": "\u00d8",
+            "screen_name": "SentimentaIPunk",
+            "location": "dis o r d e red anarchitecture",
+            "description": "B o r d e r  ,  f r o n t e r i z o  \u300b \n\nhttps://t.co/NHqX52mrwy",
+            "url": "https://t.co/as23yYTXWW",
+            "entities": {
+                "url": {
+                    "urls": [
+                        {
+                            "url": "https://t.co/as23yYTXWW",
+                            "expanded_url": "https://bitacoranegra.wordpress.com/",
+                            "display_url": "bitacoranegra.wordpress.com",
+                            "indices": [
+                                0,
+                                23
+                            ]
+                        }
+                    ]
+                },
+                "description": {
+                    "urls": [
+                        {
+                            "url": "https://t.co/NHqX52mrwy",
+                            "expanded_url": "http://instagram.com/punksentimental",
+                            "display_url": "instagram.com/punksentimental",
+                            "indices": [
+                                41,
+                                64
+                            ]
+                        }
+                    ]
+                }
+            },
+            "protected": false,
+            "followers_count": 11640,
+            "friends_count": 2958,
+            "listed_count": 91,
+            "created_at": "Thu Dec 08 05:29:34 +0000 2011",
+            "favourites_count": 26220,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": false,
+            "verified": false,
+            "statuses_count": 50223,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "022330",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+            "profile_background_tile": true,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1174863069249511425/D9vQI3dF_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1174863069249511425/D9vQI3dF_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/431344168/1624758771",
+            "profile_link_color": "E81C4F",
+            "profile_sidebar_border_color": "FFFFFF",
+            "profile_sidebar_fill_color": "C0DFEC",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "has_extended_profile": true,
+            "default_profile": false,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none",
+            "withheld_in_countries": []
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": true,
+        "quoted_status_id": 1415298975138291713,
+        "quoted_status_id_str": "1415298975138291713",
+        "quoted_status": {
+            "created_at": "Wed Jul 14 13:15:45 +0000 2021",
+            "id": 1415298975138291713,
+            "id_str": "1415298975138291713",
+            "full_text": "#DeVer Opini\u00f3n: \u201cGobierno de Colombia usa t\u00e9cnicas de guerra contra la protesta social\u201d@danielapastrana @PdPagina \nhttps://t.co/ebuX9y7xTz",
+            "truncated": false,
+            "display_text_range": [
+                0,
+                138
+            ],
+            "entities": {
+                "hashtags": [
+                    {
+                        "text": "DeVer",
+                        "indices": [
+                            0,
+                            6
+                        ]
+                    }
+                ],
+                "symbols": [],
+                "user_mentions": [
+                    {
+                        "screen_name": "danielapastrana",
+                        "name": "Daniela Pastrana",
+                        "id": 90663539,
+                        "id_str": "90663539",
+                        "indices": [
+                            87,
+                            103
+                        ]
+                    },
+                    {
+                        "screen_name": "PdPagina",
+                        "name": "Pie de P\u00e1gina",
+                        "id": 3087410276,
+                        "id_str": "3087410276",
+                        "indices": [
+                            104,
+                            113
+                        ]
+                    }
+                ],
+                "urls": [
+                    {
+                        "url": "https://t.co/ebuX9y7xTz",
+                        "expanded_url": "https://www.justiciaypazcolombia.com/opinion-gobierno-de-colombia-usa-tecnicas-de-guerra-contra-la-protesta-social/",
+                        "display_url": "justiciaypazcolombia.com/opinion-gobier\u2026",
+                        "indices": [
+                            115,
+                            138
+                        ]
+                    }
+                ]
+            },
+            "metadata": {
+                "iso_language_code": "es",
+                "result_type": "recent"
+            },
+            "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+            "in_reply_to_status_id": null,
+            "in_reply_to_status_id_str": null,
+            "in_reply_to_user_id": null,
+            "in_reply_to_user_id_str": null,
+            "in_reply_to_screen_name": null,
+            "user": {
+                "id": 130628574,
+                "id_str": "130628574",
+                "name": "Comisi\u00f3n de Justicia y Paz",
+                "screen_name": "Justiciaypazcol",
+                "location": "Bogot\u00e1, Colombia",
+                "description": "Promovemos la afirmaci\u00f3n de derechos civiles, pol\u00edticos, sociales, ambientales, paz, g\u00e9nero interdisciplinarmente en comunidades y grupos vulnerados y (bles)",
+                "url": "https://t.co/zWkgcfXexM",
+                "entities": {
+                    "url": {
+                        "urls": [
+                            {
+                                "url": "https://t.co/zWkgcfXexM",
+                                "expanded_url": "http://justiciaypazcolombia.com/",
+                                "display_url": "justiciaypazcolombia.com",
+                                "indices": [
+                                    0,
+                                    23
+                                ]
+                            }
+                        ]
+                    },
+                    "description": {
+                        "urls": []
+                    }
+                },
+                "protected": false,
+                "followers_count": 42036,
+                "friends_count": 948,
+                "listed_count": 355,
+                "created_at": "Wed Apr 07 21:25:17 +0000 2010",
+                "favourites_count": 841,
+                "utc_offset": null,
+                "time_zone": null,
+                "geo_enabled": true,
+                "verified": false,
+                "statuses_count": 28905,
+                "lang": null,
+                "contributors_enabled": false,
+                "is_translator": false,
+                "is_translation_enabled": false,
+                "profile_background_color": "FFFCFF",
+                "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+                "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+                "profile_background_tile": false,
+                "profile_image_url": "http://pbs.twimg.com/profile_images/1414986706567274496/8coa5JjK_normal.jpg",
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/1414986706567274496/8coa5JjK_normal.jpg",
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/130628574/1626194097",
+                "profile_link_color": "0D0D0D",
+                "profile_sidebar_border_color": "FFFFFF",
+                "profile_sidebar_fill_color": "FFFCFF",
+                "profile_text_color": "0A0A0A",
+                "profile_use_background_image": true,
+                "has_extended_profile": false,
+                "default_profile": false,
+                "default_profile_image": false,
+                "following": false,
+                "follow_request_sent": false,
+                "notifications": false,
+                "translator_type": "none",
+                "withheld_in_countries": []
+            },
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "contributors": null,
+            "is_quote_status": false,
+            "retweet_count": 8,
+            "favorite_count": 5,
+            "favorited": false,
+            "retweeted": false,
+            "possibly_sensitive": false,
+            "lang": "es"
+        },
+        "retweet_count": 11,
+        "favorite_count": 12,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "es"
+    },
+    "is_quote_status": true,
+    "quoted_status_id": 1415298975138291713,
+    "quoted_status_id_str": "1415298975138291713",
+    "retweet_count": 11,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "es"
+}

@@ -1,0 +1,130 @@
+{
+    "created_at": "Wed Jul 14 16:00:46 +0000 2021",
+    "id": 1415340505303502851,
+    "id_str": "1415340505303502851",
+    "full_text": "@SIncomun @invest_trades @sertorio122 Dictaduras salvajes hay varias en el mundo y ninguna es socialista. Por qu\u00e9 ser\u00e1 que las ratas como vosotros siempre andan llorando por Cuba y nunca dicen nada de Arabia Saudita o la mitad de pa\u00edses centroafricanos donde la gente s\u00ed que vive en condiciones demenciales.",
+    "truncated": false,
+    "display_text_range": [
+        38,
+        307
+    ],
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "SIncomun",
+                "name": "sentido incomun",
+                "id": 1013016941592764416,
+                "id_str": "1013016941592764416",
+                "indices": [
+                    0,
+                    9
+                ]
+            },
+            {
+                "screen_name": "invest_trades",
+                "name": "Investment&trading\ud83d\udc0d\ud83e\udd1f",
+                "id": 1371064132116578306,
+                "id_str": "1371064132116578306",
+                "indices": [
+                    10,
+                    24
+                ]
+            },
+            {
+                "screen_name": "sertorio122",
+                "name": "Sertorio",
+                "id": 1032787164369702912,
+                "id_str": "1032787164369702912",
+                "indices": [
+                    25,
+                    37
+                ]
+            }
+        ],
+        "urls": []
+    },
+    "metadata": {
+        "iso_language_code": "es",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "in_reply_to_status_id": 1415314897177649157,
+    "in_reply_to_status_id_str": "1415314897177649157",
+    "in_reply_to_user_id": 1013016941592764416,
+    "in_reply_to_user_id_str": "1013016941592764416",
+    "in_reply_to_screen_name": "SIncomun",
+    "user": {
+        "id": 1054129544993669120,
+        "id_str": "1054129544993669120",
+        "name": "Alex",
+        "screen_name": "Otakomunista_",
+        "location": "",
+        "description": "20.\nMilitante comunista.\nIngenier\u00eda del Software.",
+        "url": "https://t.co/U5rB0P7qks",
+        "entities": {
+            "url": {
+                "urls": [
+                    {
+                        "url": "https://t.co/U5rB0P7qks",
+                        "expanded_url": "https://instagram.com/is.just.alex",
+                        "display_url": "instagram.com/is.just.alex",
+                        "indices": [
+                            0,
+                            23
+                        ]
+                    }
+                ]
+            },
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 103,
+        "friends_count": 378,
+        "listed_count": 2,
+        "created_at": "Sun Oct 21 21:57:23 +0000 2018",
+        "favourites_count": 36576,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 7369,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": null,
+        "profile_background_image_url_https": null,
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1406019380253761538/BMU8dKlo_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1406019380253761538/BMU8dKlo_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1054129544993669120/1624056271",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": true,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "es"
+}

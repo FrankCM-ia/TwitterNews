@@ -1,0 +1,291 @@
+{
+    "created_at": "Wed Jul 14 16:00:22 +0000 2021",
+    "id": 1415340403923079171,
+    "id_str": "1415340403923079171",
+    "full_text": "RT @cubicado: #JadueVenceraYSeraHermoso, como en Cuba, donde se limpian el trasero con hojas de peri\u00f3dico y las mujeres usan trapos viejos\u2026",
+    "truncated": false,
+    "display_text_range": [
+        0,
+        139
+    ],
+    "entities": {
+        "hashtags": [
+            {
+                "text": "JadueVenceraYSeraHermoso",
+                "indices": [
+                    14,
+                    39
+                ]
+            }
+        ],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "cubicado",
+                "name": "Pablo Ianiszewski",
+                "id": 53588335,
+                "id_str": "53588335",
+                "indices": [
+                    3,
+                    12
+                ]
+            }
+        ],
+        "urls": []
+    },
+    "metadata": {
+        "iso_language_code": "es",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 3093868840,
+        "id_str": "3093868840",
+        "name": "Roberto",
+        "screen_name": "Roberto10303403",
+        "location": "Maip\u00fa, Chile",
+        "description": "\ud83c\udde8\ud83c\uddf1\ud83c\udde8\ud83c\uddf1\ud83c\udf13\ud83c\udf13\ud83c\udf13\ud83c\udf13\nsiempre transitando por la derecha",
+        "url": null,
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 1558,
+        "friends_count": 2967,
+        "listed_count": 0,
+        "created_at": "Wed Mar 18 02:10:05 +0000 2015",
+        "favourites_count": 6109,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 9549,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1225974204404830210/Ncjp8zYO_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1225974204404830210/Ncjp8zYO_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/3093868840/1581130414",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+        "created_at": "Wed Jul 14 12:51:38 +0000 2021",
+        "id": 1415292907511291905,
+        "id_str": "1415292907511291905",
+        "full_text": "#JadueVenceraYSeraHermoso, como en Cuba, donde se limpian el trasero con hojas de peri\u00f3dico y las mujeres usan trapos viejos como toallitas higi\u00e9nicas. https://t.co/YAzBxVaEFz",
+        "truncated": false,
+        "display_text_range": [
+            0,
+            151
+        ],
+        "entities": {
+            "hashtags": [
+                {
+                    "text": "JadueVenceraYSeraHermoso",
+                    "indices": [
+                        0,
+                        25
+                    ]
+                }
+            ],
+            "symbols": [],
+            "user_mentions": [],
+            "urls": [],
+            "media": [
+                {
+                    "id": 1415292904961085446,
+                    "id_str": "1415292904961085446",
+                    "indices": [
+                        152,
+                        175
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/E6QhZgVWEAYmzJi.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/E6QhZgVWEAYmzJi.jpg",
+                    "url": "https://t.co/YAzBxVaEFz",
+                    "display_url": "pic.twitter.com/YAzBxVaEFz",
+                    "expanded_url": "https://twitter.com/cubicado/status/1415292907511291905/photo/1",
+                    "type": "photo",
+                    "sizes": {
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "medium": {
+                            "w": 768,
+                            "h": 432,
+                            "resize": "fit"
+                        },
+                        "small": {
+                            "w": 680,
+                            "h": 383,
+                            "resize": "fit"
+                        },
+                        "large": {
+                            "w": 768,
+                            "h": 432,
+                            "resize": "fit"
+                        }
+                    }
+                }
+            ]
+        },
+        "extended_entities": {
+            "media": [
+                {
+                    "id": 1415292904961085446,
+                    "id_str": "1415292904961085446",
+                    "indices": [
+                        152,
+                        175
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/E6QhZgVWEAYmzJi.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/E6QhZgVWEAYmzJi.jpg",
+                    "url": "https://t.co/YAzBxVaEFz",
+                    "display_url": "pic.twitter.com/YAzBxVaEFz",
+                    "expanded_url": "https://twitter.com/cubicado/status/1415292907511291905/photo/1",
+                    "type": "photo",
+                    "sizes": {
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "medium": {
+                            "w": 768,
+                            "h": 432,
+                            "resize": "fit"
+                        },
+                        "small": {
+                            "w": 680,
+                            "h": 383,
+                            "resize": "fit"
+                        },
+                        "large": {
+                            "w": 768,
+                            "h": 432,
+                            "resize": "fit"
+                        }
+                    }
+                }
+            ]
+        },
+        "metadata": {
+            "iso_language_code": "es",
+            "result_type": "recent"
+        },
+        "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 53588335,
+            "id_str": "53588335",
+            "name": "Pablo Ianiszewski",
+            "screen_name": "cubicado",
+            "location": "Vi\u00f1a del Mar, Chile",
+            "description": "Astr\u00f3logo tradicional. Fil\u00f3sofo platonizante. Vegetariano irredimible. Aprendiz de Hermes, Pit\u00e1goras y Plat\u00f3n. Idealista empedernido.",
+            "url": "https://t.co/lb87Sk9djX",
+            "entities": {
+                "url": {
+                    "urls": [
+                        {
+                            "url": "https://t.co/lb87Sk9djX",
+                            "expanded_url": "http://www.astrologiatradicional.com",
+                            "display_url": "astrologiatradicional.com",
+                            "indices": [
+                                0,
+                                23
+                            ]
+                        }
+                    ]
+                },
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 3704,
+            "friends_count": 3783,
+            "listed_count": 30,
+            "created_at": "Sat Jul 04 04:00:15 +0000 2009",
+            "favourites_count": 5649,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": true,
+            "verified": false,
+            "statuses_count": 30182,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "FFFFFF",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1249086999564353538/8jcIRqQR_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1249086999564353538/8jcIRqQR_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/53588335/1586562342",
+            "profile_link_color": "1B95E0",
+            "profile_sidebar_border_color": "354E09",
+            "profile_sidebar_fill_color": "334C2A",
+            "profile_text_color": "000000",
+            "profile_use_background_image": true,
+            "has_extended_profile": true,
+            "default_profile": false,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none",
+            "withheld_in_countries": []
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 68,
+        "favorite_count": 163,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "es"
+    },
+    "is_quote_status": false,
+    "retweet_count": 68,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "es"
+}

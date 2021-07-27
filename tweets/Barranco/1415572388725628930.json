@@ -1,0 +1,306 @@
+{
+    "created_at": "Thu Jul 15 07:22:12 +0000 2021",
+    "id": 1415572388725628930,
+    "id_str": "1415572388725628930",
+    "full_text": "Hace unos meses un excursionista falleci\u00f3 cuando se hac\u00eda una foto en el borde d un barranco, ayer esto \ud83d\udc47\ud83d\udc47 \u21aaque por una foto no pongas en peligro t\u00fa vida\u21a9 https://t.co/8Lgp8AKTYR",
+    "truncated": false,
+    "display_text_range": [
+        0,
+        154
+    ],
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+            {
+                "url": "https://t.co/8Lgp8AKTYR",
+                "expanded_url": "https://twitter.com/PoliciaLocalSC/status/1415558592565063681",
+                "display_url": "twitter.com/PoliciaLocalSC\u2026",
+                "indices": [
+                    155,
+                    178
+                ]
+            }
+        ]
+    },
+    "metadata": {
+        "iso_language_code": "es",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 986383405,
+        "id_str": "986383405",
+        "name": "J.C Herrero",
+        "screen_name": "Insurrecto76",
+        "location": "La Laguna (Tenerife)",
+        "description": "\u2194\ufe0fGu\u00eda de Monta\u00f1a(N\u00famero 1564 Asociaci\u00f3n Espa\u00f1ola Gu\u00edas de Monta\u00f1a)\u2194\ufe0fT\u00e9cnico Deportivo M.Monta\u00f1a II\u2194\ufe0fEntrenador de Triatl\u00f3n\u2194\ufe0fT.S Administraci\u00f3n y Finanzas",
+        "url": null,
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 1178,
+        "friends_count": 2623,
+        "listed_count": 8,
+        "created_at": "Mon Dec 03 10:39:41 +0000 2012",
+        "favourites_count": 113073,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 24479,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1357060568801308676/h8ZgrTN-_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1357060568801308676/h8ZgrTN-_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/986383405/1507638821",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": true,
+    "quoted_status_id": 1415558592565063681,
+    "quoted_status_id_str": "1415558592565063681",
+    "quoted_status": {
+        "created_at": "Thu Jul 15 06:27:22 +0000 2021",
+        "id": 1415558592565063681,
+        "id_str": "1415558592565063681",
+        "full_text": "Anoche, agentes de @PoliciaLocalSC colaboraron en el rescate de un var\u00f3n que se precipit\u00f3 desde la zona del mirador de Las Teresitas por una ladera de unos 10 metros. El joven cay\u00f3 mientras se hac\u00eda una foto en el lugar, tal y como relataron sus acompa\u00f1antes @112canarias #SUC https://t.co/b3UW3Phstj",
+        "truncated": false,
+        "display_text_range": [
+            0,
+            276
+        ],
+        "entities": {
+            "hashtags": [
+                {
+                    "text": "SUC",
+                    "indices": [
+                        272,
+                        276
+                    ]
+                }
+            ],
+            "symbols": [],
+            "user_mentions": [
+                {
+                    "screen_name": "PoliciaLocalSC",
+                    "name": "Polic\u00eda Local",
+                    "id": 347097308,
+                    "id_str": "347097308",
+                    "indices": [
+                        19,
+                        34
+                    ]
+                },
+                {
+                    "screen_name": "112canarias",
+                    "name": "1-1-2 Canarias",
+                    "id": 270816474,
+                    "id_str": "270816474",
+                    "indices": [
+                        259,
+                        271
+                    ]
+                }
+            ],
+            "urls": [],
+            "media": [
+                {
+                    "id": 1415558585719959552,
+                    "id_str": "1415558585719959552",
+                    "indices": [
+                        277,
+                        300
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/E6UTCKSXsAACfow.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/E6UTCKSXsAACfow.jpg",
+                    "url": "https://t.co/b3UW3Phstj",
+                    "display_url": "pic.twitter.com/b3UW3Phstj",
+                    "expanded_url": "https://twitter.com/PoliciaLocalSC/status/1415558592565063681/photo/1",
+                    "type": "photo",
+                    "sizes": {
+                        "small": {
+                            "w": 680,
+                            "h": 510,
+                            "resize": "fit"
+                        },
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "medium": {
+                            "w": 1200,
+                            "h": 900,
+                            "resize": "fit"
+                        },
+                        "large": {
+                            "w": 1600,
+                            "h": 1200,
+                            "resize": "fit"
+                        }
+                    }
+                }
+            ]
+        },
+        "extended_entities": {
+            "media": [
+                {
+                    "id": 1415558585719959552,
+                    "id_str": "1415558585719959552",
+                    "indices": [
+                        277,
+                        300
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/E6UTCKSXsAACfow.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/E6UTCKSXsAACfow.jpg",
+                    "url": "https://t.co/b3UW3Phstj",
+                    "display_url": "pic.twitter.com/b3UW3Phstj",
+                    "expanded_url": "https://twitter.com/PoliciaLocalSC/status/1415558592565063681/photo/1",
+                    "type": "photo",
+                    "sizes": {
+                        "small": {
+                            "w": 680,
+                            "h": 510,
+                            "resize": "fit"
+                        },
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "medium": {
+                            "w": 1200,
+                            "h": 900,
+                            "resize": "fit"
+                        },
+                        "large": {
+                            "w": 1600,
+                            "h": 1200,
+                            "resize": "fit"
+                        }
+                    }
+                }
+            ]
+        },
+        "metadata": {
+            "iso_language_code": "es",
+            "result_type": "recent"
+        },
+        "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 347097308,
+            "id_str": "347097308",
+            "name": "Polic\u00eda Local",
+            "screen_name": "PoliciaLocalSC",
+            "location": "Santa Cruz de Tenerife",
+            "description": "Twitter oficial de la Polic\u00eda Local. Informaci\u00f3n y avisos sobre seguridad ciudadana y tr\u00e1fico. Para solicitar servicios policiales llamar al 092.",
+            "url": "https://t.co/REIkPa7mcF",
+            "entities": {
+                "url": {
+                    "urls": [
+                        {
+                            "url": "https://t.co/REIkPa7mcF",
+                            "expanded_url": "http://www.santacruzdetenerife.es",
+                            "display_url": "santacruzdetenerife.es",
+                            "indices": [
+                                0,
+                                23
+                            ]
+                        }
+                    ]
+                },
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 38006,
+            "friends_count": 27,
+            "listed_count": 285,
+            "created_at": "Tue Aug 02 08:20:24 +0000 2011",
+            "favourites_count": 3894,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": true,
+            "verified": false,
+            "statuses_count": 17799,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "2C3D45",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1277714705587544071/Oh5pSSnK_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1277714705587544071/Oh5pSSnK_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/347097308/1618070201",
+            "profile_link_color": "009999",
+            "profile_sidebar_border_color": "FFFFFF",
+            "profile_sidebar_fill_color": "EFEFEF",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "has_extended_profile": false,
+            "default_profile": false,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none",
+            "withheld_in_countries": []
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 22,
+        "favorite_count": 65,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "es"
+    },
+    "retweet_count": 1,
+    "favorite_count": 16,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "es"
+}

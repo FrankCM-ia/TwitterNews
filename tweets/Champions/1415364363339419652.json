@@ -1,0 +1,319 @@
+{
+    "created_at": "Wed Jul 14 17:35:35 +0000 2021",
+    "id": 1415364363339419652,
+    "id_str": "1415364363339419652",
+    "full_text": "-Hakimi\n-Sergio Ramos \n-Donnarumma\nEl PSG va con todo por esta Champions, ahora si va a ser una sorpresa cuando el Inter los elimine en octavos https://t.co/TvOZMmoSuP",
+    "truncated": false,
+    "display_text_range": [
+        0,
+        143
+    ],
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+            {
+                "url": "https://t.co/TvOZMmoSuP",
+                "expanded_url": "https://twitter.com/psg_inside/status/1415363469306630144",
+                "display_url": "twitter.com/psg_inside/sta\u2026",
+                "indices": [
+                    144,
+                    167
+                ]
+            }
+        ]
+    },
+    "metadata": {
+        "iso_language_code": "es",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 597131424,
+        "id_str": "597131424",
+        "name": "VictoR",
+        "screen_name": "Victorgl34",
+        "location": "",
+        "description": "Ame e Inter",
+        "url": null,
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 898,
+        "friends_count": 440,
+        "listed_count": 0,
+        "created_at": "Sat Jun 02 03:38:53 +0000 2012",
+        "favourites_count": 9648,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 30351,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "1E2224",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1392702323768668162/aNYvvyDD_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1392702323768668162/aNYvvyDD_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/597131424/1606200221",
+        "profile_link_color": "37494F",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": true,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": true,
+    "quoted_status_id": 1415363469306630144,
+    "quoted_status_id_str": "1415363469306630144",
+    "quoted_status": {
+        "created_at": "Wed Jul 14 17:32:01 +0000 2021",
+        "id": 1415363469306630144,
+        "id_str": "1415363469306630144",
+        "full_text": "Buongiorno \ud83e\udde4\n\n#WelcomeGigio https://t.co/jqyRdRjcLa",
+        "truncated": false,
+        "display_text_range": [
+            0,
+            27
+        ],
+        "entities": {
+            "hashtags": [
+                {
+                    "text": "WelcomeGigio",
+                    "indices": [
+                        14,
+                        27
+                    ]
+                }
+            ],
+            "symbols": [],
+            "user_mentions": [],
+            "urls": [],
+            "media": [
+                {
+                    "id": 1415362901888704514,
+                    "id_str": "1415362901888704514",
+                    "indices": [
+                        28,
+                        51
+                    ],
+                    "media_url": "http://pbs.twimg.com/amplify_video_thumb/1415362901888704514/img/g7KHn0yAjW4OOJ9E.jpg",
+                    "media_url_https": "https://pbs.twimg.com/amplify_video_thumb/1415362901888704514/img/g7KHn0yAjW4OOJ9E.jpg",
+                    "url": "https://t.co/jqyRdRjcLa",
+                    "display_url": "pic.twitter.com/jqyRdRjcLa",
+                    "expanded_url": "https://twitter.com/PSG_inside/status/1415363469306630144/video/1",
+                    "type": "photo",
+                    "sizes": {
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "medium": {
+                            "w": 1200,
+                            "h": 675,
+                            "resize": "fit"
+                        },
+                        "small": {
+                            "w": 680,
+                            "h": 383,
+                            "resize": "fit"
+                        },
+                        "large": {
+                            "w": 1280,
+                            "h": 720,
+                            "resize": "fit"
+                        }
+                    }
+                }
+            ]
+        },
+        "extended_entities": {
+            "media": [
+                {
+                    "id": 1415362901888704514,
+                    "id_str": "1415362901888704514",
+                    "indices": [
+                        28,
+                        51
+                    ],
+                    "media_url": "http://pbs.twimg.com/amplify_video_thumb/1415362901888704514/img/g7KHn0yAjW4OOJ9E.jpg",
+                    "media_url_https": "https://pbs.twimg.com/amplify_video_thumb/1415362901888704514/img/g7KHn0yAjW4OOJ9E.jpg",
+                    "url": "https://t.co/jqyRdRjcLa",
+                    "display_url": "pic.twitter.com/jqyRdRjcLa",
+                    "expanded_url": "https://twitter.com/PSG_inside/status/1415363469306630144/video/1",
+                    "type": "video",
+                    "sizes": {
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "medium": {
+                            "w": 1200,
+                            "h": 675,
+                            "resize": "fit"
+                        },
+                        "small": {
+                            "w": 680,
+                            "h": 383,
+                            "resize": "fit"
+                        },
+                        "large": {
+                            "w": 1280,
+                            "h": 720,
+                            "resize": "fit"
+                        }
+                    },
+                    "video_info": {
+                        "aspect_ratio": [
+                            16,
+                            9
+                        ],
+                        "duration_millis": 16040,
+                        "variants": [
+                            {
+                                "bitrate": 832000,
+                                "content_type": "video/mp4",
+                                "url": "https://video.twimg.com/amplify_video/1415362901888704514/vid/640x360/4BJCbN5W3AnR3PVx.mp4?tag=14"
+                            },
+                            {
+                                "bitrate": 2176000,
+                                "content_type": "video/mp4",
+                                "url": "https://video.twimg.com/amplify_video/1415362901888704514/vid/1280x720/3FtrrdtLs0omBZrx.mp4?tag=14"
+                            },
+                            {
+                                "bitrate": 288000,
+                                "content_type": "video/mp4",
+                                "url": "https://video.twimg.com/amplify_video/1415362901888704514/vid/480x270/ZdGZs1gu2GERa8Jw.mp4?tag=14"
+                            },
+                            {
+                                "content_type": "application/x-mpegURL",
+                                "url": "https://video.twimg.com/amplify_video/1415362901888704514/pl/mCAN3diU6m9crlRe.m3u8?tag=14"
+                            }
+                        ]
+                    },
+                    "additional_media_info": {
+                        "title": "",
+                        "description": "",
+                        "embeddable": true,
+                        "monetizable": false
+                    }
+                }
+            ]
+        },
+        "metadata": {
+            "iso_language_code": "es",
+            "result_type": "recent"
+        },
+        "source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 38164846,
+            "id_str": "38164846",
+            "name": "Paris Saint-Germain",
+            "screen_name": "PSG_inside",
+            "location": "Parc des Princes, Paris",
+            "description": "\ud83c\uddfa\ud83c\uddf8\ud83c\uddec\ud83c\udde7@PSG_English\ud83c\uddea\ud83c\uddf8@PSG_Espanol\ud83c\udde7\ud83c\uddf7@PSGBrasil\ud83c\uddf6\ud83c\udde6@PSG_Arab\ud83c\uddee\ud83c\udde9@PSGIndonesia\ud83c\uddef\ud83c\uddf5@PSGJapan\ud83d\udc71\u200d\u2640\ufe0f@PSG_Feminines\ud83c\udfae@PSGeSports\ud83e\udd4b@PSG_Judo\ud83e\udd3e\u200d\u2642\ufe0f@PSGHand",
+            "url": "https://t.co/g266nQXmqR",
+            "entities": {
+                "url": {
+                    "urls": [
+                        {
+                            "url": "https://t.co/g266nQXmqR",
+                            "expanded_url": "http://www.psg.fr",
+                            "display_url": "psg.fr",
+                            "indices": [
+                                0,
+                                23
+                            ]
+                        }
+                    ]
+                },
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 9260285,
+            "friends_count": 146,
+            "listed_count": 6934,
+            "created_at": "Wed May 06 12:14:30 +0000 2009",
+            "favourites_count": 868,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": true,
+            "verified": true,
+            "statuses_count": 66697,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "000000",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1356899196704608257/v42alpXE_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1356899196704608257/v42alpXE_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/38164846/1626246519",
+            "profile_link_color": "000000",
+            "profile_sidebar_border_color": "FFFFFF",
+            "profile_sidebar_fill_color": "C0DFEC",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "has_extended_profile": true,
+            "default_profile": false,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none",
+            "withheld_in_countries": []
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 8623,
+        "favorite_count": 26753,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "it"
+    },
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "es"
+}

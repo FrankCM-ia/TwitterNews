@@ -1,0 +1,182 @@
+{
+    "created_at": "Wed Jul 14 16:00:08 +0000 2021",
+    "id": 1415340346003922944,
+    "id_str": "1415340346003922944",
+    "full_text": "RT @rimbaudarth: Hay que tener muy poca verg\u00fcenza para comparar Catalu\u00f1a con Cuba en algo que no sea que en ambos sitios los gobernantes ro\u2026",
+    "truncated": false,
+    "display_text_range": [
+        0,
+        140
+    ],
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "rimbaudarth",
+                "name": "\u26ab\ufe0fRimbaud\u2696\ufe0f \ud83c\udde8\ud83c\uddfa\ud83c\uddea\ud83c\uddf8",
+                "id": 793316702327021568,
+                "id_str": "793316702327021568",
+                "indices": [
+                    3,
+                    15
+                ]
+            }
+        ],
+        "urls": []
+    },
+    "metadata": {
+        "iso_language_code": "es",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 1603642843,
+        "id_str": "1603642843",
+        "name": "Seneca",
+        "screen_name": "julius_yo",
+        "location": "Las Galias",
+        "description": "Luchando con los fantasmas de la prima y el bord\u00f3n",
+        "url": null,
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 145,
+        "friends_count": 328,
+        "listed_count": 0,
+        "created_at": "Thu Jul 18 14:51:43 +0000 2013",
+        "favourites_count": 22293,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 12738,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1278255293055598592/NvuXTymU_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1278255293055598592/NvuXTymU_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+        "created_at": "Wed Jul 14 09:36:53 +0000 2021",
+        "id": 1415243896561483778,
+        "id_str": "1415243896561483778",
+        "full_text": "Hay que tener muy poca verg\u00fcenza para comparar Catalu\u00f1a con Cuba en algo que no sea que en ambos sitios los gobernantes roban a manos llenas.",
+        "truncated": false,
+        "display_text_range": [
+            0,
+            141
+        ],
+        "entities": {
+            "hashtags": [],
+            "symbols": [],
+            "user_mentions": [],
+            "urls": []
+        },
+        "metadata": {
+            "iso_language_code": "es",
+            "result_type": "recent"
+        },
+        "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 793316702327021568,
+            "id_str": "793316702327021568",
+            "name": "\u26ab\ufe0fRimbaud\u2696\ufe0f \ud83c\udde8\ud83c\uddfa\ud83c\uddea\ud83c\uddf8",
+            "screen_name": "rimbaudarth",
+            "location": "Espa\u00f1a",
+            "description": "Opositor. Estado de Derecho",
+            "url": null,
+            "entities": {
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 44494,
+            "friends_count": 4234,
+            "listed_count": 105,
+            "created_at": "Tue Nov 01 05:00:15 +0000 2016",
+            "favourites_count": 73231,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": false,
+            "verified": false,
+            "statuses_count": 62006,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "000000",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1214527514783166465/DigzAPG6_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1214527514783166465/DigzAPG6_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/793316702327021568/1624595617",
+            "profile_link_color": "486F88",
+            "profile_sidebar_border_color": "000000",
+            "profile_sidebar_fill_color": "000000",
+            "profile_text_color": "000000",
+            "profile_use_background_image": false,
+            "has_extended_profile": false,
+            "default_profile": false,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none",
+            "withheld_in_countries": []
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 201,
+        "favorite_count": 687,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "es"
+    },
+    "is_quote_status": false,
+    "retweet_count": 201,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "es"
+}

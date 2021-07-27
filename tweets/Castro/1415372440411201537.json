@@ -1,0 +1,195 @@
+{
+    "created_at": "Wed Jul 14 18:07:40 +0000 2021",
+    "id": 1415372440411201537,
+    "id_str": "1415372440411201537",
+    "full_text": "El cancer no es Cuba. Son los narco comunistas Cubanos y los castro chavistas. https://t.co/Yf1wdgqKHz",
+    "truncated": false,
+    "display_text_range": [
+        0,
+        78
+    ],
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+            {
+                "url": "https://t.co/Yf1wdgqKHz",
+                "expanded_url": "https://twitter.com/hfsalasromer/status/1415316965107900416",
+                "display_url": "twitter.com/hfsalasromer/s\u2026",
+                "indices": [
+                    79,
+                    102
+                ]
+            }
+        ]
+    },
+    "metadata": {
+        "iso_language_code": "es",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 149686888,
+        "id_str": "149686888",
+        "name": "Mario Castro",
+        "screen_name": "mcastrof50",
+        "location": "Chile - Venezuela",
+        "description": "Ing Civil, U. de Chile, IESA. Por una VENEZUELA DEMOCRATICA: https://t.co/7TdKUUVcY8",
+        "url": null,
+        "entities": {
+            "description": {
+                "urls": [
+                    {
+                        "url": "https://t.co/7TdKUUVcY8",
+                        "expanded_url": "http://flip.it/7GfQj",
+                        "display_url": "flip.it/7GfQj",
+                        "indices": [
+                            61,
+                            84
+                        ]
+                    }
+                ]
+            }
+        },
+        "protected": false,
+        "followers_count": 1386,
+        "friends_count": 1459,
+        "listed_count": 14,
+        "created_at": "Sat May 29 23:45:06 +0000 2010",
+        "favourites_count": 7116,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 127666,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/779241662996443137/3J7CFbT__normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/779241662996443137/3J7CFbT__normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/149686888/1527980922",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": true,
+    "quoted_status_id": 1415316965107900416,
+    "quoted_status_id_str": "1415316965107900416",
+    "quoted_status": {
+        "created_at": "Wed Jul 14 14:27:14 +0000 2021",
+        "id": 1415316965107900416,
+        "id_str": "1415316965107900416",
+        "full_text": "El cancer de Latinoam\u00e9rica es CUBA. Es hora de extirpar ese tumor que ha hecho met\u00e1stasis\u2026 Hay que salvar a Latinoam\u00e9rica de esta plaga que somete a nuestros pueblos !",
+        "truncated": false,
+        "display_text_range": [
+            0,
+            167
+        ],
+        "entities": {
+            "hashtags": [],
+            "symbols": [],
+            "user_mentions": [],
+            "urls": []
+        },
+        "metadata": {
+            "iso_language_code": "es",
+            "result_type": "recent"
+        },
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 60957050,
+            "id_str": "60957050",
+            "name": "HenriqueFSalasRomer",
+            "screen_name": "hfsalasromer",
+            "location": "Carabobo Venezuela",
+            "description": "Diputado al Congreso Nacional. Electo 4 veces Gobernador de Carabobo. Presidente Adj. Uni\u00f3n Democrata Internacional (IDU) Latinoamerica y El Caribe (2013-16)",
+            "url": null,
+            "entities": {
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 196408,
+            "friends_count": 2514,
+            "listed_count": 892,
+            "created_at": "Tue Jul 28 16:57:52 +0000 2009",
+            "favourites_count": 94,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": false,
+            "verified": true,
+            "statuses_count": 13726,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "0099B9",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": true,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1277940450654109698/yP3uDuzm_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1277940450654109698/yP3uDuzm_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/60957050/1575904251",
+            "profile_link_color": "0099B9",
+            "profile_sidebar_border_color": "000000",
+            "profile_sidebar_fill_color": "E0C27D",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "has_extended_profile": true,
+            "default_profile": false,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none",
+            "withheld_in_countries": []
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 135,
+        "favorite_count": 260,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "es"
+    },
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "es"
+}

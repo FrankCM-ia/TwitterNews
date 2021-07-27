@@ -1,0 +1,270 @@
+{
+    "created_at": "Wed Jul 14 16:00:11 +0000 2021",
+    "id": 1415340356711895045,
+    "id_str": "1415340356711895045",
+    "full_text": "RT @Jwinterishere: \u00bfVen encapuchados en las marchas de Cuba?\n\u00bfVen destrucci\u00f3n de sus negocios?  \u00bf Ven otra bandera que no sea la Cubana? No\u2026",
+    "truncated": false,
+    "display_text_range": [
+        0,
+        140
+    ],
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "Jwinterishere",
+                "name": "Javierwinter",
+                "id": 1101712765222354944,
+                "id_str": "1101712765222354944",
+                "indices": [
+                    3,
+                    17
+                ]
+            }
+        ],
+        "urls": []
+    },
+    "metadata": {
+        "iso_language_code": "es",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 2277689289,
+        "id_str": "2277689289",
+        "name": "Andreaaaaaaaaa",
+        "screen_name": "BurAndrea",
+        "location": "",
+        "description": "",
+        "url": null,
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 3590,
+        "friends_count": 4999,
+        "listed_count": 0,
+        "created_at": "Sun Jan 12 21:19:37 +0000 2014",
+        "favourites_count": 10782,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 10224,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1202945039518896131/46uC_uJl_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1202945039518896131/46uC_uJl_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2277689289/1427663145",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+        "created_at": "Tue Jul 13 23:18:32 +0000 2021",
+        "id": 1415088283344904208,
+        "id_str": "1415088283344904208",
+        "full_text": "\u00bfVen encapuchados en las marchas de Cuba?\n\u00bfVen destrucci\u00f3n de sus negocios?  \u00bf Ven otra bandera que no sea la Cubana? No, porque cuando se pide libertad, se hace con la cara al descubierto y la frente en alto. Solo los delincuentes salen a destruir encapuchados.\n#SOSCuba https://t.co/CDapKZBA4s",
+        "truncated": false,
+        "display_text_range": [
+            0,
+            271
+        ],
+        "entities": {
+            "hashtags": [
+                {
+                    "text": "SOSCuba",
+                    "indices": [
+                        263,
+                        271
+                    ]
+                }
+            ],
+            "symbols": [],
+            "user_mentions": [],
+            "urls": [],
+            "media": [
+                {
+                    "id": 1415087756200579072,
+                    "id_str": "1415087756200579072",
+                    "indices": [
+                        272,
+                        295
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/E6Nm0RpXEAAQci4.png",
+                    "media_url_https": "https://pbs.twimg.com/media/E6Nm0RpXEAAQci4.png",
+                    "url": "https://t.co/CDapKZBA4s",
+                    "display_url": "pic.twitter.com/CDapKZBA4s",
+                    "expanded_url": "https://twitter.com/Jwinterishere/status/1415088283344904208/photo/1",
+                    "type": "photo",
+                    "sizes": {
+                        "large": {
+                            "w": 802,
+                            "h": 448,
+                            "resize": "fit"
+                        },
+                        "small": {
+                            "w": 680,
+                            "h": 380,
+                            "resize": "fit"
+                        },
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "medium": {
+                            "w": 802,
+                            "h": 448,
+                            "resize": "fit"
+                        }
+                    }
+                }
+            ]
+        },
+        "extended_entities": {
+            "media": [
+                {
+                    "id": 1415087756200579072,
+                    "id_str": "1415087756200579072",
+                    "indices": [
+                        272,
+                        295
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/E6Nm0RpXEAAQci4.png",
+                    "media_url_https": "https://pbs.twimg.com/media/E6Nm0RpXEAAQci4.png",
+                    "url": "https://t.co/CDapKZBA4s",
+                    "display_url": "pic.twitter.com/CDapKZBA4s",
+                    "expanded_url": "https://twitter.com/Jwinterishere/status/1415088283344904208/photo/1",
+                    "type": "photo",
+                    "sizes": {
+                        "large": {
+                            "w": 802,
+                            "h": 448,
+                            "resize": "fit"
+                        },
+                        "small": {
+                            "w": 680,
+                            "h": 380,
+                            "resize": "fit"
+                        },
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "medium": {
+                            "w": 802,
+                            "h": 448,
+                            "resize": "fit"
+                        }
+                    }
+                }
+            ]
+        },
+        "metadata": {
+            "iso_language_code": "es",
+            "result_type": "recent"
+        },
+        "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 1101712765222354944,
+            "id_str": "1101712765222354944",
+            "name": "Javierwinter",
+            "screen_name": "Jwinterishere",
+            "location": "#ChileSinComunistas",
+            "description": "ANTICOMUNISTA, mi partido pol\u00edtico es mi pa\u00eds \ud83c\udde8\ud83c\uddf1, admiro al valiente, respeto al inteligente y me inclino ante el humilde... Me sigues te sigo.",
+            "url": null,
+            "entities": {
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 422,
+            "friends_count": 884,
+            "listed_count": 1,
+            "created_at": "Sat Mar 02 05:16:06 +0000 2019",
+            "favourites_count": 1604,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": false,
+            "verified": false,
+            "statuses_count": 2819,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "F5F8FA",
+            "profile_background_image_url": null,
+            "profile_background_image_url_https": null,
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1413356102381670401/7YnsxvC6_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1413356102381670401/7YnsxvC6_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/1101712765222354944/1618986528",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "has_extended_profile": false,
+            "default_profile": true,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none",
+            "withheld_in_countries": []
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 927,
+        "favorite_count": 1706,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "es"
+    },
+    "is_quote_status": false,
+    "retweet_count": 927,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "es"
+}

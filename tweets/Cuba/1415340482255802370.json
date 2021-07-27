@@ -1,0 +1,282 @@
+{
+    "created_at": "Wed Jul 14 16:00:41 +0000 2021",
+    "id": 1415340482255802370,
+    "id_str": "1415340482255802370",
+    "full_text": "RT @NiEstatNiRei: Hoy Pablo Has\u00e9l cumple 147 d\u00edas en prisi\u00f3n por rapear contra la monarqu\u00eda corrupta espa\u00f1ola. No es en Cuba, es en Espa\u00f1a.\u2026",
+    "truncated": false,
+    "display_text_range": [
+        0,
+        140
+    ],
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "NiEstatNiRei",
+                "name": "GlobalRevolution\ud83c\udff4",
+                "id": 1069046401001238528,
+                "id_str": "1069046401001238528",
+                "indices": [
+                    3,
+                    16
+                ]
+            }
+        ],
+        "urls": []
+    },
+    "metadata": {
+        "iso_language_code": "es",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 1321166541287788546,
+        "id_str": "1321166541287788546",
+        "name": "Luis Perez",
+        "screen_name": "Luis_perez1487",
+        "location": "Gu\u00e1rico, Venezuela",
+        "description": "100% Chavista , madurista , Ch\u00e1vez vive! La patria sigue! Independencia patria socialista! Viviremos y Venceremos \ud83c\uddfb\ud83c\uddea\ud83c\uddfb\ud83c\uddea\u2665\ufe0f",
+        "url": null,
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 872,
+        "friends_count": 797,
+        "listed_count": 0,
+        "created_at": "Tue Oct 27 19:07:47 +0000 2020",
+        "favourites_count": 1315,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 82129,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": null,
+        "profile_background_image_url_https": null,
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1321174451556409346/UUf4x3Jt_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1321174451556409346/UUf4x3Jt_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": true,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+        "created_at": "Tue Jul 13 20:43:19 +0000 2021",
+        "id": 1415049220080476175,
+        "id_str": "1415049220080476175",
+        "full_text": "Hoy Pablo Has\u00e9l cumple 147 d\u00edas en prisi\u00f3n por rapear contra la monarqu\u00eda corrupta espa\u00f1ola. No es en Cuba, es en Espa\u00f1a. https://t.co/ZsLwPa320S",
+        "truncated": false,
+        "display_text_range": [
+            0,
+            145
+        ],
+        "entities": {
+            "hashtags": [],
+            "symbols": [],
+            "user_mentions": [],
+            "urls": [],
+            "media": [
+                {
+                    "id": 1414937884524748801,
+                    "id_str": "1414937884524748801",
+                    "indices": [
+                        122,
+                        145
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/E6LegmJXIAEAE9y.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/E6LegmJXIAEAE9y.jpg",
+                    "url": "https://t.co/ZsLwPa320S",
+                    "display_url": "pic.twitter.com/ZsLwPa320S",
+                    "expanded_url": "https://twitter.com/SWRFernando/status/1414937891051130883/photo/1",
+                    "type": "photo",
+                    "sizes": {
+                        "medium": {
+                            "w": 1200,
+                            "h": 848,
+                            "resize": "fit"
+                        },
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "large": {
+                            "w": 2048,
+                            "h": 1448,
+                            "resize": "fit"
+                        },
+                        "small": {
+                            "w": 680,
+                            "h": 481,
+                            "resize": "fit"
+                        }
+                    },
+                    "source_status_id": 1414937891051130883,
+                    "source_status_id_str": "1414937891051130883",
+                    "source_user_id": 1189485435455713285,
+                    "source_user_id_str": "1189485435455713285"
+                }
+            ]
+        },
+        "extended_entities": {
+            "media": [
+                {
+                    "id": 1414937884524748801,
+                    "id_str": "1414937884524748801",
+                    "indices": [
+                        122,
+                        145
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/E6LegmJXIAEAE9y.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/E6LegmJXIAEAE9y.jpg",
+                    "url": "https://t.co/ZsLwPa320S",
+                    "display_url": "pic.twitter.com/ZsLwPa320S",
+                    "expanded_url": "https://twitter.com/SWRFernando/status/1414937891051130883/photo/1",
+                    "type": "photo",
+                    "sizes": {
+                        "medium": {
+                            "w": 1200,
+                            "h": 848,
+                            "resize": "fit"
+                        },
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "large": {
+                            "w": 2048,
+                            "h": 1448,
+                            "resize": "fit"
+                        },
+                        "small": {
+                            "w": 680,
+                            "h": 481,
+                            "resize": "fit"
+                        }
+                    },
+                    "source_status_id": 1414937891051130883,
+                    "source_status_id_str": "1414937891051130883",
+                    "source_user_id": 1189485435455713285,
+                    "source_user_id_str": "1189485435455713285"
+                }
+            ]
+        },
+        "metadata": {
+            "iso_language_code": "es",
+            "result_type": "recent"
+        },
+        "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 1069046401001238528,
+            "id_str": "1069046401001238528",
+            "name": "GlobalRevolution\ud83c\udff4",
+            "screen_name": "NiEstatNiRei",
+            "location": "Ut\u00f2pic World ",
+            "description": "\ud83d\udd34Cuenta colectivizada por el bien de la libertad\u26ab #GlobalRevolution",
+            "url": "https://t.co/lrpLojMTqh",
+            "entities": {
+                "url": {
+                    "urls": [
+                        {
+                            "url": "https://t.co/lrpLojMTqh",
+                            "expanded_url": "http://t.me/Glob4lRevolution",
+                            "display_url": "t.me/Glob4lRevoluti\u2026",
+                            "indices": [
+                                0,
+                                23
+                            ]
+                        }
+                    ]
+                },
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 18582,
+            "friends_count": 1754,
+            "listed_count": 59,
+            "created_at": "Sun Dec 02 01:51:38 +0000 2018",
+            "favourites_count": 20225,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": false,
+            "verified": false,
+            "statuses_count": 20018,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "F5F8FA",
+            "profile_background_image_url": null,
+            "profile_background_image_url_https": null,
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1332094626157764608/tbv3p3uy_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1332094626157764608/tbv3p3uy_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/1069046401001238528/1621112808",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "has_extended_profile": false,
+            "default_profile": true,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none",
+            "withheld_in_countries": []
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 1841,
+        "favorite_count": 2404,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "es"
+    },
+    "is_quote_status": false,
+    "retweet_count": 1841,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "es"
+}

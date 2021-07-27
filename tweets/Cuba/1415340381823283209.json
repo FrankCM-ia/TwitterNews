@@ -1,0 +1,196 @@
+{
+    "created_at": "Wed Jul 14 16:00:17 +0000 2021",
+    "id": 1415340381823283209,
+    "id_str": "1415340381823283209",
+    "full_text": "\ud83c\udfa5 Carlos Llor\u00f3 y una Cuba profunda, \"amurallada\" y \"laber\u00edntica\" [#DesdeElJard\u00edn tambi\u00e9n est\u00e1 en YouTube] \u2192 https://t.co/TtTwfzVfHy https://t.co/4lkL4ybfm1",
+    "truncated": false,
+    "display_text_range": [
+        0,
+        131
+    ],
+    "entities": {
+        "hashtags": [
+            {
+                "text": "DesdeElJard\u00edn",
+                "indices": [
+                    66,
+                    80
+                ]
+            }
+        ],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+            {
+                "url": "https://t.co/TtTwfzVfHy",
+                "expanded_url": "https://bit.ly/3ekvq13",
+                "display_url": "bit.ly/3ekvq13",
+                "indices": [
+                    108,
+                    131
+                ]
+            }
+        ],
+        "media": [
+            {
+                "id": 1415340350701543430,
+                "id_str": "1415340350701543430",
+                "indices": [
+                    132,
+                    155
+                ],
+                "media_url": "http://pbs.twimg.com/media/E6RMjNfXoAY4yQS.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/E6RMjNfXoAY4yQS.jpg",
+                "url": "https://t.co/4lkL4ybfm1",
+                "display_url": "pic.twitter.com/4lkL4ybfm1",
+                "expanded_url": "https://twitter.com/Pauta_cl/status/1415340381823283209/photo/1",
+                "type": "photo",
+                "sizes": {
+                    "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                    },
+                    "medium": {
+                        "w": 1200,
+                        "h": 675,
+                        "resize": "fit"
+                    },
+                    "small": {
+                        "w": 680,
+                        "h": 383,
+                        "resize": "fit"
+                    },
+                    "large": {
+                        "w": 1920,
+                        "h": 1080,
+                        "resize": "fit"
+                    }
+                }
+            }
+        ]
+    },
+    "extended_entities": {
+        "media": [
+            {
+                "id": 1415340350701543430,
+                "id_str": "1415340350701543430",
+                "indices": [
+                    132,
+                    155
+                ],
+                "media_url": "http://pbs.twimg.com/media/E6RMjNfXoAY4yQS.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/E6RMjNfXoAY4yQS.jpg",
+                "url": "https://t.co/4lkL4ybfm1",
+                "display_url": "pic.twitter.com/4lkL4ybfm1",
+                "expanded_url": "https://twitter.com/Pauta_cl/status/1415340381823283209/photo/1",
+                "type": "photo",
+                "sizes": {
+                    "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                    },
+                    "medium": {
+                        "w": 1200,
+                        "h": 675,
+                        "resize": "fit"
+                    },
+                    "small": {
+                        "w": 680,
+                        "h": 383,
+                        "resize": "fit"
+                    },
+                    "large": {
+                        "w": 1920,
+                        "h": 1080,
+                        "resize": "fit"
+                    }
+                }
+            }
+        ]
+    },
+    "metadata": {
+        "iso_language_code": "es",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 940933520855392257,
+        "id_str": "940933520855392257",
+        "name": "Pauta",
+        "screen_name": "Pauta_cl",
+        "location": "Providencia, Chile",
+        "description": "Hablemos de verdad.",
+        "url": "https://t.co/xY2RgjTWyu",
+        "entities": {
+            "url": {
+                "urls": [
+                    {
+                        "url": "https://t.co/xY2RgjTWyu",
+                        "expanded_url": "http://www.pauta.cl",
+                        "display_url": "pauta.cl",
+                        "indices": [
+                            0,
+                            23
+                        ]
+                    }
+                ]
+            },
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 24159,
+        "friends_count": 242,
+        "listed_count": 119,
+        "created_at": "Wed Dec 13 13:16:47 +0000 2017",
+        "favourites_count": 550,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 89584,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1039615633346973696/C02pE52c_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1039615633346973696/C02pE52c_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/940933520855392257/1536589899",
+        "profile_link_color": "00C7B1",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "profile_use_background_image": false,
+        "has_extended_profile": false,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "es"
+}

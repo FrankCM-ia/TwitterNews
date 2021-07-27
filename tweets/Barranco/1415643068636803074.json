@@ -1,0 +1,117 @@
+{
+    "created_at": "Thu Jul 15 12:03:03 +0000 2021",
+    "id": 1415643068636803074,
+    "id_str": "1415643068636803074",
+    "full_text": "@FuensantaLM Diciendo @pablocasado. Repita conmigo pedro. Cuba es una dictadura. Cuba es una dictadura. Se puede ser m\u00e1s pat\u00e9tico? @populares la gran KK de la oposici\u00f3n a un psic\u00f3pata que maneja un Pa\u00eds. No se si habr\u00e1 votos, pero estos van al barranco",
+    "truncated": false,
+    "display_text_range": [
+        13,
+        252
+    ],
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "FuensantaLM",
+                "name": "Fuensanta L\u00f3pez",
+                "id": 602687573,
+                "id_str": "602687573",
+                "indices": [
+                    0,
+                    12
+                ]
+            },
+            {
+                "screen_name": "pablocasado",
+                "name": "Pablo Casado",
+                "id": 15584951,
+                "id_str": "15584951",
+                "indices": [
+                    22,
+                    34
+                ]
+            },
+            {
+                "screen_name": "populares",
+                "name": "Partido Popular",
+                "id": 20509689,
+                "id_str": "20509689",
+                "indices": [
+                    131,
+                    141
+                ]
+            }
+        ],
+        "urls": []
+    },
+    "metadata": {
+        "iso_language_code": "es",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "in_reply_to_status_id": 1415610523551469572,
+    "in_reply_to_status_id_str": "1415610523551469572",
+    "in_reply_to_user_id": 602687573,
+    "in_reply_to_user_id_str": "602687573",
+    "in_reply_to_screen_name": "FuensantaLM",
+    "user": {
+        "id": 1249804377281396737,
+        "id_str": "1249804377281396737",
+        "name": "Z@ra@",
+        "screen_name": "zara_zara2000",
+        "location": "",
+        "description": "Amante de la libertad \ud83d\udc9d V.E.R.D.E.\ud83c\udf44\ud83c\udf3c\ud83c\udf3c\ud83c\udf40\ud83c\udf3c\ud83c\udf3c\n#MiVidaMiOxigeno\n#BaldosasAmarillas",
+        "url": null,
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 315,
+        "friends_count": 124,
+        "listed_count": 2,
+        "created_at": "Mon Apr 13 20:59:49 +0000 2020",
+        "favourites_count": 17568,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 7740,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": null,
+        "profile_background_image_url_https": null,
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1323276282822623232/Ln7_5cYg_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1323276282822623232/Ln7_5cYg_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1249804377281396737/1601135669",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "es"
+}

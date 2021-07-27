@@ -1,0 +1,355 @@
+{
+    "created_at": "Wed Jul 14 18:03:23 +0000 2021",
+    "id": 1415371359513886722,
+    "id_str": "1415371359513886722",
+    "full_text": "RT @aurorab933: Si Cuba no es una dictadura, se parece bastante.\n#ComunismoCriminal\n#SOSCubaLibre \n#CubaEsUnaDictadura https://t.co/Q1SA4et\u2026",
+    "truncated": false,
+    "display_text_range": [
+        0,
+        140
+    ],
+    "entities": {
+        "hashtags": [
+            {
+                "text": "ComunismoCriminal",
+                "indices": [
+                    65,
+                    83
+                ]
+            },
+            {
+                "text": "SOSCubaLibre",
+                "indices": [
+                    84,
+                    97
+                ]
+            },
+            {
+                "text": "CubaEsUnaDictadura",
+                "indices": [
+                    99,
+                    118
+                ]
+            }
+        ],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "aurorab933",
+                "name": "borealis",
+                "id": 974783574,
+                "id_str": "974783574",
+                "indices": [
+                    3,
+                    14
+                ]
+            }
+        ],
+        "urls": []
+    },
+    "metadata": {
+        "iso_language_code": "es",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 3347425151,
+        "id_str": "3347425151",
+        "name": "\u2b1b Severino Pontocorvo \ud83c\udf1e",
+        "screen_name": "EquidistanteZen",
+        "location": "Graymalkin Lane 1407. ",
+        "description": "Soy tabernario porque el mundo me ha hecho asiiinnn!\n                                                   \ud83e\udde2(2) \ud83d\udcfa \ud83d\udc94(3) \ud83d\udd2b(8)\ud83c\udf97(31)\ud83d\udd3b(107) \ud83e\udd40(9)",
+        "url": null,
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 13998,
+        "friends_count": 13750,
+        "listed_count": 40,
+        "created_at": "Sat Jun 27 10:51:17 +0000 2015",
+        "favourites_count": 119324,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 139300,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1349828356825604105/XflxYtUN_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1349828356825604105/XflxYtUN_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/3347425151/1524260655",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+        "created_at": "Wed Jul 14 16:21:14 +0000 2021",
+        "id": 1415345653018943491,
+        "id_str": "1415345653018943491",
+        "full_text": "Si Cuba no es una dictadura, se parece bastante.\n#ComunismoCriminal\n#SOSCubaLibre \n#CubaEsUnaDictadura https://t.co/Q1SA4etpwk",
+        "truncated": false,
+        "display_text_range": [
+            0,
+            102
+        ],
+        "entities": {
+            "hashtags": [
+                {
+                    "text": "ComunismoCriminal",
+                    "indices": [
+                        49,
+                        67
+                    ]
+                },
+                {
+                    "text": "SOSCubaLibre",
+                    "indices": [
+                        68,
+                        81
+                    ]
+                },
+                {
+                    "text": "CubaEsUnaDictadura",
+                    "indices": [
+                        83,
+                        102
+                    ]
+                }
+            ],
+            "symbols": [],
+            "user_mentions": [],
+            "urls": [],
+            "media": [
+                {
+                    "id": 1415345646962454537,
+                    "id_str": "1415345646962454537",
+                    "indices": [
+                        103,
+                        126
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/E6RRXfmXsAkr81a.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/E6RRXfmXsAkr81a.jpg",
+                    "url": "https://t.co/Q1SA4etpwk",
+                    "display_url": "pic.twitter.com/Q1SA4etpwk",
+                    "expanded_url": "https://twitter.com/aurorab933/status/1415345653018943491/photo/1",
+                    "type": "photo",
+                    "sizes": {
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "small": {
+                            "w": 518,
+                            "h": 680,
+                            "resize": "fit"
+                        },
+                        "medium": {
+                            "w": 720,
+                            "h": 946,
+                            "resize": "fit"
+                        },
+                        "large": {
+                            "w": 720,
+                            "h": 946,
+                            "resize": "fit"
+                        }
+                    }
+                }
+            ]
+        },
+        "extended_entities": {
+            "media": [
+                {
+                    "id": 1415345646962454537,
+                    "id_str": "1415345646962454537",
+                    "indices": [
+                        103,
+                        126
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/E6RRXfmXsAkr81a.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/E6RRXfmXsAkr81a.jpg",
+                    "url": "https://t.co/Q1SA4etpwk",
+                    "display_url": "pic.twitter.com/Q1SA4etpwk",
+                    "expanded_url": "https://twitter.com/aurorab933/status/1415345653018943491/photo/1",
+                    "type": "photo",
+                    "sizes": {
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "small": {
+                            "w": 518,
+                            "h": 680,
+                            "resize": "fit"
+                        },
+                        "medium": {
+                            "w": 720,
+                            "h": 946,
+                            "resize": "fit"
+                        },
+                        "large": {
+                            "w": 720,
+                            "h": 946,
+                            "resize": "fit"
+                        }
+                    }
+                },
+                {
+                    "id": 1415345650460512259,
+                    "id_str": "1415345650460512259",
+                    "indices": [
+                        103,
+                        126
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/E6RRXsoX0AMcJbQ.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/E6RRXsoX0AMcJbQ.jpg",
+                    "url": "https://t.co/Q1SA4etpwk",
+                    "display_url": "pic.twitter.com/Q1SA4etpwk",
+                    "expanded_url": "https://twitter.com/aurorab933/status/1415345653018943491/photo/1",
+                    "type": "photo",
+                    "sizes": {
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "medium": {
+                            "w": 720,
+                            "h": 1143,
+                            "resize": "fit"
+                        },
+                        "large": {
+                            "w": 720,
+                            "h": 1143,
+                            "resize": "fit"
+                        },
+                        "small": {
+                            "w": 428,
+                            "h": 680,
+                            "resize": "fit"
+                        }
+                    }
+                }
+            ]
+        },
+        "metadata": {
+            "iso_language_code": "es",
+            "result_type": "recent"
+        },
+        "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 974783574,
+            "id_str": "974783574",
+            "name": "borealis",
+            "screen_name": "aurorab933",
+            "location": "\u05e1\u05b0\u05e4\u05b8\u05e8\u05b7\u05d3",
+            "description": "\u269b\ufe0f\ud83d\udd4e\ud83c\udfcc\ufe0f\ud83e\uddd8\ud83c\udffb\u200d\u2640\ufe0f\ud83d\udc08\ud83d\udc28\ud83d\udc2c\ud83c\udf0b\ud83c\udfd6\ufe0f",
+            "url": "https://t.co/GYNLR1lxqR",
+            "entities": {
+                "url": {
+                    "urls": [
+                        {
+                            "url": "https://t.co/GYNLR1lxqR",
+                            "expanded_url": "https://www.udiscovermusic.com/stories/50-greatest-jazz-albums-ever/",
+                            "display_url": "udiscovermusic.com/stories/50-gre\u2026",
+                            "indices": [
+                                0,
+                                23
+                            ]
+                        }
+                    ]
+                },
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 3769,
+            "friends_count": 3123,
+            "listed_count": 108,
+            "created_at": "Tue Nov 27 21:48:56 +0000 2012",
+            "favourites_count": 419758,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": true,
+            "verified": false,
+            "statuses_count": 495107,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "C0DEED",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1214786039111401473/bJRILGl1_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1214786039111401473/bJRILGl1_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/974783574/1442930008",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "has_extended_profile": false,
+            "default_profile": true,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none",
+            "withheld_in_countries": []
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 7,
+        "favorite_count": 6,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "es"
+    },
+    "is_quote_status": false,
+    "retweet_count": 7,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "es"
+}

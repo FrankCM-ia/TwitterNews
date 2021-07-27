@@ -1,0 +1,183 @@
+{
+    "created_at": "Wed Jul 14 18:12:50 +0000 2021",
+    "id": 1415373739747954688,
+    "id_str": "1415373739747954688",
+    "full_text": "RT @ReyCholo14: Cada d\u00eda queda menos para que se descubra c\u00f3mo Florentino compr\u00f3 las Champions.",
+    "truncated": false,
+    "display_text_range": [
+        0,
+        95
+    ],
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "ReyCholo14",
+                "name": "REY CHOLO",
+                "id": 1136369787389579265,
+                "id_str": "1136369787389579265",
+                "indices": [
+                    3,
+                    14
+                ]
+            }
+        ],
+        "urls": []
+    },
+    "metadata": {
+        "iso_language_code": "es",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 1272465033683972096,
+        "id_str": "1272465033683972096",
+        "name": "DavoGR\ud83c\udfc6",
+        "screen_name": "DavidGR666",
+        "location": "",
+        "description": "Ofendo a tod@s por igual (desde 2014)\n@IgnatiusFarray @rickyberwick @IronMaiden @RealSociedad @WestHam #Inked Soy el padre de Leia",
+        "url": null,
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 926,
+        "friends_count": 822,
+        "listed_count": 3,
+        "created_at": "Mon Jun 15 09:45:03 +0000 2020",
+        "favourites_count": 82050,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 32681,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": null,
+        "profile_background_image_url_https": null,
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1378541607004291072/GRUvpmZa_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1378541607004291072/GRUvpmZa_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1272465033683972096/1617504846",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": true,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+        "created_at": "Tue Jul 13 12:37:56 +0000 2021",
+        "id": 1414927070317137922,
+        "id_str": "1414927070317137922",
+        "full_text": "Cada d\u00eda queda menos para que se descubra c\u00f3mo Florentino compr\u00f3 las Champions.",
+        "truncated": false,
+        "display_text_range": [
+            0,
+            79
+        ],
+        "entities": {
+            "hashtags": [],
+            "symbols": [],
+            "user_mentions": [],
+            "urls": []
+        },
+        "metadata": {
+            "iso_language_code": "es",
+            "result_type": "recent"
+        },
+        "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 1136369787389579265,
+            "id_str": "1136369787389579265",
+            "name": "REY CHOLO",
+            "screen_name": "ReyCholo14",
+            "location": "",
+            "description": "Mi equipo gan\u00f3 una liga gracias a una pausa de hidrataci\u00f3n",
+            "url": null,
+            "entities": {
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 15311,
+            "friends_count": 515,
+            "listed_count": 69,
+            "created_at": "Wed Jun 05 20:30:44 +0000 2019",
+            "favourites_count": 31283,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": false,
+            "verified": false,
+            "statuses_count": 28257,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "F5F8FA",
+            "profile_background_image_url": null,
+            "profile_background_image_url_https": null,
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1352375522811117569/i2vu1X72_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1352375522811117569/i2vu1X72_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/1136369787389579265/1622057795",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "has_extended_profile": false,
+            "default_profile": true,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none",
+            "withheld_in_countries": []
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 397,
+        "favorite_count": 2501,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "es"
+    },
+    "is_quote_status": false,
+    "retweet_count": 397,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "es"
+}

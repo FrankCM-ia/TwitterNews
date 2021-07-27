@@ -1,0 +1,355 @@
+{
+    "created_at": "Wed Jul 14 16:00:44 +0000 2021",
+    "id": 1415340494259990529,
+    "id_str": "1415340494259990529",
+    "full_text": "RT @norges14: .@OFundichely sobre la represi\u00f3n durante protestas en Cuba:. \n\n\u201cPreferiste iniciar una guerra entre cubanos, una guerra muy d\u2026",
+    "truncated": false,
+    "display_text_range": [
+        0,
+        140
+    ],
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "norges14",
+                "name": "Norges Rodr\u00edguez",
+                "id": 96225945,
+                "id_str": "96225945",
+                "indices": [
+                    3,
+                    12
+                ]
+            },
+            {
+                "screen_name": "OFundichely",
+                "name": "Orlando Fundichely",
+                "id": 373337061,
+                "id_str": "373337061",
+                "indices": [
+                    15,
+                    27
+                ]
+            }
+        ],
+        "urls": []
+    },
+    "metadata": {
+        "iso_language_code": "es",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 1145855810431606785,
+        "id_str": "1145855810431606785",
+        "name": "CATA",
+        "screen_name": "mamijustmami",
+        "location": "",
+        "description": "SPICY LATINA\ud83c\udde8\ud83c\uddf1\ud83c\udde8\ud83c\uddfa",
+        "url": "https://t.co/ocRpjFaaV7",
+        "entities": {
+            "url": {
+                "urls": [
+                    {
+                        "url": "https://t.co/ocRpjFaaV7",
+                        "expanded_url": "https://instagram.com/catalinarosss?igshid=1r8am5x6co28m",
+                        "display_url": "instagram.com/catalinarosss?\u2026",
+                        "indices": [
+                            0,
+                            23
+                        ]
+                    }
+                ]
+            },
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 3727,
+        "friends_count": 570,
+        "listed_count": 1,
+        "created_at": "Tue Jul 02 00:44:48 +0000 2019",
+        "favourites_count": 27850,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 15394,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": null,
+        "profile_background_image_url_https": null,
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1413705638060953604/_4pmvj5i_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1413705638060953604/_4pmvj5i_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1145855810431606785/1625683553",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": true,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+        "created_at": "Wed Jul 14 12:05:44 +0000 2021",
+        "id": 1415281353994690566,
+        "id_str": "1415281353994690566",
+        "full_text": ".@OFundichely sobre la represi\u00f3n durante protestas en Cuba:. \n\n\u201cPreferiste iniciar una guerra entre cubanos, una guerra muy desigual d\u00f3nde unos tienen hambre y los otros tienen armas\u201d\n\ncc: @DiazCanelB https://t.co/XoOp9krhg6",
+        "truncated": false,
+        "display_text_range": [
+            0,
+            200
+        ],
+        "entities": {
+            "hashtags": [],
+            "symbols": [],
+            "user_mentions": [
+                {
+                    "screen_name": "OFundichely",
+                    "name": "Orlando Fundichely",
+                    "id": 373337061,
+                    "id_str": "373337061",
+                    "indices": [
+                        1,
+                        13
+                    ]
+                },
+                {
+                    "screen_name": "DiazCanelB",
+                    "name": "Miguel D\u00edaz-Canel Berm\u00fadez",
+                    "id": 1025037163291914240,
+                    "id_str": "1025037163291914240",
+                    "indices": [
+                        189,
+                        200
+                    ]
+                }
+            ],
+            "urls": [],
+            "media": [
+                {
+                    "id": 1415281348156272640,
+                    "id_str": "1415281348156272640",
+                    "indices": [
+                        201,
+                        224
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/E6QW4z4XMAAKUhy.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/E6QW4z4XMAAKUhy.jpg",
+                    "url": "https://t.co/XoOp9krhg6",
+                    "display_url": "pic.twitter.com/XoOp9krhg6",
+                    "expanded_url": "https://twitter.com/norges14/status/1415281353994690566/photo/1",
+                    "type": "photo",
+                    "sizes": {
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "large": {
+                            "w": 1284,
+                            "h": 1440,
+                            "resize": "fit"
+                        },
+                        "medium": {
+                            "w": 1070,
+                            "h": 1200,
+                            "resize": "fit"
+                        },
+                        "small": {
+                            "w": 606,
+                            "h": 680,
+                            "resize": "fit"
+                        }
+                    }
+                }
+            ]
+        },
+        "extended_entities": {
+            "media": [
+                {
+                    "id": 1415281348156272640,
+                    "id_str": "1415281348156272640",
+                    "indices": [
+                        201,
+                        224
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/E6QW4z4XMAAKUhy.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/E6QW4z4XMAAKUhy.jpg",
+                    "url": "https://t.co/XoOp9krhg6",
+                    "display_url": "pic.twitter.com/XoOp9krhg6",
+                    "expanded_url": "https://twitter.com/norges14/status/1415281353994690566/photo/1",
+                    "type": "photo",
+                    "sizes": {
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "large": {
+                            "w": 1284,
+                            "h": 1440,
+                            "resize": "fit"
+                        },
+                        "medium": {
+                            "w": 1070,
+                            "h": 1200,
+                            "resize": "fit"
+                        },
+                        "small": {
+                            "w": 606,
+                            "h": 680,
+                            "resize": "fit"
+                        }
+                    }
+                },
+                {
+                    "id": 1415281349087440896,
+                    "id_str": "1415281349087440896",
+                    "indices": [
+                        201,
+                        224
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/E6QW43WXsAAwlnP.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/E6QW43WXsAAwlnP.jpg",
+                    "url": "https://t.co/XoOp9krhg6",
+                    "display_url": "pic.twitter.com/XoOp9krhg6",
+                    "expanded_url": "https://twitter.com/norges14/status/1415281353994690566/photo/1",
+                    "type": "photo",
+                    "sizes": {
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "large": {
+                            "w": 1284,
+                            "h": 731,
+                            "resize": "fit"
+                        },
+                        "small": {
+                            "w": 680,
+                            "h": 387,
+                            "resize": "fit"
+                        },
+                        "medium": {
+                            "w": 1200,
+                            "h": 683,
+                            "resize": "fit"
+                        }
+                    }
+                }
+            ]
+        },
+        "metadata": {
+            "iso_language_code": "es",
+            "result_type": "recent"
+        },
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 96225945,
+            "id_str": "96225945",
+            "name": "Norges Rodr\u00edguez",
+            "screen_name": "norges14",
+            "location": "Miami, FL",
+            "description": "CEO & Co-Founder at @yucabyte \ud83c\udde8\ud83c\uddfa\ud83c\udff3\ufe0f\u200d\ud83c\udf08\ud83c\uddfa\ud83c\uddf8\ud83c\uddea\ud83c\uddea",
+            "url": "https://t.co/1v8dpj6DVZ",
+            "entities": {
+                "url": {
+                    "urls": [
+                        {
+                            "url": "https://t.co/1v8dpj6DVZ",
+                            "expanded_url": "http://t.me/norges14",
+                            "display_url": "t.me/norges14",
+                            "indices": [
+                                0,
+                                23
+                            ]
+                        }
+                    ]
+                },
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 13931,
+            "friends_count": 5841,
+            "listed_count": 174,
+            "created_at": "Fri Dec 11 23:00:07 +0000 2009",
+            "favourites_count": 85032,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": true,
+            "verified": true,
+            "statuses_count": 32169,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "C0DEED",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1401739368893718531/Q9p0JZVT_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1401739368893718531/Q9p0JZVT_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/96225945/1620352092",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "has_extended_profile": true,
+            "default_profile": true,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none",
+            "withheld_in_countries": []
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 161,
+        "favorite_count": 229,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "es"
+    },
+    "is_quote_status": false,
+    "retweet_count": 161,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "es"
+}

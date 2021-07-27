@@ -1,0 +1,224 @@
+{
+    "created_at": "Wed Jul 14 17:56:20 +0000 2021",
+    "id": 1415369586397098001,
+    "id_str": "1415369586397098001",
+    "full_text": "RT @_vallenue: A todo los fachas de  @podemos  \u00bf no os interesa ver el programa de Risto @Todoesverdadtv? . Para que veais  las  mierdas qu\u2026",
+    "truncated": false,
+    "display_text_range": [
+        0,
+        140
+    ],
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "_vallenue",
+                "name": "\ud83d\udc9a \ud835\udc97\ud835\udc82\ud835\udc8d\ud835\udc8d\ud835\udc86\ud835\udc8f\ud835\udc96\ud835\udc86 \ud83d\udc9a",
+                "id": 1720553408,
+                "id_str": "1720553408",
+                "indices": [
+                    3,
+                    13
+                ]
+            },
+            {
+                "screen_name": "PODEMOS",
+                "name": "PODEMOS",
+                "id": 2288138575,
+                "id_str": "2288138575",
+                "indices": [
+                    37,
+                    45
+                ]
+            },
+            {
+                "screen_name": "Todoesverdadtv",
+                "name": "Todo es verdad",
+                "id": 1321787037482127360,
+                "id_str": "1321787037482127360",
+                "indices": [
+                    89,
+                    104
+                ]
+            }
+        ],
+        "urls": []
+    },
+    "metadata": {
+        "iso_language_code": "es",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 1031615917212483585,
+        "id_str": "1031615917212483585",
+        "name": "@Esther 32837485",
+        "screen_name": "Esther32837485",
+        "location": "Tarragona ",
+        "description": "Espa\u00f1olaza hasta la m\u00e9dula a quien no le guste....!!!!!\nLa puerta es muy grande yo le acompa\u00f1o\ud83d\udc83\ud83c\uddea\ud83c\udde6\ud83d\udc9a\n#SINoEsContigoNoSer\u00e1ConNadiePamg\n#FUERZA_Y_HONOR",
+        "url": null,
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 14634,
+        "friends_count": 14474,
+        "listed_count": 24,
+        "created_at": "Mon Aug 20 18:56:15 +0000 2018",
+        "favourites_count": 209231,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 259359,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": null,
+        "profile_background_image_url_https": null,
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1344812693824413706/4TQGREUs_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1344812693824413706/4TQGREUs_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1031615917212483585/1612568342",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+        "created_at": "Tue Jul 13 21:34:56 +0000 2021",
+        "id": 1415062210896965637,
+        "id_str": "1415062210896965637",
+        "full_text": "A todo los fachas de  @podemos  \u00bf no os interesa ver el programa de Risto @Todoesverdadtv? . Para que veais  las  mierdas que defendeis del regimen  de Fidel Castro . Ojala y nunca paseis por algo parecido . HDLGP",
+        "truncated": false,
+        "display_text_range": [
+            0,
+            213
+        ],
+        "entities": {
+            "hashtags": [],
+            "symbols": [],
+            "user_mentions": [
+                {
+                    "screen_name": "PODEMOS",
+                    "name": "PODEMOS",
+                    "id": 2288138575,
+                    "id_str": "2288138575",
+                    "indices": [
+                        22,
+                        30
+                    ]
+                },
+                {
+                    "screen_name": "Todoesverdadtv",
+                    "name": "Todo es verdad",
+                    "id": 1321787037482127360,
+                    "id_str": "1321787037482127360",
+                    "indices": [
+                        74,
+                        89
+                    ]
+                }
+            ],
+            "urls": []
+        },
+        "metadata": {
+            "iso_language_code": "es",
+            "result_type": "recent"
+        },
+        "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 1720553408,
+            "id_str": "1720553408",
+            "name": "\ud83d\udc9a \ud835\udc97\ud835\udc82\ud835\udc8d\ud835\udc8d\ud835\udc86\ud835\udc8f\ud835\udc96\ud835\udc86 \ud83d\udc9a",
+            "screen_name": "_vallenue",
+            "location": "Reino De Mi casa ",
+            "description": "Vale m\u00e1s que te rechacen por ser sincera, a que te acepten por ser una hip\u00f3crita.\n\n\n      \ud83d\udc51    MD \u26d4",
+            "url": null,
+            "entities": {
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 4102,
+            "friends_count": 3231,
+            "listed_count": 1,
+            "created_at": "Sun Sep 01 23:27:11 +0000 2013",
+            "favourites_count": 30411,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": false,
+            "verified": false,
+            "statuses_count": 45765,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": true,
+            "profile_background_color": "022330",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme11/bg.gif",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme11/bg.gif",
+            "profile_background_tile": true,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1412446711469985798/lOgYAypb_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1412446711469985798/lOgYAypb_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/1720553408/1625529221",
+            "profile_link_color": "E81C4F",
+            "profile_sidebar_border_color": "FFFFFF",
+            "profile_sidebar_fill_color": "DC91A4",
+            "profile_text_color": "CF5736",
+            "profile_use_background_image": true,
+            "has_extended_profile": false,
+            "default_profile": false,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none",
+            "withheld_in_countries": []
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 20,
+        "favorite_count": 37,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "es"
+    },
+    "is_quote_status": false,
+    "retweet_count": 20,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "es"
+}

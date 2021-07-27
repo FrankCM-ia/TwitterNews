@@ -1,0 +1,187 @@
+{
+    "created_at": "Wed Jul 14 16:00:23 +0000 2021",
+    "id": 1415340405554569222,
+    "id_str": "1415340405554569222",
+    "full_text": "Esta Revoluci\u00f3n es de hombres del pueblo, de hombres de historias Viva Cuba, Viva Fidel Canel Y Ra\u00fal #Fidel, #Canel #Elpuebloestacontigo. https://t.co/aBEgbcw8ba",
+    "truncated": false,
+    "display_text_range": [
+        0,
+        137
+    ],
+    "entities": {
+        "hashtags": [
+            {
+                "text": "Fidel",
+                "indices": [
+                    101,
+                    107
+                ]
+            },
+            {
+                "text": "Canel",
+                "indices": [
+                    109,
+                    115
+                ]
+            },
+            {
+                "text": "Elpuebloestacontigo",
+                "indices": [
+                    116,
+                    136
+                ]
+            }
+        ],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [],
+        "media": [
+            {
+                "id": 1415340236658389000,
+                "id_str": "1415340236658389000",
+                "indices": [
+                    138,
+                    161
+                ],
+                "media_url": "http://pbs.twimg.com/media/E6RMckpXMAgw8Kx.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/E6RMckpXMAgw8Kx.jpg",
+                "url": "https://t.co/aBEgbcw8ba",
+                "display_url": "pic.twitter.com/aBEgbcw8ba",
+                "expanded_url": "https://twitter.com/diaz_esbu/status/1415340405554569222/photo/1",
+                "type": "photo",
+                "sizes": {
+                    "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                    },
+                    "medium": {
+                        "w": 404,
+                        "h": 395,
+                        "resize": "fit"
+                    },
+                    "small": {
+                        "w": 404,
+                        "h": 395,
+                        "resize": "fit"
+                    },
+                    "large": {
+                        "w": 404,
+                        "h": 395,
+                        "resize": "fit"
+                    }
+                }
+            }
+        ]
+    },
+    "extended_entities": {
+        "media": [
+            {
+                "id": 1415340236658389000,
+                "id_str": "1415340236658389000",
+                "indices": [
+                    138,
+                    161
+                ],
+                "media_url": "http://pbs.twimg.com/media/E6RMckpXMAgw8Kx.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/E6RMckpXMAgw8Kx.jpg",
+                "url": "https://t.co/aBEgbcw8ba",
+                "display_url": "pic.twitter.com/aBEgbcw8ba",
+                "expanded_url": "https://twitter.com/diaz_esbu/status/1415340405554569222/photo/1",
+                "type": "photo",
+                "sizes": {
+                    "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                    },
+                    "medium": {
+                        "w": 404,
+                        "h": 395,
+                        "resize": "fit"
+                    },
+                    "small": {
+                        "w": 404,
+                        "h": 395,
+                        "resize": "fit"
+                    },
+                    "large": {
+                        "w": 404,
+                        "h": 395,
+                        "resize": "fit"
+                    }
+                }
+            }
+        ]
+    },
+    "metadata": {
+        "iso_language_code": "es",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 1229846014376521728,
+        "id_str": "1229846014376521728",
+        "name": "SB:Hermanos D\u00edaz Robert Tercer Frente",
+        "screen_name": "diaz_esbu",
+        "location": "",
+        "description": "",
+        "url": null,
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 347,
+        "friends_count": 663,
+        "listed_count": 0,
+        "created_at": "Tue Feb 18 19:12:32 +0000 2020",
+        "favourites_count": 314,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 340,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": null,
+        "profile_background_image_url_https": null,
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1229849023898693632/4f7n4C-1_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1229849023898693632/4f7n4C-1_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1229846014376521728/1582053844",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 1,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "es"
+}

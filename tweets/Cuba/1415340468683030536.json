@@ -1,0 +1,522 @@
+{
+    "created_at": "Wed Jul 14 16:00:38 +0000 2021",
+    "id": 1415340468683030536,
+    "id_str": "1415340468683030536",
+    "full_text": "RT @PabloEchenique: Esto de @J_Sanchez_Serna sobre Cuba es BESTIAL y es todo un manual anticu\u00f1ados. https://t.co/6TDm5KujRa",
+    "truncated": false,
+    "display_text_range": [
+        0,
+        123
+    ],
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "PabloEchenique",
+                "name": "Pablo Echenique",
+                "id": 25555639,
+                "id_str": "25555639",
+                "indices": [
+                    3,
+                    18
+                ]
+            },
+            {
+                "screen_name": "J_Sanchez_Serna",
+                "name": "Javier S\u00e1nchez Serna",
+                "id": 300969753,
+                "id_str": "300969753",
+                "indices": [
+                    28,
+                    44
+                ]
+            }
+        ],
+        "urls": [],
+        "media": [
+            {
+                "id": 1415270581101109250,
+                "id_str": "1415270581101109250",
+                "indices": [
+                    100,
+                    123
+                ],
+                "media_url": "http://pbs.twimg.com/amplify_video_thumb/1415270581101109250/img/pqLh6fBVSuumq0VW.jpg",
+                "media_url_https": "https://pbs.twimg.com/amplify_video_thumb/1415270581101109250/img/pqLh6fBVSuumq0VW.jpg",
+                "url": "https://t.co/6TDm5KujRa",
+                "display_url": "pic.twitter.com/6TDm5KujRa",
+                "expanded_url": "https://twitter.com/PabloEchenique/status/1415270836337000449/video/1",
+                "type": "photo",
+                "sizes": {
+                    "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                    },
+                    "small": {
+                        "w": 640,
+                        "h": 352,
+                        "resize": "fit"
+                    },
+                    "medium": {
+                        "w": 640,
+                        "h": 352,
+                        "resize": "fit"
+                    },
+                    "large": {
+                        "w": 640,
+                        "h": 352,
+                        "resize": "fit"
+                    }
+                },
+                "source_status_id": 1415270836337000449,
+                "source_status_id_str": "1415270836337000449",
+                "source_user_id": 25555639,
+                "source_user_id_str": "25555639"
+            }
+        ]
+    },
+    "extended_entities": {
+        "media": [
+            {
+                "id": 1415270581101109250,
+                "id_str": "1415270581101109250",
+                "indices": [
+                    100,
+                    123
+                ],
+                "media_url": "http://pbs.twimg.com/amplify_video_thumb/1415270581101109250/img/pqLh6fBVSuumq0VW.jpg",
+                "media_url_https": "https://pbs.twimg.com/amplify_video_thumb/1415270581101109250/img/pqLh6fBVSuumq0VW.jpg",
+                "url": "https://t.co/6TDm5KujRa",
+                "display_url": "pic.twitter.com/6TDm5KujRa",
+                "expanded_url": "https://twitter.com/PabloEchenique/status/1415270836337000449/video/1",
+                "type": "video",
+                "sizes": {
+                    "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                    },
+                    "small": {
+                        "w": 640,
+                        "h": 352,
+                        "resize": "fit"
+                    },
+                    "medium": {
+                        "w": 640,
+                        "h": 352,
+                        "resize": "fit"
+                    },
+                    "large": {
+                        "w": 640,
+                        "h": 352,
+                        "resize": "fit"
+                    }
+                },
+                "source_status_id": 1415270836337000449,
+                "source_status_id_str": "1415270836337000449",
+                "source_user_id": 25555639,
+                "source_user_id_str": "25555639",
+                "video_info": {
+                    "aspect_ratio": [
+                        20,
+                        11
+                    ],
+                    "duration_millis": 292133,
+                    "variants": [
+                        {
+                            "content_type": "application/x-mpegURL",
+                            "url": "https://video.twimg.com/amplify_video/1415270581101109250/pl/xt_zCVKzxfrVhXB8.m3u8?tag=14"
+                        },
+                        {
+                            "bitrate": 832000,
+                            "content_type": "video/mp4",
+                            "url": "https://video.twimg.com/amplify_video/1415270581101109250/vid/640x352/4tWltBa15s7w1qgE.mp4?tag=14"
+                        },
+                        {
+                            "bitrate": 288000,
+                            "content_type": "video/mp4",
+                            "url": "https://video.twimg.com/amplify_video/1415270581101109250/vid/490x270/b69lCFzsbBMCw-7Q.mp4?tag=14"
+                        }
+                    ]
+                },
+                "additional_media_info": {
+                    "title": "",
+                    "description": "",
+                    "embeddable": true,
+                    "monetizable": false,
+                    "source_user": {
+                        "id": 25555639,
+                        "id_str": "25555639",
+                        "name": "Pablo Echenique",
+                        "screen_name": "PabloEchenique",
+                        "location": "Espa\u00f1a",
+                        "description": "Cient\u00edfico del @CSIC. Secr. de Programa de @PODEMOS. Portavoz del grupo parlamentario de Unidas Podemos-ECP-GeC. \u00a1S\u00ed se puede! \ud83d\udcaa\n\nTelegram: https://t.co/8FpnThsrrU",
+                        "url": "https://t.co/fUdyLvopD1",
+                        "entities": {
+                            "url": {
+                                "urls": [
+                                    {
+                                        "url": "https://t.co/fUdyLvopD1",
+                                        "expanded_url": "https://www.facebook.com/pablo.echenique/",
+                                        "display_url": "facebook.com/pablo.echeniqu\u2026",
+                                        "indices": [
+                                            0,
+                                            23
+                                        ]
+                                    }
+                                ]
+                            },
+                            "description": {
+                                "urls": [
+                                    {
+                                        "url": "https://t.co/8FpnThsrrU",
+                                        "expanded_url": "http://t.me/PabloEchenique",
+                                        "display_url": "t.me/PabloEchenique",
+                                        "indices": [
+                                            140,
+                                            163
+                                        ]
+                                    }
+                                ]
+                            }
+                        },
+                        "protected": false,
+                        "followers_count": 585967,
+                        "friends_count": 2396,
+                        "listed_count": 2912,
+                        "created_at": "Fri Mar 20 19:04:44 +0000 2009",
+                        "favourites_count": 165,
+                        "utc_offset": null,
+                        "time_zone": null,
+                        "geo_enabled": false,
+                        "verified": true,
+                        "statuses_count": 439,
+                        "lang": null,
+                        "contributors_enabled": false,
+                        "is_translator": false,
+                        "is_translation_enabled": false,
+                        "profile_background_color": "709397",
+                        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+                        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+                        "profile_background_tile": true,
+                        "profile_image_url": "http://pbs.twimg.com/profile_images/1414530582592299008/P-Orq00e_normal.jpg",
+                        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1414530582592299008/P-Orq00e_normal.jpg",
+                        "profile_banner_url": "https://pbs.twimg.com/profile_banners/25555639/1620572547",
+                        "profile_link_color": "8A008A",
+                        "profile_sidebar_border_color": "FFFFFF",
+                        "profile_sidebar_fill_color": "A0C5C7",
+                        "profile_text_color": "333333",
+                        "profile_use_background_image": true,
+                        "has_extended_profile": false,
+                        "default_profile": false,
+                        "default_profile_image": false,
+                        "following": false,
+                        "follow_request_sent": false,
+                        "notifications": false,
+                        "translator_type": "none",
+                        "withheld_in_countries": []
+                    }
+                }
+            }
+        ]
+    },
+    "metadata": {
+        "iso_language_code": "es",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 1412692830078832640,
+        "id_str": "1412692830078832640",
+        "name": "benjamin perez gimenez",
+        "screen_name": "benjami86013812",
+        "location": "",
+        "description": "",
+        "url": null,
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 11,
+        "friends_count": 103,
+        "listed_count": 0,
+        "created_at": "Wed Jul 07 08:40:13 +0000 2021",
+        "favourites_count": 77,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 50,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": null,
+        "profile_background_image_url_https": null,
+        "profile_background_tile": false,
+        "profile_image_url": "http://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+        "profile_image_url_https": "https://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": true,
+        "default_profile": true,
+        "default_profile_image": true,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+        "created_at": "Wed Jul 14 11:23:56 +0000 2021",
+        "id": 1415270836337000449,
+        "id_str": "1415270836337000449",
+        "full_text": "Esto de @J_Sanchez_Serna sobre Cuba es BESTIAL y es todo un manual anticu\u00f1ados. https://t.co/6TDm5KujRa",
+        "truncated": false,
+        "display_text_range": [
+            0,
+            79
+        ],
+        "entities": {
+            "hashtags": [],
+            "symbols": [],
+            "user_mentions": [
+                {
+                    "screen_name": "J_Sanchez_Serna",
+                    "name": "Javier S\u00e1nchez Serna",
+                    "id": 300969753,
+                    "id_str": "300969753",
+                    "indices": [
+                        8,
+                        24
+                    ]
+                }
+            ],
+            "urls": [],
+            "media": [
+                {
+                    "id": 1415270581101109250,
+                    "id_str": "1415270581101109250",
+                    "indices": [
+                        80,
+                        103
+                    ],
+                    "media_url": "http://pbs.twimg.com/amplify_video_thumb/1415270581101109250/img/pqLh6fBVSuumq0VW.jpg",
+                    "media_url_https": "https://pbs.twimg.com/amplify_video_thumb/1415270581101109250/img/pqLh6fBVSuumq0VW.jpg",
+                    "url": "https://t.co/6TDm5KujRa",
+                    "display_url": "pic.twitter.com/6TDm5KujRa",
+                    "expanded_url": "https://twitter.com/PabloEchenique/status/1415270836337000449/video/1",
+                    "type": "photo",
+                    "sizes": {
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "small": {
+                            "w": 640,
+                            "h": 352,
+                            "resize": "fit"
+                        },
+                        "medium": {
+                            "w": 640,
+                            "h": 352,
+                            "resize": "fit"
+                        },
+                        "large": {
+                            "w": 640,
+                            "h": 352,
+                            "resize": "fit"
+                        }
+                    }
+                }
+            ]
+        },
+        "extended_entities": {
+            "media": [
+                {
+                    "id": 1415270581101109250,
+                    "id_str": "1415270581101109250",
+                    "indices": [
+                        80,
+                        103
+                    ],
+                    "media_url": "http://pbs.twimg.com/amplify_video_thumb/1415270581101109250/img/pqLh6fBVSuumq0VW.jpg",
+                    "media_url_https": "https://pbs.twimg.com/amplify_video_thumb/1415270581101109250/img/pqLh6fBVSuumq0VW.jpg",
+                    "url": "https://t.co/6TDm5KujRa",
+                    "display_url": "pic.twitter.com/6TDm5KujRa",
+                    "expanded_url": "https://twitter.com/PabloEchenique/status/1415270836337000449/video/1",
+                    "type": "video",
+                    "sizes": {
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "small": {
+                            "w": 640,
+                            "h": 352,
+                            "resize": "fit"
+                        },
+                        "medium": {
+                            "w": 640,
+                            "h": 352,
+                            "resize": "fit"
+                        },
+                        "large": {
+                            "w": 640,
+                            "h": 352,
+                            "resize": "fit"
+                        }
+                    },
+                    "video_info": {
+                        "aspect_ratio": [
+                            20,
+                            11
+                        ],
+                        "duration_millis": 292133,
+                        "variants": [
+                            {
+                                "content_type": "application/x-mpegURL",
+                                "url": "https://video.twimg.com/amplify_video/1415270581101109250/pl/xt_zCVKzxfrVhXB8.m3u8?tag=14"
+                            },
+                            {
+                                "bitrate": 832000,
+                                "content_type": "video/mp4",
+                                "url": "https://video.twimg.com/amplify_video/1415270581101109250/vid/640x352/4tWltBa15s7w1qgE.mp4?tag=14"
+                            },
+                            {
+                                "bitrate": 288000,
+                                "content_type": "video/mp4",
+                                "url": "https://video.twimg.com/amplify_video/1415270581101109250/vid/490x270/b69lCFzsbBMCw-7Q.mp4?tag=14"
+                            }
+                        ]
+                    },
+                    "additional_media_info": {
+                        "title": "",
+                        "description": "",
+                        "embeddable": true,
+                        "monetizable": false
+                    }
+                }
+            ]
+        },
+        "metadata": {
+            "iso_language_code": "es",
+            "result_type": "recent"
+        },
+        "source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 25555639,
+            "id_str": "25555639",
+            "name": "Pablo Echenique",
+            "screen_name": "PabloEchenique",
+            "location": "Espa\u00f1a",
+            "description": "Cient\u00edfico del @CSIC. Secr. de Programa de @PODEMOS. Portavoz del grupo parlamentario de Unidas Podemos-ECP-GeC. \u00a1S\u00ed se puede! \ud83d\udcaa\n\nTelegram: https://t.co/8FpnThsrrU",
+            "url": "https://t.co/fUdyLvopD1",
+            "entities": {
+                "url": {
+                    "urls": [
+                        {
+                            "url": "https://t.co/fUdyLvopD1",
+                            "expanded_url": "https://www.facebook.com/pablo.echenique/",
+                            "display_url": "facebook.com/pablo.echeniqu\u2026",
+                            "indices": [
+                                0,
+                                23
+                            ]
+                        }
+                    ]
+                },
+                "description": {
+                    "urls": [
+                        {
+                            "url": "https://t.co/8FpnThsrrU",
+                            "expanded_url": "http://t.me/PabloEchenique",
+                            "display_url": "t.me/PabloEchenique",
+                            "indices": [
+                                140,
+                                163
+                            ]
+                        }
+                    ]
+                }
+            },
+            "protected": false,
+            "followers_count": 585967,
+            "friends_count": 2396,
+            "listed_count": 2912,
+            "created_at": "Fri Mar 20 19:04:44 +0000 2009",
+            "favourites_count": 165,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": false,
+            "verified": true,
+            "statuses_count": 439,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "709397",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+            "profile_background_tile": true,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1414530582592299008/P-Orq00e_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1414530582592299008/P-Orq00e_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/25555639/1620572547",
+            "profile_link_color": "8A008A",
+            "profile_sidebar_border_color": "FFFFFF",
+            "profile_sidebar_fill_color": "A0C5C7",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "has_extended_profile": false,
+            "default_profile": false,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none",
+            "withheld_in_countries": []
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 939,
+        "favorite_count": 1722,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "es"
+    },
+    "is_quote_status": false,
+    "retweet_count": 939,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "es"
+}

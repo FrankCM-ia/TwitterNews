@@ -1,0 +1,196 @@
+{
+    "created_at": "Wed Jul 14 16:00:08 +0000 2021",
+    "id": 1415340346096168960,
+    "id_str": "1415340346096168960",
+    "full_text": "RT @AlberdianoArg: Taiwan es una isla que tiene un embargo comercial de China que es la superpotencia mas cercana que tiene, Cuba es otra i\u2026",
+    "truncated": false,
+    "display_text_range": [
+        0,
+        140
+    ],
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "AlberdianoArg",
+                "name": "Pablo ABDON Torres Barthe",
+                "id": 279334127,
+                "id_str": "279334127",
+                "indices": [
+                    3,
+                    17
+                ]
+            }
+        ],
+        "urls": []
+    },
+    "metadata": {
+        "iso_language_code": "es",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 153866271,
+        "id_str": "153866271",
+        "name": "Max a secas \ud83e\udd94",
+        "screen_name": "Max_a_secas",
+        "location": "The heart of darkness, Arg.",
+        "description": "",
+        "url": "https://t.co/hRy66yffw4",
+        "entities": {
+            "url": {
+                "urls": [
+                    {
+                        "url": "https://t.co/hRy66yffw4",
+                        "expanded_url": "https://www.instagram.com/pilcofoto/",
+                        "display_url": "instagram.com/pilcofoto/",
+                        "indices": [
+                            0,
+                            23
+                        ]
+                    }
+                ]
+            },
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 5570,
+        "friends_count": 1103,
+        "listed_count": 53,
+        "created_at": "Wed Jun 09 19:05:27 +0000 2010",
+        "favourites_count": 5847,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 275007,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "F56F36",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1413149607282896903/oSSc1e-n_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1413149607282896903/oSSc1e-n_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/153866271/1602540581",
+        "profile_link_color": "ABB8C2",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "F7E8AC",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "regular",
+        "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+        "created_at": "Wed Jul 14 15:58:57 +0000 2021",
+        "id": 1415340045322575879,
+        "id_str": "1415340045322575879",
+        "full_text": "Taiwan es una isla que tiene un embargo comercial de China que es la superpotencia mas cercana que tiene, Cuba es otra isla que tiene un embargo de EEUU que es la superpotencia mas cercana que tiene. TAIWAN es Capitalista y CUBA Comunista, donde se vive mejor?",
+        "truncated": false,
+        "display_text_range": [
+            0,
+            260
+        ],
+        "entities": {
+            "hashtags": [],
+            "symbols": [],
+            "user_mentions": [],
+            "urls": []
+        },
+        "metadata": {
+            "iso_language_code": "es",
+            "result_type": "recent"
+        },
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 279334127,
+            "id_str": "279334127",
+            "name": "Pablo ABDON Torres Barthe",
+            "screen_name": "AlberdianoArg",
+            "location": "Buenos Aires",
+            "description": "Me hice famoso por algo tan basico como leer el bolet\u00edn oficial - esmerilador de gobiernos a domicilio - SON TODOS LO MISMO",
+            "url": null,
+            "entities": {
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 54666,
+            "friends_count": 1126,
+            "listed_count": 214,
+            "created_at": "Sat Apr 09 02:17:33 +0000 2011",
+            "favourites_count": 128550,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": true,
+            "verified": false,
+            "statuses_count": 235369,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "131516",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": true,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1410449835635924997/9q8FCOYw_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1410449835635924997/9q8FCOYw_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/279334127/1594598819",
+            "profile_link_color": "3B94D9",
+            "profile_sidebar_border_color": "FFFFFF",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "has_extended_profile": true,
+            "default_profile": false,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none",
+            "withheld_in_countries": []
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 15,
+        "favorite_count": 82,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "es"
+    },
+    "is_quote_status": false,
+    "retweet_count": 15,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "es"
+}

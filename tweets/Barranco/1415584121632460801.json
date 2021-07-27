@@ -1,0 +1,256 @@
+{
+    "created_at": "Thu Jul 15 08:08:49 +0000 2021",
+    "id": 1415584121632460801,
+    "id_str": "1415584121632460801",
+    "full_text": "RT @Rafa_Hernando: El a\u00fan presidente @sanchezcastejon pretende soltar peso y se pule a sus ac\u00f3litos @carmencalvo_ e @IvanRedondo__ el q se\u2026",
+    "truncated": false,
+    "display_text_range": [
+        0,
+        139
+    ],
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "Rafa_Hernando",
+                "name": "Rafael Hernando",
+                "id": 380456440,
+                "id_str": "380456440",
+                "indices": [
+                    3,
+                    17
+                ]
+            },
+            {
+                "screen_name": "sanchezcastejon",
+                "name": "Pedro S\u00e1nchez",
+                "id": 68740712,
+                "id_str": "68740712",
+                "indices": [
+                    37,
+                    53
+                ]
+            },
+            {
+                "screen_name": "carmencalvo_",
+                "name": "Carmen Calvo",
+                "id": 933309177623121921,
+                "id_str": "933309177623121921",
+                "indices": [
+                    100,
+                    113
+                ]
+            },
+            {
+                "screen_name": "IvanRedondo__",
+                "name": "Iv\u00e1n Redondo Info",
+                "id": 1205564878582407169,
+                "id_str": "1205564878582407169",
+                "indices": [
+                    116,
+                    130
+                ]
+            }
+        ],
+        "urls": []
+    },
+    "metadata": {
+        "iso_language_code": "es",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 826913078537310210,
+        "id_str": "826913078537310210",
+        "name": "JOSE MARIA \ud83c\uddea\ud83c\udde6\ud83c\uddea\ud83c\uddf8\ud83c\uddea\ud83c\udde6\ud83c\uddea\ud83c\uddf8",
+        "screen_name": "jmlujanm",
+        "location": "Murcia, Espa\u00f1a",
+        "description": "La democracia plena en nuestro pais, y la libertad e igualdad de todos los espa\u00f1oles, son asuntos prioritarios e irrenunciables. Anticomunista.",
+        "url": null,
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 4730,
+        "friends_count": 3481,
+        "listed_count": 4,
+        "created_at": "Wed Feb 01 22:00:16 +0000 2017",
+        "favourites_count": 65,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 36482,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": null,
+        "profile_background_image_url_https": null,
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1281679916875079680/qPZbm0Sm_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1281679916875079680/qPZbm0Sm_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+        "created_at": "Sat Jul 10 10:43:07 +0000 2021",
+        "id": 1413811011702886400,
+        "id_str": "1413811011702886400",
+        "full_text": "El a\u00fan presidente @sanchezcastejon pretende soltar peso y se pule a sus ac\u00f3litos @carmencalvo_ e @IvanRedondo__ el q se tiraba al barranco, adem\u00e1s de al Ministro de Justicia al q humill\u00f3 con lo de los indultos \n\nPero todo sigue igual  porque el verdadero lastre para Espa\u00f1a es \u00e9l",
+        "truncated": false,
+        "display_text_range": [
+            0,
+            279
+        ],
+        "entities": {
+            "hashtags": [],
+            "symbols": [],
+            "user_mentions": [
+                {
+                    "screen_name": "sanchezcastejon",
+                    "name": "Pedro S\u00e1nchez",
+                    "id": 68740712,
+                    "id_str": "68740712",
+                    "indices": [
+                        18,
+                        34
+                    ]
+                },
+                {
+                    "screen_name": "carmencalvo_",
+                    "name": "Carmen Calvo",
+                    "id": 933309177623121921,
+                    "id_str": "933309177623121921",
+                    "indices": [
+                        81,
+                        94
+                    ]
+                },
+                {
+                    "screen_name": "IvanRedondo__",
+                    "name": "Iv\u00e1n Redondo Info",
+                    "id": 1205564878582407169,
+                    "id_str": "1205564878582407169",
+                    "indices": [
+                        97,
+                        111
+                    ]
+                }
+            ],
+            "urls": []
+        },
+        "metadata": {
+            "iso_language_code": "es",
+            "result_type": "recent"
+        },
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 380456440,
+            "id_str": "380456440",
+            "name": "Rafael Hernando",
+            "screen_name": "Rafa_Hernando",
+            "location": "",
+            "description": "Senador por el @PP_Almeria. Secretario Tercero de la Mesa del @senadoesp.",
+            "url": "https://t.co/z0HNXXSR1n",
+            "entities": {
+                "url": {
+                    "urls": [
+                        {
+                            "url": "https://t.co/z0HNXXSR1n",
+                            "expanded_url": "http://www.facebook.com/RafaelHernandoPP",
+                            "display_url": "facebook.com/RafaelHernando\u2026",
+                            "indices": [
+                                0,
+                                23
+                            ]
+                        }
+                    ]
+                },
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 79276,
+            "friends_count": 977,
+            "listed_count": 587,
+            "created_at": "Mon Sep 26 17:42:52 +0000 2011",
+            "favourites_count": 1135,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": true,
+            "verified": true,
+            "statuses_count": 12501,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "C0DEED",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/572397933207633920/Fx5DRnMH_normal.jpeg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/572397933207633920/Fx5DRnMH_normal.jpeg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/380456440/1425308636",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "has_extended_profile": false,
+            "default_profile": true,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none",
+            "withheld_in_countries": []
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 101,
+        "favorite_count": 277,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "es"
+    },
+    "is_quote_status": false,
+    "retweet_count": 101,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "es"
+}

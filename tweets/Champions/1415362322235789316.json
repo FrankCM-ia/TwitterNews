@@ -1,0 +1,107 @@
+{
+    "created_at": "Wed Jul 14 17:27:28 +0000 2021",
+    "id": 1415362322235789316,
+    "id_str": "1415362322235789316",
+    "full_text": "@Martinpdisalvo Juegas la Champions Coscu",
+    "truncated": false,
+    "display_text_range": [
+        16,
+        41
+    ],
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "Martinpdisalvo",
+                "name": "Coscu",
+                "id": 328465880,
+                "id_str": "328465880",
+                "indices": [
+                    0,
+                    15
+                ]
+            }
+        ],
+        "urls": []
+    },
+    "metadata": {
+        "iso_language_code": "es",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "in_reply_to_status_id": 1415354478438625281,
+    "in_reply_to_status_id_str": "1415354478438625281",
+    "in_reply_to_user_id": 328465880,
+    "in_reply_to_user_id_str": "328465880",
+    "in_reply_to_screen_name": "Martinpdisalvo",
+    "user": {
+        "id": 944345229087399936,
+        "id_str": "944345229087399936",
+        "name": "estebanlesmes24",
+        "screen_name": "estebanlesmes24",
+        "location": "Bogot\u00e1, D.C., Colombia",
+        "description": "Ando aburrido\nAc\u00e1 a veces tonteo: https://t.co/qLU9tBZpfY",
+        "url": null,
+        "entities": {
+            "description": {
+                "urls": [
+                    {
+                        "url": "https://t.co/qLU9tBZpfY",
+                        "expanded_url": "https://www.twitch.tv/thepapichulocol",
+                        "display_url": "twitch.tv/thepapichulocol",
+                        "indices": [
+                            34,
+                            57
+                        ]
+                    }
+                ]
+            }
+        },
+        "protected": false,
+        "followers_count": 63,
+        "friends_count": 52,
+        "listed_count": 0,
+        "created_at": "Fri Dec 22 23:13:42 +0000 2017",
+        "favourites_count": 15472,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 488,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1406296197237780484/SXmccDNN_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1406296197237780484/SXmccDNN_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/944345229087399936/1542320936",
+        "profile_link_color": "ABB8C2",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "profile_use_background_image": false,
+        "has_extended_profile": true,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "es"
+}

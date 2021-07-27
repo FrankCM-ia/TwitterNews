@@ -1,0 +1,310 @@
+{
+    "created_at": "Wed Jul 14 17:53:02 +0000 2021",
+    "id": 1415368757455773701,
+    "id_str": "1415368757455773701",
+    "full_text": "Y ahora si podr\u00e1n ganar champions ? https://t.co/IcIiAip2Up",
+    "truncated": false,
+    "display_text_range": [
+        0,
+        35
+    ],
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+            {
+                "url": "https://t.co/IcIiAip2Up",
+                "expanded_url": "https://twitter.com/invictossomos/status/1415368201702191105",
+                "display_url": "twitter.com/invictossomos/\u2026",
+                "indices": [
+                    36,
+                    59
+                ]
+            }
+        ]
+    },
+    "metadata": {
+        "iso_language_code": "es",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 187806149,
+        "id_str": "187806149",
+        "name": "Chueko",
+        "screen_name": "C_Valdivia11",
+        "location": "Zapopan Jalisco ",
+        "description": "Siempre fiel a los colores que llevo en la piel, Club Deportivo Guadalajara -Fait de ta vie un r\u00eave et d'un r\u00eave une r\u00e9alit\u00e9- \\o/ Raver* \u0950\u0950\u0950",
+        "url": null,
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 1527,
+        "friends_count": 596,
+        "listed_count": 30,
+        "created_at": "Tue Sep 07 05:33:27 +0000 2010",
+        "favourites_count": 179132,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 79245,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "1A1B1F",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1404444830722412544/pGZtuX7T_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1404444830722412544/pGZtuX7T_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/187806149/1538539940",
+        "profile_link_color": "E80303",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "252429",
+        "profile_text_color": "666666",
+        "profile_use_background_image": true,
+        "has_extended_profile": true,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": {
+        "id": "8e098f6d686001a9",
+        "url": "https://api.twitter.com/1.1/geo/id/8e098f6d686001a9.json",
+        "place_type": "city",
+        "name": "Zapopan",
+        "full_name": "Zapopan, Jalisco",
+        "country_code": "MX",
+        "country": "Mexico",
+        "contained_within": [],
+        "bounding_box": {
+            "type": "Polygon",
+            "coordinates": [
+                [
+                    [
+                        -103.664175,
+                        20.5834183
+                    ],
+                    [
+                        -103.305374,
+                        20.5834183
+                    ],
+                    [
+                        -103.305374,
+                        20.9978961
+                    ],
+                    [
+                        -103.664175,
+                        20.9978961
+                    ]
+                ]
+            ]
+        },
+        "attributes": {}
+    },
+    "contributors": null,
+    "is_quote_status": true,
+    "quoted_status_id": 1415368201702191105,
+    "quoted_status_id_str": "1415368201702191105",
+    "quoted_status": {
+        "created_at": "Wed Jul 14 17:50:50 +0000 2021",
+        "id": 1415368201702191105,
+        "id_str": "1415368201702191105",
+        "full_text": "El escandaloso mercado del PSG:\n\n\u27a4 Sergio Ramos (defensor central): agente libre.\n\u27a4 Gigio Donnarumma (portero): agente libre.\n\u27a4 Gini Wijnaldum (mediocampista todoterreno): agente libre.\n\u27a4 Achraf Hakimi (carrilero): 60 M\u20ac.\n\nLA ROMPIERON TODA. https://t.co/vCcl21AtxL",
+        "truncated": false,
+        "display_text_range": [
+            0,
+            241
+        ],
+        "entities": {
+            "hashtags": [],
+            "symbols": [],
+            "user_mentions": [],
+            "urls": [],
+            "media": [
+                {
+                    "id": 1415367856452214787,
+                    "id_str": "1415367856452214787",
+                    "indices": [
+                        242,
+                        265
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/E6RlkQZXIAMDHii.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/E6RlkQZXIAMDHii.jpg",
+                    "url": "https://t.co/vCcl21AtxL",
+                    "display_url": "pic.twitter.com/vCcl21AtxL",
+                    "expanded_url": "https://twitter.com/InvictosSomos/status/1415368201702191105/photo/1",
+                    "type": "photo",
+                    "sizes": {
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "small": {
+                            "w": 680,
+                            "h": 680,
+                            "resize": "fit"
+                        },
+                        "large": {
+                            "w": 2000,
+                            "h": 2000,
+                            "resize": "fit"
+                        },
+                        "medium": {
+                            "w": 1200,
+                            "h": 1200,
+                            "resize": "fit"
+                        }
+                    }
+                }
+            ]
+        },
+        "extended_entities": {
+            "media": [
+                {
+                    "id": 1415367856452214787,
+                    "id_str": "1415367856452214787",
+                    "indices": [
+                        242,
+                        265
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/E6RlkQZXIAMDHii.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/E6RlkQZXIAMDHii.jpg",
+                    "url": "https://t.co/vCcl21AtxL",
+                    "display_url": "pic.twitter.com/vCcl21AtxL",
+                    "expanded_url": "https://twitter.com/InvictosSomos/status/1415368201702191105/photo/1",
+                    "type": "photo",
+                    "sizes": {
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "small": {
+                            "w": 680,
+                            "h": 680,
+                            "resize": "fit"
+                        },
+                        "large": {
+                            "w": 2000,
+                            "h": 2000,
+                            "resize": "fit"
+                        },
+                        "medium": {
+                            "w": 1200,
+                            "h": 1200,
+                            "resize": "fit"
+                        }
+                    }
+                }
+            ]
+        },
+        "metadata": {
+            "iso_language_code": "es",
+            "result_type": "recent"
+        },
+        "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 4488217998,
+            "id_str": "4488217998",
+            "name": "Invictos",
+            "screen_name": "InvictosSomos",
+            "location": "",
+            "description": "Revista digital con todo lo relacionado con el medio futbol\u00edstico nacional e internacional | contacto@somosinvictos.com",
+            "url": "https://t.co/o9zaLIJiEO",
+            "entities": {
+                "url": {
+                    "urls": [
+                        {
+                            "url": "https://t.co/o9zaLIJiEO",
+                            "expanded_url": "http://www.somosinvictos.com",
+                            "display_url": "somosinvictos.com",
+                            "indices": [
+                                0,
+                                23
+                            ]
+                        }
+                    ]
+                },
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 750583,
+            "friends_count": 1854,
+            "listed_count": 1417,
+            "created_at": "Mon Dec 07 17:47:27 +0000 2015",
+            "favourites_count": 40767,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": false,
+            "verified": true,
+            "statuses_count": 166607,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "C0DEED",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1403204512731500544/K4ntFiIN_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1403204512731500544/K4ntFiIN_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/4488217998/1623385003",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "has_extended_profile": false,
+            "default_profile": true,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none",
+            "withheld_in_countries": []
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 155,
+        "favorite_count": 1936,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "es"
+    },
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "es"
+}

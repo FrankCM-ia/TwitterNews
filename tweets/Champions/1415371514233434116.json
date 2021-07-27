@@ -1,0 +1,328 @@
+{
+    "created_at": "Wed Jul 14 18:03:59 +0000 2021",
+    "id": 1415371514233434116,
+    "id_str": "1415371514233434116",
+    "full_text": "#UCL\ud83c\udfc6 - Los #Golombianos\ud83c\udde8\ud83c\uddf4 siguen 'vivos' en la fase previa de la #ChampionsLeague \u25b6\ufe0f https://t.co/zCSaMHG2vC https://t.co/hLyG8jV59x",
+    "truncated": false,
+    "display_text_range": [
+        0,
+        109
+    ],
+    "entities": {
+        "hashtags": [
+            {
+                "text": "UCL",
+                "indices": [
+                    0,
+                    4
+                ]
+            },
+            {
+                "text": "Golombianos",
+                "indices": [
+                    12,
+                    24
+                ]
+            },
+            {
+                "text": "ChampionsLeague",
+                "indices": [
+                    66,
+                    82
+                ]
+            }
+        ],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+            {
+                "url": "https://t.co/zCSaMHG2vC",
+                "expanded_url": "https://bit.ly/3i77bVm",
+                "display_url": "bit.ly/3i77bVm",
+                "indices": [
+                    86,
+                    109
+                ]
+            }
+        ],
+        "media": [
+            {
+                "id": 1415371269919363072,
+                "id_str": "1415371269919363072",
+                "indices": [
+                    110,
+                    133
+                ],
+                "media_url": "http://pbs.twimg.com/media/E6Roq8jWUAA0U2Z.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/E6Roq8jWUAA0U2Z.jpg",
+                "url": "https://t.co/hLyG8jV59x",
+                "display_url": "pic.twitter.com/hLyG8jV59x",
+                "expanded_url": "https://twitter.com/Golombianos/status/1415371514233434116/photo/1",
+                "type": "photo",
+                "sizes": {
+                    "medium": {
+                        "w": 1200,
+                        "h": 800,
+                        "resize": "fit"
+                    },
+                    "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                    },
+                    "small": {
+                        "w": 680,
+                        "h": 453,
+                        "resize": "fit"
+                    },
+                    "large": {
+                        "w": 1400,
+                        "h": 933,
+                        "resize": "fit"
+                    }
+                }
+            }
+        ]
+    },
+    "extended_entities": {
+        "media": [
+            {
+                "id": 1415371269919363072,
+                "id_str": "1415371269919363072",
+                "indices": [
+                    110,
+                    133
+                ],
+                "media_url": "http://pbs.twimg.com/media/E6Roq8jWUAA0U2Z.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/E6Roq8jWUAA0U2Z.jpg",
+                "url": "https://t.co/hLyG8jV59x",
+                "display_url": "pic.twitter.com/hLyG8jV59x",
+                "expanded_url": "https://twitter.com/Golombianos/status/1415371514233434116/photo/1",
+                "type": "photo",
+                "sizes": {
+                    "medium": {
+                        "w": 1200,
+                        "h": 800,
+                        "resize": "fit"
+                    },
+                    "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                    },
+                    "small": {
+                        "w": 680,
+                        "h": 453,
+                        "resize": "fit"
+                    },
+                    "large": {
+                        "w": 1400,
+                        "h": 933,
+                        "resize": "fit"
+                    }
+                }
+            },
+            {
+                "id": 1415371275992698882,
+                "id_str": "1415371275992698882",
+                "indices": [
+                    110,
+                    133
+                ],
+                "media_url": "http://pbs.twimg.com/media/E6RorTLWEAIBT-p.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/E6RorTLWEAIBT-p.jpg",
+                "url": "https://t.co/hLyG8jV59x",
+                "display_url": "pic.twitter.com/hLyG8jV59x",
+                "expanded_url": "https://twitter.com/Golombianos/status/1415371514233434116/photo/1",
+                "type": "photo",
+                "sizes": {
+                    "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                    },
+                    "large": {
+                        "w": 1400,
+                        "h": 933,
+                        "resize": "fit"
+                    },
+                    "medium": {
+                        "w": 1200,
+                        "h": 800,
+                        "resize": "fit"
+                    },
+                    "small": {
+                        "w": 680,
+                        "h": 453,
+                        "resize": "fit"
+                    }
+                }
+            },
+            {
+                "id": 1415371289938829320,
+                "id_str": "1415371289938829320",
+                "indices": [
+                    110,
+                    133
+                ],
+                "media_url": "http://pbs.twimg.com/media/E6RosHIXIAgjblL.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/E6RosHIXIAgjblL.jpg",
+                "url": "https://t.co/hLyG8jV59x",
+                "display_url": "pic.twitter.com/hLyG8jV59x",
+                "expanded_url": "https://twitter.com/Golombianos/status/1415371514233434116/photo/1",
+                "type": "photo",
+                "sizes": {
+                    "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                    },
+                    "large": {
+                        "w": 1400,
+                        "h": 933,
+                        "resize": "fit"
+                    },
+                    "medium": {
+                        "w": 1200,
+                        "h": 800,
+                        "resize": "fit"
+                    },
+                    "small": {
+                        "w": 680,
+                        "h": 453,
+                        "resize": "fit"
+                    }
+                }
+            },
+            {
+                "id": 1415371298688184321,
+                "id_str": "1415371298688184321",
+                "indices": [
+                    110,
+                    133
+                ],
+                "media_url": "http://pbs.twimg.com/media/E6RosnuXsAEJXnB.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/E6RosnuXsAEJXnB.jpg",
+                "url": "https://t.co/hLyG8jV59x",
+                "display_url": "pic.twitter.com/hLyG8jV59x",
+                "expanded_url": "https://twitter.com/Golombianos/status/1415371514233434116/photo/1",
+                "type": "photo",
+                "sizes": {
+                    "medium": {
+                        "w": 1200,
+                        "h": 1197,
+                        "resize": "fit"
+                    },
+                    "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                    },
+                    "small": {
+                        "w": 680,
+                        "h": 678,
+                        "resize": "fit"
+                    },
+                    "large": {
+                        "w": 1440,
+                        "h": 1436,
+                        "resize": "fit"
+                    }
+                }
+            }
+        ]
+    },
+    "metadata": {
+        "iso_language_code": "es",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 218737843,
+        "id_str": "218737843",
+        "name": "Golombianos",
+        "screen_name": "Golombianos",
+        "location": "Colombia",
+        "description": "Primera web dedicada a la informaci\u00f3n de TODOS los futbolistas #Golombianos\ud83c\udde8\ud83c\uddf4 en el exterior\ud83c\udf0e. Instagram https://t.co/zqwu6fCQPz",
+        "url": "https://t.co/srDPdqwRh4",
+        "entities": {
+            "url": {
+                "urls": [
+                    {
+                        "url": "https://t.co/srDPdqwRh4",
+                        "expanded_url": "http://golombianos.com/",
+                        "display_url": "golombianos.com",
+                        "indices": [
+                            0,
+                            23
+                        ]
+                    }
+                ]
+            },
+            "description": {
+                "urls": [
+                    {
+                        "url": "https://t.co/zqwu6fCQPz",
+                        "expanded_url": "http://instagram.com/golombianoscom",
+                        "display_url": "instagram.com/golombianoscom",
+                        "indices": [
+                            105,
+                            128
+                        ]
+                    }
+                ]
+            }
+        },
+        "protected": false,
+        "followers_count": 115242,
+        "friends_count": 1798,
+        "listed_count": 534,
+        "created_at": "Tue Nov 23 04:00:29 +0000 2010",
+        "favourites_count": 12074,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 136106,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1249712099787517954/9EduFCNW_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1249712099787517954/9EduFCNW_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/218737843/1586789559",
+        "profile_link_color": "F5C73D",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 1,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "es"
+}

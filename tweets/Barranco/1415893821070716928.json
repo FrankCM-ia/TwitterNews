@@ -1,0 +1,115 @@
+{
+    "created_at": "Fri Jul 16 04:39:27 +0000 2021",
+    "id": 1415893821070716928,
+    "id_str": "1415893821070716928",
+    "full_text": "@CarlosLoret Otra vez, @CarlosLoret vuelve a editar fragmentos entrevistas de Laura Barranco y Maga\u00f1a. #LordMontajesReincide",
+    "truncated": false,
+    "display_text_range": [
+        13,
+        124
+    ],
+    "entities": {
+        "hashtags": [
+            {
+                "text": "LordMontajesReincide",
+                "indices": [
+                    103,
+                    124
+                ]
+            }
+        ],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "CarlosLoret",
+                "name": "Carlos Loret de Mola",
+                "id": 68844197,
+                "id_str": "68844197",
+                "indices": [
+                    0,
+                    12
+                ]
+            },
+            {
+                "screen_name": "CarlosLoret",
+                "name": "Carlos Loret de Mola",
+                "id": 68844197,
+                "id_str": "68844197",
+                "indices": [
+                    23,
+                    35
+                ]
+            }
+        ],
+        "urls": []
+    },
+    "metadata": {
+        "iso_language_code": "es",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "in_reply_to_status_id": 1415461566087061512,
+    "in_reply_to_status_id_str": "1415461566087061512",
+    "in_reply_to_user_id": 68844197,
+    "in_reply_to_user_id_str": "68844197",
+    "in_reply_to_screen_name": "CarlosLoret",
+    "user": {
+        "id": 1379237551962198021,
+        "id_str": "1379237551962198021",
+        "name": "Profeta del Bien & del Mal (de regreso).",
+        "screen_name": "Prophesy09",
+        "location": "",
+        "description": "#RedAMLO Engineering| No More  longer Slaves at injustice in M\u00e9xico.\ud83c\uddf2\ud83c\uddfd\nCore Tools, IATF 16949.\ud83d\udcca\ud83d\udcc8\ud83d\udcc9\ud83d\udcda\ud83e\ude99",
+        "url": null,
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 1154,
+        "friends_count": 1290,
+        "listed_count": 1,
+        "created_at": "Tue Apr 06 01:00:41 +0000 2021",
+        "favourites_count": 12522,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 19095,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": null,
+        "profile_background_image_url_https": null,
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1379265720278736897/X16-Vbeh_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1379265720278736897/X16-Vbeh_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1379237551962198021/1617673472",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "es"
+}

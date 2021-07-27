@@ -1,0 +1,183 @@
+{
+    "created_at": "Wed Jul 14 18:01:56 +0000 2021",
+    "id": 1415370997050580993,
+    "id_str": "1415370997050580993",
+    "full_text": "RT @JosPastr: Cuba no es una dictadura pero pedimos al Gobierno cubano que permita las libertades de expresi\u00f3n y manifestaci\u00f3n. El cortocir\u2026",
+    "truncated": false,
+    "display_text_range": [
+        0,
+        140
+    ],
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "JosPastr",
+                "name": "Pastrana",
+                "id": 497825722,
+                "id_str": "497825722",
+                "indices": [
+                    3,
+                    12
+                ]
+            }
+        ],
+        "urls": []
+    },
+    "metadata": {
+        "iso_language_code": "es",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 931503532536139776,
+        "id_str": "931503532536139776",
+        "name": "Enriquegaldarro \ud83c\uddea\ud83c\uddf8",
+        "screen_name": "Enrique22807795",
+        "location": "Castronu\u00f1o, Espa\u00f1a",
+        "description": "Castellano y espa\u00f1ol , adem\u00e1s de colchonero.",
+        "url": null,
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 613,
+        "friends_count": 949,
+        "listed_count": 0,
+        "created_at": "Fri Nov 17 12:45:23 +0000 2017",
+        "favourites_count": 125421,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 35405,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": null,
+        "profile_background_image_url_https": null,
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1113878162679697408/haGPkYw2_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1113878162679697408/haGPkYw2_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/931503532536139776/1621717663",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+        "created_at": "Wed Jul 14 11:45:43 +0000 2021",
+        "id": 1415276318472744968,
+        "id_str": "1415276318472744968",
+        "full_text": "Cuba no es una dictadura pero pedimos al Gobierno cubano que permita las libertades de expresi\u00f3n y manifestaci\u00f3n. El cortocircuito progre.",
+        "truncated": false,
+        "display_text_range": [
+            0,
+            138
+        ],
+        "entities": {
+            "hashtags": [],
+            "symbols": [],
+            "user_mentions": [],
+            "urls": []
+        },
+        "metadata": {
+            "iso_language_code": "es",
+            "result_type": "recent"
+        },
+        "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 497825722,
+            "id_str": "497825722",
+            "name": "Pastrana",
+            "screen_name": "JosPastr",
+            "location": "Planilandia.",
+            "description": "Recaudador de impuestos. Arquitecto.",
+            "url": null,
+            "entities": {
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 205710,
+            "friends_count": 924,
+            "listed_count": 847,
+            "created_at": "Mon Feb 20 12:01:56 +0000 2012",
+            "favourites_count": 105307,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": true,
+            "verified": false,
+            "statuses_count": 84369,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "C0DEED",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/947754298347278338/AbC_2PjL_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/947754298347278338/AbC_2PjL_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/497825722/1555187766",
+            "profile_link_color": "0084B4",
+            "profile_sidebar_border_color": "FFFFFF",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "has_extended_profile": true,
+            "default_profile": false,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none",
+            "withheld_in_countries": []
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 804,
+        "favorite_count": 3187,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "es"
+    },
+    "is_quote_status": false,
+    "retweet_count": 804,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "es"
+}

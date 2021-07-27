@@ -1,0 +1,232 @@
+{
+    "created_at": "Wed Jul 14 16:00:21 +0000 2021",
+    "id": 1415340399619624961,
+    "id_str": "1415340399619624961",
+    "full_text": "Pero Cuba https://t.co/SIh4F3QLHM",
+    "truncated": false,
+    "display_text_range": [
+        0,
+        9
+    ],
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+            {
+                "url": "https://t.co/SIh4F3QLHM",
+                "expanded_url": "https://twitter.com/el_pais/status/1414966493243224064",
+                "display_url": "twitter.com/el_pais/status\u2026",
+                "indices": [
+                    10,
+                    33
+                ]
+            }
+        ]
+    },
+    "metadata": {
+        "iso_language_code": "es",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 70632864,
+        "id_str": "70632864",
+        "name": "Gonzalo D'Ambrosio",
+        "screen_name": "Gonzfd",
+        "location": "V\u00eda L\u00e1ctea",
+        "description": "Cocino #LasRutasDAmbrosio en @la2_tve (y nunca s\u00e9 qu\u00e9 m\u00e1s poner aqu\u00ed \ud83e\udd37\ud83c\udffd\u200d\u2642\ufe0f)",
+        "url": "https://t.co/0NPB5ocSc0",
+        "entities": {
+            "url": {
+                "urls": [
+                    {
+                        "url": "https://t.co/0NPB5ocSc0",
+                        "expanded_url": "http://www.gonzalodambrosio.com",
+                        "display_url": "gonzalodambrosio.com",
+                        "indices": [
+                            0,
+                            23
+                        ]
+                    }
+                ]
+            },
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 16890,
+        "friends_count": 1007,
+        "listed_count": 124,
+        "created_at": "Tue Sep 01 08:34:42 +0000 2009",
+        "favourites_count": 60086,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 31028,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "E63535",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme16/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme16/bg.gif",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1400699183934459908/bn8H6Rgo_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1400699183934459908/bn8H6Rgo_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/70632864/1622787685",
+        "profile_link_color": "E31D34",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "F6FFD1",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": true,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": true,
+    "quoted_status_id": 1414966493243224064,
+    "quoted_status_id_str": "1414966493243224064",
+    "quoted_status": {
+        "created_at": "Tue Jul 13 15:14:35 +0000 2021",
+        "id": 1414966493243224064,
+        "id_str": "1414966493243224064",
+        "full_text": "Vox impedir\u00e1 que la Asamblea de Madrid investigue las \u00f3rdenes del Gobierno regional y los pol\u00e9micos protocolos que impidieron las derivaciones de los ancianos a los hospitales durante lo peor de la pandemia https://t.co/9OIPlM8OmW",
+        "truncated": false,
+        "display_text_range": [
+            0,
+            230
+        ],
+        "entities": {
+            "hashtags": [],
+            "symbols": [],
+            "user_mentions": [],
+            "urls": [
+                {
+                    "url": "https://t.co/9OIPlM8OmW",
+                    "expanded_url": "https://elpais.com/espana/madrid/2021-07-13/vox-impide-que-la-asamblea-investigue-las-5000-muertes-por-covid-en-residencias-de-madrid.html?utm_source=Twitter&ssm=TW_CM#Echobox=1626186779",
+                    "display_url": "elpais.com/espana/madrid/\u2026",
+                    "indices": [
+                        207,
+                        230
+                    ]
+                }
+            ]
+        },
+        "metadata": {
+            "iso_language_code": "es",
+            "result_type": "recent"
+        },
+        "source": "<a href=\"https://www.echobox.com\" rel=\"nofollow\">Echobox</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 7996082,
+            "id_str": "7996082",
+            "name": "EL PA\u00cdS",
+            "screen_name": "el_pais",
+            "location": "Madrid",
+            "description": "La mejor informaci\u00f3n en espa\u00f1ol. Con nuestra mirada puesta en Espa\u00f1a, Europa y Am\u00e9rica. Suscr\u00edbete a los hechos: https://t.co/9NNCHlsu3H\nAyuda: @elpais_mas",
+            "url": "https://t.co/0o6oj1LRF2",
+            "entities": {
+                "url": {
+                    "urls": [
+                        {
+                            "url": "https://t.co/0o6oj1LRF2",
+                            "expanded_url": "http://www.elpais.com",
+                            "display_url": "elpais.com",
+                            "indices": [
+                                0,
+                                23
+                            ]
+                        }
+                    ]
+                },
+                "description": {
+                    "urls": [
+                        {
+                            "url": "https://t.co/9NNCHlsu3H",
+                            "expanded_url": "http://bit.ly/39BdXwN",
+                            "display_url": "bit.ly/39BdXwN",
+                            "indices": [
+                                113,
+                                136
+                            ]
+                        }
+                    ]
+                }
+            },
+            "protected": false,
+            "followers_count": 8054133,
+            "friends_count": 788,
+            "listed_count": 57240,
+            "created_at": "Mon Aug 06 16:20:09 +0000 2007",
+            "favourites_count": 1906,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": true,
+            "verified": true,
+            "statuses_count": 633020,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": true,
+            "profile_background_color": "FFFFFF",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1236548818402971648/F-pcFaq6_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1236548818402971648/F-pcFaq6_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/7996082/1583651188",
+            "profile_link_color": "0084B4",
+            "profile_sidebar_border_color": "FFFFFF",
+            "profile_sidebar_fill_color": "F1F4F9",
+            "profile_text_color": "333333",
+            "profile_use_background_image": false,
+            "has_extended_profile": true,
+            "default_profile": false,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none",
+            "withheld_in_countries": []
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 979,
+        "favorite_count": 1171,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "es"
+    },
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "es"
+}

@@ -1,0 +1,336 @@
+{
+    "created_at": "Wed Jul 14 18:03:05 +0000 2021",
+    "id": 1415371285111132171,
+    "id_str": "1415371285111132171",
+    "full_text": "RT @MoisesNaim: Sr. Samper:Gracias por informarnos de su admiraci\u00f3n por la dictadura cubana (#necrofiliaideologica).Por estar de vacaciones\u2026",
+    "truncated": false,
+    "display_text_range": [
+        0,
+        140
+    ],
+    "entities": {
+        "hashtags": [
+            {
+                "text": "necrofiliaideologica",
+                "indices": [
+                    93,
+                    114
+                ]
+            }
+        ],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "MoisesNaim",
+                "name": "Mois\u00e9s Na\u00edm",
+                "id": 262872637,
+                "id_str": "262872637",
+                "indices": [
+                    3,
+                    14
+                ]
+            }
+        ],
+        "urls": []
+    },
+    "metadata": {
+        "iso_language_code": "es",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 2544347186,
+        "id_str": "2544347186",
+        "name": "jorge velez bustaman",
+        "screen_name": "jorgevelezbusta",
+        "location": "",
+        "description": "",
+        "url": null,
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 187,
+        "friends_count": 213,
+        "listed_count": 2,
+        "created_at": "Tue Jun 03 21:32:08 +0000 2014",
+        "favourites_count": 14024,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 28624,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/654103098818981888/0vcL63dO_normal.png",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/654103098818981888/0vcL63dO_normal.png",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2544347186/1430955649",
+        "profile_link_color": "94D487",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "profile_use_background_image": false,
+        "has_extended_profile": false,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+        "created_at": "Mon Jan 07 13:30:08 +0000 2019",
+        "id": 1082268148819214336,
+        "id_str": "1082268148819214336",
+        "full_text": "Sr. Samper:Gracias por informarnos de su admiraci\u00f3n por la dictadura cubana (#necrofiliaideologica).Por estar de vacaciones en Cuba quiz\u00e1s no vio esta noticia:\u201cuno de los testigos en el juicio contra el Chapo Guzman confes\u00f3 que le pag\u00f3 $500000 a Ernesto Samper\u201d. Que sorpresa \u00bfno? https://t.co/VeHywzdcrP",
+        "truncated": false,
+        "display_text_range": [
+            0,
+            280
+        ],
+        "entities": {
+            "hashtags": [
+                {
+                    "text": "necrofiliaideologica",
+                    "indices": [
+                        77,
+                        98
+                    ]
+                }
+            ],
+            "symbols": [],
+            "user_mentions": [],
+            "urls": [
+                {
+                    "url": "https://t.co/VeHywzdcrP",
+                    "expanded_url": "https://twitter.com/ernestosamperp/status/1081894495531290631",
+                    "display_url": "twitter.com/ernestosamperp\u2026",
+                    "indices": [
+                        281,
+                        304
+                    ]
+                }
+            ]
+        },
+        "metadata": {
+            "iso_language_code": "es",
+            "result_type": "recent"
+        },
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 262872637,
+            "id_str": "262872637",
+            "name": "Mois\u00e9s Na\u00edm",
+            "screen_name": "MoisesNaim",
+            "location": "",
+            "description": "Distinguished Fellow, Carnegie Endowment. Syndicated columnist. Author: The End of Power; illicit and more. Host: Efecto Naim",
+            "url": "https://t.co/LENjCrcBRk",
+            "entities": {
+                "url": {
+                    "urls": [
+                        {
+                            "url": "https://t.co/LENjCrcBRk",
+                            "expanded_url": "http://www.moisesnaim.com",
+                            "display_url": "moisesnaim.com",
+                            "indices": [
+                                0,
+                                23
+                            ]
+                        }
+                    ]
+                },
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 248147,
+            "friends_count": 786,
+            "listed_count": 2589,
+            "created_at": "Tue Mar 08 23:01:33 +0000 2011",
+            "favourites_count": 82,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": false,
+            "verified": true,
+            "statuses_count": 17947,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "CAE0EB",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/538410877402091520/ekcn7iBy_normal.png",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/538410877402091520/ekcn7iBy_normal.png",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/262872637/1380670868",
+            "profile_link_color": "3B6F80",
+            "profile_sidebar_border_color": "FFFFFF",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": false,
+            "has_extended_profile": false,
+            "default_profile": false,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none",
+            "withheld_in_countries": []
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": true,
+        "quoted_status_id": 1081894495531290631,
+        "quoted_status_id_str": "1081894495531290631",
+        "quoted_status": {
+            "created_at": "Sun Jan 06 12:45:23 +0000 2019",
+            "id": 1081894495531290631,
+            "id_str": "1081894495531290631",
+            "full_text": "La revoluci\u00f3n de Cuba es la revoluci\u00f3n de la igualdad. Cero analfabetismos; cero desempleos; atenci\u00f3n integral de salud; vivienda para todos; educaci\u00f3n gratuita; comida para todos. S\u00ed la ausencia de necesidades como dice Amartya Sen  no es la libertad, entonces,  \u00bfqu\u00e9 ser\u00e1?",
+            "truncated": false,
+            "display_text_range": [
+                0,
+                274
+            ],
+            "entities": {
+                "hashtags": [],
+                "symbols": [],
+                "user_mentions": [],
+                "urls": []
+            },
+            "metadata": {
+                "iso_language_code": "es",
+                "result_type": "recent"
+            },
+            "source": "<a href=\"https://postcron.com\" rel=\"nofollow\">Postcron App</a>",
+            "in_reply_to_status_id": null,
+            "in_reply_to_status_id_str": null,
+            "in_reply_to_user_id": null,
+            "in_reply_to_user_id_str": null,
+            "in_reply_to_screen_name": null,
+            "user": {
+                "id": 248760009,
+                "id_str": "248760009",
+                "name": "Ernesto Samper P.",
+                "screen_name": "ernestosamperp",
+                "location": "Colombia",
+                "description": "Presidente de Colombia (1994-1998) y Secretario General de UNASUR (2014-2017) https://t.co/FyF9RMSRM1",
+                "url": "https://t.co/qEgmapmx7f",
+                "entities": {
+                    "url": {
+                        "urls": [
+                            {
+                                "url": "https://t.co/qEgmapmx7f",
+                                "expanded_url": "http://www.ernestosamperpizano.com",
+                                "display_url": "ernestosamperpizano.com",
+                                "indices": [
+                                    0,
+                                    23
+                                ]
+                            }
+                        ]
+                    },
+                    "description": {
+                        "urls": [
+                            {
+                                "url": "https://t.co/FyF9RMSRM1",
+                                "expanded_url": "http://facebook.com/ernestosamperp",
+                                "display_url": "facebook.com/ernestosamperp",
+                                "indices": [
+                                    78,
+                                    101
+                                ]
+                            }
+                        ]
+                    }
+                },
+                "protected": false,
+                "followers_count": 369574,
+                "friends_count": 1189,
+                "listed_count": 992,
+                "created_at": "Mon Feb 07 17:28:15 +0000 2011",
+                "favourites_count": 1807,
+                "utc_offset": null,
+                "time_zone": null,
+                "geo_enabled": true,
+                "verified": true,
+                "statuses_count": 18194,
+                "lang": null,
+                "contributors_enabled": false,
+                "is_translator": false,
+                "is_translation_enabled": false,
+                "profile_background_color": "C0DEED",
+                "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+                "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+                "profile_background_tile": false,
+                "profile_image_url": "http://pbs.twimg.com/profile_images/1105473430982410240/XuGgR-_p_normal.jpg",
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/1105473430982410240/XuGgR-_p_normal.jpg",
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/248760009/1586886265",
+                "profile_link_color": "1B95E0",
+                "profile_sidebar_border_color": "000000",
+                "profile_sidebar_fill_color": "DDEEF6",
+                "profile_text_color": "333333",
+                "profile_use_background_image": false,
+                "has_extended_profile": true,
+                "default_profile": false,
+                "default_profile_image": false,
+                "following": false,
+                "follow_request_sent": false,
+                "notifications": false,
+                "translator_type": "none",
+                "withheld_in_countries": []
+            },
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "contributors": null,
+            "is_quote_status": false,
+            "retweet_count": 4818,
+            "favorite_count": 10474,
+            "favorited": false,
+            "retweeted": false,
+            "lang": "es"
+        },
+        "retweet_count": 5725,
+        "favorite_count": 5545,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "es"
+    },
+    "is_quote_status": true,
+    "quoted_status_id": 1081894495531290631,
+    "quoted_status_id_str": "1081894495531290631",
+    "retweet_count": 5725,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "es"
+}

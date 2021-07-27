@@ -1,0 +1,277 @@
+{
+    "created_at": "Wed Jul 14 17:42:07 +0000 2021",
+    "id": 1415366009876357122,
+    "id_str": "1415366009876357122",
+    "full_text": "Mundial: Italia\nChampions: mi querido Psg\nBal\u00f3n de oro: no se https://t.co/eG51hstif5",
+    "truncated": false,
+    "display_text_range": [
+        0,
+        61
+    ],
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+            {
+                "url": "https://t.co/eG51hstif5",
+                "expanded_url": "https://twitter.com/bocarajo_/status/1415363828309712902",
+                "display_url": "twitter.com/bocarajo_/stat\u2026",
+                "indices": [
+                    62,
+                    85
+                ]
+            }
+        ]
+    },
+    "metadata": {
+        "iso_language_code": "es",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 1105193384988327936,
+        "id_str": "1105193384988327936",
+        "name": "\ud83c\uddee\ud83c\uddf9pink \u2b50campe\u00f3n de Am\u00e9rica \u2b50",
+        "screen_name": "lymargotr",
+        "location": "donde este margot Robbie",
+        "description": "\ud83c\udfb6rojo, yo te persigo, vos sos la sangre que a mi me mantiene vivo\ud83c\udfb6\n\u2b50\nMargot Robbie es hincha de independiente",
+        "url": null,
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 428,
+        "friends_count": 462,
+        "listed_count": 1,
+        "created_at": "Mon Mar 11 19:46:51 +0000 2019",
+        "favourites_count": 37600,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 10222,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": null,
+        "profile_background_image_url_https": null,
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1414694511255695366/ZU3qNXop_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1414694511255695366/ZU3qNXop_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1105193384988327936/1625979186",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": true,
+    "quoted_status_id": 1415363828309712902,
+    "quoted_status_id_str": "1415363828309712902",
+    "quoted_status": {
+        "created_at": "Wed Jul 14 17:33:27 +0000 2021",
+        "id": 1415363828309712902,
+        "id_str": "1415363828309712902",
+        "full_text": "Candidatos a ganar cada uno? https://t.co/9f4BCyTBmU",
+        "truncated": false,
+        "display_text_range": [
+            0,
+            28
+        ],
+        "entities": {
+            "hashtags": [],
+            "symbols": [],
+            "user_mentions": [],
+            "urls": [],
+            "media": [
+                {
+                    "id": 1415363825046544393,
+                    "id_str": "1415363825046544393",
+                    "indices": [
+                        29,
+                        52
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/E6Rh5mPWYAkEFif.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/E6Rh5mPWYAkEFif.jpg",
+                    "url": "https://t.co/9f4BCyTBmU",
+                    "display_url": "pic.twitter.com/9f4BCyTBmU",
+                    "expanded_url": "https://twitter.com/bocarajo_/status/1415363828309712902/photo/1",
+                    "type": "photo",
+                    "sizes": {
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "medium": {
+                            "w": 1080,
+                            "h": 940,
+                            "resize": "fit"
+                        },
+                        "large": {
+                            "w": 1080,
+                            "h": 940,
+                            "resize": "fit"
+                        },
+                        "small": {
+                            "w": 680,
+                            "h": 592,
+                            "resize": "fit"
+                        }
+                    }
+                }
+            ]
+        },
+        "extended_entities": {
+            "media": [
+                {
+                    "id": 1415363825046544393,
+                    "id_str": "1415363825046544393",
+                    "indices": [
+                        29,
+                        52
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/E6Rh5mPWYAkEFif.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/E6Rh5mPWYAkEFif.jpg",
+                    "url": "https://t.co/9f4BCyTBmU",
+                    "display_url": "pic.twitter.com/9f4BCyTBmU",
+                    "expanded_url": "https://twitter.com/bocarajo_/status/1415363828309712902/photo/1",
+                    "type": "photo",
+                    "sizes": {
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "medium": {
+                            "w": 1080,
+                            "h": 940,
+                            "resize": "fit"
+                        },
+                        "large": {
+                            "w": 1080,
+                            "h": 940,
+                            "resize": "fit"
+                        },
+                        "small": {
+                            "w": 680,
+                            "h": 592,
+                            "resize": "fit"
+                        }
+                    }
+                }
+            ]
+        },
+        "metadata": {
+            "iso_language_code": "es",
+            "result_type": "recent"
+        },
+        "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 1347737887530504197,
+            "id_str": "1347737887530504197",
+            "name": "BOCARAJO",
+            "screen_name": "bocarajo_",
+            "location": "",
+            "description": "Bostero c\u00f3mo Carlos T\u00e9vez y Juan Rom\u00e1n Riquelme // Respaldo: @bocarajo2 Candado: @bocandaddo",
+            "url": "https://t.co/76HYGiDY05",
+            "entities": {
+                "url": {
+                    "urls": [
+                        {
+                            "url": "https://t.co/76HYGiDY05",
+                            "expanded_url": "https://instagram.com/bocarajo",
+                            "display_url": "instagram.com/bocarajo",
+                            "indices": [
+                                0,
+                                23
+                            ]
+                        }
+                    ]
+                },
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 4280,
+            "friends_count": 979,
+            "listed_count": 18,
+            "created_at": "Sat Jan 09 02:52:15 +0000 2021",
+            "favourites_count": 23875,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": false,
+            "verified": false,
+            "statuses_count": 7262,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "F5F8FA",
+            "profile_background_image_url": null,
+            "profile_background_image_url_https": null,
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1414784365423366148/WDUFy6Yy_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1414784365423366148/WDUFy6Yy_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/1347737887530504197/1623431092",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "has_extended_profile": true,
+            "default_profile": true,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none",
+            "withheld_in_countries": []
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 1,
+        "favorite_count": 20,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "es"
+    },
+    "retweet_count": 0,
+    "favorite_count": 1,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "es"
+}

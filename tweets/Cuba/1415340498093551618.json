@@ -1,0 +1,296 @@
+{
+    "created_at": "Wed Jul 14 16:00:45 +0000 2021",
+    "id": 1415340498093551618,
+    "id_str": "1415340498093551618",
+    "full_text": "RT @pedrodonoso80: Lo que sucedi\u00f3, sucede y podr\u00eda suceder en la Cuba pand\u00e9mica es un crisol de complejidades y no, no es un tema de buenos\u2026",
+    "truncated": false,
+    "display_text_range": [
+        0,
+        140
+    ],
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "pedrodonoso80",
+                "name": "Pedro Donoso",
+                "id": 334117642,
+                "id_str": "334117642",
+                "indices": [
+                    3,
+                    17
+                ]
+            }
+        ],
+        "urls": []
+    },
+    "metadata": {
+        "iso_language_code": "es",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 207508257,
+        "id_str": "207508257",
+        "name": "Lilu",
+        "screen_name": "unpocoDaria",
+        "location": "En UIO y la ciudad bonita \ud83d\ude09",
+        "description": "\u201cSolo la verdad podr\u00eda romperme. \u00bfQu\u00e9 hay m\u00e1s duro que la verdad?\u201d Patrick Rothfuss",
+        "url": null,
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 89,
+        "friends_count": 392,
+        "listed_count": 1,
+        "created_at": "Mon Oct 25 13:22:12 +0000 2010",
+        "favourites_count": 7570,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 3804,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "EDECE9",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme3/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme3/bg.gif",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1273417382489448449/qMhHRpMZ_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1273417382489448449/qMhHRpMZ_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/207508257/1589227605",
+        "profile_link_color": "088253",
+        "profile_sidebar_border_color": "D3D2CF",
+        "profile_sidebar_fill_color": "E3E2DE",
+        "profile_text_color": "634047",
+        "profile_use_background_image": true,
+        "has_extended_profile": true,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+        "created_at": "Wed Jul 14 15:03:09 +0000 2021",
+        "id": 1415326003451285507,
+        "id_str": "1415326003451285507",
+        "full_text": "Lo que sucedi\u00f3, sucede y podr\u00eda suceder en la Cuba pand\u00e9mica es un crisol de complejidades y no, no es un tema de buenos vs. malos, como no lo es ning\u00fan fen\u00f3meno social. Este hilo, largo y complejo intenta explicar algo de lo que sucede y vale la pena leerlo https://t.co/LSfqQITPvX",
+        "truncated": false,
+        "display_text_range": [
+            0,
+            258
+        ],
+        "entities": {
+            "hashtags": [],
+            "symbols": [],
+            "user_mentions": [],
+            "urls": [
+                {
+                    "url": "https://t.co/LSfqQITPvX",
+                    "expanded_url": "https://twitter.com/E_Santiago_Muin/status/1415243093394305025",
+                    "display_url": "twitter.com/E_Santiago_Mui\u2026",
+                    "indices": [
+                        259,
+                        282
+                    ]
+                }
+            ]
+        },
+        "metadata": {
+            "iso_language_code": "es",
+            "result_type": "recent"
+        },
+        "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 334117642,
+            "id_str": "334117642",
+            "name": "Pedro Donoso",
+            "screen_name": "pedrodonoso80",
+            "location": "",
+            "description": "Lo que nos mete en problemas no es lo que no sabemos, sino las cosas de las que estamos seguros, pero que no son ciertas (MT) . Opiniones Personales",
+            "url": null,
+            "entities": {
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 4860,
+            "friends_count": 2928,
+            "listed_count": 17,
+            "created_at": "Tue Jul 12 16:12:35 +0000 2011",
+            "favourites_count": 3854,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": false,
+            "verified": false,
+            "statuses_count": 8610,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "C0DEED",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1374462439736045577/dhrqZNQ5_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1374462439736045577/dhrqZNQ5_normal.jpg",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "has_extended_profile": false,
+            "default_profile": true,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none",
+            "withheld_in_countries": []
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": true,
+        "quoted_status_id": 1415243093394305025,
+        "quoted_status_id_str": "1415243093394305025",
+        "quoted_status": {
+            "created_at": "Wed Jul 14 09:33:42 +0000 2021",
+            "id": 1415243093394305025,
+            "id_str": "1415243093394305025",
+            "full_text": "Tan cierto es que Cuba est\u00e1 sufriendo injerencias externas que buscan desestabilizar (llueve sobre mojado tras 60 a\u00f1os de infame bloqueo) como que la explosi\u00f3n de descontento popular es aut\u00e9ntica, leg\u00edtima, compleja y no se explica solo por el bloqueo [Hilo]",
+            "truncated": false,
+            "display_text_range": [
+                0,
+                258
+            ],
+            "entities": {
+                "hashtags": [],
+                "symbols": [],
+                "user_mentions": [],
+                "urls": []
+            },
+            "metadata": {
+                "iso_language_code": "es",
+                "result_type": "recent"
+            },
+            "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+            "in_reply_to_status_id": null,
+            "in_reply_to_status_id_str": null,
+            "in_reply_to_user_id": null,
+            "in_reply_to_user_id_str": null,
+            "in_reply_to_screen_name": null,
+            "user": {
+                "id": 875104687015571457,
+                "id_str": "875104687015571457",
+                "name": "Emilio Santiago",
+                "screen_name": "E_Santiago_Muin",
+                "location": "M\u00f3stoles, Espa\u00f1a",
+                "description": "Doctor en Antropolog\u00eda. Investigador ecosocial y activista en @ITRompe por compromiso.  Mc fracasado y surrealista extempor\u00e1neo por vocaci\u00f3n.",
+                "url": "https://t.co/YO6LFfVnFZ",
+                "entities": {
+                    "url": {
+                        "urls": [
+                            {
+                                "url": "https://t.co/YO6LFfVnFZ",
+                                "expanded_url": "https://enfantsperdidos.com",
+                                "display_url": "enfantsperdidos.com",
+                                "indices": [
+                                    0,
+                                    23
+                                ]
+                            }
+                        ]
+                    },
+                    "description": {
+                        "urls": []
+                    }
+                },
+                "protected": false,
+                "followers_count": 7730,
+                "friends_count": 749,
+                "listed_count": 84,
+                "created_at": "Wed Jun 14 21:36:30 +0000 2017",
+                "favourites_count": 9640,
+                "utc_offset": null,
+                "time_zone": null,
+                "geo_enabled": false,
+                "verified": false,
+                "statuses_count": 8328,
+                "lang": null,
+                "contributors_enabled": false,
+                "is_translator": false,
+                "is_translation_enabled": false,
+                "profile_background_color": "000000",
+                "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+                "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+                "profile_background_tile": false,
+                "profile_image_url": "http://pbs.twimg.com/profile_images/1053545502200000512/eUNeU66L_normal.jpg",
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/1053545502200000512/eUNeU66L_normal.jpg",
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/875104687015571457/1543400579",
+                "profile_link_color": "19CF86",
+                "profile_sidebar_border_color": "000000",
+                "profile_sidebar_fill_color": "000000",
+                "profile_text_color": "000000",
+                "profile_use_background_image": false,
+                "has_extended_profile": false,
+                "default_profile": false,
+                "default_profile_image": false,
+                "following": false,
+                "follow_request_sent": false,
+                "notifications": false,
+                "translator_type": "none",
+                "withheld_in_countries": []
+            },
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "contributors": null,
+            "is_quote_status": false,
+            "retweet_count": 1009,
+            "favorite_count": 2909,
+            "favorited": false,
+            "retweeted": false,
+            "lang": "es"
+        },
+        "retweet_count": 3,
+        "favorite_count": 16,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "es"
+    },
+    "is_quote_status": true,
+    "quoted_status_id": 1415243093394305025,
+    "quoted_status_id_str": "1415243093394305025",
+    "retweet_count": 3,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "es"
+}

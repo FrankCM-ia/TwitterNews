@@ -1,0 +1,295 @@
+{
+    "created_at": "Fri Jul 16 04:12:03 +0000 2021",
+    "id": 1415886926775832576,
+    "id_str": "1415886926775832576",
+    "full_text": "RT @14ymedio: M\u00e1s de 5.000 detenidos en Cuba, incluyendo 120 activistas y periodistas. \"Dejamos clar\u00edsima nuestra posici\u00f3n y nuestras ideas\u2026",
+    "truncated": false,
+    "display_text_range": [
+        0,
+        140
+    ],
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "14ymedio",
+                "name": "14ymedio",
+                "id": 2295056168,
+                "id_str": "2295056168",
+                "indices": [
+                    3,
+                    12
+                ]
+            }
+        ],
+        "urls": []
+    },
+    "metadata": {
+        "iso_language_code": "es",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 148885229,
+        "id_str": "148885229",
+        "name": "juan suarez",
+        "screen_name": "junele2",
+        "location": "Barquisimeto, Venezuela",
+        "description": "3era compa\u00f1ia de Infanteria Batallon Bolivar a\u00f1o 1992 4 de Febrero 27 de Noviembre presente en apoyo de la democracia. \ud83c\uddfb\ud83c\uddea\ud83d\udd55\ud83d\udd3c\ud83d\udc9a",
+        "url": null,
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 1128,
+        "friends_count": 3664,
+        "listed_count": 4,
+        "created_at": "Thu May 27 21:37:05 +0000 2010",
+        "favourites_count": 15954,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 69727,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "0099B9",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme4/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme4/bg.gif",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1131017631711072256/FaX_BBYv_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1131017631711072256/FaX_BBYv_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/148885229/1398912732",
+        "profile_link_color": "19CF86",
+        "profile_sidebar_border_color": "5ED4DC",
+        "profile_sidebar_fill_color": "95E8EC",
+        "profile_text_color": "3C3940",
+        "profile_use_background_image": true,
+        "has_extended_profile": true,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+        "created_at": "Tue Jul 13 22:02:03 +0000 2021",
+        "id": 1415069034765225991,
+        "id_str": "1415069034765225991",
+        "full_text": "M\u00e1s de 5.000 detenidos en Cuba, incluyendo 120 activistas y periodistas. \"Dejamos clar\u00edsima nuestra posici\u00f3n y nuestras ideas de cambio, en un pa\u00eds que no frena su ca\u00edda al barranco\" https://t.co/isXAGjoM26 https://t.co/03hrAuLaOL",
+        "truncated": false,
+        "display_text_range": [
+            0,
+            206
+        ],
+        "entities": {
+            "hashtags": [],
+            "symbols": [],
+            "user_mentions": [],
+            "urls": [
+                {
+                    "url": "https://t.co/isXAGjoM26",
+                    "expanded_url": "https://bit.ly/2T9Wxoj",
+                    "display_url": "bit.ly/2T9Wxoj",
+                    "indices": [
+                        183,
+                        206
+                    ]
+                }
+            ],
+            "media": [
+                {
+                    "id": 1415069030570987520,
+                    "id_str": "1415069030570987520",
+                    "indices": [
+                        207,
+                        230
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/E6NVyTPXEAAODEi.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/E6NVyTPXEAAODEi.jpg",
+                    "url": "https://t.co/03hrAuLaOL",
+                    "display_url": "pic.twitter.com/03hrAuLaOL",
+                    "expanded_url": "https://twitter.com/14ymedio/status/1415069034765225991/photo/1",
+                    "type": "photo",
+                    "sizes": {
+                        "large": {
+                            "w": 960,
+                            "h": 533,
+                            "resize": "fit"
+                        },
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "small": {
+                            "w": 680,
+                            "h": 378,
+                            "resize": "fit"
+                        },
+                        "medium": {
+                            "w": 960,
+                            "h": 533,
+                            "resize": "fit"
+                        }
+                    }
+                }
+            ]
+        },
+        "extended_entities": {
+            "media": [
+                {
+                    "id": 1415069030570987520,
+                    "id_str": "1415069030570987520",
+                    "indices": [
+                        207,
+                        230
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/E6NVyTPXEAAODEi.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/E6NVyTPXEAAODEi.jpg",
+                    "url": "https://t.co/03hrAuLaOL",
+                    "display_url": "pic.twitter.com/03hrAuLaOL",
+                    "expanded_url": "https://twitter.com/14ymedio/status/1415069034765225991/photo/1",
+                    "type": "photo",
+                    "sizes": {
+                        "large": {
+                            "w": 960,
+                            "h": 533,
+                            "resize": "fit"
+                        },
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "small": {
+                            "w": 680,
+                            "h": 378,
+                            "resize": "fit"
+                        },
+                        "medium": {
+                            "w": 960,
+                            "h": 533,
+                            "resize": "fit"
+                        }
+                    }
+                }
+            ]
+        },
+        "metadata": {
+            "iso_language_code": "es",
+            "result_type": "recent"
+        },
+        "source": "<a href=\"https://buffer.com\" rel=\"nofollow\">Buffer</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 2295056168,
+            "id_str": "2295056168",
+            "name": "14ymedio",
+            "screen_name": "14ymedio",
+            "location": "La Habana",
+            "description": "Diario digital con temas y noticias de la actualidad cubana. Apoya nuestro trabajo. Hazte miembro: https://t.co/S3Fr0JnmPE",
+            "url": "https://t.co/bjSYOLjzM8",
+            "entities": {
+                "url": {
+                    "urls": [
+                        {
+                            "url": "https://t.co/bjSYOLjzM8",
+                            "expanded_url": "https://14ymedio.com",
+                            "display_url": "14ymedio.com",
+                            "indices": [
+                                0,
+                                23
+                            ]
+                        }
+                    ]
+                },
+                "description": {
+                    "urls": [
+                        {
+                            "url": "https://t.co/S3Fr0JnmPE",
+                            "expanded_url": "http://goo.gl/cCCvfa",
+                            "display_url": "goo.gl/cCCvfa",
+                            "indices": [
+                                99,
+                                122
+                            ]
+                        }
+                    ]
+                }
+            },
+            "protected": false,
+            "followers_count": 48014,
+            "friends_count": 1534,
+            "listed_count": 608,
+            "created_at": "Thu Jan 16 21:43:43 +0000 2014",
+            "favourites_count": 1038,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": true,
+            "verified": true,
+            "statuses_count": 46916,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "000000",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/998676426877423616/iWXLlI6M_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/998676426877423616/iWXLlI6M_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/2295056168/1601999564",
+            "profile_link_color": "1B95E0",
+            "profile_sidebar_border_color": "000000",
+            "profile_sidebar_fill_color": "000000",
+            "profile_text_color": "000000",
+            "profile_use_background_image": false,
+            "has_extended_profile": false,
+            "default_profile": false,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none",
+            "withheld_in_countries": []
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 383,
+        "favorite_count": 352,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "es"
+    },
+    "is_quote_status": false,
+    "retweet_count": 383,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "es"
+}

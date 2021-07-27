@@ -1,0 +1,420 @@
+{
+    "created_at": "Wed Jul 14 18:03:06 +0000 2021",
+    "id": 1415371288529485829,
+    "id_str": "1415371288529485829",
+    "full_text": "\u00a1Represi\u00f3n en manifestaciones durante varias d\u00e9cadas a lo largo y ancho del pa\u00eds!\n\nLa dictadura capitalista nos est\u00e1 matando. Ay\u00fadanos a que se sepa la verdad. \n\n#SOSEspa\u00f1a https://t.co/diy1bdq36H https://t.co/4dMDHCTpfP",
+    "truncated": false,
+    "display_text_range": [
+        0,
+        196
+    ],
+    "entities": {
+        "hashtags": [
+            {
+                "text": "SOSEspa\u00f1a",
+                "indices": [
+                    162,
+                    172
+                ]
+            }
+        ],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+            {
+                "url": "https://t.co/diy1bdq36H",
+                "expanded_url": "https://twitter.com/_pcte_/status/1415363329472835589",
+                "display_url": "twitter.com/_pcte_/status/\u2026",
+                "indices": [
+                    173,
+                    196
+                ]
+            }
+        ],
+        "media": [
+            {
+                "id": 1415371283890638848,
+                "id_str": "1415371283890638848",
+                "indices": [
+                    197,
+                    220
+                ],
+                "media_url": "http://pbs.twimg.com/media/E6RorwmXEAAklRN.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/E6RorwmXEAAklRN.jpg",
+                "url": "https://t.co/4dMDHCTpfP",
+                "display_url": "pic.twitter.com/4dMDHCTpfP",
+                "expanded_url": "https://twitter.com/FdezG_/status/1415371288529485829/photo/1",
+                "type": "photo",
+                "sizes": {
+                    "large": {
+                        "w": 1200,
+                        "h": 802,
+                        "resize": "fit"
+                    },
+                    "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                    },
+                    "small": {
+                        "w": 680,
+                        "h": 454,
+                        "resize": "fit"
+                    },
+                    "medium": {
+                        "w": 1200,
+                        "h": 802,
+                        "resize": "fit"
+                    }
+                }
+            }
+        ]
+    },
+    "extended_entities": {
+        "media": [
+            {
+                "id": 1415371283890638848,
+                "id_str": "1415371283890638848",
+                "indices": [
+                    197,
+                    220
+                ],
+                "media_url": "http://pbs.twimg.com/media/E6RorwmXEAAklRN.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/E6RorwmXEAAklRN.jpg",
+                "url": "https://t.co/4dMDHCTpfP",
+                "display_url": "pic.twitter.com/4dMDHCTpfP",
+                "expanded_url": "https://twitter.com/FdezG_/status/1415371288529485829/photo/1",
+                "type": "photo",
+                "sizes": {
+                    "large": {
+                        "w": 1200,
+                        "h": 802,
+                        "resize": "fit"
+                    },
+                    "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                    },
+                    "small": {
+                        "w": 680,
+                        "h": 454,
+                        "resize": "fit"
+                    },
+                    "medium": {
+                        "w": 1200,
+                        "h": 802,
+                        "resize": "fit"
+                    }
+                }
+            },
+            {
+                "id": 1415371283903156234,
+                "id_str": "1415371283903156234",
+                "indices": [
+                    197,
+                    220
+                ],
+                "media_url": "http://pbs.twimg.com/media/E6RorwpWEAoUC6w.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/E6RorwpWEAoUC6w.jpg",
+                "url": "https://t.co/4dMDHCTpfP",
+                "display_url": "pic.twitter.com/4dMDHCTpfP",
+                "expanded_url": "https://twitter.com/FdezG_/status/1415371288529485829/photo/1",
+                "type": "photo",
+                "sizes": {
+                    "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                    },
+                    "medium": {
+                        "w": 600,
+                        "h": 400,
+                        "resize": "fit"
+                    },
+                    "large": {
+                        "w": 600,
+                        "h": 400,
+                        "resize": "fit"
+                    },
+                    "small": {
+                        "w": 600,
+                        "h": 400,
+                        "resize": "fit"
+                    }
+                }
+            }
+        ]
+    },
+    "metadata": {
+        "iso_language_code": "es",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 1056112335885135873,
+        "id_str": "1056112335885135873",
+        "name": "Ra\u00fal Gurillo \ud83c\udde8\ud83c\uddfa",
+        "screen_name": "FdezG_",
+        "location": "Sur de Madrid",
+        "description": "Luchando por el futuro de mi clase en @CJCMadrid_. Profe de Literatura \ud83c\uddea\ud83c\udded",
+        "url": "https://t.co/FL4FeuOplk",
+        "entities": {
+            "url": {
+                "urls": [
+                    {
+                        "url": "https://t.co/FL4FeuOplk",
+                        "expanded_url": "http://juventudcomunista.es",
+                        "display_url": "juventudcomunista.es",
+                        "indices": [
+                            0,
+                            23
+                        ]
+                    }
+                ]
+            },
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 1143,
+        "friends_count": 1088,
+        "listed_count": 3,
+        "created_at": "Sat Oct 27 09:16:17 +0000 2018",
+        "favourites_count": 11427,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 5936,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": null,
+        "profile_background_image_url_https": null,
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1373554842371813378/7hLyU4ZJ_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1373554842371813378/7hLyU4ZJ_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1056112335885135873/1619952586",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": true,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": true,
+    "quoted_status_id": 1415363329472835589,
+    "quoted_status_id_str": "1415363329472835589",
+    "quoted_status": {
+        "created_at": "Wed Jul 14 17:31:28 +0000 2021",
+        "id": 1415363329472835589,
+        "id_str": "1415363329472835589",
+        "full_text": "\u203c\ufe0fM\u00e1s de 5 millones de personas viven en nuestro pa\u00eds en pobreza severa, con menos de 16\u20ac al d\u00eda. \n\nLa dictadura capitalista nos est\u00e1 matando. Ay\u00fadanos a que se sepa la verdad.\n\n#SOSEspa\u00f1a https://t.co/H90k0UZjwm",
+        "truncated": false,
+        "display_text_range": [
+            0,
+            188
+        ],
+        "entities": {
+            "hashtags": [
+                {
+                    "text": "SOSEspa\u00f1a",
+                    "indices": [
+                        178,
+                        188
+                    ]
+                }
+            ],
+            "symbols": [],
+            "user_mentions": [],
+            "urls": [],
+            "media": [
+                {
+                    "id": 1415363323055513600,
+                    "id_str": "1415363323055513600",
+                    "indices": [
+                        189,
+                        212
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/E6RhcYLXIAArdyp.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/E6RhcYLXIAArdyp.jpg",
+                    "url": "https://t.co/H90k0UZjwm",
+                    "display_url": "pic.twitter.com/H90k0UZjwm",
+                    "expanded_url": "https://twitter.com/_PCTE_/status/1415363329472835589/photo/1",
+                    "type": "photo",
+                    "sizes": {
+                        "large": {
+                            "w": 1200,
+                            "h": 675,
+                            "resize": "fit"
+                        },
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "small": {
+                            "w": 680,
+                            "h": 383,
+                            "resize": "fit"
+                        },
+                        "medium": {
+                            "w": 1200,
+                            "h": 675,
+                            "resize": "fit"
+                        }
+                    }
+                }
+            ]
+        },
+        "extended_entities": {
+            "media": [
+                {
+                    "id": 1415363323055513600,
+                    "id_str": "1415363323055513600",
+                    "indices": [
+                        189,
+                        212
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/E6RhcYLXIAArdyp.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/E6RhcYLXIAArdyp.jpg",
+                    "url": "https://t.co/H90k0UZjwm",
+                    "display_url": "pic.twitter.com/H90k0UZjwm",
+                    "expanded_url": "https://twitter.com/_PCTE_/status/1415363329472835589/photo/1",
+                    "type": "photo",
+                    "sizes": {
+                        "large": {
+                            "w": 1200,
+                            "h": 675,
+                            "resize": "fit"
+                        },
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "small": {
+                            "w": 680,
+                            "h": 383,
+                            "resize": "fit"
+                        },
+                        "medium": {
+                            "w": 1200,
+                            "h": 675,
+                            "resize": "fit"
+                        }
+                    }
+                }
+            ]
+        },
+        "metadata": {
+            "iso_language_code": "es",
+            "result_type": "recent"
+        },
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 1098659655952281602,
+            "id_str": "1098659655952281602",
+            "name": "PCTE",
+            "screen_name": "_PCTE_",
+            "location": "",
+            "description": "Partido Comunista de los Trabajadores de Espa\u00f1a",
+            "url": "https://t.co/EDiQxop1xg",
+            "entities": {
+                "url": {
+                    "urls": [
+                        {
+                            "url": "https://t.co/EDiQxop1xg",
+                            "expanded_url": "http://pcte.es/",
+                            "display_url": "pcte.es",
+                            "indices": [
+                                0,
+                                23
+                            ]
+                        }
+                    ]
+                },
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 12406,
+            "friends_count": 137,
+            "listed_count": 64,
+            "created_at": "Thu Feb 21 19:04:08 +0000 2019",
+            "favourites_count": 19194,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": false,
+            "verified": false,
+            "statuses_count": 9773,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "F5F8FA",
+            "profile_background_image_url": null,
+            "profile_background_image_url_https": null,
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1102282433376985088/fjdN9YDS_normal.png",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1102282433376985088/fjdN9YDS_normal.png",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/1098659655952281602/1624164268",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "has_extended_profile": false,
+            "default_profile": true,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none",
+            "withheld_in_countries": []
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 27,
+        "favorite_count": 54,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "es"
+    },
+    "retweet_count": 1,
+    "favorite_count": 2,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "es"
+}

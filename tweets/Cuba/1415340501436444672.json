@@ -1,0 +1,358 @@
+{
+    "created_at": "Wed Jul 14 16:00:45 +0000 2021",
+    "id": 1415340501436444672,
+    "id_str": "1415340501436444672",
+    "full_text": "RT @semarco: #Venezuela #Nicaragua y  #Argentina salgan a las calles!!! \n#Cuba ya sali\u00f3  a clamar por la democracia, toda la fuerza opresor\u2026",
+    "truncated": false,
+    "display_text_range": [
+        0,
+        140
+    ],
+    "entities": {
+        "hashtags": [
+            {
+                "text": "Venezuela",
+                "indices": [
+                    13,
+                    23
+                ]
+            },
+            {
+                "text": "Nicaragua",
+                "indices": [
+                    24,
+                    34
+                ]
+            },
+            {
+                "text": "Argentina",
+                "indices": [
+                    38,
+                    48
+                ]
+            },
+            {
+                "text": "Cuba",
+                "indices": [
+                    73,
+                    78
+                ]
+            }
+        ],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "semarco",
+                "name": "Marco Serrano\u2199\ufe0f\ud83d\udc5f",
+                "id": 123298381,
+                "id_str": "123298381",
+                "indices": [
+                    3,
+                    11
+                ]
+            }
+        ],
+        "urls": []
+    },
+    "metadata": {
+        "iso_language_code": "es",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 2218714519,
+        "id_str": "2218714519",
+        "name": "danilo\ud83c\udf40",
+        "screen_name": "danilomoposita",
+        "location": "Ambato ",
+        "description": "\ud83c\udf40\ud83c\udf40\ud83c\udf40\ud83c\udf40\ud83c\udf40\ud83c\udf40\ud83c\udf40",
+        "url": null,
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 572,
+        "friends_count": 1660,
+        "listed_count": 0,
+        "created_at": "Thu Nov 28 01:42:18 +0000 2013",
+        "favourites_count": 68306,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 47672,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1373246230101422080/UMpL18fV_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1373246230101422080/UMpL18fV_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2218714519/1577049932",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": true,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+        "created_at": "Wed Jul 14 13:36:28 +0000 2021",
+        "id": 1415304188817514502,
+        "id_str": "1415304188817514502",
+        "full_text": "#Venezuela #Nicaragua y  #Argentina salgan a las calles!!! \n#Cuba ya sali\u00f3  a clamar por la democracia, toda la fuerza opresora est\u00e1n all\u00ed en Cuba, es hora que todos salgan, es la oportunidad de agrandar la manifestaci\u00f3n para obtener la DEMOCRACIA.\n#RedDeTuiterosDemocraticos https://t.co/sxSG93ZLS5",
+        "truncated": false,
+        "display_text_range": [
+            0,
+            275
+        ],
+        "entities": {
+            "hashtags": [
+                {
+                    "text": "Venezuela",
+                    "indices": [
+                        0,
+                        10
+                    ]
+                },
+                {
+                    "text": "Nicaragua",
+                    "indices": [
+                        11,
+                        21
+                    ]
+                },
+                {
+                    "text": "Argentina",
+                    "indices": [
+                        25,
+                        35
+                    ]
+                },
+                {
+                    "text": "Cuba",
+                    "indices": [
+                        60,
+                        65
+                    ]
+                },
+                {
+                    "text": "RedDeTuiterosDemocraticos",
+                    "indices": [
+                        249,
+                        275
+                    ]
+                }
+            ],
+            "symbols": [],
+            "user_mentions": [],
+            "urls": [],
+            "media": [
+                {
+                    "id": 1415303948047618052,
+                    "id_str": "1415303948047618052",
+                    "indices": [
+                        276,
+                        299
+                    ],
+                    "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1415303948047618052/pu/img/nFynzRXcLZQcjasK.jpg",
+                    "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1415303948047618052/pu/img/nFynzRXcLZQcjasK.jpg",
+                    "url": "https://t.co/sxSG93ZLS5",
+                    "display_url": "pic.twitter.com/sxSG93ZLS5",
+                    "expanded_url": "https://twitter.com/semarco/status/1415304188817514502/video/1",
+                    "type": "photo",
+                    "sizes": {
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "small": {
+                            "w": 383,
+                            "h": 680,
+                            "resize": "fit"
+                        },
+                        "large": {
+                            "w": 576,
+                            "h": 1024,
+                            "resize": "fit"
+                        },
+                        "medium": {
+                            "w": 576,
+                            "h": 1024,
+                            "resize": "fit"
+                        }
+                    }
+                }
+            ]
+        },
+        "extended_entities": {
+            "media": [
+                {
+                    "id": 1415303948047618052,
+                    "id_str": "1415303948047618052",
+                    "indices": [
+                        276,
+                        299
+                    ],
+                    "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1415303948047618052/pu/img/nFynzRXcLZQcjasK.jpg",
+                    "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1415303948047618052/pu/img/nFynzRXcLZQcjasK.jpg",
+                    "url": "https://t.co/sxSG93ZLS5",
+                    "display_url": "pic.twitter.com/sxSG93ZLS5",
+                    "expanded_url": "https://twitter.com/semarco/status/1415304188817514502/video/1",
+                    "type": "video",
+                    "sizes": {
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "small": {
+                            "w": 383,
+                            "h": 680,
+                            "resize": "fit"
+                        },
+                        "large": {
+                            "w": 576,
+                            "h": 1024,
+                            "resize": "fit"
+                        },
+                        "medium": {
+                            "w": 576,
+                            "h": 1024,
+                            "resize": "fit"
+                        }
+                    },
+                    "video_info": {
+                        "aspect_ratio": [
+                            9,
+                            16
+                        ],
+                        "duration_millis": 60167,
+                        "variants": [
+                            {
+                                "content_type": "application/x-mpegURL",
+                                "url": "https://video.twimg.com/ext_tw_video/1415303948047618052/pu/pl/bTPhTQJA_aiNlPUK.m3u8?tag=12&container=fmp4"
+                            },
+                            {
+                                "bitrate": 632000,
+                                "content_type": "video/mp4",
+                                "url": "https://video.twimg.com/ext_tw_video/1415303948047618052/pu/vid/320x568/KmL3VXCohbfhcfWC.mp4?tag=12"
+                            },
+                            {
+                                "bitrate": 950000,
+                                "content_type": "video/mp4",
+                                "url": "https://video.twimg.com/ext_tw_video/1415303948047618052/pu/vid/480x852/9noYRog-JGvRtHYL.mp4?tag=12"
+                            },
+                            {
+                                "bitrate": 2176000,
+                                "content_type": "video/mp4",
+                                "url": "https://video.twimg.com/ext_tw_video/1415303948047618052/pu/vid/576x1024/_sVRz0uvZk6a_ft2.mp4?tag=12"
+                            }
+                        ]
+                    },
+                    "additional_media_info": {
+                        "monetizable": false
+                    }
+                }
+            ]
+        },
+        "metadata": {
+            "iso_language_code": "es",
+            "result_type": "recent"
+        },
+        "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 123298381,
+            "id_str": "123298381",
+            "name": "Marco Serrano\u2199\ufe0f\ud83d\udc5f",
+            "screen_name": "semarco",
+            "location": "Ecuador",
+            "description": "Ab. Dem\u00f3crata,  defensor de los verdaderos  DDHH. Asesor de Empresas e  Inversi\u00f3n y Riesgo.\n#RedDeTuiterosConLasso\n#RedDeTuiterosDemocraticos \nANTICOMUNISTA",
+            "url": null,
+            "entities": {
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 5910,
+            "friends_count": 4254,
+            "listed_count": 7,
+            "created_at": "Mon Mar 15 16:58:51 +0000 2010",
+            "favourites_count": 46172,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": false,
+            "verified": false,
+            "statuses_count": 27746,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "C0DEED",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1373023626975453184/9MAWcGRi_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1373023626975453184/9MAWcGRi_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/123298381/1616191943",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "has_extended_profile": true,
+            "default_profile": true,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none",
+            "withheld_in_countries": []
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 39,
+        "favorite_count": 51,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "es"
+    },
+    "is_quote_status": false,
+    "retweet_count": 39,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "es"
+}

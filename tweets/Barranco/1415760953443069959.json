@@ -1,0 +1,489 @@
+{
+    "created_at": "Thu Jul 15 19:51:29 +0000 2021",
+    "id": 1415760953443069959,
+    "id_str": "1415760953443069959",
+    "full_text": "RT @InfoEmerg: #AHORA \n\n@bomberscat en un incendio de vegetaci\u00f3n forestal en el fondo de un barranco, en el valle de Lladres, en M\u00f3ra d'Ebr\u2026",
+    "truncated": false,
+    "display_text_range": [
+        0,
+        140
+    ],
+    "entities": {
+        "hashtags": [
+            {
+                "text": "AHORA",
+                "indices": [
+                    15,
+                    21
+                ]
+            }
+        ],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "InfoEmerg",
+                "name": "InfoEmergencias",
+                "id": 1087313888,
+                "id_str": "1087313888",
+                "indices": [
+                    3,
+                    13
+                ]
+            },
+            {
+                "screen_name": "bomberscat",
+                "name": "Bombers",
+                "id": 110946582,
+                "id_str": "110946582",
+                "indices": [
+                    24,
+                    35
+                ]
+            }
+        ],
+        "urls": []
+    },
+    "metadata": {
+        "iso_language_code": "es",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 1451085415,
+        "id_str": "1451085415",
+        "name": "Pacarros Barragan",
+        "screen_name": "PacarrosB",
+        "location": "sevilla",
+        "description": "",
+        "url": null,
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 261,
+        "friends_count": 263,
+        "listed_count": 8,
+        "created_at": "Thu May 23 10:01:06 +0000 2013",
+        "favourites_count": 75300,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 89804,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1305215875109269504/bC8g7V9l_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1305215875109269504/bC8g7V9l_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1451085415/1600022706",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": true,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+        "created_at": "Thu Jul 15 19:25:52 +0000 2021",
+        "id": 1415754505308807172,
+        "id_str": "1415754505308807172",
+        "full_text": "#AHORA \n\n@bomberscat en un incendio de vegetaci\u00f3n forestal en el fondo de un barranco, en el valle de Lladres, en M\u00f3ra d'Ebre. Ahora mismo, en el lugar, 16 dotaciones terrestres y 6 #maer https://t.co/W60qWqUTKA",
+        "truncated": false,
+        "display_text_range": [
+            0,
+            187
+        ],
+        "entities": {
+            "hashtags": [
+                {
+                    "text": "AHORA",
+                    "indices": [
+                        0,
+                        6
+                    ]
+                },
+                {
+                    "text": "maer",
+                    "indices": [
+                        182,
+                        187
+                    ]
+                }
+            ],
+            "symbols": [],
+            "user_mentions": [
+                {
+                    "screen_name": "bomberscat",
+                    "name": "Bombers",
+                    "id": 110946582,
+                    "id_str": "110946582",
+                    "indices": [
+                        9,
+                        20
+                    ]
+                }
+            ],
+            "urls": [
+                {
+                    "url": "https://t.co/W60qWqUTKA",
+                    "expanded_url": "https://twitter.com/bomberscat/status/1415751086980354051",
+                    "display_url": "twitter.com/bomberscat/sta\u2026",
+                    "indices": [
+                        188,
+                        211
+                    ]
+                }
+            ]
+        },
+        "metadata": {
+            "iso_language_code": "es",
+            "result_type": "recent"
+        },
+        "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 1087313888,
+            "id_str": "1087313888",
+            "name": "InfoEmergencias",
+            "screen_name": "InfoEmerg",
+            "location": "Espa\u00f1a",
+            "description": "Servicio de Informaci\u00f3n de Emergencias",
+            "url": "https://t.co/hzN1teYJqZ",
+            "entities": {
+                "url": {
+                    "urls": [
+                        {
+                            "url": "https://t.co/hzN1teYJqZ",
+                            "expanded_url": "http://infoemerg.es/",
+                            "display_url": "infoemerg.es",
+                            "indices": [
+                                0,
+                                23
+                            ]
+                        }
+                    ]
+                },
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 64040,
+            "friends_count": 0,
+            "listed_count": 1116,
+            "created_at": "Sun Jan 13 21:49:33 +0000 2013",
+            "favourites_count": 190,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": false,
+            "verified": true,
+            "statuses_count": 153957,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "C0DEED",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1269295549959876620/1avteB-6_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1269295549959876620/1avteB-6_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/1087313888/1358196039",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "has_extended_profile": false,
+            "default_profile": true,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none",
+            "withheld_in_countries": []
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": true,
+        "quoted_status_id": 1415751086980354051,
+        "quoted_status_id_str": "1415751086980354051",
+        "quoted_status": {
+            "created_at": "Thu Jul 15 19:12:17 +0000 2021",
+            "id": 1415751086980354051,
+            "id_str": "1415751086980354051",
+            "full_text": "#bomberscat treballem en un incendi de vegetaci\u00f3 forestal al fons d'un barranc, a la vall de Lladres, a M\u00f3ra d'Ebre. Ara mateix, al lloc, 16 dotacions terrestres i 6 #maer https://t.co/HPFmTe4694",
+            "truncated": false,
+            "display_text_range": [
+                0,
+                171
+            ],
+            "entities": {
+                "hashtags": [
+                    {
+                        "text": "bomberscat",
+                        "indices": [
+                            0,
+                            11
+                        ]
+                    },
+                    {
+                        "text": "maer",
+                        "indices": [
+                            166,
+                            171
+                        ]
+                    }
+                ],
+                "symbols": [],
+                "user_mentions": [],
+                "urls": [],
+                "media": [
+                    {
+                        "id": 1415750999227179008,
+                        "id_str": "1415750999227179008",
+                        "indices": [
+                            172,
+                            195
+                        ],
+                        "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1415750999227179008/pu/img/LPUr-xpCvMQdpmGn.jpg",
+                        "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1415750999227179008/pu/img/LPUr-xpCvMQdpmGn.jpg",
+                        "url": "https://t.co/HPFmTe4694",
+                        "display_url": "pic.twitter.com/HPFmTe4694",
+                        "expanded_url": "https://twitter.com/bomberscat/status/1415751086980354051/video/1",
+                        "type": "photo",
+                        "sizes": {
+                            "medium": {
+                                "w": 1024,
+                                "h": 576,
+                                "resize": "fit"
+                            },
+                            "thumb": {
+                                "w": 150,
+                                "h": 150,
+                                "resize": "crop"
+                            },
+                            "large": {
+                                "w": 1024,
+                                "h": 576,
+                                "resize": "fit"
+                            },
+                            "small": {
+                                "w": 680,
+                                "h": 383,
+                                "resize": "fit"
+                            }
+                        }
+                    }
+                ]
+            },
+            "extended_entities": {
+                "media": [
+                    {
+                        "id": 1415750999227179008,
+                        "id_str": "1415750999227179008",
+                        "indices": [
+                            172,
+                            195
+                        ],
+                        "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1415750999227179008/pu/img/LPUr-xpCvMQdpmGn.jpg",
+                        "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1415750999227179008/pu/img/LPUr-xpCvMQdpmGn.jpg",
+                        "url": "https://t.co/HPFmTe4694",
+                        "display_url": "pic.twitter.com/HPFmTe4694",
+                        "expanded_url": "https://twitter.com/bomberscat/status/1415751086980354051/video/1",
+                        "type": "video",
+                        "sizes": {
+                            "medium": {
+                                "w": 1024,
+                                "h": 576,
+                                "resize": "fit"
+                            },
+                            "thumb": {
+                                "w": 150,
+                                "h": 150,
+                                "resize": "crop"
+                            },
+                            "large": {
+                                "w": 1024,
+                                "h": 576,
+                                "resize": "fit"
+                            },
+                            "small": {
+                                "w": 680,
+                                "h": 383,
+                                "resize": "fit"
+                            }
+                        },
+                        "video_info": {
+                            "aspect_ratio": [
+                                16,
+                                9
+                            ],
+                            "duration_millis": 10440,
+                            "variants": [
+                                {
+                                    "bitrate": 832000,
+                                    "content_type": "video/mp4",
+                                    "url": "https://video.twimg.com/ext_tw_video/1415750999227179008/pu/vid/640x360/m7p0nJFskpGkVpXw.mp4?tag=12"
+                                },
+                                {
+                                    "bitrate": 256000,
+                                    "content_type": "video/mp4",
+                                    "url": "https://video.twimg.com/ext_tw_video/1415750999227179008/pu/vid/480x270/_c5K7J19tIqmJS-Y.mp4?tag=12"
+                                },
+                                {
+                                    "content_type": "application/x-mpegURL",
+                                    "url": "https://video.twimg.com/ext_tw_video/1415750999227179008/pu/pl/e2GzlwNIl-rhSobr.m3u8?tag=12"
+                                },
+                                {
+                                    "bitrate": 2176000,
+                                    "content_type": "video/mp4",
+                                    "url": "https://video.twimg.com/ext_tw_video/1415750999227179008/pu/vid/1024x576/4cNzt-5JYSak_rO7.mp4?tag=12"
+                                }
+                            ]
+                        },
+                        "additional_media_info": {
+                            "monetizable": false
+                        }
+                    }
+                ]
+            },
+            "metadata": {
+                "iso_language_code": "es",
+                "result_type": "recent"
+            },
+            "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+            "in_reply_to_status_id": null,
+            "in_reply_to_status_id_str": null,
+            "in_reply_to_user_id": null,
+            "in_reply_to_user_id_str": null,
+            "in_reply_to_screen_name": null,
+            "user": {
+                "id": 110946582,
+                "id_str": "110946582",
+                "name": "Bombers",
+                "screen_name": "bomberscat",
+                "location": "Catalunya",
+                "description": "Bombers. Generalitat de Catalunya \ud83d\udccc Normes de participaci\u00f3 https://t.co/pdNPx9d8r2",
+                "url": "http://t.co/fH69qKKRcw",
+                "entities": {
+                    "url": {
+                        "urls": [
+                            {
+                                "url": "http://t.co/fH69qKKRcw",
+                                "expanded_url": "http://gencat.cat/bombers",
+                                "display_url": "gencat.cat/bombers",
+                                "indices": [
+                                    0,
+                                    22
+                                ]
+                            }
+                        ]
+                    },
+                    "description": {
+                        "urls": [
+                            {
+                                "url": "https://t.co/pdNPx9d8r2",
+                                "expanded_url": "http://gen.cat/normesparticipacio",
+                                "display_url": "gen.cat/normesparticip\u2026",
+                                "indices": [
+                                    59,
+                                    82
+                                ]
+                            }
+                        ]
+                    }
+                },
+                "protected": false,
+                "followers_count": 221310,
+                "friends_count": 66,
+                "listed_count": 1456,
+                "created_at": "Wed Feb 03 09:00:48 +0000 2010",
+                "favourites_count": 1823,
+                "utc_offset": null,
+                "time_zone": null,
+                "geo_enabled": true,
+                "verified": true,
+                "statuses_count": 37590,
+                "lang": null,
+                "contributors_enabled": false,
+                "is_translator": false,
+                "is_translation_enabled": false,
+                "profile_background_color": "FFFFFF",
+                "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+                "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+                "profile_background_tile": false,
+                "profile_image_url": "http://pbs.twimg.com/profile_images/1031438247287828480/19fcTL8y_normal.jpg",
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/1031438247287828480/19fcTL8y_normal.jpg",
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/110946582/1607328275",
+                "profile_link_color": "AC2215",
+                "profile_sidebar_border_color": "FFFFFF",
+                "profile_sidebar_fill_color": "FFFFFF",
+                "profile_text_color": "333333",
+                "profile_use_background_image": true,
+                "has_extended_profile": false,
+                "default_profile": false,
+                "default_profile_image": false,
+                "following": false,
+                "follow_request_sent": false,
+                "notifications": false,
+                "translator_type": "none",
+                "withheld_in_countries": []
+            },
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "contributors": null,
+            "is_quote_status": false,
+            "retweet_count": 65,
+            "favorite_count": 162,
+            "favorited": false,
+            "retweeted": false,
+            "possibly_sensitive": false,
+            "lang": "ca"
+        },
+        "retweet_count": 1,
+        "favorite_count": 5,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": true,
+        "lang": "es"
+    },
+    "is_quote_status": true,
+    "quoted_status_id": 1415751086980354051,
+    "quoted_status_id_str": "1415751086980354051",
+    "retweet_count": 1,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "es"
+}

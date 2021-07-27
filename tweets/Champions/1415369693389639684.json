@@ -1,0 +1,97 @@
+{
+    "created_at": "Wed Jul 14 17:56:45 +0000 2021",
+    "id": 1415369693389639684,
+    "id_str": "1415369693389639684",
+    "full_text": "@MilanTMN Ni as\u00ed la juve gana champions ni as\u00ed el Inter hace algo buen. En champions, mientras nosotros debemos luchar m\u00e1s , eso nos hace crecer m\u00e1s q ello",
+    "truncated": false,
+    "display_text_range": [
+        10,
+        155
+    ],
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "MilanTMN",
+                "name": "AC Milan TMN",
+                "id": 1146827943630561280,
+                "id_str": "1146827943630561280",
+                "indices": [
+                    0,
+                    9
+                ]
+            }
+        ],
+        "urls": []
+    },
+    "metadata": {
+        "iso_language_code": "es",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "in_reply_to_status_id": 1415368346917392393,
+    "in_reply_to_status_id_str": "1415368346917392393",
+    "in_reply_to_user_id": 1146827943630561280,
+    "in_reply_to_user_id_str": "1146827943630561280",
+    "in_reply_to_screen_name": "MilanTMN",
+    "user": {
+        "id": 437776355,
+        "id_str": "437776355",
+        "name": "Rourou",
+        "screen_name": "7Joseagustin",
+        "location": "San Felipe",
+        "description": "rossonero eternamente, mi cuore parla milanista",
+        "url": null,
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 152,
+        "friends_count": 153,
+        "listed_count": 0,
+        "created_at": "Thu Dec 15 20:35:06 +0000 2011",
+        "favourites_count": 13326,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 9486,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1412906047644241920/cxu-_rmZ_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1412906047644241920/cxu-_rmZ_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/437776355/1426376664",
+        "profile_link_color": "FF691F",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 1,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "es"
+}

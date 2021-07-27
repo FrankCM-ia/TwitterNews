@@ -1,0 +1,217 @@
+{
+    "created_at": "Wed Jul 14 16:00:26 +0000 2021",
+    "id": 1415340419144105992,
+    "id_str": "1415340419144105992",
+    "full_text": "RT @VickyDavilaH: Protestas en Cuba: brutal video muestra c\u00f3mo agentes de la dictadura emboscan, detienen y golpean a manifestante. Pero es\u2026",
+    "truncated": false,
+    "display_text_range": [
+        0,
+        140
+    ],
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "VickyDavilaH",
+                "name": "Vicky D\u00e1vila",
+                "id": 242730842,
+                "id_str": "242730842",
+                "indices": [
+                    3,
+                    16
+                ]
+            }
+        ],
+        "urls": []
+    },
+    "metadata": {
+        "iso_language_code": "es",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 830232565,
+        "id_str": "830232565",
+        "name": "tottogol",
+        "screen_name": "tottogol",
+        "location": "",
+        "description": "comerciante de repuestos y accesorios automotriz independiente",
+        "url": null,
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 318,
+        "friends_count": 599,
+        "listed_count": 0,
+        "created_at": "Tue Sep 18 02:35:13 +0000 2012",
+        "favourites_count": 42783,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 40803,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "ACDED6",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme18/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme18/bg.gif",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1207309816600903680/u1l5ohYj_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1207309816600903680/u1l5ohYj_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/830232565/1567165905",
+        "profile_link_color": "038543",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "F6F6F6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+        "created_at": "Wed Jul 14 14:44:52 +0000 2021",
+        "id": 1415321402098561030,
+        "id_str": "1415321402098561030",
+        "full_text": "Protestas en Cuba: brutal video muestra c\u00f3mo agentes de la dictadura emboscan, detienen y golpean a manifestante. Pero esto no genera el rechazo de los pol\u00edticos colombianos que dicen que Colombia es una dictadura \ud83d\ude49 https://t.co/XVaAhi3lu4",
+        "truncated": false,
+        "display_text_range": [
+            0,
+            239
+        ],
+        "entities": {
+            "hashtags": [],
+            "symbols": [],
+            "user_mentions": [],
+            "urls": [
+                {
+                    "url": "https://t.co/XVaAhi3lu4",
+                    "expanded_url": "https://www.semana.com/mundo/articulo/abuso-de-fuerza-brutal-video-muestra-como-la-dictadura-cubana-embosca-detiene-y-golpea-a-manifestante-desarmado/202143/",
+                    "display_url": "semana.com/mundo/articulo\u2026",
+                    "indices": [
+                        216,
+                        239
+                    ]
+                }
+            ]
+        },
+        "metadata": {
+            "iso_language_code": "es",
+            "result_type": "recent"
+        },
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 242730842,
+            "id_str": "242730842",
+            "name": "Vicky D\u00e1vila",
+            "screen_name": "VickyDavilaH",
+            "location": "Bogot\u00e1, D.C., Colombia",
+            "description": "con\u00e9ctate a las 12 a https://t.co/8yYNFZ7Uif y a nuestro #FacebookLive",
+            "url": "https://t.co/JkAxfSKBfy",
+            "entities": {
+                "url": {
+                    "urls": [
+                        {
+                            "url": "https://t.co/JkAxfSKBfy",
+                            "expanded_url": "https://www.facebook.com/vickydavilah/",
+                            "display_url": "facebook.com/vickydavilah/",
+                            "indices": [
+                                0,
+                                23
+                            ]
+                        }
+                    ]
+                },
+                "description": {
+                    "urls": [
+                        {
+                            "url": "https://t.co/8yYNFZ7Uif",
+                            "expanded_url": "http://Semana.com",
+                            "display_url": "Semana.com",
+                            "indices": [
+                                21,
+                                44
+                            ]
+                        }
+                    ]
+                }
+            },
+            "protected": false,
+            "followers_count": 3209277,
+            "friends_count": 4280,
+            "listed_count": 5055,
+            "created_at": "Tue Jan 25 13:23:03 +0000 2011",
+            "favourites_count": 52900,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": false,
+            "verified": true,
+            "statuses_count": 148341,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "C0DEED",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1334248549622673409/w1sSvD_t_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1334248549622673409/w1sSvD_t_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/242730842/1609124886",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "has_extended_profile": false,
+            "default_profile": true,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none",
+            "withheld_in_countries": []
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 574,
+        "favorite_count": 1155,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "es"
+    },
+    "is_quote_status": false,
+    "retweet_count": 574,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "es"
+}

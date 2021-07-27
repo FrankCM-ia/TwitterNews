@@ -1,0 +1,328 @@
+{
+    "created_at": "Wed Jul 14 18:06:32 +0000 2021",
+    "id": 1415372153243979778,
+    "id_str": "1415372153243979778",
+    "full_text": "RT @manarellidiego: Y \u00c9STE MISERABLE NO DICE NADA DE LA DICTADURA QU\u00c9 POR M\u00c1S DE 60 A\u00d1OS QUE SOPORTARON LOS CUBANOS  POR CULPA DEL ASESINO\u2026",
+    "truncated": false,
+    "display_text_range": [
+        0,
+        139
+    ],
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "manarellidiego",
+                "name": "diego manarelli",
+                "id": 2583443602,
+                "id_str": "2583443602",
+                "indices": [
+                    3,
+                    18
+                ]
+            }
+        ],
+        "urls": []
+    },
+    "metadata": {
+        "iso_language_code": "es",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 1202584220935376898,
+        "id_str": "1202584220935376898",
+        "name": "vichugo19",
+        "screen_name": "vichugo191",
+        "location": "",
+        "description": "Presidente electo de la Rep\u00fablica del PERU (2021 - 2026). Gracias al pueblo peruano por su respaldo.",
+        "url": null,
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 140,
+        "friends_count": 447,
+        "listed_count": 0,
+        "created_at": "Thu Dec 05 13:43:27 +0000 2019",
+        "favourites_count": 89770,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 23247,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": null,
+        "profile_background_image_url_https": null,
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1404971455184621571/hKuqPRhR_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1404971455184621571/hKuqPRhR_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+        "created_at": "Wed Jul 14 16:34:08 +0000 2021",
+        "id": 1415348901507440643,
+        "id_str": "1415348901507440643",
+        "full_text": "Y \u00c9STE MISERABLE NO DICE NADA DE LA DICTADURA QU\u00c9 POR M\u00c1S DE 60 A\u00d1OS QUE SOPORTARON LOS CUBANOS  POR CULPA DEL ASESINO FIDEL CASTRO Y SU MALDITA IDEOLOG\u00cdA COMUNISTA QUE LOS HA LLEVADO A LA HAMBRUNA, A LA MISERIA, A SU DESTRUCCI\u00d3N Y MUERTE..Y QUIERE IMPLANTAR LO MISMO AC\u00c1 EN PER\u00da https://t.co/sZ21tFBMFR",
+        "truncated": false,
+        "display_text_range": [
+            0,
+            279
+        ],
+        "entities": {
+            "hashtags": [],
+            "symbols": [],
+            "user_mentions": [],
+            "urls": [
+                {
+                    "url": "https://t.co/sZ21tFBMFR",
+                    "expanded_url": "https://twitter.com/PedroCastilloTe/status/1415145721658056704",
+                    "display_url": "twitter.com/PedroCastilloT\u2026",
+                    "indices": [
+                        280,
+                        303
+                    ]
+                }
+            ]
+        },
+        "metadata": {
+            "iso_language_code": "es",
+            "result_type": "recent"
+        },
+        "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 2583443602,
+            "id_str": "2583443602",
+            "name": "diego manarelli",
+            "screen_name": "manarellidiego",
+            "location": "",
+            "description": "PRESIDENTE ELECTO DE LA REP\u00daBLICA DEL PER\u00da 2021-  2026",
+            "url": null,
+            "entities": {
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 5919,
+            "friends_count": 569,
+            "listed_count": 8,
+            "created_at": "Thu Jun 05 02:28:58 +0000 2014",
+            "favourites_count": 108625,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": true,
+            "verified": false,
+            "statuses_count": 139533,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "C0DEED",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/899800908233572353/iAIKmdMA_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/899800908233572353/iAIKmdMA_normal.jpg",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "has_extended_profile": false,
+            "default_profile": true,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none",
+            "withheld_in_countries": []
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": {
+            "id": "01e0aaf250623895",
+            "url": "https://api.twitter.com/1.1/geo/id/01e0aaf250623895.json",
+            "place_type": "city",
+            "name": "San Miguel",
+            "full_name": "San Miguel, Peru",
+            "country_code": "PE",
+            "country": "Peru",
+            "contained_within": [],
+            "bounding_box": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -77.1110830786398,
+                            -12.0976200001203
+                        ],
+                        [
+                            -77.0681271567066,
+                            -12.0976200001203
+                        ],
+                        [
+                            -77.0681271567066,
+                            -12.0616509613884
+                        ],
+                        [
+                            -77.1110830786398,
+                            -12.0616509613884
+                        ]
+                    ]
+                ]
+            },
+            "attributes": {}
+        },
+        "contributors": null,
+        "is_quote_status": true,
+        "quoted_status_id": 1415145721658056704,
+        "quoted_status_id_str": "1415145721658056704",
+        "quoted_status": {
+            "created_at": "Wed Jul 14 03:06:46 +0000 2021",
+            "id": 1415145721658056704,
+            "id_str": "1415145721658056704",
+            "full_text": "Me solidarizo con la situaci\u00f3n que viven nuestros hermanos cubanos en la actualidad. El bloqueo hist\u00f3rico es antihumano e inmoral, m\u00e1s a\u00fan, en la emergencia mundial de crisis sanitaria en la que nos encontramos. (1/3)",
+            "truncated": false,
+            "display_text_range": [
+                0,
+                217
+            ],
+            "entities": {
+                "hashtags": [],
+                "symbols": [],
+                "user_mentions": [],
+                "urls": []
+            },
+            "metadata": {
+                "iso_language_code": "es",
+                "result_type": "recent"
+            },
+            "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+            "in_reply_to_status_id": null,
+            "in_reply_to_status_id_str": null,
+            "in_reply_to_user_id": null,
+            "in_reply_to_user_id_str": null,
+            "in_reply_to_screen_name": null,
+            "user": {
+                "id": 1357969682683334657,
+                "id_str": "1357969682683334657",
+                "name": "Pedro Castillo Terrones",
+                "screen_name": "PedroCastilloTe",
+                "location": "Chota",
+                "description": "Soy Pedro Castillo Terrones. Profesor, rondero y dirigente sindical. Presidente electo de la Rep\u00fablica del Per\u00fa (2021 - 2026)",
+                "url": "https://t.co/w49UfpHDJv",
+                "entities": {
+                    "url": {
+                        "urls": [
+                            {
+                                "url": "https://t.co/w49UfpHDJv",
+                                "expanded_url": "http://perulibre.pe/",
+                                "display_url": "perulibre.pe",
+                                "indices": [
+                                    0,
+                                    23
+                                ]
+                            }
+                        ]
+                    },
+                    "description": {
+                        "urls": []
+                    }
+                },
+                "protected": false,
+                "followers_count": 198519,
+                "friends_count": 108,
+                "listed_count": 235,
+                "created_at": "Sat Feb 06 08:29:46 +0000 2021",
+                "favourites_count": 196,
+                "utc_offset": null,
+                "time_zone": null,
+                "geo_enabled": true,
+                "verified": false,
+                "statuses_count": 235,
+                "lang": null,
+                "contributors_enabled": false,
+                "is_translator": false,
+                "is_translation_enabled": false,
+                "profile_background_color": "F5F8FA",
+                "profile_background_image_url": null,
+                "profile_background_image_url_https": null,
+                "profile_background_tile": false,
+                "profile_image_url": "http://pbs.twimg.com/profile_images/1370879240829337601/DhJ-xWeA_normal.jpg",
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/1370879240829337601/DhJ-xWeA_normal.jpg",
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/1357969682683334657/1622041666",
+                "profile_link_color": "1DA1F2",
+                "profile_sidebar_border_color": "C0DEED",
+                "profile_sidebar_fill_color": "DDEEF6",
+                "profile_text_color": "333333",
+                "profile_use_background_image": true,
+                "has_extended_profile": true,
+                "default_profile": true,
+                "default_profile_image": false,
+                "following": false,
+                "follow_request_sent": false,
+                "notifications": false,
+                "translator_type": "none",
+                "withheld_in_countries": []
+            },
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "contributors": null,
+            "is_quote_status": false,
+            "retweet_count": 1991,
+            "favorite_count": 8212,
+            "favorited": false,
+            "retweeted": false,
+            "lang": "es"
+        },
+        "retweet_count": 2,
+        "favorite_count": 9,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "es"
+    },
+    "is_quote_status": true,
+    "quoted_status_id": 1415145721658056704,
+    "quoted_status_id_str": "1415145721658056704",
+    "retweet_count": 2,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "es"
+}

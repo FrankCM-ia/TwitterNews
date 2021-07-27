@@ -1,0 +1,110 @@
+{
+    "created_at": "Wed Jul 14 18:00:00 +0000 2021",
+    "id": 1415370511467651072,
+    "id_str": "1415370511467651072",
+    "full_text": "El diputado presidente Ernesto Castro jurament\u00f3 a la comisi\u00f3n especial que investigara los sobresueldos de Gobiernos anteriores.\n\nhttps://t.co/CgLUiCNuZt",
+    "truncated": false,
+    "display_text_range": [
+        0,
+        153
+    ],
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+            {
+                "url": "https://t.co/CgLUiCNuZt",
+                "expanded_url": "https://www.youtube.com/watch?v=ZQrWGfi15Rs",
+                "display_url": "youtube.com/watch?v=ZQrWGf\u2026",
+                "indices": [
+                    130,
+                    153
+                ]
+            }
+        ]
+    },
+    "metadata": {
+        "iso_language_code": "es",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 570928185,
+        "id_str": "570928185",
+        "name": "Telenoticias21 GMV",
+        "screen_name": "TN21sv",
+        "location": "El Salvador",
+        "description": "Un noticiero salvadore\u00f1o que trabaja d\u00eda a d\u00eda por brindar las noticias como son.",
+        "url": "https://t.co/iLaPDZ8big",
+        "entities": {
+            "url": {
+                "urls": [
+                    {
+                        "url": "https://t.co/iLaPDZ8big",
+                        "expanded_url": "http://www.megavision.com.sv/",
+                        "display_url": "megavision.com.sv",
+                        "indices": [
+                            0,
+                            23
+                        ]
+                    }
+                ]
+            },
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 474151,
+        "friends_count": 460,
+        "listed_count": 602,
+        "created_at": "Fri May 04 13:49:15 +0000 2012",
+        "favourites_count": 382,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": true,
+        "statuses_count": 137167,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1218566307530133505/2jaENtDc_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1218566307530133505/2jaENtDc_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/570928185/1579363821",
+        "profile_link_color": "FFFFFF",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": true,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 2,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "es"
+}

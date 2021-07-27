@@ -1,0 +1,194 @@
+{
+    "created_at": "Wed Jul 14 16:00:30 +0000 2021",
+    "id": 1415340438253412357,
+    "id_str": "1415340438253412357",
+    "full_text": "RT @jalbertvillagar: Cuba sin medios econ\u00f3micos, sin medios de alimentaci\u00f3n, sin internet para tener libertad de expresi\u00f3n!!!\n\nQue falta ??\u2026",
+    "truncated": false,
+    "display_text_range": [
+        0,
+        140
+    ],
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "jalbertvillagar",
+                "name": "\ud83c\udfc5Jesus Villagran\ud83c\udfc5",
+                "id": 331181226,
+                "id_str": "331181226",
+                "indices": [
+                    3,
+                    19
+                ]
+            }
+        ],
+        "urls": []
+    },
+    "metadata": {
+        "iso_language_code": "es",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 517881690,
+        "id_str": "517881690",
+        "name": "gerardo ornelas de a",
+        "screen_name": "gerardoornelasd",
+        "location": "Quer\u00e9taro, Quer\u00e9taro Arteaga",
+        "description": "Vade retro pejistas, amlovers, chairos\nAqu\u00ed s\u00f3lo se interact\u00faa con personas inteligentes\n#LigadeGuerreros\n#nessios\n#GentePensante",
+        "url": null,
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 5413,
+        "friends_count": 5394,
+        "listed_count": 2,
+        "created_at": "Wed Mar 07 19:44:22 +0000 2012",
+        "favourites_count": 49308,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 28447,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1402990173479047173/KcZTyioE_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1402990173479047173/KcZTyioE_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/517881690/1623333548",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": true,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+        "created_at": "Tue Jul 13 23:23:47 +0000 2021",
+        "id": 1415089606345859076,
+        "id_str": "1415089606345859076",
+        "full_text": "Cuba sin medios econ\u00f3micos, sin medios de alimentaci\u00f3n, sin internet para tener libertad de expresi\u00f3n!!!\n\nQue falta ?? Que vivan en la calle y desnudos ???\n\nPero quienes eran los imb\u00e9ciles que dec\u00edan que el socialismo era lo mejor???\ud83d\ude12\u261d\ud83e\udd37\u200d\u2642\ufe0f    \nhttps://t.co/KDnBu7rRkR",
+        "truncated": false,
+        "display_text_range": [
+            0,
+            267
+        ],
+        "entities": {
+            "hashtags": [],
+            "symbols": [],
+            "user_mentions": [],
+            "urls": [
+                {
+                    "url": "https://t.co/KDnBu7rRkR",
+                    "expanded_url": "https://www.unotv.com/internacional/raul-castro-reaparece-en-cuba-gobierno-limita-internet-tras-protestas/",
+                    "display_url": "unotv.com/internacional/\u2026",
+                    "indices": [
+                        244,
+                        267
+                    ]
+                }
+            ]
+        },
+        "metadata": {
+            "iso_language_code": "es",
+            "result_type": "recent"
+        },
+        "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 331181226,
+            "id_str": "331181226",
+            "name": "\ud83c\udfc5Jesus Villagran\ud83c\udfc5",
+            "screen_name": "jalbertvillagar",
+            "location": "",
+            "description": "Lic. Comercio Internacional y Maestro en Derecho Aduanal \n\nSevero cr\u00edtico del actual gobierno y admirador de todos aquellos que se atreven a opinar sin miedo.",
+            "url": null,
+            "entities": {
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 1648,
+            "friends_count": 488,
+            "listed_count": 6,
+            "created_at": "Thu Jul 07 19:33:13 +0000 2011",
+            "favourites_count": 13883,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": true,
+            "verified": false,
+            "statuses_count": 13302,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "642D8B",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme10/bg.gif",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme10/bg.gif",
+            "profile_background_tile": true,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1388307628175020035/jtkKat17_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1388307628175020035/jtkKat17_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/331181226/1626105132",
+            "profile_link_color": "3B94D9",
+            "profile_sidebar_border_color": "FFFFFF",
+            "profile_sidebar_fill_color": "7AC3EE",
+            "profile_text_color": "3D1957",
+            "profile_use_background_image": true,
+            "has_extended_profile": true,
+            "default_profile": false,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none",
+            "withheld_in_countries": []
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 46,
+        "favorite_count": 80,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "es"
+    },
+    "is_quote_status": false,
+    "retweet_count": 46,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "es"
+}

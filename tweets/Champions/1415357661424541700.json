@@ -1,0 +1,290 @@
+{
+    "created_at": "Wed Jul 14 17:08:57 +0000 2021",
+    "id": 1415357661424541700,
+    "id_str": "1415357661424541700",
+    "full_text": "El mundial lo gana messi\nLa champions el chelsea o el milan \ud83d\ude0e\nY el balon de oro me importa un pepino https://t.co/gT7Ii10yG4",
+    "truncated": false,
+    "display_text_range": [
+        0,
+        100
+    ],
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+            {
+                "url": "https://t.co/gT7Ii10yG4",
+                "expanded_url": "https://twitter.com/433/status/1415236927813455872",
+                "display_url": "twitter.com/433/status/141\u2026",
+                "indices": [
+                    101,
+                    124
+                ]
+            }
+        ]
+    },
+    "metadata": {
+        "iso_language_code": "es",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 740158970069979136,
+        "id_str": "740158970069979136",
+        "name": "Tsuna",
+        "screen_name": "Tsunister",
+        "location": "",
+        "description": "xd",
+        "url": "https://t.co/h5n99H224f",
+        "entities": {
+            "url": {
+                "urls": [
+                    {
+                        "url": "https://t.co/h5n99H224f",
+                        "expanded_url": "https://www.youtube.com/watch?t=36&v=_W7cC-dpbV4&feature=youtu.be",
+                        "display_url": "youtube.com/watch?t=36&v=_\u2026",
+                        "indices": [
+                            0,
+                            23
+                        ]
+                    }
+                ]
+            },
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 361,
+        "friends_count": 443,
+        "listed_count": 0,
+        "created_at": "Tue Jun 07 12:30:24 +0000 2016",
+        "favourites_count": 31573,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 15059,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1415203605582426115/1-M5KEUG_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1415203605582426115/1-M5KEUG_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/740158970069979136/1625484178",
+        "profile_link_color": "981CEB",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "profile_use_background_image": false,
+        "has_extended_profile": true,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": true,
+    "quoted_status_id": 1415236927813455872,
+    "quoted_status_id_str": "1415236927813455872",
+    "quoted_status": {
+        "created_at": "Wed Jul 14 09:09:12 +0000 2021",
+        "id": 1415236927813455872,
+        "id_str": "1415236927813455872",
+        "full_text": "Just tell us\u2026 \ud83c\udfc6\ud83c\udfc6\ud83c\udfc6 https://t.co/w5X5kAF1gv",
+        "truncated": false,
+        "display_text_range": [
+            0,
+            17
+        ],
+        "entities": {
+            "hashtags": [],
+            "symbols": [],
+            "user_mentions": [],
+            "urls": [],
+            "media": [
+                {
+                    "id": 1415236923401150464,
+                    "id_str": "1415236923401150464",
+                    "indices": [
+                        18,
+                        41
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/E6Pue8xXoAAkSyn.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/E6Pue8xXoAAkSyn.jpg",
+                    "url": "https://t.co/w5X5kAF1gv",
+                    "display_url": "pic.twitter.com/w5X5kAF1gv",
+                    "expanded_url": "https://twitter.com/433/status/1415236927813455872/photo/1",
+                    "type": "photo",
+                    "sizes": {
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "large": {
+                            "w": 1080,
+                            "h": 1350,
+                            "resize": "fit"
+                        },
+                        "medium": {
+                            "w": 960,
+                            "h": 1200,
+                            "resize": "fit"
+                        },
+                        "small": {
+                            "w": 544,
+                            "h": 680,
+                            "resize": "fit"
+                        }
+                    }
+                }
+            ]
+        },
+        "extended_entities": {
+            "media": [
+                {
+                    "id": 1415236923401150464,
+                    "id_str": "1415236923401150464",
+                    "indices": [
+                        18,
+                        41
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/E6Pue8xXoAAkSyn.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/E6Pue8xXoAAkSyn.jpg",
+                    "url": "https://t.co/w5X5kAF1gv",
+                    "display_url": "pic.twitter.com/w5X5kAF1gv",
+                    "expanded_url": "https://twitter.com/433/status/1415236927813455872/photo/1",
+                    "type": "photo",
+                    "sizes": {
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "large": {
+                            "w": 1080,
+                            "h": 1350,
+                            "resize": "fit"
+                        },
+                        "medium": {
+                            "w": 960,
+                            "h": 1200,
+                            "resize": "fit"
+                        },
+                        "small": {
+                            "w": 544,
+                            "h": 680,
+                            "resize": "fit"
+                        }
+                    }
+                }
+            ]
+        },
+        "metadata": {
+            "iso_language_code": "es",
+            "result_type": "recent"
+        },
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 2600210567,
+            "id_str": "2600210567",
+            "name": "433",
+            "screen_name": "433",
+            "location": "",
+            "description": "The Home of Football \ud83c\udfe0\u26bd\ufe0f",
+            "url": "https://t.co/7awDd3TGQv",
+            "entities": {
+                "url": {
+                    "urls": [
+                        {
+                            "url": "https://t.co/7awDd3TGQv",
+                            "expanded_url": "http://by433.com",
+                            "display_url": "by433.com",
+                            "indices": [
+                                0,
+                                23
+                            ]
+                        }
+                    ]
+                },
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 1124623,
+            "friends_count": 433,
+            "listed_count": 1743,
+            "created_at": "Wed Jun 11 05:47:10 +0000 2014",
+            "favourites_count": 2393,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": true,
+            "verified": true,
+            "statuses_count": 20870,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "000000",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1282835334250860544/FB-yOM1p_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1282835334250860544/FB-yOM1p_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/2600210567/1625638105",
+            "profile_link_color": "D3D600",
+            "profile_sidebar_border_color": "000000",
+            "profile_sidebar_fill_color": "000000",
+            "profile_text_color": "000000",
+            "profile_use_background_image": false,
+            "has_extended_profile": false,
+            "default_profile": false,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none",
+            "withheld_in_countries": []
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 931,
+        "favorite_count": 15943,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "en"
+    },
+    "retweet_count": 0,
+    "favorite_count": 2,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "es"
+}

@@ -1,0 +1,234 @@
+{
+    "created_at": "Wed Jul 14 17:12:12 +0000 2021",
+    "id": 1415358481775964171,
+    "id_str": "1415358481775964171",
+    "full_text": "RT @AlejandroCasaas: @jotajordi13 @juanma_rguez 1 Champions en 10 a\u00f1os \ud83d\ude02",
+    "truncated": false,
+    "display_text_range": [
+        0,
+        72
+    ],
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "AlejandroCasaas",
+                "name": "Alejandro Casa\u00f1as",
+                "id": 342241871,
+                "id_str": "342241871",
+                "indices": [
+                    3,
+                    19
+                ]
+            },
+            {
+                "screen_name": "jotajordi13",
+                "name": "Jota Jordi",
+                "id": 858392269,
+                "id_str": "858392269",
+                "indices": [
+                    21,
+                    33
+                ]
+            },
+            {
+                "screen_name": "juanma_rguez",
+                "name": "Juanma Rodr\u00edguez \ud83c\uddea\ud83c\uddf8",
+                "id": 265484185,
+                "id_str": "265484185",
+                "indices": [
+                    34,
+                    47
+                ]
+            }
+        ],
+        "urls": []
+    },
+    "metadata": {
+        "iso_language_code": "es",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 211211669,
+        "id_str": "211211669",
+        "name": "Oscar",
+        "screen_name": "oscargonz__",
+        "location": "",
+        "description": "",
+        "url": null,
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 528,
+        "friends_count": 927,
+        "listed_count": 0,
+        "created_at": "Tue Nov 02 16:51:30 +0000 2010",
+        "favourites_count": 30084,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 34170,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "2F6EEB",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+        "profile_background_tile": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1254137288679919616/TrtnBvi9_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1254137288679919616/TrtnBvi9_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/211211669/1588063223",
+        "profile_link_color": "009999",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "331ECC",
+        "profile_text_color": "21DBCB",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+        "created_at": "Wed Jul 14 15:43:36 +0000 2021",
+        "id": 1415336185619177474,
+        "id_str": "1415336185619177474",
+        "full_text": "@jotajordi13 @juanma_rguez 1 Champions en 10 a\u00f1os \ud83d\ude02",
+        "truncated": false,
+        "display_text_range": [
+            27,
+            51
+        ],
+        "entities": {
+            "hashtags": [],
+            "symbols": [],
+            "user_mentions": [
+                {
+                    "screen_name": "jotajordi13",
+                    "name": "Jota Jordi",
+                    "id": 858392269,
+                    "id_str": "858392269",
+                    "indices": [
+                        0,
+                        12
+                    ]
+                },
+                {
+                    "screen_name": "juanma_rguez",
+                    "name": "Juanma Rodr\u00edguez \ud83c\uddea\ud83c\uddf8",
+                    "id": 265484185,
+                    "id_str": "265484185",
+                    "indices": [
+                        13,
+                        26
+                    ]
+                }
+            ],
+            "urls": []
+        },
+        "metadata": {
+            "iso_language_code": "es",
+            "result_type": "recent"
+        },
+        "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+        "in_reply_to_status_id": 1415335694881460231,
+        "in_reply_to_status_id_str": "1415335694881460231",
+        "in_reply_to_user_id": 858392269,
+        "in_reply_to_user_id_str": "858392269",
+        "in_reply_to_screen_name": "jotajordi13",
+        "user": {
+            "id": 342241871,
+            "id_str": "342241871",
+            "name": "Alejandro Casa\u00f1as",
+            "screen_name": "AlejandroCasaas",
+            "location": "M\u00e9xico",
+            "description": "Periodista Deportivo Total. Columnista SD Padres:https://t.co/MVItntDzNt. \nAnalista MLB: EfektoTV. NFL,UCL,NBA, NHL, UFC. \n@Planeta_Wrest: WWE, NJPW y AEW",
+            "url": null,
+            "entities": {
+                "description": {
+                    "urls": [
+                        {
+                            "url": "https://t.co/MVItntDzNt",
+                            "expanded_url": "http://SanDiegoRed.com",
+                            "display_url": "SanDiegoRed.com",
+                            "indices": [
+                                49,
+                                72
+                            ]
+                        }
+                    ]
+                }
+            },
+            "protected": false,
+            "followers_count": 978,
+            "friends_count": 3716,
+            "listed_count": 23,
+            "created_at": "Mon Jul 25 18:08:24 +0000 2011",
+            "favourites_count": 16013,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": true,
+            "verified": false,
+            "statuses_count": 105600,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "000000",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/519258522240815104/klRJN0en_normal.jpeg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/519258522240815104/klRJN0en_normal.jpeg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/342241871/1412636266",
+            "profile_link_color": "981CEB",
+            "profile_sidebar_border_color": "000000",
+            "profile_sidebar_fill_color": "000000",
+            "profile_text_color": "000000",
+            "profile_use_background_image": false,
+            "has_extended_profile": true,
+            "default_profile": false,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none",
+            "withheld_in_countries": []
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 2,
+        "favorite_count": 37,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "es"
+    },
+    "is_quote_status": false,
+    "retweet_count": 2,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "es"
+}

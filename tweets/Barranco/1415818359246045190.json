@@ -1,0 +1,110 @@
+{
+    "created_at": "Thu Jul 15 23:39:36 +0000 2021",
+    "id": 1415818359246045190,
+    "id_str": "1415818359246045190",
+    "full_text": "@yikesoops_ cuando salga vas a sufrir ojal\u00e1 no toque con kohaku fs porque te crucifico en una monta\u00f1a y despu\u00e9s me tiro por el barranco",
+    "truncated": false,
+    "display_text_range": [
+        12,
+        135
+    ],
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "yikesoops_",
+                "name": "len",
+                "id": 1342116310042423296,
+                "id_str": "1342116310042423296",
+                "indices": [
+                    0,
+                    11
+                ]
+            }
+        ],
+        "urls": []
+    },
+    "metadata": {
+        "iso_language_code": "es",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "in_reply_to_status_id": 1415817906806480900,
+    "in_reply_to_status_id_str": "1415817906806480900",
+    "in_reply_to_user_id": 1342116310042423296,
+    "in_reply_to_user_id_str": "1342116310042423296",
+    "in_reply_to_screen_name": "yikesoops_",
+    "user": {
+        "id": 1376961422178054145,
+        "id_str": "1376961422178054145",
+        "name": "emi \ud83d\udc1d ahorrando para kohaku fs",
+        "screen_name": "caracalabaza",
+        "location": "they/he MINOR",
+        "description": "ponle que diga switch hasta la muerte",
+        "url": "https://t.co/9nw0RzAZDw",
+        "entities": {
+            "url": {
+                "urls": [
+                    {
+                        "url": "https://t.co/9nw0RzAZDw",
+                        "expanded_url": "https://ily-nikisou.carrd.co/",
+                        "display_url": "ily-nikisou.carrd.co",
+                        "indices": [
+                            0,
+                            23
+                        ]
+                    }
+                ]
+            },
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 229,
+        "friends_count": 321,
+        "listed_count": 7,
+        "created_at": "Tue Mar 30 18:16:09 +0000 2021",
+        "favourites_count": 15105,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 16835,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": null,
+        "profile_background_image_url_https": null,
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1415078873360965632/V8X-A3jZ_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1415078873360965632/V8X-A3jZ_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1376961422178054145/1625853017",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": true,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "es"
+}

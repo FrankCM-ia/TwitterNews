@@ -1,0 +1,99 @@
+{
+    "created_at": "Wed Jul 14 17:58:47 +0000 2021",
+    "id": 1415370201789566979,
+    "id_str": "1415370201789566979",
+    "full_text": "Por ah\u00ed leo a los ardidos diciendo \"el Milan va a ganar la Champions antes que el PSG\". Obviamente por Gigio.\n\nD\u00e9jense de hvdas... Estamos a a\u00f1os luz del PSG. Lo dicen por llorones.",
+    "truncated": false,
+    "display_text_range": [
+        0,
+        181
+    ],
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+    },
+    "metadata": {
+        "iso_language_code": "es",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 82147880,
+        "id_str": "82147880",
+        "name": "Luis Celleri \u26aa\ud83c\uddea\ud83c\udde8\ud83c\uddee\ud83c\uddf9",
+        "screen_name": "LA_CelleriMilan",
+        "location": "Ecuador",
+        "description": "Se habla de todo, deportes, cine, pol\u00edtica. Pase y tome asiento          CSE-ACM-SPURS \u2696 \n#MMCM",
+        "url": "https://t.co/cTBOvjWUof",
+        "entities": {
+            "url": {
+                "urls": [
+                    {
+                        "url": "https://t.co/cTBOvjWUof",
+                        "expanded_url": "https://www.instagram.com/la_celleri/",
+                        "display_url": "instagram.com/la_celleri/",
+                        "indices": [
+                            0,
+                            23
+                        ]
+                    }
+                ]
+            },
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 585,
+        "friends_count": 643,
+        "listed_count": 18,
+        "created_at": "Tue Oct 13 17:42:49 +0000 2009",
+        "favourites_count": 34893,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 61889,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme5/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme5/bg.gif",
+        "profile_background_tile": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1394453313043771394/qy8hehPo_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1394453313043771394/qy8hehPo_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/82147880/1622497555",
+        "profile_link_color": "19CF86",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "F7DB93",
+        "profile_text_color": "04050A",
+        "profile_use_background_image": true,
+        "has_extended_profile": true,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "regular",
+        "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "es"
+}

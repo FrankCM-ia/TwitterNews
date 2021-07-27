@@ -1,0 +1,130 @@
+{
+    "created_at": "Wed Jul 14 18:02:18 +0000 2021",
+    "id": 1415371089358774275,
+    "id_str": "1415371089358774275",
+    "full_text": "@J_Zaragoza_ Payaso que eso ya lo superamos con la democracia. Que eres tonto del culo. Has condenado t\u00fa la dictadura cubana? Basura",
+    "truncated": false,
+    "display_text_range": [
+        13,
+        132
+    ],
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "J_Zaragoza_",
+                "name": "Jos\u00e9 Zaragoza",
+                "id": 715890348569010176,
+                "id_str": "715890348569010176",
+                "indices": [
+                    0,
+                    12
+                ]
+            }
+        ],
+        "urls": []
+    },
+    "metadata": {
+        "iso_language_code": "es",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "in_reply_to_status_id": 1415311133733490690,
+    "in_reply_to_status_id_str": "1415311133733490690",
+    "in_reply_to_user_id": 715890348569010176,
+    "in_reply_to_user_id_str": "715890348569010176",
+    "in_reply_to_screen_name": "J_Zaragoza_",
+    "user": {
+        "id": 3351549315,
+        "id_str": "3351549315",
+        "name": "Cayetano golf club \ud83c\udfcc\ufe0f",
+        "screen_name": "Sangiago1",
+        "location": "",
+        "description": "",
+        "url": null,
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 139,
+        "friends_count": 381,
+        "listed_count": 4,
+        "created_at": "Tue Jun 30 10:09:00 +0000 2015",
+        "favourites_count": 4699,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 4666,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1264663153717239812/RoxEqa_Y_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1264663153717239812/RoxEqa_Y_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/3351549315/1445558534",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": {
+        "id": "7cd00bbf3066060a",
+        "url": "https://api.twitter.com/1.1/geo/id/7cd00bbf3066060a.json",
+        "place_type": "city",
+        "name": "Calzada de Oropesa",
+        "full_name": "Calzada de Oropesa, Espa\u00f1a",
+        "country_code": "ES",
+        "country": "Spain",
+        "contained_within": [],
+        "bounding_box": {
+            "type": "Polygon",
+            "coordinates": [
+                [
+                    [
+                        -5.3669125,
+                        39.8637204
+                    ],
+                    [
+                        -5.2402302,
+                        39.8637204
+                    ],
+                    [
+                        -5.2402302,
+                        40.1098785
+                    ],
+                    [
+                        -5.3669125,
+                        40.1098785
+                    ]
+                ]
+            ]
+        },
+        "attributes": {}
+    },
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "es"
+}

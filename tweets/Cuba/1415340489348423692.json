@@ -1,0 +1,214 @@
+{
+    "created_at": "Wed Jul 14 16:00:43 +0000 2021",
+    "id": 1415340489348423692,
+    "id_str": "1415340489348423692",
+    "full_text": "RT @M_Campagnoli: Av\u00edsenle a \u2066\u2066@alferdez\u2069 que esta pasando esto en Cuba. Espero que los q militan los DDHH en Argentina tambi\u00e9n repudien es\u2026",
+    "truncated": false,
+    "display_text_range": [
+        0,
+        140
+    ],
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "M_Campagnoli",
+                "name": "Marcela Campagnoli",
+                "id": 259717758,
+                "id_str": "259717758",
+                "indices": [
+                    3,
+                    16
+                ]
+            },
+            {
+                "screen_name": "alferdez",
+                "name": "Alberto Fern\u00e1ndez",
+                "id": 149991703,
+                "id_str": "149991703",
+                "indices": [
+                    31,
+                    40
+                ]
+            }
+        ],
+        "urls": []
+    },
+    "metadata": {
+        "iso_language_code": "es",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 1302759160170328069,
+        "id_str": "1302759160170328069",
+        "name": "alicia bruni",
+        "screen_name": "aliciabruni6",
+        "location": "",
+        "description": "soy franca",
+        "url": null,
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 70,
+        "friends_count": 192,
+        "listed_count": 0,
+        "created_at": "Mon Sep 07 00:03:04 +0000 2020",
+        "favourites_count": 5008,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 10209,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": null,
+        "profile_background_image_url_https": null,
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1376753565029502977/a_8TwWrn_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1376753565029502977/a_8TwWrn_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": true,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+        "created_at": "Wed Jul 14 15:59:36 +0000 2021",
+        "id": 1415340209689010185,
+        "id_str": "1415340209689010185",
+        "full_text": "Av\u00edsenle a \u2066\u2066@alferdez\u2069 que esta pasando esto en Cuba. Espero que los q militan los DDHH en Argentina tambi\u00e9n repudien esto. Fuimos un ejemplo en la defensa constante de los DDHH no perdamos el rumbo. https://t.co/ILRwVBV7rO",
+        "truncated": false,
+        "display_text_range": [
+            0,
+            224
+        ],
+        "entities": {
+            "hashtags": [],
+            "symbols": [],
+            "user_mentions": [
+                {
+                    "screen_name": "alferdez",
+                    "name": "Alberto Fern\u00e1ndez",
+                    "id": 149991703,
+                    "id_str": "149991703",
+                    "indices": [
+                        13,
+                        22
+                    ]
+                }
+            ],
+            "urls": [
+                {
+                    "url": "https://t.co/ILRwVBV7rO",
+                    "expanded_url": "http://www.lanacion.com.ar/el-mundo/represion-en-cuba-fuerzas-del-regimen-entraron-a-la-casa-de-un-manifestante-y-le-dispararon-frente-a-nid14072021/",
+                    "display_url": "lanacion.com.ar/el-mundo/repre\u2026",
+                    "indices": [
+                        201,
+                        224
+                    ]
+                }
+            ]
+        },
+        "metadata": {
+            "iso_language_code": "es",
+            "result_type": "recent"
+        },
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 259717758,
+            "id_str": "259717758",
+            "name": "Marcela Campagnoli",
+            "screen_name": "M_Campagnoli",
+            "location": "Pilar, Argentina",
+            "description": "Bonaerense. Diputada Nacional. Coalici\u00f3n C\u00edvica ARI-Cambiemos. Profesora de historia. Abogada. Trabajo por la educaci\u00f3n, la justicia y la Rep\u00fablica.",
+            "url": null,
+            "entities": {
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 41373,
+            "friends_count": 348,
+            "listed_count": 108,
+            "created_at": "Wed Mar 02 13:11:17 +0000 2011",
+            "favourites_count": 2934,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": true,
+            "verified": false,
+            "statuses_count": 12937,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "FF80C0",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme17/bg.gif",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme17/bg.gif",
+            "profile_background_tile": true,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1413483888610103296/hvIIXgyK_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1413483888610103296/hvIIXgyK_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/259717758/1574540896",
+            "profile_link_color": "1B95E0",
+            "profile_sidebar_border_color": "DBE9ED",
+            "profile_sidebar_fill_color": "E6F6F9",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "has_extended_profile": false,
+            "default_profile": false,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none",
+            "withheld_in_countries": []
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 4,
+        "favorite_count": 4,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "es"
+    },
+    "is_quote_status": false,
+    "retweet_count": 4,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "es"
+}

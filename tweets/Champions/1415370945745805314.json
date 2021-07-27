@@ -1,0 +1,106 @@
+{
+    "created_at": "Wed Jul 14 18:01:44 +0000 2021",
+    "id": 1415370945745805314,
+    "id_str": "1415370945745805314",
+    "full_text": "@Camilita_evans @InvictosSomos No quieren la liga es lo de menos ellos van a por la champions lamentablemente nunca se les da pero estan cerca de lograrlo",
+    "truncated": false,
+    "display_text_range": [
+        31,
+        154
+    ],
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "Camilita_evans",
+                "name": "\u2b50\ud83c\udf1fCamila\ud83c\udf1f\u2b50",
+                "id": 1013532290377506816,
+                "id_str": "1013532290377506816",
+                "indices": [
+                    0,
+                    15
+                ]
+            },
+            {
+                "screen_name": "InvictosSomos",
+                "name": "Invictos",
+                "id": 4488217998,
+                "id_str": "4488217998",
+                "indices": [
+                    16,
+                    30
+                ]
+            }
+        ],
+        "urls": []
+    },
+    "metadata": {
+        "iso_language_code": "es",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "in_reply_to_status_id": 1415370485609684995,
+    "in_reply_to_status_id_str": "1415370485609684995",
+    "in_reply_to_user_id": 1013532290377506816,
+    "in_reply_to_user_id_str": "1013532290377506816",
+    "in_reply_to_screen_name": "Camilita_evans",
+    "user": {
+        "id": 1365747239969251329,
+        "id_str": "1365747239969251329",
+        "name": "Juan Carlos T \u2020",
+        "screen_name": "JuanCarlosTG9",
+        "location": "Peru",
+        "description": "\u2020 No le des al pasado el poder para definir tu futuro \u2020\n\ud83c\uddf5\ud83c\uddea",
+        "url": null,
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 26,
+        "friends_count": 280,
+        "listed_count": 0,
+        "created_at": "Sat Feb 27 19:35:09 +0000 2021",
+        "favourites_count": 30918,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 78,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": null,
+        "profile_background_image_url_https": null,
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1413703094073012226/oR9cwS1u_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1413703094073012226/oR9cwS1u_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": true,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "es"
+}

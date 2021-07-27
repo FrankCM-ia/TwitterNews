@@ -1,0 +1,389 @@
+{
+    "created_at": "Thu Jul 15 15:03:13 +0000 2021",
+    "id": 1415688410396774401,
+    "id_str": "1415688410396774401",
+    "full_text": "RT @elhermanodmario: @EdMalagaTrillo Yo tambi\u00e9n rechazo las afirmaciones de cierto cient\u00edfico sobre el \"confuso incidente\" de la masacre de\u2026",
+    "truncated": false,
+    "display_text_range": [
+        0,
+        140
+    ],
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "elhermanodmario",
+                "name": "El hermano de Mario",
+                "id": 2357758439,
+                "id_str": "2357758439",
+                "indices": [
+                    3,
+                    19
+                ]
+            },
+            {
+                "screen_name": "EdMalagaTrillo",
+                "name": "Ed M\u00e1laga-Trillo",
+                "id": 119945574,
+                "id_str": "119945574",
+                "indices": [
+                    21,
+                    36
+                ]
+            }
+        ],
+        "urls": []
+    },
+    "metadata": {
+        "iso_language_code": "es",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 151796367,
+        "id_str": "151796367",
+        "name": "Alison",
+        "screen_name": "alitraveler",
+        "location": "",
+        "description": "",
+        "url": null,
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 97,
+        "friends_count": 414,
+        "listed_count": 0,
+        "created_at": "Fri Jun 04 07:53:41 +0000 2010",
+        "favourites_count": 7849,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 4319,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/958628159/Ali_cor__1_jpg_normal.JPG",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/958628159/Ali_cor__1_jpg_normal.JPG",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+        "created_at": "Wed Jul 14 12:04:10 +0000 2021",
+        "id": 1415280961823125509,
+        "id_str": "1415280961823125509",
+        "full_text": "@EdMalagaTrillo Yo tambi\u00e9n rechazo las afirmaciones de cierto cient\u00edfico sobre el \"confuso incidente\" de la masacre del VRAEM; y las de cierto amiguito de las Chicas Superpoderosas de la Noche de Barranco (M.Glave, C.Cisneros, P.Ugaz) que reprodujo falsedades y politiz\u00f3 la muerte del sr. de PL. https://t.co/3GncpX9lWc",
+        "truncated": false,
+        "display_text_range": [
+            16,
+            295
+        ],
+        "entities": {
+            "hashtags": [],
+            "symbols": [],
+            "user_mentions": [
+                {
+                    "screen_name": "EdMalagaTrillo",
+                    "name": "Ed M\u00e1laga-Trillo",
+                    "id": 119945574,
+                    "id_str": "119945574",
+                    "indices": [
+                        0,
+                        15
+                    ]
+                }
+            ],
+            "urls": [],
+            "media": [
+                {
+                    "id": 1415280946992013313,
+                    "id_str": "1415280946992013313",
+                    "indices": [
+                        296,
+                        319
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/E6QWhdbWYAE5JsD.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/E6QWhdbWYAE5JsD.jpg",
+                    "url": "https://t.co/3GncpX9lWc",
+                    "display_url": "pic.twitter.com/3GncpX9lWc",
+                    "expanded_url": "https://twitter.com/elhermanodmario/status/1415280961823125509/photo/1",
+                    "type": "photo",
+                    "sizes": {
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "medium": {
+                            "w": 720,
+                            "h": 786,
+                            "resize": "fit"
+                        },
+                        "small": {
+                            "w": 623,
+                            "h": 680,
+                            "resize": "fit"
+                        },
+                        "large": {
+                            "w": 720,
+                            "h": 786,
+                            "resize": "fit"
+                        }
+                    }
+                }
+            ]
+        },
+        "extended_entities": {
+            "media": [
+                {
+                    "id": 1415280946992013313,
+                    "id_str": "1415280946992013313",
+                    "indices": [
+                        296,
+                        319
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/E6QWhdbWYAE5JsD.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/E6QWhdbWYAE5JsD.jpg",
+                    "url": "https://t.co/3GncpX9lWc",
+                    "display_url": "pic.twitter.com/3GncpX9lWc",
+                    "expanded_url": "https://twitter.com/elhermanodmario/status/1415280961823125509/photo/1",
+                    "type": "photo",
+                    "sizes": {
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "medium": {
+                            "w": 720,
+                            "h": 786,
+                            "resize": "fit"
+                        },
+                        "small": {
+                            "w": 623,
+                            "h": 680,
+                            "resize": "fit"
+                        },
+                        "large": {
+                            "w": 720,
+                            "h": 786,
+                            "resize": "fit"
+                        }
+                    }
+                },
+                {
+                    "id": 1415280952021032961,
+                    "id_str": "1415280952021032961",
+                    "indices": [
+                        296,
+                        319
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/E6QWhwKXIAEJz1v.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/E6QWhwKXIAEJz1v.jpg",
+                    "url": "https://t.co/3GncpX9lWc",
+                    "display_url": "pic.twitter.com/3GncpX9lWc",
+                    "expanded_url": "https://twitter.com/elhermanodmario/status/1415280961823125509/photo/1",
+                    "type": "photo",
+                    "sizes": {
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "small": {
+                            "w": 591,
+                            "h": 680,
+                            "resize": "fit"
+                        },
+                        "medium": {
+                            "w": 720,
+                            "h": 829,
+                            "resize": "fit"
+                        },
+                        "large": {
+                            "w": 720,
+                            "h": 829,
+                            "resize": "fit"
+                        }
+                    }
+                },
+                {
+                    "id": 1415280956458651649,
+                    "id_str": "1415280956458651649",
+                    "indices": [
+                        296,
+                        319
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/E6QWiAsX0AE4J8P.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/E6QWiAsX0AE4J8P.jpg",
+                    "url": "https://t.co/3GncpX9lWc",
+                    "display_url": "pic.twitter.com/3GncpX9lWc",
+                    "expanded_url": "https://twitter.com/elhermanodmario/status/1415280961823125509/photo/1",
+                    "type": "photo",
+                    "sizes": {
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "small": {
+                            "w": 680,
+                            "h": 519,
+                            "resize": "fit"
+                        },
+                        "medium": {
+                            "w": 687,
+                            "h": 524,
+                            "resize": "fit"
+                        },
+                        "large": {
+                            "w": 687,
+                            "h": 524,
+                            "resize": "fit"
+                        }
+                    }
+                },
+                {
+                    "id": 1415280959948197896,
+                    "id_str": "1415280959948197896",
+                    "indices": [
+                        296,
+                        319
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/E6QWiNsWEAgdFjN.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/E6QWiNsWEAgdFjN.jpg",
+                    "url": "https://t.co/3GncpX9lWc",
+                    "display_url": "pic.twitter.com/3GncpX9lWc",
+                    "expanded_url": "https://twitter.com/elhermanodmario/status/1415280961823125509/photo/1",
+                    "type": "photo",
+                    "sizes": {
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "small": {
+                            "w": 629,
+                            "h": 325,
+                            "resize": "fit"
+                        },
+                        "large": {
+                            "w": 629,
+                            "h": 325,
+                            "resize": "fit"
+                        },
+                        "medium": {
+                            "w": 629,
+                            "h": 325,
+                            "resize": "fit"
+                        }
+                    }
+                }
+            ]
+        },
+        "metadata": {
+            "iso_language_code": "es",
+            "result_type": "recent"
+        },
+        "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+        "in_reply_to_status_id": 1415180403774787586,
+        "in_reply_to_status_id_str": "1415180403774787586",
+        "in_reply_to_user_id": 119945574,
+        "in_reply_to_user_id_str": "119945574",
+        "in_reply_to_screen_name": "EdMalagaTrillo",
+        "user": {
+            "id": 2357758439,
+            "id_str": "2357758439",
+            "name": "El hermano de Mario",
+            "screen_name": "elhermanodmario",
+            "location": "",
+            "description": "",
+            "url": null,
+            "entities": {
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 34,
+            "friends_count": 83,
+            "listed_count": 0,
+            "created_at": "Sat Feb 22 02:46:31 +0000 2014",
+            "favourites_count": 4390,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": false,
+            "verified": false,
+            "statuses_count": 1045,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "C0DEED",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1331065600827912195/W3J5j1-U_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1331065600827912195/W3J5j1-U_normal.jpg",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "has_extended_profile": false,
+            "default_profile": true,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none",
+            "withheld_in_countries": []
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 4,
+        "favorite_count": 37,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "es"
+    },
+    "is_quote_status": false,
+    "retweet_count": 4,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "es"
+}

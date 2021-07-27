@@ -1,0 +1,367 @@
+{
+    "created_at": "Wed Jul 14 16:00:22 +0000 2021",
+    "id": 1415340403621040140,
+    "id_str": "1415340403621040140",
+    "full_text": "RT @diegodelacurva: \u00bfEn Cuba hay democracia? No\n\u00bfLibertad de prensa? Tampoco\nEsta nota de un periodista desde La Habana, ilustra el enorme\u2026",
+    "truncated": false,
+    "display_text_range": [
+        0,
+        139
+    ],
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "diegodelacurva",
+                "name": "Min. Diego Gonz\u00e1lez Gonz\u00e1lez",
+                "id": 340663665,
+                "id_str": "340663665",
+                "indices": [
+                    3,
+                    18
+                ]
+            }
+        ],
+        "urls": []
+    },
+    "metadata": {
+        "iso_language_code": "es",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 2550397384,
+        "id_str": "2550397384",
+        "name": "\u24c2\ufe0f\ud835\udc4e\ud835\udc61\ud835\udc56 \ud835\udc4e\ud835\udc50\ud835\udc5c\ud835\udc60\ud835\udc61\ud835\udc4e",
+        "screen_name": "matiacosta7",
+        "location": "\u1d0d\u1d20\u1d05 \ud83c\uddfa\ud83c\uddfe",
+        "description": "\ud835\udc46\ud835\udc5c\ud835\udc50\ud835\udc56\ud835\udc4e\ud835\udc59\ud835\udc56\ud835\udc60\ud835\udc61\ud835\udc4e, \ud835\udc5a\ud835\udc4e\ud835\udc5b\ud835\udc66\ud835\udc4e \ud835\udc66 \ud835\udc4e\ud835\udc54\ud835\udc62\ud835\udc4e\ud835\udc61\ud835\udc52\ud835\udc5f\ud835\udc5c.",
+        "url": "https://t.co/NeG6WFQyap",
+        "entities": {
+            "url": {
+                "urls": [
+                    {
+                        "url": "https://t.co/NeG6WFQyap",
+                        "expanded_url": "http://instagram.com/mati.acosta7",
+                        "display_url": "instagram.com/mati.acosta7",
+                        "indices": [
+                            0,
+                            23
+                        ]
+                    }
+                ]
+            },
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 245,
+        "friends_count": 118,
+        "listed_count": 2,
+        "created_at": "Fri May 16 23:17:10 +0000 2014",
+        "favourites_count": 5003,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 21576,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "131516",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+        "profile_background_tile": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1399112220190126083/a-msso49_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1399112220190126083/a-msso49_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2550397384/1622077220",
+        "profile_link_color": "096E00",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "E6D520",
+        "profile_use_background_image": true,
+        "has_extended_profile": true,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+        "created_at": "Wed Jul 14 15:49:05 +0000 2021",
+        "id": 1415337562969985033,
+        "id_str": "1415337562969985033",
+        "full_text": "\u00bfEn Cuba hay democracia? No\n\u00bfLibertad de prensa? Tampoco\nEsta nota de un periodista desde La Habana, ilustra el enorme desconocimiento que tenemos sobre lo que pasa en esa isla.\nRepetimos noticias falsas, no los voy a a mandar a leer la nota, es horrible eso, pero est\u00e1 buena. https://t.co/qMSdC9Pz3T",
+        "truncated": false,
+        "display_text_range": [
+            0,
+            276
+        ],
+        "entities": {
+            "hashtags": [],
+            "symbols": [],
+            "user_mentions": [],
+            "urls": [
+                {
+                    "url": "https://t.co/qMSdC9Pz3T",
+                    "expanded_url": "https://twitter.com/desayunos12/status/1415311969914085381",
+                    "display_url": "twitter.com/desayunos12/st\u2026",
+                    "indices": [
+                        277,
+                        300
+                    ]
+                }
+            ]
+        },
+        "metadata": {
+            "iso_language_code": "es",
+            "result_type": "recent"
+        },
+        "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 340663665,
+            "id_str": "340663665",
+            "name": "Min. Diego Gonz\u00e1lez Gonz\u00e1lez",
+            "screen_name": "diegodelacurva",
+            "location": "La Curva de Maro\u00f1as ",
+            "description": "El animador del juego (el condimentador) @Lamesa995 \nPadre de una Isabel \u2764\ufe0f \ud83e\udd84 \ud83d\ude0e \n@TvCiudadUy",
+            "url": "https://t.co/oBMLKjTfkO",
+            "entities": {
+                "url": {
+                    "urls": [
+                        {
+                            "url": "https://t.co/oBMLKjTfkO",
+                            "expanded_url": "http://instagram.com/diegodelacurva",
+                            "display_url": "instagram.com/diegodelacurva",
+                            "indices": [
+                                0,
+                                23
+                            ]
+                        }
+                    ]
+                },
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 315822,
+            "friends_count": 1744,
+            "listed_count": 149,
+            "created_at": "Sat Jul 23 02:15:57 +0000 2011",
+            "favourites_count": 828248,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": true,
+            "verified": true,
+            "statuses_count": 126841,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "C0DEED",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1263235541883125762/bXcEg05V_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1263235541883125762/bXcEg05V_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/340663665/1590013815",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "has_extended_profile": true,
+            "default_profile": true,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none",
+            "withheld_in_countries": []
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": {
+            "id": "01a9dbb9232f0fac",
+            "url": "https://api.twitter.com/1.1/geo/id/01a9dbb9232f0fac.json",
+            "place_type": "admin",
+            "name": "Montevideo",
+            "full_name": "Montevideo, Uruguay",
+            "country_code": "UY",
+            "country": "Uruguay",
+            "contained_within": [],
+            "bounding_box": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -56.430439,
+                            -34.937896
+                        ],
+                        [
+                            -56.029341,
+                            -34.937896
+                        ],
+                        [
+                            -56.029341,
+                            -34.701599
+                        ],
+                        [
+                            -56.430439,
+                            -34.701599
+                        ]
+                    ]
+                ]
+            },
+            "attributes": {}
+        },
+        "contributors": null,
+        "is_quote_status": true,
+        "quoted_status_id": 1415311969914085381,
+        "quoted_status_id_str": "1415311969914085381",
+        "quoted_status": {
+            "created_at": "Wed Jul 14 14:07:23 +0000 2021",
+            "id": 1415311969914085381,
+            "id_str": "1415311969914085381",
+            "full_text": "La entrevista completa en  https://t.co/5gaKUaEJYW",
+            "truncated": false,
+            "display_text_range": [
+                0,
+                50
+            ],
+            "entities": {
+                "hashtags": [],
+                "symbols": [],
+                "user_mentions": [],
+                "urls": [
+                    {
+                        "url": "https://t.co/5gaKUaEJYW",
+                        "expanded_url": "https://www.teledoce.com/?p=538371",
+                        "display_url": "teledoce.com/?p=538371",
+                        "indices": [
+                            27,
+                            50
+                        ]
+                    }
+                ]
+            },
+            "metadata": {
+                "iso_language_code": "es",
+                "result_type": "recent"
+            },
+            "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+            "in_reply_to_status_id": 1415311719329669120,
+            "in_reply_to_status_id_str": "1415311719329669120",
+            "in_reply_to_user_id": 3192270815,
+            "in_reply_to_user_id_str": "3192270815",
+            "in_reply_to_screen_name": "desayunos12",
+            "user": {
+                "id": 3192270815,
+                "id_str": "3192270815",
+                "name": "Desayunos informales",
+                "screen_name": "desayunos12",
+                "location": "Montevideo, Uruguay",
+                "description": "Te invitamos a compartir una propuesta diferente para arrancar el d\u00eda de la mejor manera. Desde las 8:00 horas en @teledoce #LaEmoci\u00f3nDeEstarJuntos.",
+                "url": "https://t.co/PUcrFbvnYC",
+                "entities": {
+                    "url": {
+                        "urls": [
+                            {
+                                "url": "https://t.co/PUcrFbvnYC",
+                                "expanded_url": "http://www.teledoce.com/desayunosinformales",
+                                "display_url": "teledoce.com/desayunosinfor\u2026",
+                                "indices": [
+                                    0,
+                                    23
+                                ]
+                            }
+                        ]
+                    },
+                    "description": {
+                        "urls": []
+                    }
+                },
+                "protected": false,
+                "followers_count": 47464,
+                "friends_count": 450,
+                "listed_count": 52,
+                "created_at": "Tue Apr 21 20:08:37 +0000 2015",
+                "favourites_count": 1902,
+                "utc_offset": null,
+                "time_zone": null,
+                "geo_enabled": false,
+                "verified": true,
+                "statuses_count": 40968,
+                "lang": null,
+                "contributors_enabled": false,
+                "is_translator": false,
+                "is_translation_enabled": false,
+                "profile_background_color": "3B94D9",
+                "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+                "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+                "profile_background_tile": false,
+                "profile_image_url": "http://pbs.twimg.com/profile_images/1362092978362339335/8VWUoiMI_normal.jpg",
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/1362092978362339335/8VWUoiMI_normal.jpg",
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/3192270815/1613159360",
+                "profile_link_color": "91D2FA",
+                "profile_sidebar_border_color": "000000",
+                "profile_sidebar_fill_color": "000000",
+                "profile_text_color": "000000",
+                "profile_use_background_image": false,
+                "has_extended_profile": false,
+                "default_profile": false,
+                "default_profile_image": false,
+                "following": false,
+                "follow_request_sent": false,
+                "notifications": false,
+                "translator_type": "none",
+                "withheld_in_countries": []
+            },
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "contributors": null,
+            "is_quote_status": false,
+            "retweet_count": 2,
+            "favorite_count": 6,
+            "favorited": false,
+            "retweeted": false,
+            "possibly_sensitive": false,
+            "lang": "es"
+        },
+        "retweet_count": 2,
+        "favorite_count": 19,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "es"
+    },
+    "is_quote_status": true,
+    "quoted_status_id": 1415311969914085381,
+    "quoted_status_id_str": "1415311969914085381",
+    "retweet_count": 2,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "es"
+}

@@ -1,0 +1,137 @@
+{
+    "created_at": "Wed Jul 14 17:30:22 +0000 2021",
+    "id": 1415363050652188679,
+    "id_str": "1415363050652188679",
+    "full_text": "@BABY_GAMER19 @capmorals29 @MaraFer54285689 @JoseDavidGC21 @aagulla_espn Y los recuerdo perfecto porque nunca me perd\u00eda los partidos del Real Madrid y una de mis posiciones favoritas es la de arquero y por eso mismo les pongo mucha atenci\u00f3n.\nNada en contra de Keylor, es un grande y dif\u00edcilmente alguien lo iguale con las 3 champions seguidas, pero\u2026",
+    "truncated": false,
+    "display_text_range": [
+        73,
+        349
+    ],
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "BABY_GAMER19",
+                "name": "\ud83c\udde8\ud83c\uddf7 ( MODO COPA ORO \ud83c\udfc6\ud83c\udde8\ud83c\uddf7)",
+                "id": 1389418271888248833,
+                "id_str": "1389418271888248833",
+                "indices": [
+                    0,
+                    13
+                ]
+            },
+            {
+                "screen_name": "capmorals29",
+                "name": "Andrey Morales M",
+                "id": 2949584879,
+                "id_str": "2949584879",
+                "indices": [
+                    14,
+                    26
+                ]
+            },
+            {
+                "screen_name": "MaraFer54285689",
+                "name": "Mar\u00eda Fernanda",
+                "id": 1088146929828143105,
+                "id_str": "1088146929828143105",
+                "indices": [
+                    27,
+                    43
+                ]
+            },
+            {
+                "screen_name": "JoseDavidGC21",
+                "name": "Jos\u00e9 David Guerra C",
+                "id": 279593862,
+                "id_str": "279593862",
+                "indices": [
+                    44,
+                    58
+                ]
+            },
+            {
+                "screen_name": "aagulla_espn",
+                "name": "Andres Agulla",
+                "id": 40987316,
+                "id_str": "40987316",
+                "indices": [
+                    59,
+                    72
+                ]
+            }
+        ],
+        "urls": []
+    },
+    "metadata": {
+        "iso_language_code": "es",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_status_id": 1415362538049613825,
+    "in_reply_to_status_id_str": "1415362538049613825",
+    "in_reply_to_user_id": 3300594786,
+    "in_reply_to_user_id_str": "3300594786",
+    "in_reply_to_screen_name": "werot18",
+    "user": {
+        "id": 3300594786,
+        "id_str": "3300594786",
+        "name": "PapaOso",
+        "screen_name": "werot18",
+        "location": "",
+        "description": "",
+        "url": null,
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 22,
+        "friends_count": 393,
+        "listed_count": 0,
+        "created_at": "Wed Jul 29 15:22:58 +0000 2015",
+        "favourites_count": 3347,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 2060,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/660869583012655104/cSYQSjQf_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/660869583012655104/cSYQSjQf_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/3300594786/1446398560",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "es"
+}

@@ -1,0 +1,277 @@
+{
+    "created_at": "Wed Jul 14 17:55:46 +0000 2021",
+    "id": 1415369443220336645,
+    "id_str": "1415369443220336645",
+    "full_text": "Las basuras en el lugar que le corresponde. \nMe Cago en la maldita memoria de Ch\u00e0vez, Fidel Castro y El Che Guevara. \n\n@zurdaconducta1 @PedroKonductaz @la_iguanatv @dcabellor @NicolasMaduro #SOSCubaLibre #camag\u00fcey @vladimirpadrino https://t.co/YKGMk7QuYN",
+    "truncated": false,
+    "display_text_range": [
+        0,
+        230
+    ],
+    "entities": {
+        "hashtags": [
+            {
+                "text": "SOSCubaLibre",
+                "indices": [
+                    190,
+                    203
+                ]
+            },
+            {
+                "text": "camag\u00fcey",
+                "indices": [
+                    204,
+                    213
+                ]
+            }
+        ],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "zurdaconducta1",
+                "name": "zurda konducta",
+                "id": 358308207,
+                "id_str": "358308207",
+                "indices": [
+                    119,
+                    134
+                ]
+            },
+            {
+                "screen_name": "PedroKonductaz",
+                "name": "pedro karvajalino",
+                "id": 3416035889,
+                "id_str": "3416035889",
+                "indices": [
+                    135,
+                    150
+                ]
+            },
+            {
+                "screen_name": "la_iguanatv",
+                "name": "LaIguanaTV",
+                "id": 587060118,
+                "id_str": "587060118",
+                "indices": [
+                    151,
+                    163
+                ]
+            },
+            {
+                "screen_name": "dcabellor",
+                "name": "Diosdado Cabello R",
+                "id": 128262354,
+                "id_str": "128262354",
+                "indices": [
+                    164,
+                    174
+                ]
+            },
+            {
+                "screen_name": "NicolasMaduro",
+                "name": "Nicol\u00e1s Maduro",
+                "id": 1252764865,
+                "id_str": "1252764865",
+                "indices": [
+                    175,
+                    189
+                ]
+            },
+            {
+                "screen_name": "vladimirpadrino",
+                "name": "Vladimir Padrino L.",
+                "id": 447667853,
+                "id_str": "447667853",
+                "indices": [
+                    214,
+                    230
+                ]
+            }
+        ],
+        "urls": [],
+        "media": [
+            {
+                "id": 1415368912510889986,
+                "id_str": "1415368912510889986",
+                "indices": [
+                    231,
+                    254
+                ],
+                "media_url": "http://pbs.twimg.com/media/E6RmhuhXsAI9sAp.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/E6RmhuhXsAI9sAp.jpg",
+                "url": "https://t.co/YKGMk7QuYN",
+                "display_url": "pic.twitter.com/YKGMk7QuYN",
+                "expanded_url": "https://twitter.com/venezuelaenapu2/status/1415369443220336645/photo/1",
+                "type": "photo",
+                "sizes": {
+                    "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                    },
+                    "small": {
+                        "w": 360,
+                        "h": 338,
+                        "resize": "fit"
+                    },
+                    "large": {
+                        "w": 360,
+                        "h": 338,
+                        "resize": "fit"
+                    },
+                    "medium": {
+                        "w": 360,
+                        "h": 338,
+                        "resize": "fit"
+                    }
+                }
+            }
+        ]
+    },
+    "extended_entities": {
+        "media": [
+            {
+                "id": 1415368912510889986,
+                "id_str": "1415368912510889986",
+                "indices": [
+                    231,
+                    254
+                ],
+                "media_url": "http://pbs.twimg.com/media/E6RmhuhXsAI9sAp.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/E6RmhuhXsAI9sAp.jpg",
+                "url": "https://t.co/YKGMk7QuYN",
+                "display_url": "pic.twitter.com/YKGMk7QuYN",
+                "expanded_url": "https://twitter.com/venezuelaenapu2/status/1415369443220336645/photo/1",
+                "type": "photo",
+                "sizes": {
+                    "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                    },
+                    "small": {
+                        "w": 360,
+                        "h": 338,
+                        "resize": "fit"
+                    },
+                    "large": {
+                        "w": 360,
+                        "h": 338,
+                        "resize": "fit"
+                    },
+                    "medium": {
+                        "w": 360,
+                        "h": 338,
+                        "resize": "fit"
+                    }
+                }
+            },
+            {
+                "id": 1415368912519274501,
+                "id_str": "1415368912519274501",
+                "indices": [
+                    231,
+                    254
+                ],
+                "media_url": "http://pbs.twimg.com/media/E6RmhujXoAUthFa.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/E6RmhujXoAUthFa.jpg",
+                "url": "https://t.co/YKGMk7QuYN",
+                "display_url": "pic.twitter.com/YKGMk7QuYN",
+                "expanded_url": "https://twitter.com/venezuelaenapu2/status/1415369443220336645/photo/1",
+                "type": "photo",
+                "sizes": {
+                    "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                    },
+                    "medium": {
+                        "w": 360,
+                        "h": 329,
+                        "resize": "fit"
+                    },
+                    "small": {
+                        "w": 360,
+                        "h": 329,
+                        "resize": "fit"
+                    },
+                    "large": {
+                        "w": 360,
+                        "h": 329,
+                        "resize": "fit"
+                    }
+                }
+            }
+        ]
+    },
+    "metadata": {
+        "iso_language_code": "es",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 950402203717636097,
+        "id_str": "950402203717636097",
+        "name": "El Cuman\u00e9s 79 \ud83c\udde8\ud83c\uddfa\ud83c\uddfb\ud83c\uddea",
+        "screen_name": "venezuelaenapu2",
+        "location": "Donde me necesiten",
+        "description": "Deseando ver a mi \ud83c\uddfb\ud83c\uddea libre pero no en manos de Guaid\u00f3",
+        "url": null,
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 77,
+        "friends_count": 361,
+        "listed_count": 0,
+        "created_at": "Mon Jan 08 16:21:57 +0000 2018",
+        "favourites_count": 3221,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 4185,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": null,
+        "profile_background_image_url_https": null,
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1414585759617757186/HR-i4eSZ_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1414585759617757186/HR-i4eSZ_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/950402203717636097/1626098503",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 1,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "es"
+}

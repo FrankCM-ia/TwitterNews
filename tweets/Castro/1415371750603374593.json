@@ -1,0 +1,96 @@
+{
+    "created_at": "Wed Jul 14 18:04:56 +0000 2021",
+    "id": 1415371750603374593,
+    "id_str": "1415371750603374593",
+    "full_text": "@monasterioR Me temo mucho y ojala me equivoque que mientras el Ejercito cubano no se adhiera a las protestas esto terminara en una masacre de civiles. Tal vez los Castro son inclusive mas eficaces en reprimir a su pueblo que lo que fue Europa del Este",
+    "truncated": false,
+    "display_text_range": [
+        13,
+        252
+    ],
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "monasterioR",
+                "name": "Rocio Monasterio",
+                "id": 2216589010,
+                "id_str": "2216589010",
+                "indices": [
+                    0,
+                    12
+                ]
+            }
+        ],
+        "urls": []
+    },
+    "metadata": {
+        "iso_language_code": "es",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "in_reply_to_status_id": 1415304312545292290,
+    "in_reply_to_status_id_str": "1415304312545292290",
+    "in_reply_to_user_id": 2216589010,
+    "in_reply_to_user_id_str": "2216589010",
+    "in_reply_to_screen_name": "monasterioR",
+    "user": {
+        "id": 1415310241206620219,
+        "id_str": "1415310241206620219",
+        "name": "Miguel Za\u00f1a",
+        "screen_name": "zana_miguel",
+        "location": "",
+        "description": "Mag. en Gesti\u00f3n e Innovaci\u00f3n Tecnol\u00f3gica, Mag. Ciencias Militares, Especialista en t\u00e9cnicas de datos estad\u00edsticos multivaridos, metod\u00f3logo de la investigaci\u00f3n,",
+        "url": null,
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 0,
+        "friends_count": 28,
+        "listed_count": 0,
+        "created_at": "Wed Jul 14 14:01:22 +0000 2021",
+        "favourites_count": 5,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 5,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": null,
+        "profile_background_image_url_https": null,
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1415310679406436359/LAq3Q9p4_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1415310679406436359/LAq3Q9p4_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": true,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "es"
+}

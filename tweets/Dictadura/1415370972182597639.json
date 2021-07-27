@@ -1,0 +1,181 @@
+{
+    "created_at": "Wed Jul 14 18:01:50 +0000 2021",
+    "id": 1415370972182597639,
+    "id_str": "1415370972182597639",
+    "full_text": "RT @alfonso_ussia: S\u00e1nchez llamar\u00e1 ma\u00f1ana a Rociito para que la ni\u00f1a le confirme si Cuba es, o no es, una dictadura.",
+    "truncated": false,
+    "display_text_range": [
+        0,
+        116
+    ],
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "alfonso_ussia",
+                "name": "Alfonso Uss\u00eda",
+                "id": 407709450,
+                "id_str": "407709450",
+                "indices": [
+                    3,
+                    17
+                ]
+            }
+        ],
+        "urls": []
+    },
+    "metadata": {
+        "iso_language_code": "es",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 1348314392098721794,
+        "id_str": "1348314392098721794",
+        "name": "Maryita",
+        "screen_name": "Maryita63766057",
+        "location": "",
+        "description": "",
+        "url": null,
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 111,
+        "friends_count": 239,
+        "listed_count": 0,
+        "created_at": "Sun Jan 10 17:03:09 +0000 2021",
+        "favourites_count": 29493,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 10684,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": null,
+        "profile_background_image_url_https": null,
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1348314699671216129/LW1thuP3_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1348314699671216129/LW1thuP3_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": true,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+        "created_at": "Wed Jul 14 17:24:33 +0000 2021",
+        "id": 1415361586655596545,
+        "id_str": "1415361586655596545",
+        "full_text": "S\u00e1nchez llamar\u00e1 ma\u00f1ana a Rociito para que la ni\u00f1a le confirme si Cuba es, o no es, una dictadura.",
+        "truncated": false,
+        "display_text_range": [
+            0,
+            97
+        ],
+        "entities": {
+            "hashtags": [],
+            "symbols": [],
+            "user_mentions": [],
+            "urls": []
+        },
+        "metadata": {
+            "iso_language_code": "es",
+            "result_type": "recent"
+        },
+        "source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 407709450,
+            "id_str": "407709450",
+            "name": "Alfonso Uss\u00eda",
+            "screen_name": "alfonso_ussia",
+            "location": "",
+            "description": "Escritor, madrile\u00f1o, andaluz, vasco y monta\u00f1\u00e9s de vocaci\u00f3n.",
+            "url": null,
+            "entities": {
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 262684,
+            "friends_count": 960,
+            "listed_count": 1251,
+            "created_at": "Tue Nov 08 12:33:54 +0000 2011",
+            "favourites_count": 7139,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": false,
+            "verified": false,
+            "statuses_count": 45594,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "C0DEED",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/3090505041/a4cc27a321b9e1eb6f97c9d7e35b454d_normal.jpeg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/3090505041/a4cc27a321b9e1eb6f97c9d7e35b454d_normal.jpeg",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "has_extended_profile": false,
+            "default_profile": true,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none",
+            "withheld_in_countries": []
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 121,
+        "favorite_count": 542,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "es"
+    },
+    "is_quote_status": false,
+    "retweet_count": 121,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "es"
+}

@@ -1,0 +1,196 @@
+{
+    "created_at": "Wed Jul 14 16:00:18 +0000 2021",
+    "id": 1415340384998285317,
+    "id_str": "1415340384998285317",
+    "full_text": "RT @librepatriapr: Ahora sali\u00f3 rey mundo y to\u2019 el mundo a \u201cpreocuparse\u201d por \ud83c\udde8\ud83c\uddfa. 60 a\u00f1os con un bloqueo genocida e inhumano y nadie dec\u00eda na\u2026",
+    "truncated": false,
+    "display_text_range": [
+        0,
+        140
+    ],
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "librepatriapr",
+                "name": "Miguel Figueroa",
+                "id": 148501150,
+                "id_str": "148501150",
+                "indices": [
+                    3,
+                    17
+                ]
+            }
+        ],
+        "urls": []
+    },
+    "metadata": {
+        "iso_language_code": "es",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 1212384623335919617,
+        "id_str": "1212384623335919617",
+        "name": "festia",
+        "screen_name": "festia10",
+        "location": "la fr\u00eda Europa ",
+        "description": "puertorrique\u00f1o y latinoamericano en el fr\u00edo",
+        "url": null,
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 520,
+        "friends_count": 780,
+        "listed_count": 4,
+        "created_at": "Wed Jan 01 14:47:54 +0000 2020",
+        "favourites_count": 110326,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 40750,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": null,
+        "profile_background_image_url_https": null,
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1220081631102410753/BCnDdnKM_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1220081631102410753/BCnDdnKM_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1212384623335919617/1594326022",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+        "created_at": "Wed Jul 14 15:57:48 +0000 2021",
+        "id": 1415339756964220933,
+        "id_str": "1415339756964220933",
+        "full_text": "Ahora sali\u00f3 rey mundo y to\u2019 el mundo a \u201cpreocuparse\u201d por \ud83c\udde8\ud83c\uddfa. 60 a\u00f1os con un bloqueo genocida e inhumano y nadie dec\u00eda nada. Ahora to\u2019 el mundo descubri\u00f3 a \ud83c\udde8\ud83c\uddfa. Cuba es un pa\u00eds soberano, el nuestro es una colonia y sin quien nos defienda. Cuba es de los cubanos. \ud83d\ude21",
+        "truncated": false,
+        "display_text_range": [
+            0,
+            262
+        ],
+        "entities": {
+            "hashtags": [],
+            "symbols": [],
+            "user_mentions": [],
+            "urls": []
+        },
+        "metadata": {
+            "iso_language_code": "es",
+            "result_type": "recent"
+        },
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 148501150,
+            "id_str": "148501150",
+            "name": "Miguel Figueroa",
+            "screen_name": "librepatriapr",
+            "location": "Puerto Rico",
+            "description": "100 % BORICUA!",
+            "url": "https://t.co/RDe59mBCHy",
+            "entities": {
+                "url": {
+                    "urls": [
+                        {
+                            "url": "https://t.co/RDe59mBCHy",
+                            "expanded_url": "http://www.librexsiempre.com",
+                            "display_url": "librexsiempre.com",
+                            "indices": [
+                                0,
+                                23
+                            ]
+                        }
+                    ]
+                },
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 353,
+            "friends_count": 770,
+            "listed_count": 0,
+            "created_at": "Wed May 26 21:36:58 +0000 2010",
+            "favourites_count": 23363,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": true,
+            "verified": false,
+            "statuses_count": 12452,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "B2DFDA",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1092381766936158208/MGD12ZQx_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1092381766936158208/MGD12ZQx_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/148501150/1591315619",
+            "profile_link_color": "93A644",
+            "profile_sidebar_border_color": "EEEEEE",
+            "profile_sidebar_fill_color": "FFFFFF",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "has_extended_profile": true,
+            "default_profile": false,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none",
+            "withheld_in_countries": []
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 1,
+        "favorite_count": 1,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "es"
+    },
+    "is_quote_status": false,
+    "retweet_count": 1,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "es"
+}

@@ -1,0 +1,182 @@
+{
+    "created_at": "Thu Jul 15 12:32:03 +0000 2021",
+    "id": 1415650367581392902,
+    "id_str": "1415650367581392902",
+    "full_text": "RT @PatitasJaen: GRACIAS a Maril\u00e9 Diaz             20\u20ac\nTodas estaspersonas han puesto en concepto para pienso, que ser\u00e1 destinado para eso\u2026",
+    "truncated": false,
+    "display_text_range": [
+        0,
+        139
+    ],
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "PatitasJaen",
+                "name": "Patitas Cansadas Jaen",
+                "id": 1354909578652217344,
+                "id_str": "1354909578652217344",
+                "indices": [
+                    3,
+                    15
+                ]
+            }
+        ],
+        "urls": []
+    },
+    "metadata": {
+        "iso_language_code": "es",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 984537787457265665,
+        "id_str": "984537787457265665",
+        "name": "Emberilio Ni oblit ni perd\u00f3\ud83d\udd25",
+        "screen_name": "emberilio",
+        "location": "Catalunya",
+        "description": "",
+        "url": null,
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 2519,
+        "friends_count": 3184,
+        "listed_count": 0,
+        "created_at": "Thu Apr 12 21:04:35 +0000 2018",
+        "favourites_count": 422696,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 184379,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": null,
+        "profile_background_image_url_https": null,
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1295765103720243201/gXqUNqKd_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1295765103720243201/gXqUNqKd_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+        "created_at": "Thu Jul 15 03:07:56 +0000 2021",
+        "id": 1415508401296117760,
+        "id_str": "1415508401296117760",
+        "full_text": "GRACIAS a Maril\u00e9 Diaz             20\u20ac\nTodas estaspersonas han puesto en concepto para pienso, que ser\u00e1 destinado para eso y las tres donaciones de Jose M@ Jose Maria Lozano Barranco ,Mar Sanchez y Miguel Moreno que pon\u00edan para ayuda, se han empleado en saldar la factura de los",
+        "truncated": false,
+        "display_text_range": [
+            0,
+            277
+        ],
+        "entities": {
+            "hashtags": [],
+            "symbols": [],
+            "user_mentions": [],
+            "urls": []
+        },
+        "metadata": {
+            "iso_language_code": "es",
+            "result_type": "recent"
+        },
+        "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+        "in_reply_to_status_id": 1415508328764133389,
+        "in_reply_to_status_id_str": "1415508328764133389",
+        "in_reply_to_user_id": 1354909578652217344,
+        "in_reply_to_user_id_str": "1354909578652217344",
+        "in_reply_to_screen_name": "PatitasJaen",
+        "user": {
+            "id": 1354909578652217344,
+            "id_str": "1354909578652217344",
+            "name": "Patitas Cansadas Jaen",
+            "screen_name": "PatitasJaen",
+            "location": "Arjona, Espa\u00f1a",
+            "description": "\ud83d\udc15Rescate animal y bu\u0301squeda de hogar  \ud83d\udc08Grupo sin a\u0301nimo de lucro \ud83d\udccdSedes en Arjonilla y Arjona (Jae\u0301n) Espa\u00f1a. Ayudanos donando 1\u20ac/mes hazte teamer!",
+            "url": null,
+            "entities": {
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 596,
+            "friends_count": 823,
+            "listed_count": 2,
+            "created_at": "Thu Jan 28 21:51:49 +0000 2021",
+            "favourites_count": 248,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": false,
+            "verified": false,
+            "statuses_count": 427,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "F5F8FA",
+            "profile_background_image_url": null,
+            "profile_background_image_url_https": null,
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1354910720438235137/maKGyzCq_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1354910720438235137/maKGyzCq_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/1354909578652217344/1621432979",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "has_extended_profile": true,
+            "default_profile": true,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none",
+            "withheld_in_countries": []
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 3,
+        "favorite_count": 7,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "es"
+    },
+    "is_quote_status": false,
+    "retweet_count": 3,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "es"
+}

@@ -1,0 +1,117 @@
+{
+    "created_at": "Wed Jul 14 16:56:50 +0000 2021",
+    "id": 1415354614577352706,
+    "id_str": "1415354614577352706",
+    "full_text": "@Rodrigo94689653 @SirCule_FCB @UNIVERSO_1899 Para quedar tercero , rid\u00edculo en champions y con suerte alguna copa del rey \ud83e\udd23",
+    "truncated": false,
+    "display_text_range": [
+        45,
+        123
+    ],
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "Rodrigo94689653",
+                "name": "Rodrigo \ud83c\uddea\ud83c\udde8",
+                "id": 1300616636710490116,
+                "id_str": "1300616636710490116",
+                "indices": [
+                    0,
+                    16
+                ]
+            },
+            {
+                "screen_name": "SirCule_FCB",
+                "name": "Sir Cul\u00e9",
+                "id": 1363669960397099015,
+                "id_str": "1363669960397099015",
+                "indices": [
+                    17,
+                    29
+                ]
+            },
+            {
+                "screen_name": "UNIVERSO_1899",
+                "name": "Universo FCBarcelona",
+                "id": 264941783,
+                "id_str": "264941783",
+                "indices": [
+                    30,
+                    44
+                ]
+            }
+        ],
+        "urls": []
+    },
+    "metadata": {
+        "iso_language_code": "es",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "in_reply_to_status_id": 1415354458637283331,
+    "in_reply_to_status_id_str": "1415354458637283331",
+    "in_reply_to_user_id": 1300616636710490116,
+    "in_reply_to_user_id_str": "1300616636710490116",
+    "in_reply_to_screen_name": "Rodrigo94689653",
+    "user": {
+        "id": 789008848350810112,
+        "id_str": "789008848350810112",
+        "name": "Anxoa",
+        "screen_name": "AnxoaDeLaEscala",
+        "location": "",
+        "description": "\ud83d\udc1f.",
+        "url": null,
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 144,
+        "friends_count": 527,
+        "listed_count": 0,
+        "created_at": "Thu Oct 20 07:42:23 +0000 2016",
+        "favourites_count": 16684,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 12017,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": null,
+        "profile_background_image_url_https": null,
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1295278995601338373/3RQEpPd__normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1295278995601338373/3RQEpPd__normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/789008848350810112/1597186770",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "es"
+}

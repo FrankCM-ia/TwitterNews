@@ -1,0 +1,283 @@
+{
+    "created_at": "Wed Jul 14 18:02:14 +0000 2021",
+    "id": 1415371070568341509,
+    "id_str": "1415371070568341509",
+    "full_text": "RT @entrelacritica: Hace unos meses denuncie aqu\u00ed a este Chivato de Ciego de \u00c1vila, hoy una amistad que en las redes encuentra en su perfil\u2026",
+    "truncated": false,
+    "display_text_range": [
+        0,
+        140
+    ],
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "entrelacritica",
+                "name": "Entre la cr\u00edtica",
+                "id": 1143289008073650176,
+                "id_str": "1143289008073650176",
+                "indices": [
+                    3,
+                    18
+                ]
+            }
+        ],
+        "urls": []
+    },
+    "metadata": {
+        "iso_language_code": "es",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 1232269295348076547,
+        "id_str": "1232269295348076547",
+        "name": "MACHO HERRERAS",
+        "screen_name": "MachoHerreras",
+        "location": "Cuba",
+        "description": "No Me Callar\u00e1n, No me Pararan, con mi derecho puedo ir hasta el final, ( No Mas Comunismo ) ORG-anticomunismo castrista)",
+        "url": null,
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 221,
+        "friends_count": 339,
+        "listed_count": 0,
+        "created_at": "Tue Feb 25 11:41:19 +0000 2020",
+        "favourites_count": 2804,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 2141,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": null,
+        "profile_background_image_url_https": null,
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1414889384252518414/aRTRtaK9_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1414889384252518414/aRTRtaK9_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1232269295348076547/1598453629",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+        "created_at": "Wed Jul 14 17:32:35 +0000 2021",
+        "id": 1415363610105233418,
+        "id_str": "1415363610105233418",
+        "full_text": "Hace unos meses denuncie aqu\u00ed a este Chivato de Ciego de \u00c1vila, hoy una amistad que en las redes encuentra en su perfil el #SOSCUBA y comentarios como ABAJO LA DICTADURA, este mismo fue de los grupos de Represi\u00f3n que muchas veces en Cuba hizo acto de repudio a m\u00ed https://t.co/49JyuVg8SZ",
+        "truncated": false,
+        "display_text_range": [
+            0,
+            263
+        ],
+        "entities": {
+            "hashtags": [
+                {
+                    "text": "SOSCUBA",
+                    "indices": [
+                        123,
+                        131
+                    ]
+                }
+            ],
+            "symbols": [],
+            "user_mentions": [],
+            "urls": [],
+            "media": [
+                {
+                    "id": 1415363608201109507,
+                    "id_str": "1415363608201109507",
+                    "indices": [
+                        264,
+                        287
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/E6Rhs-bXoAMLIkt.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/E6Rhs-bXoAMLIkt.jpg",
+                    "url": "https://t.co/49JyuVg8SZ",
+                    "display_url": "pic.twitter.com/49JyuVg8SZ",
+                    "expanded_url": "https://twitter.com/entrelacritica/status/1415363610105233418/photo/1",
+                    "type": "photo",
+                    "sizes": {
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "large": {
+                            "w": 720,
+                            "h": 1520,
+                            "resize": "fit"
+                        },
+                        "medium": {
+                            "w": 568,
+                            "h": 1200,
+                            "resize": "fit"
+                        },
+                        "small": {
+                            "w": 322,
+                            "h": 680,
+                            "resize": "fit"
+                        }
+                    }
+                }
+            ]
+        },
+        "extended_entities": {
+            "media": [
+                {
+                    "id": 1415363608201109507,
+                    "id_str": "1415363608201109507",
+                    "indices": [
+                        264,
+                        287
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/E6Rhs-bXoAMLIkt.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/E6Rhs-bXoAMLIkt.jpg",
+                    "url": "https://t.co/49JyuVg8SZ",
+                    "display_url": "pic.twitter.com/49JyuVg8SZ",
+                    "expanded_url": "https://twitter.com/entrelacritica/status/1415363610105233418/photo/1",
+                    "type": "photo",
+                    "sizes": {
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "large": {
+                            "w": 720,
+                            "h": 1520,
+                            "resize": "fit"
+                        },
+                        "medium": {
+                            "w": 568,
+                            "h": 1200,
+                            "resize": "fit"
+                        },
+                        "small": {
+                            "w": 322,
+                            "h": 680,
+                            "resize": "fit"
+                        }
+                    }
+                }
+            ]
+        },
+        "metadata": {
+            "iso_language_code": "es",
+            "result_type": "recent"
+        },
+        "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 1143289008073650176,
+            "id_str": "1143289008073650176",
+            "name": "Entre la cr\u00edtica",
+            "screen_name": "entrelacritica",
+            "location": "Espa\u00f1a",
+            "description": "Blog informativo sobre pol\u00edtica, opini\u00f3n libre y cultura general. Apuesto por la libertad de Cuba, y la lucha de la derecha Mundial. D\u00e9jame t\u00fa denuncia, lucha.",
+            "url": "https://t.co/woZA5yKwJX",
+            "entities": {
+                "url": {
+                    "urls": [
+                        {
+                            "url": "https://t.co/woZA5yKwJX",
+                            "expanded_url": "https://www.entrelacritica.com",
+                            "display_url": "entrelacritica.com",
+                            "indices": [
+                                0,
+                                23
+                            ]
+                        }
+                    ]
+                },
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 4743,
+            "friends_count": 4325,
+            "listed_count": 13,
+            "created_at": "Mon Jun 24 22:45:15 +0000 2019",
+            "favourites_count": 42750,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": true,
+            "verified": false,
+            "statuses_count": 20346,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "F5F8FA",
+            "profile_background_image_url": null,
+            "profile_background_image_url_https": null,
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1397050126573637632/442juDOa_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1397050126573637632/442juDOa_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/1143289008073650176/1618050445",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "has_extended_profile": true,
+            "default_profile": true,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none",
+            "withheld_in_countries": []
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 12,
+        "favorite_count": 19,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "es"
+    },
+    "is_quote_status": false,
+    "retweet_count": 12,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "es"
+}

@@ -1,0 +1,333 @@
+{
+    "created_at": "Wed Jul 14 17:51:58 +0000 2021",
+    "id": 1415368488613449735,
+    "id_str": "1415368488613449735",
+    "full_text": "RT @rravila2013: #LNB AA Quimsa (Santiago del Estero), CA Boca Juniors (Ciudad Aut\u00f3noma de Buenos Aires) y CA Obras Sanitarias de la Naci\u00f3n\u2026",
+    "truncated": false,
+    "display_text_range": [
+        0,
+        140
+    ],
+    "entities": {
+        "hashtags": [
+            {
+                "text": "LNB",
+                "indices": [
+                    17,
+                    21
+                ]
+            }
+        ],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "rravila2013",
+                "name": "Ram\u00f3n \u00c1vila",
+                "id": 1676866644,
+                "id_str": "1676866644",
+                "indices": [
+                    3,
+                    15
+                ]
+            }
+        ],
+        "urls": []
+    },
+    "metadata": {
+        "iso_language_code": "es",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 163291558,
+        "id_str": "163291558",
+        "name": "Diego Vadell",
+        "screen_name": "diegovadell",
+        "location": "San Jose, Entre Rios",
+        "description": "Entrenador de Basquetbol - Profesor de Educaci\u00f3n Fisica.",
+        "url": null,
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 888,
+        "friends_count": 859,
+        "listed_count": 6,
+        "created_at": "Tue Jul 06 01:38:34 +0000 2010",
+        "favourites_count": 2407,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 3688,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "022330",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/761624437175283712/GCSag0uh_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/761624437175283712/GCSag0uh_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/163291558/1560262091",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "C0DFEC",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+        "created_at": "Wed Jul 14 17:23:35 +0000 2021",
+        "id": 1415361345227300864,
+        "id_str": "1415361345227300864",
+        "full_text": "#LNB AA Quimsa (Santiago del Estero), CA Boca Juniors (Ciudad Aut\u00f3noma de Buenos Aires) y CA Obras Sanitarias de la Naci\u00f3n (CABA) ser\u00e1n los representantes argentinos en la III Basketball Champions League Americas. https://t.co/tWFjz7pR3n",
+        "truncated": false,
+        "display_text_range": [
+            0,
+            213
+        ],
+        "entities": {
+            "hashtags": [
+                {
+                    "text": "LNB",
+                    "indices": [
+                        0,
+                        4
+                    ]
+                }
+            ],
+            "symbols": [],
+            "user_mentions": [],
+            "urls": [],
+            "media": [
+                {
+                    "id": 1415361342291259395,
+                    "id_str": "1415361342291259395",
+                    "indices": [
+                        214,
+                        237
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/E6RfpFQXMAMWOti.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/E6RfpFQXMAMWOti.jpg",
+                    "url": "https://t.co/tWFjz7pR3n",
+                    "display_url": "pic.twitter.com/tWFjz7pR3n",
+                    "expanded_url": "https://twitter.com/rravila2013/status/1415361345227300864/photo/1",
+                    "type": "photo",
+                    "sizes": {
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "medium": {
+                            "w": 950,
+                            "h": 1200,
+                            "resize": "fit"
+                        },
+                        "large": {
+                            "w": 1013,
+                            "h": 1280,
+                            "resize": "fit"
+                        },
+                        "small": {
+                            "w": 538,
+                            "h": 680,
+                            "resize": "fit"
+                        }
+                    }
+                }
+            ]
+        },
+        "extended_entities": {
+            "media": [
+                {
+                    "id": 1415361342291259395,
+                    "id_str": "1415361342291259395",
+                    "indices": [
+                        214,
+                        237
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/E6RfpFQXMAMWOti.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/E6RfpFQXMAMWOti.jpg",
+                    "url": "https://t.co/tWFjz7pR3n",
+                    "display_url": "pic.twitter.com/tWFjz7pR3n",
+                    "expanded_url": "https://twitter.com/rravila2013/status/1415361345227300864/photo/1",
+                    "type": "photo",
+                    "sizes": {
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "medium": {
+                            "w": 950,
+                            "h": 1200,
+                            "resize": "fit"
+                        },
+                        "large": {
+                            "w": 1013,
+                            "h": 1280,
+                            "resize": "fit"
+                        },
+                        "small": {
+                            "w": 538,
+                            "h": 680,
+                            "resize": "fit"
+                        }
+                    }
+                }
+            ]
+        },
+        "metadata": {
+            "iso_language_code": "es",
+            "result_type": "recent"
+        },
+        "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 1676866644,
+            "id_str": "1676866644",
+            "name": "Ram\u00f3n \u00c1vila",
+            "screen_name": "rravila2013",
+            "location": "Santiago del Estero",
+            "description": "Periodista de Revista Pasi\u00f3n & Deporte; de Radio Panorama; y del sitio web http://t.co/N6LnFGVxpe",
+            "url": "http://t.co/N6LnFGVxpe",
+            "entities": {
+                "url": {
+                    "urls": [
+                        {
+                            "url": "http://t.co/N6LnFGVxpe",
+                            "expanded_url": "http://www.pasionydeporte.com.ar",
+                            "display_url": "pasionydeporte.com.ar",
+                            "indices": [
+                                0,
+                                22
+                            ]
+                        }
+                    ]
+                },
+                "description": {
+                    "urls": [
+                        {
+                            "url": "http://t.co/N6LnFGVxpe",
+                            "expanded_url": "http://www.pasionydeporte.com.ar",
+                            "display_url": "pasionydeporte.com.ar",
+                            "indices": [
+                                75,
+                                97
+                            ]
+                        }
+                    ]
+                }
+            },
+            "protected": false,
+            "followers_count": 1221,
+            "friends_count": 1139,
+            "listed_count": 17,
+            "created_at": "Fri Aug 16 23:58:38 +0000 2013",
+            "favourites_count": 3409,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": true,
+            "verified": false,
+            "statuses_count": 25038,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "C0DEED",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/378800000330362201/30866f3dcdfc04fd2920ccf12b70e98b_normal.jpeg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/378800000330362201/30866f3dcdfc04fd2920ccf12b70e98b_normal.jpeg",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "has_extended_profile": true,
+            "default_profile": true,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none",
+            "withheld_in_countries": []
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": {
+            "id": "017d4fef075a2cf1",
+            "url": "https://api.twitter.com/1.1/geo/id/017d4fef075a2cf1.json",
+            "place_type": "city",
+            "name": "Santiago del Estero",
+            "full_name": "Santiago del Estero, Argentina",
+            "country_code": "AR",
+            "country": "Argentina",
+            "contained_within": [],
+            "bounding_box": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -64.310346,
+                            -27.8425078
+                        ],
+                        [
+                            -64.2189743,
+                            -27.8425078
+                        ],
+                        [
+                            -64.2189743,
+                            -27.743537
+                        ],
+                        [
+                            -64.310346,
+                            -27.743537
+                        ]
+                    ]
+                ]
+            },
+            "attributes": {}
+        },
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 3,
+        "favorite_count": 1,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "es"
+    },
+    "is_quote_status": false,
+    "retweet_count": 3,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "es"
+}

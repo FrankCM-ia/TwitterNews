@@ -1,0 +1,99 @@
+{
+    "created_at": "Wed Jul 14 18:07:39 +0000 2021",
+    "id": 1415372434795110400,
+    "id_str": "1415372434795110400",
+    "full_text": "Esta bien, Messi gan\u00f3 La copa Am\u00e9rica, pero si hablamos en niveles no se puede comparar el nivel de la Euro con la Copa Am\u00e9rica, a parte que si vemos temporadas en los equipos Ronaldo gan\u00f3 Copa y super copa, en champions termin\u00f3 eliminado si al igual que messi.",
+    "truncated": false,
+    "display_text_range": [
+        0,
+        261
+    ],
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+    },
+    "metadata": {
+        "iso_language_code": "es",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "in_reply_to_status_id": 1415371777644105729,
+    "in_reply_to_status_id_str": "1415371777644105729",
+    "in_reply_to_user_id": 1273282753702830081,
+    "in_reply_to_user_id_str": "1273282753702830081",
+    "in_reply_to_screen_name": "Marl0n_1909",
+    "user": {
+        "id": 1273282753702830081,
+        "id_str": "1273282753702830081",
+        "name": "\ud83c\uddf5\ud83c\uddea\u5f61\ud835\udc74\ud835\udc68\ud835\udc79\ud835\udc73\ud835\udc76\ud835\udc75\u5f61\ud83c\udde6\ud83c\uddf7\u2741",
+        "screen_name": "Marl0n_1909",
+        "location": "Peru",
+        "description": "\ud83d\udd25 AQU\u00cd SE BANCA A MUERTE AL @REALMADRID\ud83d\udd25 \u270c\ufe0f JUGADOR DE FM (YT) , ESTUDIANTE DE ING Y DISE\u00d1ADOR \u26a1\ud83d\udca5HALA MADRID\u26bd\u2764\ufe0f EL MEJOR DEL MUNDO @CRISTIANO \ud83c\uddf5\ud83c\uddf9\ud83d\udc10\ud83d\udd25",
+        "url": "https://t.co/FdzIDzI9tw",
+        "entities": {
+            "url": {
+                "urls": [
+                    {
+                        "url": "https://t.co/FdzIDzI9tw",
+                        "expanded_url": "https://www.youtube.com/channel/UCvPxi8OopbGhj0SoV4qWm1w",
+                        "display_url": "youtube.com/channel/UCvPxi\u2026",
+                        "indices": [
+                            0,
+                            23
+                        ]
+                    }
+                ]
+            },
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 1044,
+        "friends_count": 917,
+        "listed_count": 3,
+        "created_at": "Wed Jun 17 15:54:16 +0000 2020",
+        "favourites_count": 24771,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 15076,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": null,
+        "profile_background_image_url_https": null,
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1409009146574278658/do4TEoac_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1409009146574278658/do4TEoac_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1273282753702830081/1624767845",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": true,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 1,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "es"
+}

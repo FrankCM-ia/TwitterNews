@@ -1,0 +1,229 @@
+{
+    "created_at": "Wed Jul 14 18:09:20 +0000 2021",
+    "id": 1415372856536363009,
+    "id_str": "1415372856536363009",
+    "full_text": "RT @AlinaDuarte_: Qu\u00e9 tan grande sigue siendo Fidel Castro que hoy en todo el continente la derecha lo sigue invocando como si fuera el ene\u2026",
+    "truncated": false,
+    "display_text_range": [
+        0,
+        140
+    ],
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "AlinaDuarte_",
+                "name": "Alina Duarte",
+                "id": 53239056,
+                "id_str": "53239056",
+                "indices": [
+                    3,
+                    16
+                ]
+            }
+        ],
+        "urls": []
+    },
+    "metadata": {
+        "iso_language_code": "es",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 838978220254879744,
+        "id_str": "838978220254879744",
+        "name": "cris",
+        "screen_name": "comoundisparo",
+        "location": "",
+        "description": "Todo o Nada. \ud83c\uddf2\ud83c\uddfd",
+        "url": null,
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 112,
+        "friends_count": 202,
+        "listed_count": 1,
+        "created_at": "Tue Mar 07 05:02:49 +0000 2017",
+        "favourites_count": 42684,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 27386,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": null,
+        "profile_background_image_url_https": null,
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1366526359137214466/4mdrX7_y_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1366526359137214466/4mdrX7_y_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/838978220254879744/1526939000",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+        "created_at": "Wed Jul 14 17:57:22 +0000 2021",
+        "id": 1415369845831389184,
+        "id_str": "1415369845831389184",
+        "full_text": "Qu\u00e9 tan grande sigue siendo Fidel Castro que hoy en todo el continente la derecha lo sigue invocando como si fuera el enemigo a vencer. Y tienen raz\u00f3n en gran parte, Fidel es de esos hombres que como Ch\u00e1vez, no murieron, se multiplicaron.",
+        "truncated": false,
+        "display_text_range": [
+            0,
+            238
+        ],
+        "entities": {
+            "hashtags": [],
+            "symbols": [],
+            "user_mentions": [],
+            "urls": []
+        },
+        "metadata": {
+            "iso_language_code": "es",
+            "result_type": "recent"
+        },
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 53239056,
+            "id_str": "53239056",
+            "name": "Alina Duarte",
+            "screen_name": "AlinaDuarte_",
+            "location": "Washington, DC & Xochimilco \u262d",
+            "description": "Independent Journalist & Militante de Abya Yala, anti-imperialism \u2b51 \ud83c\uddf5\ud83c\uddf8\u2022Xochimilca\u2022 Feminista\u2022 Senior Research Fellow at @COHAofficial #FCPyS #SinCensura",
+            "url": "https://t.co/mi5ryl80iG",
+            "entities": {
+                "url": {
+                    "urls": [
+                        {
+                            "url": "https://t.co/mi5ryl80iG",
+                            "expanded_url": "http://paypal.me/alinnoize",
+                            "display_url": "paypal.me/alinnoize",
+                            "indices": [
+                                0,
+                                23
+                            ]
+                        }
+                    ]
+                },
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 44251,
+            "friends_count": 2324,
+            "listed_count": 267,
+            "created_at": "Fri Jul 03 00:28:13 +0000 2009",
+            "favourites_count": 18750,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": true,
+            "verified": false,
+            "statuses_count": 31845,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "0C0D0D",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+            "profile_background_tile": true,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1414048383694671872/RW65nLHW_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1414048383694671872/RW65nLHW_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/53239056/1626058688",
+            "profile_link_color": "EB057F",
+            "profile_sidebar_border_color": "FFFFFF",
+            "profile_sidebar_fill_color": "6B1D6B",
+            "profile_text_color": "000000",
+            "profile_use_background_image": true,
+            "has_extended_profile": true,
+            "default_profile": false,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none",
+            "withheld_in_countries": []
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": {
+            "id": "bfc35dcc7e63252a",
+            "url": "https://api.twitter.com/1.1/geo/id/bfc35dcc7e63252a.json",
+            "place_type": "city",
+            "name": "Cuauht\u00e9moc",
+            "full_name": "Cuauht\u00e9moc, Distrito Federal",
+            "country_code": "MX",
+            "country": "Mexico",
+            "contained_within": [],
+            "bounding_box": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -99.1843501,
+                            19.3998346
+                        ],
+                        [
+                            -99.122382,
+                            19.3998346
+                        ],
+                        [
+                            -99.122382,
+                            19.4658366
+                        ],
+                        [
+                            -99.1843501,
+                            19.4658366
+                        ]
+                    ]
+                ]
+            },
+            "attributes": {}
+        },
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 30,
+        "favorite_count": 89,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "es"
+    },
+    "is_quote_status": false,
+    "retweet_count": 30,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "es"
+}

@@ -1,0 +1,96 @@
+{
+    "created_at": "Wed Jul 14 16:00:18 +0000 2021",
+    "id": 1415340387850465294,
+    "id_str": "1415340387850465294",
+    "full_text": "@dondepre Son tan dictadura como Cuba, con el agravante de toda la miseria estando en una situaci\u00f3n mucho mejor compararivamente.\nEspa\u00f1a, desde luego, igual que Cuba en mi opini\u00f3n.\n3/",
+    "truncated": false,
+    "display_text_range": [
+        10,
+        183
+    ],
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "dondepre",
+                "name": "DonDepre\ud83d\udca5",
+                "id": 17124523,
+                "id_str": "17124523",
+                "indices": [
+                    0,
+                    9
+                ]
+            }
+        ],
+        "urls": []
+    },
+    "metadata": {
+        "iso_language_code": "es",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "in_reply_to_status_id": 1415340090340040711,
+    "in_reply_to_status_id_str": "1415340090340040711",
+    "in_reply_to_user_id": 994254069123477504,
+    "in_reply_to_user_id_str": "994254069123477504",
+    "in_reply_to_screen_name": "Djiaux_xyz",
+    "user": {
+        "id": 994254069123477504,
+        "id_str": "994254069123477504",
+        "name": "Djiaux_xyz",
+        "screen_name": "Djiaux_xyz",
+        "location": "Metr\u00f3polis",
+        "description": "Cuenta de escribir",
+        "url": null,
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 68,
+        "friends_count": 263,
+        "listed_count": 2,
+        "created_at": "Wed May 09 16:33:37 +0000 2018",
+        "favourites_count": 6580,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 16966,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": null,
+        "profile_background_image_url_https": null,
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/994258865180037126/6HuHXpOF_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/994258865180037126/6HuHXpOF_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "es"
+}

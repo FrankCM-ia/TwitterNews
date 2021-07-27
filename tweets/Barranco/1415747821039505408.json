@@ -1,0 +1,214 @@
+{
+    "created_at": "Thu Jul 15 18:59:18 +0000 2021",
+    "id": 1415747821039505408,
+    "id_str": "1415747821039505408",
+    "full_text": "\ud83c\udf0d Dos mujeres cayeron de un columpio a mil 920 metros de altura en un barranco en Daguest\u00e1n, Rusia.\n\n\u00a1Tranquilo! Ellas sobrevivieron \u261d\ud83c\udffc https://t.co/X1akpfk7mH",
+    "truncated": false,
+    "display_text_range": [
+        0,
+        135
+    ],
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [],
+        "media": [
+            {
+                "id": 1415747756996628486,
+                "id_str": "1415747756996628486",
+                "indices": [
+                    136,
+                    159
+                ],
+                "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1415747756996628486/pu/img/S46IAUhzuHVGF38d.jpg",
+                "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1415747756996628486/pu/img/S46IAUhzuHVGF38d.jpg",
+                "url": "https://t.co/X1akpfk7mH",
+                "display_url": "pic.twitter.com/X1akpfk7mH",
+                "expanded_url": "https://twitter.com/SintesisHgo/status/1415747821039505408/video/1",
+                "type": "photo",
+                "sizes": {
+                    "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                    },
+                    "large": {
+                        "w": 480,
+                        "h": 848,
+                        "resize": "fit"
+                    },
+                    "small": {
+                        "w": 385,
+                        "h": 680,
+                        "resize": "fit"
+                    },
+                    "medium": {
+                        "w": 480,
+                        "h": 848,
+                        "resize": "fit"
+                    }
+                }
+            }
+        ]
+    },
+    "extended_entities": {
+        "media": [
+            {
+                "id": 1415747756996628486,
+                "id_str": "1415747756996628486",
+                "indices": [
+                    136,
+                    159
+                ],
+                "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1415747756996628486/pu/img/S46IAUhzuHVGF38d.jpg",
+                "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1415747756996628486/pu/img/S46IAUhzuHVGF38d.jpg",
+                "url": "https://t.co/X1akpfk7mH",
+                "display_url": "pic.twitter.com/X1akpfk7mH",
+                "expanded_url": "https://twitter.com/SintesisHgo/status/1415747821039505408/video/1",
+                "type": "video",
+                "sizes": {
+                    "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                    },
+                    "large": {
+                        "w": 480,
+                        "h": 848,
+                        "resize": "fit"
+                    },
+                    "small": {
+                        "w": 385,
+                        "h": 680,
+                        "resize": "fit"
+                    },
+                    "medium": {
+                        "w": 480,
+                        "h": 848,
+                        "resize": "fit"
+                    }
+                },
+                "video_info": {
+                    "aspect_ratio": [
+                        30,
+                        53
+                    ],
+                    "duration_millis": 44907,
+                    "variants": [
+                        {
+                            "content_type": "application/x-mpegURL",
+                            "url": "https://video.twimg.com/ext_tw_video/1415747756996628486/pu/pl/0U1LnmEp3bPxY1iE.m3u8?tag=12&container=fmp4"
+                        },
+                        {
+                            "bitrate": 632000,
+                            "content_type": "video/mp4",
+                            "url": "https://video.twimg.com/ext_tw_video/1415747756996628486/pu/vid/320x564/CHNuyMl9ThDsJXUL.mp4?tag=12"
+                        },
+                        {
+                            "bitrate": 950000,
+                            "content_type": "video/mp4",
+                            "url": "https://video.twimg.com/ext_tw_video/1415747756996628486/pu/vid/480x848/TZizvSW3_d0Lm78U.mp4?tag=12"
+                        }
+                    ]
+                },
+                "additional_media_info": {
+                    "monetizable": false
+                }
+            }
+        ]
+    },
+    "metadata": {
+        "iso_language_code": "es",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 237816708,
+        "id_str": "237816708",
+        "name": "S\u00edntesis Hidalgo",
+        "screen_name": "SintesisHgo",
+        "location": "Hidalgo, M\u00e9xico",
+        "description": "\ud83d\udccdHidalgo #EnS\u00edntesis te contamos lo que pasa en tu estado. \u00bfQuieres reportar algo? Escr\u00edbenos \ud83d\udcf2 https://t.co/ZnssWGgeTU",
+        "url": "https://t.co/3ZdCsVoPi1",
+        "entities": {
+            "url": {
+                "urls": [
+                    {
+                        "url": "https://t.co/3ZdCsVoPi1",
+                        "expanded_url": "http://www.sintesis.mx/Hgo/",
+                        "display_url": "sintesis.mx/Hgo/",
+                        "indices": [
+                            0,
+                            23
+                        ]
+                    }
+                ]
+            },
+            "description": {
+                "urls": [
+                    {
+                        "url": "https://t.co/ZnssWGgeTU",
+                        "expanded_url": "http://bit.ly/3q2ziqR",
+                        "display_url": "bit.ly/3q2ziqR",
+                        "indices": [
+                            96,
+                            119
+                        ]
+                    }
+                ]
+            }
+        },
+        "protected": false,
+        "followers_count": 13516,
+        "friends_count": 306,
+        "listed_count": 125,
+        "created_at": "Thu Jan 13 18:09:04 +0000 2011",
+        "favourites_count": 679,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 61761,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "06183B",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1379203871860527105/J4fkeV1E_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1379203871860527105/J4fkeV1E_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/237816708/1617662803",
+        "profile_link_color": "1B95E0",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "es"
+}

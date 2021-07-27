@@ -1,0 +1,209 @@
+{
+    "created_at": "Thu Jul 15 17:19:44 +0000 2021",
+    "id": 1415722764393226246,
+    "id_str": "1415722764393226246",
+    "full_text": "RT @jjulianaortiz: no les pasa que est\u00e1n tranquilos y de la nada... Y SI ME TI\u00d1O??",
+    "truncated": false,
+    "display_text_range": [
+        0,
+        82
+    ],
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "jjulianaortiz",
+                "name": "\ud835\udddd\ud835\ude02\ud835\uddf9\ud835\uddf6\ud835\uddee\ud835\uddfb\ud835\uddee \ud835\udde2\ud835\uddff\ud835\ude01\ud835\uddf6\ud835\ude07 \ud83e\udd8b",
+                "id": 2877073096,
+                "id_str": "2877073096",
+                "indices": [
+                    3,
+                    17
+                ]
+            }
+        ],
+        "urls": []
+    },
+    "metadata": {
+        "iso_language_code": "es",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 608745192,
+        "id_str": "608745192",
+        "name": "Ale\ud83e\udd8b",
+        "screen_name": "Camila_Barranco",
+        "location": "",
+        "description": "R\ud83e\udd0d",
+        "url": "https://t.co/ktB5n4Wboy",
+        "entities": {
+            "url": {
+                "urls": [
+                    {
+                        "url": "https://t.co/ktB5n4Wboy",
+                        "expanded_url": "http://vsco.co/camilabarranco",
+                        "display_url": "vsco.co/camilabarranco",
+                        "indices": [
+                            0,
+                            23
+                        ]
+                    }
+                ]
+            },
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 303,
+        "friends_count": 341,
+        "listed_count": 0,
+        "created_at": "Fri Jun 15 01:28:07 +0000 2012",
+        "favourites_count": 5967,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 25866,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "084C70",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1362934386560094208/xpoUjCR9_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1362934386560094208/xpoUjCR9_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/608745192/1500618692",
+        "profile_link_color": "8E09DB",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": true,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "regular",
+        "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+        "created_at": "Wed Jul 14 01:11:33 +0000 2021",
+        "id": 1415116724609994754,
+        "id_str": "1415116724609994754",
+        "full_text": "no les pasa que est\u00e1n tranquilos y de la nada... Y SI ME TI\u00d1O??",
+        "truncated": false,
+        "display_text_range": [
+            0,
+            63
+        ],
+        "entities": {
+            "hashtags": [],
+            "symbols": [],
+            "user_mentions": [],
+            "urls": []
+        },
+        "metadata": {
+            "iso_language_code": "es",
+            "result_type": "recent"
+        },
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 2877073096,
+            "id_str": "2877073096",
+            "name": "\ud835\udddd\ud835\ude02\ud835\uddf9\ud835\uddf6\ud835\uddee\ud835\uddfb\ud835\uddee \ud835\udde2\ud835\uddff\ud835\ude01\ud835\uddf6\ud835\ude07 \ud83e\udd8b",
+            "screen_name": "jjulianaortiz",
+            "location": "C\u00f3rdoba, Argentina",
+            "description": "\ud835\uddf6\ud835\uddf9 \ud835\uddf3\ud835\uddee\ud835\ude02\ud835\ude01 \ud835\uddf0\ud835\uddff\ud835\uddfc\ud835\uddf6\ud835\uddff\ud835\uddf2 \u2604",
+            "url": "https://t.co/G0YCycBggd",
+            "entities": {
+                "url": {
+                    "urls": [
+                        {
+                            "url": "https://t.co/G0YCycBggd",
+                            "expanded_url": "https://www.instagram.com/julianaorttiz/",
+                            "display_url": "instagram.com/julianaorttiz/",
+                            "indices": [
+                                0,
+                                23
+                            ]
+                        }
+                    ]
+                },
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 10001,
+            "friends_count": 9602,
+            "listed_count": 6,
+            "created_at": "Fri Nov 14 21:31:56 +0000 2014",
+            "favourites_count": 10604,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": false,
+            "verified": false,
+            "statuses_count": 21873,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "022330",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme11/bg.gif",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme11/bg.gif",
+            "profile_background_tile": true,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1388792645972078592/VJu8Nc0Q_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1388792645972078592/VJu8Nc0Q_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/2877073096/1587372633",
+            "profile_link_color": "FAB81E",
+            "profile_sidebar_border_color": "000000",
+            "profile_sidebar_fill_color": "000000",
+            "profile_text_color": "000000",
+            "profile_use_background_image": true,
+            "has_extended_profile": true,
+            "default_profile": false,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none",
+            "withheld_in_countries": []
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 9842,
+        "favorite_count": 26048,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "es"
+    },
+    "is_quote_status": false,
+    "retweet_count": 9842,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "es"
+}

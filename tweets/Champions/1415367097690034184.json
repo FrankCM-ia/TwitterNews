@@ -1,0 +1,97 @@
+{
+    "created_at": "Wed Jul 14 17:46:26 +0000 2021",
+    "id": 1415367097690034184,
+    "id_str": "1415367097690034184",
+    "full_text": "@InvictosSomos Ojal\u00e1 el PSG y el City jam\u00e1s ganen la Champions. \nSe saltan el Fair Play por los huevos, tienen una s\u00faper masa salarial y aun as\u00ed siguen fichando como si nada.\nEncima sus estadios no abren y por ende sus ganancias deber\u00edan ser much\u00edsimo m\u00e1s bajas",
+    "truncated": false,
+    "display_text_range": [
+        15,
+        261
+    ],
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "InvictosSomos",
+                "name": "Invictos",
+                "id": 4488217998,
+                "id_str": "4488217998",
+                "indices": [
+                    0,
+                    14
+                ]
+            }
+        ],
+        "urls": []
+    },
+    "metadata": {
+        "iso_language_code": "es",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_status_id": 1415364743775330312,
+    "in_reply_to_status_id_str": "1415364743775330312",
+    "in_reply_to_user_id": 4488217998,
+    "in_reply_to_user_id_str": "4488217998",
+    "in_reply_to_screen_name": "InvictosSomos",
+    "user": {
+        "id": 1337479638658867201,
+        "id_str": "1337479638658867201",
+        "name": "Jos\u00e9",
+        "screen_name": "Jos78944722",
+        "location": "En tu corazon 7u7 ",
+        "description": "\u201cHaya a donde quiera que vaya, siempre gritar\u00e9, Hala Madrid \ud83d\ude4c\u26aa\ufe0f\u201d",
+        "url": null,
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 30,
+        "friends_count": 94,
+        "listed_count": 1,
+        "created_at": "Fri Dec 11 19:30:02 +0000 2020",
+        "favourites_count": 738,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 177,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": null,
+        "profile_background_image_url_https": null,
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1414108422988091392/oJkx380f_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1414108422988091392/oJkx380f_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1337479638658867201/1625378990",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": true,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 3,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "es"
+}

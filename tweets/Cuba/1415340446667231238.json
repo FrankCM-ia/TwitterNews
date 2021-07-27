@@ -1,0 +1,196 @@
+{
+    "created_at": "Wed Jul 14 16:00:32 +0000 2021",
+    "id": 1415340446667231238,
+    "id_str": "1415340446667231238",
+    "full_text": "RT @arquitectamos: Casado le dice a S\u00e1nchez que repita con \u00e9l: \"Cuba es una dictadura\", y a\u00f1ade que no es tan dif\u00edcil decirlo.\nTiene toda l\u2026",
+    "truncated": false,
+    "display_text_range": [
+        0,
+        140
+    ],
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "arquitectamos",
+                "name": "Jos\u00e9 Ram\u00f3n Hern\u00e1ndez",
+                "id": 571251941,
+                "id_str": "571251941",
+                "indices": [
+                    3,
+                    17
+                ]
+            }
+        ],
+        "urls": []
+    },
+    "metadata": {
+        "iso_language_code": "es",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 789519015400079361,
+        "id_str": "789519015400079361",
+        "name": "JM",
+        "screen_name": "jos80em",
+        "location": "",
+        "description": "",
+        "url": null,
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 23,
+        "friends_count": 344,
+        "listed_count": 0,
+        "created_at": "Fri Oct 21 17:29:36 +0000 2016",
+        "favourites_count": 7889,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 1450,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": null,
+        "profile_background_image_url_https": null,
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1272279677890166789/9_Der8zA_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1272279677890166789/9_Der8zA_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/789519015400079361/1592169211",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+        "created_at": "Wed Jul 14 13:23:59 +0000 2021",
+        "id": 1415301049427038209,
+        "id_str": "1415301049427038209",
+        "full_text": "Casado le dice a S\u00e1nchez que repita con \u00e9l: \"Cuba es una dictadura\", y a\u00f1ade que no es tan dif\u00edcil decirlo.\nTiene toda la raz\u00f3n. Estoy de acuerdo con \u00e9l. Pero tambi\u00e9n le invito a que diga: \"Franco fue un dictador\". Tampoco es tan dif\u00edcil de decir.",
+        "truncated": false,
+        "display_text_range": [
+            0,
+            247
+        ],
+        "entities": {
+            "hashtags": [],
+            "symbols": [],
+            "user_mentions": [],
+            "urls": []
+        },
+        "metadata": {
+            "iso_language_code": "es",
+            "result_type": "recent"
+        },
+        "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 571251941,
+            "id_str": "571251941",
+            "name": "Jos\u00e9 Ram\u00f3n Hern\u00e1ndez",
+            "screen_name": "arquitectamos",
+            "location": "",
+            "description": "Arquitecto, bloguero, saxofonero, escritor... pero todo mal. Estoy en Twitter porque aqu\u00ed soy como me gustar\u00eda ser en el mundo real.",
+            "url": "https://t.co/mvtqKkc1VA",
+            "entities": {
+                "url": {
+                    "urls": [
+                        {
+                            "url": "https://t.co/mvtqKkc1VA",
+                            "expanded_url": "http://arquitectamoslocos.blogspot.com.es/",
+                            "display_url": "arquitectamoslocos.blogspot.com.es",
+                            "indices": [
+                                0,
+                                23
+                            ]
+                        }
+                    ]
+                },
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 15680,
+            "friends_count": 455,
+            "listed_count": 253,
+            "created_at": "Fri May 04 23:38:15 +0000 2012",
+            "favourites_count": 164704,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": true,
+            "verified": false,
+            "statuses_count": 88450,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "C0DEED",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": true,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1347116160526020613/k08fy5qn_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1347116160526020613/k08fy5qn_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/571251941/1379717280",
+            "profile_link_color": "0084B4",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "has_extended_profile": false,
+            "default_profile": false,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none",
+            "withheld_in_countries": []
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 17,
+        "favorite_count": 60,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "es"
+    },
+    "is_quote_status": false,
+    "retweet_count": 17,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "es"
+}

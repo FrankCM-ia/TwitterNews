@@ -1,0 +1,349 @@
+{
+    "created_at": "Wed Jul 14 18:02:28 +0000 2021",
+    "id": 1415371128453881860,
+    "id_str": "1415371128453881860",
+    "full_text": "RT @ElAguijon_: Cuba es una dictadura https://t.co/sGVzUhhSsJ",
+    "truncated": false,
+    "display_text_range": [
+        0,
+        61
+    ],
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "ElAguijon_",
+                "name": "El Aguij\u00f3n \ud83d\udc1d",
+                "id": 902092087,
+                "id_str": "902092087",
+                "indices": [
+                    3,
+                    14
+                ]
+            }
+        ],
+        "urls": [],
+        "media": [
+            {
+                "id": 1415351008700555265,
+                "id_str": "1415351008700555265",
+                "indices": [
+                    38,
+                    61
+                ],
+                "media_url": "http://pbs.twimg.com/media/E6RWPloWYAELh6h.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/E6RWPloWYAELh6h.jpg",
+                "url": "https://t.co/sGVzUhhSsJ",
+                "display_url": "pic.twitter.com/sGVzUhhSsJ",
+                "expanded_url": "https://twitter.com/ElAguijon_/status/1415351013700214784/photo/1",
+                "type": "photo",
+                "sizes": {
+                    "large": {
+                        "w": 490,
+                        "h": 371,
+                        "resize": "fit"
+                    },
+                    "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                    },
+                    "medium": {
+                        "w": 490,
+                        "h": 371,
+                        "resize": "fit"
+                    },
+                    "small": {
+                        "w": 490,
+                        "h": 371,
+                        "resize": "fit"
+                    }
+                },
+                "source_status_id": 1415351013700214784,
+                "source_status_id_str": "1415351013700214784",
+                "source_user_id": 902092087,
+                "source_user_id_str": "902092087"
+            }
+        ]
+    },
+    "extended_entities": {
+        "media": [
+            {
+                "id": 1415351008700555265,
+                "id_str": "1415351008700555265",
+                "indices": [
+                    38,
+                    61
+                ],
+                "media_url": "http://pbs.twimg.com/media/E6RWPloWYAELh6h.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/E6RWPloWYAELh6h.jpg",
+                "url": "https://t.co/sGVzUhhSsJ",
+                "display_url": "pic.twitter.com/sGVzUhhSsJ",
+                "expanded_url": "https://twitter.com/ElAguijon_/status/1415351013700214784/photo/1",
+                "type": "photo",
+                "sizes": {
+                    "large": {
+                        "w": 490,
+                        "h": 371,
+                        "resize": "fit"
+                    },
+                    "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                    },
+                    "medium": {
+                        "w": 490,
+                        "h": 371,
+                        "resize": "fit"
+                    },
+                    "small": {
+                        "w": 490,
+                        "h": 371,
+                        "resize": "fit"
+                    }
+                },
+                "source_status_id": 1415351013700214784,
+                "source_status_id_str": "1415351013700214784",
+                "source_user_id": 902092087,
+                "source_user_id_str": "902092087"
+            }
+        ]
+    },
+    "metadata": {
+        "iso_language_code": "es",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 979731446620401665,
+        "id_str": "979731446620401665",
+        "name": "David",
+        "screen_name": "David64009",
+        "location": "Madrid, Comunidad de Madrid",
+        "description": "Roma no paga traidores\n\ud83d\udea7\ud83c\udfc4\ud83e\ude82\ud83c\udf5f\ud83c\udf55\ud83c\udf70\ud83c\udf67\ud83c\udf0d\ud83c\udf2d\ud83c\udf54\ud83d\udcaa\ud83c\udf7b\ud83d\udea7",
+        "url": null,
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 285,
+        "friends_count": 206,
+        "listed_count": 1,
+        "created_at": "Fri Mar 30 14:45:54 +0000 2018",
+        "favourites_count": 26400,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 24222,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": null,
+        "profile_background_image_url_https": null,
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1304893546173009921/dJ0UYuNU_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1304893546173009921/dJ0UYuNU_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/979731446620401665/1599945789",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": true,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+        "created_at": "Wed Jul 14 16:42:32 +0000 2021",
+        "id": 1415351013700214784,
+        "id_str": "1415351013700214784",
+        "full_text": "Cuba es una dictadura https://t.co/sGVzUhhSsJ",
+        "truncated": false,
+        "display_text_range": [
+            0,
+            21
+        ],
+        "entities": {
+            "hashtags": [],
+            "symbols": [],
+            "user_mentions": [],
+            "urls": [],
+            "media": [
+                {
+                    "id": 1415351008700555265,
+                    "id_str": "1415351008700555265",
+                    "indices": [
+                        22,
+                        45
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/E6RWPloWYAELh6h.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/E6RWPloWYAELh6h.jpg",
+                    "url": "https://t.co/sGVzUhhSsJ",
+                    "display_url": "pic.twitter.com/sGVzUhhSsJ",
+                    "expanded_url": "https://twitter.com/ElAguijon_/status/1415351013700214784/photo/1",
+                    "type": "photo",
+                    "sizes": {
+                        "large": {
+                            "w": 490,
+                            "h": 371,
+                            "resize": "fit"
+                        },
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "medium": {
+                            "w": 490,
+                            "h": 371,
+                            "resize": "fit"
+                        },
+                        "small": {
+                            "w": 490,
+                            "h": 371,
+                            "resize": "fit"
+                        }
+                    }
+                }
+            ]
+        },
+        "extended_entities": {
+            "media": [
+                {
+                    "id": 1415351008700555265,
+                    "id_str": "1415351008700555265",
+                    "indices": [
+                        22,
+                        45
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/E6RWPloWYAELh6h.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/E6RWPloWYAELh6h.jpg",
+                    "url": "https://t.co/sGVzUhhSsJ",
+                    "display_url": "pic.twitter.com/sGVzUhhSsJ",
+                    "expanded_url": "https://twitter.com/ElAguijon_/status/1415351013700214784/photo/1",
+                    "type": "photo",
+                    "sizes": {
+                        "large": {
+                            "w": 490,
+                            "h": 371,
+                            "resize": "fit"
+                        },
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "medium": {
+                            "w": 490,
+                            "h": 371,
+                            "resize": "fit"
+                        },
+                        "small": {
+                            "w": 490,
+                            "h": 371,
+                            "resize": "fit"
+                        }
+                    }
+                }
+            ]
+        },
+        "metadata": {
+            "iso_language_code": "es",
+            "result_type": "recent"
+        },
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 902092087,
+            "id_str": "902092087",
+            "name": "El Aguij\u00f3n \ud83d\udc1d",
+            "screen_name": "ElAguijon_",
+            "location": "En las barricadas ",
+            "description": "Reparto aguijonazos",
+            "url": null,
+            "entities": {
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 86450,
+            "friends_count": 953,
+            "listed_count": 414,
+            "created_at": "Wed Oct 24 15:49:58 +0000 2012",
+            "favourites_count": 104897,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": false,
+            "verified": false,
+            "statuses_count": 106053,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "C0DEED",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1288606985076826112/DOOTvFPM_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1288606985076826112/DOOTvFPM_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/902092087/1560098248",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "has_extended_profile": false,
+            "default_profile": true,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none",
+            "withheld_in_countries": []
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 32,
+        "favorite_count": 64,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "es"
+    },
+    "is_quote_status": false,
+    "retweet_count": 32,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "es"
+}

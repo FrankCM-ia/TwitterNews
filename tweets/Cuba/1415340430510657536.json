@@ -1,0 +1,275 @@
+{
+    "created_at": "Wed Jul 14 16:00:29 +0000 2021",
+    "id": 1415340430510657536,
+    "id_str": "1415340430510657536",
+    "full_text": "RT @federiconiche_: \"En Cuba \ud83c\udde8\ud83c\uddfa tienen Sanidad P\u00fablica y Gratuita, por eso la derecha est\u00e1 en contra de Cuba\"\n\nLa Sanidad P\u00fablica y Gratuit\u2026",
+    "truncated": false,
+    "display_text_range": [
+        0,
+        140
+    ],
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "federiconiche_",
+                "name": "Federico Niche",
+                "id": 957044978114617345,
+                "id_str": "957044978114617345",
+                "indices": [
+                    3,
+                    18
+                ]
+            }
+        ],
+        "urls": []
+    },
+    "metadata": {
+        "iso_language_code": "es",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 2895300117,
+        "id_str": "2895300117",
+        "name": "Primitiva",
+        "screen_name": "sandraprimitiva",
+        "location": "Buenos Aires, Argentina",
+        "description": "\u2661",
+        "url": null,
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 149,
+        "friends_count": 150,
+        "listed_count": 0,
+        "created_at": "Fri Nov 28 00:07:51 +0000 2014",
+        "favourites_count": 29007,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 13428,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/883839237547855872/ai1sHK6j_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/883839237547855872/ai1sHK6j_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2895300117/1476144075",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+        "created_at": "Tue Jul 13 21:48:29 +0000 2021",
+        "id": 1415065621616803842,
+        "id_str": "1415065621616803842",
+        "full_text": "\"En Cuba \ud83c\udde8\ud83c\uddfa tienen Sanidad P\u00fablica y Gratuita, por eso la derecha est\u00e1 en contra de Cuba\"\n\nLa Sanidad P\u00fablica y Gratuita de Cuba: https://t.co/epa3ICugoo",
+        "truncated": false,
+        "display_text_range": [
+            0,
+            129
+        ],
+        "entities": {
+            "hashtags": [],
+            "symbols": [],
+            "user_mentions": [],
+            "urls": [],
+            "media": [
+                {
+                    "id": 1415065618949234690,
+                    "id_str": "1415065618949234690",
+                    "indices": [
+                        130,
+                        153
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/E6NSrt9WYAIvxzR.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/E6NSrt9WYAIvxzR.jpg",
+                    "url": "https://t.co/epa3ICugoo",
+                    "display_url": "pic.twitter.com/epa3ICugoo",
+                    "expanded_url": "https://twitter.com/federiconiche_/status/1415065621616803842/photo/1",
+                    "type": "photo",
+                    "sizes": {
+                        "small": {
+                            "w": 680,
+                            "h": 487,
+                            "resize": "fit"
+                        },
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "large": {
+                            "w": 705,
+                            "h": 505,
+                            "resize": "fit"
+                        },
+                        "medium": {
+                            "w": 705,
+                            "h": 505,
+                            "resize": "fit"
+                        }
+                    }
+                }
+            ]
+        },
+        "extended_entities": {
+            "media": [
+                {
+                    "id": 1415065618949234690,
+                    "id_str": "1415065618949234690",
+                    "indices": [
+                        130,
+                        153
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/E6NSrt9WYAIvxzR.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/E6NSrt9WYAIvxzR.jpg",
+                    "url": "https://t.co/epa3ICugoo",
+                    "display_url": "pic.twitter.com/epa3ICugoo",
+                    "expanded_url": "https://twitter.com/federiconiche_/status/1415065621616803842/photo/1",
+                    "type": "photo",
+                    "sizes": {
+                        "small": {
+                            "w": 680,
+                            "h": 487,
+                            "resize": "fit"
+                        },
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "large": {
+                            "w": 705,
+                            "h": 505,
+                            "resize": "fit"
+                        },
+                        "medium": {
+                            "w": 705,
+                            "h": 505,
+                            "resize": "fit"
+                        }
+                    }
+                }
+            ]
+        },
+        "metadata": {
+            "iso_language_code": "es",
+            "result_type": "recent"
+        },
+        "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 957044978114617345,
+            "id_str": "957044978114617345",
+            "name": "Federico Niche",
+            "screen_name": "federiconiche_",
+            "location": "",
+            "description": "Este perfil es irreal y grosero, los tuits c\u00e9lebres son pobres imitaciones y debido a su contenido nadie lo debe seguir.",
+            "url": "https://t.co/sMGL1NfirS",
+            "entities": {
+                "url": {
+                    "urls": [
+                        {
+                            "url": "https://t.co/sMGL1NfirS",
+                            "expanded_url": "https://open.spotify.com/playlist/52bRmoGFyJVLFWU4iRLC3i?si=slvtkoD7RCGeDXpP1xvI7A&utm_source=copy-l",
+                            "display_url": "open.spotify.com/playlist/52bRm\u2026",
+                            "indices": [
+                                0,
+                                23
+                            ]
+                        }
+                    ]
+                },
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 13066,
+            "friends_count": 2228,
+            "listed_count": 34,
+            "created_at": "Sat Jan 27 00:17:58 +0000 2018",
+            "favourites_count": 24203,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": false,
+            "verified": false,
+            "statuses_count": 10358,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "000000",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1414295390837428226/qm_mMdjA_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1414295390837428226/qm_mMdjA_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/957044978114617345/1625752955",
+            "profile_link_color": "1B95E0",
+            "profile_sidebar_border_color": "000000",
+            "profile_sidebar_fill_color": "000000",
+            "profile_text_color": "000000",
+            "profile_use_background_image": false,
+            "has_extended_profile": true,
+            "default_profile": false,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none",
+            "withheld_in_countries": []
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 508,
+        "favorite_count": 612,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "es"
+    },
+    "is_quote_status": false,
+    "retweet_count": 508,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "es"
+}

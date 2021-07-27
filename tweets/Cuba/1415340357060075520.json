@@ -1,0 +1,343 @@
+{
+    "created_at": "Wed Jul 14 16:00:11 +0000 2021",
+    "id": 1415340357060075520,
+    "id_str": "1415340357060075520",
+    "full_text": "RT @iaiestaran: Punto 1: no me interesa.\nPunto 2: me da igual.\nPunto 3: Cuba es potencia mundial en ciencia.\nPunto 4: desbarre con un bloqu\u2026",
+    "truncated": false,
+    "display_text_range": [
+        0,
+        140
+    ],
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "iaiestaran",
+                "name": "i.aiestaran",
+                "id": 1613828468,
+                "id_str": "1613828468",
+                "indices": [
+                    3,
+                    14
+                ]
+            }
+        ],
+        "urls": []
+    },
+    "metadata": {
+        "iso_language_code": "es",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 138096211,
+        "id_str": "138096211",
+        "name": "Luis",
+        "screen_name": "luisvolumentres",
+        "location": "Cantabria-Link\u00f6ping",
+        "description": "",
+        "url": null,
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 163,
+        "friends_count": 575,
+        "listed_count": 0,
+        "created_at": "Wed Apr 28 16:19:12 +0000 2010",
+        "favourites_count": 365,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 10805,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1383103927269343234/-wBe9T-I_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1383103927269343234/-wBe9T-I_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/138096211/1507849424",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": false,
+        "has_extended_profile": false,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+        "created_at": "Wed Jul 14 15:56:15 +0000 2021",
+        "id": 1415339365107212296,
+        "id_str": "1415339365107212296",
+        "full_text": "Punto 1: no me interesa.\nPunto 2: me da igual.\nPunto 3: Cuba es potencia mundial en ciencia.\nPunto 4: desbarre con un bloqueo durante a\u00f1os.\nPunto 5: El Jacobino es una pifia, tal y como parec\u00eda desde el principio. https://t.co/miCfyrQcEi",
+        "truncated": false,
+        "display_text_range": [
+            0,
+            213
+        ],
+        "entities": {
+            "hashtags": [],
+            "symbols": [],
+            "user_mentions": [],
+            "urls": [
+                {
+                    "url": "https://t.co/miCfyrQcEi",
+                    "expanded_url": "https://twitter.com/eljacobinoes/status/1415024017602396162",
+                    "display_url": "twitter.com/eljacobinoes/s\u2026",
+                    "indices": [
+                        214,
+                        237
+                    ]
+                }
+            ]
+        },
+        "metadata": {
+            "iso_language_code": "es",
+            "result_type": "recent"
+        },
+        "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 1613828468,
+            "id_str": "1613828468",
+            "name": "i.aiestaran",
+            "screen_name": "iaiestaran",
+            "location": "Umbr\u00eda (Republic of Ioar)",
+            "description": "POR LO COM\u00daN - KOMUNZKI - COMMONLY\r\n\r\nhttp://t.co/YqCtYVP4jT",
+            "url": "https://t.co/H30cbLaDvr",
+            "entities": {
+                "url": {
+                    "urls": [
+                        {
+                            "url": "https://t.co/H30cbLaDvr",
+                            "expanded_url": "https://rebelion.org/autor/ignazio-aiestaran/",
+                            "display_url": "rebelion.org/autor/ignazio-\u2026",
+                            "indices": [
+                                0,
+                                23
+                            ]
+                        }
+                    ]
+                },
+                "description": {
+                    "urls": [
+                        {
+                            "url": "http://t.co/YqCtYVP4jT",
+                            "expanded_url": "http://www.argia.com/blogak/ignazio-aiestaran/",
+                            "display_url": "argia.com/blogak/ignazio\u2026",
+                            "indices": [
+                                38,
+                                60
+                            ]
+                        }
+                    ]
+                }
+            },
+            "protected": false,
+            "followers_count": 19824,
+            "friends_count": 351,
+            "listed_count": 159,
+            "created_at": "Mon Jul 22 22:49:48 +0000 2013",
+            "favourites_count": 31004,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": false,
+            "verified": false,
+            "statuses_count": 58990,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "E2F0F0",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/422534938974380032/SOldVFi__normal.png",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/422534938974380032/SOldVFi__normal.png",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/1613828468/1401836260",
+            "profile_link_color": "3B94D9",
+            "profile_sidebar_border_color": "FFFFFF",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "has_extended_profile": false,
+            "default_profile": false,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none",
+            "withheld_in_countries": []
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": true,
+        "quoted_status_id": 1415024017602396162,
+        "quoted_status_id_str": "1415024017602396162",
+        "quoted_status": {
+            "created_at": "Tue Jul 13 19:03:10 +0000 2021",
+            "id": 1415024017602396162,
+            "id_str": "1415024017602396162",
+            "full_text": "CUBA\ud83c\udde8\ud83c\uddfa:\n\ud83d\udd38La prioridad geopol\u00edtica de Espa\u00f1a debe ser su inter\u00e9s nacional.\n\ud83d\udd38Nuestro modelo pol\u00edtico no es Cuba.\n\ud83d\udd38Los avances sociales en la isla son indudables.\n\ud83d\udd38Es una dictadura ahogada por el bloqueo.\n\ud83d\udd38A la geopol\u00edtica liberal las dictaduras le importan seg\u00fan cu\u00e1ndo y d\u00f3nde https://t.co/PjkFmI3y3C",
+            "truncated": false,
+            "display_text_range": [
+                0,
+                275
+            ],
+            "entities": {
+                "hashtags": [],
+                "symbols": [],
+                "user_mentions": [],
+                "urls": [
+                    {
+                        "url": "https://t.co/PjkFmI3y3C",
+                        "expanded_url": "https://twitter.com/NunezHuesca/status/1414987917651546114",
+                        "display_url": "twitter.com/NunezHuesca/st\u2026",
+                        "indices": [
+                            276,
+                            299
+                        ]
+                    }
+                ]
+            },
+            "metadata": {
+                "iso_language_code": "es",
+                "result_type": "recent"
+            },
+            "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+            "in_reply_to_status_id": null,
+            "in_reply_to_status_id_str": null,
+            "in_reply_to_user_id": null,
+            "in_reply_to_user_id_str": null,
+            "in_reply_to_screen_name": null,
+            "user": {
+                "id": 1273332437083394048,
+                "id_str": "1273332437083394048",
+                "name": "El Jacobino",
+                "screen_name": "eljacobinoes",
+                "location": "Espa\u00f1a",
+                "description": "\u2666 Te damos la bienvenida al 'think tank' \ud83d\udc65 de la izquierda racionalista, centralista y definida en Espa\u00f1a.\n\u2666 \u00a1\u00danete al Club!  \u23e9 https://t.co/auAIaRSYfZ \u23ea",
+                "url": "https://t.co/VrzaJEKren",
+                "entities": {
+                    "url": {
+                        "urls": [
+                            {
+                                "url": "https://t.co/VrzaJEKren",
+                                "expanded_url": "https://linktr.ee/eljacobinoes",
+                                "display_url": "linktr.ee/eljacobinoes",
+                                "indices": [
+                                    0,
+                                    23
+                                ]
+                            }
+                        ]
+                    },
+                    "description": {
+                        "urls": [
+                            {
+                                "url": "https://t.co/auAIaRSYfZ",
+                                "expanded_url": "http://eljacobino.es",
+                                "display_url": "eljacobino.es",
+                                "indices": [
+                                    128,
+                                    151
+                                ]
+                            }
+                        ]
+                    }
+                },
+                "protected": false,
+                "followers_count": 14354,
+                "friends_count": 95,
+                "listed_count": 60,
+                "created_at": "Wed Jun 17 19:12:11 +0000 2020",
+                "favourites_count": 1616,
+                "utc_offset": null,
+                "time_zone": null,
+                "geo_enabled": false,
+                "verified": false,
+                "statuses_count": 1460,
+                "lang": null,
+                "contributors_enabled": false,
+                "is_translator": false,
+                "is_translation_enabled": false,
+                "profile_background_color": "F5F8FA",
+                "profile_background_image_url": null,
+                "profile_background_image_url_https": null,
+                "profile_background_tile": false,
+                "profile_image_url": "http://pbs.twimg.com/profile_images/1345754677334446080/96_CUpjI_normal.jpg",
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/1345754677334446080/96_CUpjI_normal.jpg",
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/1273332437083394048/1609615385",
+                "profile_link_color": "1DA1F2",
+                "profile_sidebar_border_color": "C0DEED",
+                "profile_sidebar_fill_color": "DDEEF6",
+                "profile_text_color": "333333",
+                "profile_use_background_image": true,
+                "has_extended_profile": false,
+                "default_profile": true,
+                "default_profile_image": false,
+                "following": false,
+                "follow_request_sent": false,
+                "notifications": false,
+                "translator_type": "none",
+                "withheld_in_countries": []
+            },
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "contributors": null,
+            "is_quote_status": true,
+            "quoted_status_id": 1414987917651546114,
+            "quoted_status_id_str": "1414987917651546114",
+            "retweet_count": 79,
+            "favorite_count": 402,
+            "favorited": false,
+            "retweeted": false,
+            "possibly_sensitive": false,
+            "lang": "es"
+        },
+        "retweet_count": 4,
+        "favorite_count": 5,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "es"
+    },
+    "is_quote_status": true,
+    "quoted_status_id": 1415024017602396162,
+    "quoted_status_id_str": "1415024017602396162",
+    "retweet_count": 4,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "es"
+}

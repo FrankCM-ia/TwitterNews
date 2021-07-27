@@ -1,0 +1,106 @@
+{
+    "created_at": "Fri Jul 16 04:29:38 +0000 2021",
+    "id": 1415891348297764867,
+    "id_str": "1415891348297764867",
+    "full_text": "@10453egp @VteGarrido Excepci\u00f3n ser hace con votaci\u00f3n de parlamento, alarma secisonnde gobierno a golpe que decretazo, ( as\u00ed col\u00f3 a Iglesias en el CNI, as\u00ed eligi\u00f3 prov., Encima lo tomaron y as\u00ed suspendi\u00f3 parlamento) con las ma que hizo. Anda repasate la CE  y no digas sandeces que quedas en evidencia",
+    "truncated": false,
+    "display_text_range": [
+        22,
+        301
+    ],
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "10453egp",
+                "name": "esther guerrero",
+                "id": 358711915,
+                "id_str": "358711915",
+                "indices": [
+                    0,
+                    9
+                ]
+            },
+            {
+                "screen_name": "VteGarrido",
+                "name": "Vicente GarridoMayol",
+                "id": 574111671,
+                "id_str": "574111671",
+                "indices": [
+                    10,
+                    21
+                ]
+            }
+        ],
+        "urls": []
+    },
+    "metadata": {
+        "iso_language_code": "es",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "in_reply_to_status_id": 1415781705370251270,
+    "in_reply_to_status_id_str": "1415781705370251270",
+    "in_reply_to_user_id": 358711915,
+    "in_reply_to_user_id_str": "358711915",
+    "in_reply_to_screen_name": "10453egp",
+    "user": {
+        "id": 716609215,
+        "id_str": "716609215",
+        "name": "sergio barranco",
+        "screen_name": "barranco_sergio",
+        "location": "",
+        "description": "",
+        "url": null,
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 43,
+        "friends_count": 170,
+        "listed_count": 0,
+        "created_at": "Wed Jul 25 19:21:56 +0000 2012",
+        "favourites_count": 3690,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 11205,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/2656057212/d12de994cf19895d59621d1285ff7878_normal.jpeg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/2656057212/d12de994cf19895d59621d1285ff7878_normal.jpeg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "es"
+}

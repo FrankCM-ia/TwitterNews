@@ -1,0 +1,117 @@
+{
+    "created_at": "Wed Jul 14 18:02:00 +0000 2021",
+    "id": 1415371014574264323,
+    "id_str": "1415371014574264323",
+    "full_text": "@Josesito_Ch @CazaPvtas69 @elchiringuitotv Si hablas de que la champions es m\u00e1s importante por la repercusi\u00f3n medi\u00e1tica te equivocas ya que la eurocopa y copa Am\u00e9rica la selecci\u00f3n al representar un pa\u00eds tiene m\u00e1s repercusi\u00f3n por lo cual si hablamos de cantidad de espectadores es m\u00e1s importante la copa Am\u00e9rica",
+    "truncated": false,
+    "display_text_range": [
+        43,
+        310
+    ],
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "Josesito_Ch",
+                "name": "Carlos Chav\u00e9z \uf8ff \u20dd\u20d2\u20e4",
+                "id": 1564450435,
+                "id_str": "1564450435",
+                "indices": [
+                    0,
+                    12
+                ]
+            },
+            {
+                "screen_name": "CazaPvtas69",
+                "name": "Daniel Vivas",
+                "id": 1237849462447280128,
+                "id_str": "1237849462447280128",
+                "indices": [
+                    13,
+                    25
+                ]
+            },
+            {
+                "screen_name": "elchiringuitotv",
+                "name": "El Chiringuito TV",
+                "id": 18905975,
+                "id_str": "18905975",
+                "indices": [
+                    26,
+                    42
+                ]
+            }
+        ],
+        "urls": []
+    },
+    "metadata": {
+        "iso_language_code": "es",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "in_reply_to_status_id": 1415086174406840330,
+    "in_reply_to_status_id_str": "1415086174406840330",
+    "in_reply_to_user_id": 1564450435,
+    "in_reply_to_user_id_str": "1564450435",
+    "in_reply_to_screen_name": "Josesito_Ch",
+    "user": {
+        "id": 786395734929248256,
+        "id_str": "786395734929248256",
+        "name": "Manuel Cordoba",
+        "screen_name": "Manuel_mjcv",
+        "location": "",
+        "description": "",
+        "url": null,
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 13,
+        "friends_count": 64,
+        "listed_count": 0,
+        "created_at": "Thu Oct 13 02:38:48 +0000 2016",
+        "favourites_count": 1297,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 1092,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": null,
+        "profile_background_image_url_https": null,
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1349473878192623616/8SDp9dBD_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1349473878192623616/8SDp9dBD_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/786395734929248256/1610574753",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": true,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "es"
+}

@@ -1,0 +1,97 @@
+{
+    "created_at": "Fri Jul 16 03:11:47 +0000 2021",
+    "id": 1415871757240737792,
+    "id_str": "1415871757240737792",
+    "full_text": "@arnoldsuarezg Chifa chung yion de Barranco el mejor del mundo...su sopita wantan especial, su chancho asado con nabo, kayten a la plancha kamlu wantan....hay que antojo me dio",
+    "truncated": false,
+    "display_text_range": [
+        15,
+        176
+    ],
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "arnoldsuarezg",
+                "name": "hey arnold!",
+                "id": 554820864,
+                "id_str": "554820864",
+                "indices": [
+                    0,
+                    14
+                ]
+            }
+        ],
+        "urls": []
+    },
+    "metadata": {
+        "iso_language_code": "es",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "in_reply_to_status_id": 1415868662704132096,
+    "in_reply_to_status_id_str": "1415868662704132096",
+    "in_reply_to_user_id": 554820864,
+    "in_reply_to_user_id_str": "554820864",
+    "in_reply_to_screen_name": "arnoldsuarezg",
+    "user": {
+        "id": 634993005,
+        "id_str": "634993005",
+        "name": "Karen Guevara Galdos",
+        "screen_name": "karensiux979",
+        "location": "chorrillos - lima",
+        "description": "Mujer, madre de Diego y Kayla, arquitecta, feminista, divertida, alegre y luchadora",
+        "url": null,
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 108,
+        "friends_count": 434,
+        "listed_count": 0,
+        "created_at": "Fri Jul 13 22:27:58 +0000 2012",
+        "favourites_count": 6135,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 373,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1353225466304409601/YS9zvcoZ_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1353225466304409601/YS9zvcoZ_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/634993005/1440393489",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": true,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 8,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "es"
+}

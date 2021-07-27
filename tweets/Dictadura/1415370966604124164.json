@@ -1,0 +1,132 @@
+{
+    "created_at": "Wed Jul 14 18:01:49 +0000 2021",
+    "id": 1415370966604124164,
+    "id_str": "1415370966604124164",
+    "full_text": "@informateperu A Vero le duele que la dictadura comunista llena de odio y opresi\u00f3n contra su pueblo est\u00e1 cayendo. Y consecuentemente, a Vero se le muere el discurso pol\u00edtico de toda su vida. #SOSPeru #SOSCuba #JNESacateElSombrero",
+    "truncated": false,
+    "display_text_range": [
+        15,
+        229
+    ],
+    "entities": {
+        "hashtags": [
+            {
+                "text": "SOSPeru",
+                "indices": [
+                    191,
+                    199
+                ]
+            },
+            {
+                "text": "SOSCuba",
+                "indices": [
+                    200,
+                    208
+                ]
+            },
+            {
+                "text": "JNESacateElSombrero",
+                "indices": [
+                    209,
+                    229
+                ]
+            }
+        ],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "informateperu",
+                "name": "Inf\u00f3rmate Per\u00fa",
+                "id": 63990472,
+                "id_str": "63990472",
+                "indices": [
+                    0,
+                    14
+                ]
+            }
+        ],
+        "urls": []
+    },
+    "metadata": {
+        "iso_language_code": "es",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "in_reply_to_status_id": 1415368308623351808,
+    "in_reply_to_status_id_str": "1415368308623351808",
+    "in_reply_to_user_id": 63990472,
+    "in_reply_to_user_id_str": "63990472",
+    "in_reply_to_screen_name": "informateperu",
+    "user": {
+        "id": 1177070435286097920,
+        "id_str": "1177070435286097920",
+        "name": "Felipe Alonso",
+        "screen_name": "felipesguitar",
+        "location": "USA",
+        "description": "Music maker - Composer. University of Southern California Alumni @USC- International Relations @USCDornsife - #AlOdioLeDigoNo \ud83c\uddf5\ud83c\uddea \ud83c\uddfa\ud83c\uddf8 \ud83c\uddea\ud83c\uddf8",
+        "url": "https://t.co/br8GNVRC5Y",
+        "entities": {
+            "url": {
+                "urls": [
+                    {
+                        "url": "https://t.co/br8GNVRC5Y",
+                        "expanded_url": "https://spoti.fi/3ck8hZm",
+                        "display_url": "spoti.fi/3ck8hZm",
+                        "indices": [
+                            0,
+                            23
+                        ]
+                    }
+                ]
+            },
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 222,
+        "friends_count": 707,
+        "listed_count": 1,
+        "created_at": "Thu Sep 26 04:00:48 +0000 2019",
+        "favourites_count": 55076,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 19702,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": null,
+        "profile_background_image_url_https": null,
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1177070938250260480/8RvLvv74_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1177070938250260480/8RvLvv74_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1177070435286097920/1582825052",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 1,
+    "favorite_count": 1,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "es"
+}

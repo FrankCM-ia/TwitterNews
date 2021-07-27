@@ -1,0 +1,333 @@
+{
+    "created_at": "Thu Jul 15 08:58:44 +0000 2021",
+    "id": 1415596681870123012,
+    "id_str": "1415596681870123012",
+    "full_text": "RT @Turismo_DipCC: \u00bfHas pensado alguna vez qu\u00e9 se siente al descender un #barranco? \nEl  programa #AlAguaCaceres te descubre #LaVera y sus\u2026",
+    "truncated": false,
+    "display_text_range": [
+        0,
+        139
+    ],
+    "entities": {
+        "hashtags": [
+            {
+                "text": "barranco",
+                "indices": [
+                    73,
+                    82
+                ]
+            },
+            {
+                "text": "AlAguaCaceres",
+                "indices": [
+                    98,
+                    112
+                ]
+            },
+            {
+                "text": "LaVera",
+                "indices": [
+                    125,
+                    132
+                ]
+            }
+        ],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "Turismo_DipCC",
+                "name": "Turismo_DipC\u00e1ceres",
+                "id": 610624820,
+                "id_str": "610624820",
+                "indices": [
+                    3,
+                    17
+                ]
+            }
+        ],
+        "urls": []
+    },
+    "metadata": {
+        "iso_language_code": "es",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 540057586,
+        "id_str": "540057586",
+        "name": "Daniel Cardalliaguet",
+        "screen_name": "danicarda",
+        "location": "C\u00e1ceres",
+        "description": "",
+        "url": null,
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 129,
+        "friends_count": 103,
+        "listed_count": 8,
+        "created_at": "Thu Mar 29 15:21:51 +0000 2012",
+        "favourites_count": 1862,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 1474,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1988087520/100_2372_1_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1988087520/100_2372_1_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/540057586/1401219557",
+        "profile_link_color": "6E0D0D",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+        "created_at": "Sun Jun 27 07:00:34 +0000 2021",
+        "id": 1409043965421277185,
+        "id_str": "1409043965421277185",
+        "full_text": "\u00bfHas pensado alguna vez qu\u00e9 se siente al descender un #barranco? \nEl  programa #AlAguaCaceres te descubre #LaVera y sus formidables gargantas naturales para la pr\u00e1ctica deportiva.\nDesconectar para reconectar contigo mismo.\nC\u00e1ceres, #LivingLaVidaRelax \n#VolverALoQueAmas \ud83c\udf0d\ud83e\udd70 https://t.co/J9D166iykQ",
+        "truncated": false,
+        "display_text_range": [
+            0,
+            272
+        ],
+        "entities": {
+            "hashtags": [
+                {
+                    "text": "barranco",
+                    "indices": [
+                        54,
+                        63
+                    ]
+                },
+                {
+                    "text": "AlAguaCaceres",
+                    "indices": [
+                        79,
+                        93
+                    ]
+                },
+                {
+                    "text": "LaVera",
+                    "indices": [
+                        106,
+                        113
+                    ]
+                },
+                {
+                    "text": "LivingLaVidaRelax",
+                    "indices": [
+                        232,
+                        250
+                    ]
+                },
+                {
+                    "text": "VolverALoQueAmas",
+                    "indices": [
+                        252,
+                        269
+                    ]
+                }
+            ],
+            "symbols": [],
+            "user_mentions": [],
+            "urls": [],
+            "media": [
+                {
+                    "id": 1409043960979509250,
+                    "id_str": "1409043960979509250",
+                    "indices": [
+                        273,
+                        296
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/E43uBF8X0AIX1ZW.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/E43uBF8X0AIX1ZW.jpg",
+                    "url": "https://t.co/J9D166iykQ",
+                    "display_url": "pic.twitter.com/J9D166iykQ",
+                    "expanded_url": "https://twitter.com/Turismo_DipCC/status/1409043965421277185/photo/1",
+                    "type": "photo",
+                    "sizes": {
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "large": {
+                            "w": 2048,
+                            "h": 1870,
+                            "resize": "fit"
+                        },
+                        "medium": {
+                            "w": 1200,
+                            "h": 1095,
+                            "resize": "fit"
+                        },
+                        "small": {
+                            "w": 680,
+                            "h": 621,
+                            "resize": "fit"
+                        }
+                    }
+                }
+            ]
+        },
+        "extended_entities": {
+            "media": [
+                {
+                    "id": 1409043960979509250,
+                    "id_str": "1409043960979509250",
+                    "indices": [
+                        273,
+                        296
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/E43uBF8X0AIX1ZW.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/E43uBF8X0AIX1ZW.jpg",
+                    "url": "https://t.co/J9D166iykQ",
+                    "display_url": "pic.twitter.com/J9D166iykQ",
+                    "expanded_url": "https://twitter.com/Turismo_DipCC/status/1409043965421277185/photo/1",
+                    "type": "photo",
+                    "sizes": {
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "large": {
+                            "w": 2048,
+                            "h": 1870,
+                            "resize": "fit"
+                        },
+                        "medium": {
+                            "w": 1200,
+                            "h": 1095,
+                            "resize": "fit"
+                        },
+                        "small": {
+                            "w": 680,
+                            "h": 621,
+                            "resize": "fit"
+                        }
+                    }
+                }
+            ]
+        },
+        "metadata": {
+            "iso_language_code": "es",
+            "result_type": "recent"
+        },
+        "source": "<a href=\"https://www.hootsuite.com\" rel=\"nofollow\">Hootsuite Inc.</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 610624820,
+            "id_str": "610624820",
+            "name": "Turismo_DipC\u00e1ceres",
+            "screen_name": "Turismo_DipCC",
+            "location": "Provincia de C\u00e1ceres",
+            "description": "Si no has estado en C\u00e1ceres, a\u00fan te queda mucho por ver.",
+            "url": "https://t.co/Di7zLBtI76",
+            "entities": {
+                "url": {
+                    "urls": [
+                        {
+                            "url": "https://t.co/Di7zLBtI76",
+                            "expanded_url": "http://www.turismocaceres.org",
+                            "display_url": "turismocaceres.org",
+                            "indices": [
+                                0,
+                                23
+                            ]
+                        }
+                    ]
+                },
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 11770,
+            "friends_count": 2930,
+            "listed_count": 243,
+            "created_at": "Sun Jun 17 08:20:54 +0000 2012",
+            "favourites_count": 30319,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": true,
+            "verified": false,
+            "statuses_count": 24542,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "000000",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1394965938311680004/s-UcQs5Y_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1394965938311680004/s-UcQs5Y_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/610624820/1621495269",
+            "profile_link_color": "C54137",
+            "profile_sidebar_border_color": "000000",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "has_extended_profile": false,
+            "default_profile": false,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none",
+            "withheld_in_countries": []
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 3,
+        "favorite_count": 4,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "es"
+    },
+    "is_quote_status": false,
+    "retweet_count": 3,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "es"
+}

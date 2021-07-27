@@ -1,0 +1,319 @@
+{
+    "created_at": "Wed Jul 14 18:05:12 +0000 2021",
+    "id": 1415371818018430983,
+    "id_str": "1415371818018430983",
+    "full_text": "RT @nhenriquezbt: Lean esta historia. hace algunos d\u00edas trataban a dos actrices como ladronas, pero ac\u00e1 est\u00e1 la verdad. Leonardo es un abus\u2026",
+    "truncated": false,
+    "display_text_range": [
+        0,
+        140
+    ],
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "nhenriquezbt",
+                "name": "Nadie G.",
+                "id": 2562449071,
+                "id_str": "2562449071",
+                "indices": [
+                    3,
+                    16
+                ]
+            }
+        ],
+        "urls": []
+    },
+    "metadata": {
+        "iso_language_code": "es",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 118740103,
+        "id_str": "118740103",
+        "name": "Pedro Bahamondes Chaud",
+        "screen_name": "pedrobahamondes",
+        "location": "Santiago, Chile",
+        "description": "periodista / nac\u00ed un 27/F / sigo y persigo.",
+        "url": "https://t.co/kMbCqmcxAI",
+        "entities": {
+            "url": {
+                "urls": [
+                    {
+                        "url": "https://t.co/kMbCqmcxAI",
+                        "expanded_url": "http://www.instagram.com/debiantt",
+                        "display_url": "instagram.com/debiantt",
+                        "indices": [
+                            0,
+                            23
+                        ]
+                    }
+                ]
+            },
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 1486,
+        "friends_count": 1349,
+        "listed_count": 6,
+        "created_at": "Mon Mar 01 16:21:25 +0000 2010",
+        "favourites_count": 9398,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 8921,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "ABD66B",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1382919685428117506/oYFbLXMw_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1382919685428117506/oYFbLXMw_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/118740103/1439865743",
+        "profile_link_color": "C92508",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "9DD12E",
+        "profile_text_color": "0A0A09",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+        "created_at": "Wed Jul 14 17:43:06 +0000 2021",
+        "id": 1415366255041777670,
+        "id_str": "1415366255041777670",
+        "full_text": "Lean esta historia. hace algunos d\u00edas trataban a dos actrices como ladronas, pero ac\u00e1 est\u00e1 la verdad. Leonardo es un abusador sexual, un ladr\u00f3n y una persona violenta. Le hizo un da\u00f1o tremendo a su madre B\u00e9lgica Castro. Ahora quiere plata y bienes. Es un aprovechador. https://t.co/svPzb8UjtD",
+        "truncated": false,
+        "display_text_range": [
+            0,
+            268
+        ],
+        "entities": {
+            "hashtags": [],
+            "symbols": [],
+            "user_mentions": [],
+            "urls": [
+                {
+                    "url": "https://t.co/svPzb8UjtD",
+                    "expanded_url": "https://twitter.com/medicenpili/status/1415301965005922304",
+                    "display_url": "twitter.com/medicenpili/st\u2026",
+                    "indices": [
+                        269,
+                        292
+                    ]
+                }
+            ]
+        },
+        "metadata": {
+            "iso_language_code": "es",
+            "result_type": "recent"
+        },
+        "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 2562449071,
+            "id_str": "2562449071",
+            "name": "Nadie G.",
+            "screen_name": "nhenriquezbt",
+            "location": "Santiago",
+            "description": "feminista y antifascista. Odio a lxs cuicxs. \n#JusticiaParaNicoleSaavedra. \n#ACAB",
+            "url": null,
+            "entities": {
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 16872,
+            "friends_count": 2595,
+            "listed_count": 22,
+            "created_at": "Thu Jun 12 01:35:38 +0000 2014",
+            "favourites_count": 72273,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": true,
+            "verified": false,
+            "statuses_count": 133512,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "000000",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1271562372893880321/YVTeQsrJ_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1271562372893880321/YVTeQsrJ_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/2562449071/1602523412",
+            "profile_link_color": "ABB8C2",
+            "profile_sidebar_border_color": "000000",
+            "profile_sidebar_fill_color": "000000",
+            "profile_text_color": "000000",
+            "profile_use_background_image": false,
+            "has_extended_profile": true,
+            "default_profile": false,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none",
+            "withheld_in_countries": []
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": true,
+        "quoted_status_id": 1415301965005922304,
+        "quoted_status_id_str": "1415301965005922304",
+        "quoted_status": {
+            "created_at": "Wed Jul 14 13:27:38 +0000 2021",
+            "id": 1415301965005922304,
+            "id_str": "1415301965005922304",
+            "full_text": "Qu\u00e9 pluma la de @pedrobahamondes, de esos periodistas que se dan el tiempo de investigaci\u00f3n y reflexi\u00f3n para levantar cr\u00f3nicas, perfiles y reportajes tan necesarios y urgentes para visibilizar y difundir el quehacer cultural. \n\nQu\u00e9 historia m\u00e1s tremenda.\nhttps://t.co/frWrVqxTKT",
+            "truncated": false,
+            "display_text_range": [
+                0,
+                278
+            ],
+            "entities": {
+                "hashtags": [],
+                "symbols": [],
+                "user_mentions": [
+                    {
+                        "screen_name": "pedrobahamondes",
+                        "name": "Pedro Bahamondes Chaud",
+                        "id": 118740103,
+                        "id_str": "118740103",
+                        "indices": [
+                            16,
+                            32
+                        ]
+                    }
+                ],
+                "urls": [
+                    {
+                        "url": "https://t.co/frWrVqxTKT",
+                        "expanded_url": "https://www.theclinic.cl/2021/07/13/el-drama-en-la-casa-de-al-lado-la-tormentosa-relacion-entre-belgica-castro-y-alejandro-sieveking-con-su-hijo-leonardo/",
+                        "display_url": "theclinic.cl/2021/07/13/el-\u2026",
+                        "indices": [
+                            255,
+                            278
+                        ]
+                    }
+                ]
+            },
+            "metadata": {
+                "iso_language_code": "es",
+                "result_type": "recent"
+            },
+            "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+            "in_reply_to_status_id": null,
+            "in_reply_to_status_id_str": null,
+            "in_reply_to_user_id": null,
+            "in_reply_to_user_id_str": null,
+            "in_reply_to_screen_name": null,
+            "user": {
+                "id": 65127072,
+                "id_str": "65127072",
+                "name": "paulina tranchino",
+                "screen_name": "medicenpili",
+                "location": "",
+                "description": "arte, cultura y todo lo dem\u00e1s \u2665\ufe0f\nDirectora de la Corporaci\u00f3n Cultural de \u00d1u\u00f1oa.\n(me dicen pili y se pronuncia tranquino)",
+                "url": null,
+                "entities": {
+                    "description": {
+                        "urls": []
+                    }
+                },
+                "protected": false,
+                "followers_count": 4195,
+                "friends_count": 1789,
+                "listed_count": 35,
+                "created_at": "Wed Aug 12 19:07:15 +0000 2009",
+                "favourites_count": 19031,
+                "utc_offset": null,
+                "time_zone": null,
+                "geo_enabled": true,
+                "verified": false,
+                "statuses_count": 33497,
+                "lang": null,
+                "contributors_enabled": false,
+                "is_translator": false,
+                "is_translation_enabled": false,
+                "profile_background_color": "FFFFFF",
+                "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+                "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+                "profile_background_tile": true,
+                "profile_image_url": "http://pbs.twimg.com/profile_images/1401252090312331272/NoT9cuvA_normal.jpg",
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/1401252090312331272/NoT9cuvA_normal.jpg",
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/65127072/1609378582",
+                "profile_link_color": "87326C",
+                "profile_sidebar_border_color": "141313",
+                "profile_sidebar_fill_color": "FF0F23",
+                "profile_text_color": "333333",
+                "profile_use_background_image": true,
+                "has_extended_profile": true,
+                "default_profile": false,
+                "default_profile_image": false,
+                "following": false,
+                "follow_request_sent": false,
+                "notifications": false,
+                "translator_type": "none",
+                "withheld_in_countries": []
+            },
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "contributors": null,
+            "is_quote_status": false,
+            "retweet_count": 9,
+            "favorite_count": 26,
+            "favorited": false,
+            "retweeted": false,
+            "possibly_sensitive": false,
+            "lang": "es"
+        },
+        "retweet_count": 8,
+        "favorite_count": 15,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "es"
+    },
+    "is_quote_status": true,
+    "quoted_status_id": 1415301965005922304,
+    "quoted_status_id_str": "1415301965005922304",
+    "retweet_count": 8,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "es"
+}

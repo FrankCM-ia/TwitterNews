@@ -1,0 +1,117 @@
+{
+    "created_at": "Wed Jul 14 17:46:06 +0000 2021",
+    "id": 1415367010595258369,
+    "id_str": "1415367010595258369",
+    "full_text": "@kevin_cdlm19 @Edu120008 @InvictosSomos Lo s\u00e9 pero eso no significa que la vayan a ganar. Aqu\u00ed lo importante es que no saben armar un proyecto s\u00f3lido donde le dan la confianza al DT, quitaron a Tuchel para traer a Pochettino y termin\u00f3 ganando la Champions el alem\u00e1n.",
+    "truncated": false,
+    "display_text_range": [
+        40,
+        266
+    ],
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "kevin_cdlm19",
+                "name": "Kevin Alexander Leon",
+                "id": 138631005,
+                "id_str": "138631005",
+                "indices": [
+                    0,
+                    13
+                ]
+            },
+            {
+                "screen_name": "Edu120008",
+                "name": "Alex",
+                "id": 1384381229512859649,
+                "id_str": "1384381229512859649",
+                "indices": [
+                    14,
+                    24
+                ]
+            },
+            {
+                "screen_name": "InvictosSomos",
+                "name": "Invictos",
+                "id": 4488217998,
+                "id_str": "4488217998",
+                "indices": [
+                    25,
+                    39
+                ]
+            }
+        ],
+        "urls": []
+    },
+    "metadata": {
+        "iso_language_code": "es",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "in_reply_to_status_id": 1415366348323139590,
+    "in_reply_to_status_id_str": "1415366348323139590",
+    "in_reply_to_user_id": 138631005,
+    "in_reply_to_user_id_str": "138631005",
+    "in_reply_to_screen_name": "kevin_cdlm19",
+    "user": {
+        "id": 1234391807691124737,
+        "id_str": "1234391807691124737",
+        "name": "Camp Blaugrana",
+        "screen_name": "campblaugrana10",
+        "location": "",
+        "description": "|Cruyff, La Mas\u00eda| \n\n\u00bfSientes amor por el bar\u00e7a? Entonces no dudes en seguirnos. Relatamos los juegos del bar\u00e7a, damos nuestra opini\u00f3n y mucho m\u00e1s!",
+        "url": null,
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 35,
+        "friends_count": 98,
+        "listed_count": 0,
+        "created_at": "Mon Mar 02 08:15:25 +0000 2020",
+        "favourites_count": 10140,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 916,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": null,
+        "profile_background_image_url_https": null,
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1336505923024515072/dg_BPesr_normal.png",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1336505923024515072/dg_BPesr_normal.png",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1234391807691124737/1607466065",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 1,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "es"
+}

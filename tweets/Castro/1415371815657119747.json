@@ -1,0 +1,183 @@
+{
+    "created_at": "Wed Jul 14 18:05:11 +0000 2021",
+    "id": 1415371815657119747,
+    "id_str": "1415371815657119747",
+    "full_text": "RT @JC_C_A: Pablo Casado reprocha a Pedro S\u00e1nchez que evite calificar a Cuba de Dictadura cuando Manuel Fraga llamaba hermano a Fidel Castr\u2026",
+    "truncated": false,
+    "display_text_range": [
+        0,
+        140
+    ],
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "JC_C_A",
+                "name": "Juan Carlos Cruz",
+                "id": 931273659238572032,
+                "id_str": "931273659238572032",
+                "indices": [
+                    3,
+                    10
+                ]
+            }
+        ],
+        "urls": []
+    },
+    "metadata": {
+        "iso_language_code": "es",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 637145064,
+        "id_str": "637145064",
+        "name": "Alfonso C\u00e1rdenas",
+        "screen_name": "alfcarsa",
+        "location": "Jerez de la Frontera",
+        "description": "De Jerez de la Frontera, de UGT jubilado y en contra de las injusticias y las desigualdades",
+        "url": null,
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 630,
+        "friends_count": 793,
+        "listed_count": 20,
+        "created_at": "Mon Jul 16 15:44:32 +0000 2012",
+        "favourites_count": 3352,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 59561,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/625004246413541376/GyQ7_ylD_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/625004246413541376/GyQ7_ylD_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/637145064/1395169308",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": true,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+        "created_at": "Wed Jul 14 16:04:26 +0000 2021",
+        "id": 1415341425085063171,
+        "id_str": "1415341425085063171",
+        "full_text": "Pablo Casado reprocha a Pedro S\u00e1nchez que evite calificar a Cuba de Dictadura cuando Manuel Fraga llamaba hermano a Fidel Castro y Jos\u00e9 Mar\u00eda Aznar R\u00e9gimen amigo al Gobierno de La Habana.",
+        "truncated": false,
+        "display_text_range": [
+            0,
+            187
+        ],
+        "entities": {
+            "hashtags": [],
+            "symbols": [],
+            "user_mentions": [],
+            "urls": []
+        },
+        "metadata": {
+            "iso_language_code": "es",
+            "result_type": "recent"
+        },
+        "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 931273659238572032,
+            "id_str": "931273659238572032",
+            "name": "Juan Carlos Cruz",
+            "screen_name": "JC_C_A",
+            "location": "Margen izquierda del Nervi\u00f3n.",
+            "description": "",
+            "url": null,
+            "entities": {
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 15063,
+            "friends_count": 508,
+            "listed_count": 21,
+            "created_at": "Thu Nov 16 21:31:57 +0000 2017",
+            "favourites_count": 2992,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": true,
+            "verified": false,
+            "statuses_count": 759,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "F5F8FA",
+            "profile_background_image_url": null,
+            "profile_background_image_url_https": null,
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1411032937215242241/E92WzaSG_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1411032937215242241/E92WzaSG_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/931273659238572032/1626269312",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "has_extended_profile": false,
+            "default_profile": true,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none",
+            "withheld_in_countries": []
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 115,
+        "favorite_count": 295,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "es"
+    },
+    "is_quote_status": false,
+    "retweet_count": 115,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "es"
+}

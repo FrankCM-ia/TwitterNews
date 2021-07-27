@@ -1,0 +1,96 @@
+{
+    "created_at": "Fri Jul 16 02:33:25 +0000 2021",
+    "id": 1415862101973913612,
+    "id_str": "1415862101973913612",
+    "full_text": "@DanielCordovaC Qui\u00e9n con tilde. Barranco con may\u00fascula. Lima con may\u00fascula. Con tu p\u00e9sima ortograf\u00eda criticas a Castillo.",
+    "truncated": false,
+    "display_text_range": [
+        16,
+        122
+    ],
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "DanielCordovaC",
+                "name": "Daniel Cordova Cayo",
+                "id": 33725500,
+                "id_str": "33725500",
+                "indices": [
+                    0,
+                    15
+                ]
+            }
+        ],
+        "urls": []
+    },
+    "metadata": {
+        "iso_language_code": "es",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "in_reply_to_status_id": 1415087291534614533,
+    "in_reply_to_status_id_str": "1415087291534614533",
+    "in_reply_to_user_id": 33725500,
+    "in_reply_to_user_id_str": "33725500",
+    "in_reply_to_screen_name": "DanielCordovaC",
+    "user": {
+        "id": 1253842779131858945,
+        "id_str": "1253842779131858945",
+        "name": "Rical",
+        "screen_name": "Rical34072469",
+        "location": "",
+        "description": "",
+        "url": null,
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 14,
+        "friends_count": 19,
+        "listed_count": 0,
+        "created_at": "Sat Apr 25 00:28:50 +0000 2020",
+        "favourites_count": 1196,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 2320,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": null,
+        "profile_background_image_url_https": null,
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1253843681704062984/AiWnMbqn_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1253843681704062984/AiWnMbqn_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "es"
+}

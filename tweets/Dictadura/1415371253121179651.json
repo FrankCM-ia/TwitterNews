@@ -1,0 +1,258 @@
+{
+    "created_at": "Wed Jul 14 18:02:57 +0000 2021",
+    "id": 1415371253121179651,
+    "id_str": "1415371253121179651",
+    "full_text": "RT @dazahares7: @USEmbCuba @ilianahcuba En cuba no hay un gobierno (es lo primero q tienen q tener claro) es una dictadura y por supuesto q\u2026",
+    "truncated": false,
+    "display_text_range": [
+        0,
+        140
+    ],
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "dazahares7",
+                "name": "dayana azahares",
+                "id": 902858154643423233,
+                "id_str": "902858154643423233",
+                "indices": [
+                    3,
+                    14
+                ]
+            },
+            {
+                "screen_name": "USEmbCuba",
+                "name": "Embajada de los Estados Unidos en Cuba",
+                "id": 133769083,
+                "id_str": "133769083",
+                "indices": [
+                    16,
+                    26
+                ]
+            },
+            {
+                "screen_name": "ilianahcuba",
+                "name": "Iliana Hern\u00e1ndez",
+                "id": 976809320,
+                "id_str": "976809320",
+                "indices": [
+                    27,
+                    39
+                ]
+            }
+        ],
+        "urls": []
+    },
+    "metadata": {
+        "iso_language_code": "es",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 514276012,
+        "id_str": "514276012",
+        "name": "carlillo",
+        "screen_name": "8888Perez",
+        "location": "",
+        "description": "",
+        "url": null,
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 2551,
+        "friends_count": 4640,
+        "listed_count": 0,
+        "created_at": "Sun Mar 04 12:15:58 +0000 2012",
+        "favourites_count": 14618,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 10222,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+        "profile_image_url_https": "https://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": true,
+        "default_profile_image": true,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+        "created_at": "Wed Jul 14 00:40:41 +0000 2021",
+        "id": 1415108956469530628,
+        "id_str": "1415108956469530628",
+        "full_text": "@USEmbCuba @ilianahcuba En cuba no hay un gobierno (es lo primero q tienen q tener claro) es una dictadura y por supuesto q no van a escuchar al pueblo, Asi es el comunismo. No tiren maa comentarios blandos\n#SOSCuba \n#IntervencionHumanitariaParaCuba @mbachelet pronunciate\n@ONUHumanRights",
+        "truncated": false,
+        "display_text_range": [
+            24,
+            288
+        ],
+        "entities": {
+            "hashtags": [
+                {
+                    "text": "SOSCuba",
+                    "indices": [
+                        207,
+                        215
+                    ]
+                },
+                {
+                    "text": "IntervencionHumanitariaParaCuba",
+                    "indices": [
+                        217,
+                        249
+                    ]
+                }
+            ],
+            "symbols": [],
+            "user_mentions": [
+                {
+                    "screen_name": "USEmbCuba",
+                    "name": "Embajada de los Estados Unidos en Cuba",
+                    "id": 133769083,
+                    "id_str": "133769083",
+                    "indices": [
+                        0,
+                        10
+                    ]
+                },
+                {
+                    "screen_name": "ilianahcuba",
+                    "name": "Iliana Hern\u00e1ndez",
+                    "id": 976809320,
+                    "id_str": "976809320",
+                    "indices": [
+                        11,
+                        23
+                    ]
+                },
+                {
+                    "screen_name": "mbachelet",
+                    "name": "Michelle Bachelet",
+                    "id": 4119914644,
+                    "id_str": "4119914644",
+                    "indices": [
+                        250,
+                        260
+                    ]
+                },
+                {
+                    "screen_name": "ONUHumanRights",
+                    "name": "ONU Derechos Humanos Colombia",
+                    "id": 95326483,
+                    "id_str": "95326483",
+                    "indices": [
+                        273,
+                        288
+                    ]
+                }
+            ],
+            "urls": []
+        },
+        "metadata": {
+            "iso_language_code": "es",
+            "result_type": "recent"
+        },
+        "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+        "in_reply_to_status_id": 1415101421368840192,
+        "in_reply_to_status_id_str": "1415101421368840192",
+        "in_reply_to_user_id": 133769083,
+        "in_reply_to_user_id_str": "133769083",
+        "in_reply_to_screen_name": "USEmbCuba",
+        "user": {
+            "id": 902858154643423233,
+            "id_str": "902858154643423233",
+            "name": "dayana azahares",
+            "screen_name": "dazahares7",
+            "location": "Hialeah, FL",
+            "description": "",
+            "url": null,
+            "entities": {
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 13,
+            "friends_count": 53,
+            "listed_count": 0,
+            "created_at": "Wed Aug 30 11:38:53 +0000 2017",
+            "favourites_count": 182,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": false,
+            "verified": false,
+            "statuses_count": 138,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "F5F8FA",
+            "profile_background_image_url": null,
+            "profile_background_image_url_https": null,
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1414799900710248451/fNh_HCHW_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1414799900710248451/fNh_HCHW_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/902858154643423233/1626149528",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "has_extended_profile": true,
+            "default_profile": true,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none",
+            "withheld_in_countries": []
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 29,
+        "favorite_count": 62,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "es"
+    },
+    "is_quote_status": false,
+    "retweet_count": 29,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "es"
+}

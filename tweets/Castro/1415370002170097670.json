@@ -1,0 +1,237 @@
+{
+    "created_at": "Wed Jul 14 17:57:59 +0000 2021",
+    "id": 1415370002170097670,
+    "id_str": "1415370002170097670",
+    "full_text": "RT @gaceta_es: #EEUU | Trump muestra su total apoyo al pueblo cubano, exige a Biden que se enfrente al r\u00e9gimen castrista y recuerda la amis\u2026",
+    "truncated": false,
+    "display_text_range": [
+        0,
+        140
+    ],
+    "entities": {
+        "hashtags": [
+            {
+                "text": "EEUU",
+                "indices": [
+                    15,
+                    20
+                ]
+            }
+        ],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "gaceta_es",
+                "name": "La Gaceta de la Iberosfera",
+                "id": 17214331,
+                "id_str": "17214331",
+                "indices": [
+                    3,
+                    13
+                ]
+            }
+        ],
+        "urls": []
+    },
+    "metadata": {
+        "iso_language_code": "es",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 1548725300,
+        "id_str": "1548725300",
+        "name": "gilberto zapata",
+        "screen_name": "lagrutadehierro",
+        "location": "locombia",
+        "description": "HOY MAS URIBISTA 1100%",
+        "url": null,
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 2341,
+        "friends_count": 1711,
+        "listed_count": 9,
+        "created_at": "Wed Jun 26 17:38:43 +0000 2013",
+        "favourites_count": 51773,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 203590,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1332301385434624000/TNfxPQiq_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1332301385434624000/TNfxPQiq_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1548725300/1457016400",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+        "created_at": "Wed Jul 14 09:51:10 +0000 2021",
+        "id": 1415247488928391170,
+        "id_str": "1415247488928391170",
+        "full_text": "#EEUU | Trump muestra su total apoyo al pueblo cubano, exige a Biden que se enfrente al r\u00e9gimen castrista y recuerda la amistad entre Obama y Ra\u00fal Castro #SOSCuba #FreeCuba https://t.co/nEPG3kQHWo",
+        "truncated": false,
+        "display_text_range": [
+            0,
+            196
+        ],
+        "entities": {
+            "hashtags": [
+                {
+                    "text": "EEUU",
+                    "indices": [
+                        0,
+                        5
+                    ]
+                },
+                {
+                    "text": "SOSCuba",
+                    "indices": [
+                        154,
+                        162
+                    ]
+                },
+                {
+                    "text": "FreeCuba",
+                    "indices": [
+                        163,
+                        172
+                    ]
+                }
+            ],
+            "symbols": [],
+            "user_mentions": [],
+            "urls": [
+                {
+                    "url": "https://t.co/nEPG3kQHWo",
+                    "expanded_url": "https://gaceta.es/actualidad/trump-muestra-su-total-apoyo-al-pueblo-cubano-y-recuerda-la-amistad-entre-obama-y-raul-castro-20210714-1148/",
+                    "display_url": "gaceta.es/actualidad/tru\u2026",
+                    "indices": [
+                        173,
+                        196
+                    ]
+                }
+            ]
+        },
+        "metadata": {
+            "iso_language_code": "es",
+            "result_type": "recent"
+        },
+        "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 17214331,
+            "id_str": "17214331",
+            "name": "La Gaceta de la Iberosfera",
+            "screen_name": "gaceta_es",
+            "location": "Espa\u00f1a",
+            "description": "Comienza a disentir. Bienvenidos a La Gaceta de la Iberosfera. \n\nUna iniciativa de @FDisenso.",
+            "url": "https://t.co/s3pwlvOnYg",
+            "entities": {
+                "url": {
+                    "urls": [
+                        {
+                            "url": "https://t.co/s3pwlvOnYg",
+                            "expanded_url": "https://gaceta.es",
+                            "display_url": "gaceta.es",
+                            "indices": [
+                                0,
+                                23
+                            ]
+                        }
+                    ]
+                },
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 216483,
+            "friends_count": 141,
+            "listed_count": 2137,
+            "created_at": "Thu Nov 06 16:52:18 +0000 2008",
+            "favourites_count": 110,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": false,
+            "verified": true,
+            "statuses_count": 50204,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "C0DEED",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1314181271174742016/7XuYyOjy_normal.png",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1314181271174742016/7XuYyOjy_normal.png",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/17214331/1602160207",
+            "profile_link_color": "0084B4",
+            "profile_sidebar_border_color": "FFFFFF",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "has_extended_profile": false,
+            "default_profile": false,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none",
+            "withheld_in_countries": []
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 459,
+        "favorite_count": 763,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "es"
+    },
+    "is_quote_status": false,
+    "retweet_count": 459,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "es"
+}

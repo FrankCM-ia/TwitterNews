@@ -1,0 +1,522 @@
+{
+    "created_at": "Wed Jul 14 17:58:29 +0000 2021",
+    "id": 1415370127156072454,
+    "id_str": "1415370127156072454",
+    "full_text": "RT @joseramirezdel2: Gracias a @_Marta_Castro y a su equipo, a @Macarena_Olona, @Ortega_Smith y a todos los que manten\u00e9is alto el pabell\u00f3n\u2026",
+    "truncated": false,
+    "display_text_range": [
+        0,
+        139
+    ],
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "joseramirezdel2",
+                "name": "Jos\u00e9 Ram\u00edrez del R\u00edo",
+                "id": 1113813322170863616,
+                "id_str": "1113813322170863616",
+                "indices": [
+                    3,
+                    19
+                ]
+            },
+            {
+                "screen_name": "_Marta_Castro",
+                "name": "Marta Castro",
+                "id": 1222946678170365952,
+                "id_str": "1222946678170365952",
+                "indices": [
+                    31,
+                    45
+                ]
+            },
+            {
+                "screen_name": "Macarena_Olona",
+                "name": "Macarena Olona",
+                "id": 1109573601995440129,
+                "id_str": "1109573601995440129",
+                "indices": [
+                    63,
+                    78
+                ]
+            },
+            {
+                "screen_name": "Ortega_Smith",
+                "name": "Javier Ortega Smith",
+                "id": 1118941682,
+                "id_str": "1118941682",
+                "indices": [
+                    80,
+                    93
+                ]
+            }
+        ],
+        "urls": []
+    },
+    "metadata": {
+        "iso_language_code": "es",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 223045858,
+        "id_str": "223045858",
+        "name": "David Beisbal",
+        "screen_name": "David_Beisbal",
+        "location": "Tenerife",
+        "description": "",
+        "url": null,
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 495,
+        "friends_count": 825,
+        "listed_count": 0,
+        "created_at": "Sun Dec 05 06:32:37 +0000 2010",
+        "favourites_count": 62877,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 36026,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1182882464/146423226_30445e9f63_o_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1182882464/146423226_30445e9f63_o_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+        "created_at": "Wed Jul 14 13:41:18 +0000 2021",
+        "id": 1415305407103479821,
+        "id_str": "1415305407103479821",
+        "full_text": "Gracias a @_Marta_Castro y a su equipo, a @Macarena_Olona, @Ortega_Smith y a todos los que manten\u00e9is alto el pabell\u00f3n de la libertad en Espa\u00f1a. \nGracias a @Santi_ABASCAL, a @Igarrigavaz y a @ivanedlm por la moci\u00f3n de censura. \nCada d\u00eda m\u00e1s orgulloso de pertenecer a @vox_es https://t.co/JbhUkqCo37",
+        "truncated": false,
+        "display_text_range": [
+            0,
+            273
+        ],
+        "entities": {
+            "hashtags": [],
+            "symbols": [],
+            "user_mentions": [
+                {
+                    "screen_name": "_Marta_Castro",
+                    "name": "Marta Castro",
+                    "id": 1222946678170365952,
+                    "id_str": "1222946678170365952",
+                    "indices": [
+                        10,
+                        24
+                    ]
+                },
+                {
+                    "screen_name": "Macarena_Olona",
+                    "name": "Macarena Olona",
+                    "id": 1109573601995440129,
+                    "id_str": "1109573601995440129",
+                    "indices": [
+                        42,
+                        57
+                    ]
+                },
+                {
+                    "screen_name": "Ortega_Smith",
+                    "name": "Javier Ortega Smith",
+                    "id": 1118941682,
+                    "id_str": "1118941682",
+                    "indices": [
+                        59,
+                        72
+                    ]
+                },
+                {
+                    "screen_name": "Santi_ABASCAL",
+                    "name": "Santiago Abascal \ud83c\uddea\ud83c\uddf8",
+                    "id": 260788584,
+                    "id_str": "260788584",
+                    "indices": [
+                        155,
+                        169
+                    ]
+                },
+                {
+                    "screen_name": "Igarrigavaz",
+                    "name": "Ignacio Garriga",
+                    "id": 2876878144,
+                    "id_str": "2876878144",
+                    "indices": [
+                        173,
+                        185
+                    ]
+                },
+                {
+                    "screen_name": "ivanedlm",
+                    "name": "Iv\u00e1n Espinosa de los Monteros",
+                    "id": 48976307,
+                    "id_str": "48976307",
+                    "indices": [
+                        190,
+                        199
+                    ]
+                },
+                {
+                    "screen_name": "vox_es",
+                    "name": "VOX \ud83c\uddea\ud83c\uddf8",
+                    "id": 2201623465,
+                    "id_str": "2201623465",
+                    "indices": [
+                        266,
+                        273
+                    ]
+                }
+            ],
+            "urls": [
+                {
+                    "url": "https://t.co/JbhUkqCo37",
+                    "expanded_url": "https://twitter.com/eldiarioes/status/1415288243499814923",
+                    "display_url": "twitter.com/eldiarioes/sta\u2026",
+                    "indices": [
+                        274,
+                        297
+                    ]
+                }
+            ]
+        },
+        "metadata": {
+            "iso_language_code": "es",
+            "result_type": "recent"
+        },
+        "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 1113813322170863616,
+            "id_str": "1113813322170863616",
+            "name": "Jos\u00e9 Ram\u00edrez del R\u00edo",
+            "screen_name": "joseramirezdel2",
+            "location": "C\u00f3rdoba, Espa\u00f1a",
+            "description": "Diputado del GP VOX en el Congreso por C\u00f3rdoba \ud83c\uddea\ud83c\uddf8\ud83c\uddea\ud83c\uddf8\ud83c\uddea\ud83c\uddf8\ud83d\udc9a\ud83d\udc9a\ud83d\udc9a",
+            "url": "https://t.co/iLCPTJkDO8",
+            "entities": {
+                "url": {
+                    "urls": [
+                        {
+                            "url": "https://t.co/iLCPTJkDO8",
+                            "expanded_url": "http://www.voxespana.es",
+                            "display_url": "voxespana.es",
+                            "indices": [
+                                0,
+                                23
+                            ]
+                        }
+                    ]
+                },
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 16621,
+            "friends_count": 2959,
+            "listed_count": 113,
+            "created_at": "Thu Apr 04 14:39:24 +0000 2019",
+            "favourites_count": 38006,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": true,
+            "verified": true,
+            "statuses_count": 33121,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "F5F8FA",
+            "profile_background_image_url": null,
+            "profile_background_image_url_https": null,
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1114586268527136770/PH47gDGc_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1114586268527136770/PH47gDGc_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/1113813322170863616/1586273914",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "has_extended_profile": false,
+            "default_profile": true,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none",
+            "withheld_in_countries": []
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": true,
+        "quoted_status_id": 1415288243499814923,
+        "quoted_status_id_str": "1415288243499814923",
+        "quoted_status": {
+            "created_at": "Wed Jul 14 12:33:06 +0000 2021",
+            "id": 1415288243499814923,
+            "id_str": "1415288243499814923",
+            "full_text": "\u00daLTIMA HORA | El Tribunal Constitucional tumba el estado de alarma a petici\u00f3n de Vox\nhttps://t.co/8gBGmUhNHS https://t.co/v9RxP5gZJu",
+            "truncated": false,
+            "display_text_range": [
+                0,
+                108
+            ],
+            "entities": {
+                "hashtags": [],
+                "symbols": [],
+                "user_mentions": [],
+                "urls": [
+                    {
+                        "url": "https://t.co/8gBGmUhNHS",
+                        "expanded_url": "https://www.eldiario.es/politica/tribunal-constitucional-tumba-alarma-peticion-vox_1_8128384.html",
+                        "display_url": "eldiario.es/politica/tribu\u2026",
+                        "indices": [
+                            85,
+                            108
+                        ]
+                    }
+                ],
+                "media": [
+                    {
+                        "id": 1415287939458871304,
+                        "id_str": "1415287939458871304",
+                        "indices": [
+                            109,
+                            132
+                        ],
+                        "media_url": "http://pbs.twimg.com/tweet_video_thumb/E6Qc4eZXMAgpU1W.jpg",
+                        "media_url_https": "https://pbs.twimg.com/tweet_video_thumb/E6Qc4eZXMAgpU1W.jpg",
+                        "url": "https://t.co/v9RxP5gZJu",
+                        "display_url": "pic.twitter.com/v9RxP5gZJu",
+                        "expanded_url": "https://twitter.com/eldiarioes/status/1415288243499814923/photo/1",
+                        "type": "photo",
+                        "sizes": {
+                            "medium": {
+                                "w": 566,
+                                "h": 318,
+                                "resize": "fit"
+                            },
+                            "thumb": {
+                                "w": 150,
+                                "h": 150,
+                                "resize": "crop"
+                            },
+                            "large": {
+                                "w": 566,
+                                "h": 318,
+                                "resize": "fit"
+                            },
+                            "small": {
+                                "w": 566,
+                                "h": 318,
+                                "resize": "fit"
+                            }
+                        }
+                    }
+                ]
+            },
+            "extended_entities": {
+                "media": [
+                    {
+                        "id": 1415287939458871304,
+                        "id_str": "1415287939458871304",
+                        "indices": [
+                            109,
+                            132
+                        ],
+                        "media_url": "http://pbs.twimg.com/tweet_video_thumb/E6Qc4eZXMAgpU1W.jpg",
+                        "media_url_https": "https://pbs.twimg.com/tweet_video_thumb/E6Qc4eZXMAgpU1W.jpg",
+                        "url": "https://t.co/v9RxP5gZJu",
+                        "display_url": "pic.twitter.com/v9RxP5gZJu",
+                        "expanded_url": "https://twitter.com/eldiarioes/status/1415288243499814923/photo/1",
+                        "type": "animated_gif",
+                        "sizes": {
+                            "medium": {
+                                "w": 566,
+                                "h": 318,
+                                "resize": "fit"
+                            },
+                            "thumb": {
+                                "w": 150,
+                                "h": 150,
+                                "resize": "crop"
+                            },
+                            "large": {
+                                "w": 566,
+                                "h": 318,
+                                "resize": "fit"
+                            },
+                            "small": {
+                                "w": 566,
+                                "h": 318,
+                                "resize": "fit"
+                            }
+                        },
+                        "video_info": {
+                            "aspect_ratio": [
+                                283,
+                                159
+                            ],
+                            "variants": [
+                                {
+                                    "bitrate": 0,
+                                    "content_type": "video/mp4",
+                                    "url": "https://video.twimg.com/tweet_video/E6Qc4eZXMAgpU1W.mp4"
+                                }
+                            ]
+                        }
+                    }
+                ]
+            },
+            "metadata": {
+                "iso_language_code": "es",
+                "result_type": "recent"
+            },
+            "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+            "in_reply_to_status_id": null,
+            "in_reply_to_status_id_str": null,
+            "in_reply_to_user_id": null,
+            "in_reply_to_user_id_str": null,
+            "in_reply_to_screen_name": null,
+            "user": {
+                "id": 535707261,
+                "id_str": "535707261",
+                "name": "elDiario.es",
+                "screen_name": "eldiarioes",
+                "location": "",
+                "description": "Periodismo a pesar de todo. Hazte socio, hazte socia https://t.co/PBfvIbuKpN",
+                "url": "http://t.co/9SEeSxM6L5",
+                "entities": {
+                    "url": {
+                        "urls": [
+                            {
+                                "url": "http://t.co/9SEeSxM6L5",
+                                "expanded_url": "http://www.eldiario.es",
+                                "display_url": "eldiario.es",
+                                "indices": [
+                                    0,
+                                    22
+                                ]
+                            }
+                        ]
+                    },
+                    "description": {
+                        "urls": [
+                            {
+                                "url": "https://t.co/PBfvIbuKpN",
+                                "expanded_url": "https://usuarios.eldiario.es/#!/hazte_socio",
+                                "display_url": "usuarios.eldiario.es/#!/hazte_socio",
+                                "indices": [
+                                    53,
+                                    76
+                                ]
+                            }
+                        ]
+                    }
+                },
+                "protected": false,
+                "followers_count": 1271913,
+                "friends_count": 478,
+                "listed_count": 12845,
+                "created_at": "Sat Mar 24 19:08:26 +0000 2012",
+                "favourites_count": 201,
+                "utc_offset": null,
+                "time_zone": null,
+                "geo_enabled": false,
+                "verified": true,
+                "statuses_count": 312496,
+                "lang": null,
+                "contributors_enabled": false,
+                "is_translator": false,
+                "is_translation_enabled": true,
+                "profile_background_color": "196CAE",
+                "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+                "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+                "profile_background_tile": false,
+                "profile_image_url": "http://pbs.twimg.com/profile_images/1412694670023565313/estqWllW_normal.jpg",
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/1412694670023565313/estqWllW_normal.jpg",
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/535707261/1625647632",
+                "profile_link_color": "0084B4",
+                "profile_sidebar_border_color": "FFFFFF",
+                "profile_sidebar_fill_color": "DDEEF6",
+                "profile_text_color": "333333",
+                "profile_use_background_image": false,
+                "has_extended_profile": false,
+                "default_profile": false,
+                "default_profile_image": false,
+                "following": false,
+                "follow_request_sent": false,
+                "notifications": false,
+                "translator_type": "none",
+                "withheld_in_countries": []
+            },
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "contributors": null,
+            "is_quote_status": false,
+            "retweet_count": 446,
+            "favorite_count": 937,
+            "favorited": false,
+            "retweeted": false,
+            "possibly_sensitive": false,
+            "lang": "es"
+        },
+        "retweet_count": 213,
+        "favorite_count": 557,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "es"
+    },
+    "is_quote_status": true,
+    "quoted_status_id": 1415288243499814923,
+    "quoted_status_id_str": "1415288243499814923",
+    "retweet_count": 213,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "es"
+}

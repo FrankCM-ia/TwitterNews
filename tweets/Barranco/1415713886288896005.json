@@ -1,0 +1,137 @@
+{
+    "created_at": "Thu Jul 15 16:44:27 +0000 2021",
+    "id": 1415713886288896005,
+    "id_str": "1415713886288896005",
+    "full_text": "@AlertaRacismo @chicafroperuana @ashantiperu @Defensoria_Peru @AMosqueraRosado@IndecopiOficial@tailoyoficial:  Exigimos a  tiendas TaiLoy las disculpas p\u00fablicas X la discriminaci\u00f3n que sufri\u00f3 Ani Medrano al ser detenida en https://t.co/MHOChPo9At DISCULPAS P\u00daBLICAS,NO HAY CAMARAS",
+    "truncated": false,
+    "display_text_range": [
+        0,
+        280
+    ],
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "AlertaRacismo",
+                "name": "Alerta Racismo",
+                "id": 1209279895,
+                "id_str": "1209279895",
+                "indices": [
+                    0,
+                    14
+                ]
+            },
+            {
+                "screen_name": "chicafroperuana",
+                "name": "Chica.Afroperuana",
+                "id": 1007143043911299072,
+                "id_str": "1007143043911299072",
+                "indices": [
+                    15,
+                    31
+                ]
+            },
+            {
+                "screen_name": "ashantiperu",
+                "name": "Ashanti Per\u00fa - Afrodescendientes",
+                "id": 501223163,
+                "id_str": "501223163",
+                "indices": [
+                    32,
+                    44
+                ]
+            },
+            {
+                "screen_name": "Defensoria_Peru",
+                "name": "Defensor\u00eda Per\u00fa",
+                "id": 107428718,
+                "id_str": "107428718",
+                "indices": [
+                    45,
+                    61
+                ]
+            }
+        ],
+        "urls": [
+            {
+                "url": "https://t.co/MHOChPo9At",
+                "expanded_url": "http://Barranco.www.change.org/NoMasDiscriminacionTAYLOY",
+                "display_url": "Barranco.www.change.org/NoMasDiscrimin\u2026",
+                "indices": [
+                    223,
+                    246
+                ]
+            }
+        ]
+    },
+    "metadata": {
+        "iso_language_code": "es",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": 1209279895,
+    "in_reply_to_user_id_str": "1209279895",
+    "in_reply_to_screen_name": "AlertaRacismo",
+    "user": {
+        "id": 247745465,
+        "id_str": "247745465",
+        "name": "mari",
+        "screen_name": "mjiy95",
+        "location": "",
+        "description": "",
+        "url": null,
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 13,
+        "friends_count": 13,
+        "listed_count": 0,
+        "created_at": "Sat Feb 05 13:37:22 +0000 2011",
+        "favourites_count": 2,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 4943,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+        "profile_image_url_https": "https://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": true,
+        "default_profile_image": true,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "es"
+}

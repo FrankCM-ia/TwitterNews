@@ -1,0 +1,183 @@
+{
+    "created_at": "Wed Jul 14 16:00:30 +0000 2021",
+    "id": 1415340436621864960,
+    "id_str": "1415340436621864960",
+    "full_text": "RT @veintimillapier: Ayuso iluminar\u00e1 la sede de la Puerta del Sol con la bandera de Cuba mientras duren las protestas.",
+    "truncated": false,
+    "display_text_range": [
+        0,
+        118
+    ],
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "veintimillapier",
+                "name": "Francisco Javier\ud83c\uddea\ud83c\udde6\ud83c\uddea\ud83c\udde6\ud83c\uddea\ud83c\udde6",
+                "id": 1120274781289558017,
+                "id_str": "1120274781289558017",
+                "indices": [
+                    3,
+                    19
+                ]
+            }
+        ],
+        "urls": []
+    },
+    "metadata": {
+        "iso_language_code": "es",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 1167078190772301824,
+        "id_str": "1167078190772301824",
+        "name": "Nela",
+        "screen_name": "Nela44636322",
+        "location": "mi cuenta en GETTR. Nela_Mm",
+        "description": "Conf\u00eda tu secreto al viento pero luego no le reproches que se lo cuente a los arboles..\nMil soles espl\u00e9ndidos....",
+        "url": null,
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 4301,
+        "friends_count": 4710,
+        "listed_count": 3,
+        "created_at": "Thu Aug 29 14:15:28 +0000 2019",
+        "favourites_count": 78654,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 115988,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": null,
+        "profile_background_image_url_https": null,
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1333029317354385415/8QpISmJW_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1333029317354385415/8QpISmJW_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1167078190772301824/1567088803",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": true,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+        "created_at": "Wed Jul 14 15:12:05 +0000 2021",
+        "id": 1415328251589836800,
+        "id_str": "1415328251589836800",
+        "full_text": "Ayuso iluminar\u00e1 la sede de la Puerta del Sol con la bandera de Cuba mientras duren las protestas.",
+        "truncated": false,
+        "display_text_range": [
+            0,
+            97
+        ],
+        "entities": {
+            "hashtags": [],
+            "symbols": [],
+            "user_mentions": [],
+            "urls": []
+        },
+        "metadata": {
+            "iso_language_code": "es",
+            "result_type": "recent"
+        },
+        "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 1120274781289558017,
+            "id_str": "1120274781289558017",
+            "name": "Francisco Javier\ud83c\uddea\ud83c\udde6\ud83c\uddea\ud83c\udde6\ud83c\uddea\ud83c\udde6",
+            "screen_name": "veintimillapier",
+            "location": "Comunidad Valenciana, Espa\u00f1a",
+            "description": "Abogado.\nAficionado a  la MTB\n\n\n\n#SiguemeYteSigo\n#S\u00e1nchezVeteYa",
+            "url": null,
+            "entities": {
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 18046,
+            "friends_count": 19530,
+            "listed_count": 12,
+            "created_at": "Mon Apr 22 10:34:56 +0000 2019",
+            "favourites_count": 165742,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": false,
+            "verified": false,
+            "statuses_count": 23578,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "F5F8FA",
+            "profile_background_image_url": null,
+            "profile_background_image_url_https": null,
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1259437671920918529/wzZr0N_c_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1259437671920918529/wzZr0N_c_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/1120274781289558017/1589220853",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "has_extended_profile": false,
+            "default_profile": true,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none",
+            "withheld_in_countries": []
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 59,
+        "favorite_count": 142,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "es"
+    },
+    "is_quote_status": false,
+    "retweet_count": 59,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "es"
+}

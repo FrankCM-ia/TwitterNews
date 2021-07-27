@@ -1,0 +1,227 @@
+{
+    "created_at": "Wed Jul 14 17:55:52 +0000 2021",
+    "id": 1415369468717404160,
+    "id_str": "1415369468717404160",
+    "full_text": "RT @Montesof: Ra\u00fal Castro se sit\u00faa al frente de la represi\u00f3n https://t.co/Hgh36cFf5u",
+    "truncated": false,
+    "display_text_range": [
+        0,
+        84
+    ],
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "Montesof",
+                "name": "Sof\u00eda Montenegro",
+                "id": 302315842,
+                "id_str": "302315842",
+                "indices": [
+                    3,
+                    12
+                ]
+            }
+        ],
+        "urls": [
+            {
+                "url": "https://t.co/Hgh36cFf5u",
+                "expanded_url": "https://www.elmundo.es/internacional/2021/07/13/60edd80721efa0324b8b464e.html",
+                "display_url": "elmundo.es/internacional/\u2026",
+                "indices": [
+                    61,
+                    84
+                ]
+            }
+        ]
+    },
+    "metadata": {
+        "iso_language_code": "es",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 1544147102,
+        "id_str": "1544147102",
+        "name": "Leanne Perry",
+        "screen_name": "LeayLuke",
+        "location": "",
+        "description": "Aqu\u00ed *intento*  no tuitear de pol\u00edtica. Es mi Tuiter de #ServicioAlaComunidad Ej: Retuiteo perritos buscando hogar",
+        "url": null,
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 74,
+        "friends_count": 397,
+        "listed_count": 0,
+        "created_at": "Mon Jun 24 21:21:18 +0000 2013",
+        "favourites_count": 39924,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 30418,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1271504084101521409/lu_brkBu_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1271504084101521409/lu_brkBu_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1544147102/1374273509",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+        "created_at": "Wed Jul 14 17:54:11 +0000 2021",
+        "id": 1415369047366160384,
+        "id_str": "1415369047366160384",
+        "full_text": "Ra\u00fal Castro se sit\u00faa al frente de la represi\u00f3n https://t.co/Hgh36cFf5u",
+        "truncated": false,
+        "display_text_range": [
+            0,
+            70
+        ],
+        "entities": {
+            "hashtags": [],
+            "symbols": [],
+            "user_mentions": [],
+            "urls": [
+                {
+                    "url": "https://t.co/Hgh36cFf5u",
+                    "expanded_url": "https://www.elmundo.es/internacional/2021/07/13/60edd80721efa0324b8b464e.html",
+                    "display_url": "elmundo.es/internacional/\u2026",
+                    "indices": [
+                        47,
+                        70
+                    ]
+                }
+            ]
+        },
+        "metadata": {
+            "iso_language_code": "es",
+            "result_type": "recent"
+        },
+        "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 302315842,
+            "id_str": "302315842",
+            "name": "Sof\u00eda Montenegro",
+            "screen_name": "Montesof",
+            "location": "Nicaragua",
+            "description": "Periodista en Nicaragua. http://t.co/y9udm9higV",
+            "url": "https://t.co/vqfxygPp8u",
+            "entities": {
+                "url": {
+                    "urls": [
+                        {
+                            "url": "https://t.co/vqfxygPp8u",
+                            "expanded_url": "https://www.facebook.com/sofisabelm",
+                            "display_url": "facebook.com/sofisabelm",
+                            "indices": [
+                                0,
+                                23
+                            ]
+                        }
+                    ]
+                },
+                "description": {
+                    "urls": [
+                        {
+                            "url": "http://t.co/y9udm9higV",
+                            "expanded_url": "http://Confidencial.com.ni",
+                            "display_url": "Confidencial.com.ni",
+                            "indices": [
+                                25,
+                                47
+                            ]
+                        }
+                    ]
+                }
+            },
+            "protected": false,
+            "followers_count": 19851,
+            "friends_count": 1644,
+            "listed_count": 110,
+            "created_at": "Sat May 21 00:05:17 +0000 2011",
+            "favourites_count": 13264,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": false,
+            "verified": false,
+            "statuses_count": 103189,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "C0DEED",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1338476681552678912/MBoLkefV_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1338476681552678912/MBoLkefV_normal.jpg",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "has_extended_profile": false,
+            "default_profile": true,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none",
+            "withheld_in_countries": []
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 4,
+        "favorite_count": 4,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "es"
+    },
+    "is_quote_status": false,
+    "retweet_count": 4,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "es"
+}

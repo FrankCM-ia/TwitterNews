@@ -1,0 +1,343 @@
+{
+    "created_at": "Wed Jul 14 16:00:11 +0000 2021",
+    "id": 1415340358884548613,
+    "id_str": "1415340358884548613",
+    "full_text": "RT @victoriabonetto: Para que te enteres @alferdez, esto pasa en Cuba. As\u00ed se lo llevan a El Funky. #SOSCuba #SOSCubaLibre https://t.co/dVX\u2026",
+    "truncated": false,
+    "display_text_range": [
+        0,
+        140
+    ],
+    "entities": {
+        "hashtags": [
+            {
+                "text": "SOSCuba",
+                "indices": [
+                    100,
+                    108
+                ]
+            },
+            {
+                "text": "SOSCubaLibre",
+                "indices": [
+                    109,
+                    122
+                ]
+            }
+        ],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "victoriabonetto",
+                "name": "Mar\u00eda Victoria Bonetto",
+                "id": 197621585,
+                "id_str": "197621585",
+                "indices": [
+                    3,
+                    19
+                ]
+            },
+            {
+                "screen_name": "alferdez",
+                "name": "Alberto Fern\u00e1ndez",
+                "id": 149991703,
+                "id_str": "149991703",
+                "indices": [
+                    41,
+                    50
+                ]
+            }
+        ],
+        "urls": []
+    },
+    "metadata": {
+        "iso_language_code": "es",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 211970361,
+        "id_str": "211970361",
+        "name": "Gustavo",
+        "screen_name": "guspiz",
+        "location": "Cuarta region ",
+        "description": "Patriota y facho",
+        "url": null,
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 1738,
+        "friends_count": 2381,
+        "listed_count": 0,
+        "created_at": "Thu Nov 04 19:49:01 +0000 2010",
+        "favourites_count": 79750,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 50313,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1400094550387998723/Jg6WEGND_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1400094550387998723/Jg6WEGND_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/211970361/1595176552",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": true,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+        "created_at": "Wed Jul 14 15:49:52 +0000 2021",
+        "id": 1415337762073550860,
+        "id_str": "1415337762073550860",
+        "full_text": "Para que te enteres @alferdez, esto pasa en Cuba. As\u00ed se lo llevan a El Funky. #SOSCuba #SOSCubaLibre https://t.co/dVXdvynPmJ",
+        "truncated": false,
+        "display_text_range": [
+            0,
+            101
+        ],
+        "entities": {
+            "hashtags": [
+                {
+                    "text": "SOSCuba",
+                    "indices": [
+                        79,
+                        87
+                    ]
+                },
+                {
+                    "text": "SOSCubaLibre",
+                    "indices": [
+                        88,
+                        101
+                    ]
+                }
+            ],
+            "symbols": [],
+            "user_mentions": [
+                {
+                    "screen_name": "alferdez",
+                    "name": "Alberto Fern\u00e1ndez",
+                    "id": 149991703,
+                    "id_str": "149991703",
+                    "indices": [
+                        20,
+                        29
+                    ]
+                }
+            ],
+            "urls": [],
+            "media": [
+                {
+                    "id": 1415337305754189824,
+                    "id_str": "1415337305754189824",
+                    "indices": [
+                        102,
+                        125
+                    ],
+                    "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1415337305754189824/pu/img/FJXAS7JAKEh68ie_.jpg",
+                    "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1415337305754189824/pu/img/FJXAS7JAKEh68ie_.jpg",
+                    "url": "https://t.co/dVXdvynPmJ",
+                    "display_url": "pic.twitter.com/dVXdvynPmJ",
+                    "expanded_url": "https://twitter.com/victoriabonetto/status/1415337762073550860/video/1",
+                    "type": "photo",
+                    "sizes": {
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "medium": {
+                            "w": 640,
+                            "h": 1138,
+                            "resize": "fit"
+                        },
+                        "large": {
+                            "w": 640,
+                            "h": 1138,
+                            "resize": "fit"
+                        },
+                        "small": {
+                            "w": 382,
+                            "h": 680,
+                            "resize": "fit"
+                        }
+                    }
+                }
+            ]
+        },
+        "extended_entities": {
+            "media": [
+                {
+                    "id": 1415337305754189824,
+                    "id_str": "1415337305754189824",
+                    "indices": [
+                        102,
+                        125
+                    ],
+                    "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1415337305754189824/pu/img/FJXAS7JAKEh68ie_.jpg",
+                    "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1415337305754189824/pu/img/FJXAS7JAKEh68ie_.jpg",
+                    "url": "https://t.co/dVXdvynPmJ",
+                    "display_url": "pic.twitter.com/dVXdvynPmJ",
+                    "expanded_url": "https://twitter.com/victoriabonetto/status/1415337762073550860/video/1",
+                    "type": "video",
+                    "sizes": {
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "medium": {
+                            "w": 640,
+                            "h": 1138,
+                            "resize": "fit"
+                        },
+                        "large": {
+                            "w": 640,
+                            "h": 1138,
+                            "resize": "fit"
+                        },
+                        "small": {
+                            "w": 382,
+                            "h": 680,
+                            "resize": "fit"
+                        }
+                    },
+                    "video_info": {
+                        "aspect_ratio": [
+                            320,
+                            569
+                        ],
+                        "duration_millis": 29333,
+                        "variants": [
+                            {
+                                "bitrate": 950000,
+                                "content_type": "video/mp4",
+                                "url": "https://video.twimg.com/ext_tw_video/1415337305754189824/pu/vid/480x852/L1WdSdvhiR0eODhA.mp4?tag=12"
+                            },
+                            {
+                                "bitrate": 632000,
+                                "content_type": "video/mp4",
+                                "url": "https://video.twimg.com/ext_tw_video/1415337305754189824/pu/vid/320x568/MezEJ1UW52lxjYa7.mp4?tag=12"
+                            },
+                            {
+                                "bitrate": 2176000,
+                                "content_type": "video/mp4",
+                                "url": "https://video.twimg.com/ext_tw_video/1415337305754189824/pu/vid/640x1138/ucDwJqe-kRzctcV7.mp4?tag=12"
+                            },
+                            {
+                                "content_type": "application/x-mpegURL",
+                                "url": "https://video.twimg.com/ext_tw_video/1415337305754189824/pu/pl/ipMQeBDdHAez883C.m3u8?tag=12&container=fmp4"
+                            }
+                        ]
+                    },
+                    "additional_media_info": {
+                        "monetizable": false
+                    }
+                }
+            ]
+        },
+        "metadata": {
+            "iso_language_code": "es",
+            "result_type": "recent"
+        },
+        "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 197621585,
+            "id_str": "197621585",
+            "name": "Mar\u00eda Victoria Bonetto",
+            "screen_name": "victoriabonetto",
+            "location": "",
+            "description": "Periodista. Productora de Radio y TV. Profesora Universitaria en Comunicaci\u00f3n Social",
+            "url": null,
+            "entities": {
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 59,
+            "friends_count": 185,
+            "listed_count": 0,
+            "created_at": "Sat Oct 02 00:35:32 +0000 2010",
+            "favourites_count": 2425,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": false,
+            "verified": false,
+            "statuses_count": 355,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "C0DEED",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/945678772304564225/H6h5KDvK_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/945678772304564225/H6h5KDvK_normal.jpg",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "has_extended_profile": false,
+            "default_profile": true,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none",
+            "withheld_in_countries": []
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 1,
+        "favorite_count": 2,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "es"
+    },
+    "is_quote_status": false,
+    "retweet_count": 1,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "es"
+}

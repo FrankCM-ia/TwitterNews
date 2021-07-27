@@ -1,0 +1,193 @@
+{
+    "created_at": "Wed Jul 14 18:03:02 +0000 2021",
+    "id": 1415371272704434191,
+    "id_str": "1415371272704434191",
+    "full_text": "RT @JuanJoseDiazDaz: Hermanos de la comunidad LGBTT defendiendo al gobierno de Siria que asesina a los gays; feministas defendiendo a Hamas\u2026",
+    "truncated": false,
+    "display_text_range": [
+        0,
+        140
+    ],
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "JuanJoseDiazDaz",
+                "name": "Juan Jos\u00e9 D\u00edaz D\u00edaz",
+                "id": 397649162,
+                "id_str": "397649162",
+                "indices": [
+                    3,
+                    19
+                ]
+            }
+        ],
+        "urls": []
+    },
+    "metadata": {
+        "iso_language_code": "es",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 970328844,
+        "id_str": "970328844",
+        "name": "Aaron Isiah Garnett Fojo",
+        "screen_name": "theneworleansri",
+        "location": "",
+        "description": "Inspector retirado d la https://t.co/zew8D3PubT encanta dar RT a los tweets que me parecen interesantes.S\u00edgueme y te sigo. Soy Boricua, Norteamericano y Espanol pa q tu lo sepas",
+        "url": null,
+        "entities": {
+            "description": {
+                "urls": [
+                    {
+                        "url": "https://t.co/zew8D3PubT",
+                        "expanded_url": "http://PPR.Me",
+                        "display_url": "PPR.Me",
+                        "indices": [
+                            24,
+                            47
+                        ]
+                    }
+                ]
+            }
+        },
+        "protected": false,
+        "followers_count": 11504,
+        "friends_count": 11560,
+        "listed_count": 470,
+        "created_at": "Sun Nov 25 16:33:44 +0000 2012",
+        "favourites_count": 13407,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 152947,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/804316477998460928/wP-0bWK7_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/804316477998460928/wP-0bWK7_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/970328844/1515886676",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "regular",
+        "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+        "created_at": "Wed Jul 14 00:02:45 +0000 2021",
+        "id": 1415099410044837888,
+        "id_str": "1415099410044837888",
+        "full_text": "Hermanos de la comunidad LGBTT defendiendo al gobierno de Siria que asesina a los gays; feministas defendiendo a Hamas en Palestina, que maltrata y asesina mujeres; amigos periodistas apoyando la dictadura cubana, que hacen lo mismo contra los periodistas... y el fan\u00e1tico soy yo.",
+        "truncated": false,
+        "display_text_range": [
+            0,
+            280
+        ],
+        "entities": {
+            "hashtags": [],
+            "symbols": [],
+            "user_mentions": [],
+            "urls": []
+        },
+        "metadata": {
+            "iso_language_code": "es",
+            "result_type": "recent"
+        },
+        "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 397649162,
+            "id_str": "397649162",
+            "name": "Juan Jos\u00e9 D\u00edaz D\u00edaz",
+            "screen_name": "JuanJoseDiazDaz",
+            "location": "Toa Baja, Puerto Rico",
+            "description": "\"El que no valora la lealtad, cree que no la necesita, cuando, en realidad, es que no la merece.\"",
+            "url": null,
+            "entities": {
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 2161,
+            "friends_count": 866,
+            "listed_count": 8,
+            "created_at": "Tue Oct 25 00:02:08 +0000 2011",
+            "favourites_count": 3148,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": true,
+            "verified": false,
+            "statuses_count": 6438,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "C0DEED",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1400571452919853058/B9wiLvg9_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1400571452919853058/B9wiLvg9_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/397649162/1600416457",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "has_extended_profile": true,
+            "default_profile": true,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none",
+            "withheld_in_countries": []
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 112,
+        "favorite_count": 280,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "es"
+    },
+    "is_quote_status": false,
+    "retweet_count": 112,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "es"
+}

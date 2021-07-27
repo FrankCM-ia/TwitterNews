@@ -1,0 +1,303 @@
+{
+    "created_at": "Wed Jul 14 17:55:23 +0000 2021",
+    "id": 1415369345925062665,
+    "id_str": "1415369345925062665",
+    "full_text": "Morena como quede en primer lugar van a hacer cola para quit\u00e1rtelo @m6rena https://t.co/oCjPocK2Dy",
+    "truncated": false,
+    "display_text_range": [
+        0,
+        74
+    ],
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "m6rena",
+                "name": "ren",
+                "id": 1185963652186300417,
+                "id_str": "1185963652186300417",
+                "indices": [
+                    67,
+                    74
+                ]
+            }
+        ],
+        "urls": [
+            {
+                "url": "https://t.co/oCjPocK2Dy",
+                "expanded_url": "https://twitter.com/Dtopbeautyworld/status/1413263350381821953",
+                "display_url": "twitter.com/Dtopbeautyworl\u2026",
+                "indices": [
+                    75,
+                    98
+                ]
+            }
+        ]
+    },
+    "metadata": {
+        "iso_language_code": "es",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 1166385601643470849,
+        "id_str": "1166385601643470849",
+        "name": "rsocsad",
+        "screen_name": "castro_muela",
+        "location": "Nules, Espa\u00f1a",
+        "description": "",
+        "url": null,
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 190,
+        "friends_count": 528,
+        "listed_count": 0,
+        "created_at": "Tue Aug 27 16:23:27 +0000 2019",
+        "favourites_count": 1570,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 12372,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": null,
+        "profile_background_image_url_https": null,
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1360002720971816965/_hbEW1rz_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1360002720971816965/_hbEW1rz_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1166385601643470849/1608376671",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": true,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": true,
+    "quoted_status_id": 1413263350381821953,
+    "quoted_status_id_str": "1413263350381821953",
+    "quoted_status": {
+        "created_at": "Thu Jul 08 22:26:54 +0000 2021",
+        "id": 1413263350381821953,
+        "id_str": "1413263350381821953",
+        "full_text": "#FELIX Candidate 100 Most Handsome Men of 2021 -- Australia - South Korea\n#TBworld2021 https://t.co/dLen3kNMNR",
+        "truncated": false,
+        "display_text_range": [
+            0,
+            86
+        ],
+        "entities": {
+            "hashtags": [
+                {
+                    "text": "FELIX",
+                    "indices": [
+                        0,
+                        6
+                    ]
+                },
+                {
+                    "text": "TBworld2021",
+                    "indices": [
+                        74,
+                        86
+                    ]
+                }
+            ],
+            "symbols": [],
+            "user_mentions": [],
+            "urls": [],
+            "media": [
+                {
+                    "id": 1413263238519738371,
+                    "id_str": "1413263238519738371",
+                    "indices": [
+                        87,
+                        110
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/E5zrbXoWUAMTqaj.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/E5zrbXoWUAMTqaj.jpg",
+                    "url": "https://t.co/dLen3kNMNR",
+                    "display_url": "pic.twitter.com/dLen3kNMNR",
+                    "expanded_url": "https://twitter.com/Dtopbeautyworld/status/1413263350381821953/photo/1",
+                    "type": "photo",
+                    "sizes": {
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "medium": {
+                            "w": 1200,
+                            "h": 1200,
+                            "resize": "fit"
+                        },
+                        "large": {
+                            "w": 1920,
+                            "h": 1920,
+                            "resize": "fit"
+                        },
+                        "small": {
+                            "w": 680,
+                            "h": 680,
+                            "resize": "fit"
+                        }
+                    }
+                }
+            ]
+        },
+        "extended_entities": {
+            "media": [
+                {
+                    "id": 1413263238519738371,
+                    "id_str": "1413263238519738371",
+                    "indices": [
+                        87,
+                        110
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/E5zrbXoWUAMTqaj.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/E5zrbXoWUAMTqaj.jpg",
+                    "url": "https://t.co/dLen3kNMNR",
+                    "display_url": "pic.twitter.com/dLen3kNMNR",
+                    "expanded_url": "https://twitter.com/Dtopbeautyworld/status/1413263350381821953/photo/1",
+                    "type": "photo",
+                    "sizes": {
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "medium": {
+                            "w": 1200,
+                            "h": 1200,
+                            "resize": "fit"
+                        },
+                        "large": {
+                            "w": 1920,
+                            "h": 1920,
+                            "resize": "fit"
+                        },
+                        "small": {
+                            "w": 680,
+                            "h": 680,
+                            "resize": "fit"
+                        }
+                    }
+                }
+            ]
+        },
+        "metadata": {
+            "iso_language_code": "es",
+            "result_type": "recent"
+        },
+        "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 4240217477,
+            "id_str": "4240217477",
+            "name": "TOP BEAUTY WORLD",
+            "screen_name": "Dtopbeautyworld",
+            "location": "United States - UCLA",
+            "description": "3 of plastic surgeons from Los Angeles Cosmetic Surgery Clinic\nPlay an important role in choosing the 100 most beautiful women and 100 handsome men worldwide",
+            "url": "https://t.co/Q5dWjSWlew",
+            "entities": {
+                "url": {
+                    "urls": [
+                        {
+                            "url": "https://t.co/Q5dWjSWlew",
+                            "expanded_url": "http://www.Youtube.com/c/TBWorld",
+                            "display_url": "Youtube.com/c/TBWorld",
+                            "indices": [
+                                0,
+                                23
+                            ]
+                        }
+                    ]
+                },
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 61861,
+            "friends_count": 84,
+            "listed_count": 55,
+            "created_at": "Sat Nov 21 06:38:17 +0000 2015",
+            "favourites_count": 1104,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": false,
+            "verified": false,
+            "statuses_count": 1726,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "000000",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1266513904454307840/TvgNoO1e_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1266513904454307840/TvgNoO1e_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/4240217477/1620343545",
+            "profile_link_color": "E81C4F",
+            "profile_sidebar_border_color": "000000",
+            "profile_sidebar_fill_color": "000000",
+            "profile_text_color": "000000",
+            "profile_use_background_image": false,
+            "has_extended_profile": false,
+            "default_profile": false,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none",
+            "withheld_in_countries": []
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 1759,
+        "favorite_count": 4660,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "en"
+    },
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "es"
+}

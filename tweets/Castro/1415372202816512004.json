@@ -1,0 +1,318 @@
+{
+    "created_at": "Wed Jul 14 18:06:44 +0000 2021",
+    "id": 1415372202816512004,
+    "id_str": "1415372202816512004",
+    "full_text": "RT @inap_mx: \u25b6\ufe0f\ud83d\udcc5\ud83e\udde0| Prep\u00e1rate ma\u00f1ana para la presentaci\u00f3n del libro \u201cLos perfiles en el servicio p\u00fablico y la buena administraci\u00f3n p\u00fablica\u201d,\u2026",
+    "truncated": false,
+    "display_text_range": [
+        0,
+        140
+    ],
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "inap_mx",
+                "name": "INAP M\u00e9xico",
+                "id": 141677122,
+                "id_str": "141677122",
+                "indices": [
+                    3,
+                    11
+                ]
+            }
+        ],
+        "urls": []
+    },
+    "metadata": {
+        "iso_language_code": "es",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 151964558,
+        "id_str": "151964558",
+        "name": "Rafael Villal\u00f3n",
+        "screen_name": "rafa24dtt",
+        "location": "naucalpan",
+        "description": "Subdirector de Educaci\u00f3n Permanente.(INAP), disfruto el patinar en hielo y en l\u00ednea.",
+        "url": "https://t.co/YQ7P9FMDnu",
+        "entities": {
+            "url": {
+                "urls": [
+                    {
+                        "url": "https://t.co/YQ7P9FMDnu",
+                        "expanded_url": "http://inap.org.mx",
+                        "display_url": "inap.org.mx",
+                        "indices": [
+                            0,
+                            23
+                        ]
+                    }
+                ]
+            },
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 593,
+        "friends_count": 3264,
+        "listed_count": 3,
+        "created_at": "Fri Jun 04 18:16:21 +0000 2010",
+        "favourites_count": 971,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 588,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "B2DFDA",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme13/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme13/bg.gif",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/961304487217385472/NwhfED7u_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/961304487217385472/NwhfED7u_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/151964558/1518026074",
+        "profile_link_color": "93A644",
+        "profile_sidebar_border_color": "EEEEEE",
+        "profile_sidebar_fill_color": "FFFFFF",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": true,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+        "created_at": "Wed Jul 14 16:11:17 +0000 2021",
+        "id": 1415343149854167040,
+        "id_str": "1415343149854167040",
+        "full_text": "\u25b6\ufe0f\ud83d\udcc5\ud83e\udde0| Prep\u00e1rate ma\u00f1ana para la presentaci\u00f3n del libro \u201cLos perfiles en el servicio p\u00fablico y la buena administraci\u00f3n p\u00fablica\u201d, escrito por el Dr. Jos\u00e9 Guadalupe Altamirano Castro, quien es integrante de la @CPCVeracruz. \n\ud83d\udccc Transmisi\u00f3n 17:00 hrs.\n\u00a1No faltes! https://t.co/0Tb9T2FzVM",
+        "truncated": false,
+        "display_text_range": [
+            0,
+            257
+        ],
+        "entities": {
+            "hashtags": [],
+            "symbols": [],
+            "user_mentions": [
+                {
+                    "screen_name": "CPCVeracruz",
+                    "name": "Comit\u00e9 de Participaci\u00f3n Ciudadana del SEA Veracruz",
+                    "id": 1006307473324740610,
+                    "id_str": "1006307473324740610",
+                    "indices": [
+                        206,
+                        218
+                    ]
+                }
+            ],
+            "urls": [],
+            "media": [
+                {
+                    "id": 1415343145555054596,
+                    "id_str": "1415343145555054596",
+                    "indices": [
+                        258,
+                        281
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/E6RPF5IX0AQtS1G.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/E6RPF5IX0AQtS1G.jpg",
+                    "url": "https://t.co/0Tb9T2FzVM",
+                    "display_url": "pic.twitter.com/0Tb9T2FzVM",
+                    "expanded_url": "https://twitter.com/inap_mx/status/1415343149854167040/photo/1",
+                    "type": "photo",
+                    "sizes": {
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "large": {
+                            "w": 1200,
+                            "h": 1200,
+                            "resize": "fit"
+                        },
+                        "medium": {
+                            "w": 1200,
+                            "h": 1200,
+                            "resize": "fit"
+                        },
+                        "small": {
+                            "w": 680,
+                            "h": 680,
+                            "resize": "fit"
+                        }
+                    }
+                }
+            ]
+        },
+        "extended_entities": {
+            "media": [
+                {
+                    "id": 1415343145555054596,
+                    "id_str": "1415343145555054596",
+                    "indices": [
+                        258,
+                        281
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/E6RPF5IX0AQtS1G.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/E6RPF5IX0AQtS1G.jpg",
+                    "url": "https://t.co/0Tb9T2FzVM",
+                    "display_url": "pic.twitter.com/0Tb9T2FzVM",
+                    "expanded_url": "https://twitter.com/inap_mx/status/1415343149854167040/photo/1",
+                    "type": "photo",
+                    "sizes": {
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "large": {
+                            "w": 1200,
+                            "h": 1200,
+                            "resize": "fit"
+                        },
+                        "medium": {
+                            "w": 1200,
+                            "h": 1200,
+                            "resize": "fit"
+                        },
+                        "small": {
+                            "w": 680,
+                            "h": 680,
+                            "resize": "fit"
+                        }
+                    }
+                }
+            ]
+        },
+        "metadata": {
+            "iso_language_code": "es",
+            "result_type": "recent"
+        },
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 141677122,
+            "id_str": "141677122",
+            "name": "INAP M\u00e9xico",
+            "screen_name": "inap_mx",
+            "location": "M\u00e9xico, D.F.",
+            "description": "Somos el Laboratorio de Excelencia Acad\u00e9mica \u2502 https://t.co/RF0pspXKvl \u2502 https://t.co/djnxLuKtms",
+            "url": "https://t.co/w5IksVMAkk",
+            "entities": {
+                "url": {
+                    "urls": [
+                        {
+                            "url": "https://t.co/w5IksVMAkk",
+                            "expanded_url": "https://www.inap.mx/mx/",
+                            "display_url": "inap.mx/mx/",
+                            "indices": [
+                                0,
+                                23
+                            ]
+                        }
+                    ]
+                },
+                "description": {
+                    "urls": [
+                        {
+                            "url": "https://t.co/RF0pspXKvl",
+                            "expanded_url": "http://facebook.com/inap.mexico",
+                            "display_url": "facebook.com/inap.mexico",
+                            "indices": [
+                                47,
+                                70
+                            ]
+                        },
+                        {
+                            "url": "https://t.co/djnxLuKtms",
+                            "expanded_url": "http://Instagram.com/inap.mexico",
+                            "display_url": "Instagram.com/inap.mexico",
+                            "indices": [
+                                73,
+                                96
+                            ]
+                        }
+                    ]
+                }
+            },
+            "protected": false,
+            "followers_count": 7421,
+            "friends_count": 333,
+            "listed_count": 83,
+            "created_at": "Sat May 08 18:26:18 +0000 2010",
+            "favourites_count": 2513,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": true,
+            "verified": false,
+            "statuses_count": 6594,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "F4F6F7",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": true,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1379088311512395779/djqccp2B_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1379088311512395779/djqccp2B_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/141677122/1617055967",
+            "profile_link_color": "098011",
+            "profile_sidebar_border_color": "FFFFFF",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "has_extended_profile": false,
+            "default_profile": false,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none",
+            "withheld_in_countries": []
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 2,
+        "favorite_count": 4,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "es"
+    },
+    "is_quote_status": false,
+    "retweet_count": 2,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "es"
+}

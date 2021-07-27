@@ -1,0 +1,182 @@
+{
+    "created_at": "Wed Jul 14 17:58:57 +0000 2021",
+    "id": 1415370243589951488,
+    "id_str": "1415370243589951488",
+    "full_text": "RT @Miotroyo2parte: Fidel Castro tuvo 4 yates y 20 mansiones, una de ellas con delfinario, piscinas, restaurante, cancha de baloncesto y he\u2026",
+    "truncated": false,
+    "display_text_range": [
+        0,
+        140
+    ],
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "Miotroyo2parte",
+                "name": "Mi otro yo \ud83c\uddea\ud83c\uddf8",
+                "id": 3091560148,
+                "id_str": "3091560148",
+                "indices": [
+                    3,
+                    18
+                ]
+            }
+        ],
+        "urls": []
+    },
+    "metadata": {
+        "iso_language_code": "es",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 861972589,
+        "id_str": "861972589",
+        "name": "Antonio AR",
+        "screen_name": "AntonioAranaz",
+        "location": "Santa Cruz de Tenerife",
+        "description": "Aportas o aparta.",
+        "url": null,
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 382,
+        "friends_count": 1061,
+        "listed_count": 0,
+        "created_at": "Thu Oct 04 20:07:44 +0000 2012",
+        "favourites_count": 34642,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 21404,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1350872063469350915/KoMx0aGO_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1350872063469350915/KoMx0aGO_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+        "created_at": "Wed Jul 14 11:12:42 +0000 2021",
+        "id": 1415268009439080451,
+        "id_str": "1415268009439080451",
+        "full_text": "Fidel Castro tuvo 4 yates y 20 mansiones, una de ellas con delfinario, piscinas, restaurante, cancha de baloncesto y helipuerto, y otra con m\u00e1s de 300.000m2. Cuando falleci\u00f3 dej\u00f3 en herencia a su familia 900.000.000$. Y ahora seguid cont\u00e1ndonos no s\u00e9 qu\u00e9 de bloqueos, progres.",
+        "truncated": false,
+        "display_text_range": [
+            0,
+            276
+        ],
+        "entities": {
+            "hashtags": [],
+            "symbols": [],
+            "user_mentions": [],
+            "urls": []
+        },
+        "metadata": {
+            "iso_language_code": "es",
+            "result_type": "recent"
+        },
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 3091560148,
+            "id_str": "3091560148",
+            "name": "Mi otro yo \ud83c\uddea\ud83c\uddf8",
+            "screen_name": "Miotroyo2parte",
+            "location": "",
+            "description": "Si vota a Podemos no me siga, le aseguro que no le gustar\u00e1 lo que va a leer. Siempre satisfactoriamente insatisfecho.",
+            "url": null,
+            "entities": {
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 113072,
+            "friends_count": 18801,
+            "listed_count": 332,
+            "created_at": "Sat Mar 14 00:50:54 +0000 2015",
+            "favourites_count": 30569,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": false,
+            "verified": false,
+            "statuses_count": 19144,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "000000",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/714430309098459140/sR5PzPw0_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/714430309098459140/sR5PzPw0_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/3091560148/1592812506",
+            "profile_link_color": "ABB8C2",
+            "profile_sidebar_border_color": "000000",
+            "profile_sidebar_fill_color": "000000",
+            "profile_text_color": "000000",
+            "profile_use_background_image": false,
+            "has_extended_profile": false,
+            "default_profile": false,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none",
+            "withheld_in_countries": []
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 721,
+        "favorite_count": 1338,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "es"
+    },
+    "is_quote_status": false,
+    "retweet_count": 721,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "es"
+}

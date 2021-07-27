@@ -1,0 +1,182 @@
+{
+    "created_at": "Wed Jul 14 16:00:32 +0000 2021",
+    "id": 1415340444507152386,
+    "id_str": "1415340444507152386",
+    "full_text": "RT @pabloduggan: 1 muerto por protestas en Cuba, tapa de diarios. 72 muertos por protestas en Sud\u00e1frica... p\u00e1gina 42 al fondo...",
+    "truncated": false,
+    "display_text_range": [
+        0,
+        128
+    ],
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "pabloduggan",
+                "name": "Pablo Duggan",
+                "id": 145677457,
+                "id_str": "145677457",
+                "indices": [
+                    3,
+                    15
+                ]
+            }
+        ],
+        "urls": []
+    },
+    "metadata": {
+        "iso_language_code": "es",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 139770179,
+        "id_str": "139770179",
+        "name": "ga_ur",
+        "screen_name": "gab_ure",
+        "location": "",
+        "description": "",
+        "url": null,
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 231,
+        "friends_count": 460,
+        "listed_count": 1,
+        "created_at": "Mon May 03 16:41:10 +0000 2010",
+        "favourites_count": 145378,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 50528,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1026276983/Escudoo_A.F.A._normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1026276983/Escudoo_A.F.A._normal.jpg",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+        "created_at": "Wed Jul 14 13:55:30 +0000 2021",
+        "id": 1415308981040451584,
+        "id_str": "1415308981040451584",
+        "full_text": "1 muerto por protestas en Cuba, tapa de diarios. 72 muertos por protestas en Sud\u00e1frica... p\u00e1gina 42 al fondo...",
+        "truncated": false,
+        "display_text_range": [
+            0,
+            111
+        ],
+        "entities": {
+            "hashtags": [],
+            "symbols": [],
+            "user_mentions": [],
+            "urls": []
+        },
+        "metadata": {
+            "iso_language_code": "es",
+            "result_type": "recent"
+        },
+        "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 145677457,
+            "id_str": "145677457",
+            "name": "Pablo Duggan",
+            "screen_name": "pabloduggan",
+            "location": "Buenos Aires",
+            "description": "Pap\u00e1. Periodista, Abogado. \ud83d\udcfbRadio 10 de 9 a 12hs. \ud83d\udcfaC5N de 21.30 a 23hs. \ud83d\udcfbS\u00e1bados de 10 a 13hs Delta 90.3. \ud83d\udcd6\u00bfQui\u00e9n mat\u00f3 a Nisman? \ud83d\udcd6La Persecuci\u00f3n \ud83d\udcd6Carmel",
+            "url": null,
+            "entities": {
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 169094,
+            "friends_count": 2716,
+            "listed_count": 519,
+            "created_at": "Wed May 19 15:54:10 +0000 2010",
+            "favourites_count": 6852,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": true,
+            "verified": false,
+            "statuses_count": 38218,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "C0DEED",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": true,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1334986420956651528/9QE8-QFY_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1334986420956651528/9QE8-QFY_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/145677457/1440001230",
+            "profile_link_color": "0084B4",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "has_extended_profile": false,
+            "default_profile": false,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none",
+            "withheld_in_countries": []
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 242,
+        "favorite_count": 849,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "es"
+    },
+    "is_quote_status": false,
+    "retweet_count": 242,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "es"
+}

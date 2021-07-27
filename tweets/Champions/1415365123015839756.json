@@ -1,0 +1,117 @@
+{
+    "created_at": "Wed Jul 14 17:38:36 +0000 2021",
+    "id": 1415365123015839756,
+    "id_str": "1415365123015839756",
+    "full_text": "@ElChino90744032 @GustavoTheShow @luisferpo Gano la euro ? Gano la champions? Qued\u00f3 goleador ok.. cu\u00e1ntas as\u00edstencias tuvo en la temporada?, Amigo estos premios lo ganan los n\u00fameros de varias  condiciones futbol\u00edsticas , no quien solo haga goles..",
+    "truncated": false,
+    "display_text_range": [
+        44,
+        247
+    ],
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "ElChino90744032",
+                "name": "El Chino del CAP",
+                "id": 1314528403568185350,
+                "id_str": "1314528403568185350",
+                "indices": [
+                    0,
+                    16
+                ]
+            },
+            {
+                "screen_name": "GustavoTheShow",
+                "name": "Gustavo Delgado \ud83d\uddef",
+                "id": 149570154,
+                "id_str": "149570154",
+                "indices": [
+                    17,
+                    32
+                ]
+            },
+            {
+                "screen_name": "luisferpo",
+                "name": "Luis Fdo Restrepo",
+                "id": 64851710,
+                "id_str": "64851710",
+                "indices": [
+                    33,
+                    43
+                ]
+            }
+        ],
+        "urls": []
+    },
+    "metadata": {
+        "iso_language_code": "es",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "in_reply_to_status_id": 1415352248914300936,
+    "in_reply_to_status_id_str": "1415352248914300936",
+    "in_reply_to_user_id": 1314528403568185350,
+    "in_reply_to_user_id_str": "1314528403568185350",
+    "in_reply_to_screen_name": "ElChino90744032",
+    "user": {
+        "id": 525891449,
+        "id_str": "525891449",
+        "name": "German Mountaineer",
+        "screen_name": "cuspidesve",
+        "location": "Ecuador",
+        "description": "Monta\u00f1ista / Fotografia. Es una forma de vida, es m\u00e1s que una pasi\u00f3n, es caminar a la raz\u00f3n de solo existir.",
+        "url": null,
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 243,
+        "friends_count": 497,
+        "listed_count": 1,
+        "created_at": "Fri Mar 16 00:41:29 +0000 2012",
+        "favourites_count": 567,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 687,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1358786404793409537/5qEJvdzO_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1358786404793409537/5qEJvdzO_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/525891449/1369660479",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 1,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "es"
+}

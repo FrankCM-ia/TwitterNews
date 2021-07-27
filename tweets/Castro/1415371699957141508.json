@@ -1,0 +1,117 @@
+{
+    "created_at": "Wed Jul 14 18:04:44 +0000 2021",
+    "id": 1415371699957141508,
+    "id_str": "1415371699957141508",
+    "full_text": "@ChivaInvencible @HatsumiNonaka @pedrosola Podemos fundir las dos porquer\u00edas de estatuas que est\u00e1n sentadas en una banca y son los h\u00e9roes del rid\u00edculo Tiranosaurio KKs; una es la del Dictador Fidel Castro y la otra el asesino del Che Guevara. Pero qu\u00e9 sabes t\u00fa Solovino m\u00e1s que de f\u00fatbol y croquetas.",
+    "truncated": false,
+    "display_text_range": [
+        43,
+        300
+    ],
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "ChivaInvencible",
+                "name": "\ud83c\uddeb\ud83c\uddf7\ud83d\udc10 Mayra Susana \ud83d\udc10 \ud83c\uddeb\ud83c\uddf7",
+                "id": 38944620,
+                "id_str": "38944620",
+                "indices": [
+                    0,
+                    16
+                ]
+            },
+            {
+                "screen_name": "HatsumiNonaka",
+                "name": "Hatsumi Nonaka \ud83c\uddef\ud83c\uddf5\u26f8\ud83c\uddf2\ud83c\uddfd",
+                "id": 2427933126,
+                "id_str": "2427933126",
+                "indices": [
+                    17,
+                    31
+                ]
+            },
+            {
+                "screen_name": "pedrosola",
+                "name": "Pedro Sola",
+                "id": 263961164,
+                "id_str": "263961164",
+                "indices": [
+                    32,
+                    42
+                ]
+            }
+        ],
+        "urls": []
+    },
+    "metadata": {
+        "iso_language_code": "es",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "in_reply_to_status_id": 1415343744706961408,
+    "in_reply_to_status_id_str": "1415343744706961408",
+    "in_reply_to_user_id": 38944620,
+    "in_reply_to_user_id_str": "38944620",
+    "in_reply_to_screen_name": "ChivaInvencible",
+    "user": {
+        "id": 591095185,
+        "id_str": "591095185",
+        "name": "Soni Lohdz",
+        "screen_name": "SoniLohdz",
+        "location": "",
+        "description": "",
+        "url": null,
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 606,
+        "friends_count": 674,
+        "listed_count": 0,
+        "created_at": "Sat May 26 17:17:22 +0000 2012",
+        "favourites_count": 12248,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 13800,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/2254009305/imagescat1_normal.jpeg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/2254009305/imagescat1_normal.jpeg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/591095185/1625280874",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "es"
+}

@@ -1,0 +1,107 @@
+{
+    "created_at": "Wed Jul 14 17:17:38 +0000 2021",
+    "id": 1415359848594673668,
+    "id_str": "1415359848594673668",
+    "full_text": "@JeyhsonFCB @odegaardismx__ Es un DT que le tiene miedo a las eliminatorias y a la Champions, despu\u00e9s de perder 2 finales vs el Madrid.\n\nRecuerdo cuando les metimos 3 en el Bernab\u00e9u, fuimos al Calderon y al minuto 20 nos metieron 2 goles y echo el equipo para atras en vez de buscar el empate xddd",
+    "truncated": false,
+    "display_text_range": [
+        28,
+        297
+    ],
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "JeyhsonFCB",
+                "name": "\ud83c\udde9\ud83c\uddf4",
+                "id": 1320143061675106306,
+                "id_str": "1320143061675106306",
+                "indices": [
+                    0,
+                    11
+                ]
+            },
+            {
+                "screen_name": "odegaardismx__",
+                "name": "Eliminado por Carrillo, Messi y Meunier",
+                "id": 1341596672590229505,
+                "id_str": "1341596672590229505",
+                "indices": [
+                    12,
+                    27
+                ]
+            }
+        ],
+        "urls": []
+    },
+    "metadata": {
+        "iso_language_code": "es",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "in_reply_to_status_id": 1415359156928778240,
+    "in_reply_to_status_id_str": "1415359156928778240",
+    "in_reply_to_user_id": 1320143061675106306,
+    "in_reply_to_user_id_str": "1320143061675106306",
+    "in_reply_to_screen_name": "JeyhsonFCB",
+    "user": {
+        "id": 1294554366544875520,
+        "id_str": "1294554366544875520",
+        "name": "\ud835\udc11\ud835\udc1e\ud835\udc32\ud835\udc1e\ud835\udc2c\ud83e\udd81",
+        "screen_name": "reyesmdts",
+        "location": "\ud83c\udde6\ud83c\uddfd",
+        "description": "Experto en balompie (retirado) y creyente en Dios.",
+        "url": null,
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 947,
+        "friends_count": 381,
+        "listed_count": 4,
+        "created_at": "Sat Aug 15 08:39:55 +0000 2020",
+        "favourites_count": 67328,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 27468,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": null,
+        "profile_background_image_url_https": null,
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1415363829450645513/7aTnVda9_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1415363829450645513/7aTnVda9_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1294554366544875520/1626220577",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": true,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 1,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "es"
+}

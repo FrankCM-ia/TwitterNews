@@ -1,0 +1,182 @@
+{
+    "created_at": "Wed Jul 14 16:00:17 +0000 2021",
+    "id": 1415340382200737802,
+    "id_str": "1415340382200737802",
+    "full_text": "RT @javiernavia: Lo que s\u00ed hizo Estados Unidos fue declarar un embargo comercial con Cuba, en represalia a la nacionalizaci\u00f3n de activos no\u2026",
+    "truncated": false,
+    "display_text_range": [
+        0,
+        140
+    ],
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "javiernavia",
+                "name": "Javier Navia",
+                "id": 31556297,
+                "id_str": "31556297",
+                "indices": [
+                    3,
+                    15
+                ]
+            }
+        ],
+        "urls": []
+    },
+    "metadata": {
+        "iso_language_code": "es",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 2907116553,
+        "id_str": "2907116553",
+        "name": "Warren Delecto",
+        "screen_name": "WarrenDelecto",
+        "location": "Casi el conurbano.",
+        "description": "Estoy harto.",
+        "url": null,
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 651,
+        "friends_count": 383,
+        "listed_count": 0,
+        "created_at": "Sat Dec 06 01:53:50 +0000 2014",
+        "favourites_count": 183,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 22158,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1202775947394658304/qtHA938n_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1202775947394658304/qtHA938n_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+        "created_at": "Tue Jul 13 21:53:36 +0000 2021",
+        "id": 1415066911210188801,
+        "id_str": "1415066911210188801",
+        "full_text": "Lo que s\u00ed hizo Estados Unidos fue declarar un embargo comercial con Cuba, en represalia a la nacionalizaci\u00f3n de activos norteamericanos en la isla tras la revoluci\u00f3n de 1959. Cuba puede comerciar con el resto del planeta. De hecho lo hace con Argentina, por ejemplo.",
+        "truncated": false,
+        "display_text_range": [
+            0,
+            266
+        ],
+        "entities": {
+            "hashtags": [],
+            "symbols": [],
+            "user_mentions": [],
+            "urls": []
+        },
+        "metadata": {
+            "iso_language_code": "es",
+            "result_type": "recent"
+        },
+        "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+        "in_reply_to_status_id": 1415066909842759682,
+        "in_reply_to_status_id_str": "1415066909842759682",
+        "in_reply_to_user_id": 31556297,
+        "in_reply_to_user_id_str": "31556297",
+        "in_reply_to_screen_name": "javiernavia",
+        "user": {
+            "id": 31556297,
+            "id_str": "31556297",
+            "name": "Javier Navia",
+            "screen_name": "javiernavia",
+            "location": "Buenos Aires, Argentina",
+            "description": "Periodista.",
+            "url": null,
+            "entities": {
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 71226,
+            "friends_count": 7150,
+            "listed_count": 573,
+            "created_at": "Wed Apr 15 23:14:54 +0000 2009",
+            "favourites_count": 22246,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": true,
+            "verified": false,
+            "statuses_count": 60666,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "022330",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1386488555271122944/x6tLhxlt_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1386488555271122944/x6tLhxlt_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/31556297/1579897389",
+            "profile_link_color": "3B94D9",
+            "profile_sidebar_border_color": "A8C7F7",
+            "profile_sidebar_fill_color": "FFFFFF",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "has_extended_profile": true,
+            "default_profile": false,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none",
+            "withheld_in_countries": []
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 77,
+        "favorite_count": 251,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "es"
+    },
+    "is_quote_status": false,
+    "retweet_count": 77,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "es"
+}

@@ -1,0 +1,107 @@
+{
+    "created_at": "Wed Jul 14 17:55:10 +0000 2021",
+    "id": 1415369293215281153,
+    "id_str": "1415369293215281153",
+    "full_text": "@28_jch @aagulla_espn Tienes raz\u00f3n, no se comparan las 5 Champions que Buffon gan\u00f3",
+    "truncated": false,
+    "display_text_range": [
+        22,
+        82
+    ],
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "28_jch",
+                "name": "juan_cruz_28",
+                "id": 764237437367414784,
+                "id_str": "764237437367414784",
+                "indices": [
+                    0,
+                    7
+                ]
+            },
+            {
+                "screen_name": "aagulla_espn",
+                "name": "Andres Agulla",
+                "id": 40987316,
+                "id_str": "40987316",
+                "indices": [
+                    8,
+                    21
+                ]
+            }
+        ],
+        "urls": []
+    },
+    "metadata": {
+        "iso_language_code": "es",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "in_reply_to_status_id": 1415351577003626500,
+    "in_reply_to_status_id_str": "1415351577003626500",
+    "in_reply_to_user_id": 764237437367414784,
+    "in_reply_to_user_id_str": "764237437367414784",
+    "in_reply_to_screen_name": "28_jch",
+    "user": {
+        "id": 1148676954385801219,
+        "id_str": "1148676954385801219",
+        "name": "Rafa Arellano\ud83c\uddf2\ud83c\uddfd",
+        "screen_name": "RafaArellano01",
+        "location": "",
+        "description": "\ud83d\udc99\u2764 \u26bd\ufe0f",
+        "url": null,
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 144,
+        "friends_count": 410,
+        "listed_count": 0,
+        "created_at": "Tue Jul 09 19:35:02 +0000 2019",
+        "favourites_count": 14205,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 1867,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": null,
+        "profile_background_image_url_https": null,
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1381458979172327424/oD9WEAmc_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1381458979172327424/oD9WEAmc_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1148676954385801219/1582500719",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": true,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 1,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "es"
+}

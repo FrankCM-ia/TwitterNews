@@ -1,0 +1,198 @@
+{
+    "created_at": "Thu Jul 15 15:53:20 +0000 2021",
+    "id": 1415701020903100423,
+    "id_str": "1415701020903100423",
+    "full_text": "Caernos x un (1) barranco https://t.co/3Zlby3A8Yh",
+    "truncated": false,
+    "display_text_range": [
+        0,
+        25
+    ],
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+            {
+                "url": "https://t.co/3Zlby3A8Yh",
+                "expanded_url": "https://twitter.com/colacao/status/1415588137980637184",
+                "display_url": "twitter.com/colacao/status\u2026",
+                "indices": [
+                    26,
+                    49
+                ]
+            }
+        ]
+    },
+    "metadata": {
+        "iso_language_code": "es",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 1356272353261613057,
+        "id_str": "1356272353261613057",
+        "name": "Juan",
+        "screen_name": "Mr_Jyx",
+        "location": "Ciudad amurallada, Galicia\ud83c\uddea\ud83c\uddf8",
+        "description": "Me gustan la comida, la m\u00fasica, la historia y mi Celta \ud83d\ude01\nSiempre del lado de los trabajadores de Espa\u00f1a.\nComo los elegidos de los Dioses. Plus ultra",
+        "url": null,
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 227,
+        "friends_count": 219,
+        "listed_count": 0,
+        "created_at": "Mon Feb 01 16:05:35 +0000 2021",
+        "favourites_count": 15064,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 3617,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": null,
+        "profile_background_image_url_https": null,
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1356293233710657539/lMCeImX2_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1356293233710657539/lMCeImX2_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1356272353261613057/1612200549",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": true,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": true,
+    "quoted_status_id": 1415588137980637184,
+    "quoted_status_id_str": "1415588137980637184",
+    "quoted_status": {
+        "created_at": "Thu Jul 15 08:24:47 +0000 2021",
+        "id": 1415588137980637184,
+        "id_str": "1415588137980637184",
+        "full_text": "empieza por c y nos alegra la vida",
+        "truncated": false,
+        "display_text_range": [
+            0,
+            34
+        ],
+        "entities": {
+            "hashtags": [],
+            "symbols": [],
+            "user_mentions": [],
+            "urls": []
+        },
+        "metadata": {
+            "iso_language_code": "es",
+            "result_type": "recent"
+        },
+        "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 478849959,
+            "id_str": "478849959",
+            "name": "ColaCao",
+            "screen_name": "colacao",
+            "location": "Espa\u00f1a",
+            "description": "Todos tenemos algo muy nuestro. Yo tengo esos grumitos tan m\u00edos. Y los hago porque mi cacao es tan natural como t\u00fa. \n\n#EsoTanTuyo",
+            "url": "http://t.co/WAdjOueDrj",
+            "entities": {
+                "url": {
+                    "urls": [
+                        {
+                            "url": "http://t.co/WAdjOueDrj",
+                            "expanded_url": "http://colacao.es",
+                            "display_url": "colacao.es",
+                            "indices": [
+                                0,
+                                22
+                            ]
+                        }
+                    ]
+                },
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 25307,
+            "friends_count": 509,
+            "listed_count": 81,
+            "created_at": "Mon Jan 30 18:46:10 +0000 2012",
+            "favourites_count": 11667,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": true,
+            "verified": true,
+            "statuses_count": 6936,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "EBD52A",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": true,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1123851619609841664/EJkkzxdC_normal.png",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1123851619609841664/EJkkzxdC_normal.png",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/478849959/1625212282",
+            "profile_link_color": "D63F08",
+            "profile_sidebar_border_color": "FFFFFF",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "has_extended_profile": false,
+            "default_profile": false,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none",
+            "withheld_in_countries": []
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 204,
+        "favorite_count": 3551,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "es"
+    },
+    "retweet_count": 0,
+    "favorite_count": 3,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "es"
+}

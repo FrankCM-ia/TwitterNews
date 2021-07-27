@@ -1,0 +1,167 @@
+{
+    "created_at": "Wed Jul 14 17:32:46 +0000 2021",
+    "id": 1415363657446350852,
+    "id_str": "1415363657446350852",
+    "full_text": "@bartblck98 @BotBotbotbot552 @Sicocmd @partidazocope @rfef @europapress @Tebasjavier @LaLiga Yo la veo por 65 pavos al a\u00f1o, toda la liga+champions en movistar",
+    "truncated": false,
+    "display_text_range": [
+        93,
+        158
+    ],
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "bartblck98",
+                "name": "bartblckYT",
+                "id": 1322981743465517058,
+                "id_str": "1322981743465517058",
+                "indices": [
+                    0,
+                    11
+                ]
+            },
+            {
+                "screen_name": "BotBotbotbot552",
+                "name": "Esto es una empresa capitalista",
+                "id": 1353663451269390336,
+                "id_str": "1353663451269390336",
+                "indices": [
+                    12,
+                    28
+                ]
+            },
+            {
+                "screen_name": "Sicocmd",
+                "name": "Fran Fern\u00e1ndez",
+                "id": 732731359,
+                "id_str": "732731359",
+                "indices": [
+                    29,
+                    37
+                ]
+            },
+            {
+                "screen_name": "partidazocope",
+                "name": "El Partidazo de COPE",
+                "id": 182501483,
+                "id_str": "182501483",
+                "indices": [
+                    38,
+                    52
+                ]
+            },
+            {
+                "screen_name": "rfef",
+                "name": "RFEF",
+                "id": 137415452,
+                "id_str": "137415452",
+                "indices": [
+                    53,
+                    58
+                ]
+            },
+            {
+                "screen_name": "europapress",
+                "name": "Europa Press",
+                "id": 121385551,
+                "id_str": "121385551",
+                "indices": [
+                    59,
+                    71
+                ]
+            },
+            {
+                "screen_name": "Tebasjavier",
+                "name": "Javier Tebas Medrano",
+                "id": 358786032,
+                "id_str": "358786032",
+                "indices": [
+                    72,
+                    84
+                ]
+            },
+            {
+                "screen_name": "LaLiga",
+                "name": "LaLiga",
+                "id": 423384542,
+                "id_str": "423384542",
+                "indices": [
+                    85,
+                    92
+                ]
+            }
+        ],
+        "urls": []
+    },
+    "metadata": {
+        "iso_language_code": "es",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "in_reply_to_status_id": 1415313479527960577,
+    "in_reply_to_status_id_str": "1415313479527960577",
+    "in_reply_to_user_id": 1322981743465517058,
+    "in_reply_to_user_id_str": "1322981743465517058",
+    "in_reply_to_screen_name": "bartblck98",
+    "user": {
+        "id": 1330632811544530944,
+        "id_str": "1330632811544530944",
+        "name": "G.C.L",
+        "screen_name": "GCL77714346",
+        "location": "",
+        "description": "Si yo soy un BOT tu madre es una Fr....uta  (cuenta secundaria, solo futbol y deportes en general)",
+        "url": null,
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 11,
+        "friends_count": 93,
+        "listed_count": 0,
+        "created_at": "Sun Nov 22 22:03:14 +0000 2020",
+        "favourites_count": 2868,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 3310,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": null,
+        "profile_background_image_url_https": null,
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1396166736110575618/_ZHaisSM_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1396166736110575618/_ZHaisSM_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1330632811544530944/1621492456",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": true,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "es"
+}

@@ -1,0 +1,188 @@
+{
+    "created_at": "Fri Jul 16 05:10:10 +0000 2021",
+    "id": 1415901550719942657,
+    "id_str": "1415901550719942657",
+    "full_text": "Temporada de verano en el Barranco Perdido con las instalaciones acu\u00e1ticas y nuevos espect\u00e1culos https://t.co/xh1A3KCj3K https://t.co/nZFWO0YAcx",
+    "truncated": false,
+    "display_text_range": [
+        0,
+        120
+    ],
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+            {
+                "url": "https://t.co/xh1A3KCj3K",
+                "expanded_url": "https://www.diariodenavarra.es/noticias/vivir/turismo/2021/07/16/temporada-verano-el-barranco-perdido-instalaciones-acuaticas-nuevos-espectaculos-492187-3193.html?utm_term=Autofeed&utm_campaign=EchoboxTw&utm_medium=Social&utm_source=Twitter#Echobox=1626409460",
+                "display_url": "diariodenavarra.es/noticias/vivir\u2026",
+                "indices": [
+                    97,
+                    120
+                ]
+            }
+        ],
+        "media": [
+            {
+                "id": 1415901549096841221,
+                "id_str": "1415901549096841221",
+                "indices": [
+                    121,
+                    144
+                ],
+                "media_url": "http://pbs.twimg.com/media/E6ZK9QbXsAUcACS.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/E6ZK9QbXsAUcACS.jpg",
+                "url": "https://t.co/nZFWO0YAcx",
+                "display_url": "pic.twitter.com/nZFWO0YAcx",
+                "expanded_url": "https://twitter.com/DiariodeNavarra/status/1415901550719942657/photo/1",
+                "type": "photo",
+                "sizes": {
+                    "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                    },
+                    "medium": {
+                        "w": 1200,
+                        "h": 630,
+                        "resize": "fit"
+                    },
+                    "large": {
+                        "w": 1200,
+                        "h": 630,
+                        "resize": "fit"
+                    },
+                    "small": {
+                        "w": 680,
+                        "h": 357,
+                        "resize": "fit"
+                    }
+                }
+            }
+        ]
+    },
+    "extended_entities": {
+        "media": [
+            {
+                "id": 1415901549096841221,
+                "id_str": "1415901549096841221",
+                "indices": [
+                    121,
+                    144
+                ],
+                "media_url": "http://pbs.twimg.com/media/E6ZK9QbXsAUcACS.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/E6ZK9QbXsAUcACS.jpg",
+                "url": "https://t.co/nZFWO0YAcx",
+                "display_url": "pic.twitter.com/nZFWO0YAcx",
+                "expanded_url": "https://twitter.com/DiariodeNavarra/status/1415901550719942657/photo/1",
+                "type": "photo",
+                "sizes": {
+                    "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                    },
+                    "medium": {
+                        "w": 1200,
+                        "h": 630,
+                        "resize": "fit"
+                    },
+                    "large": {
+                        "w": 1200,
+                        "h": 630,
+                        "resize": "fit"
+                    },
+                    "small": {
+                        "w": 680,
+                        "h": 357,
+                        "resize": "fit"
+                    }
+                }
+            }
+        ]
+    },
+    "metadata": {
+        "iso_language_code": "es",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"https://www.echobox.com\" rel=\"nofollow\">Echobox</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 5493242,
+        "id_str": "5493242",
+        "name": "Diario de Navarra",
+        "screen_name": "DiariodeNavarra",
+        "location": "Navarra",
+        "description": "Cuenta oficial de Diario de Navarra. Peri\u00f3dico l\u00edder en Navarra. Es uno de los peri\u00f3dicos m\u00e1s antiguos de Espa\u00f1a. Informando en Navarra desde 1903",
+        "url": "https://t.co/K7I0vlmQwy",
+        "entities": {
+            "url": {
+                "urls": [
+                    {
+                        "url": "https://t.co/K7I0vlmQwy",
+                        "expanded_url": "http://www.DiarioDeNavarra.es",
+                        "display_url": "DiarioDeNavarra.es",
+                        "indices": [
+                            0,
+                            23
+                        ]
+                    }
+                ]
+            },
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 91226,
+        "friends_count": 2513,
+        "listed_count": 1277,
+        "created_at": "Wed Apr 25 10:01:58 +0000 2007",
+        "favourites_count": 349,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": true,
+        "statuses_count": 262682,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "0790AB",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1413451416216215554/M6bAs2c7_normal.png",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1413451416216215554/M6bAs2c7_normal.png",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/5493242/1625828034",
+        "profile_link_color": "0790AB",
+        "profile_sidebar_border_color": "0790AB",
+        "profile_sidebar_fill_color": "FFFFFF",
+        "profile_text_color": "4D4B4D",
+        "profile_use_background_image": false,
+        "has_extended_profile": false,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "es"
+}

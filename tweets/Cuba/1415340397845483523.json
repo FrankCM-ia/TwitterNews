@@ -1,0 +1,262 @@
+{
+    "created_at": "Wed Jul 14 16:00:21 +0000 2021",
+    "id": 1415340397845483523,
+    "id_str": "1415340397845483523",
+    "full_text": "RT @PabloMDP3: HIP\u00d3CRITAS.\nLos abanderados de los DDHH. A\u00fan no se manifestaron con los sucedido en Nicaragua \ud83c\uddf3\ud83c\uddee, Venezuela \ud83c\uddfb\ud83c\uddea, Colombia \ud83c\udde8\ud83c\uddf4\u2026",
+    "truncated": false,
+    "display_text_range": [
+        0,
+        139
+    ],
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "PabloMDP3",
+                "name": "Pablo-_-MDP",
+                "id": 1184715828752719873,
+                "id_str": "1184715828752719873",
+                "indices": [
+                    3,
+                    13
+                ]
+            }
+        ],
+        "urls": []
+    },
+    "metadata": {
+        "iso_language_code": "es",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 150805415,
+        "id_str": "150805415",
+        "name": "El Popa#06//Alejandro Ramos (El Otro)",
+        "screen_name": "elpopa06",
+        "location": "Rojas ",
+        "description": "Segu\u00ed balanceando tu cuerpo y sentite libre...solo por un instante...CRZZ. Quedarse con la culpa...no con las ganas!!// Aspirante a Cocinero Profesional.",
+        "url": null,
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 463,
+        "friends_count": 1640,
+        "listed_count": 1,
+        "created_at": "Tue Jun 01 21:50:02 +0000 2010",
+        "favourites_count": 3232,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 5473,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/951007166/FCO_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/951007166/FCO_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/150805415/1624403738",
+        "profile_link_color": "4A913C",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "profile_use_background_image": false,
+        "has_extended_profile": true,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+        "created_at": "Wed Jul 14 07:05:08 +0000 2021",
+        "id": 1415205708434399232,
+        "id_str": "1415205708434399232",
+        "full_text": "HIP\u00d3CRITAS.\nLos abanderados de los DDHH. A\u00fan no se manifestaron con los sucedido en Nicaragua \ud83c\uddf3\ud83c\uddee, Venezuela \ud83c\uddfb\ud83c\uddea, Colombia \ud83c\udde8\ud83c\uddf4 ni Cuba \ud83c\udde8\ud83c\uddfa. https://t.co/oua70BuaIY",
+        "truncated": false,
+        "display_text_range": [
+            0,
+            135
+        ],
+        "entities": {
+            "hashtags": [],
+            "symbols": [],
+            "user_mentions": [],
+            "urls": [],
+            "media": [
+                {
+                    "id": 1415205703543840768,
+                    "id_str": "1415205703543840768",
+                    "indices": [
+                        136,
+                        159
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/E6PSFtvWYAANPh6.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/E6PSFtvWYAANPh6.jpg",
+                    "url": "https://t.co/oua70BuaIY",
+                    "display_url": "pic.twitter.com/oua70BuaIY",
+                    "expanded_url": "https://twitter.com/PabloMDP3/status/1415205708434399232/photo/1",
+                    "type": "photo",
+                    "sizes": {
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "large": {
+                            "w": 1242,
+                            "h": 538,
+                            "resize": "fit"
+                        },
+                        "small": {
+                            "w": 680,
+                            "h": 295,
+                            "resize": "fit"
+                        },
+                        "medium": {
+                            "w": 1200,
+                            "h": 520,
+                            "resize": "fit"
+                        }
+                    }
+                }
+            ]
+        },
+        "extended_entities": {
+            "media": [
+                {
+                    "id": 1415205703543840768,
+                    "id_str": "1415205703543840768",
+                    "indices": [
+                        136,
+                        159
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/E6PSFtvWYAANPh6.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/E6PSFtvWYAANPh6.jpg",
+                    "url": "https://t.co/oua70BuaIY",
+                    "display_url": "pic.twitter.com/oua70BuaIY",
+                    "expanded_url": "https://twitter.com/PabloMDP3/status/1415205708434399232/photo/1",
+                    "type": "photo",
+                    "sizes": {
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "large": {
+                            "w": 1242,
+                            "h": 538,
+                            "resize": "fit"
+                        },
+                        "small": {
+                            "w": 680,
+                            "h": 295,
+                            "resize": "fit"
+                        },
+                        "medium": {
+                            "w": 1200,
+                            "h": 520,
+                            "resize": "fit"
+                        }
+                    }
+                }
+            ]
+        },
+        "metadata": {
+            "iso_language_code": "es",
+            "result_type": "recent"
+        },
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 1184715828752719873,
+            "id_str": "1184715828752719873",
+            "name": "Pablo-_-MDP",
+            "screen_name": "PabloMDP3",
+            "location": "Mar del Plata",
+            "description": "\ud83e\udda7 Anti K, Anti Peronistas, Anti Comunistas, Anti Socialistas.\ud83e\udd8d                             \n                                          \nCARP \u26aa\ufe0f\ud83d\udd34\u26aa\ufe0f",
+            "url": null,
+            "entities": {
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 4208,
+            "friends_count": 4032,
+            "listed_count": 3,
+            "created_at": "Thu Oct 17 06:21:10 +0000 2019",
+            "favourites_count": 135680,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": true,
+            "verified": false,
+            "statuses_count": 20623,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "F5F8FA",
+            "profile_background_image_url": null,
+            "profile_background_image_url_https": null,
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1251050362624192513/uxGgsdHf_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1251050362624192513/uxGgsdHf_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/1184715828752719873/1571297905",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "has_extended_profile": true,
+            "default_profile": true,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none",
+            "withheld_in_countries": []
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 128,
+        "favorite_count": 174,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "es"
+    },
+    "is_quote_status": false,
+    "retweet_count": 128,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "es"
+}

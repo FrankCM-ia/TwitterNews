@@ -1,0 +1,313 @@
+{
+    "created_at": "Wed Jul 14 18:03:54 +0000 2021",
+    "id": 1415371490451726341,
+    "id_str": "1415371490451726341",
+    "full_text": "RT @camero_lemus: El odio y la mentira jam\u00e1s podr\u00e1n vencer a la Revoluci\u00f3n. Recordemos   el concepto de revoluci\u00f3n de nuestro eterno Comand\u2026",
+    "truncated": false,
+    "display_text_range": [
+        0,
+        140
+    ],
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "camero_lemus",
+                "name": "Alex Lemus Camero",
+                "id": 1275619629667360768,
+                "id_str": "1275619629667360768",
+                "indices": [
+                    3,
+                    16
+                ]
+            }
+        ],
+        "urls": []
+    },
+    "metadata": {
+        "iso_language_code": "es",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 149004973,
+        "id_str": "149004973",
+        "name": "\ud83c\udde8\ud83c\uddfa\ud83c\uddf8\ud83c\uddfe\ud83d\udc8b NellyPSUVYa \ud83c\uddfb\ud83c\uddea",
+        "screen_name": "NellyPSUVYa",
+        "location": "Caracas - Venezuela",
+        "description": "Lcda en Nutrici\u00f3n casada,CHAVISTA 100% hasta la M\u00e9dula,CATOLICA CRISTIANA NO SIGO OPO #ChavezXSiempre #DeZurdaTeam soy @nelly_PSUV @nellyPSUV96 #TropaActiva",
+        "url": null,
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 44682,
+        "friends_count": 17762,
+        "listed_count": 109,
+        "created_at": "Fri May 28 04:52:05 +0000 2010",
+        "favourites_count": 118798,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 303907,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "642D8B",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme10/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme10/bg.gif",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/864293019339685888/5nZ-Q7ZD_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/864293019339685888/5nZ-Q7ZD_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/149004973/1580177499",
+        "profile_link_color": "FF0000",
+        "profile_sidebar_border_color": "65B0DA",
+        "profile_sidebar_fill_color": "7AC3EE",
+        "profile_text_color": "3D1957",
+        "profile_use_background_image": true,
+        "has_extended_profile": true,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+        "created_at": "Wed Jul 14 15:12:27 +0000 2021",
+        "id": 1415328343256403976,
+        "id_str": "1415328343256403976",
+        "full_text": "El odio y la mentira jam\u00e1s podr\u00e1n vencer a la Revoluci\u00f3n. Recordemos   el concepto de revoluci\u00f3n de nuestro eterno Comandante en Jefe Fidel Castro Ruz. \"No hay fuerza en el mundo capaz de aplasta la fuerza de la verdad y las ideas.\u00a1Viva la Revoluci\u00f3n! #Cuba #ValoresTeam https://t.co/jhVMDeH7di",
+        "truncated": false,
+        "display_text_range": [
+            0,
+            270
+        ],
+        "entities": {
+            "hashtags": [
+                {
+                    "text": "Cuba",
+                    "indices": [
+                        252,
+                        257
+                    ]
+                },
+                {
+                    "text": "ValoresTeam",
+                    "indices": [
+                        258,
+                        270
+                    ]
+                }
+            ],
+            "symbols": [],
+            "user_mentions": [],
+            "urls": [],
+            "media": [
+                {
+                    "id": 1415328336805564416,
+                    "id_str": "1415328336805564416",
+                    "indices": [
+                        271,
+                        294
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/E6RBn6PXEAApRlq.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/E6RBn6PXEAApRlq.jpg",
+                    "url": "https://t.co/jhVMDeH7di",
+                    "display_url": "pic.twitter.com/jhVMDeH7di",
+                    "expanded_url": "https://twitter.com/camero_lemus/status/1415328343256403976/photo/1",
+                    "type": "photo",
+                    "sizes": {
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "medium": {
+                            "w": 425,
+                            "h": 335,
+                            "resize": "fit"
+                        },
+                        "small": {
+                            "w": 425,
+                            "h": 335,
+                            "resize": "fit"
+                        },
+                        "large": {
+                            "w": 425,
+                            "h": 335,
+                            "resize": "fit"
+                        }
+                    }
+                }
+            ]
+        },
+        "extended_entities": {
+            "media": [
+                {
+                    "id": 1415328336805564416,
+                    "id_str": "1415328336805564416",
+                    "indices": [
+                        271,
+                        294
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/E6RBn6PXEAApRlq.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/E6RBn6PXEAApRlq.jpg",
+                    "url": "https://t.co/jhVMDeH7di",
+                    "display_url": "pic.twitter.com/jhVMDeH7di",
+                    "expanded_url": "https://twitter.com/camero_lemus/status/1415328343256403976/photo/1",
+                    "type": "photo",
+                    "sizes": {
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "medium": {
+                            "w": 425,
+                            "h": 335,
+                            "resize": "fit"
+                        },
+                        "small": {
+                            "w": 425,
+                            "h": 335,
+                            "resize": "fit"
+                        },
+                        "large": {
+                            "w": 425,
+                            "h": 335,
+                            "resize": "fit"
+                        }
+                    }
+                },
+                {
+                    "id": 1415328341058539524,
+                    "id_str": "1415328341058539524",
+                    "indices": [
+                        271,
+                        294
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/E6RBoKFWUAQdFR8.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/E6RBoKFWUAQdFR8.jpg",
+                    "url": "https://t.co/jhVMDeH7di",
+                    "display_url": "pic.twitter.com/jhVMDeH7di",
+                    "expanded_url": "https://twitter.com/camero_lemus/status/1415328343256403976/photo/1",
+                    "type": "photo",
+                    "sizes": {
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "medium": {
+                            "w": 720,
+                            "h": 720,
+                            "resize": "fit"
+                        },
+                        "large": {
+                            "w": 720,
+                            "h": 720,
+                            "resize": "fit"
+                        },
+                        "small": {
+                            "w": 680,
+                            "h": 680,
+                            "resize": "fit"
+                        }
+                    }
+                }
+            ]
+        },
+        "metadata": {
+            "iso_language_code": "es",
+            "result_type": "recent"
+        },
+        "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 1275619629667360768,
+            "id_str": "1275619629667360768",
+            "name": "Alex Lemus Camero",
+            "screen_name": "camero_lemus",
+            "location": "Cuba",
+            "description": "Soy pinare\u00f1o de pura sepa. bailador y deportista . abogado de carrera. Me gusta la m\u00fasica y la poes\u00eda. Amo y defiendo a Cuba y a la Revoluci\u00f3n.",
+            "url": null,
+            "entities": {
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 1670,
+            "friends_count": 1060,
+            "listed_count": 6,
+            "created_at": "Wed Jun 24 02:40:40 +0000 2020",
+            "favourites_count": 12211,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": false,
+            "verified": false,
+            "statuses_count": 13940,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "F5F8FA",
+            "profile_background_image_url": null,
+            "profile_background_image_url_https": null,
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1275635330532728833/j0gydTkw_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1275635330532728833/j0gydTkw_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/1275619629667360768/1592969693",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "has_extended_profile": true,
+            "default_profile": true,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none",
+            "withheld_in_countries": []
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 9,
+        "favorite_count": 10,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "es"
+    },
+    "is_quote_status": false,
+    "retweet_count": 9,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "es"
+}

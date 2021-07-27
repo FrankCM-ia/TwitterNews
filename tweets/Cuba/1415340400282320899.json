@@ -1,0 +1,231 @@
+{
+    "created_at": "Wed Jul 14 16:00:21 +0000 2021",
+    "id": 1415340400282320899,
+    "id_str": "1415340400282320899",
+    "full_text": "Regresa la calma a Cuba, persiste el desgaste social.\n@biobiolaradio, @ColegioProfes,@AcesChile, @rsumen, @prenirreverente, @CatCoordinadora, @ActualidadRT,@TeleSURtv,@ChilePeriodista,@uchileradio, @vicky_cardenas, @futbol_rebelde, @cordonesvalpo,\u2026 https://t.co/TSBrim2D9p",
+    "truncated": false,
+    "display_text_range": [
+        0,
+        272
+    ],
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "biobiolaradio",
+                "name": "Radio Bio-Bio",
+                "id": 14639109,
+                "id_str": "14639109",
+                "indices": [
+                    54,
+                    68
+                ]
+            },
+            {
+                "screen_name": "ColegioProfes",
+                "name": "Colegio de Profesoras y Profesores de Chile",
+                "id": 262692945,
+                "id_str": "262692945",
+                "indices": [
+                    70,
+                    84
+                ]
+            },
+            {
+                "screen_name": "AcesChile",
+                "name": "ACES - CHILE",
+                "id": 57568491,
+                "id_str": "57568491",
+                "indices": [
+                    85,
+                    95
+                ]
+            },
+            {
+                "screen_name": "rsumen",
+                "name": "Resumen",
+                "id": 191894994,
+                "id_str": "191894994",
+                "indices": [
+                    97,
+                    104
+                ]
+            },
+            {
+                "screen_name": "prenirreverente",
+                "name": "Prensa Irreverente",
+                "id": 444308954,
+                "id_str": "444308954",
+                "indices": [
+                    106,
+                    122
+                ]
+            },
+            {
+                "screen_name": "CatCoordinadora",
+                "name": "CAT",
+                "id": 1207486656007352320,
+                "id_str": "1207486656007352320",
+                "indices": [
+                    124,
+                    140
+                ]
+            },
+            {
+                "screen_name": "ActualidadRT",
+                "name": "RT en Espa\u00f1ol",
+                "id": 100731315,
+                "id_str": "100731315",
+                "indices": [
+                    142,
+                    155
+                ]
+            },
+            {
+                "screen_name": "teleSURtv",
+                "name": "teleSUR TV",
+                "id": 45013575,
+                "id_str": "45013575",
+                "indices": [
+                    156,
+                    166
+                ]
+            },
+            {
+                "screen_name": "ChilePeriodista",
+                "name": "Colegio Periodistas de Chile",
+                "id": 284074479,
+                "id_str": "284074479",
+                "indices": [
+                    167,
+                    183
+                ]
+            },
+            {
+                "screen_name": "uchileradio",
+                "name": "Diario-Radio UChile",
+                "id": 78058372,
+                "id_str": "78058372",
+                "indices": [
+                    184,
+                    196
+                ]
+            },
+            {
+                "screen_name": "vicky_cardenas",
+                "name": "vicky_cardenas",
+                "id": 388563608,
+                "id_str": "388563608",
+                "indices": [
+                    198,
+                    213
+                ]
+            },
+            {
+                "screen_name": "futbol_rebelde",
+                "name": "F\u00fatbol Rebelde",
+                "id": 589478510,
+                "id_str": "589478510",
+                "indices": [
+                    215,
+                    230
+                ]
+            }
+        ],
+        "urls": [
+            {
+                "url": "https://t.co/TSBrim2D9p",
+                "expanded_url": "https://cctt.cl/2021/07/14/regresa-la-calma-a-cuba-persiste-el-desgaste-social/",
+                "display_url": "cctt.cl/2021/07/14/reg\u2026",
+                "indices": [
+                    249,
+                    272
+                ]
+            }
+        ]
+    },
+    "metadata": {
+        "iso_language_code": "es",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"http://publicize.wp.com/\" rel=\"nofollow\">WordPress.com</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 1705815866,
+        "id_str": "1705815866",
+        "name": "Correo Trabajadores",
+        "screen_name": "CCTT_Chile",
+        "location": "Chile",
+        "description": "Rompiendo el cerco informativo y el sentido com\u00fan dominante!",
+        "url": "http://t.co/VKbKmlQG6J",
+        "entities": {
+            "url": {
+                "urls": [
+                    {
+                        "url": "http://t.co/VKbKmlQG6J",
+                        "expanded_url": "http://www.cctt.cl",
+                        "display_url": "cctt.cl",
+                        "indices": [
+                            0,
+                            22
+                        ]
+                    }
+                ]
+            },
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 1520,
+        "friends_count": 2065,
+        "listed_count": 9,
+        "created_at": "Tue Aug 27 23:08:57 +0000 2013",
+        "favourites_count": 7,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 5212,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/696168800706764800/h7_ne9HR_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/696168800706764800/h7_ne9HR_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1705815866/1454816554",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "es"
+}

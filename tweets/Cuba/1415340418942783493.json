@@ -1,0 +1,262 @@
+{
+    "created_at": "Wed Jul 14 16:00:26 +0000 2021",
+    "id": 1415340418942783493,
+    "id_str": "1415340418942783493",
+    "full_text": "RT @manuelferdiez: Pero Cuba\n\"M\u00e1s de doce millones de personas en Espa\u00f1a son pobres, cinco millones en pobreza severa, uno de cada 3 ni\u00f1os\u2026",
+    "truncated": false,
+    "display_text_range": [
+        0,
+        139
+    ],
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "manuelferdiez",
+                "name": "Manuel Fern\u00e1ndez",
+                "id": 1400203249,
+                "id_str": "1400203249",
+                "indices": [
+                    3,
+                    17
+                ]
+            }
+        ],
+        "urls": []
+    },
+    "metadata": {
+        "iso_language_code": "es",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 143144612,
+        "id_str": "143144612",
+        "name": "Luz Marina L\u00f3pez",
+        "screen_name": "koskita",
+        "location": "\u00a1Mi Patria es el mundo!!!",
+        "description": "\u00a1Ya s\u00e9 que en esos sitios tiritar\u00e1 ma\u00f1ana mi coraz\u00f3n helado en varios tomos!\n#MiguelHern\u00e1ndez\n#FreePalestine #BDS  Periodista",
+        "url": null,
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 27725,
+        "friends_count": 24795,
+        "listed_count": 287,
+        "created_at": "Wed May 12 18:19:56 +0000 2010",
+        "favourites_count": 53319,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 500317,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "FFF04D",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme19/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme19/bg.gif",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1405316493529735171/wh-zrmQI_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1405316493529735171/wh-zrmQI_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/143144612/1626043246",
+        "profile_link_color": "DD2E44",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "F6FFD1",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+        "created_at": "Wed Jul 14 12:49:10 +0000 2021",
+        "id": 1415292286037118979,
+        "id_str": "1415292286037118979",
+        "full_text": "Pero Cuba\n\"M\u00e1s de doce millones de personas en Espa\u00f1a son pobres, cinco millones en pobreza severa, uno de cada 3 ni\u00f1os crecer\u00e1 en situaci\u00f3n de pobreza, cada 15 minutos hay un desahucio... \" https://t.co/Ucj60SI3q2",
+        "truncated": false,
+        "display_text_range": [
+            0,
+            190
+        ],
+        "entities": {
+            "hashtags": [],
+            "symbols": [],
+            "user_mentions": [],
+            "urls": [],
+            "media": [
+                {
+                    "id": 1415292279590375431,
+                    "id_str": "1415292279590375431",
+                    "indices": [
+                        191,
+                        214
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/E6Qg1GpWUAcnpg_.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/E6Qg1GpWUAcnpg_.jpg",
+                    "url": "https://t.co/Ucj60SI3q2",
+                    "display_url": "pic.twitter.com/Ucj60SI3q2",
+                    "expanded_url": "https://twitter.com/manuelferdiez/status/1415292286037118979/photo/1",
+                    "type": "photo",
+                    "sizes": {
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "medium": {
+                            "w": 960,
+                            "h": 640,
+                            "resize": "fit"
+                        },
+                        "large": {
+                            "w": 960,
+                            "h": 640,
+                            "resize": "fit"
+                        },
+                        "small": {
+                            "w": 680,
+                            "h": 453,
+                            "resize": "fit"
+                        }
+                    }
+                }
+            ]
+        },
+        "extended_entities": {
+            "media": [
+                {
+                    "id": 1415292279590375431,
+                    "id_str": "1415292279590375431",
+                    "indices": [
+                        191,
+                        214
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/E6Qg1GpWUAcnpg_.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/E6Qg1GpWUAcnpg_.jpg",
+                    "url": "https://t.co/Ucj60SI3q2",
+                    "display_url": "pic.twitter.com/Ucj60SI3q2",
+                    "expanded_url": "https://twitter.com/manuelferdiez/status/1415292286037118979/photo/1",
+                    "type": "photo",
+                    "sizes": {
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "medium": {
+                            "w": 960,
+                            "h": 640,
+                            "resize": "fit"
+                        },
+                        "large": {
+                            "w": 960,
+                            "h": 640,
+                            "resize": "fit"
+                        },
+                        "small": {
+                            "w": 680,
+                            "h": 453,
+                            "resize": "fit"
+                        }
+                    }
+                }
+            ]
+        },
+        "metadata": {
+            "iso_language_code": "es",
+            "result_type": "recent"
+        },
+        "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 1400203249,
+            "id_str": "1400203249",
+            "name": "Manuel Fern\u00e1ndez",
+            "screen_name": "manuelferdiez",
+            "location": "Madrid",
+            "description": "'Vamos a clavar los ojos m\u00e1s all\u00e1 de la infamia, para adivinar otro mundo posible'",
+            "url": null,
+            "entities": {
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 4661,
+            "friends_count": 550,
+            "listed_count": 29,
+            "created_at": "Fri May 03 16:53:06 +0000 2013",
+            "favourites_count": 13860,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": true,
+            "verified": false,
+            "statuses_count": 55644,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "C0DEED",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/821685362707824640/kI4iJ7ri_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/821685362707824640/kI4iJ7ri_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/1400203249/1584450034",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "has_extended_profile": false,
+            "default_profile": true,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none",
+            "withheld_in_countries": []
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 4,
+        "favorite_count": 3,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "es"
+    },
+    "is_quote_status": false,
+    "retweet_count": 4,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "es"
+}

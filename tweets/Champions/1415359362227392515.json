@@ -1,0 +1,120 @@
+{
+    "created_at": "Wed Jul 14 17:15:42 +0000 2021",
+    "id": 1415359362227392515,
+    "id_str": "1415359362227392515",
+    "full_text": "@_konozb @Lolinho1999 Cuando tuvimos nuestro mejor equipo ganamos 4/5 champions, vivir de la nostalgia es lo que os tiene asi, que aun os pensais que vais a jugar como en 2009 pareceis ni\u00f1os peque\u00f1os en un cuento de hadas y por eso la realidad os esta dando duro ahora",
+    "truncated": false,
+    "display_text_range": [
+        22,
+        268
+    ],
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "_konozb",
+                "name": "Pol \ud83d\udd25",
+                "id": 1493551034,
+                "id_str": "1493551034",
+                "indices": [
+                    0,
+                    8
+                ]
+            },
+            {
+                "screen_name": "Lolinho1999",
+                "name": "Lolo\ud83d\udcaf",
+                "id": 1130475232593104896,
+                "id_str": "1130475232593104896",
+                "indices": [
+                    9,
+                    21
+                ]
+            }
+        ],
+        "urls": []
+    },
+    "metadata": {
+        "iso_language_code": "es",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "in_reply_to_status_id": 1415325369905958918,
+    "in_reply_to_status_id_str": "1415325369905958918",
+    "in_reply_to_user_id": 1493551034,
+    "in_reply_to_user_id_str": "1493551034",
+    "in_reply_to_screen_name": "_konozb",
+    "user": {
+        "id": 604511008,
+        "id_str": "604511008",
+        "name": "JRK",
+        "screen_name": "Jerkin_G",
+        "location": "Girona, Espa\u00f1a",
+        "description": "I would like tell you I love you but",
+        "url": "https://t.co/LFK9UHXggF",
+        "entities": {
+            "url": {
+                "urls": [
+                    {
+                        "url": "https://t.co/LFK9UHXggF",
+                        "expanded_url": "https://www.instagram.com/jerson_steven/?hl=es",
+                        "display_url": "instagram.com/jerson_steven/\u2026",
+                        "indices": [
+                            0,
+                            23
+                        ]
+                    }
+                ]
+            },
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 203,
+        "friends_count": 658,
+        "listed_count": 1,
+        "created_at": "Sun Jun 10 13:14:04 +0000 2012",
+        "favourites_count": 13070,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 21164,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1414651672111026182/5JlmmiUB_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1414651672111026182/5JlmmiUB_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/604511008/1580152337",
+        "profile_link_color": "DD2E44",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "profile_use_background_image": false,
+        "has_extended_profile": false,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "es"
+}

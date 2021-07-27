@@ -1,0 +1,302 @@
+{
+    "created_at": "Wed Jul 14 16:00:26 +0000 2021",
+    "id": 1415340420939325450,
+    "id_str": "1415340420939325450",
+    "full_text": "RT @dw_espanol: La #crisis del sistema de #salud en #Cuba es uno de los detonantes de las #protestas. La falta de medicamentos b\u00e1sicos y de\u2026",
+    "truncated": false,
+    "display_text_range": [
+        0,
+        140
+    ],
+    "entities": {
+        "hashtags": [
+            {
+                "text": "crisis",
+                "indices": [
+                    19,
+                    26
+                ]
+            },
+            {
+                "text": "salud",
+                "indices": [
+                    42,
+                    48
+                ]
+            },
+            {
+                "text": "Cuba",
+                "indices": [
+                    52,
+                    57
+                ]
+            },
+            {
+                "text": "protestas",
+                "indices": [
+                    90,
+                    100
+                ]
+            }
+        ],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "dw_espanol",
+                "name": "DW Espa\u00f1ol",
+                "id": 6135622,
+                "id_str": "6135622",
+                "indices": [
+                    3,
+                    14
+                ]
+            }
+        ],
+        "urls": []
+    },
+    "metadata": {
+        "iso_language_code": "es",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 1132326068,
+        "id_str": "1132326068",
+        "name": "canejo",
+        "screen_name": "canejo76",
+        "location": "",
+        "description": "",
+        "url": null,
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 54,
+        "friends_count": 67,
+        "listed_count": 0,
+        "created_at": "Tue Jan 29 22:49:03 +0000 2013",
+        "favourites_count": 8441,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 11657,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1243270323476234240/cJB_r1w7_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1243270323476234240/cJB_r1w7_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": true,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+        "created_at": "Tue Jul 13 21:00:01 +0000 2021",
+        "id": 1415053425331560456,
+        "id_str": "1415053425331560456",
+        "full_text": "La #crisis del sistema de #salud en #Cuba es uno de los detonantes de las #protestas. La falta de medicamentos b\u00e1sicos y de vacunas contra el #COVID19 hace que Cuba, cuyo sistema sanitario fue modelo, necesite ahora de apoyo. (cp). @AyusoAnna\n@hrw (cp). https://t.co/j32biTMCga",
+        "truncated": false,
+        "display_text_range": [
+            0,
+            277
+        ],
+        "entities": {
+            "hashtags": [
+                {
+                    "text": "crisis",
+                    "indices": [
+                        3,
+                        10
+                    ]
+                },
+                {
+                    "text": "salud",
+                    "indices": [
+                        26,
+                        32
+                    ]
+                },
+                {
+                    "text": "Cuba",
+                    "indices": [
+                        36,
+                        41
+                    ]
+                },
+                {
+                    "text": "protestas",
+                    "indices": [
+                        74,
+                        84
+                    ]
+                },
+                {
+                    "text": "COVID19",
+                    "indices": [
+                        142,
+                        150
+                    ]
+                }
+            ],
+            "symbols": [],
+            "user_mentions": [
+                {
+                    "screen_name": "AyusoAnna",
+                    "name": "Anna Ayuso",
+                    "id": 292803346,
+                    "id_str": "292803346",
+                    "indices": [
+                        232,
+                        242
+                    ]
+                },
+                {
+                    "screen_name": "hrw",
+                    "name": "Human Rights Watch",
+                    "id": 14700316,
+                    "id_str": "14700316",
+                    "indices": [
+                        243,
+                        247
+                    ]
+                }
+            ],
+            "urls": [
+                {
+                    "url": "https://t.co/j32biTMCga",
+                    "expanded_url": "https://p.dw.com/p/3wR6k",
+                    "display_url": "p.dw.com/p/3wR6k",
+                    "indices": [
+                        254,
+                        277
+                    ]
+                }
+            ]
+        },
+        "metadata": {
+            "iso_language_code": "es",
+            "result_type": "recent"
+        },
+        "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 6135622,
+            "id_str": "6135622",
+            "name": "DW Espa\u00f1ol",
+            "screen_name": "dw_espanol",
+            "location": "Berlin, Germany",
+            "description": "Desde Alemania para Am\u00e9rica Latina. Todo lo que necesita saber del mundo. Aqu\u00ed y ahora. Se\u00f1al en vivo 24/7 https://t.co/CrFwQbXtJa",
+            "url": "https://t.co/ECcdsABhng",
+            "entities": {
+                "url": {
+                    "urls": [
+                        {
+                            "url": "https://t.co/ECcdsABhng",
+                            "expanded_url": "http://www.dw.com/es/",
+                            "display_url": "dw.com/es/",
+                            "indices": [
+                                0,
+                                23
+                            ]
+                        }
+                    ]
+                },
+                "description": {
+                    "urls": [
+                        {
+                            "url": "https://t.co/CrFwQbXtJa",
+                            "expanded_url": "http://youtube.com/dwespanol",
+                            "display_url": "youtube.com/dwespanol",
+                            "indices": [
+                                107,
+                                130
+                            ]
+                        }
+                    ]
+                }
+            },
+            "protected": false,
+            "followers_count": 998606,
+            "friends_count": 145,
+            "listed_count": 5763,
+            "created_at": "Fri May 18 11:40:24 +0000 2007",
+            "favourites_count": 1631,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": true,
+            "verified": true,
+            "statuses_count": 134059,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "F5F4F2",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": true,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/900335405580550144/EpLMIlFW_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/900335405580550144/EpLMIlFW_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/6135622/1611074821",
+            "profile_link_color": "0099FF",
+            "profile_sidebar_border_color": "FFFFFF",
+            "profile_sidebar_fill_color": "FFFFFF",
+            "profile_text_color": "3E3E3E",
+            "profile_use_background_image": false,
+            "has_extended_profile": false,
+            "default_profile": false,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none",
+            "withheld_in_countries": []
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 83,
+        "favorite_count": 140,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "es"
+    },
+    "is_quote_status": false,
+    "retweet_count": 83,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "es"
+}

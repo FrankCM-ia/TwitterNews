@@ -1,0 +1,97 @@
+{
+    "created_at": "Wed Jul 14 16:00:44 +0000 2021",
+    "id": 1415340493710544902,
+    "id_str": "1415340493710544902",
+    "full_text": "@libercringe Democracia socialista = dictadura . No se porque se acompleja tanto la izquierda con cuba si despu\u00e9s va a putear tanto la democracia liberal",
+    "truncated": false,
+    "display_text_range": [
+        13,
+        153
+    ],
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "libercringe",
+                "name": "Libercringe",
+                "id": 2652332711,
+                "id_str": "2652332711",
+                "indices": [
+                    0,
+                    12
+                ]
+            }
+        ],
+        "urls": []
+    },
+    "metadata": {
+        "iso_language_code": "es",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "in_reply_to_status_id": 1415322106611576832,
+    "in_reply_to_status_id_str": "1415322106611576832",
+    "in_reply_to_user_id": 2652332711,
+    "in_reply_to_user_id_str": "2652332711",
+    "in_reply_to_screen_name": "libercringe",
+    "user": {
+        "id": 1306080744205418496,
+        "id_str": "1306080744205418496",
+        "name": "Gustavo Leguizam\u00f3n",
+        "screen_name": "Gustavo199lm",
+        "location": "Salta, Argentina",
+        "description": "no por feo , solo no me interesa tener foto de perfil",
+        "url": null,
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 44,
+        "friends_count": 125,
+        "listed_count": 0,
+        "created_at": "Wed Sep 16 04:01:38 +0000 2020",
+        "favourites_count": 55321,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 2767,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": null,
+        "profile_background_image_url_https": null,
+        "profile_background_tile": false,
+        "profile_image_url": "http://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+        "profile_image_url_https": "https://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1306080744205418496/1600241118",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": true,
+        "default_profile": true,
+        "default_profile_image": true,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "es"
+}

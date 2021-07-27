@@ -1,0 +1,314 @@
+{
+    "created_at": "Wed Jul 14 18:03:07 +0000 2021",
+    "id": 1415371296075100160,
+    "id_str": "1415371296075100160",
+    "full_text": "RT @rafrsr: No s\u00e9 que tiempo me queda por aqu\u00ed, si me suspendan la cuenta o me vengan a buscar directamente como pas\u00f3 con @Dinastars_\n\nPor\u2026",
+    "truncated": false,
+    "display_text_range": [
+        0,
+        139
+    ],
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "rafrsr",
+                "name": "Rafa \ud83c\udd98\ud83c\udde8\ud83c\uddfa",
+                "id": 786005097289359360,
+                "id_str": "786005097289359360",
+                "indices": [
+                    3,
+                    10
+                ]
+            },
+            {
+                "screen_name": "Dinastars_",
+                "name": "Dina Stars \ud83d\ude0c",
+                "id": 905599922854137856,
+                "id_str": "905599922854137856",
+                "indices": [
+                    122,
+                    133
+                ]
+            }
+        ],
+        "urls": []
+    },
+    "metadata": {
+        "iso_language_code": "es",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 144970210,
+        "id_str": "144970210",
+        "name": "Nakary",
+        "screen_name": "nakarymartinez",
+        "location": "Venezuela",
+        "description": "Ing. agroindustrial.",
+        "url": "http://t.co/XVmVmnWN6o",
+        "entities": {
+            "url": {
+                "urls": [
+                    {
+                        "url": "http://t.co/XVmVmnWN6o",
+                        "expanded_url": "http://www.instagram.com/nakrym",
+                        "display_url": "instagram.com/nakrym",
+                        "indices": [
+                            0,
+                            22
+                        ]
+                    }
+                ]
+            },
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 67,
+        "friends_count": 430,
+        "listed_count": 0,
+        "created_at": "Mon May 17 20:06:25 +0000 2010",
+        "favourites_count": 1531,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 1136,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "0A0A09",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme3/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme3/bg.gif",
+        "profile_background_tile": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1407310034418216960/G6YLgbqP_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1407310034418216960/G6YLgbqP_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/144970210/1450052962",
+        "profile_link_color": "0099CC",
+        "profile_sidebar_border_color": "FFF8AD",
+        "profile_sidebar_fill_color": "F6FFD1",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+        "created_at": "Tue Jul 13 21:59:33 +0000 2021",
+        "id": 1415068406559170560,
+        "id_str": "1415068406559170560",
+        "full_text": "No s\u00e9 que tiempo me queda por aqu\u00ed, si me suspendan la cuenta o me vengan a buscar directamente como pas\u00f3 con @Dinastars_\n\nPor si acaso dejo este twit fijado y hago responsable a la DICTADURA de @DiazCanelB de cualquier cosa que me suceda. \n\nEsto es #PatriaYVida \ud83c\udde8\ud83c\uddfa\u270a\ud83c\udffb https://t.co/Fmb2q5Zbpt",
+        "truncated": false,
+        "display_text_range": [
+            0,
+            267
+        ],
+        "entities": {
+            "hashtags": [
+                {
+                    "text": "PatriaYVida",
+                    "indices": [
+                        250,
+                        262
+                    ]
+                }
+            ],
+            "symbols": [],
+            "user_mentions": [
+                {
+                    "screen_name": "Dinastars_",
+                    "name": "Dina Stars \ud83d\ude0c",
+                    "id": 905599922854137856,
+                    "id_str": "905599922854137856",
+                    "indices": [
+                        110,
+                        121
+                    ]
+                },
+                {
+                    "screen_name": "DiazCanelB",
+                    "name": "Miguel D\u00edaz-Canel Berm\u00fadez",
+                    "id": 1025037163291914240,
+                    "id_str": "1025037163291914240",
+                    "indices": [
+                        195,
+                        206
+                    ]
+                }
+            ],
+            "urls": [],
+            "media": [
+                {
+                    "id": 1415068401828089859,
+                    "id_str": "1415068401828089859",
+                    "indices": [
+                        268,
+                        291
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/E6NVNs_X0AMgNIG.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/E6NVNs_X0AMgNIG.jpg",
+                    "url": "https://t.co/Fmb2q5Zbpt",
+                    "display_url": "pic.twitter.com/Fmb2q5Zbpt",
+                    "expanded_url": "https://twitter.com/rafrsr/status/1415068406559170560/photo/1",
+                    "type": "photo",
+                    "sizes": {
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "large": {
+                            "w": 515,
+                            "h": 470,
+                            "resize": "fit"
+                        },
+                        "small": {
+                            "w": 515,
+                            "h": 470,
+                            "resize": "fit"
+                        },
+                        "medium": {
+                            "w": 515,
+                            "h": 470,
+                            "resize": "fit"
+                        }
+                    }
+                }
+            ]
+        },
+        "extended_entities": {
+            "media": [
+                {
+                    "id": 1415068401828089859,
+                    "id_str": "1415068401828089859",
+                    "indices": [
+                        268,
+                        291
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/E6NVNs_X0AMgNIG.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/E6NVNs_X0AMgNIG.jpg",
+                    "url": "https://t.co/Fmb2q5Zbpt",
+                    "display_url": "pic.twitter.com/Fmb2q5Zbpt",
+                    "expanded_url": "https://twitter.com/rafrsr/status/1415068406559170560/photo/1",
+                    "type": "photo",
+                    "sizes": {
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "large": {
+                            "w": 515,
+                            "h": 470,
+                            "resize": "fit"
+                        },
+                        "small": {
+                            "w": 515,
+                            "h": 470,
+                            "resize": "fit"
+                        },
+                        "medium": {
+                            "w": 515,
+                            "h": 470,
+                            "resize": "fit"
+                        }
+                    }
+                }
+            ]
+        },
+        "metadata": {
+            "iso_language_code": "es",
+            "result_type": "recent"
+        },
+        "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 786005097289359360,
+            "id_str": "786005097289359360",
+            "name": "Rafa \ud83c\udd98\ud83c\udde8\ud83c\uddfa",
+            "screen_name": "rafrsr",
+            "location": "La Habana, Cuba",
+            "description": "Pap\u00e1 de Emily, Hijo, #Cubano \ud83c\udde8\ud83c\uddfa, #developer and #Madridista \u26bd... in that order!",
+            "url": null,
+            "entities": {
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 5451,
+            "friends_count": 809,
+            "listed_count": 17,
+            "created_at": "Wed Oct 12 00:46:33 +0000 2016",
+            "favourites_count": 76882,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": true,
+            "verified": false,
+            "statuses_count": 19041,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "000000",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1412640155291226113/fnCmv4GE_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1412640155291226113/fnCmv4GE_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/786005097289359360/1589595219",
+            "profile_link_color": "009BA7",
+            "profile_sidebar_border_color": "000000",
+            "profile_sidebar_fill_color": "000000",
+            "profile_text_color": "000000",
+            "profile_use_background_image": false,
+            "has_extended_profile": true,
+            "default_profile": false,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none",
+            "withheld_in_countries": []
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 1259,
+        "favorite_count": 2336,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "es"
+    },
+    "is_quote_status": false,
+    "retweet_count": 1259,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "es"
+}

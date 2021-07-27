@@ -1,0 +1,97 @@
+{
+    "created_at": "Wed Jul 14 17:34:40 +0000 2021",
+    "id": 1415364132828766210,
+    "id_str": "1415364132828766210",
+    "full_text": "@EFenomeno07 Eso s\u00ed Atl\u00e9tico gana y greizmann viene gratis por Sa\u00fal que es sobrevalorado. Pero yo me refiero de su salida, hizo un documental me quedo, subir su sueldo 23M y en febrero negocio al Bar\u00e7a el mismo d\u00eda jug\u00e1ndose la champions octavos vs juventus. Eso es muy feo",
+    "truncated": false,
+    "display_text_range": [
+        13,
+        273
+    ],
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "EFenomeno07",
+                "name": "il Fenomeno\ud83c\uddee\ud83c\uddf9",
+                "id": 1148989498753212417,
+                "id_str": "1148989498753212417",
+                "indices": [
+                    0,
+                    12
+                ]
+            }
+        ],
+        "urls": []
+    },
+    "metadata": {
+        "iso_language_code": "es",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "in_reply_to_status_id": 1415363449614385153,
+    "in_reply_to_status_id_str": "1415363449614385153",
+    "in_reply_to_user_id": 1148989498753212417,
+    "in_reply_to_user_id_str": "1148989498753212417",
+    "in_reply_to_screen_name": "EFenomeno07",
+    "user": {
+        "id": 1299333188699947008,
+        "id_str": "1299333188699947008",
+        "name": "realmadridelreydeeuropa13",
+        "screen_name": "realmadridrey13",
+        "location": "Barcelona, Espa\u00f1a",
+        "description": "Madridista realista. Florentino dimisi\u00f3n.\nFan\u00e1tico del Manchester United.\nWoodwardOut\nGlazersOut",
+        "url": null,
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 418,
+        "friends_count": 657,
+        "listed_count": 1,
+        "created_at": "Fri Aug 28 13:09:18 +0000 2020",
+        "favourites_count": 77157,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 4884,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": null,
+        "profile_background_image_url_https": null,
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1299333676799422466/P2vXEGxz_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1299333676799422466/P2vXEGxz_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1299333188699947008/1598878757",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 1,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "es"
+}

@@ -1,0 +1,207 @@
+{
+    "created_at": "Wed Jul 14 16:00:26 +0000 2021",
+    "id": 1415340419429380102,
+    "id_str": "1415340419429380102",
+    "full_text": "RT @NoticiasRCN: La influencer, que se ha mostrado como una opositora al gobierno de Miguel D\u00edaz- Canel, fue detenida mientras estaba en un\u2026",
+    "truncated": false,
+    "display_text_range": [
+        0,
+        140
+    ],
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "NoticiasRCN",
+                "name": "Noticias RCN",
+                "id": 35013719,
+                "id_str": "35013719",
+                "indices": [
+                    3,
+                    15
+                ]
+            }
+        ],
+        "urls": []
+    },
+    "metadata": {
+        "iso_language_code": "es",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 573154647,
+        "id_str": "573154647",
+        "name": "Eduardo",
+        "screen_name": "EduardoRestrep3",
+        "location": "Cuenca, Ecuador",
+        "description": "",
+        "url": null,
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 326,
+        "friends_count": 693,
+        "listed_count": 2,
+        "created_at": "Sun May 06 22:28:41 +0000 2012",
+        "favourites_count": 53091,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 28867,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1386815779031719942/M8C0uUwN_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1386815779031719942/M8C0uUwN_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/573154647/1511917841",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": true,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+        "created_at": "Wed Jul 14 01:14:41 +0000 2021",
+        "id": 1415117511788539907,
+        "id_str": "1415117511788539907",
+        "full_text": "La influencer, que se ha mostrado como una opositora al gobierno de Miguel D\u00edaz- Canel, fue detenida mientras estaba en una entrevista \u2b07\ufe0f https://t.co/ZzcRkQSsZJ",
+        "truncated": false,
+        "display_text_range": [
+            0,
+            161
+        ],
+        "entities": {
+            "hashtags": [],
+            "symbols": [],
+            "user_mentions": [],
+            "urls": [
+                {
+                    "url": "https://t.co/ZzcRkQSsZJ",
+                    "expanded_url": "https://www.noticiasrcn.com/internacional/cuba-youtuber-dina-stars-fue-detenida-en-medio-de-entrevista-en-vivo-383476?utm_medium=Social&utm_source=Twitter#Echobox=1626219813-1",
+                    "display_url": "noticiasrcn.com/internacional/\u2026",
+                    "indices": [
+                        138,
+                        161
+                    ]
+                }
+            ]
+        },
+        "metadata": {
+            "iso_language_code": "es",
+            "result_type": "recent"
+        },
+        "source": "<a href=\"https://www.echobox.com\" rel=\"nofollow\">Echobox</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 35013719,
+            "id_str": "35013719",
+            "name": "Noticias RCN",
+            "screen_name": "NoticiasRCN",
+            "location": "Colombia",
+            "description": "Nuestra responsabilidad es confrontar opiniones, darle voz a los colombianos y buscar soluciones que los ayuden en su d\u00eda a d\u00eda. Noticias RCN no se detiene",
+            "url": "https://t.co/93vmIrf8l6",
+            "entities": {
+                "url": {
+                    "urls": [
+                        {
+                            "url": "https://t.co/93vmIrf8l6",
+                            "expanded_url": "http://www.noticiasrcn.com/",
+                            "display_url": "noticiasrcn.com",
+                            "indices": [
+                                0,
+                                23
+                            ]
+                        }
+                    ]
+                },
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 8121493,
+            "friends_count": 2456,
+            "listed_count": 18257,
+            "created_at": "Fri Apr 24 19:28:30 +0000 2009",
+            "favourites_count": 2514,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": true,
+            "verified": true,
+            "statuses_count": 608694,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "0C8AF6",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1258915461019979778/noV0QMyw_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1258915461019979778/noV0QMyw_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/35013719/1611077080",
+            "profile_link_color": "3B94D9",
+            "profile_sidebar_border_color": "FFFFFF",
+            "profile_sidebar_fill_color": "FFFFFF",
+            "profile_text_color": "333333",
+            "profile_use_background_image": false,
+            "has_extended_profile": false,
+            "default_profile": false,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "regular",
+            "withheld_in_countries": []
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 66,
+        "favorite_count": 92,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "es"
+    },
+    "is_quote_status": false,
+    "retweet_count": 66,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "es"
+}

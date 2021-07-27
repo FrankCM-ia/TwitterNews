@@ -1,0 +1,196 @@
+{
+    "created_at": "Wed Jul 14 16:00:26 +0000 2021",
+    "id": 1415340421534863365,
+    "id_str": "1415340421534863365",
+    "full_text": "RT @MackyArenas: Un muerto, m\u00e1s de 170 detenidos y brutal represi\u00f3n a palos en Cuba...",
+    "truncated": false,
+    "display_text_range": [
+        0,
+        86
+    ],
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "MackyArenas",
+                "name": "Macky Arenas",
+                "id": 54697319,
+                "id_str": "54697319",
+                "indices": [
+                    3,
+                    15
+                ]
+            }
+        ],
+        "urls": []
+    },
+    "metadata": {
+        "iso_language_code": "es",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 172928870,
+        "id_str": "172928870",
+        "name": "Cruz Rainer Marval",
+        "screen_name": "cruzrainerM",
+        "location": "Lobatera edo. T\u00e1chira",
+        "description": "Carabobe\u00f1o Tachirense Lic Adm\u00f3n Gte. de Serv. Tur\u00edsticos Atrapasue\u00f1os Sue\u00f1o y actu\u00f3 por la nueva Independencia  de una Venezuela libre y progresista",
+        "url": null,
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 1114,
+        "friends_count": 2684,
+        "listed_count": 10,
+        "created_at": "Sat Jul 31 00:01:26 +0000 2010",
+        "favourites_count": 225,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 46482,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "FFFFFF",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/781225573133713408/M9U5KrxJ_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/781225573133713408/M9U5KrxJ_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/172928870/1442970682",
+        "profile_link_color": "FFB500",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "090826",
+        "profile_text_color": "867E7E",
+        "profile_use_background_image": true,
+        "has_extended_profile": true,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+        "created_at": "Wed Jul 14 10:43:04 +0000 2021",
+        "id": 1415260552662765572,
+        "id_str": "1415260552662765572",
+        "full_text": "Un muerto, m\u00e1s de 170 detenidos y brutal represi\u00f3n a palos en Cuba...",
+        "truncated": false,
+        "display_text_range": [
+            0,
+            69
+        ],
+        "entities": {
+            "hashtags": [],
+            "symbols": [],
+            "user_mentions": [],
+            "urls": []
+        },
+        "metadata": {
+            "iso_language_code": "es",
+            "result_type": "recent"
+        },
+        "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 54697319,
+            "id_str": "54697319",
+            "name": "Macky Arenas",
+            "screen_name": "MackyArenas",
+            "location": "\u00dcT: 10.492435,-66.856178",
+            "description": "Soci\u00f3loga y periodista venezolana: en mi pa\u00eds!\nAviso: Groseros y ordinarios no caben en este TL",
+            "url": "https://t.co/Pn2q6qcQuA",
+            "entities": {
+                "url": {
+                    "urls": [
+                        {
+                            "url": "https://t.co/Pn2q6qcQuA",
+                            "expanded_url": "http://www.conexionRCL.com",
+                            "display_url": "conexionRCL.com",
+                            "indices": [
+                                0,
+                                23
+                            ]
+                        }
+                    ]
+                },
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 214229,
+            "friends_count": 1322,
+            "listed_count": 1202,
+            "created_at": "Tue Jul 07 22:14:41 +0000 2009",
+            "favourites_count": 7295,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": true,
+            "verified": false,
+            "statuses_count": 125045,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "C0DEED",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/344513261578207504/ba51ea4117369477a150c43757b96c04_normal.jpeg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/344513261578207504/ba51ea4117369477a150c43757b96c04_normal.jpeg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/54697319/1371228232",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "has_extended_profile": false,
+            "default_profile": true,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none",
+            "withheld_in_countries": []
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 78,
+        "favorite_count": 68,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "es"
+    },
+    "is_quote_status": false,
+    "retweet_count": 78,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "es"
+}

@@ -1,0 +1,117 @@
+{
+    "created_at": "Wed Jul 14 17:57:10 +0000 2021",
+    "id": 1415369798767325187,
+    "id_str": "1415369798767325187",
+    "full_text": "@GuillemCristo @Yusnaby @monasterioR Y qu\u00e9 importa lo que fue su padre? Ella no es su padre, son dos personas diferentes...sabes? Deja la mentalidad atrasada esa tuya que a nadie le interesa! Juanita Castro es disidente y hermana de Fidel y Ra\u00fal Castro. Deja t\u00fa de hablar tanta pinga",
+    "truncated": false,
+    "display_text_range": [
+        37,
+        283
+    ],
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "GuillemCristo",
+                "name": "Guillem",
+                "id": 329600772,
+                "id_str": "329600772",
+                "indices": [
+                    0,
+                    14
+                ]
+            },
+            {
+                "screen_name": "Yusnaby",
+                "name": "Yusnaby P\u00e9rez",
+                "id": 38386328,
+                "id_str": "38386328",
+                "indices": [
+                    15,
+                    23
+                ]
+            },
+            {
+                "screen_name": "monasterioR",
+                "name": "Rocio Monasterio",
+                "id": 2216589010,
+                "id_str": "2216589010",
+                "indices": [
+                    24,
+                    36
+                ]
+            }
+        ],
+        "urls": []
+    },
+    "metadata": {
+        "iso_language_code": "es",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "in_reply_to_status_id": 1415213863793053698,
+    "in_reply_to_status_id_str": "1415213863793053698",
+    "in_reply_to_user_id": 329600772,
+    "in_reply_to_user_id_str": "329600772",
+    "in_reply_to_screen_name": "GuillemCristo",
+    "user": {
+        "id": 1242696149011771398,
+        "id_str": "1242696149011771398",
+        "name": "Mart\u00ed \ud83c\udf1f",
+        "screen_name": "pepemarti_666",
+        "location": "J\u00fapiter",
+        "description": "Con todos y para el bien de todos",
+        "url": null,
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 353,
+        "friends_count": 1486,
+        "listed_count": 1,
+        "created_at": "Wed Mar 25 06:13:57 +0000 2020",
+        "favourites_count": 9724,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 4024,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": null,
+        "profile_background_image_url_https": null,
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1346297666897113089/6wZlR9NB_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1346297666897113089/6wZlR9NB_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1242696149011771398/1594025910",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": true,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "es"
+}

@@ -1,0 +1,97 @@
+{
+    "created_at": "Thu Jul 15 17:53:08 +0000 2021",
+    "id": 1415731168541036553,
+    "id_str": "1415731168541036553",
+    "full_text": "@AngelicaNoboaP As\u00ed fue... Hay amistades por las que vale tirarse del barranco. \u2764\ufe0f",
+    "truncated": false,
+    "display_text_range": [
+        16,
+        82
+    ],
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "AngelicaNoboaP",
+                "name": "Ang\u00e9lica Noboa Pag\u00e1n",
+                "id": 146550297,
+                "id_str": "146550297",
+                "indices": [
+                    0,
+                    15
+                ]
+            }
+        ],
+        "urls": []
+    },
+    "metadata": {
+        "iso_language_code": "es",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "in_reply_to_status_id": 1415697290711416834,
+    "in_reply_to_status_id_str": "1415697290711416834",
+    "in_reply_to_user_id": 146550297,
+    "in_reply_to_user_id_str": "146550297",
+    "in_reply_to_screen_name": "AngelicaNoboaP",
+    "user": {
+        "id": 230793588,
+        "id_str": "230793588",
+        "name": "Elka Scheker",
+        "screen_name": "elkascheker",
+        "location": "A Caribbean Island",
+        "description": "Abogada, reformadora, negociadora y consultora. Madre feliz de Marce e Ivan.",
+        "url": null,
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 6105,
+        "friends_count": 1162,
+        "listed_count": 12,
+        "created_at": "Sun Dec 26 18:03:00 +0000 2010",
+        "favourites_count": 70498,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 36105,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "EBEBEB",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme7/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme7/bg.gif",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1001978084818673664/wrHXYEJu_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1001978084818673664/wrHXYEJu_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/230793588/1402923597",
+        "profile_link_color": "990000",
+        "profile_sidebar_border_color": "DFDFDF",
+        "profile_sidebar_fill_color": "F3F3F3",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": true,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 7,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "es"
+}

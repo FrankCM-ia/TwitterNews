@@ -1,0 +1,109 @@
+{
+    "created_at": "Wed Jul 14 17:57:24 +0000 2021",
+    "id": 1415369853989494786,
+    "id_str": "1415369853989494786",
+    "full_text": "@Blazier_10 Final de Champions: Atl\u00e9tico-PSG\n\nTambi\u00e9n la pierden.",
+    "truncated": false,
+    "display_text_range": [
+        12,
+        65
+    ],
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "Blazier_10",
+                "name": "Irene \ud83e\udd8b",
+                "id": 3303948160,
+                "id_str": "3303948160",
+                "indices": [
+                    0,
+                    11
+                ]
+            }
+        ],
+        "urls": []
+    },
+    "metadata": {
+        "iso_language_code": "es",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "in_reply_to_status_id": 1415369611411959814,
+    "in_reply_to_status_id_str": "1415369611411959814",
+    "in_reply_to_user_id": 3303948160,
+    "in_reply_to_user_id_str": "3303948160",
+    "in_reply_to_screen_name": "Blazier_10",
+    "user": {
+        "id": 923864195531182080,
+        "id_str": "923864195531182080",
+        "name": "\ud83c\udff3\ufe0f\u200d\ud83c\udf08TKF | Karu",
+        "screen_name": "KarurosuVGC",
+        "location": "Granada, Espa\u00f1a",
+        "description": "Intentando mejorar cada d\u00eda. Clan: @TheKingsFangs | Pomekos y a Valorant | \ud83d\udddd\ufe0f: @Karucandado\n| Demisexual - Bisexual \ud83c\udff3\ufe0f\u200d\ud83c\udf08 | #JusticiaParaSamuel",
+        "url": "https://t.co/kJJ4O0ki4E",
+        "entities": {
+            "url": {
+                "urls": [
+                    {
+                        "url": "https://t.co/kJJ4O0ki4E",
+                        "expanded_url": "http://paypal.me/karuvgc",
+                        "display_url": "paypal.me/karuvgc",
+                        "indices": [
+                            0,
+                            23
+                        ]
+                    }
+                ]
+            },
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 909,
+        "friends_count": 4979,
+        "listed_count": 4,
+        "created_at": "Fri Oct 27 10:49:23 +0000 2017",
+        "favourites_count": 158487,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 63955,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1389225958742413326/Ghr00LL9_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1389225958742413326/Ghr00LL9_normal.jpg",
+        "profile_link_color": "FF0000",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "profile_use_background_image": false,
+        "has_extended_profile": true,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "es"
+}

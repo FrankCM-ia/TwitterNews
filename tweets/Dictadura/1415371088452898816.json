@@ -1,0 +1,193 @@
+{
+    "created_at": "Wed Jul 14 18:02:18 +0000 2021",
+    "id": 1415371088452898816,
+    "id_str": "1415371088452898816",
+    "full_text": "RT @MelisaRguezH: Cuba es una DICTADURA.",
+    "truncated": false,
+    "display_text_range": [
+        0,
+        40
+    ],
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "MelisaRguezH",
+                "name": "Melisa Rodr\u00edguez",
+                "id": 3166103591,
+                "id_str": "3166103591",
+                "indices": [
+                    3,
+                    16
+                ]
+            }
+        ],
+        "urls": []
+    },
+    "metadata": {
+        "iso_language_code": "es",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 1079446720562499586,
+        "id_str": "1079446720562499586",
+        "name": "P. G. Villaluenga \ud83e\udde1\ud83c\udf4a",
+        "screen_name": "PGVillaluenga",
+        "location": "Madrid, Comunidad de Madrid",
+        "description": "\ud83c\uddea\ud83c\uddf8 Espa\u00f1ol \ud83c\udf4a Liberal",
+        "url": null,
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 187,
+        "friends_count": 175,
+        "listed_count": 1,
+        "created_at": "Sun Dec 30 18:38:48 +0000 2018",
+        "favourites_count": 14965,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 15152,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1079501848451694592/hS1QDYDp_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1079501848451694592/hS1QDYDp_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1079446720562499586/1546208270",
+        "profile_link_color": "FAB81E",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "profile_use_background_image": false,
+        "has_extended_profile": true,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+        "created_at": "Wed Jul 14 06:39:17 +0000 2021",
+        "id": 1415199202171400196,
+        "id_str": "1415199202171400196",
+        "full_text": "Cuba es una DICTADURA.",
+        "truncated": false,
+        "display_text_range": [
+            0,
+            22
+        ],
+        "entities": {
+            "hashtags": [],
+            "symbols": [],
+            "user_mentions": [],
+            "urls": []
+        },
+        "metadata": {
+            "iso_language_code": "es",
+            "result_type": "recent"
+        },
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 3166103591,
+            "id_str": "3166103591",
+            "name": "Melisa Rodr\u00edguez",
+            "screen_name": "MelisaRguezH",
+            "location": "",
+            "description": "Ciudadana del mundo https://t.co/UJgHBhKsCT",
+            "url": null,
+            "entities": {
+                "description": {
+                    "urls": [
+                        {
+                            "url": "https://t.co/UJgHBhKsCT",
+                            "expanded_url": "https://www.facebook.com/MelisaRguezH",
+                            "display_url": "facebook.com/MelisaRguezH",
+                            "indices": [
+                                20,
+                                43
+                            ]
+                        }
+                    ]
+                }
+            },
+            "protected": false,
+            "followers_count": 20402,
+            "friends_count": 1236,
+            "listed_count": 223,
+            "created_at": "Tue Apr 14 15:01:50 +0000 2015",
+            "favourites_count": 9964,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": false,
+            "verified": true,
+            "statuses_count": 29550,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "C0DEED",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1380586259278667779/IPr9ZrJf_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1380586259278667779/IPr9ZrJf_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/3166103591/1617992331",
+            "profile_link_color": "FA743E",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "has_extended_profile": true,
+            "default_profile": false,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none",
+            "withheld_in_countries": []
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 185,
+        "favorite_count": 1056,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "es"
+    },
+    "is_quote_status": false,
+    "retweet_count": 185,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "es"
+}

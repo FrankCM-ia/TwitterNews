@@ -1,0 +1,376 @@
+{
+    "created_at": "Fri Jul 16 01:23:48 +0000 2021",
+    "id": 1415844584547029001,
+    "id_str": "1415844584547029001",
+    "full_text": "RT @ikasting: Olivares pastrulo de Barranco palomilla de ventana ! Solo enga\u00f1an a babosos como \u00e9l ! Si bondad es tan cierta como que el y s\u2026",
+    "truncated": false,
+    "display_text_range": [
+        0,
+        140
+    ],
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "ikasting",
+                "name": "Jos\u00e9 Luis",
+                "id": 3019432347,
+                "id_str": "3019432347",
+                "indices": [
+                    3,
+                    12
+                ]
+            }
+        ],
+        "urls": []
+    },
+    "metadata": {
+        "iso_language_code": "es",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 3098310713,
+        "id_str": "3098310713",
+        "name": "JERIK",
+        "screen_name": "jericos5",
+        "location": "",
+        "description": "EL ALEGRE",
+        "url": null,
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 107,
+        "friends_count": 190,
+        "listed_count": 2,
+        "created_at": "Fri Mar 20 03:42:19 +0000 2015",
+        "favourites_count": 13966,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 48913,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/733029618605805570/tfCocyXr_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/733029618605805570/tfCocyXr_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/3098310713/1463602961",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+        "created_at": "Fri Jul 16 00:57:29 +0000 2021",
+        "id": 1415837961669812228,
+        "id_str": "1415837961669812228",
+        "full_text": "Olivares pastrulo de Barranco palomilla de ventana ! Solo enga\u00f1an a babosos como \u00e9l ! Si bondad es tan cierta como que el y su hermana son personas de valores y respeto ! https://t.co/cUKHfmRoIf",
+        "truncated": false,
+        "display_text_range": [
+            0,
+            170
+        ],
+        "entities": {
+            "hashtags": [],
+            "symbols": [],
+            "user_mentions": [],
+            "urls": [
+                {
+                    "url": "https://t.co/cUKHfmRoIf",
+                    "expanded_url": "https://twitter.com/Fatima_M_V/status/1415804127431561219",
+                    "display_url": "twitter.com/Fatima_M_V/sta\u2026",
+                    "indices": [
+                        171,
+                        194
+                    ]
+                }
+            ]
+        },
+        "metadata": {
+            "iso_language_code": "es",
+            "result_type": "recent"
+        },
+        "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 3019432347,
+            "id_str": "3019432347",
+            "name": "Jos\u00e9 Luis",
+            "screen_name": "ikasting",
+            "location": "Barranco",
+            "description": "PERUANO \ud83c\uddf5\ud83c\uddea\n\n\n                                                                      Si no tienes foto Real en tu perfil eres Troll !",
+            "url": null,
+            "entities": {
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 109,
+            "friends_count": 164,
+            "listed_count": 0,
+            "created_at": "Thu Feb 05 07:00:07 +0000 2015",
+            "favourites_count": 2921,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": false,
+            "verified": false,
+            "statuses_count": 3356,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "C0DEED",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1399593641023361026/1YHHUdw0_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1399593641023361026/1YHHUdw0_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/3019432347/1606517460",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "has_extended_profile": false,
+            "default_profile": true,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none",
+            "withheld_in_countries": []
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": true,
+        "quoted_status_id": 1415804127431561219,
+        "quoted_status_id_str": "1415804127431561219",
+        "quoted_status": {
+            "created_at": "Thu Jul 15 22:43:03 +0000 2021",
+            "id": 1415804127431561219,
+            "id_str": "1415804127431561219",
+            "full_text": "\u00a1\u00a1SALVAJES!! Asi dejaron al sr. Muro la gente de PL por salir ayer a protestar pacificamente contra el fraude electoral. Frescamente el morado Olivares dice que \"no fue nada\" y Ed Malaga su nuevo congresista morado ni se entera, ESO SON LOS MORADOS SERVILES AL COMUNISMO https://t.co/NkfZ6Thsep",
+            "truncated": false,
+            "display_text_range": [
+                0,
+                270
+            ],
+            "entities": {
+                "hashtags": [],
+                "symbols": [],
+                "user_mentions": [],
+                "urls": [],
+                "media": [
+                    {
+                        "id": 1415801709016895494,
+                        "id_str": "1415801709016895494",
+                        "indices": [
+                            271,
+                            294
+                        ],
+                        "media_url": "http://pbs.twimg.com/media/E6XwJzJX0AYZfdk.jpg",
+                        "media_url_https": "https://pbs.twimg.com/media/E6XwJzJX0AYZfdk.jpg",
+                        "url": "https://t.co/NkfZ6Thsep",
+                        "display_url": "pic.twitter.com/NkfZ6Thsep",
+                        "expanded_url": "https://twitter.com/Fatima_M_V/status/1415804127431561219/photo/1",
+                        "type": "photo",
+                        "sizes": {
+                            "thumb": {
+                                "w": 150,
+                                "h": 150,
+                                "resize": "crop"
+                            },
+                            "small": {
+                                "w": 680,
+                                "h": 433,
+                                "resize": "fit"
+                            },
+                            "large": {
+                                "w": 2048,
+                                "h": 1305,
+                                "resize": "fit"
+                            },
+                            "medium": {
+                                "w": 1200,
+                                "h": 764,
+                                "resize": "fit"
+                            }
+                        }
+                    }
+                ]
+            },
+            "extended_entities": {
+                "media": [
+                    {
+                        "id": 1415801709016895494,
+                        "id_str": "1415801709016895494",
+                        "indices": [
+                            271,
+                            294
+                        ],
+                        "media_url": "http://pbs.twimg.com/media/E6XwJzJX0AYZfdk.jpg",
+                        "media_url_https": "https://pbs.twimg.com/media/E6XwJzJX0AYZfdk.jpg",
+                        "url": "https://t.co/NkfZ6Thsep",
+                        "display_url": "pic.twitter.com/NkfZ6Thsep",
+                        "expanded_url": "https://twitter.com/Fatima_M_V/status/1415804127431561219/photo/1",
+                        "type": "photo",
+                        "sizes": {
+                            "thumb": {
+                                "w": 150,
+                                "h": 150,
+                                "resize": "crop"
+                            },
+                            "small": {
+                                "w": 680,
+                                "h": 433,
+                                "resize": "fit"
+                            },
+                            "large": {
+                                "w": 2048,
+                                "h": 1305,
+                                "resize": "fit"
+                            },
+                            "medium": {
+                                "w": 1200,
+                                "h": 764,
+                                "resize": "fit"
+                            }
+                        }
+                    }
+                ]
+            },
+            "metadata": {
+                "iso_language_code": "es",
+                "result_type": "recent"
+            },
+            "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+            "in_reply_to_status_id": null,
+            "in_reply_to_status_id_str": null,
+            "in_reply_to_user_id": null,
+            "in_reply_to_user_id_str": null,
+            "in_reply_to_screen_name": null,
+            "user": {
+                "id": 792944460162297857,
+                "id_str": "792944460162297857",
+                "name": "fatima magui\u00f1a(el pollito dice)",
+                "screen_name": "Fatima_M_V",
+                "location": "",
+                "description": "Esposa y madre. Lucho por defender la vida desde la concepci\u00f3n hasta la muerte natural de todos los seres humanos\nPresidente Electo Del Per\u00fa (2021 -2026)",
+                "url": "https://t.co/cCJICN4L0m",
+                "entities": {
+                    "url": {
+                        "urls": [
+                            {
+                                "url": "https://t.co/cCJICN4L0m",
+                                "expanded_url": "https://www.facebook.com/MariaFatimaMaguiVelPOLLITOdicehttps://www.facebook.com/NOALABORTOsiiiiiiiii",
+                                "display_url": "facebook.com/MariaFatimaMag\u2026",
+                                "indices": [
+                                    0,
+                                    23
+                                ]
+                            }
+                        ]
+                    },
+                    "description": {
+                        "urls": []
+                    }
+                },
+                "protected": false,
+                "followers_count": 467,
+                "friends_count": 979,
+                "listed_count": 2,
+                "created_at": "Mon Oct 31 04:21:06 +0000 2016",
+                "favourites_count": 11882,
+                "utc_offset": null,
+                "time_zone": null,
+                "geo_enabled": false,
+                "verified": false,
+                "statuses_count": 4568,
+                "lang": null,
+                "contributors_enabled": false,
+                "is_translator": false,
+                "is_translation_enabled": false,
+                "profile_background_color": "F5F8FA",
+                "profile_background_image_url": null,
+                "profile_background_image_url_https": null,
+                "profile_background_tile": false,
+                "profile_image_url": "http://pbs.twimg.com/profile_images/813739364744237056/CWLhXxOL_normal.jpg",
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/813739364744237056/CWLhXxOL_normal.jpg",
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/792944460162297857/1602551081",
+                "profile_link_color": "1DA1F2",
+                "profile_sidebar_border_color": "C0DEED",
+                "profile_sidebar_fill_color": "DDEEF6",
+                "profile_text_color": "333333",
+                "profile_use_background_image": true,
+                "has_extended_profile": false,
+                "default_profile": true,
+                "default_profile_image": false,
+                "following": false,
+                "follow_request_sent": false,
+                "notifications": false,
+                "translator_type": "none",
+                "withheld_in_countries": []
+            },
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "contributors": null,
+            "is_quote_status": false,
+            "retweet_count": 43,
+            "favorite_count": 61,
+            "favorited": false,
+            "retweeted": false,
+            "possibly_sensitive": false,
+            "lang": "es"
+        },
+        "retweet_count": 2,
+        "favorite_count": 2,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "es"
+    },
+    "is_quote_status": true,
+    "quoted_status_id": 1415804127431561219,
+    "quoted_status_id_str": "1415804127431561219",
+    "retweet_count": 2,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "es"
+}

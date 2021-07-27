@@ -1,0 +1,97 @@
+{
+    "created_at": "Wed Jul 14 17:33:59 +0000 2021",
+    "id": 1415363961688559616,
+    "id_str": "1415363961688559616",
+    "full_text": "@Queen_cule Si por cada \"logro\" de estos le dieran una champions al FC Barcelona a\u00fan les faltar\u00edan 3 para alcanzarnos \ud83d\ude23\ud83d\ude16\ud83d\ude1e",
+    "truncated": false,
+    "display_text_range": [
+        12,
+        121
+    ],
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "Queen_cule",
+                "name": "\ud83c\udfa5\ud83d\udcf8",
+                "id": 1113275014021877760,
+                "id_str": "1113275014021877760",
+                "indices": [
+                    0,
+                    11
+                ]
+            }
+        ],
+        "urls": []
+    },
+    "metadata": {
+        "iso_language_code": "es",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "in_reply_to_status_id": 1415145904051470339,
+    "in_reply_to_status_id_str": "1415145904051470339",
+    "in_reply_to_user_id": 1113275014021877760,
+    "in_reply_to_user_id_str": "1113275014021877760",
+    "in_reply_to_screen_name": "Queen_cule",
+    "user": {
+        "id": 284185044,
+        "id_str": "284185044",
+        "name": "Ahnas",
+        "screen_name": "athr9",
+        "location": "Anzo\u00e1tegui, Venezuela",
+        "description": "'93. Set me free or not",
+        "url": null,
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 589,
+        "friends_count": 171,
+        "listed_count": 0,
+        "created_at": "Mon Apr 18 20:04:43 +0000 2011",
+        "favourites_count": 19396,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 13469,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1122867170797662213/Mie7L4-m_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1122867170797662213/Mie7L4-m_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/284185044/1515721201",
+        "profile_link_color": "19CF86",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "profile_use_background_image": false,
+        "has_extended_profile": false,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "es"
+}

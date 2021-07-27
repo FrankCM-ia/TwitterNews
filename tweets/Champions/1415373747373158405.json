@@ -1,0 +1,306 @@
+{
+    "created_at": "Wed Jul 14 18:12:52 +0000 2021",
+    "id": 1415373747373158405,
+    "id_str": "1415373747373158405",
+    "full_text": "Keylor! (Un \u00fanico error le he visto en mi vida. - En la anterior Champions) - El Italiano? Ni idea \ud83d\ude07 #PSG https://t.co/0XrIFrSPvT",
+    "truncated": false,
+    "display_text_range": [
+        0,
+        105
+    ],
+    "entities": {
+        "hashtags": [
+            {
+                "text": "PSG",
+                "indices": [
+                    101,
+                    105
+                ]
+            }
+        ],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+            {
+                "url": "https://t.co/0XrIFrSPvT",
+                "expanded_url": "https://twitter.com/GoalEspana/status/1415371298415464450",
+                "display_url": "twitter.com/GoalEspana/sta\u2026",
+                "indices": [
+                    106,
+                    129
+                ]
+            }
+        ]
+    },
+    "metadata": {
+        "iso_language_code": "es",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 82939590,
+        "id_str": "82939590",
+        "name": "Hector L. Escalante Triana",
+        "screen_name": "hachelett",
+        "location": "Medell\u00edn, Colombia",
+        "description": "Amo este #Mundo de Patra\u00f1as! Software Developer \ud83d\udc93, - Prof. Inform\u00e1tica - Upel, IPRGR (Egresado) [Ayudar al desarrollo es mi prop\u00f3sito]",
+        "url": "http://t.co/zz3RpMCaFL",
+        "entities": {
+            "url": {
+                "urls": [
+                    {
+                        "url": "http://t.co/zz3RpMCaFL",
+                        "expanded_url": "http://hachelet.webcindario.com",
+                        "display_url": "hachelet.webcindario.com",
+                        "indices": [
+                            0,
+                            22
+                        ]
+                    }
+                ]
+            },
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 237,
+        "friends_count": 326,
+        "listed_count": 7,
+        "created_at": "Fri Oct 16 18:20:02 +0000 2009",
+        "favourites_count": 2780,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 16505,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "FFFFFF",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/827693244288995331/JKkpM_nZ_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/827693244288995331/JKkpM_nZ_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/82939590/1399038236",
+        "profile_link_color": "000000",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "E1E4E6",
+        "profile_text_color": "094B7D",
+        "profile_use_background_image": false,
+        "has_extended_profile": true,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": true,
+    "quoted_status_id": 1415371298415464450,
+    "quoted_status_id_str": "1415371298415464450",
+    "quoted_status": {
+        "created_at": "Wed Jul 14 18:03:08 +0000 2021",
+        "id": 1415371298415464450,
+        "id_str": "1415371298415464450",
+        "full_text": "\ud83e\udde4 \ud83c\udde8\ud83c\uddf7 \ud83e\udd14 \ud83e\udde4 \ud83c\uddee\ud83c\uddf9\n\n\u00bfDonnarumma o Keylor Navas? #PSG https://t.co/cV1JA72i5O",
+        "truncated": false,
+        "display_text_range": [
+            0,
+            45
+        ],
+        "entities": {
+            "hashtags": [
+                {
+                    "text": "PSG",
+                    "indices": [
+                        41,
+                        45
+                    ]
+                }
+            ],
+            "symbols": [],
+            "user_mentions": [],
+            "urls": [],
+            "media": [
+                {
+                    "id": 1415371276525375495,
+                    "id_str": "1415371276525375495",
+                    "indices": [
+                        46,
+                        69
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/E6RorVKWEAcSyAv.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/E6RorVKWEAcSyAv.jpg",
+                    "url": "https://t.co/cV1JA72i5O",
+                    "display_url": "pic.twitter.com/cV1JA72i5O",
+                    "expanded_url": "https://twitter.com/GoalEspana/status/1415371298415464450/photo/1",
+                    "type": "photo",
+                    "sizes": {
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "medium": {
+                            "w": 960,
+                            "h": 1200,
+                            "resize": "fit"
+                        },
+                        "small": {
+                            "w": 544,
+                            "h": 680,
+                            "resize": "fit"
+                        },
+                        "large": {
+                            "w": 1080,
+                            "h": 1350,
+                            "resize": "fit"
+                        }
+                    }
+                }
+            ]
+        },
+        "extended_entities": {
+            "media": [
+                {
+                    "id": 1415371276525375495,
+                    "id_str": "1415371276525375495",
+                    "indices": [
+                        46,
+                        69
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/E6RorVKWEAcSyAv.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/E6RorVKWEAcSyAv.jpg",
+                    "url": "https://t.co/cV1JA72i5O",
+                    "display_url": "pic.twitter.com/cV1JA72i5O",
+                    "expanded_url": "https://twitter.com/GoalEspana/status/1415371298415464450/photo/1",
+                    "type": "photo",
+                    "sizes": {
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "medium": {
+                            "w": 960,
+                            "h": 1200,
+                            "resize": "fit"
+                        },
+                        "small": {
+                            "w": 544,
+                            "h": 680,
+                            "resize": "fit"
+                        },
+                        "large": {
+                            "w": 1080,
+                            "h": 1350,
+                            "resize": "fit"
+                        }
+                    }
+                }
+            ]
+        },
+        "metadata": {
+            "iso_language_code": "es",
+            "result_type": "recent"
+        },
+        "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 128610314,
+            "id_str": "128610314",
+            "name": "Goal Espa\u00f1a",
+            "screen_name": "GoalEspana",
+            "location": "Espa\u00f1a",
+            "description": "Un deporte, un destino, una obsesi\u00f3n",
+            "url": "https://t.co/Yb4pamXRFs",
+            "entities": {
+                "url": {
+                    "urls": [
+                        {
+                            "url": "https://t.co/Yb4pamXRFs",
+                            "expanded_url": "http://www.goal.com/es",
+                            "display_url": "goal.com/es",
+                            "indices": [
+                                0,
+                                23
+                            ]
+                        }
+                    ]
+                },
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 71588,
+            "friends_count": 261,
+            "listed_count": 803,
+            "created_at": "Thu Apr 01 16:57:52 +0000 2010",
+            "favourites_count": 1418,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": true,
+            "verified": true,
+            "statuses_count": 226267,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "081F2C",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1318478800951365633/0-pfOlpu_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1318478800951365633/0-pfOlpu_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/128610314/1599462141",
+            "profile_link_color": "00AC77",
+            "profile_sidebar_border_color": "FFFFFF",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "has_extended_profile": false,
+            "default_profile": false,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none",
+            "withheld_in_countries": []
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 0,
+        "favorite_count": 15,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "et"
+    },
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "es"
+}

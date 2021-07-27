@@ -1,0 +1,232 @@
+{
+    "created_at": "Wed Jul 14 18:04:51 +0000 2021",
+    "id": 1415371729879322627,
+    "id_str": "1415371729879322627",
+    "full_text": "Aqu\u00ed la prueba. Los Castro, \"mueltos\" de risa y merendando, como dicen en Cuba. https://t.co/VuCGCKrkwb",
+    "truncated": false,
+    "display_text_range": [
+        0,
+        79
+    ],
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+            {
+                "url": "https://t.co/VuCGCKrkwb",
+                "expanded_url": "https://twitter.com/GloriaAlvarez85/status/1415366301837524993",
+                "display_url": "twitter.com/GloriaAlvarez8\u2026",
+                "indices": [
+                    80,
+                    103
+                ]
+            }
+        ]
+    },
+    "metadata": {
+        "iso_language_code": "es",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 231371935,
+        "id_str": "231371935",
+        "name": "Luis DE LION",
+        "screen_name": "LDeLION",
+        "location": "Paris, France",
+        "description": "Abogado | Juriste | Lawyer | International Law & Politics \ud83c\uddeb\ud83c\uddf7 \ud83c\uddfb\ud83c\uddea",
+        "url": "https://t.co/Z9bY6WGfL6",
+        "entities": {
+            "url": {
+                "urls": [
+                    {
+                        "url": "https://t.co/Z9bY6WGfL6",
+                        "expanded_url": "http://ldelion.blogspot.com",
+                        "display_url": "ldelion.blogspot.com",
+                        "indices": [
+                            0,
+                            23
+                        ]
+                    }
+                ]
+            },
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 11643,
+        "friends_count": 969,
+        "listed_count": 160,
+        "created_at": "Tue Dec 28 09:53:39 +0000 2010",
+        "favourites_count": 20909,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 103786,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "D7DEE0",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme16/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme16/bg.gif",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1409630312888471555/csUJBV3H_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1409630312888471555/csUJBV3H_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/231371935/1626250575",
+        "profile_link_color": "376780",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "20201E",
+        "profile_text_color": "C8A86F",
+        "profile_use_background_image": false,
+        "has_extended_profile": false,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": true,
+    "quoted_status_id": 1415366301837524993,
+    "quoted_status_id_str": "1415366301837524993",
+    "quoted_status": {
+        "created_at": "Wed Jul 14 17:43:17 +0000 2021",
+        "id": 1415366301837524993,
+        "id_str": "1415366301837524993",
+        "full_text": "#SOSCUBA \ud83c\udde8\ud83c\uddfa Lo ESTAMOS logrando \u2665\ufe0f\ud83d\udc4f\ud83c\udde8\ud83c\uddfa\u2b50\ufe0f URGENTE: acaba de renunciar el viceministro del interior de Cuba. Est\u00e1n empezando a bajarse del barco igualito como en el 59 salieron huyendo los ministros de Batista. Ahora les toca a ellos! A un paso m\u00e1s de cumplir el sue\u00f1o de mi familia https://t.co/WHsoHBM4x9",
+        "truncated": false,
+        "display_text_range": [
+            0,
+            279
+        ],
+        "entities": {
+            "hashtags": [
+                {
+                    "text": "SOSCUBA",
+                    "indices": [
+                        0,
+                        8
+                    ]
+                }
+            ],
+            "symbols": [],
+            "user_mentions": [],
+            "urls": [
+                {
+                    "url": "https://t.co/WHsoHBM4x9",
+                    "expanded_url": "https://twitter.com/agusantonetti/status/1415355811795193858",
+                    "display_url": "twitter.com/agusantonetti/\u2026",
+                    "indices": [
+                        280,
+                        303
+                    ]
+                }
+            ]
+        },
+        "metadata": {
+            "iso_language_code": "es",
+            "result_type": "recent"
+        },
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 145741832,
+            "id_str": "145741832",
+            "name": "Gloria \u00c1lvarez",
+            "screen_name": "GloriaAlvarez85",
+            "location": "Guatemala",
+            "description": "Libertarian/Atheist/Objectivism/GreenMarketEconomics/ PresidentialCandidate/IntrntlAffairs-PoliSci/Author/PublicSpeaker/MediaBroadcaster/Libertopolis/TVAzteca/",
+            "url": "https://t.co/aLT2cRY5Qs",
+            "entities": {
+                "url": {
+                    "urls": [
+                        {
+                            "url": "https://t.co/aLT2cRY5Qs",
+                            "expanded_url": "http://www.facebook.com/GloriaAlvarez",
+                            "display_url": "facebook.com/GloriaAlvarez",
+                            "indices": [
+                                0,
+                                23
+                            ]
+                        }
+                    ]
+                },
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 371693,
+            "friends_count": 1011,
+            "listed_count": 1497,
+            "created_at": "Wed May 19 19:19:28 +0000 2010",
+            "favourites_count": 2705,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": true,
+            "verified": true,
+            "statuses_count": 61504,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "642D8B",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme10/bg.gif",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme10/bg.gif",
+            "profile_background_tile": true,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1414988413212712960/0CnDuL2d_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1414988413212712960/0CnDuL2d_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/145741832/1558463906",
+            "profile_link_color": "FF0000",
+            "profile_sidebar_border_color": "FFFFFF",
+            "profile_sidebar_fill_color": "7AC3EE",
+            "profile_text_color": "3D1957",
+            "profile_use_background_image": true,
+            "has_extended_profile": true,
+            "default_profile": false,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none",
+            "withheld_in_countries": []
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": true,
+        "quoted_status_id": 1415355811795193858,
+        "quoted_status_id_str": "1415355811795193858",
+        "retweet_count": 326,
+        "favorite_count": 779,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "es"
+    },
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "es"
+}

@@ -1,0 +1,97 @@
+{
+    "created_at": "Wed Jul 14 17:00:15 +0000 2021",
+    "id": 1415355473642102787,
+    "id_str": "1415355473642102787",
+    "full_text": "@adrianarrieta09 Totalmente de acuerdo, hermano. Si es una movida muy est\u00fapida si quieren aspirar a champions o ganar la liga. Se deber\u00edan ir Umtiti y Coutinho, y de paso Riqui Puig por ser un becado.",
+    "truncated": false,
+    "display_text_range": [
+        17,
+        200
+    ],
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "adrianarrieta09",
+                "name": "Adri\u00e1n Arrieta \ud83c\udfc6",
+                "id": 707058035986800640,
+                "id_str": "707058035986800640",
+                "indices": [
+                    0,
+                    16
+                ]
+            }
+        ],
+        "urls": []
+    },
+    "metadata": {
+        "iso_language_code": "es",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_status_id": 1415350654458122253,
+    "in_reply_to_status_id_str": "1415350654458122253",
+    "in_reply_to_user_id": 707058035986800640,
+    "in_reply_to_user_id_str": "707058035986800640",
+    "in_reply_to_screen_name": "adrianarrieta09",
+    "user": {
+        "id": 966876003032227840,
+        "id_str": "966876003032227840",
+        "name": "Angel Gilberto",
+        "screen_name": "angelghr_",
+        "location": "Quer\u00e9taro",
+        "description": "Mis amigos me dicen que soy un se\u00f1or | Gallos Blancos de Quer\u00e9taro, Barcelona sin cuentas -ismo, Red en Londres y en Merseyside.",
+        "url": null,
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 153,
+        "friends_count": 315,
+        "listed_count": 0,
+        "created_at": "Fri Feb 23 03:22:57 +0000 2018",
+        "favourites_count": 34050,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 2766,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": null,
+        "profile_background_image_url_https": null,
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1344168680079454208/DeULE-1A_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1344168680079454208/DeULE-1A_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/966876003032227840/1621127227",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": true,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 1,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "es"
+}

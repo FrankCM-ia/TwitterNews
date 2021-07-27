@@ -1,0 +1,336 @@
+{
+    "created_at": "Wed Jul 14 17:58:19 +0000 2021",
+    "id": 1415370087138316293,
+    "id_str": "1415370087138316293",
+    "full_text": "RT @thayspenalver: V\u00e1lido tambi\u00e9n para #Venezuela \nQue lo vean los de la izquierda, las \u00e9lites socialistas, los partidos pol\u00edticos de corte\u2026",
+    "truncated": false,
+    "display_text_range": [
+        0,
+        140
+    ],
+    "entities": {
+        "hashtags": [
+            {
+                "text": "Venezuela",
+                "indices": [
+                    39,
+                    49
+                ]
+            }
+        ],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "thayspenalver",
+                "name": "Thays Pe\u00f1alver",
+                "id": 147697976,
+                "id_str": "147697976",
+                "indices": [
+                    3,
+                    17
+                ]
+            }
+        ],
+        "urls": []
+    },
+    "metadata": {
+        "iso_language_code": "es",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 195617540,
+        "id_str": "195617540",
+        "name": "jose gil",
+        "screen_name": "josemgbravo",
+        "location": "",
+        "description": "",
+        "url": null,
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 366,
+        "friends_count": 528,
+        "listed_count": 0,
+        "created_at": "Mon Sep 27 04:25:26 +0000 2010",
+        "favourites_count": 60583,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 41119,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/872469233506152449/LUz7FDoe_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/872469233506152449/LUz7FDoe_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/195617540/1403397288",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+        "created_at": "Wed Jul 14 16:54:41 +0000 2021",
+        "id": 1415354073445015559,
+        "id_str": "1415354073445015559",
+        "full_text": "V\u00e1lido tambi\u00e9n para #Venezuela \nQue lo vean los de la izquierda, las \u00e9lites socialistas, los partidos pol\u00edticos de corte socialista y dem\u00e1s simpatizantes y amigos del Castro-comunismo. https://t.co/UIQDUAIn4v",
+        "truncated": false,
+        "display_text_range": [
+            0,
+            184
+        ],
+        "entities": {
+            "hashtags": [
+                {
+                    "text": "Venezuela",
+                    "indices": [
+                        20,
+                        30
+                    ]
+                }
+            ],
+            "symbols": [],
+            "user_mentions": [],
+            "urls": [
+                {
+                    "url": "https://t.co/UIQDUAIn4v",
+                    "expanded_url": "https://twitter.com/perezreverte/status/1415066505201455106",
+                    "display_url": "twitter.com/perezreverte/s\u2026",
+                    "indices": [
+                        185,
+                        208
+                    ]
+                }
+            ]
+        },
+        "metadata": {
+            "iso_language_code": "es",
+            "result_type": "recent"
+        },
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 147697976,
+            "id_str": "147697976",
+            "name": "Thays Pe\u00f1alver",
+            "screen_name": "thayspenalver",
+            "location": "verba volant, scripta manent",
+            "description": "Venezolana | Abogada | Escritora \ud83d\udcd6La conspiraci\u00f3n de los 12 golpes \ud83d\udcd6Di\u00e1logos Impertinentes",
+            "url": "https://t.co/e5QkSOqin9",
+            "entities": {
+                "url": {
+                    "urls": [
+                        {
+                            "url": "https://t.co/e5QkSOqin9",
+                            "expanded_url": "https://instagram.com/thayspenalver?igshid=rjwg8mdj2532",
+                            "display_url": "instagram.com/thayspenalver?\u2026",
+                            "indices": [
+                                0,
+                                23
+                            ]
+                        }
+                    ]
+                },
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 190099,
+            "friends_count": 4977,
+            "listed_count": 809,
+            "created_at": "Mon May 24 20:36:19 +0000 2010",
+            "favourites_count": 18363,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": false,
+            "verified": false,
+            "statuses_count": 122734,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": true,
+            "profile_background_color": "000000",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme4/bg.gif",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme4/bg.gif",
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1378176919557013504/OH4-pjtN_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1378176919557013504/OH4-pjtN_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/147697976/1617417959",
+            "profile_link_color": "3B94D9",
+            "profile_sidebar_border_color": "FFFFFF",
+            "profile_sidebar_fill_color": "95E8EC",
+            "profile_text_color": "3C3940",
+            "profile_use_background_image": true,
+            "has_extended_profile": false,
+            "default_profile": false,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none",
+            "withheld_in_countries": []
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": true,
+        "quoted_status_id": 1415066505201455106,
+        "quoted_status_id_str": "1415066505201455106",
+        "quoted_status": {
+            "created_at": "Tue Jul 13 21:52:00 +0000 2021",
+            "id": 1415066505201455106,
+            "id_str": "1415066505201455106",
+            "full_text": "No cre\u00eda necesario expresar lo evidente, pero me lo piden: Cuba es una dictadura, no una democracia. Y quien defienda al r\u00e9gimen cubano, sea espa\u00f1ol o hispanoamericano, demuestra tener muchos intereses turbios, mucha ranciedad pol\u00edtica y muy poca verg\u00fcenza. \u00bfQu\u00e9 m\u00e1s puedo decir?",
+            "truncated": false,
+            "display_text_range": [
+                0,
+                279
+            ],
+            "entities": {
+                "hashtags": [],
+                "symbols": [],
+                "user_mentions": [],
+                "urls": []
+            },
+            "metadata": {
+                "iso_language_code": "es",
+                "result_type": "recent"
+            },
+            "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+            "in_reply_to_status_id": null,
+            "in_reply_to_status_id_str": null,
+            "in_reply_to_user_id": null,
+            "in_reply_to_user_id_str": null,
+            "in_reply_to_screen_name": null,
+            "user": {
+                "id": 111933542,
+                "id_str": "111933542",
+                "name": "Arturo P\u00e9rez-Reverte",
+                "screen_name": "perezreverte",
+                "location": "Madrid, Espa\u00f1a",
+                "description": "Cofundador de @zendalibros. Mis \u00faltimos libros son Una historia de Espa\u00f1a, Sidi y L\u00ednea de fuego.\nhttps://t.co/6pYA1BmMgB",
+                "url": "https://t.co/ugAQqkwsnw",
+                "entities": {
+                    "url": {
+                        "urls": [
+                            {
+                                "url": "https://t.co/ugAQqkwsnw",
+                                "expanded_url": "http://megustaleer.com/libros/lnea-de-fuego/MES-120179",
+                                "display_url": "megustaleer.com/libros/lnea-de\u2026",
+                                "indices": [
+                                    0,
+                                    23
+                                ]
+                            }
+                        ]
+                    },
+                    "description": {
+                        "urls": [
+                            {
+                                "url": "https://t.co/6pYA1BmMgB",
+                                "expanded_url": "http://perezreverte.com",
+                                "display_url": "perezreverte.com",
+                                "indices": [
+                                    98,
+                                    121
+                                ]
+                            }
+                        ]
+                    }
+                },
+                "protected": false,
+                "followers_count": 2265146,
+                "friends_count": 1039,
+                "listed_count": 12064,
+                "created_at": "Sat Feb 06 17:07:33 +0000 2010",
+                "favourites_count": 0,
+                "utc_offset": null,
+                "time_zone": null,
+                "geo_enabled": false,
+                "verified": true,
+                "statuses_count": 51647,
+                "lang": null,
+                "contributors_enabled": false,
+                "is_translator": false,
+                "is_translation_enabled": false,
+                "profile_background_color": "FFFFFF",
+                "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+                "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+                "profile_background_tile": false,
+                "profile_image_url": "http://pbs.twimg.com/profile_images/1370721112624103427/c_akSk-a_normal.jpg",
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/1370721112624103427/c_akSk-a_normal.jpg",
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/111933542/1601992219",
+                "profile_link_color": "C60B1E",
+                "profile_sidebar_border_color": "FFFFFF",
+                "profile_sidebar_fill_color": "EFECEA",
+                "profile_text_color": "333333",
+                "profile_use_background_image": true,
+                "has_extended_profile": false,
+                "default_profile": false,
+                "default_profile_image": false,
+                "following": false,
+                "follow_request_sent": false,
+                "notifications": false,
+                "translator_type": "none",
+                "withheld_in_countries": []
+            },
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "contributors": null,
+            "is_quote_status": false,
+            "retweet_count": 18937,
+            "favorite_count": 50588,
+            "favorited": false,
+            "retweeted": false,
+            "lang": "es"
+        },
+        "retweet_count": 17,
+        "favorite_count": 25,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "es"
+    },
+    "is_quote_status": true,
+    "quoted_status_id": 1415066505201455106,
+    "quoted_status_id_str": "1415066505201455106",
+    "retweet_count": 17,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "es"
+}

@@ -1,0 +1,196 @@
+{
+    "created_at": "Wed Jul 14 18:01:41 +0000 2021",
+    "id": 1415370933863395328,
+    "id_str": "1415370933863395328",
+    "full_text": "RT @alonso_dm: El problema no es tanto la dictadura, sino el tipo de dictadura. Franco cogi\u00f3 un pa\u00eds ca\u00f3tico y destrozado y lo convirti\u00f3 en\u2026",
+    "truncated": false,
+    "display_text_range": [
+        0,
+        140
+    ],
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "alonso_dm",
+                "name": "Alonso \ud83c\uddea\ud83c\uddf8",
+                "id": 204348114,
+                "id_str": "204348114",
+                "indices": [
+                    3,
+                    13
+                ]
+            }
+        ],
+        "urls": []
+    },
+    "metadata": {
+        "iso_language_code": "es",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 304736622,
+        "id_str": "304736622",
+        "name": "Mario \u27a1\ufe0f",
+        "screen_name": "mavr009",
+        "location": "Cancun",
+        "description": "Escribo con la DERECHA. \nVida, libertad y propiedad \u2020 \ud83d\udc99\nPronombres nor/mal\n\n\u00a1Cruz Azul campe\u00f3n 2021!\ud83d\ude82\ud83d\ude82\ud83d\ude82",
+        "url": null,
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 462,
+        "friends_count": 778,
+        "listed_count": 1,
+        "created_at": "Wed May 25 01:17:21 +0000 2011",
+        "favourites_count": 701,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 32606,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "131516",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+        "profile_background_tile": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1399276190142242819/3Sf8YqP3_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1399276190142242819/3Sf8YqP3_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/304736622/1613546183",
+        "profile_link_color": "009999",
+        "profile_sidebar_border_color": "EEEEEE",
+        "profile_sidebar_fill_color": "EFEFEF",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+        "created_at": "Wed Jul 14 10:20:03 +0000 2021",
+        "id": 1415254761503399936,
+        "id_str": "1415254761503399936",
+        "full_text": "El problema no es tanto la dictadura, sino el tipo de dictadura. Franco cogi\u00f3 un pa\u00eds ca\u00f3tico y destrozado y lo convirti\u00f3 en una potencia de primer orden. Castro cogi\u00f3 una isla pr\u00f3spera y paradisiaca y la convirti\u00f3 en un pozo de pobreza y prostituci\u00f3n.",
+        "truncated": false,
+        "display_text_range": [
+            0,
+            252
+        ],
+        "entities": {
+            "hashtags": [],
+            "symbols": [],
+            "user_mentions": [],
+            "urls": []
+        },
+        "metadata": {
+            "iso_language_code": "es",
+            "result_type": "recent"
+        },
+        "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 204348114,
+            "id_str": "204348114",
+            "name": "Alonso \ud83c\uddea\ud83c\uddf8",
+            "screen_name": "alonso_dm",
+            "location": "Madrid, Spain",
+            "description": "Yo tambi\u00e9n creo que Jack cab\u00eda en el tabl\u00f3n de madera.",
+            "url": "https://t.co/zC8FRP4bt5",
+            "entities": {
+                "url": {
+                    "urls": [
+                        {
+                            "url": "https://t.co/zC8FRP4bt5",
+                            "expanded_url": "https://www.youtube.com/c/AlonsoDM",
+                            "display_url": "youtube.com/c/AlonsoDM",
+                            "indices": [
+                                0,
+                                23
+                            ]
+                        }
+                    ]
+                },
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 50637,
+            "friends_count": 581,
+            "listed_count": 341,
+            "created_at": "Mon Oct 18 14:09:03 +0000 2010",
+            "favourites_count": 16461,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": true,
+            "verified": false,
+            "statuses_count": 64311,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "C0DEED",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme19/bg.gif",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme19/bg.gif",
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1407424050020880386/pEFSSO4C_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1407424050020880386/pEFSSO4C_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/204348114/1593869798",
+            "profile_link_color": "1F2B61",
+            "profile_sidebar_border_color": "FFFFFF",
+            "profile_sidebar_fill_color": "F6FFD1",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "has_extended_profile": true,
+            "default_profile": false,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none",
+            "withheld_in_countries": []
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 631,
+        "favorite_count": 1750,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "es"
+    },
+    "is_quote_status": false,
+    "retweet_count": 631,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "es"
+}

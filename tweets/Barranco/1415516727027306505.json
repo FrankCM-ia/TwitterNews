@@ -1,0 +1,375 @@
+{
+    "created_at": "Thu Jul 15 03:41:01 +0000 2021",
+    "id": 1415516727027306505,
+    "id_str": "1415516727027306505",
+    "full_text": "RT @sussooss: yo escuchando la misma canci\u00f3n que ya he reproducido 15 veces: https://t.co/L2mgWhRuXt",
+    "truncated": false,
+    "display_text_range": [
+        0,
+        100
+    ],
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "sussooss",
+                "name": "Pablo Alvarez",
+                "id": 1121801473,
+                "id_str": "1121801473",
+                "indices": [
+                    3,
+                    12
+                ]
+            }
+        ],
+        "urls": [],
+        "media": [
+            {
+                "id": 1414889080081506304,
+                "id_str": "1414889080081506304",
+                "indices": [
+                    77,
+                    100
+                ],
+                "media_url": "http://pbs.twimg.com/media/E6KyHzbWYAAzwJh.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/E6KyHzbWYAAzwJh.jpg",
+                "url": "https://t.co/L2mgWhRuXt",
+                "display_url": "pic.twitter.com/L2mgWhRuXt",
+                "expanded_url": "https://twitter.com/sussooss/status/1414889084535853057/photo/1",
+                "type": "photo",
+                "sizes": {
+                    "large": {
+                        "w": 640,
+                        "h": 359,
+                        "resize": "fit"
+                    },
+                    "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                    },
+                    "small": {
+                        "w": 640,
+                        "h": 359,
+                        "resize": "fit"
+                    },
+                    "medium": {
+                        "w": 640,
+                        "h": 359,
+                        "resize": "fit"
+                    }
+                },
+                "source_status_id": 1414889084535853057,
+                "source_status_id_str": "1414889084535853057",
+                "source_user_id": 1121801473,
+                "source_user_id_str": "1121801473"
+            }
+        ]
+    },
+    "extended_entities": {
+        "media": [
+            {
+                "id": 1414889080081506304,
+                "id_str": "1414889080081506304",
+                "indices": [
+                    77,
+                    100
+                ],
+                "media_url": "http://pbs.twimg.com/media/E6KyHzbWYAAzwJh.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/E6KyHzbWYAAzwJh.jpg",
+                "url": "https://t.co/L2mgWhRuXt",
+                "display_url": "pic.twitter.com/L2mgWhRuXt",
+                "expanded_url": "https://twitter.com/sussooss/status/1414889084535853057/photo/1",
+                "type": "photo",
+                "sizes": {
+                    "large": {
+                        "w": 640,
+                        "h": 359,
+                        "resize": "fit"
+                    },
+                    "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                    },
+                    "small": {
+                        "w": 640,
+                        "h": 359,
+                        "resize": "fit"
+                    },
+                    "medium": {
+                        "w": 640,
+                        "h": 359,
+                        "resize": "fit"
+                    }
+                },
+                "source_status_id": 1414889084535853057,
+                "source_status_id_str": "1414889084535853057",
+                "source_user_id": 1121801473,
+                "source_user_id_str": "1121801473"
+            }
+        ]
+    },
+    "metadata": {
+        "iso_language_code": "es",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 608745192,
+        "id_str": "608745192",
+        "name": "Ale\ud83e\udd8b",
+        "screen_name": "Camila_Barranco",
+        "location": "",
+        "description": "R\ud83e\udd0d",
+        "url": "https://t.co/ktB5n4Wboy",
+        "entities": {
+            "url": {
+                "urls": [
+                    {
+                        "url": "https://t.co/ktB5n4Wboy",
+                        "expanded_url": "http://vsco.co/camilabarranco",
+                        "display_url": "vsco.co/camilabarranco",
+                        "indices": [
+                            0,
+                            23
+                        ]
+                    }
+                ]
+            },
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 303,
+        "friends_count": 341,
+        "listed_count": 0,
+        "created_at": "Fri Jun 15 01:28:07 +0000 2012",
+        "favourites_count": 5967,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 25866,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "084C70",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1362934386560094208/xpoUjCR9_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1362934386560094208/xpoUjCR9_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/608745192/1500618692",
+        "profile_link_color": "8E09DB",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": true,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "regular",
+        "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+        "created_at": "Tue Jul 13 10:06:59 +0000 2021",
+        "id": 1414889084535853057,
+        "id_str": "1414889084535853057",
+        "full_text": "yo escuchando la misma canci\u00f3n que ya he reproducido 15 veces: https://t.co/L2mgWhRuXt",
+        "truncated": false,
+        "display_text_range": [
+            0,
+            62
+        ],
+        "entities": {
+            "hashtags": [],
+            "symbols": [],
+            "user_mentions": [],
+            "urls": [],
+            "media": [
+                {
+                    "id": 1414889080081506304,
+                    "id_str": "1414889080081506304",
+                    "indices": [
+                        63,
+                        86
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/E6KyHzbWYAAzwJh.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/E6KyHzbWYAAzwJh.jpg",
+                    "url": "https://t.co/L2mgWhRuXt",
+                    "display_url": "pic.twitter.com/L2mgWhRuXt",
+                    "expanded_url": "https://twitter.com/sussooss/status/1414889084535853057/photo/1",
+                    "type": "photo",
+                    "sizes": {
+                        "large": {
+                            "w": 640,
+                            "h": 359,
+                            "resize": "fit"
+                        },
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "small": {
+                            "w": 640,
+                            "h": 359,
+                            "resize": "fit"
+                        },
+                        "medium": {
+                            "w": 640,
+                            "h": 359,
+                            "resize": "fit"
+                        }
+                    }
+                }
+            ]
+        },
+        "extended_entities": {
+            "media": [
+                {
+                    "id": 1414889080081506304,
+                    "id_str": "1414889080081506304",
+                    "indices": [
+                        63,
+                        86
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/E6KyHzbWYAAzwJh.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/E6KyHzbWYAAzwJh.jpg",
+                    "url": "https://t.co/L2mgWhRuXt",
+                    "display_url": "pic.twitter.com/L2mgWhRuXt",
+                    "expanded_url": "https://twitter.com/sussooss/status/1414889084535853057/photo/1",
+                    "type": "photo",
+                    "sizes": {
+                        "large": {
+                            "w": 640,
+                            "h": 359,
+                            "resize": "fit"
+                        },
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "small": {
+                            "w": 640,
+                            "h": 359,
+                            "resize": "fit"
+                        },
+                        "medium": {
+                            "w": 640,
+                            "h": 359,
+                            "resize": "fit"
+                        }
+                    }
+                }
+            ]
+        },
+        "metadata": {
+            "iso_language_code": "es",
+            "result_type": "recent"
+        },
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 1121801473,
+            "id_str": "1121801473",
+            "name": "Pablo Alvarez",
+            "screen_name": "sussooss",
+            "location": "",
+            "description": "ya que estas aqu\u00ed sigueme",
+            "url": "https://t.co/G9yMc6TWe9",
+            "entities": {
+                "url": {
+                    "urls": [
+                        {
+                            "url": "https://t.co/G9yMc6TWe9",
+                            "expanded_url": "http://instagram.com/pabloalvarezss",
+                            "display_url": "instagram.com/pabloalvarezss",
+                            "indices": [
+                                0,
+                                23
+                            ]
+                        }
+                    ]
+                },
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 89848,
+            "friends_count": 583,
+            "listed_count": 64,
+            "created_at": "Sat Jan 26 12:07:11 +0000 2013",
+            "favourites_count": 23797,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": true,
+            "verified": false,
+            "statuses_count": 23740,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "131516",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+            "profile_background_tile": true,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1412632649470984193/gm1MLp-z_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1412632649470984193/gm1MLp-z_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/1121801473/1625593366",
+            "profile_link_color": "1B95E0",
+            "profile_sidebar_border_color": "000000",
+            "profile_sidebar_fill_color": "EFEFEF",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "has_extended_profile": true,
+            "default_profile": false,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none",
+            "withheld_in_countries": []
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 7855,
+        "favorite_count": 29330,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "es"
+    },
+    "is_quote_status": false,
+    "retweet_count": 7855,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "es"
+}

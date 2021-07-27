@@ -1,0 +1,397 @@
+{
+    "created_at": "Thu Jul 15 03:38:59 +0000 2021",
+    "id": 1415516217482358788,
+    "id_str": "1415516217482358788",
+    "full_text": "RT @AristeguiOnline: #Video | Loret est\u00e1 acorralado: Laura Barranco\n\ud83d\udc49https://t.co/plOlN5RrP7 https://t.co/UoLHQo09AN",
+    "truncated": false,
+    "display_text_range": [
+        0,
+        116
+    ],
+    "entities": {
+        "hashtags": [
+            {
+                "text": "Video",
+                "indices": [
+                    21,
+                    27
+                ]
+            }
+        ],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "AristeguiOnline",
+                "name": "Aristegui Noticias",
+                "id": 520653311,
+                "id_str": "520653311",
+                "indices": [
+                    3,
+                    19
+                ]
+            }
+        ],
+        "urls": [
+            {
+                "url": "https://t.co/plOlN5RrP7",
+                "expanded_url": "http://ow.ly/Psrh50Fv4bd",
+                "display_url": "ow.ly/Psrh50Fv4bd",
+                "indices": [
+                    69,
+                    92
+                ]
+            }
+        ],
+        "media": [
+            {
+                "id": 1414965905876996107,
+                "id_str": "1414965905876996107",
+                "indices": [
+                    93,
+                    116
+                ],
+                "media_url": "http://pbs.twimg.com/media/E6L3_p0WUAsJh4T.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/E6L3_p0WUAsJh4T.jpg",
+                "url": "https://t.co/UoLHQo09AN",
+                "display_url": "pic.twitter.com/UoLHQo09AN",
+                "expanded_url": "https://twitter.com/AristeguiOnline/status/1414965908599103488/photo/1",
+                "type": "photo",
+                "sizes": {
+                    "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                    },
+                    "large": {
+                        "w": 1200,
+                        "h": 750,
+                        "resize": "fit"
+                    },
+                    "small": {
+                        "w": 680,
+                        "h": 425,
+                        "resize": "fit"
+                    },
+                    "medium": {
+                        "w": 1200,
+                        "h": 750,
+                        "resize": "fit"
+                    }
+                },
+                "source_status_id": 1414965908599103488,
+                "source_status_id_str": "1414965908599103488",
+                "source_user_id": 520653311,
+                "source_user_id_str": "520653311"
+            }
+        ]
+    },
+    "extended_entities": {
+        "media": [
+            {
+                "id": 1414965905876996107,
+                "id_str": "1414965905876996107",
+                "indices": [
+                    93,
+                    116
+                ],
+                "media_url": "http://pbs.twimg.com/media/E6L3_p0WUAsJh4T.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/E6L3_p0WUAsJh4T.jpg",
+                "url": "https://t.co/UoLHQo09AN",
+                "display_url": "pic.twitter.com/UoLHQo09AN",
+                "expanded_url": "https://twitter.com/AristeguiOnline/status/1414965908599103488/photo/1",
+                "type": "photo",
+                "sizes": {
+                    "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                    },
+                    "large": {
+                        "w": 1200,
+                        "h": 750,
+                        "resize": "fit"
+                    },
+                    "small": {
+                        "w": 680,
+                        "h": 425,
+                        "resize": "fit"
+                    },
+                    "medium": {
+                        "w": 1200,
+                        "h": 750,
+                        "resize": "fit"
+                    }
+                },
+                "source_status_id": 1414965908599103488,
+                "source_status_id_str": "1414965908599103488",
+                "source_user_id": 520653311,
+                "source_user_id_str": "520653311"
+            }
+        ]
+    },
+    "metadata": {
+        "iso_language_code": "es",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 1262818202674966530,
+        "id_str": "1262818202674966530",
+        "name": "Hilda Varela Barraza",
+        "screen_name": "VarelaBarraza",
+        "location": "Ciudad de M\u00e9xico",
+        "description": "Profesora-investigadora universitaria, enfocada en la historia y pol\u00edtica contempor\u00e1nea de \u00c1frica subsahariana. Autora de Historia pol\u00edtica de Sud\u00e1frica.",
+        "url": null,
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 60,
+        "friends_count": 209,
+        "listed_count": 0,
+        "created_at": "Tue May 19 18:53:33 +0000 2020",
+        "favourites_count": 10661,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 1063,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": null,
+        "profile_background_image_url_https": null,
+        "profile_background_tile": false,
+        "profile_image_url": "http://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+        "profile_image_url_https": "https://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": true,
+        "default_profile_image": true,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+        "created_at": "Tue Jul 13 15:12:16 +0000 2021",
+        "id": 1414965908599103488,
+        "id_str": "1414965908599103488",
+        "full_text": "#Video | Loret est\u00e1 acorralado: Laura Barranco\n\ud83d\udc49https://t.co/plOlN5RrP7 https://t.co/UoLHQo09AN",
+        "truncated": false,
+        "display_text_range": [
+            0,
+            71
+        ],
+        "entities": {
+            "hashtags": [
+                {
+                    "text": "Video",
+                    "indices": [
+                        0,
+                        6
+                    ]
+                }
+            ],
+            "symbols": [],
+            "user_mentions": [],
+            "urls": [
+                {
+                    "url": "https://t.co/plOlN5RrP7",
+                    "expanded_url": "http://ow.ly/Psrh50Fv4bd",
+                    "display_url": "ow.ly/Psrh50Fv4bd",
+                    "indices": [
+                        48,
+                        71
+                    ]
+                }
+            ],
+            "media": [
+                {
+                    "id": 1414965905876996107,
+                    "id_str": "1414965905876996107",
+                    "indices": [
+                        72,
+                        95
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/E6L3_p0WUAsJh4T.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/E6L3_p0WUAsJh4T.jpg",
+                    "url": "https://t.co/UoLHQo09AN",
+                    "display_url": "pic.twitter.com/UoLHQo09AN",
+                    "expanded_url": "https://twitter.com/AristeguiOnline/status/1414965908599103488/photo/1",
+                    "type": "photo",
+                    "sizes": {
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "large": {
+                            "w": 1200,
+                            "h": 750,
+                            "resize": "fit"
+                        },
+                        "small": {
+                            "w": 680,
+                            "h": 425,
+                            "resize": "fit"
+                        },
+                        "medium": {
+                            "w": 1200,
+                            "h": 750,
+                            "resize": "fit"
+                        }
+                    }
+                }
+            ]
+        },
+        "extended_entities": {
+            "media": [
+                {
+                    "id": 1414965905876996107,
+                    "id_str": "1414965905876996107",
+                    "indices": [
+                        72,
+                        95
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/E6L3_p0WUAsJh4T.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/E6L3_p0WUAsJh4T.jpg",
+                    "url": "https://t.co/UoLHQo09AN",
+                    "display_url": "pic.twitter.com/UoLHQo09AN",
+                    "expanded_url": "https://twitter.com/AristeguiOnline/status/1414965908599103488/photo/1",
+                    "type": "photo",
+                    "sizes": {
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "large": {
+                            "w": 1200,
+                            "h": 750,
+                            "resize": "fit"
+                        },
+                        "small": {
+                            "w": 680,
+                            "h": 425,
+                            "resize": "fit"
+                        },
+                        "medium": {
+                            "w": 1200,
+                            "h": 750,
+                            "resize": "fit"
+                        }
+                    }
+                }
+            ]
+        },
+        "metadata": {
+            "iso_language_code": "es",
+            "result_type": "recent"
+        },
+        "source": "<a href=\"https://www.hootsuite.com\" rel=\"nofollow\">Hootsuite Inc.</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 520653311,
+            "id_str": "520653311",
+            "name": "Aristegui Noticias",
+            "screen_name": "AristeguiOnline",
+            "location": "Ciudad de M\u00e9xico",
+            "description": "Esta cuenta es administrada por Carmen Aristegui y el equipo de Aristegui Noticias. Los tuits de Carmen se firmar\u00e1n como \u201c-C. Aristegui\u201d o \u201c-C.\u201d.",
+            "url": "http://t.co/yuBuzoDMxo",
+            "entities": {
+                "url": {
+                    "urls": [
+                        {
+                            "url": "http://t.co/yuBuzoDMxo",
+                            "expanded_url": "http://AristeguiNoticias.com",
+                            "display_url": "AristeguiNoticias.com",
+                            "indices": [
+                                0,
+                                22
+                            ]
+                        }
+                    ]
+                },
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 8864761,
+            "friends_count": 10,
+            "listed_count": 14545,
+            "created_at": "Sat Mar 10 19:08:28 +0000 2012",
+            "favourites_count": 198,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": false,
+            "verified": true,
+            "statuses_count": 328309,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": true,
+            "profile_background_color": "C0DEED",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1067110021115170816/YAPVlY0W_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1067110021115170816/YAPVlY0W_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/520653311/1549057415",
+            "profile_link_color": "0084B4",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "has_extended_profile": false,
+            "default_profile": false,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none",
+            "withheld_in_countries": []
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 217,
+        "favorite_count": 954,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "es"
+    },
+    "is_quote_status": false,
+    "retweet_count": 217,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "es"
+}

@@ -1,0 +1,99 @@
+{
+    "created_at": "Wed Jul 14 18:02:18 +0000 2021",
+    "id": 1415371086800293892,
+    "id_str": "1415371086800293892",
+    "full_text": "Juli\u00e1n Castro was RIGHT THERE",
+    "truncated": false,
+    "display_text_range": [
+        0,
+        29
+    ],
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+    },
+    "metadata": {
+        "iso_language_code": "es",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "in_reply_to_status_id": 1415370785825374215,
+    "in_reply_to_status_id_str": "1415370785825374215",
+    "in_reply_to_user_id": 2707743156,
+    "in_reply_to_user_id_str": "2707743156",
+    "in_reply_to_screen_name": "SandeferSays",
+    "user": {
+        "id": 2707743156,
+        "id_str": "2707743156",
+        "name": "Max (engaged and employed era) \ud83e\udd70\ud83c\udff3\ufe0f\u200d\ud83c\udf08",
+        "screen_name": "SandeferSays",
+        "location": "Bloomington, IN",
+        "description": "Black lives matter.\n \nIU grad / social media for @inlegalsvc / 21 / unapologetically queer / Fianc\u00e9 to @astrange1519 \u2764 / typo expret / he/him",
+        "url": "https://t.co/jLJZ6mxhHk",
+        "entities": {
+            "url": {
+                "urls": [
+                    {
+                        "url": "https://t.co/jLJZ6mxhHk",
+                        "expanded_url": "http://allmylinks.com/indianalegalservices",
+                        "display_url": "allmylinks.com/indianalegalse\u2026",
+                        "indices": [
+                            0,
+                            23
+                        ]
+                    }
+                ]
+            },
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 2750,
+        "friends_count": 999,
+        "listed_count": 27,
+        "created_at": "Tue Aug 05 00:04:15 +0000 2014",
+        "favourites_count": 162440,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 37643,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1408864192363384832/HBSKeJzm_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1408864192363384832/HBSKeJzm_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2707743156/1618075356",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": true,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "es"
+}

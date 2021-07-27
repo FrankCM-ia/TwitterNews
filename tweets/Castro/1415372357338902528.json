@@ -1,0 +1,116 @@
+{
+    "created_at": "Wed Jul 14 18:07:20 +0000 2021",
+    "id": 1415372357338902528,
+    "id_str": "1415372357338902528",
+    "full_text": "@Jabamix @yoanisanchez @MaihenH ahhhh y bastante han pagado los cubanos los lujos de los Castro, sino preg\u00fantate como los nietos de Fidel andaban en tremendos carros de lujos y viajando por el mundo cuando los cubanos de a pie no pod\u00edan hacerlo y mucho menos so\u00f1arlo....",
+    "truncated": false,
+    "display_text_range": [
+        32,
+        270
+    ],
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "Jabamix",
+                "name": "JABAMIX",
+                "id": 151931186,
+                "id_str": "151931186",
+                "indices": [
+                    0,
+                    8
+                ]
+            },
+            {
+                "screen_name": "yoanisanchez",
+                "name": "Yoani S\u00e1nchez \ud83c\udde8\ud83c\uddfa",
+                "id": 15973392,
+                "id_str": "15973392",
+                "indices": [
+                    9,
+                    22
+                ]
+            },
+            {
+                "screen_name": "MaihenH",
+                "name": "Maihen",
+                "id": 1610496259,
+                "id_str": "1610496259",
+                "indices": [
+                    23,
+                    31
+                ]
+            }
+        ],
+        "urls": []
+    },
+    "metadata": {
+        "iso_language_code": "es",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "in_reply_to_status_id": 1415335968001961985,
+    "in_reply_to_status_id_str": "1415335968001961985",
+    "in_reply_to_user_id": 151931186,
+    "in_reply_to_user_id_str": "151931186",
+    "in_reply_to_screen_name": "Jabamix",
+    "user": {
+        "id": 1378182184725544960,
+        "id_str": "1378182184725544960",
+        "name": "Ccs_Sys_Ing",
+        "screen_name": "ccs_sys_eng",
+        "location": "",
+        "description": "ING. Sistemas UCV...amante de la libertad\ud83d\udc4d\ud83d\ude0eempezando desde cero otra vez ..amante del Doritos y la Coca cola \ud83d\ude0b",
+        "url": null,
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 138,
+        "friends_count": 284,
+        "listed_count": 0,
+        "created_at": "Sat Apr 03 03:07:06 +0000 2021",
+        "favourites_count": 1800,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 1041,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": null,
+        "profile_background_image_url_https": null,
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1378182688750899202/ztI47YvH_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1378182688750899202/ztI47YvH_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": true,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "es"
+}

@@ -1,0 +1,146 @@
+{
+    "created_at": "Thu Jul 15 10:56:12 +0000 2021",
+    "id": 1415626244356464642,
+    "id_str": "1415626244356464642",
+    "full_text": "\ud83d\udd0a El PSPV denuncia el \u00abmal estado\u00bb del solar junto al barranco de Farcha\n\n\u00bfCompartes la misma opini\u00f3n? \u00a1Visita nuestra web para enterarte de todos los detalles! \ud83d\udc47\ud83d\uddde\n\n#benicasim #Benic\u00e0ssim #benicassim #quejas #PSPV\n\nhttps://t.co/oaq5vgAtZ4",
+    "truncated": false,
+    "display_text_range": [
+        0,
+        238
+    ],
+    "entities": {
+        "hashtags": [
+            {
+                "text": "benicasim",
+                "indices": [
+                    165,
+                    175
+                ]
+            },
+            {
+                "text": "Benic\u00e0ssim",
+                "indices": [
+                    176,
+                    187
+                ]
+            },
+            {
+                "text": "benicassim",
+                "indices": [
+                    188,
+                    199
+                ]
+            },
+            {
+                "text": "quejas",
+                "indices": [
+                    200,
+                    207
+                ]
+            },
+            {
+                "text": "PSPV",
+                "indices": [
+                    208,
+                    213
+                ]
+            }
+        ],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+            {
+                "url": "https://t.co/oaq5vgAtZ4",
+                "expanded_url": "https://todobenicassim.com/el-pspv-denuncia-el-mal-estado-del-solar-junto-al-barranco-de-farcha/",
+                "display_url": "todobenicassim.com/el-pspv-denunc\u2026",
+                "indices": [
+                    215,
+                    238
+                ]
+            }
+        ]
+    },
+    "metadata": {
+        "iso_language_code": "es",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 1295504928,
+        "id_str": "1295504928",
+        "name": "Todo Benic\u00e0ssim",
+        "screen_name": "TodoBenicassim",
+        "location": "info@todobenicassim.com",
+        "description": "Peri\u00f3dico plural e independiente de Benic\u00e0ssim",
+        "url": "http://t.co/ptahyogXMr",
+        "entities": {
+            "url": {
+                "urls": [
+                    {
+                        "url": "http://t.co/ptahyogXMr",
+                        "expanded_url": "http://todobenicassim.com",
+                        "display_url": "todobenicassim.com",
+                        "indices": [
+                            0,
+                            22
+                        ]
+                    }
+                ]
+            },
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 2874,
+        "friends_count": 1838,
+        "listed_count": 42,
+        "created_at": "Sun Mar 24 14:47:53 +0000 2013",
+        "favourites_count": 1138,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 7210,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "FFFFFF",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/821505589410926592/Sr1szgyW_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/821505589410926592/Sr1szgyW_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1295504928/1497372498",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": false,
+        "has_extended_profile": false,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "es"
+}

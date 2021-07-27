@@ -1,0 +1,233 @@
+{
+    "created_at": "Wed Jul 14 16:00:21 +0000 2021",
+    "id": 1415340396826214409,
+    "id_str": "1415340396826214409",
+    "full_text": "RT @SantiMayor: Muy buena columna de @aletimartinez sobre Cuba \ud83c\udde8\ud83c\uddfa en #CronicaAnunciada. Ante tanta desinformaci\u00f3n que anda dando vueltas, r\u2026",
+    "truncated": false,
+    "display_text_range": [
+        0,
+        140
+    ],
+    "entities": {
+        "hashtags": [
+            {
+                "text": "CronicaAnunciada",
+                "indices": [
+                    69,
+                    86
+                ]
+            }
+        ],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "SantiMayor",
+                "name": "Santiago Mayor",
+                "id": 164110029,
+                "id_str": "164110029",
+                "indices": [
+                    3,
+                    14
+                ]
+            },
+            {
+                "screen_name": "aletimartinez",
+                "name": "Leticia Mart\u00ednez \ud83d\udc9a",
+                "id": 200683013,
+                "id_str": "200683013",
+                "indices": [
+                    37,
+                    51
+                ]
+            }
+        ],
+        "urls": []
+    },
+    "metadata": {
+        "iso_language_code": "es",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 138836451,
+        "id_str": "138836451",
+        "name": "L\u0268\u0290\u0290\u2764R\u0268\u028b\u025b\u0280\ud83d\udc9a\u270c",
+        "screen_name": "Pettuu",
+        "location": "Comodoro Rivadavia, Argentina",
+        "description": "Hincha fan\u00e1tica de River\u2764Te paso del Indio\ud83c\udfb8a Ricardo Arjona\ud83c\udf99\ud83d\ude05 Disfrutando de la jefa, bancando a morir al pte Alberto\ud83d\udcaa y extra\u00f1ando siempre al\ud83d\udc27\ud83d\ude22...HLVS\u270c",
+        "url": null,
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 1089,
+        "friends_count": 1978,
+        "listed_count": 11,
+        "created_at": "Fri Apr 30 19:04:04 +0000 2010",
+        "favourites_count": 101598,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 124642,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "352726",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme5/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme5/bg.gif",
+        "profile_background_tile": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1344455320513507329/i6IKzH4J_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1344455320513507329/i6IKzH4J_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/138836451/1617232146",
+        "profile_link_color": "CF2C2C",
+        "profile_sidebar_border_color": "829D5E",
+        "profile_sidebar_fill_color": "99CC33",
+        "profile_text_color": "3E4415",
+        "profile_use_background_image": true,
+        "has_extended_profile": true,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+        "created_at": "Wed Jul 14 14:40:36 +0000 2021",
+        "id": 1415320327446482946,
+        "id_str": "1415320327446482946",
+        "full_text": "Muy buena columna de @aletimartinez sobre Cuba \ud83c\udde8\ud83c\uddfa en #CronicaAnunciada. Ante tanta desinformaci\u00f3n que anda dando vueltas, recomiendo.",
+        "truncated": false,
+        "display_text_range": [
+            0,
+            133
+        ],
+        "entities": {
+            "hashtags": [
+                {
+                    "text": "CronicaAnunciada",
+                    "indices": [
+                        53,
+                        70
+                    ]
+                }
+            ],
+            "symbols": [],
+            "user_mentions": [
+                {
+                    "screen_name": "aletimartinez",
+                    "name": "Leticia Mart\u00ednez \ud83d\udc9a",
+                    "id": 200683013,
+                    "id_str": "200683013",
+                    "indices": [
+                        21,
+                        35
+                    ]
+                }
+            ],
+            "urls": []
+        },
+        "metadata": {
+            "iso_language_code": "es",
+            "result_type": "recent"
+        },
+        "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 164110029,
+            "id_str": "164110029",
+            "name": "Santiago Mayor",
+            "screen_name": "SantiMayor",
+            "location": "Ezpeleta, Quilmes, Argentina",
+            "description": "Periodista, bostero y nanoinfluencer del conurbano || Haciendo sindicalismo del bueno en @sipreba y periodismo en #ReunionPodcast, @Notas_arg y @elcoheteluna",
+            "url": "https://t.co/rxjBMHjIBN",
+            "entities": {
+                "url": {
+                    "urls": [
+                        {
+                            "url": "https://t.co/rxjBMHjIBN",
+                            "expanded_url": "https://linktr.ee/ReunionPodcast",
+                            "display_url": "linktr.ee/ReunionPodcast",
+                            "indices": [
+                                0,
+                                23
+                            ]
+                        }
+                    ]
+                },
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 5149,
+            "friends_count": 1033,
+            "listed_count": 30,
+            "created_at": "Thu Jul 08 02:12:04 +0000 2010",
+            "favourites_count": 67174,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": true,
+            "verified": false,
+            "statuses_count": 37332,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "000000",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1300542771263156225/1kLGiMXA_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1300542771263156225/1kLGiMXA_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/164110029/1600549876",
+            "profile_link_color": "19CF86",
+            "profile_sidebar_border_color": "000000",
+            "profile_sidebar_fill_color": "000000",
+            "profile_text_color": "000000",
+            "profile_use_background_image": true,
+            "has_extended_profile": false,
+            "default_profile": false,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none",
+            "withheld_in_countries": []
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 3,
+        "favorite_count": 19,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "es"
+    },
+    "is_quote_status": false,
+    "retweet_count": 3,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "es"
+}

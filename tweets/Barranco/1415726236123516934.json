@@ -1,0 +1,97 @@
+{
+    "created_at": "Thu Jul 15 17:33:32 +0000 2021",
+    "id": 1415726236123516934,
+    "id_str": "1415726236123516934",
+    "full_text": "@MrJasonDay Veo que Barranco termino de asentarse en t\u00ed. De eso no se vuelve nunca, te digo nomas \ud83e\udd18\ud83c\udffb",
+    "truncated": false,
+    "display_text_range": [
+        12,
+        100
+    ],
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "MrJasonDay",
+                "name": "Jason Day",
+                "id": 261790253,
+                "id_str": "261790253",
+                "indices": [
+                    0,
+                    11
+                ]
+            }
+        ],
+        "urls": []
+    },
+    "metadata": {
+        "iso_language_code": "es",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "in_reply_to_status_id": 1415723000150769664,
+    "in_reply_to_status_id_str": "1415723000150769664",
+    "in_reply_to_user_id": 261790253,
+    "in_reply_to_user_id_str": "261790253",
+    "in_reply_to_screen_name": "MrJasonDay",
+    "user": {
+        "id": 1925035032,
+        "id_str": "1925035032",
+        "name": "Javier Masias",
+        "screen_name": "omnivorusq",
+        "location": "",
+        "description": "as seen on tv",
+        "url": null,
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 1279,
+        "friends_count": 700,
+        "listed_count": 33,
+        "created_at": "Wed Oct 02 00:16:38 +0000 2013",
+        "favourites_count": 13563,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 9953,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/575107412048277504/e8j6E2mh_normal.jpeg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/575107412048277504/e8j6E2mh_normal.jpeg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1925035032/1425951499",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": true,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 1,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "es"
+}

@@ -1,0 +1,291 @@
+{
+    "created_at": "Wed Jul 14 16:00:07 +0000 2021",
+    "id": 1415340341176176640,
+    "id_str": "1415340341176176640",
+    "full_text": "RT @libertaaddexp76: Cuba es una dictadura comunista que lo sepa todo el mundo! Hambre, Miseria y Muerte\u2026#SOSCuba #SOSCubaLibre https://t.c\u2026",
+    "truncated": false,
+    "display_text_range": [
+        0,
+        140
+    ],
+    "entities": {
+        "hashtags": [
+            {
+                "text": "SOSCuba",
+                "indices": [
+                    105,
+                    113
+                ]
+            },
+            {
+                "text": "SOSCubaLibre",
+                "indices": [
+                    114,
+                    127
+                ]
+            }
+        ],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "libertaaddexp76",
+                "name": "\ud83c\uddea\ud83c\uddf8\ud83c\udfb6Esto tiene que cambiar\ud83c\udfb5\ud83c\uddea\ud83c\uddf8",
+                "id": 1252618344068456449,
+                "id_str": "1252618344068456449",
+                "indices": [
+                    3,
+                    19
+                ]
+            }
+        ],
+        "urls": []
+    },
+    "metadata": {
+        "iso_language_code": "es",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 1361106303863689223,
+        "id_str": "1361106303863689223",
+        "name": "Ariela",
+        "screen_name": "Ariela98925175",
+        "location": "Montevideo, Uruguay",
+        "description": "\ud83d\udd4a\ufe0f\ud83e\udd0d\ud83d\udc3e\ud83d\udc60\ud83e\udd7f\ud83d\udc5f\ud83e\uddc9\ud83e\udd64\ud83c\udfad\ud83d\udef0\ufe0f\ud83c\udfd9\ufe0f\ud83c\udf04\ud83d\udef8\ud83c\udf0c\ud83c\udf20\ud83d\udcaa\ud83d\ude4f",
+        "url": null,
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 106,
+        "friends_count": 1088,
+        "listed_count": 2,
+        "created_at": "Mon Feb 15 00:13:47 +0000 2021",
+        "favourites_count": 26306,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 10031,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": null,
+        "profile_background_image_url_https": null,
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1361106807326990345/nEzG6jR2_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1361106807326990345/nEzG6jR2_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": true,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+        "created_at": "Wed Jul 14 10:44:41 +0000 2021",
+        "id": 1415260957417385985,
+        "id_str": "1415260957417385985",
+        "full_text": "Cuba es una dictadura comunista que lo sepa todo el mundo! Hambre, Miseria y Muerte\u2026#SOSCuba #SOSCubaLibre https://t.co/x2qVX70mmY",
+        "truncated": false,
+        "display_text_range": [
+            0,
+            106
+        ],
+        "entities": {
+            "hashtags": [
+                {
+                    "text": "SOSCuba",
+                    "indices": [
+                        84,
+                        92
+                    ]
+                },
+                {
+                    "text": "SOSCubaLibre",
+                    "indices": [
+                        93,
+                        106
+                    ]
+                }
+            ],
+            "symbols": [],
+            "user_mentions": [],
+            "urls": [],
+            "media": [
+                {
+                    "id": 1415260952925294598,
+                    "id_str": "1415260952925294598",
+                    "indices": [
+                        107,
+                        130
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/E6QEVpuX0AYJD23.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/E6QEVpuX0AYJD23.jpg",
+                    "url": "https://t.co/x2qVX70mmY",
+                    "display_url": "pic.twitter.com/x2qVX70mmY",
+                    "expanded_url": "https://twitter.com/libertaaddexp76/status/1415260957417385985/photo/1",
+                    "type": "photo",
+                    "sizes": {
+                        "large": {
+                            "w": 827,
+                            "h": 805,
+                            "resize": "fit"
+                        },
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "small": {
+                            "w": 680,
+                            "h": 662,
+                            "resize": "fit"
+                        },
+                        "medium": {
+                            "w": 827,
+                            "h": 805,
+                            "resize": "fit"
+                        }
+                    }
+                }
+            ]
+        },
+        "extended_entities": {
+            "media": [
+                {
+                    "id": 1415260952925294598,
+                    "id_str": "1415260952925294598",
+                    "indices": [
+                        107,
+                        130
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/E6QEVpuX0AYJD23.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/E6QEVpuX0AYJD23.jpg",
+                    "url": "https://t.co/x2qVX70mmY",
+                    "display_url": "pic.twitter.com/x2qVX70mmY",
+                    "expanded_url": "https://twitter.com/libertaaddexp76/status/1415260957417385985/photo/1",
+                    "type": "photo",
+                    "sizes": {
+                        "large": {
+                            "w": 827,
+                            "h": 805,
+                            "resize": "fit"
+                        },
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "small": {
+                            "w": 680,
+                            "h": 662,
+                            "resize": "fit"
+                        },
+                        "medium": {
+                            "w": 827,
+                            "h": 805,
+                            "resize": "fit"
+                        }
+                    }
+                }
+            ]
+        },
+        "metadata": {
+            "iso_language_code": "es",
+            "result_type": "recent"
+        },
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 1252618344068456449,
+            "id_str": "1252618344068456449",
+            "name": "\ud83c\uddea\ud83c\uddf8\ud83c\udfb6Esto tiene que cambiar\ud83c\udfb5\ud83c\uddea\ud83c\uddf8",
+            "screen_name": "libertaaddexp76",
+            "location": "",
+            "description": "Espa\u00f1ol, catolico y betico por la Gracia de Dios. #EstaEsMiBandera \ud83c\uddea\ud83c\uddf8 #siguemeytesigo",
+            "url": null,
+            "entities": {
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 17666,
+            "friends_count": 16899,
+            "listed_count": 16,
+            "created_at": "Tue Apr 21 15:21:27 +0000 2020",
+            "favourites_count": 56850,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": false,
+            "verified": false,
+            "statuses_count": 14953,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "F5F8FA",
+            "profile_background_image_url": null,
+            "profile_background_image_url_https": null,
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1255958300375633920/Pj1l1gs-_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1255958300375633920/Pj1l1gs-_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/1252618344068456449/1588266310",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "has_extended_profile": false,
+            "default_profile": true,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none",
+            "withheld_in_countries": []
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 107,
+        "favorite_count": 207,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "es"
+    },
+    "is_quote_status": false,
+    "retweet_count": 107,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "es"
+}

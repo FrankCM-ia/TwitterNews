@@ -1,0 +1,195 @@
+{
+    "created_at": "Wed Jul 14 16:00:26 +0000 2021",
+    "id": 1415340420742238210,
+    "id_str": "1415340420742238210",
+    "full_text": "RT @JoseColinaP: En Cuba los artistas est\u00e1n librando una gran batalla, mano a mano con la sociedad en contra del r\u00e9gimen castrista. Interes\u2026",
+    "truncated": false,
+    "display_text_range": [
+        0,
+        140
+    ],
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "JoseColinaP",
+                "name": "Jose Antonio Colina",
+                "id": 938531456,
+                "id_str": "938531456",
+                "indices": [
+                    3,
+                    15
+                ]
+            }
+        ],
+        "urls": []
+    },
+    "metadata": {
+        "iso_language_code": "es",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 48204601,
+        "id_str": "48204601",
+        "name": "Alf Rod",
+        "screen_name": "alfredoer",
+        "location": "Barquisimeto",
+        "description": "Venezolano siempre, comunista nunca, Prof. Universitario jubilado Qui'mica Inorga'nica mi especialidad. Master Science UGA. USA.",
+        "url": null,
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 5713,
+        "friends_count": 5909,
+        "listed_count": 45,
+        "created_at": "Thu Jun 18 01:59:31 +0000 2009",
+        "favourites_count": 26038,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 202051,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "B2DFDA",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme13/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme13/bg.gif",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/443860759139717120/PTfdtaNz_normal.jpeg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/443860759139717120/PTfdtaNz_normal.jpeg",
+        "profile_link_color": "93A644",
+        "profile_sidebar_border_color": "EEEEEE",
+        "profile_sidebar_fill_color": "FFFFFF",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": true,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+        "created_at": "Wed Jul 14 11:56:31 +0000 2021",
+        "id": 1415279035324719107,
+        "id_str": "1415279035324719107",
+        "full_text": "En Cuba los artistas est\u00e1n librando una gran batalla, mano a mano con la sociedad en contra del r\u00e9gimen castrista. Interesante ejemplos a seguir!",
+        "truncated": false,
+        "display_text_range": [
+            0,
+            145
+        ],
+        "entities": {
+            "hashtags": [],
+            "symbols": [],
+            "user_mentions": [],
+            "urls": []
+        },
+        "metadata": {
+            "iso_language_code": "es",
+            "result_type": "recent"
+        },
+        "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 938531456,
+            "id_str": "938531456",
+            "name": "Jose Antonio Colina",
+            "screen_name": "JoseColinaP",
+            "location": "",
+            "description": "Militar retirado y Exiliado pol\u00edtico. Presidente de la organizaci\u00f3n de Venezolanos Perseguidos Pol\u00edticos en el Exilio @Veppex1 y conductor de @ContraPoder30.",
+            "url": "https://t.co/Wz9qLAYMej",
+            "entities": {
+                "url": {
+                    "urls": [
+                        {
+                            "url": "https://t.co/Wz9qLAYMej",
+                            "expanded_url": "https://www.facebook.com/#!/TenienteJoseColina?sk=page_insights",
+                            "display_url": "facebook.com/#!/TenienteJos\u2026",
+                            "indices": [
+                                0,
+                                23
+                            ]
+                        }
+                    ]
+                },
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 76439,
+            "friends_count": 950,
+            "listed_count": 187,
+            "created_at": "Sat Nov 10 06:57:51 +0000 2012",
+            "favourites_count": 11861,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": true,
+            "verified": false,
+            "statuses_count": 62580,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "C0DEED",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": true,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/994037940442533888/5A4hUL2V_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/994037940442533888/5A4hUL2V_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/938531456/1519428705",
+            "profile_link_color": "0084B4",
+            "profile_sidebar_border_color": "FFFFFF",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "has_extended_profile": false,
+            "default_profile": false,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none",
+            "withheld_in_countries": []
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 198,
+        "favorite_count": 427,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "es"
+    },
+    "is_quote_status": false,
+    "retweet_count": 198,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "es"
+}

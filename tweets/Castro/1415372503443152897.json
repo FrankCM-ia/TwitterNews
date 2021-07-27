@@ -1,0 +1,106 @@
+{
+    "created_at": "Wed Jul 14 18:07:55 +0000 2021",
+    "id": 1415372503443152897,
+    "id_str": "1415372503443152897",
+    "full_text": "@Jana_Ortega @RinRube Lo cierto que lo que toca el marxismo-comunismo (aunque sea cultural como le llaman hoy) siempre lo destruye. Dicho sea de paso, parece que Raul Castro ya est\u00e1 resguardadito en Venezuela.",
+    "truncated": false,
+    "display_text_range": [
+        22,
+        209
+    ],
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "Jana_Ortega",
+                "name": "Alejandra Ortega",
+                "id": 137693101,
+                "id_str": "137693101",
+                "indices": [
+                    0,
+                    12
+                ]
+            },
+            {
+                "screen_name": "RinRube",
+                "name": "Rub\u00e9n Rinc\u00f3n",
+                "id": 1171169636718657537,
+                "id_str": "1171169636718657537",
+                "indices": [
+                    13,
+                    21
+                ]
+            }
+        ],
+        "urls": []
+    },
+    "metadata": {
+        "iso_language_code": "es",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_status_id": 1415341441354715136,
+    "in_reply_to_status_id_str": "1415341441354715136",
+    "in_reply_to_user_id": 137693101,
+    "in_reply_to_user_id_str": "137693101",
+    "in_reply_to_screen_name": "Jana_Ortega",
+    "user": {
+        "id": 1350201553840459777,
+        "id_str": "1350201553840459777",
+        "name": "sergio",
+        "screen_name": "sergio72074005",
+        "location": "",
+        "description": "\u201cLa verdad padece, pero no perece\u201d. Santa Teresa.",
+        "url": null,
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 17,
+        "friends_count": 102,
+        "listed_count": 0,
+        "created_at": "Fri Jan 15 22:02:07 +0000 2021",
+        "favourites_count": 639,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 762,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": null,
+        "profile_background_image_url_https": null,
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1353881034027364353/9hIdNN6a_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1353881034027364353/9hIdNN6a_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": true,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "es"
+}

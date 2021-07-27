@@ -1,0 +1,207 @@
+{
+    "created_at": "Wed Jul 14 16:00:18 +0000 2021",
+    "id": 1415340386118078468,
+    "id_str": "1415340386118078468",
+    "full_text": "RT @LaVanguardia: Seg\u00fan la comisar\u00eda, la youtuber cubana Dina Stars no consta en sus registros: \"Aqu\u00ed no hay nadie con esos datos\".\n\nEl pro\u2026",
+    "truncated": false,
+    "display_text_range": [
+        0,
+        140
+    ],
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "LaVanguardia",
+                "name": "La Vanguardia",
+                "id": 74453123,
+                "id_str": "74453123",
+                "indices": [
+                    3,
+                    16
+                ]
+            }
+        ],
+        "urls": []
+    },
+    "metadata": {
+        "iso_language_code": "es",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 147650568,
+        "id_str": "147650568",
+        "name": "jaimito\u2708\ufe0f\ud83c\uddfb\ud83c\uddea",
+        "screen_name": "contrach",
+        "location": "",
+        "description": "viva Venezuela carajo.",
+        "url": null,
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 1919,
+        "friends_count": 4243,
+        "listed_count": 16,
+        "created_at": "Mon May 24 17:54:36 +0000 2010",
+        "favourites_count": 1697,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 152678,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/673622951992905728/8H8zmkwS_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/673622951992905728/8H8zmkwS_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/147650568/1361202550",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": true,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+        "created_at": "Wed Jul 14 09:30:00 +0000 2021",
+        "id": 1415242164716593153,
+        "id_str": "1415242164716593153",
+        "full_text": "Seg\u00fan la comisar\u00eda, la youtuber cubana Dina Stars no consta en sus registros: \"Aqu\u00ed no hay nadie con esos datos\".\n\nEl programa de Risto Mejide, 'Todo es verdad', se puso en contacto con ellos tras vivir la detenci\u00f3n durante una conexi\u00f3n en directo.\n\nhttps://t.co/jJuAZmPN1h",
+        "truncated": false,
+        "display_text_range": [
+            0,
+            273
+        ],
+        "entities": {
+            "hashtags": [],
+            "symbols": [],
+            "user_mentions": [],
+            "urls": [
+                {
+                    "url": "https://t.co/jJuAZmPN1h",
+                    "expanded_url": "https://www.lavanguardia.com/television/20210714/7599062/todo-es-verdad-dina-stars-policia-cuba-detencion-comisaria-la-habana-dictadura.html?utm_medium=social&utm_source=twitter&utm_content=television",
+                    "display_url": "lavanguardia.com/television/202\u2026",
+                    "indices": [
+                        250,
+                        273
+                    ]
+                }
+            ]
+        },
+        "metadata": {
+            "iso_language_code": "es",
+            "result_type": "recent"
+        },
+        "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 74453123,
+            "id_str": "74453123",
+            "name": "La Vanguardia",
+            "screen_name": "LaVanguardia",
+            "location": "Barcelona",
+            "description": "Pluralidad, rigor y calidad desde 1881. La Vanguardia es el lugar donde todos y todas nos encontramos.",
+            "url": "https://t.co/ooRL31qYXn",
+            "entities": {
+                "url": {
+                    "urls": [
+                        {
+                            "url": "https://t.co/ooRL31qYXn",
+                            "expanded_url": "http://www.LaVanguardia.com",
+                            "display_url": "LaVanguardia.com",
+                            "indices": [
+                                0,
+                                23
+                            ]
+                        }
+                    ]
+                },
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 1227985,
+            "friends_count": 646,
+            "listed_count": 13894,
+            "created_at": "Tue Sep 15 13:56:57 +0000 2009",
+            "favourites_count": 635,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": false,
+            "verified": true,
+            "statuses_count": 575257,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "28547A",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1409437292712898561/lYYtrBEn_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1409437292712898561/lYYtrBEn_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/74453123/1625048708",
+            "profile_link_color": "085C9D",
+            "profile_sidebar_border_color": "EBEBEB",
+            "profile_sidebar_fill_color": "EBEBEB",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "has_extended_profile": false,
+            "default_profile": false,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "regular",
+            "withheld_in_countries": []
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 55,
+        "favorite_count": 142,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "es"
+    },
+    "is_quote_status": false,
+    "retweet_count": 55,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "es"
+}

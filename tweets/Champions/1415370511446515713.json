@@ -1,0 +1,120 @@
+{
+    "created_at": "Wed Jul 14 18:00:00 +0000 2021",
+    "id": 1415370511446515713,
+    "id_str": "1415370511446515713",
+    "full_text": "Tras nuestro estreno en Champions...\ud83d\udca5 \u00a1LLEGA LA CONFERENCE LEAGUE!\ud83d\udc4f\n\n\u2694\ufe0f @StJosephsFCGib - @LevadiaFC\n\ud83d\uddd3\ufe0f Jueves, 15 julio \n\u231a 18:30 horas\n\n\u00a1No te lo pierdas!\ud83e\udd17",
+    "truncated": false,
+    "display_text_range": [
+        0,
+        156
+    ],
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "StJosephsFCGib",
+                "name": "St Joseph's FC",
+                "id": 3401643491,
+                "id_str": "3401643491",
+                "indices": [
+                    72,
+                    87
+                ]
+            },
+            {
+                "screen_name": "LevadiaFC",
+                "name": "FCI Levadia Tallinn English",
+                "id": 2982397019,
+                "id_str": "2982397019",
+                "indices": [
+                    90,
+                    100
+                ]
+            }
+        ],
+        "urls": []
+    },
+    "metadata": {
+        "iso_language_code": "es",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"https://ads-api.twitter.com\" rel=\"nofollow\">Twitter for Advertisers.</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 780798646505713664,
+        "id_str": "780798646505713664",
+        "name": "Footters",
+        "screen_name": "footters",
+        "location": "Spain",
+        "description": "Segunda B, Tercera, Liga Mx, Expansi\u00f3n, Primera Iberdrola y Reto Iberdrola | Vive f\u00fatbol en directo y a la carta | Soporte en help@footters.com",
+        "url": "https://t.co/dnEHe6pcjv",
+        "entities": {
+            "url": {
+                "urls": [
+                    {
+                        "url": "https://t.co/dnEHe6pcjv",
+                        "expanded_url": "https://www.footters.com/",
+                        "display_url": "footters.com",
+                        "indices": [
+                            0,
+                            23
+                        ]
+                    }
+                ]
+            },
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 69377,
+        "friends_count": 1140,
+        "listed_count": 176,
+        "created_at": "Tue Sep 27 15:57:58 +0000 2016",
+        "favourites_count": 14513,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "verified": true,
+        "statuses_count": 28496,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1411273411477786625/qFdm5ehe_normal.png",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1411273411477786625/qFdm5ehe_normal.png",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/780798646505713664/1622530995",
+        "profile_link_color": "032A53",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "profile_use_background_image": false,
+        "has_extended_profile": false,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 2,
+    "favorite_count": 3,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "es"
+}

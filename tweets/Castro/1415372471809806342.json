@@ -1,0 +1,149 @@
+{
+    "created_at": "Wed Jul 14 18:07:48 +0000 2021",
+    "id": 1415372471809806342,
+    "id_str": "1415372471809806342",
+    "full_text": "\ud83d\udcfb @RevistaHamartia dialog\u00f3 con Valentina Castro, soci\u00f3loga y economista del CEPA, en No Nos Queda Otra. La p\u00e9rdida del salario real en los \u00faltimos cuatro a\u00f1os, el impacto de la pandemia y la situaci\u00f3n actual. \n\nhttps://t.co/G5DF0X63JL",
+    "truncated": false,
+    "display_text_range": [
+        0,
+        234
+    ],
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "RevistaHamartia",
+                "name": "Hamartia\ud83c\udfaf",
+                "id": 148799237,
+                "id_str": "148799237",
+                "indices": [
+                    2,
+                    18
+                ]
+            }
+        ],
+        "urls": [
+            {
+                "url": "https://t.co/G5DF0X63JL",
+                "expanded_url": "https://www.la990.com.ar/noticias/el-lema-de-los-formadores-de-precios-fue-remarco-porque-puedo-valentina-castro",
+                "display_url": "la990.com.ar/noticias/el-le\u2026",
+                "indices": [
+                    211,
+                    234
+                ]
+            }
+        ]
+    },
+    "metadata": {
+        "iso_language_code": "es",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 587455291,
+        "id_str": "587455291",
+        "name": "AM 990",
+        "screen_name": "La990Radio",
+        "location": "Argentina",
+        "description": "\ud83d\udcf2  11-3828-0990\nFB:  https://t.co/2zkXCxEj6D\nIG:  https://t.co/Z1Mz2EH6bz\n\ud83d\udce9 redesam990@gmail.com\n\ud83d\udcf1 https://t.co/TgU3LfABIw",
+        "url": "https://t.co/J3wbcW1YEn",
+        "entities": {
+            "url": {
+                "urls": [
+                    {
+                        "url": "https://t.co/J3wbcW1YEn",
+                        "expanded_url": "http://www.la990.com.ar",
+                        "display_url": "la990.com.ar",
+                        "indices": [
+                            0,
+                            23
+                        ]
+                    }
+                ]
+            },
+            "description": {
+                "urls": [
+                    {
+                        "url": "https://t.co/2zkXCxEj6D",
+                        "expanded_url": "http://facebook.com/La990radio",
+                        "display_url": "facebook.com/La990radio",
+                        "indices": [
+                            21,
+                            44
+                        ]
+                    },
+                    {
+                        "url": "https://t.co/Z1Mz2EH6bz",
+                        "expanded_url": "http://instagram.com/990radio/",
+                        "display_url": "instagram.com/990radio/",
+                        "indices": [
+                            50,
+                            73
+                        ]
+                    },
+                    {
+                        "url": "https://t.co/TgU3LfABIw",
+                        "expanded_url": "http://tiktok.com/@am990radio",
+                        "display_url": "tiktok.com/@am990radio",
+                        "indices": [
+                            99,
+                            122
+                        ]
+                    }
+                ]
+            }
+        },
+        "protected": false,
+        "followers_count": 7524,
+        "friends_count": 1064,
+        "listed_count": 90,
+        "created_at": "Tue May 22 14:08:51 +0000 2012",
+        "favourites_count": 3710,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 78192,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1405350058627940359/2YQ50gOc_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1405350058627940359/2YQ50gOc_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/587455291/1626285886",
+        "profile_link_color": "1B95E0",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": true,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "es"
+}

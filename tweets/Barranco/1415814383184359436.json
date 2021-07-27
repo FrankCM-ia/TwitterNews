@@ -1,0 +1,312 @@
+{
+    "created_at": "Thu Jul 15 23:23:48 +0000 2021",
+    "id": 1415814383184359436,
+    "id_str": "1415814383184359436",
+    "full_text": "RT @ConAcento_not: #Viral | Mujeres caen de un columpio a 1,920 metros de altura en un barranco y sobreviven \nhttps://t.co/1ljDjWAeyq https\u2026",
+    "truncated": false,
+    "display_text_range": [
+        0,
+        140
+    ],
+    "entities": {
+        "hashtags": [
+            {
+                "text": "Viral",
+                "indices": [
+                    19,
+                    25
+                ]
+            }
+        ],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "ConAcento_not",
+                "name": "Con Acento Noticias",
+                "id": 2828126160,
+                "id_str": "2828126160",
+                "indices": [
+                    3,
+                    17
+                ]
+            }
+        ],
+        "urls": [
+            {
+                "url": "https://t.co/1ljDjWAeyq",
+                "expanded_url": "https://conacento.com.mx/?p=144462",
+                "display_url": "conacento.com.mx/?p=144462",
+                "indices": [
+                    110,
+                    133
+                ]
+            }
+        ]
+    },
+    "metadata": {
+        "iso_language_code": "es",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 3034251409,
+        "id_str": "3034251409",
+        "name": "Pedro Zel",
+        "screen_name": "pjzelgar",
+        "location": "M\u00e9rida, Yucat\u00e1n",
+        "description": "",
+        "url": null,
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 67,
+        "friends_count": 689,
+        "listed_count": 0,
+        "created_at": "Sat Feb 21 07:53:31 +0000 2015",
+        "favourites_count": 6147,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 4766,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/734212378489815041/0ib7yUCR_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/734212378489815041/0ib7yUCR_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/3034251409/1553276819",
+        "profile_link_color": "1B95E0",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "profile_use_background_image": false,
+        "has_extended_profile": false,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+        "created_at": "Thu Jul 15 18:04:28 +0000 2021",
+        "id": 1415734022232236034,
+        "id_str": "1415734022232236034",
+        "full_text": "#Viral | Mujeres caen de un columpio a 1,920 metros de altura en un barranco y sobreviven \nhttps://t.co/1ljDjWAeyq https://t.co/wOC0fVy9f0",
+        "truncated": false,
+        "display_text_range": [
+            0,
+            114
+        ],
+        "entities": {
+            "hashtags": [
+                {
+                    "text": "Viral",
+                    "indices": [
+                        0,
+                        6
+                    ]
+                }
+            ],
+            "symbols": [],
+            "user_mentions": [],
+            "urls": [
+                {
+                    "url": "https://t.co/1ljDjWAeyq",
+                    "expanded_url": "https://conacento.com.mx/?p=144462",
+                    "display_url": "conacento.com.mx/?p=144462",
+                    "indices": [
+                        91,
+                        114
+                    ]
+                }
+            ],
+            "media": [
+                {
+                    "id": 1415734020197990414,
+                    "id_str": "1415734020197990414",
+                    "indices": [
+                        115,
+                        138
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/E6WylypWQA40dPQ.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/E6WylypWQA40dPQ.jpg",
+                    "url": "https://t.co/wOC0fVy9f0",
+                    "display_url": "pic.twitter.com/wOC0fVy9f0",
+                    "expanded_url": "https://twitter.com/ConAcento_not/status/1415734022232236034/photo/1",
+                    "type": "photo",
+                    "sizes": {
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "small": {
+                            "w": 680,
+                            "h": 421,
+                            "resize": "fit"
+                        },
+                        "large": {
+                            "w": 781,
+                            "h": 483,
+                            "resize": "fit"
+                        },
+                        "medium": {
+                            "w": 781,
+                            "h": 483,
+                            "resize": "fit"
+                        }
+                    }
+                }
+            ]
+        },
+        "extended_entities": {
+            "media": [
+                {
+                    "id": 1415734020197990414,
+                    "id_str": "1415734020197990414",
+                    "indices": [
+                        115,
+                        138
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/E6WylypWQA40dPQ.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/E6WylypWQA40dPQ.jpg",
+                    "url": "https://t.co/wOC0fVy9f0",
+                    "display_url": "pic.twitter.com/wOC0fVy9f0",
+                    "expanded_url": "https://twitter.com/ConAcento_not/status/1415734022232236034/photo/1",
+                    "type": "photo",
+                    "sizes": {
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "small": {
+                            "w": 680,
+                            "h": 421,
+                            "resize": "fit"
+                        },
+                        "large": {
+                            "w": 781,
+                            "h": 483,
+                            "resize": "fit"
+                        },
+                        "medium": {
+                            "w": 781,
+                            "h": 483,
+                            "resize": "fit"
+                        }
+                    }
+                }
+            ]
+        },
+        "metadata": {
+            "iso_language_code": "es",
+            "result_type": "recent"
+        },
+        "source": "<a href=\"http://conacento.com.mx/\" rel=\"nofollow\">Con Acento Feed</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 2828126160,
+            "id_str": "2828126160",
+            "name": "Con Acento Noticias",
+            "screen_name": "ConAcento_not",
+            "location": "M\u00e9rida, Yucat\u00e1n, M\u00e9xico",
+            "description": "Consumimos y generamos informaci\u00f3n, historias de vida, reportajes. Somos de Yucat\u00e1n y te llevamos una parte de lo que esta tierra genera y presume",
+            "url": "https://t.co/Ij5Ena4Z7u",
+            "entities": {
+                "url": {
+                    "urls": [
+                        {
+                            "url": "https://t.co/Ij5Ena4Z7u",
+                            "expanded_url": "http://www.conacento.com.mx",
+                            "display_url": "conacento.com.mx",
+                            "indices": [
+                                0,
+                                23
+                            ]
+                        }
+                    ]
+                },
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 1539,
+            "friends_count": 591,
+            "listed_count": 35,
+            "created_at": "Tue Sep 23 14:35:38 +0000 2014",
+            "favourites_count": 25,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": false,
+            "verified": false,
+            "statuses_count": 68974,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "C0DEED",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1382132886783025154/S-bzJQ8j_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1382132886783025154/S-bzJQ8j_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/2828126160/1618361134",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "has_extended_profile": false,
+            "default_profile": true,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none",
+            "withheld_in_countries": []
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 1,
+        "favorite_count": 1,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "es"
+    },
+    "is_quote_status": false,
+    "retweet_count": 1,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "es"
+}

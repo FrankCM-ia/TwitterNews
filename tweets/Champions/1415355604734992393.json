@@ -1,0 +1,131 @@
+{
+    "created_at": "Wed Jul 14 17:00:46 +0000 2021",
+    "id": 1415355604734992393,
+    "id_str": "1415355604734992393",
+    "full_text": "\ud83d\ude42 Esta fue una de las primeras entrevistas que hice en @Vip_Deportivo\n\n\ud83d\udc40 Se la hice a @HerculanoNabian\n\nhttps://t.co/0VgXh0ZDps",
+    "truncated": false,
+    "display_text_range": [
+        0,
+        127
+    ],
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "Vip_Deportivo",
+                "name": "VIP Deportivo \u00a9",
+                "id": 979050538447917056,
+                "id_str": "979050538447917056",
+                "indices": [
+                    55,
+                    69
+                ]
+            },
+            {
+                "screen_name": "HerculanoNabian",
+                "name": "herculano Nabian",
+                "id": 1046411665124806658,
+                "id_str": "1046411665124806658",
+                "indices": [
+                    86,
+                    102
+                ]
+            }
+        ],
+        "urls": [
+            {
+                "url": "https://t.co/0VgXh0ZDps",
+                "expanded_url": "https://vipdeportivo.es/entrevista-herculano-nabian-mi-sueno-es-jugar-la-champions/",
+                "display_url": "vipdeportivo.es/entrevista-her\u2026",
+                "indices": [
+                    104,
+                    127
+                ]
+            }
+        ]
+    },
+    "metadata": {
+        "iso_language_code": "es",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "in_reply_to_status_id": 1415354463016075274,
+    "in_reply_to_status_id_str": "1415354463016075274",
+    "in_reply_to_user_id": 1274144420171001856,
+    "in_reply_to_user_id_str": "1274144420171001856",
+    "in_reply_to_screen_name": "ruisuar022",
+    "user": {
+        "id": 1274144420171001856,
+        "id_str": "1274144420171001856",
+        "name": "Luis Aguilar Ramos",
+        "screen_name": "ruisuar022",
+        "location": "M\u00e1laga, Espa\u00f1a",
+        "description": "#GlazersOut \ud83d\udd30 F. Hisp\u00e1nica en @InfoUMA. Solskj\u00e6rismo, Fabrizio Romanismo y FM. Escribo sobre el @ManUtd en @Vip_Deportivo e intento retransmitir en Twitch.",
+        "url": "https://t.co/jMH7uQzmth",
+        "entities": {
+            "url": {
+                "urls": [
+                    {
+                        "url": "https://t.co/jMH7uQzmth",
+                        "expanded_url": "https://www.twitch.tv/ruisuar022",
+                        "display_url": "twitch.tv/ruisuar022",
+                        "indices": [
+                            0,
+                            23
+                        ]
+                    }
+                ]
+            },
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 161,
+        "friends_count": 273,
+        "listed_count": 3,
+        "created_at": "Sat Jun 20 00:58:10 +0000 2020",
+        "favourites_count": 38856,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 12666,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": null,
+        "profile_background_image_url_https": null,
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1415066265669021697/sKraHvmZ_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1415066265669021697/sKraHvmZ_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1274144420171001856/1625588351",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": true,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "es"
+}

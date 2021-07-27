@@ -1,0 +1,191 @@
+{
+    "created_at": "Wed Jul 14 17:58:41 +0000 2021",
+    "id": 1415370179698102273,
+    "id_str": "1415370179698102273",
+    "full_text": "En el d\u00eda de ayer, el Bur\u00f3 Pol\u00edtico del Comit\u00e9 Central del PCC sostuvo una reuni\u00f3n presidida x @DiazCanelB Primer Secretario dl Comit\u00e9 Central y Presidente de la Rep\u00fablica, la cual cont\u00f3 con la participaci\u00f3n del General de Ej\u00e9rcito Ra\u00fal Castro Ruz. #Cuba #MiMoncadaEsHoy https://t.co/Ka3sENvgsx",
+    "truncated": false,
+    "display_text_range": [
+        0,
+        270
+    ],
+    "entities": {
+        "hashtags": [
+            {
+                "text": "Cuba",
+                "indices": [
+                    249,
+                    254
+                ]
+            },
+            {
+                "text": "MiMoncadaEsHoy",
+                "indices": [
+                    255,
+                    270
+                ]
+            }
+        ],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "DiazCanelB",
+                "name": "Miguel D\u00edaz-Canel Berm\u00fadez",
+                "id": 1025037163291914240,
+                "id_str": "1025037163291914240",
+                "indices": [
+                    95,
+                    106
+                ]
+            }
+        ],
+        "urls": [],
+        "media": [
+            {
+                "id": 1415370172412661768,
+                "id_str": "1415370172412661768",
+                "indices": [
+                    271,
+                    294
+                ],
+                "media_url": "http://pbs.twimg.com/media/E6RnrEBXEAg9880.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/E6RnrEBXEAg9880.jpg",
+                "url": "https://t.co/Ka3sENvgsx",
+                "display_url": "pic.twitter.com/Ka3sENvgsx",
+                "expanded_url": "https://twitter.com/DayliAlmeida/status/1415370179698102273/photo/1",
+                "type": "photo",
+                "sizes": {
+                    "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                    },
+                    "small": {
+                        "w": 425,
+                        "h": 281,
+                        "resize": "fit"
+                    },
+                    "large": {
+                        "w": 425,
+                        "h": 281,
+                        "resize": "fit"
+                    },
+                    "medium": {
+                        "w": 425,
+                        "h": 281,
+                        "resize": "fit"
+                    }
+                }
+            }
+        ]
+    },
+    "extended_entities": {
+        "media": [
+            {
+                "id": 1415370172412661768,
+                "id_str": "1415370172412661768",
+                "indices": [
+                    271,
+                    294
+                ],
+                "media_url": "http://pbs.twimg.com/media/E6RnrEBXEAg9880.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/E6RnrEBXEAg9880.jpg",
+                "url": "https://t.co/Ka3sENvgsx",
+                "display_url": "pic.twitter.com/Ka3sENvgsx",
+                "expanded_url": "https://twitter.com/DayliAlmeida/status/1415370179698102273/photo/1",
+                "type": "photo",
+                "sizes": {
+                    "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                    },
+                    "small": {
+                        "w": 425,
+                        "h": 281,
+                        "resize": "fit"
+                    },
+                    "large": {
+                        "w": 425,
+                        "h": 281,
+                        "resize": "fit"
+                    },
+                    "medium": {
+                        "w": 425,
+                        "h": 281,
+                        "resize": "fit"
+                    }
+                }
+            }
+        ]
+    },
+    "metadata": {
+        "iso_language_code": "es",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 1281287604357550082,
+        "id_str": "1281287604357550082",
+        "name": "Dayli Almeida",
+        "screen_name": "DayliAlmeida",
+        "location": "",
+        "description": "Porque tus manos, son mis manos, porque tus ojos son mis ojos, T\u00fa para m\u00ed lo eres todo #Fidel  \ud83c\udde8\ud83c\uddfa\ud83c\udde8\ud83c\uddfa\ud83c\udde8\ud83c\uddfa\n#SomosContinuidad",
+        "url": null,
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 3147,
+        "friends_count": 2926,
+        "listed_count": 3,
+        "created_at": "Thu Jul 09 18:03:43 +0000 2020",
+        "favourites_count": 15092,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 15750,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": null,
+        "profile_background_image_url_https": null,
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1346203311750471682/dbJkU6Y5_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1346203311750471682/dbJkU6Y5_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1281287604357550082/1607562575",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": true,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "es"
+}

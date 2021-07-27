@@ -1,0 +1,223 @@
+{
+    "created_at": "Wed Jul 14 16:00:42 +0000 2021",
+    "id": 1415340485904936963,
+    "id_str": "1415340485904936963",
+    "full_text": "RT @ElNacionalWeb: #14Jul | \u201cEra gente que estaba celebrando la Eurocopa\u201d: Diosdado Cabello neg\u00f3 las protestas en Cuba https://t.co/DsJY7bP\u2026",
+    "truncated": false,
+    "display_text_range": [
+        0,
+        140
+    ],
+    "entities": {
+        "hashtags": [
+            {
+                "text": "14Jul",
+                "indices": [
+                    19,
+                    25
+                ]
+            }
+        ],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "ElNacionalWeb",
+                "name": "El Nacional",
+                "id": 15007299,
+                "id_str": "15007299",
+                "indices": [
+                    3,
+                    17
+                ]
+            }
+        ],
+        "urls": []
+    },
+    "metadata": {
+        "iso_language_code": "es",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 76603193,
+        "id_str": "76603193",
+        "name": "Mariela Nunez",
+        "screen_name": "blondie963",
+        "location": "Birr, Ireland",
+        "description": "Venezolana, mam\u00e1 de Mar\u00eda Alexandra, casada con Manuel, so\u00f1ando con el rescate y recuperaci\u00f3n de mi pa\u00eds Venezuela\ud83c\udde8\ud83c\uddee\ud83c\uddfb\ud83c\uddea",
+        "url": null,
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 558,
+        "friends_count": 335,
+        "listed_count": 5,
+        "created_at": "Wed Sep 23 09:37:41 +0000 2009",
+        "favourites_count": 109531,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 122937,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1412702818927099904/ttg7SW-n_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1412702818927099904/ttg7SW-n_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/76603193/1450035866",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": true,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+        "created_at": "Wed Jul 14 15:55:31 +0000 2021",
+        "id": 1415339180931141634,
+        "id_str": "1415339180931141634",
+        "full_text": "#14Jul | \u201cEra gente que estaba celebrando la Eurocopa\u201d: Diosdado Cabello neg\u00f3 las protestas en Cuba https://t.co/DsJY7bPTyZ",
+        "truncated": false,
+        "display_text_range": [
+            0,
+            123
+        ],
+        "entities": {
+            "hashtags": [
+                {
+                    "text": "14Jul",
+                    "indices": [
+                        0,
+                        6
+                    ]
+                }
+            ],
+            "symbols": [],
+            "user_mentions": [],
+            "urls": [
+                {
+                    "url": "https://t.co/DsJY7bPTyZ",
+                    "expanded_url": "https://www.elnacional.com/venezuela/era-gente-que-estaba-celebrando-la-eurocopa-diosdado-cabello-nego-las-protestas-en-cuba/?utm_source=Twitter&utm_medium=Social&utm_campaign=social",
+                    "display_url": "elnacional.com/venezuela/era-\u2026",
+                    "indices": [
+                        100,
+                        123
+                    ]
+                }
+            ]
+        },
+        "metadata": {
+            "iso_language_code": "es",
+            "result_type": "recent"
+        },
+        "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 15007299,
+            "id_str": "15007299",
+            "name": "El Nacional",
+            "screen_name": "ElNacionalWeb",
+            "location": "Caracas - Venezuela",
+            "description": "Te informamos sobre las noticias m\u00e1s recientes de Venezuela y el mundo \u00a1Tu opini\u00f3n es importante! S\u00edguenos en Instagram y Telegram como Elnacionalweb \ud83d\udcf2",
+            "url": "https://t.co/28YwTxoFF4",
+            "entities": {
+                "url": {
+                    "urls": [
+                        {
+                            "url": "https://t.co/28YwTxoFF4",
+                            "expanded_url": "http://www.elnacional.com",
+                            "display_url": "elnacional.com",
+                            "indices": [
+                                0,
+                                23
+                            ]
+                        }
+                    ]
+                },
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 5183505,
+            "friends_count": 343007,
+            "listed_count": 17523,
+            "created_at": "Wed Jun 04 17:03:00 +0000 2008",
+            "favourites_count": 7550,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": true,
+            "verified": true,
+            "statuses_count": 7619583,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": true,
+            "profile_background_color": "2C2B59",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": true,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1393541489649672192/j15voETC_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1393541489649672192/j15voETC_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/15007299/1614183982",
+            "profile_link_color": "1B95E0",
+            "profile_sidebar_border_color": "000000",
+            "profile_sidebar_fill_color": "FFFFFF",
+            "profile_text_color": "222222",
+            "profile_use_background_image": true,
+            "has_extended_profile": false,
+            "default_profile": false,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "regular",
+            "withheld_in_countries": []
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 3,
+        "favorite_count": 2,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "es"
+    },
+    "is_quote_status": false,
+    "retweet_count": 3,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "es"
+}

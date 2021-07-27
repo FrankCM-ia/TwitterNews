@@ -1,0 +1,283 @@
+{
+    "created_at": "Wed Jul 14 18:02:33 +0000 2021",
+    "id": 1415371149903634432,
+    "id_str": "1415371149903634432",
+    "full_text": "RT @_PCTE_: \u203c\ufe0fM\u00e1s de 5 millones de personas viven en nuestro pa\u00eds en pobreza severa, con menos de 16\u20ac al d\u00eda. \n\nLa dictadura capitalista no\u2026",
+    "truncated": false,
+    "display_text_range": [
+        0,
+        140
+    ],
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "_PCTE_",
+                "name": "PCTE",
+                "id": 1098659655952281602,
+                "id_str": "1098659655952281602",
+                "indices": [
+                    3,
+                    10
+                ]
+            }
+        ],
+        "urls": []
+    },
+    "metadata": {
+        "iso_language_code": "es",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 477431049,
+        "id_str": "477431049",
+        "name": "Enmak\u00f3n",
+        "screen_name": "MakonovTalyTal",
+        "location": "Colunga",
+        "description": "",
+        "url": null,
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 310,
+        "friends_count": 522,
+        "listed_count": 2,
+        "created_at": "Sun Jan 29 05:40:23 +0000 2012",
+        "favourites_count": 4151,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 4251,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1271571482389471232/rPtgE9N9_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1271571482389471232/rPtgE9N9_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/477431049/1577457161",
+        "profile_link_color": "DD2E44",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "profile_use_background_image": false,
+        "has_extended_profile": false,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+        "created_at": "Wed Jul 14 17:31:28 +0000 2021",
+        "id": 1415363329472835589,
+        "id_str": "1415363329472835589",
+        "full_text": "\u203c\ufe0fM\u00e1s de 5 millones de personas viven en nuestro pa\u00eds en pobreza severa, con menos de 16\u20ac al d\u00eda. \n\nLa dictadura capitalista nos est\u00e1 matando. Ay\u00fadanos a que se sepa la verdad.\n\n#SOSEspa\u00f1a https://t.co/H90k0UZjwm",
+        "truncated": false,
+        "display_text_range": [
+            0,
+            188
+        ],
+        "entities": {
+            "hashtags": [
+                {
+                    "text": "SOSEspa\u00f1a",
+                    "indices": [
+                        178,
+                        188
+                    ]
+                }
+            ],
+            "symbols": [],
+            "user_mentions": [],
+            "urls": [],
+            "media": [
+                {
+                    "id": 1415363323055513600,
+                    "id_str": "1415363323055513600",
+                    "indices": [
+                        189,
+                        212
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/E6RhcYLXIAArdyp.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/E6RhcYLXIAArdyp.jpg",
+                    "url": "https://t.co/H90k0UZjwm",
+                    "display_url": "pic.twitter.com/H90k0UZjwm",
+                    "expanded_url": "https://twitter.com/_PCTE_/status/1415363329472835589/photo/1",
+                    "type": "photo",
+                    "sizes": {
+                        "large": {
+                            "w": 1200,
+                            "h": 675,
+                            "resize": "fit"
+                        },
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "small": {
+                            "w": 680,
+                            "h": 383,
+                            "resize": "fit"
+                        },
+                        "medium": {
+                            "w": 1200,
+                            "h": 675,
+                            "resize": "fit"
+                        }
+                    }
+                }
+            ]
+        },
+        "extended_entities": {
+            "media": [
+                {
+                    "id": 1415363323055513600,
+                    "id_str": "1415363323055513600",
+                    "indices": [
+                        189,
+                        212
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/E6RhcYLXIAArdyp.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/E6RhcYLXIAArdyp.jpg",
+                    "url": "https://t.co/H90k0UZjwm",
+                    "display_url": "pic.twitter.com/H90k0UZjwm",
+                    "expanded_url": "https://twitter.com/_PCTE_/status/1415363329472835589/photo/1",
+                    "type": "photo",
+                    "sizes": {
+                        "large": {
+                            "w": 1200,
+                            "h": 675,
+                            "resize": "fit"
+                        },
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "small": {
+                            "w": 680,
+                            "h": 383,
+                            "resize": "fit"
+                        },
+                        "medium": {
+                            "w": 1200,
+                            "h": 675,
+                            "resize": "fit"
+                        }
+                    }
+                }
+            ]
+        },
+        "metadata": {
+            "iso_language_code": "es",
+            "result_type": "recent"
+        },
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 1098659655952281602,
+            "id_str": "1098659655952281602",
+            "name": "PCTE",
+            "screen_name": "_PCTE_",
+            "location": "",
+            "description": "Partido Comunista de los Trabajadores de Espa\u00f1a",
+            "url": "https://t.co/EDiQxop1xg",
+            "entities": {
+                "url": {
+                    "urls": [
+                        {
+                            "url": "https://t.co/EDiQxop1xg",
+                            "expanded_url": "http://pcte.es/",
+                            "display_url": "pcte.es",
+                            "indices": [
+                                0,
+                                23
+                            ]
+                        }
+                    ]
+                },
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 12406,
+            "friends_count": 137,
+            "listed_count": 64,
+            "created_at": "Thu Feb 21 19:04:08 +0000 2019",
+            "favourites_count": 19194,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": false,
+            "verified": false,
+            "statuses_count": 9773,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "F5F8FA",
+            "profile_background_image_url": null,
+            "profile_background_image_url_https": null,
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1102282433376985088/fjdN9YDS_normal.png",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1102282433376985088/fjdN9YDS_normal.png",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/1098659655952281602/1624164268",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "has_extended_profile": false,
+            "default_profile": true,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none",
+            "withheld_in_countries": []
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 28,
+        "favorite_count": 57,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "es"
+    },
+    "is_quote_status": false,
+    "retweet_count": 28,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "es"
+}

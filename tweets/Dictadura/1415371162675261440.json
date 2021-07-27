@@ -1,0 +1,183 @@
+{
+    "created_at": "Wed Jul 14 18:02:36 +0000 2021",
+    "id": 1415371162675261440,
+    "id_str": "1415371162675261440",
+    "full_text": "RT @Morrisoniano: Ve\u00edan un par de gendarmes en la calle durante el G20 y flasheaban dictadura neoliberal macrista pero a una dictadura crud\u2026",
+    "truncated": false,
+    "display_text_range": [
+        0,
+        140
+    ],
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "Morrisoniano",
+                "name": "Mike",
+                "id": 756327084,
+                "id_str": "756327084",
+                "indices": [
+                    3,
+                    16
+                ]
+            }
+        ],
+        "urls": []
+    },
+    "metadata": {
+        "iso_language_code": "es",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 1275125458603061248,
+        "id_str": "1275125458603061248",
+        "name": "AdorniCrop \ud83c\udde6\ud83c\uddf7",
+        "screen_name": "AdorniCrop",
+        "location": "Ac\u00e1",
+        "description": "Cada d\u00eda m\u00e1s liberal | Siempre con el campo | Vida, Libertad y Propiedad Privada | Cultivar el suelo es servir a la patria | Fan\u00e1tico de LACHA \ud83c\udf3e\ud83d\udc2e",
+        "url": null,
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 1242,
+        "friends_count": 1059,
+        "listed_count": 3,
+        "created_at": "Mon Jun 22 17:56:29 +0000 2020",
+        "favourites_count": 111844,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 5167,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": null,
+        "profile_background_image_url_https": null,
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1354995128964960257/Q8XPHZDQ_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1354995128964960257/Q8XPHZDQ_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1275125458603061248/1621827365",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": true,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+        "created_at": "Wed Jul 14 17:10:04 +0000 2021",
+        "id": 1415357941968949250,
+        "id_str": "1415357941968949250",
+        "full_text": "Ve\u00edan un par de gendarmes en la calle durante el G20 y flasheaban dictadura neoliberal macrista pero a una dictadura cruda y abierta como la cubana le dicen democracia unipartidista. M\u00e1tense, que decirles...",
+        "truncated": false,
+        "display_text_range": [
+            0,
+            207
+        ],
+        "entities": {
+            "hashtags": [],
+            "symbols": [],
+            "user_mentions": [],
+            "urls": []
+        },
+        "metadata": {
+            "iso_language_code": "es",
+            "result_type": "recent"
+        },
+        "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 756327084,
+            "id_str": "756327084",
+            "name": "Mike",
+            "screen_name": "Morrisoniano",
+            "location": "",
+            "description": "CienciaS Pol\u00edticaS (UCA) / Guitarrista / Fundamentalista de Emiliano Martinez, Nietzsche, Jim Morrison, Bowie y Spinetta",
+            "url": null,
+            "entities": {
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 3267,
+            "friends_count": 1085,
+            "listed_count": 8,
+            "created_at": "Tue Aug 14 02:55:11 +0000 2012",
+            "favourites_count": 16953,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": false,
+            "verified": false,
+            "statuses_count": 17934,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "000000",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": true,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1413320148119920643/H6AzMHv9_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1413320148119920643/H6AzMHv9_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/756327084/1603460911",
+            "profile_link_color": "1F2324",
+            "profile_sidebar_border_color": "000000",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "has_extended_profile": true,
+            "default_profile": false,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none",
+            "withheld_in_countries": []
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 14,
+        "favorite_count": 56,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "es"
+    },
+    "is_quote_status": false,
+    "retweet_count": 14,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "es"
+}

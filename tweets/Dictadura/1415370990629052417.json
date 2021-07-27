@@ -1,0 +1,196 @@
+{
+    "created_at": "Wed Jul 14 18:01:55 +0000 2021",
+    "id": 1415370990629052417,
+    "id_str": "1415370990629052417",
+    "full_text": "RT @_juanfrl: Los mismos que hace dos a\u00f1os lloraban dictadura porque les ped\u00edan el DNI en el subte ahora dicen que lo de Cuba es m\u00e1s compejo",
+    "truncated": false,
+    "display_text_range": [
+        0,
+        140
+    ],
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "_juanfrl",
+                "name": "Juanma",
+                "id": 323385642,
+                "id_str": "323385642",
+                "indices": [
+                    3,
+                    12
+                ]
+            }
+        ],
+        "urls": []
+    },
+    "metadata": {
+        "iso_language_code": "es",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 1005689733106855936,
+        "id_str": "1005689733106855936",
+        "name": "\ud835\udc09\ud835\udc1e\ud835\udc2b\ud835\udc1e?",
+        "screen_name": "Jerechiarelli",
+        "location": " Hell",
+        "description": "instagram: @jere.rioss\n\u235f",
+        "url": "https://t.co/3f0my4J7Y6",
+        "entities": {
+            "url": {
+                "urls": [
+                    {
+                        "url": "https://t.co/3f0my4J7Y6",
+                        "expanded_url": "http://pin.it/7fcF2Jh",
+                        "display_url": "pin.it/7fcF2Jh",
+                        "indices": [
+                            0,
+                            23
+                        ]
+                    }
+                ]
+            },
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 166,
+        "friends_count": 622,
+        "listed_count": 0,
+        "created_at": "Sun Jun 10 05:54:51 +0000 2018",
+        "favourites_count": 31241,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 15973,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1403186960173305859/WxMumelb_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1403186960173305859/WxMumelb_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1005689733106855936/1590802749",
+        "profile_link_color": "ABB8C2",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "profile_use_background_image": false,
+        "has_extended_profile": true,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+        "created_at": "Wed Jul 14 17:51:16 +0000 2021",
+        "id": 1415368311123087367,
+        "id_str": "1415368311123087367",
+        "full_text": "Los mismos que hace dos a\u00f1os lloraban dictadura porque les ped\u00edan el DNI en el subte ahora dicen que lo de Cuba es m\u00e1s compejo",
+        "truncated": false,
+        "display_text_range": [
+            0,
+            126
+        ],
+        "entities": {
+            "hashtags": [],
+            "symbols": [],
+            "user_mentions": [],
+            "urls": []
+        },
+        "metadata": {
+            "iso_language_code": "es",
+            "result_type": "recent"
+        },
+        "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 323385642,
+            "id_str": "323385642",
+            "name": "Juanma",
+            "screen_name": "_juanfrl",
+            "location": "La Plata, Argentina",
+            "description": "Odio a los ciclistas. Estudiante de econom\u00eda (UNLP)",
+            "url": null,
+            "entities": {
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 9799,
+            "friends_count": 824,
+            "listed_count": 18,
+            "created_at": "Fri Jun 24 18:53:52 +0000 2011",
+            "favourites_count": 52718,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": true,
+            "verified": false,
+            "statuses_count": 14428,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "1A1B1F",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1314008081605496832/91-Zmid9_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1314008081605496832/91-Zmid9_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/323385642/1625979316",
+            "profile_link_color": "2FC2EF",
+            "profile_sidebar_border_color": "181A1E",
+            "profile_sidebar_fill_color": "252429",
+            "profile_text_color": "666666",
+            "profile_use_background_image": true,
+            "has_extended_profile": true,
+            "default_profile": false,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "regular",
+            "withheld_in_countries": []
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 18,
+        "favorite_count": 107,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "es"
+    },
+    "is_quote_status": false,
+    "retweet_count": 18,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "es"
+}

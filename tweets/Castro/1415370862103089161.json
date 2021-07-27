@@ -1,0 +1,194 @@
+{
+    "created_at": "Wed Jul 14 18:01:24 +0000 2021",
+    "id": 1415370862103089161,
+    "id_str": "1415370862103089161",
+    "full_text": "RT @CaniveEloy: Los antecedentes penales no necesariamente definen a las personas. Tampoco son apellidos. Mucho menos de muertos que no pue\u2026",
+    "truncated": false,
+    "display_text_range": [
+        0,
+        140
+    ],
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "CaniveEloy",
+                "name": "Eloy Viera Ca\u00f1ive",
+                "id": 923673572379365380,
+                "id_str": "923673572379365380",
+                "indices": [
+                    3,
+                    14
+                ]
+            }
+        ],
+        "urls": []
+    },
+    "metadata": {
+        "iso_language_code": "es",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 816763792549888012,
+        "id_str": "816763792549888012",
+        "name": "Willy Nelson Campos",
+        "screen_name": "WillyNWonka",
+        "location": "",
+        "description": "",
+        "url": null,
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 4,
+        "friends_count": 28,
+        "listed_count": 0,
+        "created_at": "Wed Jan 04 21:50:37 +0000 2017",
+        "favourites_count": 730,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 610,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": null,
+        "profile_background_image_url_https": null,
+        "profile_background_tile": false,
+        "profile_image_url": "http://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+        "profile_image_url_https": "https://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": true,
+        "default_profile_image": true,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+        "created_at": "Wed Jul 14 02:14:39 +0000 2021",
+        "id": 1415132605427683333,
+        "id_str": "1415132605427683333",
+        "full_text": "Los antecedentes penales no necesariamente definen a las personas. Tampoco son apellidos. Mucho menos de muertos que no pueden defenderse. Fidel Castro ten\u00eda antecedentes por hechos violentos que ocasionaron muertes.",
+        "truncated": false,
+        "display_text_range": [
+            0,
+            216
+        ],
+        "entities": {
+            "hashtags": [],
+            "symbols": [],
+            "user_mentions": [],
+            "urls": []
+        },
+        "metadata": {
+            "iso_language_code": "es",
+            "result_type": "recent"
+        },
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 923673572379365380,
+            "id_str": "923673572379365380",
+            "name": "Eloy Viera Ca\u00f1ive",
+            "screen_name": "CaniveEloy",
+            "location": "Cuba",
+            "description": "Jurista, insatisfecho conmigo mismo. Anhelo que un dia la libertad se vuelva algo mas que una consigna.",
+            "url": "https://t.co/PbX7DLVn1g",
+            "entities": {
+                "url": {
+                    "urls": [
+                        {
+                            "url": "https://t.co/PbX7DLVn1g",
+                            "expanded_url": "http://www.eltoque.com",
+                            "display_url": "eltoque.com",
+                            "indices": [
+                                0,
+                                23
+                            ]
+                        }
+                    ]
+                },
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 1167,
+            "friends_count": 393,
+            "listed_count": 14,
+            "created_at": "Thu Oct 26 22:11:55 +0000 2017",
+            "favourites_count": 3379,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": false,
+            "verified": false,
+            "statuses_count": 1596,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "F5F8FA",
+            "profile_background_image_url": null,
+            "profile_background_image_url_https": null,
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1389252321700364293/zPvNXzci_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1389252321700364293/zPvNXzci_normal.jpg",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "has_extended_profile": true,
+            "default_profile": true,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none",
+            "withheld_in_countries": []
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 57,
+        "favorite_count": 173,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "es"
+    },
+    "is_quote_status": false,
+    "retweet_count": 57,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "es"
+}

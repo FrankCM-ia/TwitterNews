@@ -1,0 +1,335 @@
+{
+    "created_at": "Thu Jul 15 20:06:57 +0000 2021",
+    "id": 1415764844477878272,
+    "id_str": "1415764844477878272",
+    "full_text": "RT @JanettTicona: #de\u00daltimo\n#LaPaz\nEl hombre que rob\u00f3 y en barranc\u00f3 una patrulla policial asegur\u00f3 que no recuerda lo sucedido ya que se enc\u2026",
+    "truncated": false,
+    "display_text_range": [
+        0,
+        140
+    ],
+    "entities": {
+        "hashtags": [
+            {
+                "text": "de\u00daltimo",
+                "indices": [
+                    18,
+                    27
+                ]
+            },
+            {
+                "text": "LaPaz",
+                "indices": [
+                    28,
+                    34
+                ]
+            }
+        ],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "JanettTicona",
+                "name": "Janett Ticona Mamani",
+                "id": 789175381718773760,
+                "id_str": "789175381718773760",
+                "indices": [
+                    3,
+                    16
+                ]
+            }
+        ],
+        "urls": []
+    },
+    "metadata": {
+        "iso_language_code": "es",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 711736152953393154,
+        "id_str": "711736152953393154",
+        "name": "Ernesto S.",
+        "screen_name": "ErnestoSalGu",
+        "location": "La Paz, BoliviaComunicador: De",
+        "description": "Comunicador. Productor del programa rom\u00e1ntico Discoteca Olvidada. La poes\u00eda es la m\u00e1s bella expresi\u00f3n de los sentimientos del coraz\u00f3n.",
+        "url": null,
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 4008,
+        "friends_count": 4995,
+        "listed_count": 16,
+        "created_at": "Mon Mar 21 02:08:17 +0000 2016",
+        "favourites_count": 47184,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 91833,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": null,
+        "profile_background_image_url_https": null,
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1351986145828212738/AOr1-IRg_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1351986145828212738/AOr1-IRg_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/711736152953393154/1459191762",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": true,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+        "created_at": "Thu Jul 15 14:43:29 +0000 2021",
+        "id": 1415683443212505114,
+        "id_str": "1415683443212505114",
+        "full_text": "#de\u00daltimo\n#LaPaz\nEl hombre que rob\u00f3 y en barranc\u00f3 una patrulla policial asegur\u00f3 que no recuerda lo sucedido ya que se encontraba en completo estado de ebriedad. \nMaik S. se present\u00f3 voluntariamente ante la #Polic\u00eda despu\u00e9s de ver un video en redes sociales. https://t.co/UYJaMleVkZ",
+        "truncated": false,
+        "display_text_range": [
+            0,
+            257
+        ],
+        "entities": {
+            "hashtags": [
+                {
+                    "text": "de\u00daltimo",
+                    "indices": [
+                        0,
+                        9
+                    ]
+                },
+                {
+                    "text": "LaPaz",
+                    "indices": [
+                        10,
+                        16
+                    ]
+                },
+                {
+                    "text": "Polic\u00eda",
+                    "indices": [
+                        206,
+                        214
+                    ]
+                }
+            ],
+            "symbols": [],
+            "user_mentions": [],
+            "urls": [],
+            "media": [
+                {
+                    "id": 1415683433213304832,
+                    "id_str": "1415683433213304832",
+                    "indices": [
+                        258,
+                        281
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/E6WElPcVoAAOHo4.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/E6WElPcVoAAOHo4.jpg",
+                    "url": "https://t.co/UYJaMleVkZ",
+                    "display_url": "pic.twitter.com/UYJaMleVkZ",
+                    "expanded_url": "https://twitter.com/JanettTicona/status/1415683443212505114/photo/1",
+                    "type": "photo",
+                    "sizes": {
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "small": {
+                            "w": 680,
+                            "h": 370,
+                            "resize": "fit"
+                        },
+                        "large": {
+                            "w": 720,
+                            "h": 392,
+                            "resize": "fit"
+                        },
+                        "medium": {
+                            "w": 720,
+                            "h": 392,
+                            "resize": "fit"
+                        }
+                    }
+                }
+            ]
+        },
+        "extended_entities": {
+            "media": [
+                {
+                    "id": 1415683433213304832,
+                    "id_str": "1415683433213304832",
+                    "indices": [
+                        258,
+                        281
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/E6WElPcVoAAOHo4.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/E6WElPcVoAAOHo4.jpg",
+                    "url": "https://t.co/UYJaMleVkZ",
+                    "display_url": "pic.twitter.com/UYJaMleVkZ",
+                    "expanded_url": "https://twitter.com/JanettTicona/status/1415683443212505114/photo/1",
+                    "type": "photo",
+                    "sizes": {
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "small": {
+                            "w": 680,
+                            "h": 370,
+                            "resize": "fit"
+                        },
+                        "large": {
+                            "w": 720,
+                            "h": 392,
+                            "resize": "fit"
+                        },
+                        "medium": {
+                            "w": 720,
+                            "h": 392,
+                            "resize": "fit"
+                        }
+                    }
+                },
+                {
+                    "id": 1415683440666505222,
+                    "id_str": "1415683440666505222",
+                    "indices": [
+                        258,
+                        281
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/E6WElrNUcAY9nsp.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/E6WElrNUcAY9nsp.jpg",
+                    "url": "https://t.co/UYJaMleVkZ",
+                    "display_url": "pic.twitter.com/UYJaMleVkZ",
+                    "expanded_url": "https://twitter.com/JanettTicona/status/1415683443212505114/photo/1",
+                    "type": "photo",
+                    "sizes": {
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "large": {
+                            "w": 720,
+                            "h": 404,
+                            "resize": "fit"
+                        },
+                        "small": {
+                            "w": 680,
+                            "h": 382,
+                            "resize": "fit"
+                        },
+                        "medium": {
+                            "w": 720,
+                            "h": 404,
+                            "resize": "fit"
+                        }
+                    }
+                }
+            ]
+        },
+        "metadata": {
+            "iso_language_code": "es",
+            "result_type": "recent"
+        },
+        "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 789175381718773760,
+            "id_str": "789175381718773760",
+            "name": "Janett Ticona Mamani",
+            "screen_name": "JanettTicona",
+            "location": "",
+            "description": "Comunicadora Social, Periodista y Productora en televisi\u00f3n y radio.",
+            "url": null,
+            "entities": {
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 2296,
+            "friends_count": 282,
+            "listed_count": 21,
+            "created_at": "Thu Oct 20 18:44:07 +0000 2016",
+            "favourites_count": 393,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": false,
+            "verified": false,
+            "statuses_count": 1956,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "F5F8FA",
+            "profile_background_image_url": null,
+            "profile_background_image_url_https": null,
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/828637344588783620/75kgBB9q_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/828637344588783620/75kgBB9q_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/789175381718773760/1486397512",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "has_extended_profile": false,
+            "default_profile": true,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none",
+            "withheld_in_countries": []
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 7,
+        "favorite_count": 2,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "es"
+    },
+    "is_quote_status": false,
+    "retweet_count": 7,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "es"
+}

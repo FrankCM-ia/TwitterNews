@@ -1,0 +1,241 @@
+{
+    "created_at": "Wed Jul 14 18:02:41 +0000 2021",
+    "id": 1415371183399317507,
+    "id_str": "1415371183399317507",
+    "full_text": "RT @nacho991960: Nunca Rajoy ,ni Aznar llamaron dictadura al r\u00e9gimen de Cuba,Sr @pablocasado_ @populares no sean hip\u00f3critas,ni enga\u00f1en a lo\u2026",
+    "truncated": false,
+    "display_text_range": [
+        0,
+        140
+    ],
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "nacho991960",
+                "name": "Ignacio Regulez",
+                "id": 528709424,
+                "id_str": "528709424",
+                "indices": [
+                    3,
+                    15
+                ]
+            },
+            {
+                "screen_name": "pablocasado_",
+                "name": "Pablo Casado Blanco",
+                "id": 523386042,
+                "id_str": "523386042",
+                "indices": [
+                    80,
+                    93
+                ]
+            },
+            {
+                "screen_name": "populares",
+                "name": "Partido Popular",
+                "id": 20509689,
+                "id_str": "20509689",
+                "indices": [
+                    94,
+                    104
+                ]
+            }
+        ],
+        "urls": []
+    },
+    "metadata": {
+        "iso_language_code": "es",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 757511823696490496,
+        "id_str": "757511823696490496",
+        "name": "Fina",
+        "screen_name": "FinaMalde",
+        "location": "",
+        "description": "",
+        "url": null,
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 63,
+        "friends_count": 95,
+        "listed_count": 0,
+        "created_at": "Mon Jul 25 09:44:27 +0000 2016",
+        "favourites_count": 6222,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 2303,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": null,
+        "profile_background_image_url_https": null,
+        "profile_background_tile": false,
+        "profile_image_url": "http://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+        "profile_image_url_https": "https://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": true,
+        "default_profile_image": true,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+        "created_at": "Wed Jul 14 09:58:41 +0000 2021",
+        "id": 1415249383411564545,
+        "id_str": "1415249383411564545",
+        "full_text": "Nunca Rajoy ,ni Aznar llamaron dictadura al r\u00e9gimen de Cuba,Sr @pablocasado_ @populares no sean hip\u00f3critas,ni enga\u00f1en a los espa\u00f1oles. #lascosasclaras167",
+        "truncated": false,
+        "display_text_range": [
+            0,
+            153
+        ],
+        "entities": {
+            "hashtags": [
+                {
+                    "text": "lascosasclaras167",
+                    "indices": [
+                        135,
+                        153
+                    ]
+                }
+            ],
+            "symbols": [],
+            "user_mentions": [
+                {
+                    "screen_name": "pablocasado_",
+                    "name": "Pablo Casado Blanco",
+                    "id": 523386042,
+                    "id_str": "523386042",
+                    "indices": [
+                        63,
+                        76
+                    ]
+                },
+                {
+                    "screen_name": "populares",
+                    "name": "Partido Popular",
+                    "id": 20509689,
+                    "id_str": "20509689",
+                    "indices": [
+                        77,
+                        87
+                    ]
+                }
+            ],
+            "urls": []
+        },
+        "metadata": {
+            "iso_language_code": "es",
+            "result_type": "recent"
+        },
+        "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 528709424,
+            "id_str": "528709424",
+            "name": "Ignacio Regulez",
+            "screen_name": "nacho991960",
+            "location": "",
+            "description": "Defensor de los servicios p\u00fablicos. Republicano,laico.\nhttps://t.co/aZfUo0yNiW",
+            "url": null,
+            "entities": {
+                "description": {
+                    "urls": [
+                        {
+                            "url": "https://t.co/aZfUo0yNiW",
+                            "expanded_url": "http://t.me/ignacioregulezserviciospublicos",
+                            "display_url": "t.me/ignacioregulez\u2026",
+                            "indices": [
+                                55,
+                                78
+                            ]
+                        }
+                    ]
+                }
+            },
+            "protected": false,
+            "followers_count": 41912,
+            "friends_count": 20961,
+            "listed_count": 229,
+            "created_at": "Sun Mar 18 17:53:29 +0000 2012",
+            "favourites_count": 452908,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": true,
+            "verified": false,
+            "statuses_count": 406057,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "C0DEED",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1376178462508077063/pLOVZAv5_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1376178462508077063/pLOVZAv5_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/528709424/1621424421",
+            "profile_link_color": "981CEB",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "has_extended_profile": true,
+            "default_profile": false,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "regular",
+            "withheld_in_countries": []
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 38,
+        "favorite_count": 75,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "es"
+    },
+    "is_quote_status": false,
+    "retweet_count": 38,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "es"
+}

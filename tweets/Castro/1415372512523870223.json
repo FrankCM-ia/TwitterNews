@@ -1,0 +1,362 @@
+{
+    "created_at": "Wed Jul 14 18:07:57 +0000 2021",
+    "id": 1415372512523870223,
+    "id_str": "1415372512523870223",
+    "full_text": "RT @LillyTellez: Castro, el h\u00e9roe de AMLO https://t.co/PSVgQ1ayvF",
+    "truncated": false,
+    "display_text_range": [
+        0,
+        65
+    ],
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "LillyTellez",
+                "name": "Lilly T\u00e9llez",
+                "id": 225101516,
+                "id_str": "225101516",
+                "indices": [
+                    3,
+                    15
+                ]
+            }
+        ],
+        "urls": [],
+        "media": [
+            {
+                "id": 1414986611788443659,
+                "id_str": "1414986611788443659",
+                "indices": [
+                    42,
+                    65
+                ],
+                "media_url": "http://pbs.twimg.com/media/E6MK05WVcAs3bnx.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/E6MK05WVcAs3bnx.jpg",
+                "url": "https://t.co/PSVgQ1ayvF",
+                "display_url": "pic.twitter.com/PSVgQ1ayvF",
+                "expanded_url": "https://twitter.com/LillyTellez/status/1414986614846205956/photo/1",
+                "type": "photo",
+                "sizes": {
+                    "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                    },
+                    "medium": {
+                        "w": 584,
+                        "h": 1200,
+                        "resize": "fit"
+                    },
+                    "small": {
+                        "w": 331,
+                        "h": 680,
+                        "resize": "fit"
+                    },
+                    "large": {
+                        "w": 630,
+                        "h": 1294,
+                        "resize": "fit"
+                    }
+                },
+                "source_status_id": 1414986614846205956,
+                "source_status_id_str": "1414986614846205956",
+                "source_user_id": 225101516,
+                "source_user_id_str": "225101516"
+            }
+        ]
+    },
+    "extended_entities": {
+        "media": [
+            {
+                "id": 1414986611788443659,
+                "id_str": "1414986611788443659",
+                "indices": [
+                    42,
+                    65
+                ],
+                "media_url": "http://pbs.twimg.com/media/E6MK05WVcAs3bnx.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/E6MK05WVcAs3bnx.jpg",
+                "url": "https://t.co/PSVgQ1ayvF",
+                "display_url": "pic.twitter.com/PSVgQ1ayvF",
+                "expanded_url": "https://twitter.com/LillyTellez/status/1414986614846205956/photo/1",
+                "type": "photo",
+                "sizes": {
+                    "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                    },
+                    "medium": {
+                        "w": 584,
+                        "h": 1200,
+                        "resize": "fit"
+                    },
+                    "small": {
+                        "w": 331,
+                        "h": 680,
+                        "resize": "fit"
+                    },
+                    "large": {
+                        "w": 630,
+                        "h": 1294,
+                        "resize": "fit"
+                    }
+                },
+                "source_status_id": 1414986614846205956,
+                "source_status_id_str": "1414986614846205956",
+                "source_user_id": 225101516,
+                "source_user_id_str": "225101516"
+            }
+        ]
+    },
+    "metadata": {
+        "iso_language_code": "es",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 151938629,
+        "id_str": "151938629",
+        "name": "M\u00e9xico",
+        "screen_name": "jbpj1964",
+        "location": "",
+        "description": "",
+        "url": null,
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 848,
+        "friends_count": 1042,
+        "listed_count": 0,
+        "created_at": "Fri Jun 04 16:49:34 +0000 2010",
+        "favourites_count": 19848,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 22813,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1175979326241570817/EssVlqf1_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1175979326241570817/EssVlqf1_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/151938629/1569210606",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+        "created_at": "Tue Jul 13 16:34:32 +0000 2021",
+        "id": 1414986614846205956,
+        "id_str": "1414986614846205956",
+        "full_text": "Castro, el h\u00e9roe de AMLO https://t.co/PSVgQ1ayvF",
+        "truncated": false,
+        "display_text_range": [
+            0,
+            24
+        ],
+        "entities": {
+            "hashtags": [],
+            "symbols": [],
+            "user_mentions": [],
+            "urls": [],
+            "media": [
+                {
+                    "id": 1414986611788443659,
+                    "id_str": "1414986611788443659",
+                    "indices": [
+                        25,
+                        48
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/E6MK05WVcAs3bnx.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/E6MK05WVcAs3bnx.jpg",
+                    "url": "https://t.co/PSVgQ1ayvF",
+                    "display_url": "pic.twitter.com/PSVgQ1ayvF",
+                    "expanded_url": "https://twitter.com/LillyTellez/status/1414986614846205956/photo/1",
+                    "type": "photo",
+                    "sizes": {
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "medium": {
+                            "w": 584,
+                            "h": 1200,
+                            "resize": "fit"
+                        },
+                        "small": {
+                            "w": 331,
+                            "h": 680,
+                            "resize": "fit"
+                        },
+                        "large": {
+                            "w": 630,
+                            "h": 1294,
+                            "resize": "fit"
+                        }
+                    }
+                }
+            ]
+        },
+        "extended_entities": {
+            "media": [
+                {
+                    "id": 1414986611788443659,
+                    "id_str": "1414986611788443659",
+                    "indices": [
+                        25,
+                        48
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/E6MK05WVcAs3bnx.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/E6MK05WVcAs3bnx.jpg",
+                    "url": "https://t.co/PSVgQ1ayvF",
+                    "display_url": "pic.twitter.com/PSVgQ1ayvF",
+                    "expanded_url": "https://twitter.com/LillyTellez/status/1414986614846205956/photo/1",
+                    "type": "photo",
+                    "sizes": {
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "medium": {
+                            "w": 584,
+                            "h": 1200,
+                            "resize": "fit"
+                        },
+                        "small": {
+                            "w": 331,
+                            "h": 680,
+                            "resize": "fit"
+                        },
+                        "large": {
+                            "w": 630,
+                            "h": 1294,
+                            "resize": "fit"
+                        }
+                    }
+                }
+            ]
+        },
+        "metadata": {
+            "iso_language_code": "es",
+            "result_type": "recent"
+        },
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 225101516,
+            "id_str": "225101516",
+            "name": "Lilly T\u00e9llez",
+            "screen_name": "LillyTellez",
+            "location": "M\u00e9xico",
+            "description": "Senadora de la Rep\u00fablica por Sonora | Periodista",
+            "url": "https://t.co/iShVjc15Z6",
+            "entities": {
+                "url": {
+                    "urls": [
+                        {
+                            "url": "https://t.co/iShVjc15Z6",
+                            "expanded_url": "http://lillytellez.mx",
+                            "display_url": "lillytellez.mx",
+                            "indices": [
+                                0,
+                                23
+                            ]
+                        }
+                    ]
+                },
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 338322,
+            "friends_count": 631,
+            "listed_count": 750,
+            "created_at": "Fri Dec 10 17:52:26 +0000 2010",
+            "favourites_count": 12018,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": false,
+            "verified": true,
+            "statuses_count": 21411,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "000000",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme19/bg.gif",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme19/bg.gif",
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1394357125330112513/6z7n048g_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1394357125330112513/6z7n048g_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/225101516/1583724271",
+            "profile_link_color": "3B94D9",
+            "profile_sidebar_border_color": "000000",
+            "profile_sidebar_fill_color": "000000",
+            "profile_text_color": "000000",
+            "profile_use_background_image": false,
+            "has_extended_profile": true,
+            "default_profile": false,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none",
+            "withheld_in_countries": []
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 2541,
+        "favorite_count": 7759,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "es"
+    },
+    "is_quote_status": false,
+    "retweet_count": 2541,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "es"
+}

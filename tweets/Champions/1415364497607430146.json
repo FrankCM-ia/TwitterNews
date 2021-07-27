@@ -1,0 +1,107 @@
+{
+    "created_at": "Wed Jul 14 17:36:07 +0000 2021",
+    "id": 1415364497607430146,
+    "id_str": "1415364497607430146",
+    "full_text": "@natxinh0 @marca Jajajaaj desaparezca el club estais artos de que os ganemos las ligas los cl\u00e1sicos las Champions, si desaparece es el Barcelona por su econom\u00eda \ud83e\udd2d",
+    "truncated": false,
+    "display_text_range": [
+        17,
+        162
+    ],
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "natxinh0",
+                "name": "Natxinho",
+                "id": 911620604658425857,
+                "id_str": "911620604658425857",
+                "indices": [
+                    0,
+                    9
+                ]
+            },
+            {
+                "screen_name": "marca",
+                "name": "MARCA",
+                "id": 15095537,
+                "id_str": "15095537",
+                "indices": [
+                    10,
+                    16
+                ]
+            }
+        ],
+        "urls": []
+    },
+    "metadata": {
+        "iso_language_code": "es",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "in_reply_to_status_id": 1415216849084723201,
+    "in_reply_to_status_id_str": "1415216849084723201",
+    "in_reply_to_user_id": 911620604658425857,
+    "in_reply_to_user_id_str": "911620604658425857",
+    "in_reply_to_screen_name": "natxinh0",
+    "user": {
+        "id": 1274456645809123336,
+        "id_str": "1274456645809123336",
+        "name": "Mario",
+        "screen_name": "Mario_039",
+        "location": "",
+        "description": "",
+        "url": null,
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 9,
+        "friends_count": 137,
+        "listed_count": 0,
+        "created_at": "Sat Jun 20 21:39:30 +0000 2020",
+        "favourites_count": 678,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 153,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": null,
+        "profile_background_image_url_https": null,
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1368630363640201218/8QszM1wS_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1368630363640201218/8QszM1wS_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1274456645809123336/1594421162",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": true,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "es"
+}

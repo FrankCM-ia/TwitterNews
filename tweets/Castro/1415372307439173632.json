@@ -1,0 +1,226 @@
+{
+    "created_at": "Wed Jul 14 18:07:09 +0000 2021",
+    "id": 1415372307439173632,
+    "id_str": "1415372307439173632",
+    "full_text": "RT @CesarRomeroC: En el #Peru y #Cuba el pueblo reclama libertad y democracia.\nEn Cuba la dictadura de los \"Castro\" reprime al pueblo y cor\u2026",
+    "truncated": false,
+    "display_text_range": [
+        0,
+        140
+    ],
+    "entities": {
+        "hashtags": [
+            {
+                "text": "Peru",
+                "indices": [
+                    24,
+                    29
+                ]
+            },
+            {
+                "text": "Cuba",
+                "indices": [
+                    32,
+                    37
+                ]
+            }
+        ],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "CesarRomeroC",
+                "name": "C\u00e9sar Romero C",
+                "id": 27683735,
+                "id_str": "27683735",
+                "indices": [
+                    3,
+                    16
+                ]
+            }
+        ],
+        "urls": []
+    },
+    "metadata": {
+        "iso_language_code": "es",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 71153143,
+        "id_str": "71153143",
+        "name": "Miguel Ricci",
+        "screen_name": "MiguelRicci",
+        "location": "Lima, Peru",
+        "description": "'U'SMP - FCCTP\ud83c\uddf5\ud83c\uddea \nNews agencies video freelance\n\ud83c\uddee\ud83c\uddf7\ud83c\udde9\ud83c\uddea\ud83c\udde8\ud83c\uddf3\ud83c\uddea\ud83c\udde6  \n-At dawn-.",
+        "url": "https://t.co/BJGK7MijsV",
+        "entities": {
+            "url": {
+                "urls": [
+                    {
+                        "url": "https://t.co/BJGK7MijsV",
+                        "expanded_url": "http://www.garracrema.com",
+                        "display_url": "garracrema.com",
+                        "indices": [
+                            0,
+                            23
+                        ]
+                    }
+                ]
+            },
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 620,
+        "friends_count": 1309,
+        "listed_count": 20,
+        "created_at": "Thu Sep 03 02:51:14 +0000 2009",
+        "favourites_count": 2678,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 90755,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "FFFDC0",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1248008238974418944/8EE2CnjN_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1248008238974418944/8EE2CnjN_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/71153143/1486057504",
+        "profile_link_color": "FEAD26",
+        "profile_sidebar_border_color": "590F0C",
+        "profile_sidebar_fill_color": "CA221F",
+        "profile_text_color": "B9D7A1",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+        "created_at": "Wed Jul 14 15:41:24 +0000 2021",
+        "id": 1415335629429354500,
+        "id_str": "1415335629429354500",
+        "full_text": "En el #Peru y #Cuba el pueblo reclama libertad y democracia.\nEn Cuba la dictadura de los \"Castro\" reprime al pueblo y corta internet.\nEn el Per\u00fa la mafia de los \"Fujimori\" invisibiliza al pueblo y compra la TV y pervierte el derecho.",
+        "truncated": false,
+        "display_text_range": [
+            0,
+            233
+        ],
+        "entities": {
+            "hashtags": [
+                {
+                    "text": "Peru",
+                    "indices": [
+                        6,
+                        11
+                    ]
+                },
+                {
+                    "text": "Cuba",
+                    "indices": [
+                        14,
+                        19
+                    ]
+                }
+            ],
+            "symbols": [],
+            "user_mentions": [],
+            "urls": []
+        },
+        "metadata": {
+            "iso_language_code": "es",
+            "result_type": "recent"
+        },
+        "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 27683735,
+            "id_str": "27683735",
+            "name": "C\u00e9sar Romero C",
+            "screen_name": "CesarRomeroC",
+            "location": "Lima, Per\u00fa",
+            "description": "Periodista, metido entre jueces, abogados, expedientes y sus gentes.",
+            "url": null,
+            "entities": {
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 58093,
+            "friends_count": 534,
+            "listed_count": 362,
+            "created_at": "Mon Mar 30 17:18:10 +0000 2009",
+            "favourites_count": 468,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": true,
+            "verified": false,
+            "statuses_count": 45070,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "709397",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1261340978461454344/4IFOUWTE_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1261340978461454344/4IFOUWTE_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/27683735/1551111596",
+            "profile_link_color": "FF3300",
+            "profile_sidebar_border_color": "86A4A6",
+            "profile_sidebar_fill_color": "A0C5C7",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "has_extended_profile": false,
+            "default_profile": false,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none",
+            "withheld_in_countries": []
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 156,
+        "favorite_count": 369,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "es"
+    },
+    "is_quote_status": false,
+    "retweet_count": 156,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "es"
+}

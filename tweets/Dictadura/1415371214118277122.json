@@ -1,0 +1,109 @@
+{
+    "created_at": "Wed Jul 14 18:02:48 +0000 2021",
+    "id": 1415371214118277122,
+    "id_str": "1415371214118277122",
+    "full_text": "Ayuso ridiculiza a S\u00e1nchez y llama a Cuba por su nombre: \u00abEs una dictadura criminal\u00bb: https://t.co/BXt3JAoFW6",
+    "truncated": false,
+    "display_text_range": [
+        0,
+        109
+    ],
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+            {
+                "url": "https://t.co/BXt3JAoFW6",
+                "expanded_url": "https://okdiario.com/espana/ayuso-ridiculiza-sanchez-declaracion-institucional-cuba-dictadura-criminal-7514850",
+                "display_url": "okdiario.com/espana/ayuso-r\u2026",
+                "indices": [
+                    86,
+                    109
+                ]
+            }
+        ]
+    },
+    "metadata": {
+        "iso_language_code": "es",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 872518861,
+        "id_str": "872518861",
+        "name": "Lajos F. Szaszdi",
+        "screen_name": "LajosSzaszdi",
+        "location": "",
+        "description": "Analista en relaciones internacionales, temas de defensa, tecnolog\u00eda militar y naval. / International affairs, defense,  military and naval technology analyst.",
+        "url": "https://t.co/Z75nJ5S0QV",
+        "entities": {
+            "url": {
+                "urls": [
+                    {
+                        "url": "https://t.co/Z75nJ5S0QV",
+                        "expanded_url": "https://independent.academia.edu/LajosSz%C3%A1szdiLe%C3%B3nBorja",
+                        "display_url": "independent.academia.edu/LajosSz%C3%A1s\u2026",
+                        "indices": [
+                            0,
+                            23
+                        ]
+                    }
+                ]
+            },
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 842,
+        "friends_count": 493,
+        "listed_count": 5,
+        "created_at": "Wed Oct 10 21:15:43 +0000 2012",
+        "favourites_count": 1535,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 14519,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/2703293162/e2e15f74c48eda754e643621a3d55baf_normal.jpeg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/2703293162/e2e15f74c48eda754e643621a3d55baf_normal.jpeg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "es"
+}

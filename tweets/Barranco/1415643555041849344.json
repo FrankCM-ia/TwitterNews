@@ -1,0 +1,218 @@
+{
+    "created_at": "Thu Jul 15 12:04:59 +0000 2021",
+    "id": 1415643555041849344,
+    "id_str": "1415643555041849344",
+    "full_text": "RT @guruchuirer: Loret se comport\u00f3 como una RATA ACORRALADA en el careo con Israel Vallarta: Laura Barranco. https://t.co/lo9H9BaYxb",
+    "truncated": false,
+    "display_text_range": [
+        0,
+        132
+    ],
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "guruchuirer",
+                "name": "Gur\u00fa Pol\u00edtico",
+                "id": 545061074,
+                "id_str": "545061074",
+                "indices": [
+                    3,
+                    15
+                ]
+            }
+        ],
+        "urls": [
+            {
+                "url": "https://t.co/lo9H9BaYxb",
+                "expanded_url": "http://ow.ly/zN5O30rNSXy",
+                "display_url": "ow.ly/zN5O30rNSXy",
+                "indices": [
+                    109,
+                    132
+                ]
+            }
+        ]
+    },
+    "metadata": {
+        "iso_language_code": "es",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 40126111,
+        "id_str": "40126111",
+        "name": "perrotuitero/octaviusmex",
+        "screen_name": "octaviusmex",
+        "location": "Ciudad de M\u00e9xico",
+        "description": "\u2022 corrector de estilo \u2022 ciclista \u2022 cin\u00e9filo \u2022 chilango \u2022",
+        "url": null,
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 1873,
+        "friends_count": 2482,
+        "listed_count": 51,
+        "created_at": "Fri May 15 00:11:27 +0000 2009",
+        "favourites_count": 24650,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 199740,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "E81C4F",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+        "profile_background_tile": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1362805999002918915/G5DPZpdu_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1362805999002918915/G5DPZpdu_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/40126111/1613753762",
+        "profile_link_color": "1B95E0",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+        "created_at": "Thu Jul 15 02:37:59 +0000 2021",
+        "id": 1415500864970764290,
+        "id_str": "1415500864970764290",
+        "full_text": "Loret se comport\u00f3 como una RATA ACORRALADA en el careo con Israel Vallarta: Laura Barranco. https://t.co/lo9H9BaYxb",
+        "truncated": false,
+        "display_text_range": [
+            0,
+            115
+        ],
+        "entities": {
+            "hashtags": [],
+            "symbols": [],
+            "user_mentions": [],
+            "urls": [
+                {
+                    "url": "https://t.co/lo9H9BaYxb",
+                    "expanded_url": "http://ow.ly/zN5O30rNSXy",
+                    "display_url": "ow.ly/zN5O30rNSXy",
+                    "indices": [
+                        92,
+                        115
+                    ]
+                }
+            ]
+        },
+        "metadata": {
+            "iso_language_code": "es",
+            "result_type": "recent"
+        },
+        "source": "<a href=\"https://www.hootsuite.com\" rel=\"nofollow\">Hootsuite Inc.</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 545061074,
+            "id_str": "545061074",
+            "name": "Gur\u00fa Pol\u00edtico",
+            "screen_name": "guruchuirer",
+            "location": "Mexico, ME",
+            "description": "Somos el medio de comunicacion ciudadano que dice las cosas como son. La verdad es el arma m\u00e1s poderosa que tenemos.",
+            "url": "https://t.co/JtnxEFWqHU",
+            "entities": {
+                "url": {
+                    "urls": [
+                        {
+                            "url": "https://t.co/JtnxEFWqHU",
+                            "expanded_url": "http://www.guruchuirer.com",
+                            "display_url": "guruchuirer.com",
+                            "indices": [
+                                0,
+                                23
+                            ]
+                        }
+                    ]
+                },
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 196467,
+            "friends_count": 70286,
+            "listed_count": 617,
+            "created_at": "Wed Apr 04 11:45:01 +0000 2012",
+            "favourites_count": 2511,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": false,
+            "verified": true,
+            "statuses_count": 25928,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "131516",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+            "profile_background_tile": true,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1253734727892246529/Zi2z0jWL_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1253734727892246529/Zi2z0jWL_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/545061074/1597915524",
+            "profile_link_color": "009999",
+            "profile_sidebar_border_color": "EEEEEE",
+            "profile_sidebar_fill_color": "EFEFEF",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "has_extended_profile": false,
+            "default_profile": false,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none",
+            "withheld_in_countries": []
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 347,
+        "favorite_count": 663,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "es"
+    },
+    "is_quote_status": false,
+    "retweet_count": 347,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "es"
+}

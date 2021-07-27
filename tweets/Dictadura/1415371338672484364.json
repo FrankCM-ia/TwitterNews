@@ -1,0 +1,309 @@
+{
+    "created_at": "Wed Jul 14 18:03:18 +0000 2021",
+    "id": 1415371338672484364,
+    "id_str": "1415371338672484364",
+    "full_text": "RT @ComunidadMadrid: \ud83d\udd34DECLARACI\u00d3N INSTITUCIONAL\ud83d\udd34\n\nCondenamos rotundamente la dictadura criminal que ha convertido a Cuba en una inmensa c\u00e1r\u2026",
+    "truncated": false,
+    "display_text_range": [
+        0,
+        140
+    ],
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "ComunidadMadrid",
+                "name": "Comunidad de Madrid",
+                "id": 122353251,
+                "id_str": "122353251",
+                "indices": [
+                    3,
+                    19
+                ]
+            }
+        ],
+        "urls": []
+    },
+    "metadata": {
+        "iso_language_code": "es",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 208174001,
+        "id_str": "208174001",
+        "name": "pascual moxica",
+        "screen_name": "moxicapruneda",
+        "location": "Comunidad Valenciana, Espa\u00f1a",
+        "description": "Motero y rockero",
+        "url": null,
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 113,
+        "friends_count": 100,
+        "listed_count": 0,
+        "created_at": "Tue Oct 26 19:46:50 +0000 2010",
+        "favourites_count": 11,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 236,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1317375907515039747/Zj6Zi-nn_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1317375907515039747/Zj6Zi-nn_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/208174001/1602921799",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+        "created_at": "Wed Jul 14 10:45:41 +0000 2021",
+        "id": 1415261210086453248,
+        "id_str": "1415261210086453248",
+        "full_text": "\ud83d\udd34DECLARACI\u00d3N INSTITUCIONAL\ud83d\udd34\n\nCondenamos rotundamente la dictadura criminal que ha convertido a Cuba en una inmensa c\u00e1rcel y ha condenado a sus habitantes a la pobreza, el hambre o el exilio durante los \u00faltimos 62 a\u00f1os.\n\n Somos el Kil\u00f3metro Cero de la Libertad. https://t.co/F4TKyddH7B",
+        "truncated": false,
+        "display_text_range": [
+            0,
+            260
+        ],
+        "entities": {
+            "hashtags": [],
+            "symbols": [],
+            "user_mentions": [],
+            "urls": [],
+            "media": [
+                {
+                    "id": 1415260899401687047,
+                    "id_str": "1415260899401687047",
+                    "indices": [
+                        261,
+                        284
+                    ],
+                    "media_url": "http://pbs.twimg.com/amplify_video_thumb/1415260899401687047/img/0AIfVZ381TeYO1Yn.jpg",
+                    "media_url_https": "https://pbs.twimg.com/amplify_video_thumb/1415260899401687047/img/0AIfVZ381TeYO1Yn.jpg",
+                    "url": "https://t.co/F4TKyddH7B",
+                    "display_url": "pic.twitter.com/F4TKyddH7B",
+                    "expanded_url": "https://twitter.com/ComunidadMadrid/status/1415261210086453248/video/1",
+                    "type": "photo",
+                    "sizes": {
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "medium": {
+                            "w": 1200,
+                            "h": 675,
+                            "resize": "fit"
+                        },
+                        "small": {
+                            "w": 680,
+                            "h": 383,
+                            "resize": "fit"
+                        },
+                        "large": {
+                            "w": 1280,
+                            "h": 720,
+                            "resize": "fit"
+                        }
+                    }
+                }
+            ]
+        },
+        "extended_entities": {
+            "media": [
+                {
+                    "id": 1415260899401687047,
+                    "id_str": "1415260899401687047",
+                    "indices": [
+                        261,
+                        284
+                    ],
+                    "media_url": "http://pbs.twimg.com/amplify_video_thumb/1415260899401687047/img/0AIfVZ381TeYO1Yn.jpg",
+                    "media_url_https": "https://pbs.twimg.com/amplify_video_thumb/1415260899401687047/img/0AIfVZ381TeYO1Yn.jpg",
+                    "url": "https://t.co/F4TKyddH7B",
+                    "display_url": "pic.twitter.com/F4TKyddH7B",
+                    "expanded_url": "https://twitter.com/ComunidadMadrid/status/1415261210086453248/video/1",
+                    "type": "video",
+                    "sizes": {
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "medium": {
+                            "w": 1200,
+                            "h": 675,
+                            "resize": "fit"
+                        },
+                        "small": {
+                            "w": 680,
+                            "h": 383,
+                            "resize": "fit"
+                        },
+                        "large": {
+                            "w": 1280,
+                            "h": 720,
+                            "resize": "fit"
+                        }
+                    },
+                    "video_info": {
+                        "aspect_ratio": [
+                            16,
+                            9
+                        ],
+                        "duration_millis": 145360,
+                        "variants": [
+                            {
+                                "content_type": "application/x-mpegURL",
+                                "url": "https://video.twimg.com/amplify_video/1415260899401687047/pl/XN6twBFYmZ-MogTb.m3u8?tag=14"
+                            },
+                            {
+                                "bitrate": 288000,
+                                "content_type": "video/mp4",
+                                "url": "https://video.twimg.com/amplify_video/1415260899401687047/vid/480x270/UJA4PiOLPVQ67cFT.mp4?tag=14"
+                            },
+                            {
+                                "bitrate": 2176000,
+                                "content_type": "video/mp4",
+                                "url": "https://video.twimg.com/amplify_video/1415260899401687047/vid/1280x720/LNchUieSJ5BH7dfu.mp4?tag=14"
+                            },
+                            {
+                                "bitrate": 832000,
+                                "content_type": "video/mp4",
+                                "url": "https://video.twimg.com/amplify_video/1415260899401687047/vid/640x360/GPNlC_N-2Y4PLBJI.mp4?tag=14"
+                            }
+                        ]
+                    },
+                    "additional_media_info": {
+                        "title": "",
+                        "description": "",
+                        "embeddable": true,
+                        "monetizable": false
+                    }
+                }
+            ]
+        },
+        "metadata": {
+            "iso_language_code": "es",
+            "result_type": "recent"
+        },
+        "source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 122353251,
+            "id_str": "122353251",
+            "name": "Comunidad de Madrid",
+            "screen_name": "ComunidadMadrid",
+            "location": "Comunidad de Madrid, Espa\u00f1a",
+            "description": "Perfil oficial de la Comunidad de Madrid.",
+            "url": "https://t.co/N8JdVW4kBI",
+            "entities": {
+                "url": {
+                    "urls": [
+                        {
+                            "url": "https://t.co/N8JdVW4kBI",
+                            "expanded_url": "http://www.comunidad.madrid",
+                            "display_url": "comunidad.madrid",
+                            "indices": [
+                                0,
+                                23
+                            ]
+                        }
+                    ]
+                },
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 679760,
+            "friends_count": 630,
+            "listed_count": 2273,
+            "created_at": "Fri Mar 12 12:15:51 +0000 2010",
+            "favourites_count": 808,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": true,
+            "verified": true,
+            "statuses_count": 53831,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "C4CDDE",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1370147389672161282/-5h_l7IQ_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1370147389672161282/-5h_l7IQ_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/122353251/1621523583",
+            "profile_link_color": "001559",
+            "profile_sidebar_border_color": "FFFFFF",
+            "profile_sidebar_fill_color": "EFEFEF",
+            "profile_text_color": "737373",
+            "profile_use_background_image": true,
+            "has_extended_profile": false,
+            "default_profile": false,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none",
+            "withheld_in_countries": []
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 583,
+        "favorite_count": 1798,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "es"
+    },
+    "is_quote_status": false,
+    "retweet_count": 583,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "es"
+}

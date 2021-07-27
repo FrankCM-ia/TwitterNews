@@ -1,0 +1,296 @@
+{
+    "created_at": "Thu Jul 15 07:39:49 +0000 2021",
+    "id": 1415576824453677060,
+    "id_str": "1415576824453677060",
+    "full_text": "RT @voz_populi: \u270d\ufe0f OPINI\u00d3N | \"Redondo es destituido porque S\u00e1nchez no pod\u00eda aceptar la imagen de un lugarteniente que abandona la idea del\u2026",
+    "truncated": false,
+    "display_text_range": [
+        0,
+        139
+    ],
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "voz_populi",
+                "name": "Vozp\u00f3puli",
+                "id": 368889720,
+                "id_str": "368889720",
+                "indices": [
+                    3,
+                    14
+                ]
+            }
+        ],
+        "urls": []
+    },
+    "metadata": {
+        "iso_language_code": "es",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 1251611206852530176,
+        "id_str": "1251611206852530176",
+        "name": "\ud835\ude75\ud835\ude9b\ud835\ude8a\ud835\ude97\ud835\ude94 \ud835\ude81\ud835\ude8e\ud835\ude8a\ud835\ude90\ud835\ude8a\ud835\ude97, \ud835\ude7d\ud835\ude88\ud835\ude7f\ud835\ude73",
+        "screen_name": "FrankReagan17",
+        "location": "Nueva York, USA",
+        "description": "Polic\u00eda en Nueva York, la ciudad que nunca duerme... Tuitazo de In\u00e9s Bipolar obtenido el d\u00eda 30 - 6 - 2021",
+        "url": null,
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 200,
+        "friends_count": 423,
+        "listed_count": 0,
+        "created_at": "Sat Apr 18 20:39:13 +0000 2020",
+        "favourites_count": 9786,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 20328,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": null,
+        "profile_background_image_url_https": null,
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1251612356557357057/-yRFGZia_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1251612356557357057/-yRFGZia_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1251611206852530176/1601879222",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+        "created_at": "Thu Jul 15 07:31:03 +0000 2021",
+        "id": 1415574616236568578,
+        "id_str": "1415574616236568578",
+        "full_text": "\u270d\ufe0f OPINI\u00d3N | \"Redondo es destituido porque S\u00e1nchez no pod\u00eda aceptar la imagen de un lugarteniente que abandona la idea del barranco para pasar a casi compartir pelda\u00f1o en lo m\u00e1s alto del caj\u00f3n\"\n\nPor @AValladolidJ \n\nhttps://t.co/Ut8isVtEBO https://t.co/yWX1OXmQag",
+        "truncated": false,
+        "display_text_range": [
+            0,
+            238
+        ],
+        "entities": {
+            "hashtags": [],
+            "symbols": [],
+            "user_mentions": [
+                {
+                    "screen_name": "AValladolidJ",
+                    "name": "Agust\u00edn Valladolid",
+                    "id": 342266177,
+                    "id_str": "342266177",
+                    "indices": [
+                        199,
+                        212
+                    ]
+                }
+            ],
+            "urls": [
+                {
+                    "url": "https://t.co/Ut8isVtEBO",
+                    "expanded_url": "https://www.vozpopuli.com/opinion/ivan-redondo-jefe-gabinete.html?amp=1",
+                    "display_url": "vozpopuli.com/opinion/ivan-r\u2026",
+                    "indices": [
+                        215,
+                        238
+                    ]
+                }
+            ],
+            "media": [
+                {
+                    "id": 1415574612403007488,
+                    "id_str": "1415574612403007488",
+                    "indices": [
+                        239,
+                        262
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/E6UhnCVXsAA606d.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/E6UhnCVXsAA606d.jpg",
+                    "url": "https://t.co/yWX1OXmQag",
+                    "display_url": "pic.twitter.com/yWX1OXmQag",
+                    "expanded_url": "https://twitter.com/voz_populi/status/1415574616236568578/photo/1",
+                    "type": "photo",
+                    "sizes": {
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "medium": {
+                            "w": 1200,
+                            "h": 675,
+                            "resize": "fit"
+                        },
+                        "small": {
+                            "w": 680,
+                            "h": 383,
+                            "resize": "fit"
+                        },
+                        "large": {
+                            "w": 1820,
+                            "h": 1024,
+                            "resize": "fit"
+                        }
+                    }
+                }
+            ]
+        },
+        "extended_entities": {
+            "media": [
+                {
+                    "id": 1415574612403007488,
+                    "id_str": "1415574612403007488",
+                    "indices": [
+                        239,
+                        262
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/E6UhnCVXsAA606d.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/E6UhnCVXsAA606d.jpg",
+                    "url": "https://t.co/yWX1OXmQag",
+                    "display_url": "pic.twitter.com/yWX1OXmQag",
+                    "expanded_url": "https://twitter.com/voz_populi/status/1415574616236568578/photo/1",
+                    "type": "photo",
+                    "sizes": {
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "medium": {
+                            "w": 1200,
+                            "h": 675,
+                            "resize": "fit"
+                        },
+                        "small": {
+                            "w": 680,
+                            "h": 383,
+                            "resize": "fit"
+                        },
+                        "large": {
+                            "w": 1820,
+                            "h": 1024,
+                            "resize": "fit"
+                        }
+                    }
+                }
+            ]
+        },
+        "metadata": {
+            "iso_language_code": "es",
+            "result_type": "recent"
+        },
+        "source": "<a href=\"https://buffer.com\" rel=\"nofollow\">Buffer</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 368889720,
+            "id_str": "368889720",
+            "name": "Vozp\u00f3puli",
+            "screen_name": "voz_populi",
+            "location": "",
+            "description": "Peri\u00f3dico digital en espa\u00f1ol. Informaci\u00f3n de calidad, grandes exclusivas y el mejor plantel de columnistas. En abierto. vozpopuli@vozpopuli.com",
+            "url": "https://t.co/6D4UX7D8Ph",
+            "entities": {
+                "url": {
+                    "urls": [
+                        {
+                            "url": "https://t.co/6D4UX7D8Ph",
+                            "expanded_url": "http://www.vozpopuli.com",
+                            "display_url": "vozpopuli.com",
+                            "indices": [
+                                0,
+                                23
+                            ]
+                        }
+                    ]
+                },
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 141665,
+            "friends_count": 406,
+            "listed_count": 2952,
+            "created_at": "Tue Sep 06 12:03:38 +0000 2011",
+            "favourites_count": 13895,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": true,
+            "verified": true,
+            "statuses_count": 338754,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "022330",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1006562248830144512/xFizZY0L_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1006562248830144512/xFizZY0L_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/368889720/1583346612",
+            "profile_link_color": "4A913C",
+            "profile_sidebar_border_color": "FFFFFF",
+            "profile_sidebar_fill_color": "BBF0DB",
+            "profile_text_color": "0D000D",
+            "profile_use_background_image": true,
+            "has_extended_profile": false,
+            "default_profile": false,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none",
+            "withheld_in_countries": []
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 4,
+        "favorite_count": 8,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "es"
+    },
+    "is_quote_status": false,
+    "retweet_count": 4,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "es"
+}

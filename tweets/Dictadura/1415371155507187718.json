@@ -1,0 +1,433 @@
+{
+    "created_at": "Wed Jul 14 18:02:34 +0000 2021",
+    "id": 1415371155507187718,
+    "id_str": "1415371155507187718",
+    "full_text": "RT @Almagro_OEA2015: El r\u00e9gimen de #Cuba es responsable del bienestar de los manifestantes que protestan contra la dictadura en la isla.\u2026",
+    "truncated": false,
+    "display_text_range": [
+        0,
+        137
+    ],
+    "entities": {
+        "hashtags": [
+            {
+                "text": "Cuba",
+                "indices": [
+                    35,
+                    40
+                ]
+            }
+        ],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "Almagro_OEA2015",
+                "name": "Luis Almagro",
+                "id": 2802545808,
+                "id_str": "2802545808",
+                "indices": [
+                    3,
+                    19
+                ]
+            }
+        ],
+        "urls": []
+    },
+    "metadata": {
+        "iso_language_code": "es",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 2326067245,
+        "id_str": "2326067245",
+        "name": "Voyzes",
+        "screen_name": "voyzes",
+        "location": "",
+        "description": "Archivo p\u00fablico de voces \ud83d\udd0a",
+        "url": "https://t.co/QpSo2CGXpJ",
+        "entities": {
+            "url": {
+                "urls": [
+                    {
+                        "url": "https://t.co/QpSo2CGXpJ",
+                        "expanded_url": "http://archivodevoces.com/",
+                        "display_url": "archivodevoces.com",
+                        "indices": [
+                            0,
+                            23
+                        ]
+                    }
+                ]
+            },
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 229,
+        "friends_count": 387,
+        "listed_count": 5,
+        "created_at": "Mon Feb 03 21:26:02 +0000 2014",
+        "favourites_count": 1553,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 1667,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1080648063092441088/Q-4vQpf7_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1080648063092441088/Q-4vQpf7_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2326067245/1546481394",
+        "profile_link_color": "AF9D53",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "profile_use_background_image": false,
+        "has_extended_profile": false,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+        "created_at": "Tue Jul 13 15:30:58 +0000 2021",
+        "id": 1414970614666993669,
+        "id_str": "1414970614666993669",
+        "full_text": "El r\u00e9gimen de #Cuba es responsable del bienestar de los manifestantes que protestan contra la dictadura en la isla. \n\nCondenamos la violencia en contra del pueblo cubano y exigimos el cese inmediato de la intimidaci\u00f3n, la persecuci\u00f3n y la represi\u00f3n en contra de la gente. https://t.co/qf5QymLMnu",
+        "truncated": false,
+        "display_text_range": [
+            0,
+            271
+        ],
+        "entities": {
+            "hashtags": [
+                {
+                    "text": "Cuba",
+                    "indices": [
+                        14,
+                        19
+                    ]
+                }
+            ],
+            "symbols": [],
+            "user_mentions": [],
+            "urls": [
+                {
+                    "url": "https://t.co/qf5QymLMnu",
+                    "expanded_url": "https://twitter.com/RosaMariaPaya/status/1414792205198319617",
+                    "display_url": "twitter.com/RosaMariaPaya/\u2026",
+                    "indices": [
+                        272,
+                        295
+                    ]
+                }
+            ]
+        },
+        "metadata": {
+            "iso_language_code": "es",
+            "result_type": "recent"
+        },
+        "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 2802545808,
+            "id_str": "2802545808",
+            "name": "Luis Almagro",
+            "screen_name": "Almagro_OEA2015",
+            "location": "Las Am\u00e9ricas",
+            "description": "Mi visi\u00f3n: riqueza compartida y oportunidades xa tod@s en las Am\u00e9ricas, con una OEA que fortalezca democracia, desarrollo, seguridad y DDHH #M\u00e1sDerechosM\u00e1sGente",
+            "url": "http://t.co/SO1mrC3LY1",
+            "entities": {
+                "url": {
+                    "urls": [
+                        {
+                            "url": "http://t.co/SO1mrC3LY1",
+                            "expanded_url": "http://www.oas.org",
+                            "display_url": "oas.org",
+                            "indices": [
+                                0,
+                                22
+                            ]
+                        }
+                    ]
+                },
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 1488301,
+            "friends_count": 335,
+            "listed_count": 1847,
+            "created_at": "Wed Sep 10 22:46:26 +0000 2014",
+            "favourites_count": 62,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": true,
+            "verified": true,
+            "statuses_count": 9719,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "C0DEED",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/677532965350588416/1kKoTlwI_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/677532965350588416/1kKoTlwI_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/2802545808/1450372030",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "has_extended_profile": false,
+            "default_profile": true,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none",
+            "withheld_in_countries": []
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": true,
+        "quoted_status_id": 1414792205198319617,
+        "quoted_status_id_str": "1414792205198319617",
+        "quoted_status": {
+            "created_at": "Tue Jul 13 03:42:01 +0000 2021",
+            "id": 1414792205198319617,
+            "id_str": "1414792205198319617",
+            "full_text": "\u201c5 muertos\u2026llegaron m\u00e1s de 20 personas en el hospital provincial con traumatismos severos\u2026un anciano que le sacaron los sesos a palo Esto es genocidio. Div\u00falgalo, que van a matar a Miles\u201d \nMensaje q me llega desde Santiago d Cuba\nEl pueblo dice basta:\n#SOSCuba #AbajoLaDictadura https://t.co/mAlqw1kuvI",
+            "truncated": false,
+            "display_text_range": [
+                0,
+                278
+            ],
+            "entities": {
+                "hashtags": [
+                    {
+                        "text": "SOSCuba",
+                        "indices": [
+                            252,
+                            260
+                        ]
+                    },
+                    {
+                        "text": "AbajoLaDictadura",
+                        "indices": [
+                            261,
+                            278
+                        ]
+                    }
+                ],
+                "symbols": [],
+                "user_mentions": [],
+                "urls": [],
+                "media": [
+                    {
+                        "id": 1414792202220359680,
+                        "id_str": "1414792202220359680",
+                        "indices": [
+                            279,
+                            302
+                        ],
+                        "media_url": "http://pbs.twimg.com/media/E6JaAxRWUAAE5VR.jpg",
+                        "media_url_https": "https://pbs.twimg.com/media/E6JaAxRWUAAE5VR.jpg",
+                        "url": "https://t.co/mAlqw1kuvI",
+                        "display_url": "pic.twitter.com/mAlqw1kuvI",
+                        "expanded_url": "https://twitter.com/RosaMariaPaya/status/1414792205198319617/photo/1",
+                        "type": "photo",
+                        "sizes": {
+                            "thumb": {
+                                "w": 150,
+                                "h": 150,
+                                "resize": "crop"
+                            },
+                            "medium": {
+                                "w": 828,
+                                "h": 563,
+                                "resize": "fit"
+                            },
+                            "large": {
+                                "w": 828,
+                                "h": 563,
+                                "resize": "fit"
+                            },
+                            "small": {
+                                "w": 680,
+                                "h": 462,
+                                "resize": "fit"
+                            }
+                        }
+                    }
+                ]
+            },
+            "extended_entities": {
+                "media": [
+                    {
+                        "id": 1414792202220359680,
+                        "id_str": "1414792202220359680",
+                        "indices": [
+                            279,
+                            302
+                        ],
+                        "media_url": "http://pbs.twimg.com/media/E6JaAxRWUAAE5VR.jpg",
+                        "media_url_https": "https://pbs.twimg.com/media/E6JaAxRWUAAE5VR.jpg",
+                        "url": "https://t.co/mAlqw1kuvI",
+                        "display_url": "pic.twitter.com/mAlqw1kuvI",
+                        "expanded_url": "https://twitter.com/RosaMariaPaya/status/1414792205198319617/photo/1",
+                        "type": "photo",
+                        "sizes": {
+                            "thumb": {
+                                "w": 150,
+                                "h": 150,
+                                "resize": "crop"
+                            },
+                            "medium": {
+                                "w": 828,
+                                "h": 563,
+                                "resize": "fit"
+                            },
+                            "large": {
+                                "w": 828,
+                                "h": 563,
+                                "resize": "fit"
+                            },
+                            "small": {
+                                "w": 680,
+                                "h": 462,
+                                "resize": "fit"
+                            }
+                        }
+                    }
+                ]
+            },
+            "metadata": {
+                "iso_language_code": "es",
+                "result_type": "recent"
+            },
+            "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+            "in_reply_to_status_id": null,
+            "in_reply_to_status_id_str": null,
+            "in_reply_to_user_id": null,
+            "in_reply_to_user_id_str": null,
+            "in_reply_to_screen_name": null,
+            "user": {
+                "id": 720480098,
+                "id_str": "720480098",
+                "name": "Rosa Mar\u00eda Pay\u00e1 A.",
+                "screen_name": "RosaMariaPaya",
+                "location": "Suma tu firma en @CubaDecide ",
+                "description": "Si t\u00fa decides, @CubaDecide                            Fundaci\u00f3n para la Democracia Panamericana \nRed Latinoamericana de J\u00f3venes por la Democracia, @JuventudLac",
+                "url": "https://t.co/ZjVhlVsqR9",
+                "entities": {
+                    "url": {
+                        "urls": [
+                            {
+                                "url": "https://t.co/ZjVhlVsqR9",
+                                "expanded_url": "http://www.cubadecide.org",
+                                "display_url": "cubadecide.org",
+                                "indices": [
+                                    0,
+                                    23
+                                ]
+                            }
+                        ]
+                    },
+                    "description": {
+                        "urls": []
+                    }
+                },
+                "protected": false,
+                "followers_count": 53832,
+                "friends_count": 3282,
+                "listed_count": 352,
+                "created_at": "Fri Jul 27 16:47:54 +0000 2012",
+                "favourites_count": 30739,
+                "utc_offset": null,
+                "time_zone": null,
+                "geo_enabled": true,
+                "verified": true,
+                "statuses_count": 16095,
+                "lang": null,
+                "contributors_enabled": false,
+                "is_translator": false,
+                "is_translation_enabled": false,
+                "profile_background_color": "F7F9F5",
+                "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+                "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+                "profile_background_tile": true,
+                "profile_image_url": "http://pbs.twimg.com/profile_images/625365206345089024/yb1shl4q_normal.jpg",
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/625365206345089024/yb1shl4q_normal.jpg",
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/720480098/1599933186",
+                "profile_link_color": "E61F68",
+                "profile_sidebar_border_color": "000000",
+                "profile_sidebar_fill_color": "DDEEF6",
+                "profile_text_color": "333333",
+                "profile_use_background_image": true,
+                "has_extended_profile": false,
+                "default_profile": false,
+                "default_profile_image": false,
+                "following": false,
+                "follow_request_sent": false,
+                "notifications": false,
+                "translator_type": "regular",
+                "withheld_in_countries": []
+            },
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "contributors": null,
+            "is_quote_status": false,
+            "retweet_count": 2860,
+            "favorite_count": 2371,
+            "favorited": false,
+            "retweeted": false,
+            "possibly_sensitive": false,
+            "lang": "es"
+        },
+        "retweet_count": 1744,
+        "favorite_count": 1973,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "es"
+    },
+    "is_quote_status": true,
+    "quoted_status_id": 1414792205198319617,
+    "quoted_status_id_str": "1414792205198319617",
+    "retweet_count": 1744,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "es"
+}

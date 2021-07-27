@@ -1,0 +1,411 @@
+{
+    "created_at": "Wed Jul 14 18:01:55 +0000 2021",
+    "id": 1415370990763323394,
+    "id_str": "1415370990763323394",
+    "full_text": "RT @jfergo86: Sabemos que en Cuba hay una dictadura, pero en tu gobierno atropellaste un partido pol\u00edtico y mataron a un joven, SOS el meno\u2026",
+    "truncated": false,
+    "display_text_range": [
+        0,
+        140
+    ],
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "jfergo86",
+                "name": "Fergo\ud83c\udf0e",
+                "id": 617675801,
+                "id_str": "617675801",
+                "indices": [
+                    3,
+                    12
+                ]
+            }
+        ],
+        "urls": []
+    },
+    "metadata": {
+        "iso_language_code": "es",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 630301446,
+        "id_str": "630301446",
+        "name": "george",
+        "screen_name": "geormore",
+        "location": "",
+        "description": "por sobre todas las cosas #OLIMPIA",
+        "url": null,
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 616,
+        "friends_count": 491,
+        "listed_count": 1,
+        "created_at": "Sun Jul 08 13:39:46 +0000 2012",
+        "favourites_count": 1250,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 19838,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "131516",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+        "profile_background_tile": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/434145947874897920/4xfmDoHU_normal.png",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/434145947874897920/4xfmDoHU_normal.png",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/630301446/1563749071",
+        "profile_link_color": "1D68EB",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "EFEFEF",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+        "created_at": "Wed Jul 14 16:01:14 +0000 2021",
+        "id": 1415340621162766336,
+        "id_str": "1415340621162766336",
+        "full_text": "Sabemos que en Cuba hay una dictadura, pero en tu gobierno atropellaste un partido pol\u00edtico y mataron a un joven, SOS el menos indicado para hablar de respeto a los  derechos humanos.\n\nKavara ndohechai huguai. https://t.co/yR6iULaDAn https://t.co/Ax0PN4poqS",
+        "truncated": false,
+        "display_text_range": [
+            0,
+            233
+        ],
+        "entities": {
+            "hashtags": [],
+            "symbols": [],
+            "user_mentions": [],
+            "urls": [
+                {
+                    "url": "https://t.co/yR6iULaDAn",
+                    "expanded_url": "https://twitter.com/Horacio_Cartes/status/1415322784453046273",
+                    "display_url": "twitter.com/Horacio_Cartes\u2026",
+                    "indices": [
+                        210,
+                        233
+                    ]
+                }
+            ],
+            "media": [
+                {
+                    "id": 1415340615525617668,
+                    "id_str": "1415340615525617668",
+                    "indices": [
+                        234,
+                        257
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/E6RMyoCWUAQqlK4.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/E6RMyoCWUAQqlK4.jpg",
+                    "url": "https://t.co/Ax0PN4poqS",
+                    "display_url": "pic.twitter.com/Ax0PN4poqS",
+                    "expanded_url": "https://twitter.com/jfergo86/status/1415340621162766336/photo/1",
+                    "type": "photo",
+                    "sizes": {
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "medium": {
+                            "w": 259,
+                            "h": 194,
+                            "resize": "fit"
+                        },
+                        "small": {
+                            "w": 259,
+                            "h": 194,
+                            "resize": "fit"
+                        },
+                        "large": {
+                            "w": 259,
+                            "h": 194,
+                            "resize": "fit"
+                        }
+                    }
+                }
+            ]
+        },
+        "extended_entities": {
+            "media": [
+                {
+                    "id": 1415340615525617668,
+                    "id_str": "1415340615525617668",
+                    "indices": [
+                        234,
+                        257
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/E6RMyoCWUAQqlK4.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/E6RMyoCWUAQqlK4.jpg",
+                    "url": "https://t.co/Ax0PN4poqS",
+                    "display_url": "pic.twitter.com/Ax0PN4poqS",
+                    "expanded_url": "https://twitter.com/jfergo86/status/1415340621162766336/photo/1",
+                    "type": "photo",
+                    "sizes": {
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "medium": {
+                            "w": 259,
+                            "h": 194,
+                            "resize": "fit"
+                        },
+                        "small": {
+                            "w": 259,
+                            "h": 194,
+                            "resize": "fit"
+                        },
+                        "large": {
+                            "w": 259,
+                            "h": 194,
+                            "resize": "fit"
+                        }
+                    }
+                },
+                {
+                    "id": 1415340618981814273,
+                    "id_str": "1415340618981814273",
+                    "indices": [
+                        234,
+                        257
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/E6RMy06XsAEa2Iv.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/E6RMy06XsAEa2Iv.jpg",
+                    "url": "https://t.co/Ax0PN4poqS",
+                    "display_url": "pic.twitter.com/Ax0PN4poqS",
+                    "expanded_url": "https://twitter.com/jfergo86/status/1415340621162766336/photo/1",
+                    "type": "photo",
+                    "sizes": {
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "medium": {
+                            "w": 730,
+                            "h": 548,
+                            "resize": "fit"
+                        },
+                        "small": {
+                            "w": 680,
+                            "h": 510,
+                            "resize": "fit"
+                        },
+                        "large": {
+                            "w": 730,
+                            "h": 548,
+                            "resize": "fit"
+                        }
+                    }
+                }
+            ]
+        },
+        "metadata": {
+            "iso_language_code": "es",
+            "result_type": "recent"
+        },
+        "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 617675801,
+            "id_str": "617675801",
+            "name": "Fergo\ud83c\udf0e",
+            "screen_name": "jfergo86",
+            "location": "Denver, CO",
+            "description": "#OrderManager \n#Traveler.\nEl mundo es tan grande para quedarse en un solo lugar.\n\n#DenunciasCiudadanas(+595)986-411-913\ud83c\uddf5\ud83c\uddfe\ud83c\uddfa\ud83c\uddf8\ud83c\uddea\ud83c\uddf8\ud83c\udde6\ud83c\uddf7\ud83c\udf0f",
+            "url": null,
+            "entities": {
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 27196,
+            "friends_count": 8617,
+            "listed_count": 8,
+            "created_at": "Mon Jun 25 02:09:11 +0000 2012",
+            "favourites_count": 108604,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": true,
+            "verified": false,
+            "statuses_count": 38575,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "C0DEED",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1391576365422501889/SbnPHB-U_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1391576365422501889/SbnPHB-U_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/617675801/1598441388",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "has_extended_profile": true,
+            "default_profile": true,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none",
+            "withheld_in_countries": []
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": true,
+        "quoted_status_id": 1415322784453046273,
+        "quoted_status_id_str": "1415322784453046273",
+        "quoted_status": {
+            "created_at": "Wed Jul 14 14:50:21 +0000 2021",
+            "id": 1415322784453046273,
+            "id_str": "1415322784453046273",
+            "full_text": "Hago un llamado al Gobierno de Cuba para que respete el derecho humano del pueblo cubano a la libre expresi\u00f3n y no dejar de escuchar sus demandas y reclamos, en un marco pacifico y de convivencia civilizada.",
+            "truncated": false,
+            "display_text_range": [
+                0,
+                207
+            ],
+            "entities": {
+                "hashtags": [],
+                "symbols": [],
+                "user_mentions": [],
+                "urls": []
+            },
+            "metadata": {
+                "iso_language_code": "es",
+                "result_type": "recent"
+            },
+            "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+            "in_reply_to_status_id": null,
+            "in_reply_to_status_id_str": null,
+            "in_reply_to_user_id": null,
+            "in_reply_to_user_id_str": null,
+            "in_reply_to_screen_name": null,
+            "user": {
+                "id": 361445173,
+                "id_str": "361445173",
+                "name": "Horacio Cartes",
+                "screen_name": "Horacio_Cartes",
+                "location": "",
+                "description": "Expresidente de la Rep\u00fablica del Paraguay. Pol\u00edtico. Fundador del Movimiento Honor Colorado. \u00a1Hechos, no palabras!",
+                "url": "https://t.co/Sp2ERZpQsE",
+                "entities": {
+                    "url": {
+                        "urls": [
+                            {
+                                "url": "https://t.co/Sp2ERZpQsE",
+                                "expanded_url": "http://www.facebook.com/horaciocartesoficial",
+                                "display_url": "facebook.com/horaciocarteso\u2026",
+                                "indices": [
+                                    0,
+                                    23
+                                ]
+                            }
+                        ]
+                    },
+                    "description": {
+                        "urls": []
+                    }
+                },
+                "protected": false,
+                "followers_count": 548281,
+                "friends_count": 143,
+                "listed_count": 685,
+                "created_at": "Wed Aug 24 20:04:17 +0000 2011",
+                "favourites_count": 95,
+                "utc_offset": null,
+                "time_zone": null,
+                "geo_enabled": true,
+                "verified": true,
+                "statuses_count": 9646,
+                "lang": null,
+                "contributors_enabled": false,
+                "is_translator": false,
+                "is_translation_enabled": false,
+                "profile_background_color": "FFFFFF",
+                "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+                "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+                "profile_background_tile": false,
+                "profile_image_url": "http://pbs.twimg.com/profile_images/1124335804682256384/edGVXNXB_normal.jpg",
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/1124335804682256384/edGVXNXB_normal.jpg",
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/361445173/1534332534",
+                "profile_link_color": "0084B4",
+                "profile_sidebar_border_color": "FFFFFF",
+                "profile_sidebar_fill_color": "DDEEF6",
+                "profile_text_color": "333333",
+                "profile_use_background_image": true,
+                "has_extended_profile": false,
+                "default_profile": false,
+                "default_profile_image": false,
+                "following": false,
+                "follow_request_sent": false,
+                "notifications": false,
+                "translator_type": "none",
+                "withheld_in_countries": []
+            },
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "contributors": null,
+            "is_quote_status": false,
+            "retweet_count": 279,
+            "favorite_count": 1539,
+            "favorited": false,
+            "retweeted": false,
+            "lang": "es"
+        },
+        "retweet_count": 46,
+        "favorite_count": 94,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "es"
+    },
+    "is_quote_status": true,
+    "quoted_status_id": 1415322784453046273,
+    "quoted_status_id_str": "1415322784453046273",
+    "retweet_count": 46,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "es"
+}

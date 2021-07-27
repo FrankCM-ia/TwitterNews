@@ -1,0 +1,262 @@
+{
+    "created_at": "Thu Jul 15 08:58:08 +0000 2021",
+    "id": 1415596533941166080,
+    "id_str": "1415596533941166080",
+    "full_text": "RT @pinoester: SALVAR CHIRA/SORIA \nHola a tod@s, no se olviden que todav\u00eda sigue programada la salida panor\u00e1mica por el Barranco de Arguine\u2026",
+    "truncated": false,
+    "display_text_range": [
+        0,
+        140
+    ],
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "pinoester",
+                "name": "GUADAF\u00cdA TEIDA",
+                "id": 305659598,
+                "id_str": "305659598",
+                "indices": [
+                    3,
+                    13
+                ]
+            }
+        ],
+        "urls": []
+    },
+    "metadata": {
+        "iso_language_code": "es",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 305659598,
+        "id_str": "305659598",
+        "name": "GUADAF\u00cdA TEIDA",
+        "screen_name": "pinoester",
+        "location": "Tamaran",
+        "description": "Tera mergi lell\u00e1k\ud83d\udc96",
+        "url": null,
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 875,
+        "friends_count": 2684,
+        "listed_count": 5,
+        "created_at": "Thu May 26 15:51:13 +0000 2011",
+        "favourites_count": 12244,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 14968,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "642D8B",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme10/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme10/bg.gif",
+        "profile_background_tile": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1414993632185262083/TWIk2SZx_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1414993632185262083/TWIk2SZx_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/305659598/1626078443",
+        "profile_link_color": "FF0000",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "7AC3EE",
+        "profile_text_color": "3D1957",
+        "profile_use_background_image": true,
+        "has_extended_profile": true,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+        "created_at": "Wed Jul 14 01:17:37 +0000 2021",
+        "id": 1415118253337333762,
+        "id_str": "1415118253337333762",
+        "full_text": "SALVAR CHIRA/SORIA \nHola a tod@s, no se olviden que todav\u00eda sigue programada la salida panor\u00e1mica por el Barranco de Arguinegu\u00edn el pr\u00f3ximo Domingo 25 de Julio. \nEs una excursi\u00f3n de d\u00eda completo con transporte, paradas panor\u00e1micas y explicativas, almuerzo, Gu\u00eda Oficial y seguros https://t.co/PyR6IrEi1m",
+        "truncated": false,
+        "display_text_range": [
+            0,
+            279
+        ],
+        "entities": {
+            "hashtags": [],
+            "symbols": [],
+            "user_mentions": [],
+            "urls": [],
+            "media": [
+                {
+                    "id": 1415117123320418307,
+                    "id_str": "1415117123320418307",
+                    "indices": [
+                        280,
+                        303
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/E6OBhqsWEAM6PAY.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/E6OBhqsWEAM6PAY.jpg",
+                    "url": "https://t.co/PyR6IrEi1m",
+                    "display_url": "pic.twitter.com/PyR6IrEi1m",
+                    "expanded_url": "https://twitter.com/pinoester/status/1415118253337333762/photo/1",
+                    "type": "photo",
+                    "sizes": {
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "large": {
+                            "w": 960,
+                            "h": 720,
+                            "resize": "fit"
+                        },
+                        "small": {
+                            "w": 680,
+                            "h": 510,
+                            "resize": "fit"
+                        },
+                        "medium": {
+                            "w": 960,
+                            "h": 720,
+                            "resize": "fit"
+                        }
+                    }
+                }
+            ]
+        },
+        "extended_entities": {
+            "media": [
+                {
+                    "id": 1415117123320418307,
+                    "id_str": "1415117123320418307",
+                    "indices": [
+                        280,
+                        303
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/E6OBhqsWEAM6PAY.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/E6OBhqsWEAM6PAY.jpg",
+                    "url": "https://t.co/PyR6IrEi1m",
+                    "display_url": "pic.twitter.com/PyR6IrEi1m",
+                    "expanded_url": "https://twitter.com/pinoester/status/1415118253337333762/photo/1",
+                    "type": "photo",
+                    "sizes": {
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "large": {
+                            "w": 960,
+                            "h": 720,
+                            "resize": "fit"
+                        },
+                        "small": {
+                            "w": 680,
+                            "h": 510,
+                            "resize": "fit"
+                        },
+                        "medium": {
+                            "w": 960,
+                            "h": 720,
+                            "resize": "fit"
+                        }
+                    }
+                }
+            ]
+        },
+        "metadata": {
+            "iso_language_code": "es",
+            "result_type": "recent"
+        },
+        "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 305659598,
+            "id_str": "305659598",
+            "name": "GUADAF\u00cdA TEIDA",
+            "screen_name": "pinoester",
+            "location": "Tamaran",
+            "description": "Tera mergi lell\u00e1k\ud83d\udc96",
+            "url": null,
+            "entities": {
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 875,
+            "friends_count": 2684,
+            "listed_count": 5,
+            "created_at": "Thu May 26 15:51:13 +0000 2011",
+            "favourites_count": 12244,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": true,
+            "verified": false,
+            "statuses_count": 14968,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "642D8B",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme10/bg.gif",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme10/bg.gif",
+            "profile_background_tile": true,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1414993632185262083/TWIk2SZx_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1414993632185262083/TWIk2SZx_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/305659598/1626078443",
+            "profile_link_color": "FF0000",
+            "profile_sidebar_border_color": "000000",
+            "profile_sidebar_fill_color": "7AC3EE",
+            "profile_text_color": "3D1957",
+            "profile_use_background_image": true,
+            "has_extended_profile": true,
+            "default_profile": false,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none",
+            "withheld_in_countries": []
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 1,
+        "favorite_count": 0,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "es"
+    },
+    "is_quote_status": false,
+    "retweet_count": 1,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "es"
+}

@@ -1,0 +1,137 @@
+{
+    "created_at": "Thu Jul 15 14:59:34 +0000 2021",
+    "id": 1415687488916447234,
+    "id_str": "1415687488916447234",
+    "full_text": "@Borjacdo @komadrejapirata @a_mijel @jorjum_ @El_Citador + suicidios: desde tirarse de un barranco, estupefacientes, ahorcamientos, lanzarse del edificio, etc y etc.\n\nA eso le a\u00f1adimos, como dijeron arriba, a ser la ccaa con m\u00e1s paro de Espa\u00f1a y con mayores \u00edndice de pobreza, y apaga y v\u00e1monos.\n\nHelp",
+    "truncated": false,
+    "display_text_range": [
+        57,
+        301
+    ],
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "Borjacdo",
+                "name": "Borja",
+                "id": 259212823,
+                "id_str": "259212823",
+                "indices": [
+                    0,
+                    9
+                ]
+            },
+            {
+                "screen_name": "komadrejapirata",
+                "name": "komadreja free style",
+                "id": 2811681625,
+                "id_str": "2811681625",
+                "indices": [
+                    10,
+                    26
+                ]
+            },
+            {
+                "screen_name": "a_mijel",
+                "name": "Charles de Lorme \ud83c\uddea\ud83c\uddf8\ud83d\udc9c\ud83d\udc17",
+                "id": 369641332,
+                "id_str": "369641332",
+                "indices": [
+                    27,
+                    35
+                ]
+            },
+            {
+                "screen_name": "jorjum_",
+                "name": "Jorge Iglesias",
+                "id": 97483314,
+                "id_str": "97483314",
+                "indices": [
+                    36,
+                    44
+                ]
+            },
+            {
+                "screen_name": "El_Citador",
+                "name": "Citador",
+                "id": 576711722,
+                "id_str": "576711722",
+                "indices": [
+                    45,
+                    56
+                ]
+            }
+        ],
+        "urls": []
+    },
+    "metadata": {
+        "iso_language_code": "es",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "in_reply_to_status_id": 1415687148901081088,
+    "in_reply_to_status_id_str": "1415687148901081088",
+    "in_reply_to_user_id": 1059097250213847040,
+    "in_reply_to_user_id_str": "1059097250213847040",
+    "in_reply_to_screen_name": "CanariaUsagi",
+    "user": {
+        "id": 1059097250213847040,
+        "id_str": "1059097250213847040",
+        "name": "Canaria_usagi",
+        "screen_name": "CanariaUsagi",
+        "location": "Santa Cruz de Tenerife, Spain",
+        "description": "Soy una chica normal, corriente y algo loca pero que se deja querer \ud83d\udc30\n\nShitposting",
+        "url": null,
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 137,
+        "friends_count": 357,
+        "listed_count": 0,
+        "created_at": "Sun Nov 04 14:57:16 +0000 2018",
+        "favourites_count": 43785,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 6198,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": null,
+        "profile_background_image_url_https": null,
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1397245176503054342/SEdoMIJc_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1397245176503054342/SEdoMIJc_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1059097250213847040/1541343643",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": true,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 3,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "es"
+}

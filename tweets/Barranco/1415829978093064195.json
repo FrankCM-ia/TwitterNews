@@ -1,0 +1,107 @@
+{
+    "created_at": "Fri Jul 16 00:25:46 +0000 2021",
+    "id": 1415829978093064195,
+    "id_str": "1415829978093064195",
+    "full_text": "@Ricarditormv @mcrd1972 Jajajajaja. Al final del barranco",
+    "truncated": false,
+    "display_text_range": [
+        24,
+        57
+    ],
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "Ricarditormv",
+                "name": "Ricardito \ud83c\uddfb\ud83c\uddea\ud83c\uddfb\ud83c\uddea\ud83c\uddfb\ud83c\uddea\ud83c\uddfb\ud83c\uddea\ud83c\uddfb\ud83c\uddea\ud83c\uddfb\ud83c\uddea",
+                "id": 897994143389167620,
+                "id_str": "897994143389167620",
+                "indices": [
+                    0,
+                    13
+                ]
+            },
+            {
+                "screen_name": "mcrd1972",
+                "name": "Mario Rodr\u00edguez Dur\u00e1n",
+                "id": 148068593,
+                "id_str": "148068593",
+                "indices": [
+                    14,
+                    23
+                ]
+            }
+        ],
+        "urls": []
+    },
+    "metadata": {
+        "iso_language_code": "es",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "in_reply_to_status_id": 1415744681477120001,
+    "in_reply_to_status_id_str": "1415744681477120001",
+    "in_reply_to_user_id": 897994143389167620,
+    "in_reply_to_user_id_str": "897994143389167620",
+    "in_reply_to_screen_name": "Ricarditormv",
+    "user": {
+        "id": 3014954733,
+        "id_str": "3014954733",
+        "name": "Calazan Jos\u00e9 Gil \ud83c\uddfb\ud83c\uddea",
+        "screen_name": "calajosegil",
+        "location": "San Jos\u00e9 de Guanipa, Venezuela",
+        "description": "Mi Felicidad Es Mi Hija Elsa Isabella\ud83d\udc9d. \nVenezolano,\nMadridista Hasta Que Mi Coraz\u00f3n Deje De Latir.\nCaraquista,\nDpvo T\u00e1chira.",
+        "url": null,
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 492,
+        "friends_count": 1580,
+        "listed_count": 3,
+        "created_at": "Tue Feb 03 18:33:36 +0000 2015",
+        "favourites_count": 17660,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 15376,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1397650519531864064/Mqkhh7jG_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1397650519531864064/Mqkhh7jG_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/3014954733/1622060820",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": true,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 1,
+    "favorite_count": 1,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "es"
+}

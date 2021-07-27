@@ -1,0 +1,342 @@
+{
+    "created_at": "Thu Jul 15 12:25:23 +0000 2021",
+    "id": 1415648687712309252,
+    "id_str": "1415648687712309252",
+    "full_text": "la heroina de devils thirst y una seeker incre\u00edble\naloy que viene de caerse de un barranco buscando una flor de metal y huir de un tigre de metal de 6 metros: https://t.co/CuEfDJLdmR https://t.co/rXeyrlSGj8",
+    "truncated": false,
+    "display_text_range": [
+        0,
+        182
+    ],
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+            {
+                "url": "https://t.co/CuEfDJLdmR",
+                "expanded_url": "https://twitter.com/8SVIII/status/1415647663786233856",
+                "display_url": "twitter.com/8SVIII/status/\u2026",
+                "indices": [
+                    159,
+                    182
+                ]
+            }
+        ],
+        "media": [
+            {
+                "id": 1415648685392805891,
+                "id_str": "1415648685392805891",
+                "indices": [
+                    183,
+                    206
+                ],
+                "media_url": "http://pbs.twimg.com/media/E6Vk-puWQAMhTHd.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/E6Vk-puWQAMhTHd.jpg",
+                "url": "https://t.co/rXeyrlSGj8",
+                "display_url": "pic.twitter.com/rXeyrlSGj8",
+                "expanded_url": "https://twitter.com/8SVIII/status/1415648687712309252/photo/1",
+                "type": "photo",
+                "sizes": {
+                    "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                    },
+                    "large": {
+                        "w": 748,
+                        "h": 1280,
+                        "resize": "fit"
+                    },
+                    "medium": {
+                        "w": 701,
+                        "h": 1200,
+                        "resize": "fit"
+                    },
+                    "small": {
+                        "w": 397,
+                        "h": 680,
+                        "resize": "fit"
+                    }
+                }
+            }
+        ]
+    },
+    "extended_entities": {
+        "media": [
+            {
+                "id": 1415648685392805891,
+                "id_str": "1415648685392805891",
+                "indices": [
+                    183,
+                    206
+                ],
+                "media_url": "http://pbs.twimg.com/media/E6Vk-puWQAMhTHd.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/E6Vk-puWQAMhTHd.jpg",
+                "url": "https://t.co/rXeyrlSGj8",
+                "display_url": "pic.twitter.com/rXeyrlSGj8",
+                "expanded_url": "https://twitter.com/8SVIII/status/1415648687712309252/photo/1",
+                "type": "photo",
+                "sizes": {
+                    "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                    },
+                    "large": {
+                        "w": 748,
+                        "h": 1280,
+                        "resize": "fit"
+                    },
+                    "medium": {
+                        "w": 701,
+                        "h": 1200,
+                        "resize": "fit"
+                    },
+                    "small": {
+                        "w": 397,
+                        "h": 680,
+                        "resize": "fit"
+                    }
+                }
+            }
+        ]
+    },
+    "metadata": {
+        "iso_language_code": "es",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 2763354054,
+        "id_str": "2763354054",
+        "name": "\u03a3 VIII",
+        "screen_name": "8SVIII",
+        "location": "",
+        "description": "he/him, absolutely not straight, Spa/Eng\nBio UAM\ud83d\udc0f\ndoy mucho RT asi que si me sigues es bajo tu propia responsabilidad \nInstagram: sviii_8",
+        "url": null,
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 1063,
+        "friends_count": 289,
+        "listed_count": 11,
+        "created_at": "Sun Aug 24 18:04:12 +0000 2014",
+        "favourites_count": 102088,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 221538,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1396131198733258755/fxaaAsO1_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1396131198733258755/fxaaAsO1_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2763354054/1619986512",
+        "profile_link_color": "111111",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "profile_use_background_image": false,
+        "has_extended_profile": true,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": true,
+    "quoted_status_id": 1415647663786233856,
+    "quoted_status_id_str": "1415647663786233856",
+    "quoted_status": {
+        "created_at": "Thu Jul 15 12:21:19 +0000 2021",
+        "id": 1415647663786233856,
+        "id_str": "1415647663786233856",
+        "full_text": "aloy tiene esta energia constante https://t.co/s4qFyTt3BE",
+        "truncated": false,
+        "display_text_range": [
+            0,
+            33
+        ],
+        "entities": {
+            "hashtags": [],
+            "symbols": [],
+            "user_mentions": [],
+            "urls": [],
+            "media": [
+                {
+                    "id": 1415647661584228360,
+                    "id_str": "1415647661584228360",
+                    "indices": [
+                        34,
+                        57
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/E6VkDDvXIAgKX5Z.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/E6VkDDvXIAgKX5Z.jpg",
+                    "url": "https://t.co/s4qFyTt3BE",
+                    "display_url": "pic.twitter.com/s4qFyTt3BE",
+                    "expanded_url": "https://twitter.com/8SVIII/status/1415647663786233856/photo/1",
+                    "type": "photo",
+                    "sizes": {
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "large": {
+                            "w": 736,
+                            "h": 980,
+                            "resize": "fit"
+                        },
+                        "small": {
+                            "w": 511,
+                            "h": 680,
+                            "resize": "fit"
+                        },
+                        "medium": {
+                            "w": 736,
+                            "h": 980,
+                            "resize": "fit"
+                        }
+                    }
+                }
+            ]
+        },
+        "extended_entities": {
+            "media": [
+                {
+                    "id": 1415647661584228360,
+                    "id_str": "1415647661584228360",
+                    "indices": [
+                        34,
+                        57
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/E6VkDDvXIAgKX5Z.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/E6VkDDvXIAgKX5Z.jpg",
+                    "url": "https://t.co/s4qFyTt3BE",
+                    "display_url": "pic.twitter.com/s4qFyTt3BE",
+                    "expanded_url": "https://twitter.com/8SVIII/status/1415647663786233856/photo/1",
+                    "type": "photo",
+                    "sizes": {
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "large": {
+                            "w": 736,
+                            "h": 980,
+                            "resize": "fit"
+                        },
+                        "small": {
+                            "w": 511,
+                            "h": 680,
+                            "resize": "fit"
+                        },
+                        "medium": {
+                            "w": 736,
+                            "h": 980,
+                            "resize": "fit"
+                        }
+                    }
+                }
+            ]
+        },
+        "metadata": {
+            "iso_language_code": "es",
+            "result_type": "recent"
+        },
+        "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 2763354054,
+            "id_str": "2763354054",
+            "name": "\u03a3 VIII",
+            "screen_name": "8SVIII",
+            "location": "",
+            "description": "he/him, absolutely not straight, Spa/Eng\nBio UAM\ud83d\udc0f\ndoy mucho RT asi que si me sigues es bajo tu propia responsabilidad \nInstagram: sviii_8",
+            "url": null,
+            "entities": {
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 1063,
+            "friends_count": 289,
+            "listed_count": 11,
+            "created_at": "Sun Aug 24 18:04:12 +0000 2014",
+            "favourites_count": 102088,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": true,
+            "verified": false,
+            "statuses_count": 221538,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "000000",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1396131198733258755/fxaaAsO1_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1396131198733258755/fxaaAsO1_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/2763354054/1619986512",
+            "profile_link_color": "111111",
+            "profile_sidebar_border_color": "000000",
+            "profile_sidebar_fill_color": "000000",
+            "profile_text_color": "000000",
+            "profile_use_background_image": false,
+            "has_extended_profile": true,
+            "default_profile": false,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none",
+            "withheld_in_countries": []
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 0,
+        "favorite_count": 0,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "es"
+    },
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "es"
+}

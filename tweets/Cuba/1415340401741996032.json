@@ -1,0 +1,96 @@
+{
+    "created_at": "Wed Jul 14 16:00:22 +0000 2021",
+    "id": 1415340401741996032,
+    "id_str": "1415340401741996032",
+    "full_text": "@aran_tirado El comunismo trajo miseria a Cuba; a la democracia la secuestr\u00f3 con su pr\u00e1ctica de cancelaci\u00f3n de las libertades civiles. Ah\u00ed no gobierna el pueblo, gobierna el Estado para s\u00ed mismo, pero para sus ciudadanos no gobierna, porque trata al pueblo como servidor y el Estado se sirve",
+    "truncated": false,
+    "display_text_range": [
+        13,
+        291
+    ],
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "aran_tirado",
+                "name": "Arantxa Tirado",
+                "id": 348538097,
+                "id_str": "348538097",
+                "indices": [
+                    0,
+                    12
+                ]
+            }
+        ],
+        "urls": []
+    },
+    "metadata": {
+        "iso_language_code": "es",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "in_reply_to_status_id": 1415215129872961539,
+    "in_reply_to_status_id_str": "1415215129872961539",
+    "in_reply_to_user_id": 348538097,
+    "in_reply_to_user_id_str": "348538097",
+    "in_reply_to_screen_name": "aran_tirado",
+    "user": {
+        "id": 1389616660806504452,
+        "id_str": "1389616660806504452",
+        "name": "ADAN PATRICIO",
+        "screen_name": "ADANPATRICIO10",
+        "location": "",
+        "description": "Iberoamericano con sangre mexicana \ud83c\uddf2\ud83c\uddfd y espa\u00f1ola \ud83c\uddea\ud83c\uddf8 , Arquitecto por pasi\u00f3n, Cristiano por convicci\u00f3n, Pro Vida. Anti agenda 2030 \nPLUS ULTRA \ud83d\udc9a",
+        "url": null,
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 150,
+        "friends_count": 504,
+        "listed_count": 0,
+        "created_at": "Tue May 04 16:23:38 +0000 2021",
+        "favourites_count": 9310,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 4053,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": null,
+        "profile_background_image_url_https": null,
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1389617217734643712/nQ3KSpCu_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1389617217734643712/nQ3KSpCu_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": true,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "es"
+}

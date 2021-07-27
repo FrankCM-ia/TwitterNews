@@ -1,0 +1,217 @@
+{
+    "created_at": "Wed Jul 14 18:02:32 +0000 2021",
+    "id": 1415371146011217922,
+    "id_str": "1415371146011217922",
+    "full_text": "RT @agusantonetti: @mariuvidal \u00bfQU\u00c9 GOBIERNO? En Cuba no hay gobierno, hay una brutal dictadura.",
+    "truncated": false,
+    "display_text_range": [
+        0,
+        96
+    ],
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "agusantonetti",
+                "name": "Agustin Antonetti",
+                "id": 374699026,
+                "id_str": "374699026",
+                "indices": [
+                    3,
+                    17
+                ]
+            },
+            {
+                "screen_name": "mariuvidal",
+                "name": "Mar\u00eda Eugenia Vidal",
+                "id": 109040582,
+                "id_str": "109040582",
+                "indices": [
+                    19,
+                    30
+                ]
+            }
+        ],
+        "urls": []
+    },
+    "metadata": {
+        "iso_language_code": "es",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 1406753252193017858,
+        "id_str": "1406753252193017858",
+        "name": "Miguelo",
+        "screen_name": "Miguelo50620440",
+        "location": "",
+        "description": "",
+        "url": null,
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 5,
+        "friends_count": 100,
+        "listed_count": 0,
+        "created_at": "Sun Jun 20 23:18:20 +0000 2021",
+        "favourites_count": 3181,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 547,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": null,
+        "profile_background_image_url_https": null,
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1412234557353512963/YX8It_0t_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1412234557353512963/YX8It_0t_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1406753252193017858/1625537956",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": true,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+        "created_at": "Wed Jul 14 16:47:17 +0000 2021",
+        "id": 1415352210125381633,
+        "id_str": "1415352210125381633",
+        "full_text": "@mariuvidal \u00bfQU\u00c9 GOBIERNO? En Cuba no hay gobierno, hay una brutal dictadura.",
+        "truncated": false,
+        "display_text_range": [
+            12,
+            77
+        ],
+        "entities": {
+            "hashtags": [],
+            "symbols": [],
+            "user_mentions": [
+                {
+                    "screen_name": "mariuvidal",
+                    "name": "Mar\u00eda Eugenia Vidal",
+                    "id": 109040582,
+                    "id_str": "109040582",
+                    "indices": [
+                        0,
+                        11
+                    ]
+                }
+            ],
+            "urls": []
+        },
+        "metadata": {
+            "iso_language_code": "es",
+            "result_type": "recent"
+        },
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "in_reply_to_status_id": 1415327528554745863,
+        "in_reply_to_status_id_str": "1415327528554745863",
+        "in_reply_to_user_id": 109040582,
+        "in_reply_to_user_id_str": "109040582",
+        "in_reply_to_screen_name": "mariuvidal",
+        "user": {
+            "id": 374699026,
+            "id_str": "374699026",
+            "name": "Agustin Antonetti",
+            "screen_name": "agusantonetti",
+            "location": "",
+            "description": "Relaciones Internacionales. Geopolitics. Intentando explicar el mundo de una forma m\u00e1s f\u00e1cil. Human Rights Activist. Cuenta secundaria: @aguusantonetti",
+            "url": "https://t.co/sotu73qub1",
+            "entities": {
+                "url": {
+                    "urls": [
+                        {
+                            "url": "https://t.co/sotu73qub1",
+                            "expanded_url": "http://instagram.com/agusantonetti",
+                            "display_url": "instagram.com/agusantonetti",
+                            "indices": [
+                                0,
+                                23
+                            ]
+                        }
+                    ]
+                },
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 107628,
+            "friends_count": 996,
+            "listed_count": 190,
+            "created_at": "Fri Sep 16 19:37:17 +0000 2011",
+            "favourites_count": 237141,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": true,
+            "verified": false,
+            "statuses_count": 36241,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "C0DEED",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1404663831092240385/3fEpaqhz_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1404663831092240385/3fEpaqhz_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/374699026/1625891786",
+            "profile_link_color": "0084B4",
+            "profile_sidebar_border_color": "FFFFFF",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "has_extended_profile": true,
+            "default_profile": false,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "regular",
+            "withheld_in_countries": []
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 131,
+        "favorite_count": 797,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "es"
+    },
+    "is_quote_status": false,
+    "retweet_count": 131,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "es"
+}

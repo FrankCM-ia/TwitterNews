@@ -1,0 +1,284 @@
+{
+    "created_at": "Wed Jul 14 16:00:43 +0000 2021",
+    "id": 1415340491630161930,
+    "id_str": "1415340491630161930",
+    "full_text": "RT @HispanoDeCai: La foto de arriba era la bella cuba antes que llegaran los castrista y la de abajo es el desastre del castrismo actual\nAb\u2026",
+    "truncated": false,
+    "display_text_range": [
+        0,
+        140
+    ],
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "HispanoDeCai",
+                "name": "Hispano\ud83c\uddea\ud83c\uddf8 \ud83c\udde8\ud83c\uddfa \ud83c\uddee\ud83c\udde8",
+                "id": 1409229688690651140,
+                "id_str": "1409229688690651140",
+                "indices": [
+                    3,
+                    16
+                ]
+            }
+        ],
+        "urls": []
+    },
+    "metadata": {
+        "iso_language_code": "es",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 282468087,
+        "id_str": "282468087",
+        "name": "Javier MF \ud83c\uddea\ud83c\uddf8 \ud83c\uddea\ud83c\uddf8 \ud83c\uddea\ud83c\uddf8 \ud83c\uddea\ud83c\uddf8 \ud83d\udc9a",
+        "screen_name": "jaavii009",
+        "location": "Comunidad de Madrid, Espa\u00f1a",
+        "description": "",
+        "url": null,
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 2412,
+        "friends_count": 2370,
+        "listed_count": 17,
+        "created_at": "Fri Apr 15 08:14:55 +0000 2011",
+        "favourites_count": 410561,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 430228,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1244908084532858880/ENkHtv1V_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1244908084532858880/ENkHtv1V_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/282468087/1496137244",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+        "created_at": "Wed Jul 14 12:06:57 +0000 2021",
+        "id": 1415281662368362502,
+        "id_str": "1415281662368362502",
+        "full_text": "La foto de arriba era la bella cuba antes que llegaran los castrista y la de abajo es el desastre del castrismo actual\nAbajo la tiran\u00eda castrista y sus secuaces\n#TeamVox \n#TeamVoxConCuba \n#LevantandoEspa\u00f1a https://t.co/j6laBKVWco",
+        "truncated": false,
+        "display_text_range": [
+            0,
+            205
+        ],
+        "entities": {
+            "hashtags": [
+                {
+                    "text": "TeamVox",
+                    "indices": [
+                        161,
+                        169
+                    ]
+                },
+                {
+                    "text": "TeamVoxConCuba",
+                    "indices": [
+                        171,
+                        186
+                    ]
+                },
+                {
+                    "text": "LevantandoEspa\u00f1a",
+                    "indices": [
+                        188,
+                        205
+                    ]
+                }
+            ],
+            "symbols": [],
+            "user_mentions": [],
+            "urls": [],
+            "media": [
+                {
+                    "id": 1415281654223065091,
+                    "id_str": "1415281654223065091",
+                    "indices": [
+                        206,
+                        229
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/E6QXKoEX0AMa7Vp.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/E6QXKoEX0AMa7Vp.jpg",
+                    "url": "https://t.co/j6laBKVWco",
+                    "display_url": "pic.twitter.com/j6laBKVWco",
+                    "expanded_url": "https://twitter.com/HispanoDeCai/status/1415281662368362502/photo/1",
+                    "type": "photo",
+                    "sizes": {
+                        "small": {
+                            "w": 584,
+                            "h": 680,
+                            "resize": "fit"
+                        },
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "large": {
+                            "w": 720,
+                            "h": 839,
+                            "resize": "fit"
+                        },
+                        "medium": {
+                            "w": 720,
+                            "h": 839,
+                            "resize": "fit"
+                        }
+                    }
+                }
+            ]
+        },
+        "extended_entities": {
+            "media": [
+                {
+                    "id": 1415281654223065091,
+                    "id_str": "1415281654223065091",
+                    "indices": [
+                        206,
+                        229
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/E6QXKoEX0AMa7Vp.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/E6QXKoEX0AMa7Vp.jpg",
+                    "url": "https://t.co/j6laBKVWco",
+                    "display_url": "pic.twitter.com/j6laBKVWco",
+                    "expanded_url": "https://twitter.com/HispanoDeCai/status/1415281662368362502/photo/1",
+                    "type": "photo",
+                    "sizes": {
+                        "small": {
+                            "w": 584,
+                            "h": 680,
+                            "resize": "fit"
+                        },
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "large": {
+                            "w": 720,
+                            "h": 839,
+                            "resize": "fit"
+                        },
+                        "medium": {
+                            "w": 720,
+                            "h": 839,
+                            "resize": "fit"
+                        }
+                    }
+                }
+            ]
+        },
+        "metadata": {
+            "iso_language_code": "es",
+            "result_type": "recent"
+        },
+        "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 1409229688690651140,
+            "id_str": "1409229688690651140",
+            "name": "Hispano\ud83c\uddea\ud83c\uddf8 \ud83c\udde8\ud83c\uddfa \ud83c\uddee\ud83c\udde8",
+            "screen_name": "HispanoDeCai",
+            "location": "",
+            "description": "#PatriaYVida",
+            "url": null,
+            "entities": {
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 632,
+            "friends_count": 846,
+            "listed_count": 0,
+            "created_at": "Sun Jun 27 19:18:46 +0000 2021",
+            "favourites_count": 2510,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": false,
+            "verified": false,
+            "statuses_count": 3900,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "F5F8FA",
+            "profile_background_image_url": null,
+            "profile_background_image_url_https": null,
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1411213963812028418/ohxhZKJB_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1411213963812028418/ohxhZKJB_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/1409229688690651140/1624861583",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "has_extended_profile": false,
+            "default_profile": true,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none",
+            "withheld_in_countries": []
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 19,
+        "favorite_count": 21,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "es"
+    },
+    "is_quote_status": false,
+    "retweet_count": 19,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "es"
+}

@@ -1,0 +1,104 @@
+{
+    "created_at": "Wed Jul 14 16:00:36 +0000 2021",
+    "id": 1415340460281892876,
+    "id_str": "1415340460281892876",
+    "full_text": "Decir que Cuba\ud83c\udde8\ud83c\uddfa no ha prosperado por el bloqueo de Estados Unidos\ud83c\uddfa\ud83c\uddf2, es admitir que el Comunismo necesita del LIBRE MERCADO CAPITALISTA para prosperar.\n\n#CubaLibre",
+    "truncated": false,
+    "display_text_range": [
+        0,
+        164
+    ],
+    "entities": {
+        "hashtags": [
+            {
+                "text": "CubaLibre",
+                "indices": [
+                    154,
+                    164
+                ]
+            }
+        ],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+    },
+    "metadata": {
+        "iso_language_code": "es",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 1350974424804171776,
+        "id_str": "1350974424804171776",
+        "name": "Joe Robles\ud83d\udc0d\ud83c\uddf5\ud83c\uddea",
+        "screen_name": "JoeRoblesBW",
+        "location": "Perusalem. ",
+        "description": "Polit\u00f3logo\n\nhttps://t.co/dm2rOtfiSG",
+        "url": null,
+        "entities": {
+            "description": {
+                "urls": [
+                    {
+                        "url": "https://t.co/dm2rOtfiSG",
+                        "expanded_url": "https://youtube.com/channel/UCGlbpjeEetki9T0lijBkgIg",
+                        "display_url": "youtube.com/channel/UCGlbp\u2026",
+                        "indices": [
+                            12,
+                            35
+                        ]
+                    }
+                ]
+            }
+        },
+        "protected": false,
+        "followers_count": 401,
+        "friends_count": 26,
+        "listed_count": 0,
+        "created_at": "Mon Jan 18 01:13:05 +0000 2021",
+        "favourites_count": 121,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 231,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": null,
+        "profile_background_image_url_https": null,
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1350974740912091137/w1GbKfah_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1350974740912091137/w1GbKfah_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1350974424804171776/1626114921",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "es"
+}

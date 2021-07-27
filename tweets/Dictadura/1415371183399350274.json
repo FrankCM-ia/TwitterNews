@@ -1,0 +1,325 @@
+{
+    "created_at": "Wed Jul 14 18:02:41 +0000 2021",
+    "id": 1415371183399350274,
+    "id_str": "1415371183399350274",
+    "full_text": "RT @rouco64: El pueblo de Cuba tiene en sus manos derrocar la DICTADURA CASTRISTA  No esperen por la UE ni EEUU, los dejar\u00e1n tirados #Cuba\u2026",
+    "truncated": false,
+    "display_text_range": [
+        0,
+        139
+    ],
+    "entities": {
+        "hashtags": [
+            {
+                "text": "Cuba",
+                "indices": [
+                    133,
+                    138
+                ]
+            }
+        ],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "rouco64",
+                "name": "Ram\u00f3n Rouco",
+                "id": 2819381883,
+                "id_str": "2819381883",
+                "indices": [
+                    3,
+                    11
+                ]
+            }
+        ],
+        "urls": []
+    },
+    "metadata": {
+        "iso_language_code": "es",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 3347425151,
+        "id_str": "3347425151",
+        "name": "\u2b1b Severino Pontocorvo \ud83c\udf1e",
+        "screen_name": "EquidistanteZen",
+        "location": "Graymalkin Lane 1407. ",
+        "description": "Soy tabernario porque el mundo me ha hecho asiiinnn!\n                                                   \ud83e\udde2(2) \ud83d\udcfa \ud83d\udc94(3) \ud83d\udd2b(8)\ud83c\udf97(31)\ud83d\udd3b(107) \ud83e\udd40(9)",
+        "url": null,
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 13999,
+        "friends_count": 13751,
+        "listed_count": 40,
+        "created_at": "Sat Jun 27 10:51:17 +0000 2015",
+        "favourites_count": 119326,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 139302,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1349828356825604105/XflxYtUN_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1349828356825604105/XflxYtUN_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/3347425151/1524260655",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+        "created_at": "Wed Jul 14 15:07:52 +0000 2021",
+        "id": 1415327189931802624,
+        "id_str": "1415327189931802624",
+        "full_text": "El pueblo de Cuba tiene en sus manos derrocar la DICTADURA CASTRISTA  No esperen por la UE ni EEUU, los dejar\u00e1n tirados #Cuba #CubaNoEstaSola #CubaLibre #SOSCubaLibre https://t.co/x8TxWEKOxG",
+        "truncated": false,
+        "display_text_range": [
+            0,
+            166
+        ],
+        "entities": {
+            "hashtags": [
+                {
+                    "text": "Cuba",
+                    "indices": [
+                        120,
+                        125
+                    ]
+                },
+                {
+                    "text": "CubaNoEstaSola",
+                    "indices": [
+                        126,
+                        141
+                    ]
+                },
+                {
+                    "text": "CubaLibre",
+                    "indices": [
+                        142,
+                        152
+                    ]
+                },
+                {
+                    "text": "SOSCubaLibre",
+                    "indices": [
+                        153,
+                        166
+                    ]
+                }
+            ],
+            "symbols": [],
+            "user_mentions": [],
+            "urls": [],
+            "media": [
+                {
+                    "id": 1415327144700530689,
+                    "id_str": "1415327144700530689",
+                    "indices": [
+                        167,
+                        190
+                    ],
+                    "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1415327144700530689/pu/img/lTFkXG1QmNXbifv-.jpg",
+                    "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1415327144700530689/pu/img/lTFkXG1QmNXbifv-.jpg",
+                    "url": "https://t.co/x8TxWEKOxG",
+                    "display_url": "pic.twitter.com/x8TxWEKOxG",
+                    "expanded_url": "https://twitter.com/rouco64/status/1415327189931802624/video/1",
+                    "type": "photo",
+                    "sizes": {
+                        "large": {
+                            "w": 352,
+                            "h": 640,
+                            "resize": "fit"
+                        },
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "small": {
+                            "w": 352,
+                            "h": 640,
+                            "resize": "fit"
+                        },
+                        "medium": {
+                            "w": 352,
+                            "h": 640,
+                            "resize": "fit"
+                        }
+                    }
+                }
+            ]
+        },
+        "extended_entities": {
+            "media": [
+                {
+                    "id": 1415327144700530689,
+                    "id_str": "1415327144700530689",
+                    "indices": [
+                        167,
+                        190
+                    ],
+                    "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1415327144700530689/pu/img/lTFkXG1QmNXbifv-.jpg",
+                    "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1415327144700530689/pu/img/lTFkXG1QmNXbifv-.jpg",
+                    "url": "https://t.co/x8TxWEKOxG",
+                    "display_url": "pic.twitter.com/x8TxWEKOxG",
+                    "expanded_url": "https://twitter.com/rouco64/status/1415327189931802624/video/1",
+                    "type": "video",
+                    "sizes": {
+                        "large": {
+                            "w": 352,
+                            "h": 640,
+                            "resize": "fit"
+                        },
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "small": {
+                            "w": 352,
+                            "h": 640,
+                            "resize": "fit"
+                        },
+                        "medium": {
+                            "w": 352,
+                            "h": 640,
+                            "resize": "fit"
+                        }
+                    },
+                    "video_info": {
+                        "aspect_ratio": [
+                            11,
+                            20
+                        ],
+                        "duration_millis": 15575,
+                        "variants": [
+                            {
+                                "bitrate": 632000,
+                                "content_type": "video/mp4",
+                                "url": "https://video.twimg.com/ext_tw_video/1415327144700530689/pu/vid/320x580/YZCI23YJQdi7EAGr.mp4?tag=12"
+                            },
+                            {
+                                "bitrate": 950000,
+                                "content_type": "video/mp4",
+                                "url": "https://video.twimg.com/ext_tw_video/1415327144700530689/pu/vid/352x640/4TXViyuVGkq0zFeZ.mp4?tag=12"
+                            },
+                            {
+                                "content_type": "application/x-mpegURL",
+                                "url": "https://video.twimg.com/ext_tw_video/1415327144700530689/pu/pl/mVp24EZZGvHmkKT-.m3u8?tag=12&container=fmp4"
+                            }
+                        ]
+                    },
+                    "additional_media_info": {
+                        "monetizable": false
+                    }
+                }
+            ]
+        },
+        "metadata": {
+            "iso_language_code": "es",
+            "result_type": "recent"
+        },
+        "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 2819381883,
+            "id_str": "2819381883",
+            "name": "Ram\u00f3n Rouco",
+            "screen_name": "rouco64",
+            "location": "Espa\u00f1a",
+            "description": "Es mejor estar callado y parecer tonto, que hablar y despejar las dudas definitivamente.\nLa Derecha \ud83c\uddea\ud83c\udde6necesita un canal de TV \ud83d\udcfa #UnaTvDeDerechas",
+            "url": null,
+            "entities": {
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 15140,
+            "friends_count": 2499,
+            "listed_count": 50,
+            "created_at": "Thu Oct 09 12:07:04 +0000 2014",
+            "favourites_count": 101085,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": false,
+            "verified": false,
+            "statuses_count": 137767,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "000000",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/520212741517504513/GMmrtOfO_normal.jpeg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/520212741517504513/GMmrtOfO_normal.jpeg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/2819381883/1600434687",
+            "profile_link_color": "0084B4",
+            "profile_sidebar_border_color": "000000",
+            "profile_sidebar_fill_color": "000000",
+            "profile_text_color": "000000",
+            "profile_use_background_image": false,
+            "has_extended_profile": false,
+            "default_profile": false,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none",
+            "withheld_in_countries": []
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 231,
+        "favorite_count": 405,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "es"
+    },
+    "is_quote_status": false,
+    "retweet_count": 231,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "es"
+}

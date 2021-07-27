@@ -1,0 +1,413 @@
+{
+    "created_at": "Wed Jul 14 18:01:46 +0000 2021",
+    "id": 1415370953014513673,
+    "id_str": "1415370953014513673",
+    "full_text": "RT @Francis_Habana: As\u00ed Bruno @BrunoRguezP A los Yanquis dale Duro.. Excelente denuncia de nuestro Canciller. Eso nos ense\u00f1o FIDEL CASTRO R\u2026",
+    "truncated": false,
+    "display_text_range": [
+        0,
+        140
+    ],
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "Francis_Habana",
+                "name": "Francis \ud83c\udde8\ud83c\uddfa",
+                "id": 1173929903642877953,
+                "id_str": "1173929903642877953",
+                "indices": [
+                    3,
+                    18
+                ]
+            },
+            {
+                "screen_name": "BrunoRguezP",
+                "name": "Bruno Rodr\u00edguez P",
+                "id": 1074358534853271555,
+                "id_str": "1074358534853271555",
+                "indices": [
+                    30,
+                    42
+                ]
+            }
+        ],
+        "urls": []
+    },
+    "metadata": {
+        "iso_language_code": "es",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 1148662154792509440,
+        "id_str": "1148662154792509440",
+        "name": "Alan Perez",
+        "screen_name": "Alan2Cuba",
+        "location": "Cuba",
+        "description": "Cuba\ud83c\udde8\ud83c\uddfa\ud83c\udfdd\ufe0f es y sera \ud83d\udcafpre mi patria, por ella todo, sin ella nada...\u270c\ufe0f",
+        "url": null,
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 877,
+        "friends_count": 457,
+        "listed_count": 0,
+        "created_at": "Tue Jul 09 18:36:13 +0000 2019",
+        "favourites_count": 1326,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 1262,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": null,
+        "profile_background_image_url_https": null,
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1168552962047787008/HXS6uSS8_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1168552962047787008/HXS6uSS8_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1148662154792509440/1571940067",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": true,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+        "created_at": "Wed Jul 14 01:41:30 +0000 2021",
+        "id": 1415124263816794114,
+        "id_str": "1415124263816794114",
+        "full_text": "As\u00ed Bruno @BrunoRguezP A los Yanquis dale Duro.. Excelente denuncia de nuestro Canciller. Eso nos ense\u00f1o FIDEL CASTRO RUZ.. Los planes y las acciones de los enemigos del pueblo hay que denunciarlas P\u00fablicamente.. Al mundo.. \ud83c\udde8\ud83c\uddfa\n#HastaLaVictoriaSiempre\n#SomosContinuidad\n#YoSoyFidel https://t.co/gaqT9aLR7F",
+        "truncated": false,
+        "display_text_range": [
+            0,
+            280
+        ],
+        "entities": {
+            "hashtags": [
+                {
+                    "text": "HastaLaVictoriaSiempre",
+                    "indices": [
+                        227,
+                        250
+                    ]
+                },
+                {
+                    "text": "SomosContinuidad",
+                    "indices": [
+                        251,
+                        268
+                    ]
+                },
+                {
+                    "text": "YoSoyFidel",
+                    "indices": [
+                        269,
+                        280
+                    ]
+                }
+            ],
+            "symbols": [],
+            "user_mentions": [
+                {
+                    "screen_name": "BrunoRguezP",
+                    "name": "Bruno Rodr\u00edguez P",
+                    "id": 1074358534853271555,
+                    "id_str": "1074358534853271555",
+                    "indices": [
+                        10,
+                        22
+                    ]
+                }
+            ],
+            "urls": [],
+            "media": [
+                {
+                    "id": 1415123977996054537,
+                    "id_str": "1415123977996054537",
+                    "indices": [
+                        281,
+                        304
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/E6OHwqWXsAk8A8b.png",
+                    "media_url_https": "https://pbs.twimg.com/media/E6OHwqWXsAk8A8b.png",
+                    "url": "https://t.co/gaqT9aLR7F",
+                    "display_url": "pic.twitter.com/gaqT9aLR7F",
+                    "expanded_url": "https://twitter.com/Francis_Habana/status/1415124263816794114/photo/1",
+                    "type": "photo",
+                    "sizes": {
+                        "large": {
+                            "w": 600,
+                            "h": 450,
+                            "resize": "fit"
+                        },
+                        "small": {
+                            "w": 600,
+                            "h": 450,
+                            "resize": "fit"
+                        },
+                        "medium": {
+                            "w": 600,
+                            "h": 450,
+                            "resize": "fit"
+                        },
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        }
+                    }
+                }
+            ]
+        },
+        "extended_entities": {
+            "media": [
+                {
+                    "id": 1415123977996054537,
+                    "id_str": "1415123977996054537",
+                    "indices": [
+                        281,
+                        304
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/E6OHwqWXsAk8A8b.png",
+                    "media_url_https": "https://pbs.twimg.com/media/E6OHwqWXsAk8A8b.png",
+                    "url": "https://t.co/gaqT9aLR7F",
+                    "display_url": "pic.twitter.com/gaqT9aLR7F",
+                    "expanded_url": "https://twitter.com/Francis_Habana/status/1415124263816794114/photo/1",
+                    "type": "photo",
+                    "sizes": {
+                        "large": {
+                            "w": 600,
+                            "h": 450,
+                            "resize": "fit"
+                        },
+                        "small": {
+                            "w": 600,
+                            "h": 450,
+                            "resize": "fit"
+                        },
+                        "medium": {
+                            "w": 600,
+                            "h": 450,
+                            "resize": "fit"
+                        },
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        }
+                    }
+                },
+                {
+                    "id": 1415124036846247941,
+                    "id_str": "1415124036846247941",
+                    "indices": [
+                        281,
+                        304
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/E6OH0FlWYAU2QV2.png",
+                    "media_url_https": "https://pbs.twimg.com/media/E6OH0FlWYAU2QV2.png",
+                    "url": "https://t.co/gaqT9aLR7F",
+                    "display_url": "pic.twitter.com/gaqT9aLR7F",
+                    "expanded_url": "https://twitter.com/Francis_Habana/status/1415124263816794114/photo/1",
+                    "type": "photo",
+                    "sizes": {
+                        "large": {
+                            "w": 600,
+                            "h": 450,
+                            "resize": "fit"
+                        },
+                        "small": {
+                            "w": 600,
+                            "h": 450,
+                            "resize": "fit"
+                        },
+                        "medium": {
+                            "w": 600,
+                            "h": 450,
+                            "resize": "fit"
+                        },
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        }
+                    }
+                },
+                {
+                    "id": 1415124066068008962,
+                    "id_str": "1415124066068008962",
+                    "indices": [
+                        281,
+                        304
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/E6OH1ycXEAILXMn.png",
+                    "media_url_https": "https://pbs.twimg.com/media/E6OH1ycXEAILXMn.png",
+                    "url": "https://t.co/gaqT9aLR7F",
+                    "display_url": "pic.twitter.com/gaqT9aLR7F",
+                    "expanded_url": "https://twitter.com/Francis_Habana/status/1415124263816794114/photo/1",
+                    "type": "photo",
+                    "sizes": {
+                        "medium": {
+                            "w": 600,
+                            "h": 450,
+                            "resize": "fit"
+                        },
+                        "large": {
+                            "w": 600,
+                            "h": 450,
+                            "resize": "fit"
+                        },
+                        "small": {
+                            "w": 600,
+                            "h": 450,
+                            "resize": "fit"
+                        },
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        }
+                    }
+                },
+                {
+                    "id": 1415124096887762945,
+                    "id_str": "1415124096887762945",
+                    "indices": [
+                        281,
+                        304
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/E6OH3lQXMAEWmm9.png",
+                    "media_url_https": "https://pbs.twimg.com/media/E6OH3lQXMAEWmm9.png",
+                    "url": "https://t.co/gaqT9aLR7F",
+                    "display_url": "pic.twitter.com/gaqT9aLR7F",
+                    "expanded_url": "https://twitter.com/Francis_Habana/status/1415124263816794114/photo/1",
+                    "type": "photo",
+                    "sizes": {
+                        "large": {
+                            "w": 600,
+                            "h": 450,
+                            "resize": "fit"
+                        },
+                        "medium": {
+                            "w": 600,
+                            "h": 450,
+                            "resize": "fit"
+                        },
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "small": {
+                            "w": 600,
+                            "h": 450,
+                            "resize": "fit"
+                        }
+                    }
+                }
+            ]
+        },
+        "metadata": {
+            "iso_language_code": "es",
+            "result_type": "recent"
+        },
+        "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 1173929903642877953,
+            "id_str": "1173929903642877953",
+            "name": "Francis \ud83c\udde8\ud83c\uddfa",
+            "screen_name": "Francis_Habana",
+            "location": "",
+            "description": "Ing. Inform\u00e1tico, #Habana, #Cuba,#DeZurdaTeam,\nAmante a la m\u00fasica \ud83c\udfb5, al beisbol \u26be\ufe0f, y a mi pa\u00eds \ud83c\udde8\ud83c\uddfa, revolucionario \ud83d\udcafx\ud83d\udcaf  #AquiNoSeRindeNadie !!!",
+            "url": null,
+            "entities": {
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 2809,
+            "friends_count": 3855,
+            "listed_count": 2,
+            "created_at": "Tue Sep 17 12:01:48 +0000 2019",
+            "favourites_count": 7792,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": true,
+            "verified": false,
+            "statuses_count": 45390,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "F5F8FA",
+            "profile_background_image_url": null,
+            "profile_background_image_url_https": null,
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1348083585430024198/Xm_DDgbF_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1348083585430024198/Xm_DDgbF_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/1173929903642877953/1568732985",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "has_extended_profile": true,
+            "default_profile": true,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none",
+            "withheld_in_countries": []
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 25,
+        "favorite_count": 34,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "es"
+    },
+    "is_quote_status": false,
+    "retweet_count": 25,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "es"
+}

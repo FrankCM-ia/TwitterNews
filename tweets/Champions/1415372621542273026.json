@@ -1,0 +1,116 @@
+{
+    "created_at": "Wed Jul 14 18:08:23 +0000 2021",
+    "id": 1415372621542273026,
+    "id_str": "1415372621542273026",
+    "full_text": "@Haroldtruvi_25 @FabioAndres159 @CuentaMister estupido lo que critico es que no eche a alba y a todos esos, 5 a\u00f1os se llevan humillando en champions y se van a quedar a cobrar toda la vida, pareces novio de laporta, no eres capaz de decir que lo esta haciendo mal",
+    "truncated": false,
+    "display_text_range": [
+        46,
+        263
+    ],
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "Haroldtruvi_25",
+                "name": "Harold Trujillo",
+                "id": 1350613321964253184,
+                "id_str": "1350613321964253184",
+                "indices": [
+                    0,
+                    15
+                ]
+            },
+            {
+                "screen_name": "FabioAndres159",
+                "name": "The One Above All",
+                "id": 846444517,
+                "id_str": "846444517",
+                "indices": [
+                    16,
+                    31
+                ]
+            },
+            {
+                "screen_name": "CuentaMister",
+                "name": "M\u00edster Seit\u00e1n",
+                "id": 1232344911699116032,
+                "id_str": "1232344911699116032",
+                "indices": [
+                    32,
+                    45
+                ]
+            }
+        ],
+        "urls": []
+    },
+    "metadata": {
+        "iso_language_code": "es",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "in_reply_to_status_id": 1415371925367529476,
+    "in_reply_to_status_id_str": "1415371925367529476",
+    "in_reply_to_user_id": 1350613321964253184,
+    "in_reply_to_user_id_str": "1350613321964253184",
+    "in_reply_to_screen_name": "Haroldtruvi_25",
+    "user": {
+        "id": 906550271416967168,
+        "id_str": "906550271416967168",
+        "name": "Sebasti\u00e1n",
+        "screen_name": "Sserna_27",
+        "location": "",
+        "description": "",
+        "url": null,
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 83,
+        "friends_count": 458,
+        "listed_count": 0,
+        "created_at": "Sat Sep 09 16:10:02 +0000 2017",
+        "favourites_count": 87968,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 6873,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": null,
+        "profile_background_image_url_https": null,
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1386449628191678469/CV3Uuec9_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1386449628191678469/CV3Uuec9_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "es"
+}

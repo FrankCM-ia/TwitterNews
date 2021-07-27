@@ -1,0 +1,97 @@
+{
+    "created_at": "Wed Jul 14 17:05:09 +0000 2021",
+    "id": 1415356704707985418,
+    "id_str": "1415356704707985418",
+    "full_text": "@MadridDelReal son buenas tipo para clasificar en champions??",
+    "truncated": false,
+    "display_text_range": [
+        15,
+        61
+    ],
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "MadridDelReal",
+                "name": "1902",
+                "id": 1193519947558850560,
+                "id_str": "1193519947558850560",
+                "indices": [
+                    0,
+                    14
+                ]
+            }
+        ],
+        "urls": []
+    },
+    "metadata": {
+        "iso_language_code": "es",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_status_id": 1415355894351765507,
+    "in_reply_to_status_id_str": "1415355894351765507",
+    "in_reply_to_user_id": 1193519947558850560,
+    "in_reply_to_user_id_str": "1193519947558850560",
+    "in_reply_to_screen_name": "MadridDelReal",
+    "user": {
+        "id": 1408298530020724737,
+        "id_str": "1408298530020724737",
+        "name": "lu",
+        "screen_name": "versmbappe",
+        "location": "",
+        "description": "@realmadrid",
+        "url": null,
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 83,
+        "friends_count": 72,
+        "listed_count": 0,
+        "created_at": "Fri Jun 25 05:38:44 +0000 2021",
+        "favourites_count": 26,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 187,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": null,
+        "profile_background_image_url_https": null,
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1408298662250307591/npdC28iC_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1408298662250307591/npdC28iC_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1408298530020724737/1624600020",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": true,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "es"
+}

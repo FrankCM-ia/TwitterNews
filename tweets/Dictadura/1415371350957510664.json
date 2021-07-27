@@ -1,0 +1,476 @@
+{
+    "created_at": "Wed Jul 14 18:03:21 +0000 2021",
+    "id": 1415371350957510664,
+    "id_str": "1415371350957510664",
+    "full_text": "RT @MarssIsHome: #CUBA LA JUVENTUD ENFRENTANDO A LA DICTADURA https://t.co/t722PW5TqE",
+    "truncated": false,
+    "display_text_range": [
+        0,
+        85
+    ],
+    "entities": {
+        "hashtags": [
+            {
+                "text": "CUBA",
+                "indices": [
+                    17,
+                    22
+                ]
+            }
+        ],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "MarssIsHome",
+                "name": "MIMI",
+                "id": 904079345488207872,
+                "id_str": "904079345488207872",
+                "indices": [
+                    3,
+                    15
+                ]
+            }
+        ],
+        "urls": [],
+        "media": [
+            {
+                "id": 1415366443701579782,
+                "id_str": "1415366443701579782",
+                "indices": [
+                    62,
+                    85
+                ],
+                "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1415366443701579782/pu/img/IiQdt2Vtgz-IPXpR.jpg",
+                "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1415366443701579782/pu/img/IiQdt2Vtgz-IPXpR.jpg",
+                "url": "https://t.co/t722PW5TqE",
+                "display_url": "pic.twitter.com/t722PW5TqE",
+                "expanded_url": "https://twitter.com/MarssIsHome/status/1415366726213160962/video/1",
+                "type": "photo",
+                "sizes": {
+                    "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                    },
+                    "small": {
+                        "w": 315,
+                        "h": 680,
+                        "resize": "fit"
+                    },
+                    "medium": {
+                        "w": 555,
+                        "h": 1200,
+                        "resize": "fit"
+                    },
+                    "large": {
+                        "w": 592,
+                        "h": 1280,
+                        "resize": "fit"
+                    }
+                },
+                "source_status_id": 1415366726213160962,
+                "source_status_id_str": "1415366726213160962",
+                "source_user_id": 904079345488207872,
+                "source_user_id_str": "904079345488207872"
+            }
+        ]
+    },
+    "extended_entities": {
+        "media": [
+            {
+                "id": 1415366443701579782,
+                "id_str": "1415366443701579782",
+                "indices": [
+                    62,
+                    85
+                ],
+                "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1415366443701579782/pu/img/IiQdt2Vtgz-IPXpR.jpg",
+                "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1415366443701579782/pu/img/IiQdt2Vtgz-IPXpR.jpg",
+                "url": "https://t.co/t722PW5TqE",
+                "display_url": "pic.twitter.com/t722PW5TqE",
+                "expanded_url": "https://twitter.com/MarssIsHome/status/1415366726213160962/video/1",
+                "type": "video",
+                "sizes": {
+                    "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                    },
+                    "small": {
+                        "w": 315,
+                        "h": 680,
+                        "resize": "fit"
+                    },
+                    "medium": {
+                        "w": 555,
+                        "h": 1200,
+                        "resize": "fit"
+                    },
+                    "large": {
+                        "w": 592,
+                        "h": 1280,
+                        "resize": "fit"
+                    }
+                },
+                "source_status_id": 1415366726213160962,
+                "source_status_id_str": "1415366726213160962",
+                "source_user_id": 904079345488207872,
+                "source_user_id_str": "904079345488207872",
+                "video_info": {
+                    "aspect_ratio": [
+                        37,
+                        80
+                    ],
+                    "duration_millis": 50917,
+                    "variants": [
+                        {
+                            "bitrate": 950000,
+                            "content_type": "video/mp4",
+                            "url": "https://video.twimg.com/ext_tw_video/1415366443701579782/pu/vid/480x1036/le0yBmBIRDqeDg_-.mp4?tag=12"
+                        },
+                        {
+                            "bitrate": 2176000,
+                            "content_type": "video/mp4",
+                            "url": "https://video.twimg.com/ext_tw_video/1415366443701579782/pu/vid/592x1280/kzt8jY8_JOFAa__8.mp4?tag=12"
+                        },
+                        {
+                            "bitrate": 632000,
+                            "content_type": "video/mp4",
+                            "url": "https://video.twimg.com/ext_tw_video/1415366443701579782/pu/vid/320x690/VkFSaH91DgRkbN6U.mp4?tag=12"
+                        },
+                        {
+                            "content_type": "application/x-mpegURL",
+                            "url": "https://video.twimg.com/ext_tw_video/1415366443701579782/pu/pl/rTxnQy9WjZkylJhy.m3u8?tag=12&container=fmp4"
+                        }
+                    ]
+                },
+                "additional_media_info": {
+                    "monetizable": false,
+                    "source_user": {
+                        "id": 904079345488207872,
+                        "id_str": "904079345488207872",
+                        "name": "MIMI",
+                        "screen_name": "MarssIsHome",
+                        "location": "Cuba Libre ",
+                        "description": "VIVA CUBA \ud83c\udde8\ud83c\uddfa LIBRE !!! LA LIBERTAD NACIO SIN DUE\u00d1O !! CUBANOS DIGAN NO AL COMUNISMO SOCIALISMO",
+                        "url": null,
+                        "entities": {
+                            "description": {
+                                "urls": []
+                            }
+                        },
+                        "protected": false,
+                        "followers_count": 3860,
+                        "friends_count": 4561,
+                        "listed_count": 0,
+                        "created_at": "Sat Sep 02 20:31:27 +0000 2017",
+                        "favourites_count": 127810,
+                        "utc_offset": null,
+                        "time_zone": null,
+                        "geo_enabled": true,
+                        "verified": false,
+                        "statuses_count": 97236,
+                        "lang": null,
+                        "contributors_enabled": false,
+                        "is_translator": false,
+                        "is_translation_enabled": false,
+                        "profile_background_color": "F5F8FA",
+                        "profile_background_image_url": null,
+                        "profile_background_image_url_https": null,
+                        "profile_background_tile": false,
+                        "profile_image_url": "http://pbs.twimg.com/profile_images/1415345301444079620/_oxX4031_normal.jpg",
+                        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1415345301444079620/_oxX4031_normal.jpg",
+                        "profile_banner_url": "https://pbs.twimg.com/profile_banners/904079345488207872/1626133873",
+                        "profile_link_color": "1DA1F2",
+                        "profile_sidebar_border_color": "C0DEED",
+                        "profile_sidebar_fill_color": "DDEEF6",
+                        "profile_text_color": "333333",
+                        "profile_use_background_image": true,
+                        "has_extended_profile": true,
+                        "default_profile": true,
+                        "default_profile_image": false,
+                        "following": false,
+                        "follow_request_sent": false,
+                        "notifications": false,
+                        "translator_type": "none",
+                        "withheld_in_countries": []
+                    }
+                }
+            }
+        ]
+    },
+    "metadata": {
+        "iso_language_code": "es",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 1273036772671475713,
+        "id_str": "1273036772671475713",
+        "name": "RD906",
+        "screen_name": "d82574890",
+        "location": "Cuba ",
+        "description": "",
+        "url": null,
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 23,
+        "friends_count": 195,
+        "listed_count": 0,
+        "created_at": "Tue Jun 16 23:36:49 +0000 2020",
+        "favourites_count": 3617,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 683,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": null,
+        "profile_background_image_url_https": null,
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1401981301876535306/ggeBzWI9_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1401981301876535306/ggeBzWI9_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1273036772671475713/1600867912",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": true,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+        "created_at": "Wed Jul 14 17:44:58 +0000 2021",
+        "id": 1415366726213160962,
+        "id_str": "1415366726213160962",
+        "full_text": "#CUBA LA JUVENTUD ENFRENTANDO A LA DICTADURA https://t.co/t722PW5TqE",
+        "truncated": false,
+        "display_text_range": [
+            0,
+            44
+        ],
+        "entities": {
+            "hashtags": [
+                {
+                    "text": "CUBA",
+                    "indices": [
+                        0,
+                        5
+                    ]
+                }
+            ],
+            "symbols": [],
+            "user_mentions": [],
+            "urls": [],
+            "media": [
+                {
+                    "id": 1415366443701579782,
+                    "id_str": "1415366443701579782",
+                    "indices": [
+                        45,
+                        68
+                    ],
+                    "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1415366443701579782/pu/img/IiQdt2Vtgz-IPXpR.jpg",
+                    "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1415366443701579782/pu/img/IiQdt2Vtgz-IPXpR.jpg",
+                    "url": "https://t.co/t722PW5TqE",
+                    "display_url": "pic.twitter.com/t722PW5TqE",
+                    "expanded_url": "https://twitter.com/MarssIsHome/status/1415366726213160962/video/1",
+                    "type": "photo",
+                    "sizes": {
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "small": {
+                            "w": 315,
+                            "h": 680,
+                            "resize": "fit"
+                        },
+                        "medium": {
+                            "w": 555,
+                            "h": 1200,
+                            "resize": "fit"
+                        },
+                        "large": {
+                            "w": 592,
+                            "h": 1280,
+                            "resize": "fit"
+                        }
+                    }
+                }
+            ]
+        },
+        "extended_entities": {
+            "media": [
+                {
+                    "id": 1415366443701579782,
+                    "id_str": "1415366443701579782",
+                    "indices": [
+                        45,
+                        68
+                    ],
+                    "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1415366443701579782/pu/img/IiQdt2Vtgz-IPXpR.jpg",
+                    "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1415366443701579782/pu/img/IiQdt2Vtgz-IPXpR.jpg",
+                    "url": "https://t.co/t722PW5TqE",
+                    "display_url": "pic.twitter.com/t722PW5TqE",
+                    "expanded_url": "https://twitter.com/MarssIsHome/status/1415366726213160962/video/1",
+                    "type": "video",
+                    "sizes": {
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "small": {
+                            "w": 315,
+                            "h": 680,
+                            "resize": "fit"
+                        },
+                        "medium": {
+                            "w": 555,
+                            "h": 1200,
+                            "resize": "fit"
+                        },
+                        "large": {
+                            "w": 592,
+                            "h": 1280,
+                            "resize": "fit"
+                        }
+                    },
+                    "video_info": {
+                        "aspect_ratio": [
+                            37,
+                            80
+                        ],
+                        "duration_millis": 50917,
+                        "variants": [
+                            {
+                                "bitrate": 950000,
+                                "content_type": "video/mp4",
+                                "url": "https://video.twimg.com/ext_tw_video/1415366443701579782/pu/vid/480x1036/le0yBmBIRDqeDg_-.mp4?tag=12"
+                            },
+                            {
+                                "bitrate": 2176000,
+                                "content_type": "video/mp4",
+                                "url": "https://video.twimg.com/ext_tw_video/1415366443701579782/pu/vid/592x1280/kzt8jY8_JOFAa__8.mp4?tag=12"
+                            },
+                            {
+                                "bitrate": 632000,
+                                "content_type": "video/mp4",
+                                "url": "https://video.twimg.com/ext_tw_video/1415366443701579782/pu/vid/320x690/VkFSaH91DgRkbN6U.mp4?tag=12"
+                            },
+                            {
+                                "content_type": "application/x-mpegURL",
+                                "url": "https://video.twimg.com/ext_tw_video/1415366443701579782/pu/pl/rTxnQy9WjZkylJhy.m3u8?tag=12&container=fmp4"
+                            }
+                        ]
+                    },
+                    "additional_media_info": {
+                        "monetizable": false
+                    }
+                }
+            ]
+        },
+        "metadata": {
+            "iso_language_code": "es",
+            "result_type": "recent"
+        },
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 904079345488207872,
+            "id_str": "904079345488207872",
+            "name": "MIMI",
+            "screen_name": "MarssIsHome",
+            "location": "Cuba Libre ",
+            "description": "VIVA CUBA \ud83c\udde8\ud83c\uddfa LIBRE !!! LA LIBERTAD NACIO SIN DUE\u00d1O !! CUBANOS DIGAN NO AL COMUNISMO SOCIALISMO",
+            "url": null,
+            "entities": {
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 3860,
+            "friends_count": 4561,
+            "listed_count": 0,
+            "created_at": "Sat Sep 02 20:31:27 +0000 2017",
+            "favourites_count": 127810,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": true,
+            "verified": false,
+            "statuses_count": 97236,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "F5F8FA",
+            "profile_background_image_url": null,
+            "profile_background_image_url_https": null,
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1415345301444079620/_oxX4031_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1415345301444079620/_oxX4031_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/904079345488207872/1626133873",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "has_extended_profile": true,
+            "default_profile": true,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none",
+            "withheld_in_countries": []
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 26,
+        "favorite_count": 42,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "es"
+    },
+    "is_quote_status": false,
+    "retweet_count": 26,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": true,
+    "lang": "es"
+}

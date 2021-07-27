@@ -1,0 +1,520 @@
+{
+    "created_at": "Wed Jul 14 18:02:03 +0000 2021",
+    "id": 1415371024691081228,
+    "id_str": "1415371024691081228",
+    "full_text": "RT @javier_parra: La dictadura del capital: si el banco lo dicta t\u00fa y tus hijos os qued\u00e1is en la puta calle. #ElCapitalismoEsUnaDictadura",
+    "truncated": false,
+    "display_text_range": [
+        0,
+        137
+    ],
+    "entities": {
+        "hashtags": [
+            {
+                "text": "ElCapitalismoEsUnaDictadura",
+                "indices": [
+                    109,
+                    137
+                ]
+            }
+        ],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "javier_parra",
+                "name": "Javier Parra",
+                "id": 91687715,
+                "id_str": "91687715",
+                "indices": [
+                    3,
+                    16
+                ]
+            }
+        ],
+        "urls": []
+    },
+    "metadata": {
+        "iso_language_code": "es",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 3226144421,
+        "id_str": "3226144421",
+        "name": "alboriar",
+        "screen_name": "Alboriar",
+        "location": "",
+        "description": "Periodista. Sin informaci\u00f3n veraz no es posible la democracia. \nCuenta personal, NO profesional. \nNo estoy de acuerdo con todo lo que retuiteo.",
+        "url": null,
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 1806,
+        "friends_count": 4716,
+        "listed_count": 30,
+        "created_at": "Fri May 01 11:49:26 +0000 2015",
+        "favourites_count": 134070,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 66932,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/756171405440356353/iiMhTBWy_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/756171405440356353/iiMhTBWy_normal.jpg",
+        "profile_link_color": "89C9FA",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "profile_use_background_image": false,
+        "has_extended_profile": false,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+        "created_at": "Wed Jul 14 17:56:37 +0000 2021",
+        "id": 1415369658681671683,
+        "id_str": "1415369658681671683",
+        "full_text": "La dictadura del capital: si el banco lo dicta t\u00fa y tus hijos os qued\u00e1is en la puta calle. #ElCapitalismoEsUnaDictadura https://t.co/w9VK1LKwXl",
+        "truncated": false,
+        "display_text_range": [
+            0,
+            119
+        ],
+        "entities": {
+            "hashtags": [
+                {
+                    "text": "ElCapitalismoEsUnaDictadura",
+                    "indices": [
+                        91,
+                        119
+                    ]
+                }
+            ],
+            "symbols": [],
+            "user_mentions": [],
+            "urls": [
+                {
+                    "url": "https://t.co/w9VK1LKwXl",
+                    "expanded_url": "https://twitter.com/imanol_rr/status/1415230974439399424",
+                    "display_url": "twitter.com/imanol_rr/stat\u2026",
+                    "indices": [
+                        120,
+                        143
+                    ]
+                }
+            ]
+        },
+        "metadata": {
+            "iso_language_code": "es",
+            "result_type": "recent"
+        },
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 91687715,
+            "id_str": "91687715",
+            "name": "Javier Parra",
+            "screen_name": "javier_parra",
+            "location": "",
+            "description": "Ingeniero, ilustrador y doctorando. Nieto del Quinto Regimiento.",
+            "url": "https://t.co/0mPj4PQ5jJ",
+            "entities": {
+                "url": {
+                    "urls": [
+                        {
+                            "url": "https://t.co/0mPj4PQ5jJ",
+                            "expanded_url": "http://art-ull.es",
+                            "display_url": "art-ull.es",
+                            "indices": [
+                                0,
+                                23
+                            ]
+                        }
+                    ]
+                },
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 24657,
+            "friends_count": 10696,
+            "listed_count": 386,
+            "created_at": "Sun Nov 22 00:37:11 +0000 2009",
+            "favourites_count": 4385,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": true,
+            "verified": false,
+            "statuses_count": 36096,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "696569",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1225350200018948096/arXCrXA9_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1225350200018948096/arXCrXA9_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/91687715/1613404203",
+            "profile_link_color": "FF0000",
+            "profile_sidebar_border_color": "FFFFFF",
+            "profile_sidebar_fill_color": "252429",
+            "profile_text_color": "666666",
+            "profile_use_background_image": true,
+            "has_extended_profile": false,
+            "default_profile": false,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none",
+            "withheld_in_countries": []
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": true,
+        "quoted_status_id": 1415230974439399424,
+        "quoted_status_id_str": "1415230974439399424",
+        "quoted_status": {
+            "created_at": "Wed Jul 14 08:45:32 +0000 2021",
+            "id": 1415230974439399424,
+            "id_str": "1415230974439399424",
+            "full_text": "14 de julio de 2021. Ejecuci\u00f3n del desahucio de Manuela, Jesus y sus 4 hijas menores, de 9, 8, 2 y 1 a\u00f1os, en Vallekas.\n\n#ManuelaSeQueda https://t.co/Kivrg4cnmf",
+            "truncated": false,
+            "display_text_range": [
+                0,
+                136
+            ],
+            "entities": {
+                "hashtags": [
+                    {
+                        "text": "ManuelaSeQueda",
+                        "indices": [
+                            121,
+                            136
+                        ]
+                    }
+                ],
+                "symbols": [],
+                "user_mentions": [],
+                "urls": [],
+                "media": [
+                    {
+                        "id": 1415230755207266305,
+                        "id_str": "1415230755207266305",
+                        "indices": [
+                            137,
+                            160
+                        ],
+                        "media_url": "http://pbs.twimg.com/media/E6Po36dWQAEaTLz.jpg",
+                        "media_url_https": "https://pbs.twimg.com/media/E6Po36dWQAEaTLz.jpg",
+                        "url": "https://t.co/Kivrg4cnmf",
+                        "display_url": "pic.twitter.com/Kivrg4cnmf",
+                        "expanded_url": "https://twitter.com/Imanol_RR/status/1415230974439399424/photo/1",
+                        "type": "photo",
+                        "sizes": {
+                            "large": {
+                                "w": 2048,
+                                "h": 1366,
+                                "resize": "fit"
+                            },
+                            "thumb": {
+                                "w": 150,
+                                "h": 150,
+                                "resize": "crop"
+                            },
+                            "small": {
+                                "w": 680,
+                                "h": 453,
+                                "resize": "fit"
+                            },
+                            "medium": {
+                                "w": 1200,
+                                "h": 800,
+                                "resize": "fit"
+                            }
+                        }
+                    }
+                ]
+            },
+            "extended_entities": {
+                "media": [
+                    {
+                        "id": 1415230755207266305,
+                        "id_str": "1415230755207266305",
+                        "indices": [
+                            137,
+                            160
+                        ],
+                        "media_url": "http://pbs.twimg.com/media/E6Po36dWQAEaTLz.jpg",
+                        "media_url_https": "https://pbs.twimg.com/media/E6Po36dWQAEaTLz.jpg",
+                        "url": "https://t.co/Kivrg4cnmf",
+                        "display_url": "pic.twitter.com/Kivrg4cnmf",
+                        "expanded_url": "https://twitter.com/Imanol_RR/status/1415230974439399424/photo/1",
+                        "type": "photo",
+                        "sizes": {
+                            "large": {
+                                "w": 2048,
+                                "h": 1366,
+                                "resize": "fit"
+                            },
+                            "thumb": {
+                                "w": 150,
+                                "h": 150,
+                                "resize": "crop"
+                            },
+                            "small": {
+                                "w": 680,
+                                "h": 453,
+                                "resize": "fit"
+                            },
+                            "medium": {
+                                "w": 1200,
+                                "h": 800,
+                                "resize": "fit"
+                            }
+                        }
+                    },
+                    {
+                        "id": 1415230767576358912,
+                        "id_str": "1415230767576358912",
+                        "indices": [
+                            137,
+                            160
+                        ],
+                        "media_url": "http://pbs.twimg.com/media/E6Po4oiXoAAjnYB.jpg",
+                        "media_url_https": "https://pbs.twimg.com/media/E6Po4oiXoAAjnYB.jpg",
+                        "url": "https://t.co/Kivrg4cnmf",
+                        "display_url": "pic.twitter.com/Kivrg4cnmf",
+                        "expanded_url": "https://twitter.com/Imanol_RR/status/1415230974439399424/photo/1",
+                        "type": "photo",
+                        "sizes": {
+                            "thumb": {
+                                "w": 150,
+                                "h": 150,
+                                "resize": "crop"
+                            },
+                            "medium": {
+                                "w": 1200,
+                                "h": 800,
+                                "resize": "fit"
+                            },
+                            "large": {
+                                "w": 2048,
+                                "h": 1365,
+                                "resize": "fit"
+                            },
+                            "small": {
+                                "w": 680,
+                                "h": 453,
+                                "resize": "fit"
+                            }
+                        }
+                    },
+                    {
+                        "id": 1415230793140645889,
+                        "id_str": "1415230793140645889",
+                        "indices": [
+                            137,
+                            160
+                        ],
+                        "media_url": "http://pbs.twimg.com/media/E6Po6HxXsAEfk0m.jpg",
+                        "media_url_https": "https://pbs.twimg.com/media/E6Po6HxXsAEfk0m.jpg",
+                        "url": "https://t.co/Kivrg4cnmf",
+                        "display_url": "pic.twitter.com/Kivrg4cnmf",
+                        "expanded_url": "https://twitter.com/Imanol_RR/status/1415230974439399424/photo/1",
+                        "type": "photo",
+                        "sizes": {
+                            "thumb": {
+                                "w": 150,
+                                "h": 150,
+                                "resize": "crop"
+                            },
+                            "medium": {
+                                "w": 1200,
+                                "h": 800,
+                                "resize": "fit"
+                            },
+                            "small": {
+                                "w": 680,
+                                "h": 453,
+                                "resize": "fit"
+                            },
+                            "large": {
+                                "w": 2048,
+                                "h": 1365,
+                                "resize": "fit"
+                            }
+                        }
+                    },
+                    {
+                        "id": 1415230823742283777,
+                        "id_str": "1415230823742283777",
+                        "indices": [
+                            137,
+                            160
+                        ],
+                        "media_url": "http://pbs.twimg.com/media/E6Po75xXoAEIW9O.jpg",
+                        "media_url_https": "https://pbs.twimg.com/media/E6Po75xXoAEIW9O.jpg",
+                        "url": "https://t.co/Kivrg4cnmf",
+                        "display_url": "pic.twitter.com/Kivrg4cnmf",
+                        "expanded_url": "https://twitter.com/Imanol_RR/status/1415230974439399424/photo/1",
+                        "type": "photo",
+                        "sizes": {
+                            "thumb": {
+                                "w": 150,
+                                "h": 150,
+                                "resize": "crop"
+                            },
+                            "medium": {
+                                "w": 1200,
+                                "h": 800,
+                                "resize": "fit"
+                            },
+                            "small": {
+                                "w": 680,
+                                "h": 453,
+                                "resize": "fit"
+                            },
+                            "large": {
+                                "w": 2048,
+                                "h": 1365,
+                                "resize": "fit"
+                            }
+                        }
+                    }
+                ]
+            },
+            "metadata": {
+                "iso_language_code": "es",
+                "result_type": "recent"
+            },
+            "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+            "in_reply_to_status_id": 1413807620796948481,
+            "in_reply_to_status_id_str": "1413807620796948481",
+            "in_reply_to_user_id": 351775232,
+            "in_reply_to_user_id_str": "351775232",
+            "in_reply_to_screen_name": "Imanol_RR",
+            "user": {
+                "id": 351775232,
+                "id_str": "351775232",
+                "name": "Jon Ima",
+                "screen_name": "Imanol_RR",
+                "location": "Alcorc\u00f3n (Madrid) - Bilbo",
+                "description": "La \u00fanica relaci\u00f3n entre el mundo del objeto y del sujeto es el arte. Fotoperiodista freelance. Sociolog\u00eda UNED. 23 a\u00f1itos.",
+                "url": "https://t.co/vI6Hfq31kO",
+                "entities": {
+                    "url": {
+                        "urls": [
+                            {
+                                "url": "https://t.co/vI6Hfq31kO",
+                                "expanded_url": "http://www.jonima.art",
+                                "display_url": "jonima.art",
+                                "indices": [
+                                    0,
+                                    23
+                                ]
+                            }
+                        ]
+                    },
+                    "description": {
+                        "urls": []
+                    }
+                },
+                "protected": false,
+                "followers_count": 2105,
+                "friends_count": 1202,
+                "listed_count": 22,
+                "created_at": "Tue Aug 09 18:30:46 +0000 2011",
+                "favourites_count": 23610,
+                "utc_offset": null,
+                "time_zone": null,
+                "geo_enabled": true,
+                "verified": false,
+                "statuses_count": 42521,
+                "lang": null,
+                "contributors_enabled": false,
+                "is_translator": false,
+                "is_translation_enabled": false,
+                "profile_background_color": "C6E2EE",
+                "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+                "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+                "profile_background_tile": true,
+                "profile_image_url": "http://pbs.twimg.com/profile_images/1323367632599396352/DFVukbhw_normal.jpg",
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/1323367632599396352/DFVukbhw_normal.jpg",
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/351775232/1578275918",
+                "profile_link_color": "31CC79",
+                "profile_sidebar_border_color": "FFFFFF",
+                "profile_sidebar_fill_color": "DDEEF6",
+                "profile_text_color": "333333",
+                "profile_use_background_image": true,
+                "has_extended_profile": true,
+                "default_profile": false,
+                "default_profile_image": false,
+                "following": false,
+                "follow_request_sent": false,
+                "notifications": false,
+                "translator_type": "regular",
+                "withheld_in_countries": []
+            },
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "contributors": null,
+            "is_quote_status": false,
+            "retweet_count": 1007,
+            "favorite_count": 915,
+            "favorited": false,
+            "retweeted": false,
+            "possibly_sensitive": false,
+            "lang": "es"
+        },
+        "retweet_count": 7,
+        "favorite_count": 7,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "es"
+    },
+    "is_quote_status": true,
+    "quoted_status_id": 1415230974439399424,
+    "quoted_status_id_str": "1415230974439399424",
+    "retweet_count": 7,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "es"
+}

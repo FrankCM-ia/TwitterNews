@@ -1,0 +1,183 @@
+{
+    "created_at": "Wed Jul 14 16:00:23 +0000 2021",
+    "id": 1415340407811190794,
+    "id_str": "1415340407811190794",
+    "full_text": "RT @delendacartago: Joven argentino! Si usted tiene entre 18 y 100 a\u00f1os de edad, no olvide que este a\u00f1o cuando vote est\u00e1 eligiendo vivir co\u2026",
+    "truncated": false,
+    "display_text_range": [
+        0,
+        140
+    ],
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "delendacartago",
+                "name": "Harrold The Barrel",
+                "id": 850706376447987713,
+                "id_str": "850706376447987713",
+                "indices": [
+                    3,
+                    18
+                ]
+            }
+        ],
+        "urls": []
+    },
+    "metadata": {
+        "iso_language_code": "es",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 850706376447987713,
+        "id_str": "850706376447987713",
+        "name": "Harrold The Barrel",
+        "screen_name": "delendacartago",
+        "location": "",
+        "description": "Seguimos fracasando, con todo \u00e9xito.\ud83d\ude09\nJarrol De Barrl",
+        "url": null,
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 3801,
+        "friends_count": 4967,
+        "listed_count": 4,
+        "created_at": "Sat Apr 08 13:46:20 +0000 2017",
+        "favourites_count": 32033,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 60097,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": null,
+        "profile_background_image_url_https": null,
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/850717130454687744/5E73Dk12_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/850717130454687744/5E73Dk12_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/850706376447987713/1588854355",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+        "created_at": "Wed Jul 14 15:03:15 +0000 2021",
+        "id": 1415326030320001028,
+        "id_str": "1415326030320001028",
+        "full_text": "Joven argentino! Si usted tiene entre 18 y 100 a\u00f1os de edad, no olvide que este a\u00f1o cuando vote est\u00e1 eligiendo vivir como en USA/Europa/Australia/Israel o vivir como se vive en Cuba, Venezuela, Ir\u00e1n, Rusia o Korea del norte.\nIt's up to you.\ud83d\ude09\nSU DESTINO EST\u00c1 EN SU VOTO.",
+        "truncated": false,
+        "display_text_range": [
+            0,
+            269
+        ],
+        "entities": {
+            "hashtags": [],
+            "symbols": [],
+            "user_mentions": [],
+            "urls": []
+        },
+        "metadata": {
+            "iso_language_code": "es",
+            "result_type": "recent"
+        },
+        "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 850706376447987713,
+            "id_str": "850706376447987713",
+            "name": "Harrold The Barrel",
+            "screen_name": "delendacartago",
+            "location": "",
+            "description": "Seguimos fracasando, con todo \u00e9xito.\ud83d\ude09\nJarrol De Barrl",
+            "url": null,
+            "entities": {
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 3801,
+            "friends_count": 4967,
+            "listed_count": 4,
+            "created_at": "Sat Apr 08 13:46:20 +0000 2017",
+            "favourites_count": 32033,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": true,
+            "verified": false,
+            "statuses_count": 60097,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "F5F8FA",
+            "profile_background_image_url": null,
+            "profile_background_image_url_https": null,
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/850717130454687744/5E73Dk12_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/850717130454687744/5E73Dk12_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/850706376447987713/1588854355",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "has_extended_profile": false,
+            "default_profile": true,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none",
+            "withheld_in_countries": []
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 6,
+        "favorite_count": 14,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "es"
+    },
+    "is_quote_status": false,
+    "retweet_count": 6,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "es"
+}

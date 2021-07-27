@@ -1,0 +1,130 @@
+{
+    "created_at": "Wed Jul 14 18:04:32 +0000 2021",
+    "id": 1415371651420725251,
+    "id_str": "1415371651420725251",
+    "full_text": "@Camilita_evans @InvictosSomos @PSG_espanol Equipazo. Est\u00e1n listos para fracasar en Champions\u2026 Otra vez.",
+    "truncated": false,
+    "display_text_range": [
+        44,
+        104
+    ],
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "Camilita_evans",
+                "name": "\u2b50\ud83c\udf1fCamila\ud83c\udf1f\u2b50",
+                "id": 1013532290377506816,
+                "id_str": "1013532290377506816",
+                "indices": [
+                    0,
+                    15
+                ]
+            },
+            {
+                "screen_name": "InvictosSomos",
+                "name": "Invictos",
+                "id": 4488217998,
+                "id_str": "4488217998",
+                "indices": [
+                    16,
+                    30
+                ]
+            },
+            {
+                "screen_name": "PSG_espanol",
+                "name": "Paris Saint-Germain",
+                "id": 1160690125,
+                "id_str": "1160690125",
+                "indices": [
+                    31,
+                    43
+                ]
+            }
+        ],
+        "urls": []
+    },
+    "metadata": {
+        "iso_language_code": "es",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_status_id": 1415371325959442438,
+    "in_reply_to_status_id_str": "1415371325959442438",
+    "in_reply_to_user_id": 1013532290377506816,
+    "in_reply_to_user_id_str": "1013532290377506816",
+    "in_reply_to_screen_name": "Camilita_evans",
+    "user": {
+        "id": 750257920277819392,
+        "id_str": "750257920277819392",
+        "name": ".",
+        "screen_name": "AngusYoung__",
+        "location": "",
+        "description": "",
+        "url": "https://t.co/NJW2wmHkX5",
+        "entities": {
+            "url": {
+                "urls": [
+                    {
+                        "url": "https://t.co/NJW2wmHkX5",
+                        "expanded_url": "http://Instagram.com/AngusYoung_",
+                        "display_url": "Instagram.com/AngusYoung_",
+                        "indices": [
+                            0,
+                            23
+                        ]
+                    }
+                ]
+            },
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 10205,
+        "friends_count": 107,
+        "listed_count": 4,
+        "created_at": "Tue Jul 05 09:20:02 +0000 2016",
+        "favourites_count": 16283,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 1375,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": null,
+        "profile_background_image_url_https": null,
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1399522704756256770/plc_BcbY_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1399522704756256770/plc_BcbY_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/750257920277819392/1582395585",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": true,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 5,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "es"
+}

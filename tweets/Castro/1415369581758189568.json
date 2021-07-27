@@ -1,0 +1,384 @@
+{
+    "created_at": "Wed Jul 14 17:56:19 +0000 2021",
+    "id": 1415369581758189568,
+    "id_str": "1415369581758189568",
+    "full_text": "RT @Tincho_2015: A esto fue Castro a venezuela. A pedir asesinos para Cuba.",
+    "truncated": false,
+    "display_text_range": [
+        0,
+        75
+    ],
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "Tincho_2015",
+                "name": "TIncho 2015",
+                "id": 862971908,
+                "id_str": "862971908",
+                "indices": [
+                    3,
+                    15
+                ]
+            }
+        ],
+        "urls": []
+    },
+    "metadata": {
+        "iso_language_code": "es",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 1219798833036775424,
+        "id_str": "1219798833036775424",
+        "name": "Capelli bianchi",
+        "screen_name": "CapelliBianco",
+        "location": "Buenos Aires, Argentina",
+        "description": "Casada con Jorge, 2 hijas y dos  bellas nietas. estudio Italiano e ingl\u00e9s. Quiero seguir viajando Pertenezco al 41% MM2023.\ud83d\ude3b\ud83d\ude3b\ud83c\udde6\ud83c\uddf7\ud83c\udde6\ud83c\uddf7\ud83c\udde6\ud83c\uddf7\ud83c\udde6\ud83c\uddf7",
+        "url": null,
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 2025,
+        "friends_count": 2411,
+        "listed_count": 0,
+        "created_at": "Wed Jan 22 01:48:13 +0000 2020",
+        "favourites_count": 21907,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 11057,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": null,
+        "profile_background_image_url_https": null,
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1401002478758469632/ceD5d_eu_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1401002478758469632/ceD5d_eu_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1219798833036775424/1616359906",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": true,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+        "created_at": "Wed Jul 14 01:23:33 +0000 2021",
+        "id": 1415119744328507394,
+        "id_str": "1415119744328507394",
+        "full_text": "A esto fue Castro a venezuela. A pedir asesinos para Cuba. https://t.co/qlCLLlJXG8",
+        "truncated": false,
+        "display_text_range": [
+            0,
+            58
+        ],
+        "entities": {
+            "hashtags": [],
+            "symbols": [],
+            "user_mentions": [],
+            "urls": [
+                {
+                    "url": "https://t.co/qlCLLlJXG8",
+                    "expanded_url": "https://twitter.com/irinama15295202/status/1415079739589632000",
+                    "display_url": "twitter.com/irinama1529520\u2026",
+                    "indices": [
+                        59,
+                        82
+                    ]
+                }
+            ]
+        },
+        "metadata": {
+            "iso_language_code": "es",
+            "result_type": "recent"
+        },
+        "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 862971908,
+            "id_str": "862971908",
+            "name": "TIncho 2015",
+            "screen_name": "Tincho_2015",
+            "location": "Argentina",
+            "description": "Soy un ciudadano com\u00fan que quiere lo mejor para su familia. AntiK. Anti peronista. Soy de la Argentina del medio. \nMe segu\u00eds y te sigo.",
+            "url": null,
+            "entities": {
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 16632,
+            "friends_count": 16659,
+            "listed_count": 5,
+            "created_at": "Fri Oct 05 12:31:07 +0000 2012",
+            "favourites_count": 97485,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": false,
+            "verified": false,
+            "statuses_count": 58900,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "C6E2EE",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif",
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/3759286595/51897e1ad708cd5fea64cf2a2334914c_normal.png",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/3759286595/51897e1ad708cd5fea64cf2a2334914c_normal.png",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/862971908/1599151369",
+            "profile_link_color": "1B95E0",
+            "profile_sidebar_border_color": "FFFFFF",
+            "profile_sidebar_fill_color": "DAECF4",
+            "profile_text_color": "663B12",
+            "profile_use_background_image": true,
+            "has_extended_profile": false,
+            "default_profile": false,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none",
+            "withheld_in_countries": []
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": true,
+        "quoted_status_id": 1415079739589632000,
+        "quoted_status_id_str": "1415079739589632000",
+        "quoted_status": {
+            "created_at": "Tue Jul 13 22:44:35 +0000 2021",
+            "id": 1415079739589632000,
+            "id_str": "1415079739589632000",
+            "full_text": "#SOSCuba intervenci\u00f3n extranjera en cuba contra el pueblo desarmado los van a acribillar ..haz esto viral cojoneee CUBA NESECITA AYUDA ..#POTUS #ONU_es https://t.co/VmP7CzUHxh",
+            "truncated": false,
+            "display_text_range": [
+                0,
+                151
+            ],
+            "entities": {
+                "hashtags": [
+                    {
+                        "text": "SOSCuba",
+                        "indices": [
+                            0,
+                            8
+                        ]
+                    },
+                    {
+                        "text": "POTUS",
+                        "indices": [
+                            137,
+                            143
+                        ]
+                    },
+                    {
+                        "text": "ONU_es",
+                        "indices": [
+                            144,
+                            151
+                        ]
+                    }
+                ],
+                "symbols": [],
+                "user_mentions": [],
+                "urls": [],
+                "media": [
+                    {
+                        "id": 1415079737119191041,
+                        "id_str": "1415079737119191041",
+                        "indices": [
+                            152,
+                            175
+                        ],
+                        "media_url": "http://pbs.twimg.com/media/E6NfhgPXsAEDp6V.jpg",
+                        "media_url_https": "https://pbs.twimg.com/media/E6NfhgPXsAEDp6V.jpg",
+                        "url": "https://t.co/VmP7CzUHxh",
+                        "display_url": "pic.twitter.com/VmP7CzUHxh",
+                        "expanded_url": "https://twitter.com/irinama15295202/status/1415079739589632000/photo/1",
+                        "type": "photo",
+                        "sizes": {
+                            "medium": {
+                                "w": 442,
+                                "h": 960,
+                                "resize": "fit"
+                            },
+                            "thumb": {
+                                "w": 150,
+                                "h": 150,
+                                "resize": "crop"
+                            },
+                            "small": {
+                                "w": 313,
+                                "h": 680,
+                                "resize": "fit"
+                            },
+                            "large": {
+                                "w": 442,
+                                "h": 960,
+                                "resize": "fit"
+                            }
+                        }
+                    }
+                ]
+            },
+            "extended_entities": {
+                "media": [
+                    {
+                        "id": 1415079737119191041,
+                        "id_str": "1415079737119191041",
+                        "indices": [
+                            152,
+                            175
+                        ],
+                        "media_url": "http://pbs.twimg.com/media/E6NfhgPXsAEDp6V.jpg",
+                        "media_url_https": "https://pbs.twimg.com/media/E6NfhgPXsAEDp6V.jpg",
+                        "url": "https://t.co/VmP7CzUHxh",
+                        "display_url": "pic.twitter.com/VmP7CzUHxh",
+                        "expanded_url": "https://twitter.com/irinama15295202/status/1415079739589632000/photo/1",
+                        "type": "photo",
+                        "sizes": {
+                            "medium": {
+                                "w": 442,
+                                "h": 960,
+                                "resize": "fit"
+                            },
+                            "thumb": {
+                                "w": 150,
+                                "h": 150,
+                                "resize": "crop"
+                            },
+                            "small": {
+                                "w": 313,
+                                "h": 680,
+                                "resize": "fit"
+                            },
+                            "large": {
+                                "w": 442,
+                                "h": 960,
+                                "resize": "fit"
+                            }
+                        }
+                    }
+                ]
+            },
+            "metadata": {
+                "iso_language_code": "es",
+                "result_type": "recent"
+            },
+            "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+            "in_reply_to_status_id": null,
+            "in_reply_to_status_id_str": null,
+            "in_reply_to_user_id": null,
+            "in_reply_to_user_id_str": null,
+            "in_reply_to_screen_name": null,
+            "user": {
+                "id": 1413950678150565893,
+                "id_str": "1413950678150565893",
+                "name": "irina martinez",
+                "screen_name": "irinama15295202",
+                "location": "",
+                "description": "Ser cada d\u00eda m\u00e1s HUMANO",
+                "url": null,
+                "entities": {
+                    "description": {
+                        "urls": []
+                    }
+                },
+                "protected": false,
+                "followers_count": 19,
+                "friends_count": 22,
+                "listed_count": 0,
+                "created_at": "Sat Jul 10 19:58:22 +0000 2021",
+                "favourites_count": 161,
+                "utc_offset": null,
+                "time_zone": null,
+                "geo_enabled": false,
+                "verified": false,
+                "statuses_count": 183,
+                "lang": null,
+                "contributors_enabled": false,
+                "is_translator": false,
+                "is_translation_enabled": false,
+                "profile_background_color": "F5F8FA",
+                "profile_background_image_url": null,
+                "profile_background_image_url_https": null,
+                "profile_background_tile": false,
+                "profile_image_url": "http://pbs.twimg.com/profile_images/1413953123857702917/wZX-gpPS_normal.jpg",
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/1413953123857702917/wZX-gpPS_normal.jpg",
+                "profile_link_color": "1DA1F2",
+                "profile_sidebar_border_color": "C0DEED",
+                "profile_sidebar_fill_color": "DDEEF6",
+                "profile_text_color": "333333",
+                "profile_use_background_image": true,
+                "has_extended_profile": true,
+                "default_profile": true,
+                "default_profile_image": false,
+                "following": false,
+                "follow_request_sent": false,
+                "notifications": false,
+                "translator_type": "none",
+                "withheld_in_countries": []
+            },
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "contributors": null,
+            "is_quote_status": false,
+            "retweet_count": 542,
+            "favorite_count": 328,
+            "favorited": false,
+            "retweeted": false,
+            "possibly_sensitive": false,
+            "lang": "es"
+        },
+        "retweet_count": 64,
+        "favorite_count": 45,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "es"
+    },
+    "is_quote_status": true,
+    "quoted_status_id": 1415079739589632000,
+    "quoted_status_id_str": "1415079739589632000",
+    "retweet_count": 64,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "es"
+}

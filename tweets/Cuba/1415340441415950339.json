@@ -1,0 +1,383 @@
+{
+    "created_at": "Wed Jul 14 16:00:31 +0000 2021",
+    "id": 1415340441415950339,
+    "id_str": "1415340441415950339",
+    "full_text": "RT @DaniGagoPhoto: Esto es Vallekas, hoy, no es Cuba.\nTremenda foto de @Imanol_RR https://t.co/BeTItBKGuq",
+    "truncated": false,
+    "display_text_range": [
+        0,
+        105
+    ],
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "DaniGagoPhoto",
+                "name": "Dani Gago",
+                "id": 861243728396251136,
+                "id_str": "861243728396251136",
+                "indices": [
+                    3,
+                    17
+                ]
+            },
+            {
+                "screen_name": "Imanol_RR",
+                "name": "Jon Ima",
+                "id": 351775232,
+                "id_str": "351775232",
+                "indices": [
+                    71,
+                    81
+                ]
+            }
+        ],
+        "urls": [],
+        "media": [
+            {
+                "id": 1415249932534095873,
+                "id_str": "1415249932534095873",
+                "indices": [
+                    82,
+                    105
+                ],
+                "media_url": "http://pbs.twimg.com/media/E6P6ULkXIAER_Sh.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/E6P6ULkXIAER_Sh.jpg",
+                "url": "https://t.co/BeTItBKGuq",
+                "display_url": "pic.twitter.com/BeTItBKGuq",
+                "expanded_url": "https://twitter.com/DaniGagoPhoto/status/1415249934694158336/photo/1",
+                "type": "photo",
+                "sizes": {
+                    "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                    },
+                    "medium": {
+                        "w": 960,
+                        "h": 640,
+                        "resize": "fit"
+                    },
+                    "large": {
+                        "w": 960,
+                        "h": 640,
+                        "resize": "fit"
+                    },
+                    "small": {
+                        "w": 680,
+                        "h": 453,
+                        "resize": "fit"
+                    }
+                },
+                "source_status_id": 1415249934694158336,
+                "source_status_id_str": "1415249934694158336",
+                "source_user_id": 861243728396251136,
+                "source_user_id_str": "861243728396251136"
+            }
+        ]
+    },
+    "extended_entities": {
+        "media": [
+            {
+                "id": 1415249932534095873,
+                "id_str": "1415249932534095873",
+                "indices": [
+                    82,
+                    105
+                ],
+                "media_url": "http://pbs.twimg.com/media/E6P6ULkXIAER_Sh.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/E6P6ULkXIAER_Sh.jpg",
+                "url": "https://t.co/BeTItBKGuq",
+                "display_url": "pic.twitter.com/BeTItBKGuq",
+                "expanded_url": "https://twitter.com/DaniGagoPhoto/status/1415249934694158336/photo/1",
+                "type": "photo",
+                "sizes": {
+                    "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                    },
+                    "medium": {
+                        "w": 960,
+                        "h": 640,
+                        "resize": "fit"
+                    },
+                    "large": {
+                        "w": 960,
+                        "h": 640,
+                        "resize": "fit"
+                    },
+                    "small": {
+                        "w": 680,
+                        "h": 453,
+                        "resize": "fit"
+                    }
+                },
+                "source_status_id": 1415249934694158336,
+                "source_status_id_str": "1415249934694158336",
+                "source_user_id": 861243728396251136,
+                "source_user_id_str": "861243728396251136"
+            }
+        ]
+    },
+    "metadata": {
+        "iso_language_code": "es",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 757978706421972992,
+        "id_str": "757978706421972992",
+        "name": "Comenabos Sideral",
+        "screen_name": "Comenabosideral",
+        "location": "Mingamongas city",
+        "description": "Los nabos son hortalizas muy sanas.",
+        "url": null,
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 66,
+        "friends_count": 320,
+        "listed_count": 0,
+        "created_at": "Tue Jul 26 16:39:41 +0000 2016",
+        "favourites_count": 33025,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 30625,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": null,
+        "profile_background_image_url_https": null,
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/981569719017902080/0NFfVD_e_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/981569719017902080/0NFfVD_e_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/757978706421972992/1521422591",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": true,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+        "created_at": "Wed Jul 14 10:00:53 +0000 2021",
+        "id": 1415249934694158336,
+        "id_str": "1415249934694158336",
+        "full_text": "Esto es Vallekas, hoy, no es Cuba.\nTremenda foto de @Imanol_RR https://t.co/BeTItBKGuq",
+        "truncated": false,
+        "display_text_range": [
+            0,
+            62
+        ],
+        "entities": {
+            "hashtags": [],
+            "symbols": [],
+            "user_mentions": [
+                {
+                    "screen_name": "Imanol_RR",
+                    "name": "Jon Ima",
+                    "id": 351775232,
+                    "id_str": "351775232",
+                    "indices": [
+                        52,
+                        62
+                    ]
+                }
+            ],
+            "urls": [],
+            "media": [
+                {
+                    "id": 1415249932534095873,
+                    "id_str": "1415249932534095873",
+                    "indices": [
+                        63,
+                        86
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/E6P6ULkXIAER_Sh.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/E6P6ULkXIAER_Sh.jpg",
+                    "url": "https://t.co/BeTItBKGuq",
+                    "display_url": "pic.twitter.com/BeTItBKGuq",
+                    "expanded_url": "https://twitter.com/DaniGagoPhoto/status/1415249934694158336/photo/1",
+                    "type": "photo",
+                    "sizes": {
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "medium": {
+                            "w": 960,
+                            "h": 640,
+                            "resize": "fit"
+                        },
+                        "large": {
+                            "w": 960,
+                            "h": 640,
+                            "resize": "fit"
+                        },
+                        "small": {
+                            "w": 680,
+                            "h": 453,
+                            "resize": "fit"
+                        }
+                    }
+                }
+            ]
+        },
+        "extended_entities": {
+            "media": [
+                {
+                    "id": 1415249932534095873,
+                    "id_str": "1415249932534095873",
+                    "indices": [
+                        63,
+                        86
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/E6P6ULkXIAER_Sh.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/E6P6ULkXIAER_Sh.jpg",
+                    "url": "https://t.co/BeTItBKGuq",
+                    "display_url": "pic.twitter.com/BeTItBKGuq",
+                    "expanded_url": "https://twitter.com/DaniGagoPhoto/status/1415249934694158336/photo/1",
+                    "type": "photo",
+                    "sizes": {
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "medium": {
+                            "w": 960,
+                            "h": 640,
+                            "resize": "fit"
+                        },
+                        "large": {
+                            "w": 960,
+                            "h": 640,
+                            "resize": "fit"
+                        },
+                        "small": {
+                            "w": 680,
+                            "h": 453,
+                            "resize": "fit"
+                        }
+                    }
+                }
+            ]
+        },
+        "metadata": {
+            "iso_language_code": "es",
+            "result_type": "recent"
+        },
+        "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 861243728396251136,
+            "id_str": "861243728396251136",
+            "name": "Dani Gago",
+            "screen_name": "DaniGagoPhoto",
+            "location": "vallekas",
+            "description": "Fot\u00f3grafo, Vallekano, Antifascista.\n\nNo pasar\u00e1n.",
+            "url": "https://t.co/uyozh6KzKw",
+            "entities": {
+                "url": {
+                    "urls": [
+                        {
+                            "url": "https://t.co/uyozh6KzKw",
+                            "expanded_url": "https://instagram.com/danigago?utm_source=ig_profile_share&igshid=1kqcyq7os00xk",
+                            "display_url": "instagram.com/danigago?utm_s\u2026",
+                            "indices": [
+                                0,
+                                23
+                            ]
+                        }
+                    ]
+                },
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 30887,
+            "friends_count": 3518,
+            "listed_count": 153,
+            "created_at": "Sun May 07 15:38:00 +0000 2017",
+            "favourites_count": 30662,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": true,
+            "verified": false,
+            "statuses_count": 19252,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "F5F8FA",
+            "profile_background_image_url": null,
+            "profile_background_image_url_https": null,
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/861245248248451073/WJ7ZNxRw_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/861245248248451073/WJ7ZNxRw_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/861243728396251136/1494171840",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "has_extended_profile": true,
+            "default_profile": true,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none",
+            "withheld_in_countries": []
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 2969,
+        "favorite_count": 5414,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "es"
+    },
+    "is_quote_status": false,
+    "retweet_count": 2969,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "es"
+}

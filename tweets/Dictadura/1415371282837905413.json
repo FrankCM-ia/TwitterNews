@@ -1,0 +1,183 @@
+{
+    "created_at": "Wed Jul 14 18:03:04 +0000 2021",
+    "id": 1415371282837905413,
+    "id_str": "1415371282837905413",
+    "full_text": "RT @SRGOGOL: El ilusionante proyecto para los espa\u00f1oles que hoy nos presentan las derechas y sus voceros es que alguien en el Gobierno diga\u2026",
+    "truncated": false,
+    "display_text_range": [
+        0,
+        140
+    ],
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "SRGOGOL",
+                "name": "SrGOGOL",
+                "id": 2257773066,
+                "id_str": "2257773066",
+                "indices": [
+                    3,
+                    11
+                ]
+            }
+        ],
+        "urls": []
+    },
+    "metadata": {
+        "iso_language_code": "es",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 1252924076546498561,
+        "id_str": "1252924076546498561",
+        "name": "Josefa Requena Romero",
+        "screen_name": "JosefaRequenaR8",
+        "location": "",
+        "description": "",
+        "url": null,
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 585,
+        "friends_count": 847,
+        "listed_count": 1,
+        "created_at": "Wed Apr 22 11:36:15 +0000 2020",
+        "favourites_count": 51194,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 53206,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": null,
+        "profile_background_image_url_https": null,
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1252924345191747585/uDJaOZQh_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1252924345191747585/uDJaOZQh_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1252924076546498561/1587763892",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+        "created_at": "Wed Jul 14 06:35:39 +0000 2021",
+        "id": 1415198288459059200,
+        "id_str": "1415198288459059200",
+        "full_text": "El ilusionante proyecto para los espa\u00f1oles que hoy nos presentan las derechas y sus voceros es que alguien en el Gobierno diga que la dictadura cubana es una dictadura.\nEstoy en un sinvivir\u2026",
+        "truncated": false,
+        "display_text_range": [
+            0,
+            190
+        ],
+        "entities": {
+            "hashtags": [],
+            "symbols": [],
+            "user_mentions": [],
+            "urls": []
+        },
+        "metadata": {
+            "iso_language_code": "es",
+            "result_type": "recent"
+        },
+        "source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 2257773066,
+            "id_str": "2257773066",
+            "name": "SrGOGOL",
+            "screen_name": "SRGOGOL",
+            "location": "",
+            "description": "Diga lo que diga, afirme lo que afirme, siempre me queda la duda.",
+            "url": null,
+            "entities": {
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 5285,
+            "friends_count": 4721,
+            "listed_count": 4,
+            "created_at": "Sun Dec 22 14:21:20 +0000 2013",
+            "favourites_count": 55738,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": false,
+            "verified": false,
+            "statuses_count": 22044,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "C0DEED",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/893867277149405184/WOa7FAaG_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/893867277149405184/WOa7FAaG_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/2257773066/1501949656",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "has_extended_profile": false,
+            "default_profile": true,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none",
+            "withheld_in_countries": []
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 10,
+        "favorite_count": 38,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "es"
+    },
+    "is_quote_status": false,
+    "retweet_count": 10,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "es"
+}

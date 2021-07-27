@@ -1,0 +1,127 @@
+{
+    "created_at": "Wed Jul 14 18:07:04 +0000 2021",
+    "id": 1415372288346796037,
+    "id_str": "1415372288346796037",
+    "full_text": "@PalashRawat5 @CoolABADev @officialm0ee @FabrizioRomano Supongo que el Crotone, Parma, Spezia, Torino, Genoa, Sampdoria, Cagliari son equipos muy top eh pedazo de subnormal, no le hizo gol ni al campe\u00f3n, ni al Milan, ni al Atalanta, solo un m\u00edsero gol contra el Napoli que quedo fuera de Champions",
+    "truncated": false,
+    "display_text_range": [
+        56,
+        297
+    ],
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "PalashRawat5",
+                "name": "Palash Rawat",
+                "id": 1306229437470564358,
+                "id_str": "1306229437470564358",
+                "indices": [
+                    0,
+                    13
+                ]
+            },
+            {
+                "screen_name": "CoolABADev",
+                "name": "IamABA",
+                "id": 1342374782822612994,
+                "id_str": "1342374782822612994",
+                "indices": [
+                    14,
+                    25
+                ]
+            },
+            {
+                "screen_name": "officialm0ee",
+                "name": "W0ee",
+                "id": 1370031676542365703,
+                "id_str": "1370031676542365703",
+                "indices": [
+                    26,
+                    39
+                ]
+            },
+            {
+                "screen_name": "FabrizioRomano",
+                "name": "Fabrizio Romano",
+                "id": 330262748,
+                "id_str": "330262748",
+                "indices": [
+                    40,
+                    55
+                ]
+            }
+        ],
+        "urls": []
+    },
+    "metadata": {
+        "iso_language_code": "es",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "in_reply_to_status_id": 1415371786808565760,
+    "in_reply_to_status_id_str": "1415371786808565760",
+    "in_reply_to_user_id": 1306229437470564358,
+    "in_reply_to_user_id_str": "1306229437470564358",
+    "in_reply_to_screen_name": "PalashRawat5",
+    "user": {
+        "id": 790043495847325697,
+        "id_str": "790043495847325697",
+        "name": "CristianF9",
+        "screen_name": "JugglerF9",
+        "location": "",
+        "description": "Sigo al Bar\u00e7a. Messi \ud83d\udc10",
+        "url": null,
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 65,
+        "friends_count": 96,
+        "listed_count": 0,
+        "created_at": "Sun Oct 23 04:13:42 +0000 2016",
+        "favourites_count": 24407,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 2337,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": null,
+        "profile_background_image_url_https": null,
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1413931650401161224/JkpOfzHI_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1413931650401161224/JkpOfzHI_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/790043495847325697/1626037762",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "es"
+}

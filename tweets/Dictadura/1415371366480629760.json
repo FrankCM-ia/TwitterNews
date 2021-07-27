@@ -1,0 +1,238 @@
+{
+    "created_at": "Wed Jul 14 18:03:24 +0000 2021",
+    "id": 1415371366480629760,
+    "id_str": "1415371366480629760",
+    "full_text": "RT @scrafty284mar: @ChumelTorres @PienteSer Venezolanos y Nicarag\u00fcenses, aprovechen la coyuntura, para salir a protestar tambi\u00e9n, m\u00e1s a\u00fan q\u2026",
+    "truncated": false,
+    "display_text_range": [
+        0,
+        140
+    ],
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "scrafty284mar",
+                "name": "Scrafty284mar \ud83c\uddf5\ud83c\uddea",
+                "id": 1295466014868738049,
+                "id_str": "1295466014868738049",
+                "indices": [
+                    3,
+                    17
+                ]
+            },
+            {
+                "screen_name": "ChumelTorres",
+                "name": "Chumel Torres",
+                "id": 120835612,
+                "id_str": "120835612",
+                "indices": [
+                    19,
+                    32
+                ]
+            },
+            {
+                "screen_name": "PienteSer",
+                "name": "Ser Piente",
+                "id": 1326237611237797891,
+                "id_str": "1326237611237797891",
+                "indices": [
+                    33,
+                    43
+                ]
+            }
+        ],
+        "urls": []
+    },
+    "metadata": {
+        "iso_language_code": "es",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 913076779006533633,
+        "id_str": "913076779006533633",
+        "name": "Araceli",
+        "screen_name": "Araceli09959493",
+        "location": "M\u00e9xico",
+        "description": "Hola!",
+        "url": null,
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 79,
+        "friends_count": 252,
+        "listed_count": 0,
+        "created_at": "Wed Sep 27 16:24:03 +0000 2017",
+        "favourites_count": 48945,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 9582,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": null,
+        "profile_background_image_url_https": null,
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1151999734057320449/5kxRnfdx_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1151999734057320449/5kxRnfdx_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/913076779006533633/1563493116",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+        "created_at": "Wed Jul 14 14:07:47 +0000 2021",
+        "id": 1415312071877664768,
+        "id_str": "1415312071877664768",
+        "full_text": "@ChumelTorres @PienteSer Venezolanos y Nicarag\u00fcenses, aprovechen la coyuntura, para salir a protestar tambi\u00e9n, m\u00e1s a\u00fan que la dictadura cubana esta recibiendo tropas venezolanas, osea, se est\u00e1n descuidando. #VzlaDespiertaComoCuba #NicaDespiertaComoCuba",
+        "truncated": false,
+        "display_text_range": [
+            25,
+            252
+        ],
+        "entities": {
+            "hashtags": [
+                {
+                    "text": "VzlaDespiertaComoCuba",
+                    "indices": [
+                        207,
+                        229
+                    ]
+                },
+                {
+                    "text": "NicaDespiertaComoCuba",
+                    "indices": [
+                        230,
+                        252
+                    ]
+                }
+            ],
+            "symbols": [],
+            "user_mentions": [
+                {
+                    "screen_name": "ChumelTorres",
+                    "name": "Chumel Torres",
+                    "id": 120835612,
+                    "id_str": "120835612",
+                    "indices": [
+                        0,
+                        13
+                    ]
+                },
+                {
+                    "screen_name": "PienteSer",
+                    "name": "Ser Piente",
+                    "id": 1326237611237797891,
+                    "id_str": "1326237611237797891",
+                    "indices": [
+                        14,
+                        24
+                    ]
+                }
+            ],
+            "urls": []
+        },
+        "metadata": {
+            "iso_language_code": "es",
+            "result_type": "recent"
+        },
+        "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+        "in_reply_to_status_id": 1415305023479762948,
+        "in_reply_to_status_id_str": "1415305023479762948",
+        "in_reply_to_user_id": 120835612,
+        "in_reply_to_user_id_str": "120835612",
+        "in_reply_to_screen_name": "ChumelTorres",
+        "user": {
+            "id": 1295466014868738049,
+            "id_str": "1295466014868738049",
+            "name": "Scrafty284mar \ud83c\uddf5\ud83c\uddea",
+            "screen_name": "scrafty284mar",
+            "location": "",
+            "description": "Sapa Inca de los suyus desunidos del Per\u00fa 1230 - 2045",
+            "url": null,
+            "entities": {
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 38,
+            "friends_count": 187,
+            "listed_count": 0,
+            "created_at": "Mon Aug 17 21:02:41 +0000 2020",
+            "favourites_count": 4217,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": false,
+            "verified": false,
+            "statuses_count": 4313,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "F5F8FA",
+            "profile_background_image_url": null,
+            "profile_background_image_url_https": null,
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1295466528280895488/s8mzlD0r_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1295466528280895488/s8mzlD0r_normal.jpg",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "has_extended_profile": true,
+            "default_profile": true,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none",
+            "withheld_in_countries": []
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 2,
+        "favorite_count": 3,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "es"
+    },
+    "is_quote_status": false,
+    "retweet_count": 2,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "es"
+}

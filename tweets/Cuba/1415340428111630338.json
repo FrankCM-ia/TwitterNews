@@ -1,0 +1,312 @@
+{
+    "created_at": "Wed Jul 14 16:00:28 +0000 2021",
+    "id": 1415340428111630338,
+    "id_str": "1415340428111630338",
+    "full_text": "RT @FDoringCasar: MUY solidario con Donald Trump acus\u00f3 de censura a Facebook y Twitter cuando le cancelaron sus cuentas\n\nPero no ha dicho n\u2026",
+    "truncated": false,
+    "display_text_range": [
+        0,
+        140
+    ],
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "FDoringCasar",
+                "name": "Federico D\u00f6ring",
+                "id": 1155520609,
+                "id_str": "1155520609",
+                "indices": [
+                    3,
+                    16
+                ]
+            }
+        ],
+        "urls": []
+    },
+    "metadata": {
+        "iso_language_code": "es",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 312712270,
+        "id_str": "312712270",
+        "name": "Fercho",
+        "screen_name": "FerchoDePar",
+        "location": "Gdl",
+        "description": "Nunca midas tu crecimiento con la regla de alguien m\u00e1s.",
+        "url": null,
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 71,
+        "friends_count": 237,
+        "listed_count": 0,
+        "created_at": "Tue Jun 07 15:09:58 +0000 2011",
+        "favourites_count": 3338,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 4024,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "C6E2EE",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1385824936/3172338arbolfeerico_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1385824936/3172338arbolfeerico_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/312712270/1596058633",
+        "profile_link_color": "1F98C7",
+        "profile_sidebar_border_color": "C6E2EE",
+        "profile_sidebar_fill_color": "DAECF4",
+        "profile_text_color": "663B12",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+        "created_at": "Wed Jul 14 02:30:00 +0000 2021",
+        "id": 1415136466351665154,
+        "id_str": "1415136466351665154",
+        "full_text": "MUY solidario con Donald Trump acus\u00f3 de censura a Facebook y Twitter cuando le cancelaron sus cuentas\n\nPero no ha dicho ni P\u00edo sobre la censura en Cuba y el sabotaje a su libertad de expresi\u00f3n\n\nHasta el Facebook Mexicano ofreci\u00f3 crear\n\nEn Cuba hace mutis\n\nVideo @elceo__ https://t.co/D76wijDBaq",
+        "truncated": false,
+        "display_text_range": [
+            0,
+            270
+        ],
+        "entities": {
+            "hashtags": [],
+            "symbols": [],
+            "user_mentions": [
+                {
+                    "screen_name": "elceo__",
+                    "name": "EL CEO",
+                    "id": 1047598652510937093,
+                    "id_str": "1047598652510937093",
+                    "indices": [
+                        262,
+                        270
+                    ]
+                }
+            ],
+            "urls": [],
+            "media": [
+                {
+                    "id": 1415046557431320577,
+                    "id_str": "1415046557431320577",
+                    "indices": [
+                        271,
+                        294
+                    ],
+                    "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1415046557431320577/pu/img/aLeHmUfaVE7cH92f.jpg",
+                    "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1415046557431320577/pu/img/aLeHmUfaVE7cH92f.jpg",
+                    "url": "https://t.co/D76wijDBaq",
+                    "display_url": "pic.twitter.com/D76wijDBaq",
+                    "expanded_url": "https://twitter.com/FDoringCasar/status/1415136466351665154/video/1",
+                    "type": "photo",
+                    "sizes": {
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "small": {
+                            "w": 640,
+                            "h": 352,
+                            "resize": "fit"
+                        },
+                        "medium": {
+                            "w": 640,
+                            "h": 352,
+                            "resize": "fit"
+                        },
+                        "large": {
+                            "w": 640,
+                            "h": 352,
+                            "resize": "fit"
+                        }
+                    }
+                }
+            ]
+        },
+        "extended_entities": {
+            "media": [
+                {
+                    "id": 1415046557431320577,
+                    "id_str": "1415046557431320577",
+                    "indices": [
+                        271,
+                        294
+                    ],
+                    "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1415046557431320577/pu/img/aLeHmUfaVE7cH92f.jpg",
+                    "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1415046557431320577/pu/img/aLeHmUfaVE7cH92f.jpg",
+                    "url": "https://t.co/D76wijDBaq",
+                    "display_url": "pic.twitter.com/D76wijDBaq",
+                    "expanded_url": "https://twitter.com/FDoringCasar/status/1415136466351665154/video/1",
+                    "type": "video",
+                    "sizes": {
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "small": {
+                            "w": 640,
+                            "h": 352,
+                            "resize": "fit"
+                        },
+                        "medium": {
+                            "w": 640,
+                            "h": 352,
+                            "resize": "fit"
+                        },
+                        "large": {
+                            "w": 640,
+                            "h": 352,
+                            "resize": "fit"
+                        }
+                    },
+                    "video_info": {
+                        "aspect_ratio": [
+                            20,
+                            11
+                        ],
+                        "duration_millis": 114240,
+                        "variants": [
+                            {
+                                "bitrate": 832000,
+                                "content_type": "video/mp4",
+                                "url": "https://video.twimg.com/ext_tw_video/1415046557431320577/pu/vid/640x352/AX6VnXSLS9N6vKki.mp4?tag=12"
+                            },
+                            {
+                                "content_type": "application/x-mpegURL",
+                                "url": "https://video.twimg.com/ext_tw_video/1415046557431320577/pu/pl/50BCs-0DNxXwWhsq.m3u8?tag=12&container=fmp4"
+                            },
+                            {
+                                "bitrate": 256000,
+                                "content_type": "video/mp4",
+                                "url": "https://video.twimg.com/ext_tw_video/1415046557431320577/pu/vid/490x270/kC5_y-SAvbMPqOZI.mp4?tag=12"
+                            }
+                        ]
+                    },
+                    "additional_media_info": {
+                        "monetizable": false
+                    }
+                }
+            ]
+        },
+        "metadata": {
+            "iso_language_code": "es",
+            "result_type": "recent"
+        },
+        "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 1155520609,
+            "id_str": "1155520609",
+            "name": "Federico D\u00f6ring",
+            "screen_name": "FDoringCasar",
+            "location": "Miguel Hidalgo, CDMX",
+            "description": "Orgullosamente Chilango y Panista. Diputado al Primer Congreso de la CDMX por Miguel Hidalgo.",
+            "url": "https://t.co/lkdSE5A99x",
+            "entities": {
+                "url": {
+                    "urls": [
+                        {
+                            "url": "https://t.co/lkdSE5A99x",
+                            "expanded_url": "https://m.facebook.com/FedericoDoringC/",
+                            "display_url": "m.facebook.com/FedericoDoring\u2026",
+                            "indices": [
+                                0,
+                                23
+                            ]
+                        }
+                    ]
+                },
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 13548,
+            "friends_count": 657,
+            "listed_count": 140,
+            "created_at": "Thu Feb 07 00:23:33 +0000 2013",
+            "favourites_count": 19042,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": true,
+            "verified": false,
+            "statuses_count": 9043,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "C0DEED",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1281960815059283969/jOUvl01w_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1281960815059283969/jOUvl01w_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/1155520609/1611246602",
+            "profile_link_color": "0084B4",
+            "profile_sidebar_border_color": "FFFFFF",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "has_extended_profile": true,
+            "default_profile": false,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none",
+            "withheld_in_countries": []
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 108,
+        "favorite_count": 222,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "es"
+    },
+    "is_quote_status": false,
+    "retweet_count": 108,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "es"
+}

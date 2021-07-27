@@ -1,0 +1,296 @@
+{
+    "created_at": "Wed Jul 14 18:02:44 +0000 2021",
+    "id": 1415371197047578627,
+    "id_str": "1415371197047578627",
+    "full_text": "tras alguna caida que otra y taal... \nx fin tenemos el 11 del @FCKrasnodar  en la champions de @ClubesOdc \n@IKePa_ \n@RuubitoFIFA \n@Puyo_Sparrow \n@jflarry19 \n@_gotialfa01_ \n@manolocortees93 \n@Cahletos19 \n@isiak47 \n@manuu01__ \n@10Aarius \n@Manu7BeticoVFO https://t.co/C2U0fa8T44",
+    "truncated": false,
+    "display_text_range": [
+        0,
+        251
+    ],
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "FCKrasnodar",
+                "name": "FCKrasnodar",
+                "id": 296175663,
+                "id_str": "296175663",
+                "indices": [
+                    62,
+                    74
+                ]
+            },
+            {
+                "screen_name": "ClubesOdc",
+                "name": "One Day Cup",
+                "id": 1368937103745294341,
+                "id_str": "1368937103745294341",
+                "indices": [
+                    95,
+                    105
+                ]
+            },
+            {
+                "screen_name": "IKePa_",
+                "name": "morenito19xiri",
+                "id": 950968482149163013,
+                "id_str": "950968482149163013",
+                "indices": [
+                    107,
+                    114
+                ]
+            },
+            {
+                "screen_name": "RuubitoFIFA",
+                "name": "\ud835\udd7d\ud835\udd9a\ud835\udd9a\ud835\udd87\ud835\udd8e\ud835\udd99\ud835\udd94 \ud83c\udff4\udb40\udc67\udb40\udc62\udb40\udc65\udb40\udc6e\udb40\udc67\udb40\udc7f(F/A)",
+                "id": 1353429012027203586,
+                "id_str": "1353429012027203586",
+                "indices": [
+                    116,
+                    128
+                ]
+            },
+            {
+                "screen_name": "Puyo_Sparrow",
+                "name": "| O2G | Puyo",
+                "id": 847123911556956160,
+                "id_str": "847123911556956160",
+                "indices": [
+                    130,
+                    143
+                ]
+            },
+            {
+                "screen_name": "jflarry19",
+                "name": "Jf",
+                "id": 1275078943377289219,
+                "id_str": "1275078943377289219",
+                "indices": [
+                    145,
+                    155
+                ]
+            },
+            {
+                "screen_name": "_gotialfa01_",
+                "name": "gotialfa01\u26a1\ufe0f\ud83e\udec1",
+                "id": 1347139127813271552,
+                "id_str": "1347139127813271552",
+                "indices": [
+                    157,
+                    170
+                ]
+            },
+            {
+                "screen_name": "manolocortees93",
+                "name": "Manolocortees93",
+                "id": 1196077882050785287,
+                "id_str": "1196077882050785287",
+                "indices": [
+                    172,
+                    188
+                ]
+            },
+            {
+                "screen_name": "Cahletos19",
+                "name": "Trinform",
+                "id": 3231619131,
+                "id_str": "3231619131",
+                "indices": [
+                    190,
+                    201
+                ]
+            },
+            {
+                "screen_name": "isiak47",
+                "name": "ISI \ud83e\udd77\ud83c\udffd",
+                "id": 2572792574,
+                "id_str": "2572792574",
+                "indices": [
+                    203,
+                    211
+                ]
+            },
+            {
+                "screen_name": "manuu01__",
+                "name": "manuuu\u270c\ud83c\udffb",
+                "id": 1293230479571902465,
+                "id_str": "1293230479571902465",
+                "indices": [
+                    213,
+                    223
+                ]
+            },
+            {
+                "screen_name": "10Aarius",
+                "name": "Aarius",
+                "id": 1082815029118930945,
+                "id_str": "1082815029118930945",
+                "indices": [
+                    225,
+                    234
+                ]
+            },
+            {
+                "screen_name": "Manu7BeticoVFO",
+                "name": "Manu7Betico",
+                "id": 3089168747,
+                "id_str": "3089168747",
+                "indices": [
+                    236,
+                    251
+                ]
+            }
+        ],
+        "urls": [],
+        "media": [
+            {
+                "id": 1415371191599128587,
+                "id_str": "1415371191599128587",
+                "indices": [
+                    252,
+                    275
+                ],
+                "media_url": "http://pbs.twimg.com/media/E6RomYyWYAsv0Mc.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/E6RomYyWYAsv0Mc.jpg",
+                "url": "https://t.co/C2U0fa8T44",
+                "display_url": "pic.twitter.com/C2U0fa8T44",
+                "expanded_url": "https://twitter.com/manuu01__/status/1415371197047578627/photo/1",
+                "type": "photo",
+                "sizes": {
+                    "small": {
+                        "w": 680,
+                        "h": 680,
+                        "resize": "fit"
+                    },
+                    "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                    },
+                    "medium": {
+                        "w": 1080,
+                        "h": 1080,
+                        "resize": "fit"
+                    },
+                    "large": {
+                        "w": 1080,
+                        "h": 1080,
+                        "resize": "fit"
+                    }
+                }
+            }
+        ]
+    },
+    "extended_entities": {
+        "media": [
+            {
+                "id": 1415371191599128587,
+                "id_str": "1415371191599128587",
+                "indices": [
+                    252,
+                    275
+                ],
+                "media_url": "http://pbs.twimg.com/media/E6RomYyWYAsv0Mc.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/E6RomYyWYAsv0Mc.jpg",
+                "url": "https://t.co/C2U0fa8T44",
+                "display_url": "pic.twitter.com/C2U0fa8T44",
+                "expanded_url": "https://twitter.com/manuu01__/status/1415371197047578627/photo/1",
+                "type": "photo",
+                "sizes": {
+                    "small": {
+                        "w": 680,
+                        "h": 680,
+                        "resize": "fit"
+                    },
+                    "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                    },
+                    "medium": {
+                        "w": 1080,
+                        "h": 1080,
+                        "resize": "fit"
+                    },
+                    "large": {
+                        "w": 1080,
+                        "h": 1080,
+                        "resize": "fit"
+                    }
+                }
+            }
+        ]
+    },
+    "metadata": {
+        "iso_language_code": "es",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 1293230479571902465,
+        "id_str": "1293230479571902465",
+        "name": "manuuu\u270c\ud83c\udffb",
+        "screen_name": "manuu01__",
+        "location": "\ud83c\uddea\ud83c\uddf8",
+        "description": "capitan del @ChiclaFCeSports\ud83d\udcaa\ud83c\udffc\ud83d\udc9b\ud83d\udda4||CARR/DC\ud83c\udfae|| EzW_SatisFyer\ud83d\udd79\ufe0f|| de grana' y del @GranadaCDeF\u2764||",
+        "url": null,
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 303,
+        "friends_count": 603,
+        "listed_count": 0,
+        "created_at": "Tue Aug 11 17:00:05 +0000 2020",
+        "favourites_count": 668,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 751,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": null,
+        "profile_background_image_url_https": null,
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1407422393778421766/E03Bpj_a_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1407422393778421766/E03Bpj_a_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1293230479571902465/1624390622",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": true,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 3,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "es"
+}

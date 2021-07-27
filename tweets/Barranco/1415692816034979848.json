@@ -1,0 +1,97 @@
+{
+    "created_at": "Thu Jul 15 15:20:44 +0000 2021",
+    "id": 1415692816034979848,
+    "id_str": "1415692816034979848",
+    "full_text": "@gatasinbotas26 Hola, soy:\nUna piscina\n\nUn barranco\n\nUn tobog\u00e1n improvisado hecho por mis hermanos \n\nNo recuero m\u00e1s jajajajajajajaja",
+    "truncated": false,
+    "display_text_range": [
+        16,
+        132
+    ],
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "gatasinbotas26",
+                "name": "Barto Corleone.",
+                "id": 942035379854639106,
+                "id_str": "942035379854639106",
+                "indices": [
+                    0,
+                    15
+                ]
+            }
+        ],
+        "urls": []
+    },
+    "metadata": {
+        "iso_language_code": "es",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "in_reply_to_status_id": 1415684653189525517,
+    "in_reply_to_status_id_str": "1415684653189525517",
+    "in_reply_to_user_id": 942035379854639106,
+    "in_reply_to_user_id_str": "942035379854639106",
+    "in_reply_to_screen_name": "gatasinbotas26",
+    "user": {
+        "id": 1357701321697165315,
+        "id_str": "1357701321697165315",
+        "name": "Sneider Alejandro Gil Parra",
+        "screen_name": "SneiderAlejan14",
+        "location": "Medell\u00edn, Colombia",
+        "description": "Soy ingeniero mec\u00e1nico, con magister, graduado de la Nacho, soy extrovertido, inteligente, carism\u00e1tico, mel\u00f3mano y me encanta decir groser\u00edas",
+        "url": null,
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 309,
+        "friends_count": 2743,
+        "listed_count": 0,
+        "created_at": "Fri Feb 05 14:43:25 +0000 2021",
+        "favourites_count": 22384,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 8276,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": null,
+        "profile_background_image_url_https": null,
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1378870423597768708/09eR_S-7_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1378870423597768708/09eR_S-7_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1357701321697165315/1617081374",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": true,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "es"
+}

@@ -1,0 +1,264 @@
+{
+    "created_at": "Thu Jul 15 16:51:32 +0000 2021",
+    "id": 1415715666724855808,
+    "id_str": "1415715666724855808",
+    "full_text": "Al mismo barranco que Ivan el Redondo.\n  Aunwue cumplieran todos con su funci\u00f3n y rindieran toda la jornada por la que cobran, no hay econom\u00eda suficientemente musculosa para que cada aut\u00f3nomo pague el sueldo, los gastos y la jubilaci\u00f3n de un funcionario medio. https://t.co/9zR0w4VJUr",
+    "truncated": false,
+    "display_text_range": [
+        0,
+        260
+    ],
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+            {
+                "url": "https://t.co/9zR0w4VJUr",
+                "expanded_url": "https://twitter.com/pepeluspain/status/1415707934521237506",
+                "display_url": "twitter.com/pepeluspain/st\u2026",
+                "indices": [
+                    261,
+                    284
+                ]
+            }
+        ]
+    },
+    "metadata": {
+        "iso_language_code": "es",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 875752330272141312,
+        "id_str": "875752330272141312",
+        "name": "PericoGandia",
+        "screen_name": "gandia_perico",
+        "location": "",
+        "description": "Con R.Valencia,su lengua y costumbres.\nSi estar en un partido pol\u00edtico es perder personalidad pues..sin afiliarme\nSigo al que me siga.\nAHORA:#SiguemeYTeSigoVOX",
+        "url": null,
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 744,
+        "friends_count": 989,
+        "listed_count": 2,
+        "created_at": "Fri Jun 16 16:30:01 +0000 2017",
+        "favourites_count": 23339,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 25838,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": null,
+        "profile_background_image_url_https": null,
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1290704204714082306/J8dC2lJG_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1290704204714082306/J8dC2lJG_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/875752330272141312/1519562428",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": true,
+    "quoted_status_id": 1415707934521237506,
+    "quoted_status_id_str": "1415707934521237506",
+    "quoted_status": {
+        "created_at": "Thu Jul 15 16:20:48 +0000 2021",
+        "id": 1415707934521237506,
+        "id_str": "1415707934521237506",
+        "full_text": "No hay pa\u00eds que aguante esta barbaridad https://t.co/t1N58WUzpI",
+        "truncated": false,
+        "display_text_range": [
+            0,
+            39
+        ],
+        "entities": {
+            "hashtags": [],
+            "symbols": [],
+            "user_mentions": [],
+            "urls": [],
+            "media": [
+                {
+                    "id": 1415707784289599497,
+                    "id_str": "1415707784289599497",
+                    "indices": [
+                        40,
+                        63
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/E6WauqRWQAk1zth.png",
+                    "media_url_https": "https://pbs.twimg.com/media/E6WauqRWQAk1zth.png",
+                    "url": "https://t.co/t1N58WUzpI",
+                    "display_url": "pic.twitter.com/t1N58WUzpI",
+                    "expanded_url": "https://twitter.com/pepeluspain/status/1415707934521237506/photo/1",
+                    "type": "photo",
+                    "sizes": {
+                        "small": {
+                            "w": 637,
+                            "h": 680,
+                            "resize": "fit"
+                        },
+                        "large": {
+                            "w": 843,
+                            "h": 900,
+                            "resize": "fit"
+                        },
+                        "medium": {
+                            "w": 843,
+                            "h": 900,
+                            "resize": "fit"
+                        },
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        }
+                    }
+                }
+            ]
+        },
+        "extended_entities": {
+            "media": [
+                {
+                    "id": 1415707784289599497,
+                    "id_str": "1415707784289599497",
+                    "indices": [
+                        40,
+                        63
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/E6WauqRWQAk1zth.png",
+                    "media_url_https": "https://pbs.twimg.com/media/E6WauqRWQAk1zth.png",
+                    "url": "https://t.co/t1N58WUzpI",
+                    "display_url": "pic.twitter.com/t1N58WUzpI",
+                    "expanded_url": "https://twitter.com/pepeluspain/status/1415707934521237506/photo/1",
+                    "type": "photo",
+                    "sizes": {
+                        "small": {
+                            "w": 637,
+                            "h": 680,
+                            "resize": "fit"
+                        },
+                        "large": {
+                            "w": 843,
+                            "h": 900,
+                            "resize": "fit"
+                        },
+                        "medium": {
+                            "w": 843,
+                            "h": 900,
+                            "resize": "fit"
+                        },
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        }
+                    }
+                }
+            ]
+        },
+        "metadata": {
+            "iso_language_code": "es",
+            "result_type": "recent"
+        },
+        "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 814686318,
+            "id_str": "814686318",
+            "name": "PEPE, en Espa\u00f1ol",
+            "screen_name": "pepeluspain",
+            "location": "Espa\u00f1a",
+            "description": "RT, no es aprobaci\u00f3n . Patriota, liberal , ANTISOCIALISMO, COMUNISMO , SEPARATISTAS Y CHIRINGUITOS MANTENIDOS POR EL ESTADO.   --POR FAVOR, NO PRIVADOS -",
+            "url": null,
+            "entities": {
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 9916,
+            "friends_count": 9625,
+            "listed_count": 10,
+            "created_at": "Mon Sep 10 07:36:43 +0000 2012",
+            "favourites_count": 146899,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": false,
+            "verified": false,
+            "statuses_count": 142580,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "000000",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1243219968323395586/Xe_jvH40_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1243219968323395586/Xe_jvH40_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/814686318/1626278073",
+            "profile_link_color": "1B95E0",
+            "profile_sidebar_border_color": "000000",
+            "profile_sidebar_fill_color": "000000",
+            "profile_text_color": "000000",
+            "profile_use_background_image": false,
+            "has_extended_profile": false,
+            "default_profile": false,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none",
+            "withheld_in_countries": []
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 13,
+        "favorite_count": 25,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "es"
+    },
+    "retweet_count": 0,
+    "favorite_count": 1,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "es"
+}

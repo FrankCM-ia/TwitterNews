@@ -1,0 +1,97 @@
+{
+    "created_at": "Thu Jul 15 16:00:07 +0000 2021",
+    "id": 1415702725933867008,
+    "id_str": "1415702725933867008",
+    "full_text": "@Soy_lagordaesa Pero de un barranco \ud83d\ude02",
+    "truncated": false,
+    "display_text_range": [
+        16,
+        37
+    ],
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "Soy_lagordaesa",
+                "name": "Sigo siendo *La gorda esa*",
+                "id": 1354436840179322883,
+                "id_str": "1354436840179322883",
+                "indices": [
+                    0,
+                    15
+                ]
+            }
+        ],
+        "urls": []
+    },
+    "metadata": {
+        "iso_language_code": "es",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "in_reply_to_status_id": 1415700102845505544,
+    "in_reply_to_status_id_str": "1415700102845505544",
+    "in_reply_to_user_id": 1354436840179322883,
+    "in_reply_to_user_id_str": "1354436840179322883",
+    "in_reply_to_screen_name": "Soy_lagordaesa",
+    "user": {
+        "id": 1247415909058318336,
+        "id_str": "1247415909058318336",
+        "name": "Mr. Farenheit",
+        "screen_name": "shazam_says",
+        "location": "In my imagination ",
+        "description": "\ud83d\ude42 \ud83d\udcad \ud83c\udf43\u2728",
+        "url": null,
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 66,
+        "friends_count": 777,
+        "listed_count": 0,
+        "created_at": "Tue Apr 07 06:48:32 +0000 2020",
+        "favourites_count": 15911,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 8486,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": null,
+        "profile_background_image_url_https": null,
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1353148015163408389/4fRQ-OZD_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1353148015163408389/4fRQ-OZD_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1247415909058318336/1586947890",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": true,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "es"
+}

@@ -1,0 +1,195 @@
+{
+    "created_at": "Wed Jul 14 17:03:24 +0000 2021",
+    "id": 1415356267032371209,
+    "id_str": "1415356267032371209",
+    "full_text": "RT @Zona_Blaugrana: Lo malo de los audios de Florentino es que son de hace bastante tiempo, una pena no poder o\u00edr de su propia voz de c\u00f3mo\u2026",
+    "truncated": false,
+    "display_text_range": [
+        0,
+        139
+    ],
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "Zona_Blaugrana",
+                "name": "Zona_Blaugrana \ud83c\udde6\ud83c\uddf7\ud83c\udfc6\ud83d\udc10",
+                "id": 826108883177500678,
+                "id_str": "826108883177500678",
+                "indices": [
+                    3,
+                    18
+                ]
+            }
+        ],
+        "urls": []
+    },
+    "metadata": {
+        "iso_language_code": "es",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 1414715696198602761,
+        "id_str": "1414715696198602761",
+        "name": "Abraham Mendoza",
+        "screen_name": "Abraham60786370",
+        "location": "",
+        "description": "Ciencias de la comunicacion\nCDMX\nBarcelona",
+        "url": null,
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 4,
+        "friends_count": 207,
+        "listed_count": 0,
+        "created_at": "Mon Jul 12 22:38:11 +0000 2021",
+        "favourites_count": 212,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 195,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": null,
+        "profile_background_image_url_https": null,
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1414715811504271361/-0FeL5K8_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1414715811504271361/-0FeL5K8_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": true,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+        "created_at": "Wed Jul 14 16:38:58 +0000 2021",
+        "id": 1415350116760891393,
+        "id_str": "1415350116760891393",
+        "full_text": "Lo malo de los audios de Florentino es que son de hace bastante tiempo, una pena no poder o\u00edr de su propia voz de c\u00f3mo \"consiguieron\" las \u00faltimas Champions, aunque las im\u00e1genes de los esc\u00e1ndalos arbitrales continuados no dejan lugar a la duda.",
+        "truncated": false,
+        "display_text_range": [
+            0,
+            243
+        ],
+        "entities": {
+            "hashtags": [],
+            "symbols": [],
+            "user_mentions": [],
+            "urls": []
+        },
+        "metadata": {
+            "iso_language_code": "es",
+            "result_type": "recent"
+        },
+        "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 826108883177500678,
+            "id_str": "826108883177500678",
+            "name": "Zona_Blaugrana \ud83c\udde6\ud83c\uddf7\ud83c\udfc6\ud83d\udc10",
+            "screen_name": "Zona_Blaugrana",
+            "location": "",
+            "description": "F\u00fatbol Club Barcelona | @ZB_Media_01 | @zb_media_10",
+            "url": "https://t.co/FB2YW8fQD5",
+            "entities": {
+                "url": {
+                    "urls": [
+                        {
+                            "url": "https://t.co/FB2YW8fQD5",
+                            "expanded_url": "https://www.instagram.com/zona_blaugrana_",
+                            "display_url": "instagram.com/zona_blaugrana_",
+                            "indices": [
+                                0,
+                                23
+                            ]
+                        }
+                    ]
+                },
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 46802,
+            "friends_count": 485,
+            "listed_count": 238,
+            "created_at": "Mon Jan 30 16:44:40 +0000 2017",
+            "favourites_count": 13323,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": false,
+            "verified": false,
+            "statuses_count": 9027,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "000000",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1011398488326844416/1dNh3FQs_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1011398488326844416/1dNh3FQs_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/826108883177500678/1490364145",
+            "profile_link_color": "E81C4F",
+            "profile_sidebar_border_color": "000000",
+            "profile_sidebar_fill_color": "000000",
+            "profile_text_color": "000000",
+            "profile_use_background_image": false,
+            "has_extended_profile": false,
+            "default_profile": false,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none",
+            "withheld_in_countries": []
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 35,
+        "favorite_count": 436,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "es"
+    },
+    "is_quote_status": false,
+    "retweet_count": 35,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "es"
+}

@@ -1,0 +1,264 @@
+{
+    "created_at": "Wed Jul 14 18:07:24 +0000 2021",
+    "id": 1415372370815107075,
+    "id_str": "1415372370815107075",
+    "full_text": "RT @colombianodemoc: @d_valens @NicolasGomezzA @LauraMedinaRuiz @ClaudiaLopez Fidel Castro dijo en la plaza de la revoluci\u00f3n en 1962 que Cu\u2026",
+    "truncated": false,
+    "display_text_range": [
+        0,
+        140
+    ],
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "colombianodemoc",
+                "name": "dem\u00f3crata",
+                "id": 118518369,
+                "id_str": "118518369",
+                "indices": [
+                    3,
+                    19
+                ]
+            },
+            {
+                "screen_name": "d_valens",
+                "name": "Diego Valenzuela B",
+                "id": 173587083,
+                "id_str": "173587083",
+                "indices": [
+                    21,
+                    30
+                ]
+            },
+            {
+                "screen_name": "NicolasGomezzA",
+                "name": "Nicol\u00e1s G\u00f3mez Arenas",
+                "id": 1253082112493830145,
+                "id_str": "1253082112493830145",
+                "indices": [
+                    31,
+                    46
+                ]
+            },
+            {
+                "screen_name": "LauraMedinaRuiz",
+                "name": "Laura Medina Ruiz",
+                "id": 154702186,
+                "id_str": "154702186",
+                "indices": [
+                    47,
+                    63
+                ]
+            },
+            {
+                "screen_name": "ClaudiaLopez",
+                "name": "Claudia L\u00f3pez \ud83d\udc4d",
+                "id": 137908875,
+                "id_str": "137908875",
+                "indices": [
+                    64,
+                    77
+                ]
+            }
+        ],
+        "urls": []
+    },
+    "metadata": {
+        "iso_language_code": "es",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 565704748,
+        "id_str": "565704748",
+        "name": "Claudia Calvo Ojeda",
+        "screen_name": "claudiaicalvo",
+        "location": "",
+        "description": "",
+        "url": null,
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 12,
+        "friends_count": 89,
+        "listed_count": 0,
+        "created_at": "Sat Apr 28 19:59:13 +0000 2012",
+        "favourites_count": 953,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 308,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1250269224561344512/ZSac7zHm_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1250269224561344512/ZSac7zHm_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/565704748/1586922389",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+        "created_at": "Wed Jul 14 12:26:43 +0000 2021",
+        "id": 1415286637521670146,
+        "id_str": "1415286637521670146",
+        "full_text": "@d_valens @NicolasGomezzA @LauraMedinaRuiz @ClaudiaLopez Fidel Castro dijo en la plaza de la revoluci\u00f3n en 1962 que Cuba en 10 a\u00f1os ser\u00eda m\u00e1s desarrollada que cualquier pa\u00eds europeo , pero parece que fueron 10 luz. Ahora Cuba es m\u00e1s atrasada que en 1959 cuando Fidel Castro tom\u00f3 el poder, Cuba estaba a la altura de Uruguay en 1959",
+        "truncated": false,
+        "display_text_range": [
+            57,
+            331
+        ],
+        "entities": {
+            "hashtags": [],
+            "symbols": [],
+            "user_mentions": [
+                {
+                    "screen_name": "d_valens",
+                    "name": "Diego Valenzuela B",
+                    "id": 173587083,
+                    "id_str": "173587083",
+                    "indices": [
+                        0,
+                        9
+                    ]
+                },
+                {
+                    "screen_name": "NicolasGomezzA",
+                    "name": "Nicol\u00e1s G\u00f3mez Arenas",
+                    "id": 1253082112493830145,
+                    "id_str": "1253082112493830145",
+                    "indices": [
+                        10,
+                        25
+                    ]
+                },
+                {
+                    "screen_name": "LauraMedinaRuiz",
+                    "name": "Laura Medina Ruiz",
+                    "id": 154702186,
+                    "id_str": "154702186",
+                    "indices": [
+                        26,
+                        42
+                    ]
+                },
+                {
+                    "screen_name": "ClaudiaLopez",
+                    "name": "Claudia L\u00f3pez \ud83d\udc4d",
+                    "id": 137908875,
+                    "id_str": "137908875",
+                    "indices": [
+                        43,
+                        56
+                    ]
+                }
+            ],
+            "urls": []
+        },
+        "metadata": {
+            "iso_language_code": "es",
+            "result_type": "recent"
+        },
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "in_reply_to_status_id": 1415147505856270337,
+        "in_reply_to_status_id_str": "1415147505856270337",
+        "in_reply_to_user_id": 173587083,
+        "in_reply_to_user_id_str": "173587083",
+        "in_reply_to_screen_name": "d_valens",
+        "user": {
+            "id": 118518369,
+            "id_str": "118518369",
+            "name": "dem\u00f3crata",
+            "screen_name": "colombianodemoc",
+            "location": "",
+            "description": "hacer lo que se quiere y querer lo que se hace es la definici\u00f3n de felicidad dem\u00f3crata",
+            "url": null,
+            "entities": {
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 619,
+            "friends_count": 2197,
+            "listed_count": 2,
+            "created_at": "Sun Feb 28 23:08:49 +0000 2010",
+            "favourites_count": 7601,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": true,
+            "verified": false,
+            "statuses_count": 10673,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "C0DEED",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1295157974315544577/HmN0kqJg_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1295157974315544577/HmN0kqJg_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/118518369/1364251572",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "has_extended_profile": true,
+            "default_profile": true,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none",
+            "withheld_in_countries": []
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 3,
+        "favorite_count": 10,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "es"
+    },
+    "is_quote_status": false,
+    "retweet_count": 3,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "es"
+}

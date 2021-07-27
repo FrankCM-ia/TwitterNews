@@ -1,0 +1,203 @@
+{
+    "created_at": "Wed Jul 14 18:02:59 +0000 2021",
+    "id": 1415371259236524035,
+    "id_str": "1415371259236524035",
+    "full_text": "RT @PalomaValenciaL: La diferencia entre las marchas de Cuba y las de Colombia no son las consignas; son las realidades:\n\nEn Cuba no hay de\u2026",
+    "truncated": false,
+    "display_text_range": [
+        0,
+        140
+    ],
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "PalomaValenciaL",
+                "name": "Paloma Valencia L",
+                "id": 149281495,
+                "id_str": "149281495",
+                "indices": [
+                    3,
+                    19
+                ]
+            }
+        ],
+        "urls": []
+    },
+    "metadata": {
+        "iso_language_code": "es",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 2752196278,
+        "id_str": "2752196278",
+        "name": "Felix Paez",
+        "screen_name": "felixpaezd",
+        "location": "",
+        "description": "",
+        "url": null,
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 60,
+        "friends_count": 123,
+        "listed_count": 0,
+        "created_at": "Wed Aug 27 01:05:58 +0000 2014",
+        "favourites_count": 3418,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 17244,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/521489097559642112/H7bHdgu-_normal.jpeg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/521489097559642112/H7bHdgu-_normal.jpeg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+        "created_at": "Tue Jul 13 16:59:52 +0000 2021",
+        "id": 1414992988141498372,
+        "id_str": "1414992988141498372",
+        "full_text": "La diferencia entre las marchas de Cuba y las de Colombia no son las consignas; son las realidades:\n\nEn Cuba no hay democracia en Colombia s\u00ed\nEn Cuba hay dictadura en Colombia no \nEn Cuba hay opresi\u00f3n y violencia de Estado en Colombia no \n#TrabajooBloqueos",
+        "truncated": false,
+        "display_text_range": [
+            0,
+            256
+        ],
+        "entities": {
+            "hashtags": [
+                {
+                    "text": "TrabajooBloqueos",
+                    "indices": [
+                        239,
+                        256
+                    ]
+                }
+            ],
+            "symbols": [],
+            "user_mentions": [],
+            "urls": []
+        },
+        "metadata": {
+            "iso_language_code": "es",
+            "result_type": "recent"
+        },
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 149281495,
+            "id_str": "149281495",
+            "name": "Paloma Valencia L",
+            "screen_name": "PalomaValenciaL",
+            "location": "www.laotraesquina.co",
+            "description": "Mam\u00e1 de Amapola, abogada, fil\u00f3sofa, escritora, senadora de Colombia por el Centro Democr\u00e1tico | Comisi\u00f3n I | IG: @palomasenadora Fb: @PalomaValenciaL",
+            "url": "https://t.co/MhrrNoAOOY",
+            "entities": {
+                "url": {
+                    "urls": [
+                        {
+                            "url": "https://t.co/MhrrNoAOOY",
+                            "expanded_url": "http://palomavalencia.blogspot.com",
+                            "display_url": "palomavalencia.blogspot.com",
+                            "indices": [
+                                0,
+                                23
+                            ]
+                        }
+                    ]
+                },
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 394645,
+            "friends_count": 899,
+            "listed_count": 625,
+            "created_at": "Fri May 28 22:14:20 +0000 2010",
+            "favourites_count": 978,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": false,
+            "verified": true,
+            "statuses_count": 35885,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "4D6B9E",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme18/bg.gif",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme18/bg.gif",
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1288277704807243778/LGxZh5TR_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1288277704807243778/LGxZh5TR_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/149281495/1601649190",
+            "profile_link_color": "038543",
+            "profile_sidebar_border_color": "EEEEEE",
+            "profile_sidebar_fill_color": "F6F6F6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "has_extended_profile": true,
+            "default_profile": false,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none",
+            "withheld_in_countries": []
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 1001,
+        "favorite_count": 2494,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "es"
+    },
+    "is_quote_status": false,
+    "retweet_count": 1001,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "es"
+}

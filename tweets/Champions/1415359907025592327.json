@@ -1,0 +1,106 @@
+{
+    "created_at": "Wed Jul 14 17:17:52 +0000 2021",
+    "id": 1415359907025592327,
+    "id_str": "1415359907025592327",
+    "full_text": "@KapFcb @LaEraGuardiola Aun asi no ganara  champions",
+    "truncated": false,
+    "display_text_range": [
+        24,
+        52
+    ],
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "KapFcb",
+                "name": "\u26a1KAP",
+                "id": 1191939756109815809,
+                "id_str": "1191939756109815809",
+                "indices": [
+                    0,
+                    7
+                ]
+            },
+            {
+                "screen_name": "LaEraGuardiola",
+                "name": "~FCB~",
+                "id": 899398001483010049,
+                "id_str": "899398001483010049",
+                "indices": [
+                    8,
+                    23
+                ]
+            }
+        ],
+        "urls": []
+    },
+    "metadata": {
+        "iso_language_code": "es",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "in_reply_to_status_id": 1415358221322276870,
+    "in_reply_to_status_id_str": "1415358221322276870",
+    "in_reply_to_user_id": 1191939756109815809,
+    "in_reply_to_user_id_str": "1191939756109815809",
+    "in_reply_to_screen_name": "KapFcb",
+    "user": {
+        "id": 1411745970610704385,
+        "id_str": "1411745970610704385",
+        "name": "Juanka",
+        "screen_name": "Juanka99139046",
+        "location": "",
+        "description": "cule desde shiquito",
+        "url": null,
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 11,
+        "friends_count": 190,
+        "listed_count": 0,
+        "created_at": "Sun Jul 04 17:57:44 +0000 2021",
+        "favourites_count": 240,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 511,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": null,
+        "profile_background_image_url_https": null,
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1414261380144828424/gpOveaxh_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1414261380144828424/gpOveaxh_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": true,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "es"
+}

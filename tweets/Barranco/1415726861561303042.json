@@ -1,0 +1,232 @@
+{
+    "created_at": "Thu Jul 15 17:36:01 +0000 2021",
+    "id": 1415726861561303042,
+    "id_str": "1415726861561303042",
+    "full_text": "RT @EstoyAqu4: @CarlosLoret De que baj\u00edsima ralea procedes @CarlosLoret; en todas las noticias aparecen las declaraciones de Laura Barranco\u2026",
+    "truncated": false,
+    "display_text_range": [
+        0,
+        140
+    ],
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "EstoyAqu4",
+                "name": "Estoy Aqu\u00ed",
+                "id": 1151655119781617665,
+                "id_str": "1151655119781617665",
+                "indices": [
+                    3,
+                    13
+                ]
+            },
+            {
+                "screen_name": "CarlosLoret",
+                "name": "Carlos Loret de Mola",
+                "id": 68844197,
+                "id_str": "68844197",
+                "indices": [
+                    15,
+                    27
+                ]
+            },
+            {
+                "screen_name": "CarlosLoret",
+                "name": "Carlos Loret de Mola",
+                "id": 68844197,
+                "id_str": "68844197",
+                "indices": [
+                    59,
+                    71
+                ]
+            }
+        ],
+        "urls": []
+    },
+    "metadata": {
+        "iso_language_code": "es",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 2456831156,
+        "id_str": "2456831156",
+        "name": "Dario Daniel Avila",
+        "screen_name": "aviladaniel932",
+        "location": "Columbus Ga",
+        "description": "\u2606Dios es primero\u2606Ing Automotriz\u2606el futbol una de mis pasiones\u2606Azulcrema d corazon\u2606Mexicanisimo",
+        "url": null,
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 52,
+        "friends_count": 251,
+        "listed_count": 0,
+        "created_at": "Mon Apr 21 16:24:41 +0000 2014",
+        "favourites_count": 5563,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 6494,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/565128783326609408/S3NJ9w-f_normal.jpeg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/565128783326609408/S3NJ9w-f_normal.jpeg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2456831156/1421093821",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": true,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+        "created_at": "Thu Jul 15 15:13:22 +0000 2021",
+        "id": 1415690961980739587,
+        "id_str": "1415690961980739587",
+        "full_text": "@CarlosLoret De que baj\u00edsima ralea procedes @CarlosLoret; en todas las noticias aparecen las declaraciones de Laura Barranco y J. Manuel Maga\u00f1a afirmando que te advirtieron acerca de las violaciones que comet\u00edas. \u00bfA qui\u00e9n quieres enga\u00f1ar? A t\u00ed se \"te cay\u00f3 el teatrito\"\n#LordMontajesReincide",
+        "truncated": false,
+        "display_text_range": [
+            13,
+            290
+        ],
+        "entities": {
+            "hashtags": [
+                {
+                    "text": "LordMontajesReincide",
+                    "indices": [
+                        269,
+                        290
+                    ]
+                }
+            ],
+            "symbols": [],
+            "user_mentions": [
+                {
+                    "screen_name": "CarlosLoret",
+                    "name": "Carlos Loret de Mola",
+                    "id": 68844197,
+                    "id_str": "68844197",
+                    "indices": [
+                        0,
+                        12
+                    ]
+                },
+                {
+                    "screen_name": "CarlosLoret",
+                    "name": "Carlos Loret de Mola",
+                    "id": 68844197,
+                    "id_str": "68844197",
+                    "indices": [
+                        44,
+                        56
+                    ]
+                }
+            ],
+            "urls": []
+        },
+        "metadata": {
+            "iso_language_code": "es",
+            "result_type": "recent"
+        },
+        "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+        "in_reply_to_status_id": 1415461566087061512,
+        "in_reply_to_status_id_str": "1415461566087061512",
+        "in_reply_to_user_id": 68844197,
+        "in_reply_to_user_id_str": "68844197",
+        "in_reply_to_screen_name": "CarlosLoret",
+        "user": {
+            "id": 1151655119781617665,
+            "id_str": "1151655119781617665",
+            "name": "Estoy Aqu\u00ed",
+            "screen_name": "EstoyAqu4",
+            "location": "Distrito Federal, M\u00e9xico",
+            "description": "Amante de los Beatles",
+            "url": null,
+            "entities": {
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 1245,
+            "friends_count": 809,
+            "listed_count": 1,
+            "created_at": "Thu Jul 18 00:49:12 +0000 2019",
+            "favourites_count": 87304,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": true,
+            "verified": false,
+            "statuses_count": 19871,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "F5F8FA",
+            "profile_background_image_url": null,
+            "profile_background_image_url_https": null,
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1151961770396803072/W5I9iPDC_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1151961770396803072/W5I9iPDC_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/1151655119781617665/1563484062",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "has_extended_profile": false,
+            "default_profile": true,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none",
+            "withheld_in_countries": []
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 10,
+        "favorite_count": 22,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "es"
+    },
+    "is_quote_status": false,
+    "retweet_count": 10,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "es"
+}

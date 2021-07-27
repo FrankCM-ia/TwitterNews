@@ -1,0 +1,110 @@
+{
+    "created_at": "Thu Jul 15 20:18:25 +0000 2021",
+    "id": 1415767731606011904,
+    "id_str": "1415767731606011904",
+    "full_text": "\u00a1Disfruta del mejor barranquismo con esta experiencia!\n\nEl Barranco de Anna comienza con un rapel con salto o salto a la poza, nos relajaremos nadando por las aguas de Anna hasta llegar a un tobog\u00e1n ... https://t.co/3DEq6FMaVd",
+    "truncated": false,
+    "display_text_range": [
+        0,
+        226
+    ],
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+            {
+                "url": "https://t.co/3DEq6FMaVd",
+                "expanded_url": "http://frayescoba.bookingfax.com/experiencias/1736",
+                "display_url": "frayescoba.bookingfax.com/experiencias/1\u2026",
+                "indices": [
+                    203,
+                    226
+                ]
+            }
+        ]
+    },
+    "metadata": {
+        "iso_language_code": "es",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"http://bookingfax.com/\" rel=\"nofollow\">Ofertas de Bookingfax</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 1134176058,
+        "id_str": "1134176058",
+        "name": "Fray Escoba Viajes",
+        "screen_name": "frayescobaviaje",
+        "location": "Madrid",
+        "description": "",
+        "url": "http://t.co/ufFNeyzu",
+        "entities": {
+            "url": {
+                "urls": [
+                    {
+                        "url": "http://t.co/ufFNeyzu",
+                        "expanded_url": "http://www.frayescoba.com",
+                        "display_url": "frayescoba.com",
+                        "indices": [
+                            0,
+                            20
+                        ]
+                    }
+                ]
+            },
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 39,
+        "friends_count": 60,
+        "listed_count": 7,
+        "created_at": "Wed Jan 30 14:09:28 +0000 2013",
+        "favourites_count": 11,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 5003,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/3244521278/199ead321fa08e9ec5fb87958b27376a_normal.jpeg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/3244521278/199ead321fa08e9ec5fb87958b27376a_normal.jpeg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1134176058/1360691246",
+        "profile_link_color": "19CF86",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "profile_use_background_image": false,
+        "has_extended_profile": false,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "es"
+}

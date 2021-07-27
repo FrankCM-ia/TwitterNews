@@ -1,0 +1,290 @@
+{
+    "created_at": "Wed Jul 14 17:57:37 +0000 2021",
+    "id": 1415369909840777220,
+    "id_str": "1415369909840777220",
+    "full_text": "RT @CaudalGrupo: \u201cNo se trata de defender solo la justicia, que es un derecho nuestro. Se trata de defender la soberan\u00eda del pa\u00eds, se trata\u2026",
+    "truncated": false,
+    "display_text_range": [
+        0,
+        140
+    ],
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "CaudalGrupo",
+                "name": "Grupo Caudal",
+                "id": 1101113461629693952,
+                "id_str": "1101113461629693952",
+                "indices": [
+                    3,
+                    15
+                ]
+            }
+        ],
+        "urls": []
+    },
+    "metadata": {
+        "iso_language_code": "es",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 1263202147086340096,
+        "id_str": "1263202147086340096",
+        "name": "JuanCarlos",
+        "screen_name": "JC_Almenares",
+        "location": "",
+        "description": "Viva Cuba Libre Compay",
+        "url": null,
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 3200,
+        "friends_count": 5041,
+        "listed_count": 2,
+        "created_at": "Wed May 20 20:18:16 +0000 2020",
+        "favourites_count": 30922,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 31577,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": null,
+        "profile_background_image_url_https": null,
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1263203701189234696/TRKY16ek_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1263203701189234696/TRKY16ek_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1263202147086340096/1590007212",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": true,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+        "created_at": "Wed Jul 14 17:32:21 +0000 2021",
+        "id": 1415363550671949827,
+        "id_str": "1415363550671949827",
+        "full_text": "\u201cNo se trata de defender solo la justicia, que es un derecho nuestro. Se trata de defender la soberan\u00eda del pa\u00eds, se trata de demostrar que nosotros tenemos derecho a gobernarnos y que nadie tiene que trazarnos pautas desde afuera\u201d. - Fidel Castro #SomosContinuidad #Cuba https://t.co/oJbJGC0jGM",
+        "truncated": false,
+        "display_text_range": [
+            0,
+            271
+        ],
+        "entities": {
+            "hashtags": [
+                {
+                    "text": "SomosContinuidad",
+                    "indices": [
+                        248,
+                        265
+                    ]
+                },
+                {
+                    "text": "Cuba",
+                    "indices": [
+                        266,
+                        271
+                    ]
+                }
+            ],
+            "symbols": [],
+            "user_mentions": [],
+            "urls": [],
+            "media": [
+                {
+                    "id": 1415363292621680640,
+                    "id_str": "1415363292621680640",
+                    "indices": [
+                        272,
+                        295
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/E6RhamzXsAA5Qi5.png",
+                    "media_url_https": "https://pbs.twimg.com/media/E6RhamzXsAA5Qi5.png",
+                    "url": "https://t.co/oJbJGC0jGM",
+                    "display_url": "pic.twitter.com/oJbJGC0jGM",
+                    "expanded_url": "https://twitter.com/CaudalGrupo/status/1415363550671949827/photo/1",
+                    "type": "photo",
+                    "sizes": {
+                        "large": {
+                            "w": 702,
+                            "h": 387,
+                            "resize": "fit"
+                        },
+                        "medium": {
+                            "w": 702,
+                            "h": 387,
+                            "resize": "fit"
+                        },
+                        "small": {
+                            "w": 680,
+                            "h": 375,
+                            "resize": "fit"
+                        },
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        }
+                    }
+                }
+            ]
+        },
+        "extended_entities": {
+            "media": [
+                {
+                    "id": 1415363292621680640,
+                    "id_str": "1415363292621680640",
+                    "indices": [
+                        272,
+                        295
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/E6RhamzXsAA5Qi5.png",
+                    "media_url_https": "https://pbs.twimg.com/media/E6RhamzXsAA5Qi5.png",
+                    "url": "https://t.co/oJbJGC0jGM",
+                    "display_url": "pic.twitter.com/oJbJGC0jGM",
+                    "expanded_url": "https://twitter.com/CaudalGrupo/status/1415363550671949827/photo/1",
+                    "type": "photo",
+                    "sizes": {
+                        "large": {
+                            "w": 702,
+                            "h": 387,
+                            "resize": "fit"
+                        },
+                        "medium": {
+                            "w": 702,
+                            "h": 387,
+                            "resize": "fit"
+                        },
+                        "small": {
+                            "w": 680,
+                            "h": 375,
+                            "resize": "fit"
+                        },
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        }
+                    }
+                }
+            ]
+        },
+        "metadata": {
+            "iso_language_code": "es",
+            "result_type": "recent"
+        },
+        "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 1101113461629693952,
+            "id_str": "1101113461629693952",
+            "name": "Grupo Caudal",
+            "screen_name": "CaudalGrupo",
+            "location": "Cuba",
+            "description": "Nuestra misi\u00f3n es representar, orientar y garantizar la colaboraci\u00f3n, seguridad y confianza de las empresas prestatarias de seguros y servicios financieros.",
+            "url": "https://t.co/Guil85xeNQ",
+            "entities": {
+                "url": {
+                    "urls": [
+                        {
+                            "url": "https://t.co/Guil85xeNQ",
+                            "expanded_url": "http://www.caudal.cu/",
+                            "display_url": "caudal.cu",
+                            "indices": [
+                                0,
+                                23
+                            ]
+                        }
+                    ]
+                },
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 624,
+            "friends_count": 554,
+            "listed_count": 0,
+            "created_at": "Thu Feb 28 13:34:41 +0000 2019",
+            "favourites_count": 14842,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": false,
+            "verified": false,
+            "statuses_count": 8917,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "F5F8FA",
+            "profile_background_image_url": null,
+            "profile_background_image_url_https": null,
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1321088522128904193/hQFSFvp3_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1321088522128904193/hQFSFvp3_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/1101113461629693952/1619534674",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "has_extended_profile": true,
+            "default_profile": true,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none",
+            "withheld_in_countries": []
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 1,
+        "favorite_count": 4,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "es"
+    },
+    "is_quote_status": false,
+    "retweet_count": 1,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "es"
+}

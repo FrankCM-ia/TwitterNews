@@ -1,0 +1,110 @@
+{
+    "created_at": "Thu Jul 15 15:40:19 +0000 2021",
+    "id": 1415697743780192259,
+    "id_str": "1415697743780192259",
+    "full_text": "Estas dos actividades combinan muy bien juntas, por proximidad y su compatibilidad en dificultad, son perfectas para iniciaci\u00f3n.\nEn primera instancia tenemos el emocionante barranco enca\u00f1onado en el q... https://t.co/F4ArLpEAoZ",
+    "truncated": false,
+    "display_text_range": [
+        0,
+        227
+    ],
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+            {
+                "url": "https://t.co/F4ArLpEAoZ",
+                "expanded_url": "http://bookingfax.com/experiencias/?id=1752&agencia=15727&m=b93f961b1f&red=twitter",
+                "display_url": "bookingfax.com/experiencias/?\u2026",
+                "indices": [
+                    204,
+                    227
+                ]
+            }
+        ]
+    },
+    "metadata": {
+        "iso_language_code": "es",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"http://bookingfax.com/\" rel=\"nofollow\">Ofertas de Bookingfax</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 207590381,
+        "id_str": "207590381",
+        "name": "Belen Tours",
+        "screen_name": "belentours",
+        "location": "Espa\u00f1a",
+        "description": "",
+        "url": "http://t.co/WaXOX0cehN",
+        "entities": {
+            "url": {
+                "urls": [
+                    {
+                        "url": "http://t.co/WaXOX0cehN",
+                        "expanded_url": "http://www.belentours.com",
+                        "display_url": "belentours.com",
+                        "indices": [
+                            0,
+                            22
+                        ]
+                    }
+                ]
+            },
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 125,
+        "friends_count": 21,
+        "listed_count": 2,
+        "created_at": "Mon Oct 25 16:40:02 +0000 2010",
+        "favourites_count": 0,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 7262,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "E8BE8E",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/934105829506248704/_s94CoKS_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/934105829506248704/_s94CoKS_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/207590381/1511543176",
+        "profile_link_color": "F3303D",
+        "profile_sidebar_border_color": "400040",
+        "profile_sidebar_fill_color": "F5D5F5",
+        "profile_text_color": "A6394B",
+        "profile_use_background_image": false,
+        "has_extended_profile": false,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "es"
+}

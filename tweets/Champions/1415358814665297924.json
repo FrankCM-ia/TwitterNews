@@ -1,0 +1,125 @@
+{
+    "created_at": "Wed Jul 14 17:13:32 +0000 2021",
+    "id": 1415358814665297924,
+    "id_str": "1415358814665297924",
+    "full_text": "@ruben_z90 @Piperator2 @fmseco Yo con mi presi de las champions seguidas a muerte!!!! Ustedes son barcelonistas de cuna \ud83e\udd2c #YoConFlorentino",
+    "truncated": false,
+    "display_text_range": [
+        31,
+        138
+    ],
+    "entities": {
+        "hashtags": [
+            {
+                "text": "YoConFlorentino",
+                "indices": [
+                    122,
+                    138
+                ]
+            }
+        ],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "ruben_z90",
+                "name": "Ruben Zayas",
+                "id": 2496308342,
+                "id_str": "2496308342",
+                "indices": [
+                    0,
+                    10
+                ]
+            },
+            {
+                "screen_name": "Piperator2",
+                "name": "Piperator\u00a9|Actual-Gen|\ud83d\udc40",
+                "id": 1191792021771603968,
+                "id_str": "1191792021771603968",
+                "indices": [
+                    11,
+                    22
+                ]
+            },
+            {
+                "screen_name": "fmseco",
+                "name": "Tahdar",
+                "id": 500034006,
+                "id_str": "500034006",
+                "indices": [
+                    23,
+                    30
+                ]
+            }
+        ],
+        "urls": []
+    },
+    "metadata": {
+        "iso_language_code": "es",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_status_id": 1415358175121973257,
+    "in_reply_to_status_id_str": "1415358175121973257",
+    "in_reply_to_user_id": 2496308342,
+    "in_reply_to_user_id_str": "2496308342",
+    "in_reply_to_screen_name": "ruben_z90",
+    "user": {
+        "id": 67133236,
+        "id_str": "67133236",
+        "name": "\ud83d\ude0eAltairjc\ud83c\udfae\ud83e\uddc0 #HailQueso",
+        "screen_name": "Altairjc",
+        "location": "\u00dcT: 19.784454,-97.350624",
+        "description": "Opiniones personales. Amante de los video juegos, Musica, cine, anime #Dredgenyor",
+        "url": null,
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 507,
+        "friends_count": 1007,
+        "listed_count": 5,
+        "created_at": "Wed Aug 19 21:50:00 +0000 2009",
+        "favourites_count": 52723,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 25344,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "352726",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1413133000464760834/HVXgygXr_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1413133000464760834/HVXgygXr_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/67133236/1624046049",
+        "profile_link_color": "ABB8C2",
+        "profile_sidebar_border_color": "829D5E",
+        "profile_sidebar_fill_color": "05E2FF",
+        "profile_text_color": "6803FF",
+        "profile_use_background_image": true,
+        "has_extended_profile": true,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "es"
+}

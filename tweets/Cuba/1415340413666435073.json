@@ -1,0 +1,295 @@
+{
+    "created_at": "Wed Jul 14 16:00:25 +0000 2021",
+    "id": 1415340413666435073,
+    "id_str": "1415340413666435073",
+    "full_text": "RT @libertaddigital: Camila Acosta pidi\u00f3 el 8M desde los micr\u00f3fonos de esRadio la libertad para Cuba https://t.co/0Ve8wEp2Id https://t.co/z\u2026",
+    "truncated": false,
+    "display_text_range": [
+        0,
+        140
+    ],
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "libertaddigital",
+                "name": "Libertad Digital",
+                "id": 27038703,
+                "id_str": "27038703",
+                "indices": [
+                    3,
+                    19
+                ]
+            }
+        ],
+        "urls": [
+            {
+                "url": "https://t.co/0Ve8wEp2Id",
+                "expanded_url": "https://bit.ly/3hDQCkG",
+                "display_url": "bit.ly/3hDQCkG",
+                "indices": [
+                    101,
+                    124
+                ]
+            }
+        ]
+    },
+    "metadata": {
+        "iso_language_code": "es",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 876209000785870849,
+        "id_str": "876209000785870849",
+        "name": "Cesar Orero",
+        "screen_name": "cesar_orero",
+        "location": "",
+        "description": "Si no has elegido el Reino de Dios, al final no tendra mucha importancia lo que hayas elegido en su lugar (William Law).",
+        "url": null,
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 268,
+        "friends_count": 1385,
+        "listed_count": 0,
+        "created_at": "Sat Jun 17 22:44:39 +0000 2017",
+        "favourites_count": 56363,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 31754,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": null,
+        "profile_background_image_url_https": null,
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1254442218271707140/dTLj57dC_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1254442218271707140/dTLj57dC_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": true,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+        "created_at": "Tue Jul 13 21:16:05 +0000 2021",
+        "id": 1415057467592126467,
+        "id_str": "1415057467592126467",
+        "full_text": "Camila Acosta pidi\u00f3 el 8M desde los micr\u00f3fonos de esRadio la libertad para Cuba https://t.co/0Ve8wEp2Id https://t.co/zbv8LqEFzk",
+        "truncated": false,
+        "display_text_range": [
+            0,
+            103
+        ],
+        "entities": {
+            "hashtags": [],
+            "symbols": [],
+            "user_mentions": [],
+            "urls": [
+                {
+                    "url": "https://t.co/0Ve8wEp2Id",
+                    "expanded_url": "https://bit.ly/3hDQCkG",
+                    "display_url": "bit.ly/3hDQCkG",
+                    "indices": [
+                        80,
+                        103
+                    ]
+                }
+            ],
+            "media": [
+                {
+                    "id": 1415057466212196356,
+                    "id_str": "1415057466212196356",
+                    "indices": [
+                        104,
+                        127
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/E6NLRKpXoAQuQZE.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/E6NLRKpXoAQuQZE.jpg",
+                    "url": "https://t.co/zbv8LqEFzk",
+                    "display_url": "pic.twitter.com/zbv8LqEFzk",
+                    "expanded_url": "https://twitter.com/libertaddigital/status/1415057467592126467/photo/1",
+                    "type": "photo",
+                    "sizes": {
+                        "medium": {
+                            "w": 476,
+                            "h": 279,
+                            "resize": "fit"
+                        },
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "large": {
+                            "w": 476,
+                            "h": 279,
+                            "resize": "fit"
+                        },
+                        "small": {
+                            "w": 476,
+                            "h": 279,
+                            "resize": "fit"
+                        }
+                    }
+                }
+            ]
+        },
+        "extended_entities": {
+            "media": [
+                {
+                    "id": 1415057466212196356,
+                    "id_str": "1415057466212196356",
+                    "indices": [
+                        104,
+                        127
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/E6NLRKpXoAQuQZE.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/E6NLRKpXoAQuQZE.jpg",
+                    "url": "https://t.co/zbv8LqEFzk",
+                    "display_url": "pic.twitter.com/zbv8LqEFzk",
+                    "expanded_url": "https://twitter.com/libertaddigital/status/1415057467592126467/photo/1",
+                    "type": "photo",
+                    "sizes": {
+                        "medium": {
+                            "w": 476,
+                            "h": 279,
+                            "resize": "fit"
+                        },
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "large": {
+                            "w": 476,
+                            "h": 279,
+                            "resize": "fit"
+                        },
+                        "small": {
+                            "w": 476,
+                            "h": 279,
+                            "resize": "fit"
+                        }
+                    }
+                }
+            ]
+        },
+        "metadata": {
+            "iso_language_code": "es",
+            "result_type": "recent"
+        },
+        "source": "<a href=\"https://www.echobox.com\" rel=\"nofollow\">Echobox</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 27038703,
+            "id_str": "27038703",
+            "name": "Libertad Digital",
+            "screen_name": "libertaddigital",
+            "location": "Madrid",
+            "description": "Noticias y opini\u00f3n en la red. Esc\u00fachanos en @esRadio y l\u00e9enos tambi\u00e9n en @libre_mercado @ChicRevista @LoDeCultura",
+            "url": "https://t.co/FZrTq7h70z",
+            "entities": {
+                "url": {
+                    "urls": [
+                        {
+                            "url": "https://t.co/FZrTq7h70z",
+                            "expanded_url": "http://www.libertaddigital.com",
+                            "display_url": "libertaddigital.com",
+                            "indices": [
+                                0,
+                                23
+                            ]
+                        }
+                    ]
+                },
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 246200,
+            "friends_count": 596,
+            "listed_count": 2813,
+            "created_at": "Fri Mar 27 16:27:05 +0000 2009",
+            "favourites_count": 9584,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": false,
+            "verified": true,
+            "statuses_count": 227230,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "EDECE9",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1250360007637585920/GdgdIcNf_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1250360007637585920/GdgdIcNf_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/27038703/1577964681",
+            "profile_link_color": "0084B4",
+            "profile_sidebar_border_color": "FFFFFF",
+            "profile_sidebar_fill_color": "D0D0CD",
+            "profile_text_color": "333333",
+            "profile_use_background_image": false,
+            "has_extended_profile": false,
+            "default_profile": false,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none",
+            "withheld_in_countries": []
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 61,
+        "favorite_count": 159,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "es"
+    },
+    "is_quote_status": false,
+    "retweet_count": 61,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "es"
+}

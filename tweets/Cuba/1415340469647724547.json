@@ -1,0 +1,291 @@
+{
+    "created_at": "Wed Jul 14 16:00:38 +0000 2021",
+    "id": 1415340469647724547,
+    "id_str": "1415340469647724547",
+    "full_text": "RT @Guerrerotony161: Junto al colectivo de doctoras y enfermeras de centro de vacunaci\u00f3n de nuestra OSDE GEDIC. \nHoy comienza la tercera do\u2026",
+    "truncated": false,
+    "display_text_range": [
+        0,
+        140
+    ],
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "Guerrerotony161",
+                "name": "Antonio Guerrero Rodriguez",
+                "id": 718540456309731328,
+                "id_str": "718540456309731328",
+                "indices": [
+                    3,
+                    19
+                ]
+            }
+        ],
+        "urls": []
+    },
+    "metadata": {
+        "iso_language_code": "es",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 1221859052734550016,
+        "id_str": "1221859052734550016",
+        "name": "Julio F. de Coss\u00edo",
+        "screen_name": "JulioFdeCossio",
+        "location": "",
+        "description": "Especialista de Exportaciones CUBA",
+        "url": null,
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 269,
+        "friends_count": 83,
+        "listed_count": 0,
+        "created_at": "Mon Jan 27 18:14:59 +0000 2020",
+        "favourites_count": 2,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 22650,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": null,
+        "profile_background_image_url_https": null,
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1221880146845753346/S1NF8vNL_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1221880146845753346/S1NF8vNL_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1221859052734550016/1580397667",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+        "created_at": "Wed Jul 14 15:44:10 +0000 2021",
+        "id": 1415336328053547010,
+        "id_str": "1415336328053547010",
+        "full_text": "Junto al colectivo de doctoras y enfermeras de centro de vacunaci\u00f3n de nuestra OSDE GEDIC. \nHoy comienza la tercera dosis de #Abdala a todos los pobladores del \u00e1rea.\nEsto es #Cuba \ud83c\udde8\ud83c\uddfa \nTranquilos y con la guardia en alto.\n\n#BastaDeBloqueoCriminal\n#EliminaElBloqueo https://t.co/ep7TomiKAC",
+        "truncated": false,
+        "display_text_range": [
+            0,
+            263
+        ],
+        "entities": {
+            "hashtags": [
+                {
+                    "text": "Abdala",
+                    "indices": [
+                        125,
+                        132
+                    ]
+                },
+                {
+                    "text": "Cuba",
+                    "indices": [
+                        174,
+                        179
+                    ]
+                },
+                {
+                    "text": "BastaDeBloqueoCriminal",
+                    "indices": [
+                        222,
+                        245
+                    ]
+                },
+                {
+                    "text": "EliminaElBloqueo",
+                    "indices": [
+                        246,
+                        263
+                    ]
+                }
+            ],
+            "symbols": [],
+            "user_mentions": [],
+            "urls": [],
+            "media": [
+                {
+                    "id": 1415336269471789056,
+                    "id_str": "1415336269471789056",
+                    "indices": [
+                        264,
+                        287
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/E6RI1puXsAAAC6T.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/E6RI1puXsAAAC6T.jpg",
+                    "url": "https://t.co/ep7TomiKAC",
+                    "display_url": "pic.twitter.com/ep7TomiKAC",
+                    "expanded_url": "https://twitter.com/Guerrerotony161/status/1415336328053547010/photo/1",
+                    "type": "photo",
+                    "sizes": {
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "small": {
+                            "w": 680,
+                            "h": 492,
+                            "resize": "fit"
+                        },
+                        "medium": {
+                            "w": 1200,
+                            "h": 868,
+                            "resize": "fit"
+                        },
+                        "large": {
+                            "w": 2048,
+                            "h": 1481,
+                            "resize": "fit"
+                        }
+                    }
+                }
+            ]
+        },
+        "extended_entities": {
+            "media": [
+                {
+                    "id": 1415336269471789056,
+                    "id_str": "1415336269471789056",
+                    "indices": [
+                        264,
+                        287
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/E6RI1puXsAAAC6T.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/E6RI1puXsAAAC6T.jpg",
+                    "url": "https://t.co/ep7TomiKAC",
+                    "display_url": "pic.twitter.com/ep7TomiKAC",
+                    "expanded_url": "https://twitter.com/Guerrerotony161/status/1415336328053547010/photo/1",
+                    "type": "photo",
+                    "sizes": {
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "small": {
+                            "w": 680,
+                            "h": 492,
+                            "resize": "fit"
+                        },
+                        "medium": {
+                            "w": 1200,
+                            "h": 868,
+                            "resize": "fit"
+                        },
+                        "large": {
+                            "w": 2048,
+                            "h": 1481,
+                            "resize": "fit"
+                        }
+                    }
+                }
+            ]
+        },
+        "metadata": {
+            "iso_language_code": "es",
+            "result_type": "recent"
+        },
+        "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 718540456309731328,
+            "id_str": "718540456309731328",
+            "name": "Antonio Guerrero Rodriguez",
+            "screen_name": "Guerrerotony161",
+            "location": "",
+            "description": "Si de algo serv\u00ed antes de ahora, ya no me acuerdo: lo que yo quiero es servir m\u00e1s. Jos\u00e9 Mart\u00ed #Cuba \ud83c\udde8\ud83c\uddfa",
+            "url": null,
+            "entities": {
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 18734,
+            "friends_count": 2446,
+            "listed_count": 23,
+            "created_at": "Fri Apr 08 20:46:09 +0000 2016",
+            "favourites_count": 12925,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": false,
+            "verified": false,
+            "statuses_count": 12904,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "F5F8FA",
+            "profile_background_image_url": null,
+            "profile_background_image_url_https": null,
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1363159182665465857/_1jA0GAS_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1363159182665465857/_1jA0GAS_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/718540456309731328/1554229516",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "has_extended_profile": true,
+            "default_profile": true,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none",
+            "withheld_in_countries": []
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 18,
+        "favorite_count": 30,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "es"
+    },
+    "is_quote_status": false,
+    "retweet_count": 18,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "es"
+}

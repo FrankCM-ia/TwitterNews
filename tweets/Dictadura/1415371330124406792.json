@@ -1,0 +1,96 @@
+{
+    "created_at": "Wed Jul 14 18:03:16 +0000 2021",
+    "id": 1415371330124406792,
+    "id_str": "1415371330124406792",
+    "full_text": "@Claumasep a estas alturas es indiscutibleel da\u00f1o que el PC nos hace,  pero los adoctrinados siempre van a defender la dictadura comunista que creen correcta. \nLa paja es q ustedes no pueden ser comunistas sin hundirnos a los dem\u00e1s, solo se instaura esa mierda si se los cagan a rodos.",
+    "truncated": false,
+    "display_text_range": [
+        11,
+        285
+    ],
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "Claumasep",
+                "name": "Claudia",
+                "id": 152409863,
+                "id_str": "152409863",
+                "indices": [
+                    0,
+                    10
+                ]
+            }
+        ],
+        "urls": []
+    },
+    "metadata": {
+        "iso_language_code": "es",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "in_reply_to_status_id": 1415294546834042882,
+    "in_reply_to_status_id_str": "1415294546834042882",
+    "in_reply_to_user_id": 152409863,
+    "in_reply_to_user_id_str": "152409863",
+    "in_reply_to_screen_name": "Claumasep",
+    "user": {
+        "id": 1359910040891760645,
+        "id_str": "1359910040891760645",
+        "name": "Manihero",
+        "screen_name": "Maniher64517225",
+        "location": "",
+        "description": "q paja .... solo escrib\u00ed algo para poder poner sguiente",
+        "url": null,
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 29,
+        "friends_count": 24,
+        "listed_count": 0,
+        "created_at": "Thu Feb 11 17:00:04 +0000 2021",
+        "favourites_count": 5734,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 231,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": null,
+        "profile_background_image_url_https": null,
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1359910365140811784/Cp8LP5Z1_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1359910365140811784/Cp8LP5Z1_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": true,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "es"
+}

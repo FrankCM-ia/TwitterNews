@@ -1,0 +1,106 @@
+{
+    "created_at": "Wed Jul 14 18:01:41 +0000 2021",
+    "id": 1415370934073151490,
+    "id_str": "1415370934073151490",
+    "full_text": "@YorryWarthon @rlopezaliaga1 La mano para su abuso de poder se enriquecen ellos y la prueba est\u00e1 ah\u00ed familia de Fidel Castro quedaron con Millonaria Fortuna sus desendientes y su Pa\u00eds muri\u00e9ndose de hambre Hugo Ch\u00e1vez que multiplic\u00f3 su fortuna Robando a Venezuela ahora Nicol\u00e1s Maduro dictador Ladr\u00f3n Narcotraf",
+    "truncated": false,
+    "display_text_range": [
+        29,
+        309
+    ],
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "YorryWarthon",
+                "name": "Yorry Warthon\ud83d\udca5",
+                "id": 1653727550,
+                "id_str": "1653727550",
+                "indices": [
+                    0,
+                    13
+                ]
+            },
+            {
+                "screen_name": "rlopezaliaga1",
+                "name": "Rafael L\u00f3pez Aliaga",
+                "id": 2492789645,
+                "id_str": "2492789645",
+                "indices": [
+                    14,
+                    28
+                ]
+            }
+        ],
+        "urls": []
+    },
+    "metadata": {
+        "iso_language_code": "es",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "in_reply_to_status_id": 1415359085789200390,
+    "in_reply_to_status_id_str": "1415359085789200390",
+    "in_reply_to_user_id": 1653727550,
+    "in_reply_to_user_id_str": "1653727550",
+    "in_reply_to_screen_name": "YorryWarthon",
+    "user": {
+        "id": 1376631678379130891,
+        "id_str": "1376631678379130891",
+        "name": "Elizabeth",
+        "screen_name": "Elizabe85322447",
+        "location": "",
+        "description": "Perseverancia",
+        "url": null,
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 3,
+        "friends_count": 47,
+        "listed_count": 0,
+        "created_at": "Mon Mar 29 20:25:58 +0000 2021",
+        "favourites_count": 1986,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 407,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": null,
+        "profile_background_image_url_https": null,
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1379993415987920896/1kUVPni3_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1379993415987920896/1kUVPni3_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": true,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "es"
+}

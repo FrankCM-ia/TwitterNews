@@ -1,0 +1,287 @@
+{
+    "created_at": "Thu Jul 15 18:54:03 +0000 2021",
+    "id": 1415746500890615812,
+    "id_str": "1415746500890615812",
+    "full_text": "Tremenda sacada de p*lla bye me apetece tirarme de un barranco voy a chillar https://t.co/aVHwxrDblr",
+    "truncated": false,
+    "display_text_range": [
+        0,
+        76
+    ],
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+            {
+                "url": "https://t.co/aVHwxrDblr",
+                "expanded_url": "https://twitter.com/thisismaneskin/status/1415718089296162819",
+                "display_url": "twitter.com/thisismaneskin\u2026",
+                "indices": [
+                    77,
+                    100
+                ]
+            }
+        ]
+    },
+    "metadata": {
+        "iso_language_code": "es",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 615125419,
+        "id_str": "615125419",
+        "name": "\u1d31\u1d39\u1d31\u207b\u02e2\u02e2\u2071 \u672c // Your Choice\u00b9\u2077",
+        "screen_name": "choiemessis",
+        "location": "Granada, Espa\u00f1a",
+        "description": "Proud Army\u2077 \ud83d\udc9c 'Love Yourself'/Proud Atiny \u23f3 (Lisbon 190405)/\nSeventeen Carat \ud83d\udc8e\ud83c\udf3b\nI'll become your color\ud83c\udf08\ud83c\udf86\n-200727- Hackeriana\ud83e\udd18\ud83c\udffb\u26a0\ufe0f M\u00e5neskin supremacy \ud83d\uded0",
+        "url": null,
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 593,
+        "friends_count": 1106,
+        "listed_count": 20,
+        "created_at": "Fri Jun 22 12:28:33 +0000 2012",
+        "favourites_count": 24979,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 33832,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "68196E",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme5/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme5/bg.gif",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1407088316688777217/vImiCQLx_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1407088316688777217/vImiCQLx_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/615125419/1625997111",
+        "profile_link_color": "FAB81E",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": true,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": true,
+    "quoted_status_id": 1415718089296162819,
+    "quoted_status_id_str": "1415718089296162819",
+    "quoted_status": {
+        "created_at": "Thu Jul 15 17:01:09 +0000 2021",
+        "id": 1415718089296162819,
+        "id_str": "1415718089296162819",
+        "full_text": "I WANNA BE YOUR SLAVE \nVIDEO OUT NOW \u2764\ufe0f\u200d\ud83d\udd25 https://t.co/K1auevWBYX",
+        "truncated": false,
+        "display_text_range": [
+            0,
+            41
+        ],
+        "entities": {
+            "hashtags": [],
+            "symbols": [],
+            "user_mentions": [],
+            "urls": [],
+            "media": [
+                {
+                    "id": 1415718080429400066,
+                    "id_str": "1415718080429400066",
+                    "indices": [
+                        42,
+                        65
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/E6WkF-YXoAIyYMG.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/E6WkF-YXoAIyYMG.jpg",
+                    "url": "https://t.co/K1auevWBYX",
+                    "display_url": "pic.twitter.com/K1auevWBYX",
+                    "expanded_url": "https://twitter.com/thisismaneskin/status/1415718089296162819/photo/1",
+                    "type": "photo",
+                    "sizes": {
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "large": {
+                            "w": 1080,
+                            "h": 1350,
+                            "resize": "fit"
+                        },
+                        "small": {
+                            "w": 544,
+                            "h": 680,
+                            "resize": "fit"
+                        },
+                        "medium": {
+                            "w": 960,
+                            "h": 1200,
+                            "resize": "fit"
+                        }
+                    }
+                }
+            ]
+        },
+        "extended_entities": {
+            "media": [
+                {
+                    "id": 1415718080429400066,
+                    "id_str": "1415718080429400066",
+                    "indices": [
+                        42,
+                        65
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/E6WkF-YXoAIyYMG.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/E6WkF-YXoAIyYMG.jpg",
+                    "url": "https://t.co/K1auevWBYX",
+                    "display_url": "pic.twitter.com/K1auevWBYX",
+                    "expanded_url": "https://twitter.com/thisismaneskin/status/1415718089296162819/photo/1",
+                    "type": "photo",
+                    "sizes": {
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "large": {
+                            "w": 1080,
+                            "h": 1350,
+                            "resize": "fit"
+                        },
+                        "small": {
+                            "w": 544,
+                            "h": 680,
+                            "resize": "fit"
+                        },
+                        "medium": {
+                            "w": 960,
+                            "h": 1200,
+                            "resize": "fit"
+                        }
+                    }
+                }
+            ]
+        },
+        "metadata": {
+            "iso_language_code": "es",
+            "result_type": "recent"
+        },
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 938135524480569345,
+            "id_str": "938135524480569345",
+            "name": "ManeskinOfficial",
+            "screen_name": "thisismaneskin",
+            "location": "",
+            "description": "I WANNA BE YOUR SLAVE\nVIDEO OUT NOW\ud83d\udc47\nhttps://t.co/mP17IZRE43",
+            "url": "https://t.co/VP3Sgf3F4w",
+            "entities": {
+                "url": {
+                    "urls": [
+                        {
+                            "url": "https://t.co/VP3Sgf3F4w",
+                            "expanded_url": "https://smi.lnk.to/teatrodIravol1",
+                            "display_url": "smi.lnk.to/teatrodIravol1",
+                            "indices": [
+                                0,
+                                23
+                            ]
+                        }
+                    ]
+                },
+                "description": {
+                    "urls": [
+                        {
+                            "url": "https://t.co/mP17IZRE43",
+                            "expanded_url": "https://youtu.be/yOb9Xaug35M",
+                            "display_url": "youtu.be/yOb9Xaug35M",
+                            "indices": [
+                                37,
+                                60
+                            ]
+                        }
+                    ]
+                }
+            },
+            "protected": false,
+            "followers_count": 363887,
+            "friends_count": 29,
+            "listed_count": 340,
+            "created_at": "Tue Dec 05 19:58:33 +0000 2017",
+            "favourites_count": 697,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": true,
+            "verified": false,
+            "statuses_count": 993,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "000000",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1415718291201564673/XGIGvsg9_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1415718291201564673/XGIGvsg9_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/938135524480569345/1626368513",
+            "profile_link_color": "E81C4F",
+            "profile_sidebar_border_color": "000000",
+            "profile_sidebar_fill_color": "000000",
+            "profile_text_color": "000000",
+            "profile_use_background_image": false,
+            "has_extended_profile": false,
+            "default_profile": false,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none",
+            "withheld_in_countries": []
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 10549,
+        "favorite_count": 50980,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "en"
+    },
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "es"
+}

@@ -1,0 +1,110 @@
+{
+    "created_at": "Wed Jul 14 18:00:11 +0000 2021",
+    "id": 1415370556782911488,
+    "id_str": "1415370556782911488",
+    "full_text": "@ESPN_FDJ Se viene psg y ac Mil\u00e1n en primera ronda de Champions.. \ud83d\udd34\u26ab",
+    "truncated": false,
+    "display_text_range": [
+        10,
+        68
+    ],
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "ESPN_FDJ",
+                "name": "Fuera de Juego",
+                "id": 111423456,
+                "id_str": "111423456",
+                "indices": [
+                    0,
+                    9
+                ]
+            }
+        ],
+        "urls": []
+    },
+    "metadata": {
+        "iso_language_code": "es",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "in_reply_to_status_id": 1415367055377895429,
+    "in_reply_to_status_id_str": "1415367055377895429",
+    "in_reply_to_user_id": 111423456,
+    "in_reply_to_user_id_str": "111423456",
+    "in_reply_to_screen_name": "ESPN_FDJ",
+    "user": {
+        "id": 162901005,
+        "id_str": "162901005",
+        "name": "Jhessier",
+        "screen_name": "jhessier",
+        "location": "Pto ordaz",
+        "description": "Nieto de Rosa Patricio & Jose Manuel Chucha  - Hijo de Sonia & Jose - Hermano de Jhennier & Jarluin - Padre de Aithor y Mathias",
+        "url": "http://t.co/mzJvs6FpY1",
+        "entities": {
+            "url": {
+                "urls": [
+                    {
+                        "url": "http://t.co/mzJvs6FpY1",
+                        "expanded_url": "http://www.facebook.com/jhessier.reyes",
+                        "display_url": "facebook.com/jhessier.reyes",
+                        "indices": [
+                            0,
+                            22
+                        ]
+                    }
+                ]
+            },
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 53,
+        "friends_count": 199,
+        "listed_count": 0,
+        "created_at": "Mon Jul 05 01:03:17 +0000 2010",
+        "favourites_count": 1184,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 825,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1191556034629910530/GA6hug37_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1191556034629910530/GA6hug37_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/162901005/1442176276",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": true,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 1,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "es"
+}

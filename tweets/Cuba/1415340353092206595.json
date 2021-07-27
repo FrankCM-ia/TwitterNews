@@ -1,0 +1,437 @@
+{
+    "created_at": "Wed Jul 14 16:00:10 +0000 2021",
+    "id": 1415340353092206595,
+    "id_str": "1415340353092206595",
+    "full_text": "RT @Tonicanto1: Una mujer peleando por sus derechos en Cuba\u2026y una ministra espa\u00f1ola postureando. https://t.co/t7Eg9eDuy1",
+    "truncated": false,
+    "display_text_range": [
+        0,
+        120
+    ],
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "Tonicanto1",
+                "name": "Toni Cant\u00f3",
+                "id": 249122306,
+                "id_str": "249122306",
+                "indices": [
+                    3,
+                    14
+                ]
+            }
+        ],
+        "urls": [],
+        "media": [
+            {
+                "id": 1415245367348715521,
+                "id_str": "1415245367348715521",
+                "indices": [
+                    97,
+                    120
+                ],
+                "media_url": "http://pbs.twimg.com/media/E6P2Kc7WYAEMy1f.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/E6P2Kc7WYAEMy1f.jpg",
+                "url": "https://t.co/t7Eg9eDuy1",
+                "display_url": "pic.twitter.com/t7Eg9eDuy1",
+                "expanded_url": "https://twitter.com/Tonicanto1/status/1415245373656928257/photo/1",
+                "type": "photo",
+                "sizes": {
+                    "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                    },
+                    "medium": {
+                        "w": 526,
+                        "h": 788,
+                        "resize": "fit"
+                    },
+                    "small": {
+                        "w": 454,
+                        "h": 680,
+                        "resize": "fit"
+                    },
+                    "large": {
+                        "w": 526,
+                        "h": 788,
+                        "resize": "fit"
+                    }
+                },
+                "source_status_id": 1415245373656928257,
+                "source_status_id_str": "1415245373656928257",
+                "source_user_id": 249122306,
+                "source_user_id_str": "249122306"
+            }
+        ]
+    },
+    "extended_entities": {
+        "media": [
+            {
+                "id": 1415245367348715521,
+                "id_str": "1415245367348715521",
+                "indices": [
+                    97,
+                    120
+                ],
+                "media_url": "http://pbs.twimg.com/media/E6P2Kc7WYAEMy1f.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/E6P2Kc7WYAEMy1f.jpg",
+                "url": "https://t.co/t7Eg9eDuy1",
+                "display_url": "pic.twitter.com/t7Eg9eDuy1",
+                "expanded_url": "https://twitter.com/Tonicanto1/status/1415245373656928257/photo/1",
+                "type": "photo",
+                "sizes": {
+                    "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                    },
+                    "medium": {
+                        "w": 526,
+                        "h": 788,
+                        "resize": "fit"
+                    },
+                    "small": {
+                        "w": 454,
+                        "h": 680,
+                        "resize": "fit"
+                    },
+                    "large": {
+                        "w": 526,
+                        "h": 788,
+                        "resize": "fit"
+                    }
+                },
+                "source_status_id": 1415245373656928257,
+                "source_status_id_str": "1415245373656928257",
+                "source_user_id": 249122306,
+                "source_user_id_str": "249122306"
+            },
+            {
+                "id": 1415245367348809730,
+                "id_str": "1415245367348809730",
+                "indices": [
+                    97,
+                    120
+                ],
+                "media_url": "http://pbs.twimg.com/media/E6P2Kc7X0AIQzcG.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/E6P2Kc7X0AIQzcG.jpg",
+                "url": "https://t.co/t7Eg9eDuy1",
+                "display_url": "pic.twitter.com/t7Eg9eDuy1",
+                "expanded_url": "https://twitter.com/Tonicanto1/status/1415245373656928257/photo/1",
+                "type": "photo",
+                "sizes": {
+                    "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                    },
+                    "large": {
+                        "w": 1125,
+                        "h": 1292,
+                        "resize": "fit"
+                    },
+                    "medium": {
+                        "w": 1045,
+                        "h": 1200,
+                        "resize": "fit"
+                    },
+                    "small": {
+                        "w": 592,
+                        "h": 680,
+                        "resize": "fit"
+                    }
+                },
+                "source_status_id": 1415245373656928257,
+                "source_status_id_str": "1415245373656928257",
+                "source_user_id": 249122306,
+                "source_user_id_str": "249122306"
+            }
+        ]
+    },
+    "metadata": {
+        "iso_language_code": "es",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 1370369008982183940,
+        "id_str": "1370369008982183940",
+        "name": "Platufo",
+        "screen_name": "platufo",
+        "location": "",
+        "description": "Fuck feminist",
+        "url": null,
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 16,
+        "friends_count": 93,
+        "listed_count": 0,
+        "created_at": "Fri Mar 12 13:40:17 +0000 2021",
+        "favourites_count": 920,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 1408,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": null,
+        "profile_background_image_url_https": null,
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1406204362955837441/EdMPLuOy_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1406204362955837441/EdMPLuOy_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": true,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+        "created_at": "Wed Jul 14 09:42:45 +0000 2021",
+        "id": 1415245373656928257,
+        "id_str": "1415245373656928257",
+        "full_text": "Una mujer peleando por sus derechos en Cuba\u2026y una ministra espa\u00f1ola postureando. https://t.co/t7Eg9eDuy1",
+        "truncated": false,
+        "display_text_range": [
+            0,
+            80
+        ],
+        "entities": {
+            "hashtags": [],
+            "symbols": [],
+            "user_mentions": [],
+            "urls": [],
+            "media": [
+                {
+                    "id": 1415245367348715521,
+                    "id_str": "1415245367348715521",
+                    "indices": [
+                        81,
+                        104
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/E6P2Kc7WYAEMy1f.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/E6P2Kc7WYAEMy1f.jpg",
+                    "url": "https://t.co/t7Eg9eDuy1",
+                    "display_url": "pic.twitter.com/t7Eg9eDuy1",
+                    "expanded_url": "https://twitter.com/Tonicanto1/status/1415245373656928257/photo/1",
+                    "type": "photo",
+                    "sizes": {
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "medium": {
+                            "w": 526,
+                            "h": 788,
+                            "resize": "fit"
+                        },
+                        "small": {
+                            "w": 454,
+                            "h": 680,
+                            "resize": "fit"
+                        },
+                        "large": {
+                            "w": 526,
+                            "h": 788,
+                            "resize": "fit"
+                        }
+                    }
+                }
+            ]
+        },
+        "extended_entities": {
+            "media": [
+                {
+                    "id": 1415245367348715521,
+                    "id_str": "1415245367348715521",
+                    "indices": [
+                        81,
+                        104
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/E6P2Kc7WYAEMy1f.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/E6P2Kc7WYAEMy1f.jpg",
+                    "url": "https://t.co/t7Eg9eDuy1",
+                    "display_url": "pic.twitter.com/t7Eg9eDuy1",
+                    "expanded_url": "https://twitter.com/Tonicanto1/status/1415245373656928257/photo/1",
+                    "type": "photo",
+                    "sizes": {
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "medium": {
+                            "w": 526,
+                            "h": 788,
+                            "resize": "fit"
+                        },
+                        "small": {
+                            "w": 454,
+                            "h": 680,
+                            "resize": "fit"
+                        },
+                        "large": {
+                            "w": 526,
+                            "h": 788,
+                            "resize": "fit"
+                        }
+                    }
+                },
+                {
+                    "id": 1415245367348809730,
+                    "id_str": "1415245367348809730",
+                    "indices": [
+                        81,
+                        104
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/E6P2Kc7X0AIQzcG.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/E6P2Kc7X0AIQzcG.jpg",
+                    "url": "https://t.co/t7Eg9eDuy1",
+                    "display_url": "pic.twitter.com/t7Eg9eDuy1",
+                    "expanded_url": "https://twitter.com/Tonicanto1/status/1415245373656928257/photo/1",
+                    "type": "photo",
+                    "sizes": {
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "large": {
+                            "w": 1125,
+                            "h": 1292,
+                            "resize": "fit"
+                        },
+                        "medium": {
+                            "w": 1045,
+                            "h": 1200,
+                            "resize": "fit"
+                        },
+                        "small": {
+                            "w": 592,
+                            "h": 680,
+                            "resize": "fit"
+                        }
+                    }
+                }
+            ]
+        },
+        "metadata": {
+            "iso_language_code": "es",
+            "result_type": "recent"
+        },
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 249122306,
+            "id_str": "249122306",
+            "name": "Toni Cant\u00f3",
+            "screen_name": "Tonicanto1",
+            "location": "Espa\u00f1a",
+            "description": "Actor por vocaci\u00f3n, pol\u00edtico por devoci\u00f3n.",
+            "url": "https://t.co/enNcFOL1aF",
+            "entities": {
+                "url": {
+                    "urls": [
+                        {
+                            "url": "https://t.co/enNcFOL1aF",
+                            "expanded_url": "https://t.me/ToniCantoHablamos",
+                            "display_url": "t.me/ToniCantoHabla\u2026",
+                            "indices": [
+                                0,
+                                23
+                            ]
+                        }
+                    ]
+                },
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 407256,
+            "friends_count": 3080,
+            "listed_count": 2677,
+            "created_at": "Tue Feb 08 12:16:57 +0000 2011",
+            "favourites_count": 11156,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": true,
+            "verified": true,
+            "statuses_count": 78976,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "C0DEED",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1304106726812200961/CvhvXjeS_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1304106726812200961/CvhvXjeS_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/249122306/1614446648",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "has_extended_profile": false,
+            "default_profile": true,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none",
+            "withheld_in_countries": []
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 2685,
+        "favorite_count": 7618,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "es"
+    },
+    "is_quote_status": false,
+    "retweet_count": 2685,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "es"
+}

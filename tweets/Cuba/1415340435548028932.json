@@ -1,0 +1,275 @@
+{
+    "created_at": "Wed Jul 14 16:00:30 +0000 2021",
+    "id": 1415340435548028932,
+    "id_str": "1415340435548028932",
+    "full_text": "RT @TeresaM72839295: Esos q agreden y destruyen, ser\u00e1n cuidados si enferman; ser\u00e1n inmunizados con las vacunas; j\u00f3venes como los q conozco\u2026",
+    "truncated": false,
+    "display_text_range": [
+        0,
+        139
+    ],
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "TeresaM72839295",
+                "name": "Teresa_Melo",
+                "id": 1100534556480937984,
+                "id_str": "1100534556480937984",
+                "indices": [
+                    3,
+                    19
+                ]
+            }
+        ],
+        "urls": []
+    },
+    "metadata": {
+        "iso_language_code": "es",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 240657937,
+        "id_str": "240657937",
+        "name": "Arlen Regueiro Mas",
+        "screen_name": "rlenrm",
+        "location": "Ciego de \u00c1vila, Cuba",
+        "description": "Escribo #poes\u00eda para no morir del todo...\nAutor de EL HAMBRE DE LA PATRIA (1972:unplugged)",
+        "url": "https://t.co/LlRGBWt22n",
+        "entities": {
+            "url": {
+                "urls": [
+                    {
+                        "url": "https://t.co/LlRGBWt22n",
+                        "expanded_url": "https://pronosticosdelmirlo.blogspot.com.es",
+                        "display_url": "pronosticosdelmirlo.blogspot.com.es",
+                        "indices": [
+                            0,
+                            23
+                        ]
+                    }
+                ]
+            },
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 5631,
+        "friends_count": 3816,
+        "listed_count": 90,
+        "created_at": "Thu Jan 20 12:44:58 +0000 2011",
+        "favourites_count": 2254,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 17815,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1007637523869458433/HK90XFWz_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1007637523869458433/HK90XFWz_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/240657937/1484671405",
+        "profile_link_color": "981CEB",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "profile_use_background_image": false,
+        "has_extended_profile": true,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+        "created_at": "Wed Jul 14 13:59:50 +0000 2021",
+        "id": 1415310071349850114,
+        "id_str": "1415310071349850114",
+        "full_text": "Esos q agreden y destruyen, ser\u00e1n cuidados si enferman; ser\u00e1n inmunizados con las vacunas; j\u00f3venes como los q conozco pesquisar\u00e1n a sus familias y contactos y Cuba pondr\u00e1 lo poco que tiene a su servicio. Porq Cuba salva a todos. Es nuestra realidad. Y no la ven. https://t.co/0NxeEISpUX",
+        "truncated": false,
+        "display_text_range": [
+            0,
+            262
+        ],
+        "entities": {
+            "hashtags": [],
+            "symbols": [],
+            "user_mentions": [],
+            "urls": [],
+            "media": [
+                {
+                    "id": 1415310018006720512,
+                    "id_str": "1415310018006720512",
+                    "indices": [
+                        263,
+                        286
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/E6Qw9nZXoAAte_B.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/E6Qw9nZXoAAte_B.jpg",
+                    "url": "https://t.co/0NxeEISpUX",
+                    "display_url": "pic.twitter.com/0NxeEISpUX",
+                    "expanded_url": "https://twitter.com/TeresaM72839295/status/1415310071349850114/photo/1",
+                    "type": "photo",
+                    "sizes": {
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "large": {
+                            "w": 540,
+                            "h": 358,
+                            "resize": "fit"
+                        },
+                        "medium": {
+                            "w": 540,
+                            "h": 358,
+                            "resize": "fit"
+                        },
+                        "small": {
+                            "w": 540,
+                            "h": 358,
+                            "resize": "fit"
+                        }
+                    }
+                }
+            ]
+        },
+        "extended_entities": {
+            "media": [
+                {
+                    "id": 1415310018006720512,
+                    "id_str": "1415310018006720512",
+                    "indices": [
+                        263,
+                        286
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/E6Qw9nZXoAAte_B.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/E6Qw9nZXoAAte_B.jpg",
+                    "url": "https://t.co/0NxeEISpUX",
+                    "display_url": "pic.twitter.com/0NxeEISpUX",
+                    "expanded_url": "https://twitter.com/TeresaM72839295/status/1415310071349850114/photo/1",
+                    "type": "photo",
+                    "sizes": {
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "large": {
+                            "w": 540,
+                            "h": 358,
+                            "resize": "fit"
+                        },
+                        "medium": {
+                            "w": 540,
+                            "h": 358,
+                            "resize": "fit"
+                        },
+                        "small": {
+                            "w": 540,
+                            "h": 358,
+                            "resize": "fit"
+                        }
+                    }
+                }
+            ]
+        },
+        "metadata": {
+            "iso_language_code": "es",
+            "result_type": "recent"
+        },
+        "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 1100534556480937984,
+            "id_str": "1100534556480937984",
+            "name": "Teresa_Melo",
+            "screen_name": "TeresaM72839295",
+            "location": "",
+            "description": "",
+            "url": null,
+            "entities": {
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 805,
+            "friends_count": 401,
+            "listed_count": 1,
+            "created_at": "Tue Feb 26 23:14:19 +0000 2019",
+            "favourites_count": 13346,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": false,
+            "verified": false,
+            "statuses_count": 254,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "F5F8FA",
+            "profile_background_image_url": null,
+            "profile_background_image_url_https": null,
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1100539818717650944/PUNrcR0y_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1100539818717650944/PUNrcR0y_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/1100534556480937984/1621505350",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "has_extended_profile": false,
+            "default_profile": true,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none",
+            "withheld_in_countries": []
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 74,
+        "favorite_count": 110,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "es"
+    },
+    "is_quote_status": false,
+    "retweet_count": 74,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "es"
+}

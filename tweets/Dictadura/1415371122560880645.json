@@ -1,0 +1,228 @@
+{
+    "created_at": "Wed Jul 14 18:02:26 +0000 2021",
+    "id": 1415371122560880645,
+    "id_str": "1415371122560880645",
+    "full_text": "RT @okdiario: Calvi\u00f1o se niega a llamar dictadura a Cuba a pesar de los m\u00e1s de 100 desaparecidos y varios muertos https://t.co/TUDIV9wdLF",
+    "truncated": false,
+    "display_text_range": [
+        0,
+        137
+    ],
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "okdiario",
+                "name": "okdiario.com",
+                "id": 3439292716,
+                "id_str": "3439292716",
+                "indices": [
+                    3,
+                    12
+                ]
+            }
+        ],
+        "urls": [
+            {
+                "url": "https://t.co/TUDIV9wdLF",
+                "expanded_url": "https://okdiario.com/espana/calvino-niega-llamar-dictadura-cuba-pesar-mas-100-desaparecidos-varios-muertos-7513141?utm_term=Autofeed&utm_medium=social&utm_source=Twitter#Echobox=1626251182",
+                "display_url": "okdiario.com/espana/calvino\u2026",
+                "indices": [
+                    114,
+                    137
+                ]
+            }
+        ]
+    },
+    "metadata": {
+        "iso_language_code": "es",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 49380298,
+        "id_str": "49380298",
+        "name": "IRUNES\ud83d\udda4\ud83c\uddea\ud83c\uddf8",
+        "screen_name": "IRUNES",
+        "location": "Barcelona",
+        "description": "viviendo en Catalu\u00f1a contra la corriente separatista. Soy colono y a mucha honra. Ciudadanos Ciutadans. Viva la igualdad \ud83d\udc9c",
+        "url": null,
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 446,
+        "friends_count": 454,
+        "listed_count": 13,
+        "created_at": "Sun Jun 21 18:05:25 +0000 2009",
+        "favourites_count": 79427,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 56810,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1365827871227465728/eZcEKlgr_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1365827871227465728/eZcEKlgr_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/49380298/1625947858",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": true,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+        "created_at": "Wed Jul 14 08:26:57 +0000 2021",
+        "id": 1415226298604167174,
+        "id_str": "1415226298604167174",
+        "full_text": "Calvi\u00f1o se niega a llamar dictadura a Cuba a pesar de los m\u00e1s de 100 desaparecidos y varios muertos https://t.co/TUDIV9wdLF",
+        "truncated": false,
+        "display_text_range": [
+            0,
+            123
+        ],
+        "entities": {
+            "hashtags": [],
+            "symbols": [],
+            "user_mentions": [],
+            "urls": [
+                {
+                    "url": "https://t.co/TUDIV9wdLF",
+                    "expanded_url": "https://okdiario.com/espana/calvino-niega-llamar-dictadura-cuba-pesar-mas-100-desaparecidos-varios-muertos-7513141?utm_term=Autofeed&utm_medium=social&utm_source=Twitter#Echobox=1626251182",
+                    "display_url": "okdiario.com/espana/calvino\u2026",
+                    "indices": [
+                        100,
+                        123
+                    ]
+                }
+            ]
+        },
+        "metadata": {
+            "iso_language_code": "es",
+            "result_type": "recent"
+        },
+        "source": "<a href=\"https://www.echobox.com\" rel=\"nofollow\">Echobox</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 3439292716,
+            "id_str": "3439292716",
+            "name": "okdiario.com",
+            "screen_name": "okdiario",
+            "location": "Madrid",
+            "description": "Vienen a por nosotros \u00a1Ap\u00f3yanos! https://t.co/sEka5QWEzr",
+            "url": "https://t.co/zqjJoDJ9U7",
+            "entities": {
+                "url": {
+                    "urls": [
+                        {
+                            "url": "https://t.co/zqjJoDJ9U7",
+                            "expanded_url": "http://okdiario.com/",
+                            "display_url": "okdiario.com",
+                            "indices": [
+                                0,
+                                23
+                            ]
+                        }
+                    ]
+                },
+                "description": {
+                    "urls": [
+                        {
+                            "url": "https://t.co/sEka5QWEzr",
+                            "expanded_url": "https://inconformistas.okdiario.com/",
+                            "display_url": "inconformistas.okdiario.com",
+                            "indices": [
+                                33,
+                                56
+                            ]
+                        }
+                    ]
+                }
+            },
+            "protected": false,
+            "followers_count": 328806,
+            "friends_count": 387,
+            "listed_count": 2129,
+            "created_at": "Tue Aug 25 14:59:51 +0000 2015",
+            "favourites_count": 2540,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": false,
+            "verified": true,
+            "statuses_count": 260161,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "C0DEED",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1391783594817884165/3rQzbgTN_normal.png",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1391783594817884165/3rQzbgTN_normal.png",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/3439292716/1620750325",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "has_extended_profile": true,
+            "default_profile": true,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none",
+            "withheld_in_countries": []
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 39,
+        "favorite_count": 52,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "es"
+    },
+    "is_quote_status": false,
+    "retweet_count": 39,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "es"
+}

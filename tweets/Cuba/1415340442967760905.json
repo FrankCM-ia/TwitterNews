@@ -1,0 +1,407 @@
+{
+    "created_at": "Wed Jul 14 16:00:32 +0000 2021",
+    "id": 1415340442967760905,
+    "id_str": "1415340442967760905",
+    "full_text": "RT @IsFreyax: \ud83d\udea8 Los est\u00e1n matando a tiros en sus casas!\n#CubaPorLaVida #SingaoDiazCanel\u00a0 #AbajoLaDictadura\u00a0 #Vnzladespierta #PrayForCuba #E\u2026",
+    "truncated": false,
+    "display_text_range": [
+        0,
+        140
+    ],
+    "entities": {
+        "hashtags": [
+            {
+                "text": "CubaPorLaVida",
+                "indices": [
+                    56,
+                    70
+                ]
+            },
+            {
+                "text": "SingaoDiazCanel",
+                "indices": [
+                    71,
+                    87
+                ]
+            },
+            {
+                "text": "AbajoLaDictadura",
+                "indices": [
+                    89,
+                    106
+                ]
+            },
+            {
+                "text": "Vnzladespierta",
+                "indices": [
+                    108,
+                    123
+                ]
+            },
+            {
+                "text": "PrayForCuba",
+                "indices": [
+                    124,
+                    136
+                ]
+            }
+        ],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "IsFreyax",
+                "name": "\u15b4\u1587EY\u15e9 \u2744",
+                "id": 783815821114114048,
+                "id_str": "783815821114114048",
+                "indices": [
+                    3,
+                    12
+                ]
+            }
+        ],
+        "urls": []
+    },
+    "metadata": {
+        "iso_language_code": "es",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 94448373,
+        "id_str": "94448373",
+        "name": "MauSE",
+        "screen_name": "mautsetung",
+        "location": "Mexico",
+        "description": "Nosce te ipsum.",
+        "url": null,
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 107,
+        "friends_count": 748,
+        "listed_count": 0,
+        "created_at": "Fri Dec 04 00:16:56 +0000 2009",
+        "favourites_count": 9587,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 3738,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1285426635978801152/vijVJ2ON_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1285426635978801152/vijVJ2ON_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/94448373/1595304567",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": true,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+        "created_at": "Wed Jul 14 12:58:02 +0000 2021",
+        "id": 1415294515653533698,
+        "id_str": "1415294515653533698",
+        "full_text": "\ud83d\udea8 Los est\u00e1n matando a tiros en sus casas!\n#CubaPorLaVida #SingaoDiazCanel\u00a0 #AbajoLaDictadura\u00a0 #Vnzladespierta #PrayForCuba #EstadosUnidos #SOSCuba #CubaLibre\u00a0 #Cuba #PatriayVida #VenezuelaLibr https://t.co/Np89ZOwheA",
+        "truncated": false,
+        "display_text_range": [
+            0,
+            192
+        ],
+        "entities": {
+            "hashtags": [
+                {
+                    "text": "CubaPorLaVida",
+                    "indices": [
+                        42,
+                        56
+                    ]
+                },
+                {
+                    "text": "SingaoDiazCanel",
+                    "indices": [
+                        57,
+                        73
+                    ]
+                },
+                {
+                    "text": "AbajoLaDictadura",
+                    "indices": [
+                        75,
+                        92
+                    ]
+                },
+                {
+                    "text": "Vnzladespierta",
+                    "indices": [
+                        94,
+                        109
+                    ]
+                },
+                {
+                    "text": "PrayForCuba",
+                    "indices": [
+                        110,
+                        122
+                    ]
+                },
+                {
+                    "text": "EstadosUnidos",
+                    "indices": [
+                        123,
+                        137
+                    ]
+                },
+                {
+                    "text": "SOSCuba",
+                    "indices": [
+                        138,
+                        146
+                    ]
+                },
+                {
+                    "text": "CubaLibre",
+                    "indices": [
+                        147,
+                        157
+                    ]
+                },
+                {
+                    "text": "Cuba",
+                    "indices": [
+                        159,
+                        164
+                    ]
+                },
+                {
+                    "text": "PatriayVida",
+                    "indices": [
+                        165,
+                        177
+                    ]
+                },
+                {
+                    "text": "VenezuelaLibr",
+                    "indices": [
+                        178,
+                        192
+                    ]
+                }
+            ],
+            "symbols": [],
+            "user_mentions": [],
+            "urls": [],
+            "media": [
+                {
+                    "id": 1415294309159559172,
+                    "id_str": "1415294309159559172",
+                    "indices": [
+                        193,
+                        216
+                    ],
+                    "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1415294309159559172/pu/img/W4corHN7_knL3rrv.jpg",
+                    "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1415294309159559172/pu/img/W4corHN7_knL3rrv.jpg",
+                    "url": "https://t.co/Np89ZOwheA",
+                    "display_url": "pic.twitter.com/Np89ZOwheA",
+                    "expanded_url": "https://twitter.com/IsFreyax/status/1415294515653533698/video/1",
+                    "type": "photo",
+                    "sizes": {
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "small": {
+                            "w": 544,
+                            "h": 680,
+                            "resize": "fit"
+                        },
+                        "large": {
+                            "w": 640,
+                            "h": 800,
+                            "resize": "fit"
+                        },
+                        "medium": {
+                            "w": 640,
+                            "h": 800,
+                            "resize": "fit"
+                        }
+                    }
+                }
+            ]
+        },
+        "extended_entities": {
+            "media": [
+                {
+                    "id": 1415294309159559172,
+                    "id_str": "1415294309159559172",
+                    "indices": [
+                        193,
+                        216
+                    ],
+                    "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1415294309159559172/pu/img/W4corHN7_knL3rrv.jpg",
+                    "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1415294309159559172/pu/img/W4corHN7_knL3rrv.jpg",
+                    "url": "https://t.co/Np89ZOwheA",
+                    "display_url": "pic.twitter.com/Np89ZOwheA",
+                    "expanded_url": "https://twitter.com/IsFreyax/status/1415294515653533698/video/1",
+                    "type": "video",
+                    "sizes": {
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "small": {
+                            "w": 544,
+                            "h": 680,
+                            "resize": "fit"
+                        },
+                        "large": {
+                            "w": 640,
+                            "h": 800,
+                            "resize": "fit"
+                        },
+                        "medium": {
+                            "w": 640,
+                            "h": 800,
+                            "resize": "fit"
+                        }
+                    },
+                    "video_info": {
+                        "aspect_ratio": [
+                            4,
+                            5
+                        ],
+                        "duration_millis": 19800,
+                        "variants": [
+                            {
+                                "bitrate": 2176000,
+                                "content_type": "video/mp4",
+                                "url": "https://video.twimg.com/ext_tw_video/1415294309159559172/pu/vid/640x800/bbO7xMEmSJpQYKUL.mp4?tag=12"
+                            },
+                            {
+                                "content_type": "application/x-mpegURL",
+                                "url": "https://video.twimg.com/ext_tw_video/1415294309159559172/pu/pl/1s0hDaiHneS7A2SW.m3u8?tag=12&container=fmp4"
+                            },
+                            {
+                                "bitrate": 950000,
+                                "content_type": "video/mp4",
+                                "url": "https://video.twimg.com/ext_tw_video/1415294309159559172/pu/vid/480x600/_CJvcxVrJolgBdl-.mp4?tag=12"
+                            },
+                            {
+                                "bitrate": 632000,
+                                "content_type": "video/mp4",
+                                "url": "https://video.twimg.com/ext_tw_video/1415294309159559172/pu/vid/320x400/IL9h56WrMKnrzezb.mp4?tag=12"
+                            }
+                        ]
+                    },
+                    "additional_media_info": {
+                        "monetizable": false
+                    }
+                }
+            ]
+        },
+        "metadata": {
+            "iso_language_code": "es",
+            "result_type": "recent"
+        },
+        "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 783815821114114048,
+            "id_str": "783815821114114048",
+            "name": "\u15b4\u1587EY\u15e9 \u2744",
+            "screen_name": "IsFreyax",
+            "location": "",
+            "description": "#CubayVenezuelaLibre",
+            "url": null,
+            "entities": {
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 140,
+            "friends_count": 172,
+            "listed_count": 0,
+            "created_at": "Wed Oct 05 23:47:09 +0000 2016",
+            "favourites_count": 1325,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": false,
+            "verified": false,
+            "statuses_count": 5335,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "F5F8FA",
+            "profile_background_image_url": null,
+            "profile_background_image_url_https": null,
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1414481710335643652/BtB-u5TW_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1414481710335643652/BtB-u5TW_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/783815821114114048/1492996188",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "has_extended_profile": false,
+            "default_profile": true,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none",
+            "withheld_in_countries": []
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 10,
+        "favorite_count": 9,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "es"
+    },
+    "is_quote_status": false,
+    "retweet_count": 10,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "es"
+}

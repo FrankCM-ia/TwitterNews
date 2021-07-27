@@ -1,0 +1,107 @@
+{
+    "created_at": "Thu Jul 15 15:51:46 +0000 2021",
+    "id": 1415700625447440389,
+    "id_str": "1415700625447440389",
+    "full_text": "@DocMalito777 @Marta_1517 creo sin errar que ya no queda nadie, los \u00faltimos se fueron jubilando, porque los concursos se hicieron en los 50/60/70 y luego empezaron a entrar todos a dedo, sobre todo a partir de final de los 80 y comienzos de los 90, a partir de ah\u00ed chau, se fue todo al barranco",
+    "truncated": false,
+    "display_text_range": [
+        26,
+        294
+    ],
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "DocMalito777",
+                "name": "Dr. Malito\u2122 \ud83c\udf0e",
+                "id": 852896961703366656,
+                "id_str": "852896961703366656",
+                "indices": [
+                    0,
+                    13
+                ]
+            },
+            {
+                "screen_name": "Marta_1517",
+                "name": "Marta",
+                "id": 2535206777,
+                "id_str": "2535206777",
+                "indices": [
+                    14,
+                    25
+                ]
+            }
+        ],
+        "urls": []
+    },
+    "metadata": {
+        "iso_language_code": "es",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "in_reply_to_status_id": 1415698488956948482,
+    "in_reply_to_status_id_str": "1415698488956948482",
+    "in_reply_to_user_id": 852896961703366656,
+    "in_reply_to_user_id_str": "852896961703366656",
+    "in_reply_to_screen_name": "DocMalito777",
+    "user": {
+        "id": 172830037,
+        "id_str": "172830037",
+        "name": "\u2694\ufe0fLaw-And-Equity\u2694\ufe0f",
+        "screen_name": "The_Dr_Justice",
+        "location": "\ud83c\udf0e\ud83c\udde6\ud83c\uddf7Arg. BsAs. City\ud83c\udde6\ud83c\uddf7\ud83c\udf0e",
+        "description": "Bachiller Univ.en Derecho/AbogadoUBA/Crimin\u00f3logo/Docente//Nadador,Basquetbolista,Karateca,Judoca// Esposo y Padre// No soy K \ud83c\udde6\ud83c\uddf7\ud83d\udc14\ud83c\udde6\ud83c\uddf7",
+        "url": null,
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 22370,
+        "friends_count": 21345,
+        "listed_count": 180,
+        "created_at": "Fri Jul 30 18:28:27 +0000 2010",
+        "favourites_count": 17288,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 1061702,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "B2DFDA",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme13/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme13/bg.gif",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1409607870962884610/qxCYHiuJ_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1409607870962884610/qxCYHiuJ_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/172830037/1624205193",
+        "profile_link_color": "93A644",
+        "profile_sidebar_border_color": "EEEEEE",
+        "profile_sidebar_fill_color": "FFFFFF",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": true,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "es"
+}

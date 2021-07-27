@@ -1,0 +1,310 @@
+{
+    "created_at": "Wed Jul 14 18:00:43 +0000 2021",
+    "id": 1415370691042594822,
+    "id_str": "1415370691042594822",
+    "full_text": "RT @NituPerez: Pedro Castillo respalda la represi\u00f3n castro-comunista al pueblo cubano",
+    "truncated": false,
+    "display_text_range": [
+        0,
+        85
+    ],
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "NituPerez",
+                "name": "Nitu P\u00e9rez Osuna",
+                "id": 78723428,
+                "id_str": "78723428",
+                "indices": [
+                    3,
+                    13
+                ]
+            }
+        ],
+        "urls": []
+    },
+    "metadata": {
+        "iso_language_code": "es",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 2671748646,
+        "id_str": "2671748646",
+        "name": "renny ruiz",
+        "screen_name": "rennymport",
+        "location": "",
+        "description": "",
+        "url": null,
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 299,
+        "friends_count": 540,
+        "listed_count": 4,
+        "created_at": "Wed Jul 23 04:27:57 +0000 2014",
+        "favourites_count": 372,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 89947,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/493598441474236419/ylgrOFa-_normal.jpeg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/493598441474236419/ylgrOFa-_normal.jpeg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2671748646/1406517994",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+        "created_at": "Wed Jul 14 05:41:38 +0000 2021",
+        "id": 1415184694426193921,
+        "id_str": "1415184694426193921",
+        "full_text": "Pedro Castillo respalda la represi\u00f3n castro-comunista al pueblo cubano https://t.co/q4w2IP7Mh1",
+        "truncated": false,
+        "display_text_range": [
+            0,
+            70
+        ],
+        "entities": {
+            "hashtags": [],
+            "symbols": [],
+            "user_mentions": [],
+            "urls": [
+                {
+                    "url": "https://t.co/q4w2IP7Mh1",
+                    "expanded_url": "https://twitter.com/pedrocastillote/status/1415145721658056704",
+                    "display_url": "twitter.com/pedrocastillot\u2026",
+                    "indices": [
+                        71,
+                        94
+                    ]
+                }
+            ]
+        },
+        "metadata": {
+            "iso_language_code": "es",
+            "result_type": "recent"
+        },
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 78723428,
+            "id_str": "78723428",
+            "name": "Nitu P\u00e9rez Osuna",
+            "screen_name": "NituPerez",
+            "location": "Venezuela",
+            "description": "Periodista Venezolana, Amo a mi pa\u00eds",
+            "url": "https://t.co/pvDJyRlMdp",
+            "entities": {
+                "url": {
+                    "urls": [
+                        {
+                            "url": "https://t.co/pvDJyRlMdp",
+                            "expanded_url": "https://cutt.ly/jeniyka",
+                            "display_url": "cutt.ly/jeniyka",
+                            "indices": [
+                                0,
+                                23
+                            ]
+                        }
+                    ]
+                },
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 1965023,
+            "friends_count": 1069,
+            "listed_count": 4410,
+            "created_at": "Wed Sep 30 22:17:11 +0000 2009",
+            "favourites_count": 254,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": false,
+            "verified": true,
+            "statuses_count": 34839,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "C0DEED",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1226757541499150336/D4jbwrm7_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1226757541499150336/D4jbwrm7_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/78723428/1472702978",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "has_extended_profile": false,
+            "default_profile": true,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none",
+            "withheld_in_countries": []
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": true,
+        "quoted_status_id": 1415145721658056704,
+        "quoted_status_id_str": "1415145721658056704",
+        "quoted_status": {
+            "created_at": "Wed Jul 14 03:06:46 +0000 2021",
+            "id": 1415145721658056704,
+            "id_str": "1415145721658056704",
+            "full_text": "Me solidarizo con la situaci\u00f3n que viven nuestros hermanos cubanos en la actualidad. El bloqueo hist\u00f3rico es antihumano e inmoral, m\u00e1s a\u00fan, en la emergencia mundial de crisis sanitaria en la que nos encontramos. (1/3)",
+            "truncated": false,
+            "display_text_range": [
+                0,
+                217
+            ],
+            "entities": {
+                "hashtags": [],
+                "symbols": [],
+                "user_mentions": [],
+                "urls": []
+            },
+            "metadata": {
+                "iso_language_code": "es",
+                "result_type": "recent"
+            },
+            "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+            "in_reply_to_status_id": null,
+            "in_reply_to_status_id_str": null,
+            "in_reply_to_user_id": null,
+            "in_reply_to_user_id_str": null,
+            "in_reply_to_screen_name": null,
+            "user": {
+                "id": 1357969682683334657,
+                "id_str": "1357969682683334657",
+                "name": "Pedro Castillo Terrones",
+                "screen_name": "PedroCastilloTe",
+                "location": "Chota",
+                "description": "Soy Pedro Castillo Terrones. Profesor, rondero y dirigente sindical. Presidente electo de la Rep\u00fablica del Per\u00fa (2021 - 2026)",
+                "url": "https://t.co/w49UfpHDJv",
+                "entities": {
+                    "url": {
+                        "urls": [
+                            {
+                                "url": "https://t.co/w49UfpHDJv",
+                                "expanded_url": "http://perulibre.pe/",
+                                "display_url": "perulibre.pe",
+                                "indices": [
+                                    0,
+                                    23
+                                ]
+                            }
+                        ]
+                    },
+                    "description": {
+                        "urls": []
+                    }
+                },
+                "protected": false,
+                "followers_count": 198519,
+                "friends_count": 108,
+                "listed_count": 235,
+                "created_at": "Sat Feb 06 08:29:46 +0000 2021",
+                "favourites_count": 196,
+                "utc_offset": null,
+                "time_zone": null,
+                "geo_enabled": true,
+                "verified": false,
+                "statuses_count": 235,
+                "lang": null,
+                "contributors_enabled": false,
+                "is_translator": false,
+                "is_translation_enabled": false,
+                "profile_background_color": "F5F8FA",
+                "profile_background_image_url": null,
+                "profile_background_image_url_https": null,
+                "profile_background_tile": false,
+                "profile_image_url": "http://pbs.twimg.com/profile_images/1370879240829337601/DhJ-xWeA_normal.jpg",
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/1370879240829337601/DhJ-xWeA_normal.jpg",
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/1357969682683334657/1622041666",
+                "profile_link_color": "1DA1F2",
+                "profile_sidebar_border_color": "C0DEED",
+                "profile_sidebar_fill_color": "DDEEF6",
+                "profile_text_color": "333333",
+                "profile_use_background_image": true,
+                "has_extended_profile": true,
+                "default_profile": true,
+                "default_profile_image": false,
+                "following": false,
+                "follow_request_sent": false,
+                "notifications": false,
+                "translator_type": "none",
+                "withheld_in_countries": []
+            },
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "contributors": null,
+            "is_quote_status": false,
+            "retweet_count": 1992,
+            "favorite_count": 8218,
+            "favorited": false,
+            "retweeted": false,
+            "lang": "es"
+        },
+        "retweet_count": 74,
+        "favorite_count": 92,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "es"
+    },
+    "is_quote_status": true,
+    "quoted_status_id": 1415145721658056704,
+    "quoted_status_id_str": "1415145721658056704",
+    "retweet_count": 74,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "es"
+}

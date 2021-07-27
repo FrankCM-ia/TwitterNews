@@ -1,0 +1,310 @@
+{
+    "created_at": "Wed Jul 14 16:00:30 +0000 2021",
+    "id": 1415340437640974341,
+    "id_str": "1415340437640974341",
+    "full_text": "RT @federiconiche_: \"En Cuba \ud83c\udde8\ud83c\uddfa tienen Derechos Laborales dignos, por eso los capitalistas est\u00e1n en contra de Cuba\"\n\nLos Derechos Laborales\u2026",
+    "truncated": false,
+    "display_text_range": [
+        0,
+        140
+    ],
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "federiconiche_",
+                "name": "Federico Niche",
+                "id": 957044978114617345,
+                "id_str": "957044978114617345",
+                "indices": [
+                    3,
+                    18
+                ]
+            }
+        ],
+        "urls": []
+    },
+    "metadata": {
+        "iso_language_code": "es",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 123278491,
+        "id_str": "123278491",
+        "name": "Luis Palencia",
+        "screen_name": "Pav1x",
+        "location": "",
+        "description": "",
+        "url": null,
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 180,
+        "friends_count": 211,
+        "listed_count": 0,
+        "created_at": "Mon Mar 15 15:35:09 +0000 2010",
+        "favourites_count": 7143,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 4278,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1356326703979757571/aiRc1Nq8_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1356326703979757571/aiRc1Nq8_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+        "created_at": "Tue Jul 13 22:08:07 +0000 2021",
+        "id": 1415070563106705412,
+        "id_str": "1415070563106705412",
+        "full_text": "\"En Cuba \ud83c\udde8\ud83c\uddfa tienen Derechos Laborales dignos, por eso los capitalistas est\u00e1n en contra de Cuba\"\n\nLos Derechos Laborales Dignos de Cuba \u262d: https://t.co/5w682WR3Gj",
+        "truncated": false,
+        "display_text_range": [
+            0,
+            137
+        ],
+        "entities": {
+            "hashtags": [],
+            "symbols": [],
+            "user_mentions": [],
+            "urls": [],
+            "media": [
+                {
+                    "id": 1415070557922594818,
+                    "id_str": "1415070557922594818",
+                    "indices": [
+                        138,
+                        161
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/E6NXLNEXEAIGgZ9.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/E6NXLNEXEAIGgZ9.jpg",
+                    "url": "https://t.co/5w682WR3Gj",
+                    "display_url": "pic.twitter.com/5w682WR3Gj",
+                    "expanded_url": "https://twitter.com/federiconiche_/status/1415070563106705412/photo/1",
+                    "type": "photo",
+                    "sizes": {
+                        "large": {
+                            "w": 1080,
+                            "h": 1080,
+                            "resize": "fit"
+                        },
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "medium": {
+                            "w": 1080,
+                            "h": 1080,
+                            "resize": "fit"
+                        },
+                        "small": {
+                            "w": 680,
+                            "h": 680,
+                            "resize": "fit"
+                        }
+                    }
+                }
+            ]
+        },
+        "extended_entities": {
+            "media": [
+                {
+                    "id": 1415070557922594818,
+                    "id_str": "1415070557922594818",
+                    "indices": [
+                        138,
+                        161
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/E6NXLNEXEAIGgZ9.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/E6NXLNEXEAIGgZ9.jpg",
+                    "url": "https://t.co/5w682WR3Gj",
+                    "display_url": "pic.twitter.com/5w682WR3Gj",
+                    "expanded_url": "https://twitter.com/federiconiche_/status/1415070563106705412/photo/1",
+                    "type": "photo",
+                    "sizes": {
+                        "large": {
+                            "w": 1080,
+                            "h": 1080,
+                            "resize": "fit"
+                        },
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "medium": {
+                            "w": 1080,
+                            "h": 1080,
+                            "resize": "fit"
+                        },
+                        "small": {
+                            "w": 680,
+                            "h": 680,
+                            "resize": "fit"
+                        }
+                    }
+                },
+                {
+                    "id": 1415070561206738946,
+                    "id_str": "1415070561206738946",
+                    "indices": [
+                        138,
+                        161
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/E6NXLZTXIAICAWv.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/E6NXLZTXIAICAWv.jpg",
+                    "url": "https://t.co/5w682WR3Gj",
+                    "display_url": "pic.twitter.com/5w682WR3Gj",
+                    "expanded_url": "https://twitter.com/federiconiche_/status/1415070563106705412/photo/1",
+                    "type": "photo",
+                    "sizes": {
+                        "small": {
+                            "w": 680,
+                            "h": 397,
+                            "resize": "fit"
+                        },
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "large": {
+                            "w": 719,
+                            "h": 420,
+                            "resize": "fit"
+                        },
+                        "medium": {
+                            "w": 719,
+                            "h": 420,
+                            "resize": "fit"
+                        }
+                    }
+                }
+            ]
+        },
+        "metadata": {
+            "iso_language_code": "es",
+            "result_type": "recent"
+        },
+        "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+        "in_reply_to_status_id": 1415066901517152264,
+        "in_reply_to_status_id_str": "1415066901517152264",
+        "in_reply_to_user_id": 957044978114617345,
+        "in_reply_to_user_id_str": "957044978114617345",
+        "in_reply_to_screen_name": "federiconiche_",
+        "user": {
+            "id": 957044978114617345,
+            "id_str": "957044978114617345",
+            "name": "Federico Niche",
+            "screen_name": "federiconiche_",
+            "location": "",
+            "description": "Este perfil es irreal y grosero, los tuits c\u00e9lebres son pobres imitaciones y debido a su contenido nadie lo debe seguir.",
+            "url": "https://t.co/sMGL1NfirS",
+            "entities": {
+                "url": {
+                    "urls": [
+                        {
+                            "url": "https://t.co/sMGL1NfirS",
+                            "expanded_url": "https://open.spotify.com/playlist/52bRmoGFyJVLFWU4iRLC3i?si=slvtkoD7RCGeDXpP1xvI7A&utm_source=copy-l",
+                            "display_url": "open.spotify.com/playlist/52bRm\u2026",
+                            "indices": [
+                                0,
+                                23
+                            ]
+                        }
+                    ]
+                },
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 13066,
+            "friends_count": 2228,
+            "listed_count": 34,
+            "created_at": "Sat Jan 27 00:17:58 +0000 2018",
+            "favourites_count": 24203,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": false,
+            "verified": false,
+            "statuses_count": 10358,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "000000",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1414295390837428226/qm_mMdjA_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1414295390837428226/qm_mMdjA_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/957044978114617345/1625752955",
+            "profile_link_color": "1B95E0",
+            "profile_sidebar_border_color": "000000",
+            "profile_sidebar_fill_color": "000000",
+            "profile_text_color": "000000",
+            "profile_use_background_image": false,
+            "has_extended_profile": true,
+            "default_profile": false,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none",
+            "withheld_in_countries": []
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 39,
+        "favorite_count": 62,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "es"
+    },
+    "is_quote_status": false,
+    "retweet_count": 39,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "es"
+}

@@ -1,0 +1,218 @@
+{
+    "created_at": "Wed Jul 14 18:02:54 +0000 2021",
+    "id": 1415371237602349060,
+    "id_str": "1415371237602349060",
+    "full_text": "RT @Cubanoselmundo: Alemania conden\u00f3 violencia de la dictadura en Cuba y pide libertad para detenidos https://t.co/W9ZlAmfF4Q",
+    "truncated": false,
+    "display_text_range": [
+        0,
+        125
+    ],
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "Cubanoselmundo",
+                "name": "Cubanos por el Mundo",
+                "id": 71880823,
+                "id_str": "71880823",
+                "indices": [
+                    3,
+                    18
+                ]
+            }
+        ],
+        "urls": [
+            {
+                "url": "https://t.co/W9ZlAmfF4Q",
+                "expanded_url": "https://cub.am/3raaHSS",
+                "display_url": "cub.am/3raaHSS",
+                "indices": [
+                    102,
+                    125
+                ]
+            }
+        ]
+    },
+    "metadata": {
+        "iso_language_code": "es",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 933829380,
+        "id_str": "933829380",
+        "name": "Danielaodok\ud83d\udc99",
+        "screen_name": "DanielaODok",
+        "location": "United States",
+        "description": "common sense",
+        "url": null,
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 270,
+        "friends_count": 216,
+        "listed_count": 3,
+        "created_at": "Thu Nov 08 06:50:33 +0000 2012",
+        "favourites_count": 20722,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 2331,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1415161831241494530/ENmrAluR_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1415161831241494530/ENmrAluR_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/933829380/1625413240",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+        "created_at": "Wed Jul 14 16:23:27 +0000 2021",
+        "id": 1415346210265780228,
+        "id_str": "1415346210265780228",
+        "full_text": "Alemania conden\u00f3 violencia de la dictadura en Cuba y pide libertad para detenidos https://t.co/W9ZlAmfF4Q",
+        "truncated": false,
+        "display_text_range": [
+            0,
+            105
+        ],
+        "entities": {
+            "hashtags": [],
+            "symbols": [],
+            "user_mentions": [],
+            "urls": [
+                {
+                    "url": "https://t.co/W9ZlAmfF4Q",
+                    "expanded_url": "https://cub.am/3raaHSS",
+                    "display_url": "cub.am/3raaHSS",
+                    "indices": [
+                        82,
+                        105
+                    ]
+                }
+            ]
+        },
+        "metadata": {
+            "iso_language_code": "es",
+            "result_type": "recent"
+        },
+        "source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 71880823,
+            "id_str": "71880823",
+            "name": "Cubanos por el Mundo",
+            "screen_name": "Cubanoselmundo",
+            "location": "Miami, FL",
+            "description": "#cubanosporelmundo",
+            "url": "https://t.co/gpaiquh8kN",
+            "entities": {
+                "url": {
+                    "urls": [
+                        {
+                            "url": "https://t.co/gpaiquh8kN",
+                            "expanded_url": "https://cubanosporelmundo.com/",
+                            "display_url": "cubanosporelmundo.com",
+                            "indices": [
+                                0,
+                                23
+                            ]
+                        }
+                    ]
+                },
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 65747,
+            "friends_count": 66043,
+            "listed_count": 224,
+            "created_at": "Sat Sep 05 20:08:20 +0000 2009",
+            "favourites_count": 737,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": true,
+            "verified": false,
+            "statuses_count": 110131,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "D51D33",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme4/bg.gif",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme4/bg.gif",
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/660998381670502400/HBObLaHg_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/660998381670502400/HBObLaHg_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/71880823/1427725353",
+            "profile_link_color": "21275B",
+            "profile_sidebar_border_color": "000000",
+            "profile_sidebar_fill_color": "000000",
+            "profile_text_color": "000000",
+            "profile_use_background_image": false,
+            "has_extended_profile": true,
+            "default_profile": false,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none",
+            "withheld_in_countries": []
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 81,
+        "favorite_count": 155,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "es"
+    },
+    "is_quote_status": false,
+    "retweet_count": 81,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "es"
+}

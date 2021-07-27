@@ -1,0 +1,290 @@
+{
+    "created_at": "Thu Jul 15 15:46:27 +0000 2021",
+    "id": 1415699289637019657,
+    "id_str": "1415699289637019657",
+    "full_text": "Me quiero tirar por un barranco https://t.co/HPnfrGYxNC",
+    "truncated": false,
+    "display_text_range": [
+        0,
+        31
+    ],
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+            {
+                "url": "https://t.co/HPnfrGYxNC",
+                "expanded_url": "https://twitter.com/disclosetv/status/1415697051560595458",
+                "display_url": "twitter.com/disclosetv/sta\u2026",
+                "indices": [
+                    32,
+                    55
+                ]
+            }
+        ]
+    },
+    "metadata": {
+        "iso_language_code": "es",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 1261616806898384897,
+        "id_str": "1261616806898384897",
+        "name": "Persukarhu | El mapache de la trastienda\ud83e\udd19\ud83c\udffb",
+        "screen_name": "raccoon_es",
+        "location": "Islas de la Sociedad",
+        "description": "#BlackTRANSlivesMatter #MeToo #BlackLivesMatter Biden mejor presidente, el m\u00e1s elocuente y el que mejor juega a la Nintendo, pronombres etc. #PesetasYCunetas",
+        "url": "https://t.co/sUrj1LIwfM",
+        "entities": {
+            "url": {
+                "urls": [
+                    {
+                        "url": "https://t.co/sUrj1LIwfM",
+                        "expanded_url": "https://coinmarketcap.com/es/currencies/pesetacoin/",
+                        "display_url": "coinmarketcap.com/es/currencies/\u2026",
+                        "indices": [
+                            0,
+                            23
+                        ]
+                    }
+                ]
+            },
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 721,
+        "friends_count": 496,
+        "listed_count": 1,
+        "created_at": "Sat May 16 11:17:49 +0000 2020",
+        "favourites_count": 41668,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 8883,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": null,
+        "profile_background_image_url_https": null,
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1394970259480842240/GU6XPujY_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1394970259480842240/GU6XPujY_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1261616806898384897/1618065144",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": true,
+    "quoted_status_id": 1415697051560595458,
+    "quoted_status_id_str": "1415697051560595458",
+    "quoted_status": {
+        "created_at": "Thu Jul 15 15:37:34 +0000 2021",
+        "id": 1415697051560595458,
+        "id_str": "1415697051560595458",
+        "full_text": "NEW - Emoji 14.0 is to be finalized. Here is what they will push to all our phones soon, according to the latest draft list. https://t.co/95KDRtItd0",
+        "truncated": false,
+        "display_text_range": [
+            0,
+            124
+        ],
+        "entities": {
+            "hashtags": [],
+            "symbols": [],
+            "user_mentions": [],
+            "urls": [],
+            "media": [
+                {
+                    "id": 1415696951081852929,
+                    "id_str": "1415696951081852929",
+                    "indices": [
+                        125,
+                        148
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/E6WQ4FbWYAEBxK3.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/E6WQ4FbWYAEBxK3.jpg",
+                    "url": "https://t.co/95KDRtItd0",
+                    "display_url": "pic.twitter.com/95KDRtItd0",
+                    "expanded_url": "https://twitter.com/disclosetv/status/1415697051560595458/photo/1",
+                    "type": "photo",
+                    "sizes": {
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "medium": {
+                            "w": 1028,
+                            "h": 1200,
+                            "resize": "fit"
+                        },
+                        "small": {
+                            "w": 583,
+                            "h": 680,
+                            "resize": "fit"
+                        },
+                        "large": {
+                            "w": 1097,
+                            "h": 1280,
+                            "resize": "fit"
+                        }
+                    }
+                }
+            ]
+        },
+        "extended_entities": {
+            "media": [
+                {
+                    "id": 1415696951081852929,
+                    "id_str": "1415696951081852929",
+                    "indices": [
+                        125,
+                        148
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/E6WQ4FbWYAEBxK3.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/E6WQ4FbWYAEBxK3.jpg",
+                    "url": "https://t.co/95KDRtItd0",
+                    "display_url": "pic.twitter.com/95KDRtItd0",
+                    "expanded_url": "https://twitter.com/disclosetv/status/1415697051560595458/photo/1",
+                    "type": "photo",
+                    "sizes": {
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "medium": {
+                            "w": 1028,
+                            "h": 1200,
+                            "resize": "fit"
+                        },
+                        "small": {
+                            "w": 583,
+                            "h": 680,
+                            "resize": "fit"
+                        },
+                        "large": {
+                            "w": 1097,
+                            "h": 1280,
+                            "resize": "fit"
+                        }
+                    }
+                }
+            ]
+        },
+        "metadata": {
+            "iso_language_code": "es",
+            "result_type": "recent"
+        },
+        "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 15392486,
+            "id_str": "15392486",
+            "name": "Disclose.tv \ud83d\udea8",
+            "screen_name": "disclosetv",
+            "location": "",
+            "description": "Observe together how world events unfold in the great theater of our time.",
+            "url": "https://t.co/0qSLTY0oBW",
+            "entities": {
+                "url": {
+                    "urls": [
+                        {
+                            "url": "https://t.co/0qSLTY0oBW",
+                            "expanded_url": "https://www.disclose.tv",
+                            "display_url": "disclose.tv",
+                            "indices": [
+                                0,
+                                23
+                            ]
+                        }
+                    ]
+                },
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 527179,
+            "friends_count": 659,
+            "listed_count": 2812,
+            "created_at": "Fri Jul 11 15:25:39 +0000 2008",
+            "favourites_count": 34239,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": false,
+            "verified": false,
+            "statuses_count": 1906,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "000000",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme10/bg.gif",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme10/bg.gif",
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/898153945721339904/OFVCkPfR_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/898153945721339904/OFVCkPfR_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/15392486/1502971451",
+            "profile_link_color": "3B94D9",
+            "profile_sidebar_border_color": "454545",
+            "profile_sidebar_fill_color": "CFCFCF",
+            "profile_text_color": "2B2B2B",
+            "profile_use_background_image": true,
+            "has_extended_profile": false,
+            "default_profile": false,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none",
+            "withheld_in_countries": []
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 368,
+        "favorite_count": 1126,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "en"
+    },
+    "retweet_count": 0,
+    "favorite_count": 6,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "es"
+}

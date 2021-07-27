@@ -1,0 +1,182 @@
+{
+    "created_at": "Wed Jul 14 16:00:08 +0000 2021",
+    "id": 1415340343285981189,
+    "id_str": "1415340343285981189",
+    "full_text": "RT @MarcoAnibal: *Roger Waters sobre Cuba*\n\n\"Si le interesa mi casa y no me la puede comprar, es porque no se la quiero vender, ni tampoco\u2026",
+    "truncated": false,
+    "display_text_range": [
+        0,
+        139
+    ],
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "MarcoAnibal",
+                "name": "Marco Navas",
+                "id": 106498301,
+                "id_str": "106498301",
+                "indices": [
+                    3,
+                    15
+                ]
+            }
+        ],
+        "urls": []
+    },
+    "metadata": {
+        "iso_language_code": "es",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 1169089280507097088,
+        "id_str": "1169089280507097088",
+        "name": "Cesar Prado",
+        "screen_name": "CesarPr68475365",
+        "location": "",
+        "description": "Integridad",
+        "url": null,
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 5,
+        "friends_count": 35,
+        "listed_count": 0,
+        "created_at": "Wed Sep 04 03:26:52 +0000 2019",
+        "favourites_count": 1642,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 626,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": null,
+        "profile_background_image_url_https": null,
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1169089983992487936/QMNubSIn_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1169089983992487936/QMNubSIn_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+        "created_at": "Tue Jul 13 18:24:10 +0000 2021",
+        "id": 1415014201593057295,
+        "id_str": "1415014201593057295",
+        "full_text": "*Roger Waters sobre Cuba*\n\n\"Si le interesa mi casa y no me la puede comprar, es porque no se la quiero vender, ni tampoco se la quiero alquilar o arrendar\u2026 Entonces usted me encierra en mi casa, y no me deja salir para ir al supermercado, ni a la farmacia, ni al banco,\n\nHilo",
+        "truncated": false,
+        "display_text_range": [
+            0,
+            275
+        ],
+        "entities": {
+            "hashtags": [],
+            "symbols": [],
+            "user_mentions": [],
+            "urls": []
+        },
+        "metadata": {
+            "iso_language_code": "es",
+            "result_type": "recent"
+        },
+        "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 106498301,
+            "id_str": "106498301",
+            "name": "Marco Navas",
+            "screen_name": "MarcoAnibal",
+            "location": "Quito - Ecuador",
+            "description": "Ingeniero MBA Calidad-Productividad. Estudios Ciencia Pol\u00edtica. Relaciones Internacionales. Seguridad-Defensa-DD. HH. Comercio Exterior. Desarrollo. Educaci\u00f3n.",
+            "url": null,
+            "entities": {
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 36183,
+            "friends_count": 170,
+            "listed_count": 54,
+            "created_at": "Tue Jan 19 19:21:09 +0000 2010",
+            "favourites_count": 33459,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": true,
+            "verified": false,
+            "statuses_count": 46858,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "C0DEED",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1158257551496142848/7b8xqX5X_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1158257551496142848/7b8xqX5X_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/106498301/1564984228",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "has_extended_profile": false,
+            "default_profile": true,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none",
+            "withheld_in_countries": []
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 619,
+        "favorite_count": 1031,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "es"
+    },
+    "is_quote_status": false,
+    "retweet_count": 619,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "es"
+}

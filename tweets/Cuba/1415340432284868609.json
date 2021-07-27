@@ -1,0 +1,110 @@
+{
+    "created_at": "Wed Jul 14 16:00:29 +0000 2021",
+    "id": 1415340432284868609,
+    "id_str": "1415340432284868609",
+    "full_text": "@maximazzon El colmo es Chile protestando por la represi\u00f3n en Cuba, pero en Colombia y Sud\u00e1frica ... todo bien eh",
+    "truncated": false,
+    "display_text_range": [
+        12,
+        113
+    ],
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "maximazzon",
+                "name": "maximiliano Mazzon",
+                "id": 153445789,
+                "id_str": "153445789",
+                "indices": [
+                    0,
+                    11
+                ]
+            }
+        ],
+        "urls": []
+    },
+    "metadata": {
+        "iso_language_code": "es",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "in_reply_to_status_id": 1415316755522760706,
+    "in_reply_to_status_id_str": "1415316755522760706",
+    "in_reply_to_user_id": 153445789,
+    "in_reply_to_user_id_str": "153445789",
+    "in_reply_to_screen_name": "maximazzon",
+    "user": {
+        "id": 1078628343967371264,
+        "id_str": "1078628343967371264",
+        "name": "Jorge",
+        "screen_name": "JorgeApel1",
+        "location": "Santa F\u00e9, Argentina",
+        "description": "Que ser valiente no salga tan caro \nQue ser cobarde no valga la pena",
+        "url": "https://t.co/tKcT5uqXax",
+        "entities": {
+            "url": {
+                "urls": [
+                    {
+                        "url": "https://t.co/tKcT5uqXax",
+                        "expanded_url": "http://facebook.com/apel.jorge",
+                        "display_url": "facebook.com/apel.jorge",
+                        "indices": [
+                            0,
+                            23
+                        ]
+                    }
+                ]
+            },
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 298,
+        "friends_count": 783,
+        "listed_count": 1,
+        "created_at": "Fri Dec 28 12:26:51 +0000 2018",
+        "favourites_count": 12251,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 20715,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1401658593875841029/wQ3cruML_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1401658593875841029/wQ3cruML_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1078628343967371264/1546016140",
+        "profile_link_color": "1B95E0",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "profile_use_background_image": false,
+        "has_extended_profile": true,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "es"
+}

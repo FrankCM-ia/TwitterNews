@@ -1,0 +1,474 @@
+{
+    "created_at": "Wed Jul 14 16:00:26 +0000 2021",
+    "id": 1415340418552799235,
+    "id_str": "1415340418552799235",
+    "full_text": "RT @gujosepe: @Mippcivzla @mujica_mbsptv @TareckPSUV @DiazCanelB @CubaMINREX @EmbaVECuba @RPolancoF @Adan_Coromoto @luis_villegasr @luchaal\u2026",
+    "truncated": false,
+    "display_text_range": [
+        0,
+        140
+    ],
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "gujosepe",
+                "name": "Gustavo",
+                "id": 1859757769,
+                "id_str": "1859757769",
+                "indices": [
+                    3,
+                    12
+                ]
+            },
+            {
+                "screen_name": "Mippcivzla",
+                "name": "MIPPCI",
+                "id": 839299289792774144,
+                "id_str": "839299289792774144",
+                "indices": [
+                    14,
+                    25
+                ]
+            },
+            {
+                "screen_name": "mujica_mbsptv",
+                "name": "MujicaMBSPTV",
+                "id": 1391209413122330630,
+                "id_str": "1391209413122330630",
+                "indices": [
+                    26,
+                    40
+                ]
+            },
+            {
+                "screen_name": "TareckPSUV",
+                "name": "Tareck El Aissami",
+                "id": 132570884,
+                "id_str": "132570884",
+                "indices": [
+                    41,
+                    52
+                ]
+            },
+            {
+                "screen_name": "DiazCanelB",
+                "name": "Miguel D\u00edaz-Canel Berm\u00fadez",
+                "id": 1025037163291914240,
+                "id_str": "1025037163291914240",
+                "indices": [
+                    53,
+                    64
+                ]
+            },
+            {
+                "screen_name": "CubaMINREX",
+                "name": "Canciller\u00eda de Cuba",
+                "id": 141493488,
+                "id_str": "141493488",
+                "indices": [
+                    65,
+                    76
+                ]
+            },
+            {
+                "screen_name": "EmbaVECuba",
+                "name": "Embajada de Venezuela en Cuba",
+                "id": 829438176,
+                "id_str": "829438176",
+                "indices": [
+                    77,
+                    88
+                ]
+            },
+            {
+                "screen_name": "RPolancoF",
+                "name": "Rogelio Polanco Fuentes",
+                "id": 1181784118503378944,
+                "id_str": "1181784118503378944",
+                "indices": [
+                    89,
+                    99
+                ]
+            },
+            {
+                "screen_name": "Adan_Coromoto",
+                "name": "Ad\u00e1n Ch\u00e1vez",
+                "id": 929838427,
+                "id_str": "929838427",
+                "indices": [
+                    100,
+                    114
+                ]
+            },
+            {
+                "screen_name": "luis_villegasr",
+                "name": "Luis Villegas Ram\u00edrez",
+                "id": 140101216,
+                "id_str": "140101216",
+                "indices": [
+                    115,
+                    130
+                ]
+            }
+        ],
+        "urls": []
+    },
+    "metadata": {
+        "iso_language_code": "es",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 1859757769,
+        "id_str": "1859757769",
+        "name": "Gustavo",
+        "screen_name": "gujosepe",
+        "location": "Venezuela, llevando vergas.",
+        "description": "Sur-Laguense, zuliano, caraque\u00f1o, trujillano, VENEZOLANO, en ese orden... CIUDADANO DEL MUNDO. Buscando al #Estado en #Venezuela y seguro de encontrarlo. CCL.",
+        "url": null,
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 2652,
+        "friends_count": 4670,
+        "listed_count": 1,
+        "created_at": "Fri Sep 13 06:49:48 +0000 2013",
+        "favourites_count": 88689,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 73997,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/952734135944204293/hPLE1GFU_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/952734135944204293/hPLE1GFU_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1859757769/1492046024",
+        "profile_link_color": "1B95E0",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "profile_use_background_image": false,
+        "has_extended_profile": true,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+        "created_at": "Wed Jul 14 13:38:15 +0000 2021",
+        "id": 1415304637909921792,
+        "id_str": "1415304637909921792",
+        "full_text": "@Mippcivzla @mujica_mbsptv @TareckPSUV @DiazCanelB @CubaMINREX @EmbaVECuba @RPolancoF @Adan_Coromoto @luis_villegasr @luchaalmada @SMoncada_eng #LaPatriaEsNuestraAmerica \nY la #Corrupcion es #Gibierno en #Venezuela al igual que la #Dictadura en #Cuba\n\nRecordemos que son los mismos bichos, animales malucos. Una muergana casta pol\u00edtica oprobiosa sostenida por militares corrompidos y sinverguenzas\n#CubaLibre\n#VenezuelaLibre",
+        "truncated": false,
+        "display_text_range": [
+            144,
+            424
+        ],
+        "entities": {
+            "hashtags": [
+                {
+                    "text": "LaPatriaEsNuestraAmerica",
+                    "indices": [
+                        144,
+                        169
+                    ]
+                },
+                {
+                    "text": "Corrupcion",
+                    "indices": [
+                        176,
+                        187
+                    ]
+                },
+                {
+                    "text": "Gibierno",
+                    "indices": [
+                        191,
+                        200
+                    ]
+                },
+                {
+                    "text": "Venezuela",
+                    "indices": [
+                        204,
+                        214
+                    ]
+                },
+                {
+                    "text": "Dictadura",
+                    "indices": [
+                        231,
+                        241
+                    ]
+                },
+                {
+                    "text": "Cuba",
+                    "indices": [
+                        245,
+                        250
+                    ]
+                },
+                {
+                    "text": "CubaLibre",
+                    "indices": [
+                        398,
+                        408
+                    ]
+                },
+                {
+                    "text": "VenezuelaLibre",
+                    "indices": [
+                        409,
+                        424
+                    ]
+                }
+            ],
+            "symbols": [],
+            "user_mentions": [
+                {
+                    "screen_name": "Mippcivzla",
+                    "name": "MIPPCI",
+                    "id": 839299289792774144,
+                    "id_str": "839299289792774144",
+                    "indices": [
+                        0,
+                        11
+                    ]
+                },
+                {
+                    "screen_name": "mujica_mbsptv",
+                    "name": "MujicaMBSPTV",
+                    "id": 1391209413122330630,
+                    "id_str": "1391209413122330630",
+                    "indices": [
+                        12,
+                        26
+                    ]
+                },
+                {
+                    "screen_name": "TareckPSUV",
+                    "name": "Tareck El Aissami",
+                    "id": 132570884,
+                    "id_str": "132570884",
+                    "indices": [
+                        27,
+                        38
+                    ]
+                },
+                {
+                    "screen_name": "DiazCanelB",
+                    "name": "Miguel D\u00edaz-Canel Berm\u00fadez",
+                    "id": 1025037163291914240,
+                    "id_str": "1025037163291914240",
+                    "indices": [
+                        39,
+                        50
+                    ]
+                },
+                {
+                    "screen_name": "CubaMINREX",
+                    "name": "Canciller\u00eda de Cuba",
+                    "id": 141493488,
+                    "id_str": "141493488",
+                    "indices": [
+                        51,
+                        62
+                    ]
+                },
+                {
+                    "screen_name": "EmbaVECuba",
+                    "name": "Embajada de Venezuela en Cuba",
+                    "id": 829438176,
+                    "id_str": "829438176",
+                    "indices": [
+                        63,
+                        74
+                    ]
+                },
+                {
+                    "screen_name": "RPolancoF",
+                    "name": "Rogelio Polanco Fuentes",
+                    "id": 1181784118503378944,
+                    "id_str": "1181784118503378944",
+                    "indices": [
+                        75,
+                        85
+                    ]
+                },
+                {
+                    "screen_name": "Adan_Coromoto",
+                    "name": "Ad\u00e1n Ch\u00e1vez",
+                    "id": 929838427,
+                    "id_str": "929838427",
+                    "indices": [
+                        86,
+                        100
+                    ]
+                },
+                {
+                    "screen_name": "luis_villegasr",
+                    "name": "Luis Villegas Ram\u00edrez",
+                    "id": 140101216,
+                    "id_str": "140101216",
+                    "indices": [
+                        101,
+                        116
+                    ]
+                },
+                {
+                    "screen_name": "luchaalmada",
+                    "name": "Alfred Nazareth",
+                    "id": 261292955,
+                    "id_str": "261292955",
+                    "indices": [
+                        117,
+                        129
+                    ]
+                },
+                {
+                    "screen_name": "SMoncada_eng",
+                    "name": "Samuel Moncada",
+                    "id": 1253506935565037569,
+                    "id_str": "1253506935565037569",
+                    "indices": [
+                        130,
+                        143
+                    ]
+                }
+            ],
+            "urls": []
+        },
+        "metadata": {
+            "iso_language_code": "es",
+            "result_type": "recent"
+        },
+        "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+        "in_reply_to_status_id": 1415268254516457477,
+        "in_reply_to_status_id_str": "1415268254516457477",
+        "in_reply_to_user_id": 839299289792774144,
+        "in_reply_to_user_id_str": "839299289792774144",
+        "in_reply_to_screen_name": "Mippcivzla",
+        "user": {
+            "id": 1859757769,
+            "id_str": "1859757769",
+            "name": "Gustavo",
+            "screen_name": "gujosepe",
+            "location": "Venezuela, llevando vergas.",
+            "description": "Sur-Laguense, zuliano, caraque\u00f1o, trujillano, VENEZOLANO, en ese orden... CIUDADANO DEL MUNDO. Buscando al #Estado en #Venezuela y seguro de encontrarlo. CCL.",
+            "url": null,
+            "entities": {
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 2652,
+            "friends_count": 4670,
+            "listed_count": 1,
+            "created_at": "Fri Sep 13 06:49:48 +0000 2013",
+            "favourites_count": 88689,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": true,
+            "verified": false,
+            "statuses_count": 73997,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "000000",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/952734135944204293/hPLE1GFU_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/952734135944204293/hPLE1GFU_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/1859757769/1492046024",
+            "profile_link_color": "1B95E0",
+            "profile_sidebar_border_color": "000000",
+            "profile_sidebar_fill_color": "000000",
+            "profile_text_color": "000000",
+            "profile_use_background_image": false,
+            "has_extended_profile": true,
+            "default_profile": false,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none",
+            "withheld_in_countries": []
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": {
+            "id": "00ec4c32070f5076",
+            "url": "https://api.twitter.com/1.1/geo/id/00ec4c32070f5076.json",
+            "place_type": "city",
+            "name": "Caracas",
+            "full_name": "Caracas, Venezuela",
+            "country_code": "VE",
+            "country": "Venezuela",
+            "contained_within": [],
+            "bounding_box": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -66.9985809,
+                            10.440464
+                        ],
+                        [
+                            -66.862707,
+                            10.440464
+                        ],
+                        [
+                            -66.862707,
+                            10.5266142
+                        ],
+                        [
+                            -66.9985809,
+                            10.5266142
+                        ]
+                    ]
+                ]
+            },
+            "attributes": {}
+        },
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 9,
+        "favorite_count": 3,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "es"
+    },
+    "is_quote_status": false,
+    "retweet_count": 9,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "es"
+}

@@ -1,0 +1,193 @@
+{
+    "created_at": "Thu Jul 15 16:48:50 +0000 2021",
+    "id": 1415714988858257411,
+    "id_str": "1415714988858257411",
+    "full_text": "\ud83d\udea8\u26a0\ufe0fALERTA\u26a0\ufe0f\ud83d\udea8\n\u261dUn #perro educado no olvida sus instintos y al menor est\u00edmulo puede correr #peligro\ud83d\ude22\n\u274cQue lo ataquen otros perros\n\u274cQue ataque a otros perros\n\u274cSeguir a una mascota en celo\n\u274cCorrer sin control hacia la pista\n[1/2] https://t.co/RyZvk5VYyq",
+    "truncated": false,
+    "display_text_range": [
+        0,
+        225
+    ],
+    "entities": {
+        "hashtags": [
+            {
+                "text": "perro",
+                "indices": [
+                    17,
+                    23
+                ]
+            },
+            {
+                "text": "peligro",
+                "indices": [
+                    89,
+                    97
+                ]
+            }
+        ],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [],
+        "media": [
+            {
+                "id": 1415714514717315077,
+                "id_str": "1415714514717315077",
+                "indices": [
+                    226,
+                    249
+                ],
+                "media_url": "http://pbs.twimg.com/media/E6Wg2bEXEAU1Dez.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/E6Wg2bEXEAU1Dez.jpg",
+                "url": "https://t.co/RyZvk5VYyq",
+                "display_url": "pic.twitter.com/RyZvk5VYyq",
+                "expanded_url": "https://twitter.com/Barranco_Muni/status/1415714988858257411/photo/1",
+                "type": "photo",
+                "sizes": {
+                    "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                    },
+                    "large": {
+                        "w": 1024,
+                        "h": 512,
+                        "resize": "fit"
+                    },
+                    "small": {
+                        "w": 680,
+                        "h": 340,
+                        "resize": "fit"
+                    },
+                    "medium": {
+                        "w": 1024,
+                        "h": 512,
+                        "resize": "fit"
+                    }
+                }
+            }
+        ]
+    },
+    "extended_entities": {
+        "media": [
+            {
+                "id": 1415714514717315077,
+                "id_str": "1415714514717315077",
+                "indices": [
+                    226,
+                    249
+                ],
+                "media_url": "http://pbs.twimg.com/media/E6Wg2bEXEAU1Dez.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/E6Wg2bEXEAU1Dez.jpg",
+                "url": "https://t.co/RyZvk5VYyq",
+                "display_url": "pic.twitter.com/RyZvk5VYyq",
+                "expanded_url": "https://twitter.com/Barranco_Muni/status/1415714988858257411/photo/1",
+                "type": "photo",
+                "sizes": {
+                    "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                    },
+                    "large": {
+                        "w": 1024,
+                        "h": 512,
+                        "resize": "fit"
+                    },
+                    "small": {
+                        "w": 680,
+                        "h": 340,
+                        "resize": "fit"
+                    },
+                    "medium": {
+                        "w": 1024,
+                        "h": 512,
+                        "resize": "fit"
+                    }
+                }
+            }
+        ]
+    },
+    "metadata": {
+        "iso_language_code": "es",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 3004255763,
+        "id_str": "3004255763",
+        "name": "Muni Barranco",
+        "screen_name": "Barranco_Muni",
+        "location": "Av. San Mart\u00edn S/N, Barranco.",
+        "description": "Cuenta Oficial de la Municipalidad de Barranco. \nComun\u00edcate con nosotros\nFB: @munidebarranco\nTW: @barranco_muni\nIG: munibarranco\n\n\u00a1Juntos saldremos adelante!",
+        "url": "https://t.co/eCP715AuPW",
+        "entities": {
+            "url": {
+                "urls": [
+                    {
+                        "url": "https://t.co/eCP715AuPW",
+                        "expanded_url": "http://www.munibarranco.gob.pe",
+                        "display_url": "munibarranco.gob.pe",
+                        "indices": [
+                            0,
+                            23
+                        ]
+                    }
+                ]
+            },
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 1926,
+        "friends_count": 358,
+        "listed_count": 19,
+        "created_at": "Thu Jan 29 18:36:59 +0000 2015",
+        "favourites_count": 214,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 3180,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1410978581589762050/k-LtvJTz_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1410978581589762050/k-LtvJTz_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/3004255763/1625238442",
+        "profile_link_color": "1B95E0",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "profile_use_background_image": false,
+        "has_extended_profile": true,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "es"
+}

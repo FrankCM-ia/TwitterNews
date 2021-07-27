@@ -1,0 +1,183 @@
+{
+    "created_at": "Wed Jul 14 18:02:35 +0000 2021",
+    "id": 1415371160792014854,
+    "id_str": "1415371160792014854",
+    "full_text": "RT @Terciot71: En Cuba los ciudadanos siguen los consejos de la agenda 2050 del Gobierno\nNo comen carne\nComen gusanos\nNo usan coches\nGastan\u2026",
+    "truncated": false,
+    "display_text_range": [
+        0,
+        140
+    ],
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "Terciot71",
+                "name": "Tercio_T7 viva Cuba libre",
+                "id": 1392891999389376517,
+                "id_str": "1392891999389376517",
+                "indices": [
+                    3,
+                    13
+                ]
+            }
+        ],
+        "urls": []
+    },
+    "metadata": {
+        "iso_language_code": "es",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 140764048,
+        "id_str": "140764048",
+        "name": "ARTUROTE8 \ud83d\udc99\ud83d\udc99\ud83d\udc99",
+        "screen_name": "arturote8",
+        "location": "burgos",
+        "description": "estoy cada vez mas convencido de que la verdad, aflorara.",
+        "url": null,
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 11403,
+        "friends_count": 11260,
+        "listed_count": 23,
+        "created_at": "Thu May 06 09:35:52 +0000 2010",
+        "favourites_count": 357562,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 376205,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1383093417593425921/TaylZzLP_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1383093417593425921/TaylZzLP_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/140764048/1399055148",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": true,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+        "created_at": "Wed Jul 14 17:14:19 +0000 2021",
+        "id": 1415359012535742465,
+        "id_str": "1415359012535742465",
+        "full_text": "En Cuba los ciudadanos siguen los consejos de la agenda 2050 del Gobierno\nNo comen carne\nComen gusanos\nNo usan coches\nGastan poca luz, poca agua y poco combustible\nObedecen a su Gobierno\nTodo de manera ecologista, resiliente, feminista y con perspectiva de una dictadura comunista",
+        "truncated": false,
+        "display_text_range": [
+            0,
+            280
+        ],
+        "entities": {
+            "hashtags": [],
+            "symbols": [],
+            "user_mentions": [],
+            "urls": []
+        },
+        "metadata": {
+            "iso_language_code": "es",
+            "result_type": "recent"
+        },
+        "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 1392891999389376517,
+            "id_str": "1392891999389376517",
+            "name": "Tercio_T7 viva Cuba libre",
+            "screen_name": "Terciot71",
+            "location": "",
+            "description": "Amo a Espa\u00f1a y soy anticomunista\nEl Gobierno rojo y sus socios etarras y lazos me tendr\u00e1n siempre enfrente. Tuits populistas\nTitulado en sentido com\u00fan\n\ud83d\udc9aVERDE",
+            "url": null,
+            "entities": {
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 2002,
+            "friends_count": 1904,
+            "listed_count": 3,
+            "created_at": "Thu May 13 17:18:34 +0000 2021",
+            "favourites_count": 3171,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": false,
+            "verified": false,
+            "statuses_count": 1848,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "F5F8FA",
+            "profile_background_image_url": null,
+            "profile_background_image_url_https": null,
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1392900339817488387/A0Xlmr-t_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1392900339817488387/A0Xlmr-t_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/1392891999389376517/1620931451",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "has_extended_profile": true,
+            "default_profile": true,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none",
+            "withheld_in_countries": []
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 15,
+        "favorite_count": 20,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "es"
+    },
+    "is_quote_status": false,
+    "retweet_count": 15,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "es"
+}

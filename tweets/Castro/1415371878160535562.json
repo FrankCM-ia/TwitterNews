@@ -1,0 +1,165 @@
+{
+    "created_at": "Wed Jul 14 18:05:26 +0000 2021",
+    "id": 1415371878160535562,
+    "id_str": "1415371878160535562",
+    "full_text": "Conicet\nCuba\nMiren estas mentes fragiles y tontas como las del Conicet, como los progresistas. Pero en vez de ser Castro o el Che el que les lavaba la cabeza era Charles Mason, un psic\u00f3pata manipulador. Les decia vayan y maten porque as\u00ed van a salvar el mundo y ellos lo hacian https://t.co/ffelPnBMBT",
+    "truncated": false,
+    "display_text_range": [
+        0,
+        277
+    ],
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [],
+        "media": [
+            {
+                "id": 1415371865699328193,
+                "id_str": "1415371865699328193",
+                "indices": [
+                    278,
+                    301
+                ],
+                "media_url": "http://pbs.twimg.com/media/E6RpNoAXIMEJTjk.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/E6RpNoAXIMEJTjk.jpg",
+                "url": "https://t.co/ffelPnBMBT",
+                "display_url": "pic.twitter.com/ffelPnBMBT",
+                "expanded_url": "https://twitter.com/Monkey93096299/status/1415371878160535562/photo/1",
+                "type": "photo",
+                "sizes": {
+                    "medium": {
+                        "w": 950,
+                        "h": 534,
+                        "resize": "fit"
+                    },
+                    "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                    },
+                    "small": {
+                        "w": 680,
+                        "h": 382,
+                        "resize": "fit"
+                    },
+                    "large": {
+                        "w": 950,
+                        "h": 534,
+                        "resize": "fit"
+                    }
+                }
+            }
+        ]
+    },
+    "extended_entities": {
+        "media": [
+            {
+                "id": 1415371865699328193,
+                "id_str": "1415371865699328193",
+                "indices": [
+                    278,
+                    301
+                ],
+                "media_url": "http://pbs.twimg.com/media/E6RpNoAXIMEJTjk.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/E6RpNoAXIMEJTjk.jpg",
+                "url": "https://t.co/ffelPnBMBT",
+                "display_url": "pic.twitter.com/ffelPnBMBT",
+                "expanded_url": "https://twitter.com/Monkey93096299/status/1415371878160535562/photo/1",
+                "type": "photo",
+                "sizes": {
+                    "medium": {
+                        "w": 950,
+                        "h": 534,
+                        "resize": "fit"
+                    },
+                    "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                    },
+                    "small": {
+                        "w": 680,
+                        "h": 382,
+                        "resize": "fit"
+                    },
+                    "large": {
+                        "w": 950,
+                        "h": 534,
+                        "resize": "fit"
+                    }
+                }
+            }
+        ]
+    },
+    "metadata": {
+        "iso_language_code": "es",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 1398784696113373186,
+        "id_str": "1398784696113373186",
+        "name": "Monkey",
+        "screen_name": "Monkey93096299",
+        "location": "",
+        "description": "",
+        "url": null,
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 21,
+        "friends_count": 115,
+        "listed_count": 1,
+        "created_at": "Sat May 29 23:34:16 +0000 2021",
+        "favourites_count": 514,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 1294,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": null,
+        "profile_background_image_url_https": null,
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1398785171927834630/A5PiqPBB_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1398785171927834630/A5PiqPBB_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1398784696113373186/1624068380",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": true,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "es"
+}

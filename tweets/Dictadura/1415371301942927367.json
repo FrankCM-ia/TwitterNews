@@ -1,0 +1,292 @@
+{
+    "created_at": "Wed Jul 14 18:03:09 +0000 2021",
+    "id": 1415371301942927367,
+    "id_str": "1415371301942927367",
+    "full_text": "RT @100_espana: #SOSCuba  #SOSCubaLibre \n\nHola \ud83d\udc4b Gobierno comunista de Espa\u00f1a, el bloqueo no es el culpable de la situaci\u00f3n de Cuba, es la\u2026",
+    "truncated": false,
+    "display_text_range": [
+        0,
+        139
+    ],
+    "entities": {
+        "hashtags": [
+            {
+                "text": "SOSCuba",
+                "indices": [
+                    16,
+                    24
+                ]
+            },
+            {
+                "text": "SOSCubaLibre",
+                "indices": [
+                    26,
+                    39
+                ]
+            }
+        ],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "100_espana",
+                "name": "100% ESPA\u00d1OL \u00ae\ufe0f",
+                "id": 4096795157,
+                "id_str": "4096795157",
+                "indices": [
+                    3,
+                    14
+                ]
+            }
+        ],
+        "urls": []
+    },
+    "metadata": {
+        "iso_language_code": "es",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 156362730,
+        "id_str": "156362730",
+        "name": "Cesar Moreno",
+        "screen_name": "Cesar30a",
+        "location": "San Sebastian",
+        "description": "La tiran\u00eda no puede reinar sino sobre la ignorancia de los pueblos",
+        "url": null,
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 824,
+        "friends_count": 2219,
+        "listed_count": 6,
+        "created_at": "Wed Jun 16 18:59:51 +0000 2010",
+        "favourites_count": 8474,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 50986,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "131516",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+        "profile_background_tile": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/941836860715929600/VlRxVeje_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/941836860715929600/VlRxVeje_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/156362730/1394673978",
+        "profile_link_color": "009999",
+        "profile_sidebar_border_color": "EEEEEE",
+        "profile_sidebar_fill_color": "EFEFEF",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": true,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+        "created_at": "Wed Jul 14 05:23:55 +0000 2021",
+        "id": 1415180237181173760,
+        "id_str": "1415180237181173760",
+        "full_text": "#SOSCuba  #SOSCubaLibre \n\nHola \ud83d\udc4b Gobierno comunista de Espa\u00f1a, el bloqueo no es el culpable de la situaci\u00f3n de Cuba, es la dictadura comunista que a vosotros os hace tanta gracia. https://t.co/k2eD4v4ksY",
+        "truncated": false,
+        "display_text_range": [
+            0,
+            179
+        ],
+        "entities": {
+            "hashtags": [
+                {
+                    "text": "SOSCuba",
+                    "indices": [
+                        0,
+                        8
+                    ]
+                },
+                {
+                    "text": "SOSCubaLibre",
+                    "indices": [
+                        10,
+                        23
+                    ]
+                }
+            ],
+            "symbols": [],
+            "user_mentions": [],
+            "urls": [],
+            "media": [
+                {
+                    "id": 1415180152053637121,
+                    "id_str": "1415180152053637121",
+                    "indices": [
+                        180,
+                        203
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/E6O62bBXIAEqaep.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/E6O62bBXIAEqaep.jpg",
+                    "url": "https://t.co/k2eD4v4ksY",
+                    "display_url": "pic.twitter.com/k2eD4v4ksY",
+                    "expanded_url": "https://twitter.com/100_espana/status/1415180237181173760/photo/1",
+                    "type": "photo",
+                    "sizes": {
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "medium": {
+                            "w": 813,
+                            "h": 1200,
+                            "resize": "fit"
+                        },
+                        "large": {
+                            "w": 1080,
+                            "h": 1595,
+                            "resize": "fit"
+                        },
+                        "small": {
+                            "w": 460,
+                            "h": 680,
+                            "resize": "fit"
+                        }
+                    }
+                }
+            ]
+        },
+        "extended_entities": {
+            "media": [
+                {
+                    "id": 1415180152053637121,
+                    "id_str": "1415180152053637121",
+                    "indices": [
+                        180,
+                        203
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/E6O62bBXIAEqaep.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/E6O62bBXIAEqaep.jpg",
+                    "url": "https://t.co/k2eD4v4ksY",
+                    "display_url": "pic.twitter.com/k2eD4v4ksY",
+                    "expanded_url": "https://twitter.com/100_espana/status/1415180237181173760/photo/1",
+                    "type": "photo",
+                    "sizes": {
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "medium": {
+                            "w": 813,
+                            "h": 1200,
+                            "resize": "fit"
+                        },
+                        "large": {
+                            "w": 1080,
+                            "h": 1595,
+                            "resize": "fit"
+                        },
+                        "small": {
+                            "w": 460,
+                            "h": 680,
+                            "resize": "fit"
+                        }
+                    }
+                }
+            ]
+        },
+        "metadata": {
+            "iso_language_code": "es",
+            "result_type": "recent"
+        },
+        "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 4096795157,
+            "id_str": "4096795157",
+            "name": "100% ESPA\u00d1OL \u00ae\ufe0f",
+            "screen_name": "100_espana",
+            "location": "\ud83c\udf0d ",
+            "description": "\u25aa\ufe0f#ComunismoEsRuina\n\u25aa\ufe0f#SocialismoEsPobreza\n\u25aa\ufe0fDonde est\u00e1 el bien, all\u00ed est\u00e1 la patria.\n\u25aa\ufe0fSin Justicia no hay Democracia.\n\u25aa\ufe0f\ud835\udc0b\ud835\udc1a\ud835\udc30 & \ud835\udc0e\ud835\udc2b\ud835\udc1d\ud835\udc1e\ud835\udc2b",
+            "url": null,
+            "entities": {
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 20639,
+            "friends_count": 8646,
+            "listed_count": 20,
+            "created_at": "Mon Nov 02 11:10:38 +0000 2015",
+            "favourites_count": 138220,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": false,
+            "verified": false,
+            "statuses_count": 126814,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "C0DEED",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1414966697522515973/_Ekyw-n9_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1414966697522515973/_Ekyw-n9_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/4096795157/1625952631",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "has_extended_profile": false,
+            "default_profile": true,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none",
+            "withheld_in_countries": []
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 735,
+        "favorite_count": 1012,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "es"
+    },
+    "is_quote_status": false,
+    "retweet_count": 735,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "es"
+}

@@ -1,0 +1,186 @@
+{
+    "created_at": "Wed Jul 14 17:56:05 +0000 2021",
+    "id": 1415369522618544128,
+    "id_str": "1415369522618544128",
+    "full_text": "Oficial. Gianluigi Donnarumma, el mejor portero y mejor jugador de la #Euro2020, llega al Paris Saint-Germain como agente libre y tendr\u00e1 un contrato de 5 a\u00f1os con el PSG. El objetivo es claro, ganar la Champions como sea. https://t.co/iiLW4RJDqC",
+    "truncated": false,
+    "display_text_range": [
+        0,
+        221
+    ],
+    "entities": {
+        "hashtags": [
+            {
+                "text": "Euro2020",
+                "indices": [
+                    70,
+                    79
+                ]
+            }
+        ],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [],
+        "media": [
+            {
+                "id": 1415369519137185792,
+                "id_str": "1415369519137185792",
+                "indices": [
+                    222,
+                    245
+                ],
+                "media_url": "http://pbs.twimg.com/media/E6RnFCYWYAA0H25.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/E6RnFCYWYAA0H25.jpg",
+                "url": "https://t.co/iiLW4RJDqC",
+                "display_url": "pic.twitter.com/iiLW4RJDqC",
+                "expanded_url": "https://twitter.com/DeTakito_ok/status/1415369522618544128/photo/1",
+                "type": "photo",
+                "sizes": {
+                    "large": {
+                        "w": 1021,
+                        "h": 1021,
+                        "resize": "fit"
+                    },
+                    "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                    },
+                    "small": {
+                        "w": 680,
+                        "h": 680,
+                        "resize": "fit"
+                    },
+                    "medium": {
+                        "w": 1021,
+                        "h": 1021,
+                        "resize": "fit"
+                    }
+                }
+            }
+        ]
+    },
+    "extended_entities": {
+        "media": [
+            {
+                "id": 1415369519137185792,
+                "id_str": "1415369519137185792",
+                "indices": [
+                    222,
+                    245
+                ],
+                "media_url": "http://pbs.twimg.com/media/E6RnFCYWYAA0H25.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/E6RnFCYWYAA0H25.jpg",
+                "url": "https://t.co/iiLW4RJDqC",
+                "display_url": "pic.twitter.com/iiLW4RJDqC",
+                "expanded_url": "https://twitter.com/DeTakito_ok/status/1415369522618544128/photo/1",
+                "type": "photo",
+                "sizes": {
+                    "large": {
+                        "w": 1021,
+                        "h": 1021,
+                        "resize": "fit"
+                    },
+                    "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                    },
+                    "small": {
+                        "w": 680,
+                        "h": 680,
+                        "resize": "fit"
+                    },
+                    "medium": {
+                        "w": 1021,
+                        "h": 1021,
+                        "resize": "fit"
+                    }
+                }
+            }
+        ]
+    },
+    "metadata": {
+        "iso_language_code": "es",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 1107272353543831553,
+        "id_str": "1107272353543831553",
+        "name": "De Takito",
+        "screen_name": "DeTakito_ok",
+        "location": "",
+        "description": "\u1d1b\u1d1c \u1d18\u1d00\ua731\u026a\u00f3\u0274, \u0274\u1d1c\u1d07\ua731\u1d1b\u0280\u1d0f \u1d05\u1d07\u1d18\u1d0f\u0280\u1d1b\u1d07.",
+        "url": "https://t.co/ZsBgFNxGDB",
+        "entities": {
+            "url": {
+                "urls": [
+                    {
+                        "url": "https://t.co/ZsBgFNxGDB",
+                        "expanded_url": "http://detakito.com",
+                        "display_url": "detakito.com",
+                        "indices": [
+                            0,
+                            23
+                        ]
+                    }
+                ]
+            },
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 830,
+        "friends_count": 76,
+        "listed_count": 1,
+        "created_at": "Sun Mar 17 13:27:56 +0000 2019",
+        "favourites_count": 103,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 2587,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": null,
+        "profile_background_image_url_https": null,
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1358418218105372674/7RbzJuPa_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1358418218105372674/7RbzJuPa_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1107272353543831553/1614883071",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 1,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "es"
+}

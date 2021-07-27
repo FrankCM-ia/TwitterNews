@@ -1,0 +1,312 @@
+{
+    "created_at": "Wed Jul 14 16:00:23 +0000 2021",
+    "id": 1415340408780042240,
+    "id_str": "1415340408780042240",
+    "full_text": "RT @vzlapress: #\u00daLTIMAHORA Alemania \"condena la violencia\" en Cuba y pide la liberaci\u00f3n de detenidos https://t.co/H79on0yMLv https://t.co/X\u2026",
+    "truncated": false,
+    "display_text_range": [
+        0,
+        140
+    ],
+    "entities": {
+        "hashtags": [
+            {
+                "text": "\u00daLTIMAHORA",
+                "indices": [
+                    15,
+                    26
+                ]
+            }
+        ],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "vzlapress",
+                "name": "VzlaPress",
+                "id": 2805775818,
+                "id_str": "2805775818",
+                "indices": [
+                    3,
+                    13
+                ]
+            }
+        ],
+        "urls": [
+            {
+                "url": "https://t.co/H79on0yMLv",
+                "expanded_url": "https://instagr.am/p/CRT9HFqFjQ2/",
+                "display_url": "instagr.am/p/CRT9HFqFjQ2/",
+                "indices": [
+                    101,
+                    124
+                ]
+            }
+        ]
+    },
+    "metadata": {
+        "iso_language_code": "es",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 131394518,
+        "id_str": "131394518",
+        "name": "Ramon Ernesto Perez",
+        "screen_name": "Ramonepj",
+        "location": "",
+        "description": "Lic. En Dercho.    Me identifico 100% con la lucha de los hermanos  Venezolanos, no a los enchufados.\u2665",
+        "url": null,
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 823,
+        "friends_count": 2254,
+        "listed_count": 1,
+        "created_at": "Sat Apr 10 04:07:45 +0000 2010",
+        "favourites_count": 7918,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 18366,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/693935703764250624/-AKtXFAX_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/693935703764250624/-AKtXFAX_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/131394518/1610235778",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+        "created_at": "Wed Jul 14 15:10:36 +0000 2021",
+        "id": 1415327877797715971,
+        "id_str": "1415327877797715971",
+        "full_text": "#\u00daLTIMAHORA Alemania \"condena la violencia\" en Cuba y pide la liberaci\u00f3n de detenidos https://t.co/H79on0yMLv https://t.co/XrjLLc8r4I",
+        "truncated": false,
+        "display_text_range": [
+            0,
+            109
+        ],
+        "entities": {
+            "hashtags": [
+                {
+                    "text": "\u00daLTIMAHORA",
+                    "indices": [
+                        0,
+                        11
+                    ]
+                }
+            ],
+            "symbols": [],
+            "user_mentions": [],
+            "urls": [
+                {
+                    "url": "https://t.co/H79on0yMLv",
+                    "expanded_url": "https://instagr.am/p/CRT9HFqFjQ2/",
+                    "display_url": "instagr.am/p/CRT9HFqFjQ2/",
+                    "indices": [
+                        86,
+                        109
+                    ]
+                }
+            ],
+            "media": [
+                {
+                    "id": 1415327876732362752,
+                    "id_str": "1415327876732362752",
+                    "indices": [
+                        110,
+                        133
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/E6RBNIVXIAACiCP.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/E6RBNIVXIAACiCP.jpg",
+                    "url": "https://t.co/XrjLLc8r4I",
+                    "display_url": "pic.twitter.com/XrjLLc8r4I",
+                    "expanded_url": "https://twitter.com/vzlapress/status/1415327877797715971/photo/1",
+                    "type": "photo",
+                    "sizes": {
+                        "medium": {
+                            "w": 640,
+                            "h": 403,
+                            "resize": "fit"
+                        },
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "small": {
+                            "w": 640,
+                            "h": 403,
+                            "resize": "fit"
+                        },
+                        "large": {
+                            "w": 640,
+                            "h": 403,
+                            "resize": "fit"
+                        }
+                    }
+                }
+            ]
+        },
+        "extended_entities": {
+            "media": [
+                {
+                    "id": 1415327876732362752,
+                    "id_str": "1415327876732362752",
+                    "indices": [
+                        110,
+                        133
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/E6RBNIVXIAACiCP.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/E6RBNIVXIAACiCP.jpg",
+                    "url": "https://t.co/XrjLLc8r4I",
+                    "display_url": "pic.twitter.com/XrjLLc8r4I",
+                    "expanded_url": "https://twitter.com/vzlapress/status/1415327877797715971/photo/1",
+                    "type": "photo",
+                    "sizes": {
+                        "medium": {
+                            "w": 640,
+                            "h": 403,
+                            "resize": "fit"
+                        },
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "small": {
+                            "w": 640,
+                            "h": 403,
+                            "resize": "fit"
+                        },
+                        "large": {
+                            "w": 640,
+                            "h": 403,
+                            "resize": "fit"
+                        }
+                    }
+                }
+            ]
+        },
+        "metadata": {
+            "iso_language_code": "es",
+            "result_type": "recent"
+        },
+        "source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 2805775818,
+            "id_str": "2805775818",
+            "name": "VzlaPress",
+            "screen_name": "vzlapress",
+            "location": "Venezuela",
+            "description": "Portal Digital de Noticias m\u00e1s recientes de Venezuela y el Mundo",
+            "url": "https://t.co/BLaAw8CB9O",
+            "entities": {
+                "url": {
+                    "urls": [
+                        {
+                            "url": "https://t.co/BLaAw8CB9O",
+                            "expanded_url": "https://www.instagram.com/vzlapress",
+                            "display_url": "instagram.com/vzlapress",
+                            "indices": [
+                                0,
+                                23
+                            ]
+                        }
+                    ]
+                },
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 47729,
+            "friends_count": 1635,
+            "listed_count": 190,
+            "created_at": "Fri Sep 12 16:09:36 +0000 2014",
+            "favourites_count": 362,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": false,
+            "verified": false,
+            "statuses_count": 955207,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "C0DEED",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1392580650662834178/E1fgOBmD_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1392580650662834178/E1fgOBmD_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/2805775818/1620773607",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "has_extended_profile": false,
+            "default_profile": true,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "regular",
+            "withheld_in_countries": []
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 10,
+        "favorite_count": 5,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "es"
+    },
+    "is_quote_status": false,
+    "retweet_count": 10,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "es"
+}

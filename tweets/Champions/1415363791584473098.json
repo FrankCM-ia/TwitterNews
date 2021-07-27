@@ -1,0 +1,96 @@
+{
+    "created_at": "Wed Jul 14 17:33:18 +0000 2021",
+    "id": 1415363791584473098,
+    "id_str": "1415363791584473098",
+    "full_text": "@takeshi_cule Si...pero griezmann tiene 30 a\u00f1os.....creo q lo va a intentar por ultima vez para ganar la champions",
+    "truncated": false,
+    "display_text_range": [
+        14,
+        114
+    ],
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "takeshi_cule",
+                "name": "\u1d1b\u1d00\u1d0b\u1d07\ua731\u029c\u026a \u201cchampions of South America\u201d\ud83e\uddf8\ud83c\udde6\ud83c\uddf7",
+                "id": 917535052665376768,
+                "id_str": "917535052665376768",
+                "indices": [
+                    0,
+                    13
+                ]
+            }
+        ],
+        "urls": []
+    },
+    "metadata": {
+        "iso_language_code": "es",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "in_reply_to_status_id": 1415362746187722757,
+    "in_reply_to_status_id_str": "1415362746187722757",
+    "in_reply_to_user_id": 917535052665376768,
+    "in_reply_to_user_id_str": "917535052665376768",
+    "in_reply_to_screen_name": "takeshi_cule",
+    "user": {
+        "id": 1393272262573314049,
+        "id_str": "1393272262573314049",
+        "name": "Evaristo Visto gafas",
+        "screen_name": "GafasVisto",
+        "location": "",
+        "description": "Barcelonista,topografo",
+        "url": null,
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 20,
+        "friends_count": 145,
+        "listed_count": 0,
+        "created_at": "Fri May 14 18:29:53 +0000 2021",
+        "favourites_count": 574,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 879,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": null,
+        "profile_background_image_url_https": null,
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1393272542123728906/rN7nME82_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1393272542123728906/rN7nME82_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": true,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 1,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "es"
+}

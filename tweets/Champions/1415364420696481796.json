@@ -1,0 +1,127 @@
+{
+    "created_at": "Wed Jul 14 17:35:48 +0000 2021",
+    "id": 1415364420696481796,
+    "id_str": "1415364420696481796",
+    "full_text": "@DavidVe93532956 @besc12341 @25gere @PepCule Si, con patatas como uds con umtiti, Dembel\u00e9 y Coutinho al que le pagaron el sueldo para clavarles 2 goles (de 8) y ganase la champions con otro equipo \ud83e\udd2d\ud83e\udd2d\ud83e\udd2d\ud83e\udd2d\ud83e\udd21\ud83e\udd21\ud83e\udd21\ud83e\udd21",
+    "truncated": false,
+    "display_text_range": [
+        45,
+        205
+    ],
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "DavidVe93532956",
+                "name": "Unenemigodelpueblo",
+                "id": 1241311386296344579,
+                "id_str": "1241311386296344579",
+                "indices": [
+                    0,
+                    16
+                ]
+            },
+            {
+                "screen_name": "besc12341",
+                "name": "Brayan\ud83d\ude21",
+                "id": 1119982425340293121,
+                "id_str": "1119982425340293121",
+                "indices": [
+                    17,
+                    27
+                ]
+            },
+            {
+                "screen_name": "25gere",
+                "name": "gere25",
+                "id": 389768932,
+                "id_str": "389768932",
+                "indices": [
+                    28,
+                    35
+                ]
+            },
+            {
+                "screen_name": "PepCule",
+                "name": "Pep Cul\u00e9 \ud83c\udde6\ud83c\uddf7",
+                "id": 3426809415,
+                "id_str": "3426809415",
+                "indices": [
+                    36,
+                    44
+                ]
+            }
+        ],
+        "urls": []
+    },
+    "metadata": {
+        "iso_language_code": "es",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "in_reply_to_status_id": 1415360822021443595,
+    "in_reply_to_status_id_str": "1415360822021443595",
+    "in_reply_to_user_id": 1241311386296344579,
+    "in_reply_to_user_id_str": "1241311386296344579",
+    "in_reply_to_screen_name": "DavidVe93532956",
+    "user": {
+        "id": 1369700930124398593,
+        "id_str": "1369700930124398593",
+        "name": "El Kirikocho",
+        "screen_name": "EKirikocho",
+        "location": "Santiago Bernabeu",
+        "description": "El hijo perdido de Don Jos\u00e9 M\u00e1rio dos Santos Mourinho.\n'Se\u00f1or\u00edo es morir en el campo'\n#HalaMadrid",
+        "url": null,
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 42,
+        "friends_count": 356,
+        "listed_count": 0,
+        "created_at": "Wed Mar 10 17:25:37 +0000 2021",
+        "favourites_count": 5369,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 4086,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": null,
+        "profile_background_image_url_https": null,
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1369701576558972939/xByxqNj__normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1369701576558972939/xByxqNj__normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1369700930124398593/1615397973",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": true,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "es"
+}

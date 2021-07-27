@@ -1,0 +1,131 @@
+{
+    "created_at": "Wed Jul 14 16:00:16 +0000 2021",
+    "id": 1415340378132209685,
+    "id_str": "1415340378132209685",
+    "full_text": "Cuba, sin br\u00fajula ni mapa https://t.co/vaaXLHaLpM a trav\u00e9s de @elcorreo_com",
+    "truncated": false,
+    "display_text_range": [
+        0,
+        75
+    ],
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "elcorreo_com",
+                "name": "El Correo",
+                "id": 15442630,
+                "id_str": "15442630",
+                "indices": [
+                    62,
+                    75
+                ]
+            }
+        ],
+        "urls": [
+            {
+                "url": "https://t.co/vaaXLHaLpM",
+                "expanded_url": "https://www.elcorreo.com/opinion/tribunas/cuba-brujula-mapa-20210714215947-nt.html?edtn=bizkaia#vca=fixed-btn&vso=rrss&vmc=tw&vli=Tribunas",
+                "display_url": "elcorreo.com/opinion/tribun\u2026",
+                "indices": [
+                    26,
+                    49
+                ]
+            }
+        ]
+    },
+    "metadata": {
+        "iso_language_code": "es",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 546067300,
+        "id_str": "546067300",
+        "name": "Javier Bonilla Saus",
+        "screen_name": "JBonillaSaus",
+        "location": " Blog",
+        "description": "Pagina web https://t.co/hIDd9oAgbr",
+        "url": "https://t.co/ghtHiBswPR",
+        "entities": {
+            "url": {
+                "urls": [
+                    {
+                        "url": "https://t.co/ghtHiBswPR",
+                        "expanded_url": "http://jbonillasaus.blogspot.com",
+                        "display_url": "jbonillasaus.blogspot.com",
+                        "indices": [
+                            0,
+                            23
+                        ]
+                    }
+                ]
+            },
+            "description": {
+                "urls": [
+                    {
+                        "url": "https://t.co/hIDd9oAgbr",
+                        "expanded_url": "http://www.javierbonillasaus.com/",
+                        "display_url": "javierbonillasaus.com",
+                        "indices": [
+                            11,
+                            34
+                        ]
+                    }
+                ]
+            }
+        },
+        "protected": false,
+        "followers_count": 1035,
+        "friends_count": 613,
+        "listed_count": 11,
+        "created_at": "Thu Apr 05 15:39:48 +0000 2012",
+        "favourites_count": 58846,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 80904,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/657749872658022401/ea3_JVCP_normal.png",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/657749872658022401/ea3_JVCP_normal.png",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/546067300/1445697277",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "es"
+}

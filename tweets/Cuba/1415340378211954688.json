@@ -1,0 +1,245 @@
+{
+    "created_at": "Wed Jul 14 16:00:16 +0000 2021",
+    "id": 1415340378211954688,
+    "id_str": "1415340378211954688",
+    "full_text": "RT @DanielRemedi: #MarioRaulNegri se espanta porque el Presidente #AlbertoFern\u00e1ndez habl\u00f3 del bloqueo a Cuba. La #AsambleaGeneralDeLaOnu vo\u2026",
+    "truncated": false,
+    "display_text_range": [
+        0,
+        140
+    ],
+    "entities": {
+        "hashtags": [
+            {
+                "text": "MarioRaulNegri",
+                "indices": [
+                    18,
+                    33
+                ]
+            },
+            {
+                "text": "AlbertoFern\u00e1ndez",
+                "indices": [
+                    66,
+                    83
+                ]
+            },
+            {
+                "text": "AsambleaGeneralDeLaOnu",
+                "indices": [
+                    113,
+                    136
+                ]
+            }
+        ],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "DanielRemedi",
+                "name": "Daniel Remedi Jozami",
+                "id": 3297264748,
+                "id_str": "3297264748",
+                "indices": [
+                    3,
+                    16
+                ]
+            }
+        ],
+        "urls": []
+    },
+    "metadata": {
+        "iso_language_code": "es",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 426960818,
+        "id_str": "426960818",
+        "name": "hernan\ud83d\udc9a \u2600\ufe0f",
+        "screen_name": "hernan_zeta",
+        "location": "Argentina Patria Grande",
+        "description": "..no esperes de ning\u00fan modo que se dignen consentir tu acceso al porvenir los que hoy arrasan con todo..",
+        "url": null,
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 2967,
+        "friends_count": 2908,
+        "listed_count": 18,
+        "created_at": "Fri Dec 02 22:46:49 +0000 2011",
+        "favourites_count": 186510,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 176312,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1020204638321201157/Rg2lNB7t_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1020204638321201157/Rg2lNB7t_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/426960818/1460915225",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+        "created_at": "Wed Jul 14 15:54:13 +0000 2021",
+        "id": 1415338855763427334,
+        "id_str": "1415338855763427334",
+        "full_text": "#MarioRaulNegri se espanta porque el Presidente #AlbertoFern\u00e1ndez habl\u00f3 del bloqueo a Cuba. La #AsambleaGeneralDeLaOnu vot\u00f3 masivamente a favor de levantamiento del bloqueo. \n#Negri no dice nada del contrabando macrista de armas a Bolivia. CHANTA! \nhttps://t.co/GOtuHAZqOC",
+        "truncated": false,
+        "display_text_range": [
+            0,
+            272
+        ],
+        "entities": {
+            "hashtags": [
+                {
+                    "text": "MarioRaulNegri",
+                    "indices": [
+                        0,
+                        15
+                    ]
+                },
+                {
+                    "text": "AlbertoFern\u00e1ndez",
+                    "indices": [
+                        48,
+                        65
+                    ]
+                },
+                {
+                    "text": "AsambleaGeneralDeLaOnu",
+                    "indices": [
+                        95,
+                        118
+                    ]
+                },
+                {
+                    "text": "Negri",
+                    "indices": [
+                        175,
+                        181
+                    ]
+                }
+            ],
+            "symbols": [],
+            "user_mentions": [],
+            "urls": [
+                {
+                    "url": "https://t.co/GOtuHAZqOC",
+                    "expanded_url": "https://news.un.org/es/story/2021/06/1493662",
+                    "display_url": "news.un.org/es/story/2021/\u2026",
+                    "indices": [
+                        249,
+                        272
+                    ]
+                }
+            ]
+        },
+        "metadata": {
+            "iso_language_code": "es",
+            "result_type": "recent"
+        },
+        "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 3297264748,
+            "id_str": "3297264748",
+            "name": "Daniel Remedi Jozami",
+            "screen_name": "DanielRemedi",
+            "location": "Argentina",
+            "description": "Historia-Econom\u00eda-Pol\u00edtica-Medio Ambiente.\nPeronista-Nacido en Paran\u00e1-Entre Rios.",
+            "url": null,
+            "entities": {
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 17415,
+            "friends_count": 6691,
+            "listed_count": 41,
+            "created_at": "Sun May 24 23:52:40 +0000 2015",
+            "favourites_count": 124441,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": false,
+            "verified": false,
+            "statuses_count": 124856,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "981CEB",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+            "profile_background_tile": true,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1260317942614577154/UgwoYO3U_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1260317942614577154/UgwoYO3U_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/3297264748/1502128864",
+            "profile_link_color": "584AF7",
+            "profile_sidebar_border_color": "000000",
+            "profile_sidebar_fill_color": "000000",
+            "profile_text_color": "000000",
+            "profile_use_background_image": true,
+            "has_extended_profile": false,
+            "default_profile": false,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none",
+            "withheld_in_countries": []
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 3,
+        "favorite_count": 5,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "es"
+    },
+    "is_quote_status": false,
+    "retweet_count": 3,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "es"
+}

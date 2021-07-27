@@ -1,0 +1,273 @@
+{
+    "created_at": "Thu Jul 15 06:45:23 +0000 2021",
+    "id": 1415563122774102016,
+    "id_str": "1415563122774102016",
+    "full_text": "RT @DanzaSancho: .\n\"S\u00e1nchez Jekyll ha arrojado al barranco a S\u00e1nchez Hyde. O sea , el presidente se ha deshecho de su jefe de Gabinete -a l\u2026",
+    "truncated": false,
+    "display_text_range": [
+        0,
+        140
+    ],
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "DanzaSancho",
+                "name": "Sancho Danza",
+                "id": 1198147367847047168,
+                "id_str": "1198147367847047168",
+                "indices": [
+                    3,
+                    15
+                ]
+            }
+        ],
+        "urls": []
+    },
+    "metadata": {
+        "iso_language_code": "es",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 342171657,
+        "id_str": "342171657",
+        "name": "Mar\u00eda Jes\u00fas P\u00e9rez",
+        "screen_name": "MJPerez_ABC",
+        "location": "Espa\u00f1a",
+        "description": "Periodista. En ABC casi toda la vida. Mis opiniones son solo m\u00edas... mi firma, tambi\u00e9n!",
+        "url": null,
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 1578,
+        "friends_count": 1513,
+        "listed_count": 35,
+        "created_at": "Mon Jul 25 16:03:47 +0000 2011",
+        "favourites_count": 34607,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 34695,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1407101954711556099/qbn0Hlp8_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1407101954711556099/qbn0Hlp8_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/342171657/1538170638",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": true,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+        "created_at": "Thu Jul 15 05:06:23 +0000 2021",
+        "id": 1415538210076307459,
+        "id_str": "1415538210076307459",
+        "full_text": ".\n\"S\u00e1nchez Jekyll ha arrojado al barranco a S\u00e1nchez Hyde. O sea , el presidente se ha deshecho de su jefe de Gabinete -a la saz\u00f3n, Iv\u00e1n \u2018Godoy\u2019 Redondo- y de buena parte de su Gobierno para salvar al presidente. Vamos, a \u00e9l mismo\".\n\n@MJPerez_ABC \n. https://t.co/hDzxFd0roy",
+        "truncated": false,
+        "display_text_range": [
+            0,
+            248
+        ],
+        "entities": {
+            "hashtags": [],
+            "symbols": [],
+            "user_mentions": [
+                {
+                    "screen_name": "MJPerez_ABC",
+                    "name": "Mar\u00eda Jes\u00fas P\u00e9rez",
+                    "id": 342171657,
+                    "id_str": "342171657",
+                    "indices": [
+                        233,
+                        245
+                    ]
+                }
+            ],
+            "urls": [],
+            "media": [
+                {
+                    "id": 1415538198038650882,
+                    "id_str": "1415538198038650882",
+                    "indices": [
+                        249,
+                        272
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/E6UAfcQXIAIsvjv.png",
+                    "media_url_https": "https://pbs.twimg.com/media/E6UAfcQXIAIsvjv.png",
+                    "url": "https://t.co/hDzxFd0roy",
+                    "display_url": "pic.twitter.com/hDzxFd0roy",
+                    "expanded_url": "https://twitter.com/DanzaSancho/status/1415538210076307459/photo/1",
+                    "type": "photo",
+                    "sizes": {
+                        "small": {
+                            "w": 680,
+                            "h": 383,
+                            "resize": "fit"
+                        },
+                        "large": {
+                            "w": 880,
+                            "h": 495,
+                            "resize": "fit"
+                        },
+                        "medium": {
+                            "w": 880,
+                            "h": 495,
+                            "resize": "fit"
+                        },
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        }
+                    }
+                }
+            ]
+        },
+        "extended_entities": {
+            "media": [
+                {
+                    "id": 1415538198038650882,
+                    "id_str": "1415538198038650882",
+                    "indices": [
+                        249,
+                        272
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/E6UAfcQXIAIsvjv.png",
+                    "media_url_https": "https://pbs.twimg.com/media/E6UAfcQXIAIsvjv.png",
+                    "url": "https://t.co/hDzxFd0roy",
+                    "display_url": "pic.twitter.com/hDzxFd0roy",
+                    "expanded_url": "https://twitter.com/DanzaSancho/status/1415538210076307459/photo/1",
+                    "type": "photo",
+                    "sizes": {
+                        "small": {
+                            "w": 680,
+                            "h": 383,
+                            "resize": "fit"
+                        },
+                        "large": {
+                            "w": 880,
+                            "h": 495,
+                            "resize": "fit"
+                        },
+                        "medium": {
+                            "w": 880,
+                            "h": 495,
+                            "resize": "fit"
+                        },
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        }
+                    }
+                }
+            ]
+        },
+        "metadata": {
+            "iso_language_code": "es",
+            "result_type": "recent"
+        },
+        "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 1198147367847047168,
+            "id_str": "1198147367847047168",
+            "name": "Sancho Danza",
+            "screen_name": "DanzaSancho",
+            "location": "Campo de Montiel",
+            "description": "Imagin\u00e9 gigantes donde hab\u00eda molinos de viento. Y en este nuevo tiempo, amigo Sancho, en el que hay fieros y descomunales gigantes, nadie ve m\u00e1s que molinos.",
+            "url": null,
+            "entities": {
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 9371,
+            "friends_count": 7025,
+            "listed_count": 9,
+            "created_at": "Sat Nov 23 07:53:08 +0000 2019",
+            "favourites_count": 22600,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": false,
+            "verified": false,
+            "statuses_count": 22562,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "F5F8FA",
+            "profile_background_image_url": null,
+            "profile_background_image_url_https": null,
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1202499934781689857/hKZoG4Za_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1202499934781689857/hKZoG4Za_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/1198147367847047168/1577715522",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "has_extended_profile": false,
+            "default_profile": true,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none",
+            "withheld_in_countries": []
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 1,
+        "favorite_count": 2,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "es"
+    },
+    "is_quote_status": false,
+    "retweet_count": 1,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "es"
+}

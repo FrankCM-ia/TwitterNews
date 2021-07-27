@@ -1,0 +1,262 @@
+{
+    "created_at": "Wed Jul 14 17:13:34 +0000 2021",
+    "id": 1415358824681287687,
+    "id_str": "1415358824681287687",
+    "full_text": "RT @TirodeGraciah: \ud83d\udd34\u00daLTIMA HORA | Nueva grabaci\u00f3n a Florentino, esta vez hablando de Sergio Ramos: \"En 2017 le dije que jug\u00e1bamos la final\u2026",
+    "truncated": false,
+    "display_text_range": [
+        0,
+        139
+    ],
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "TirodeGraciah",
+                "name": "Me llaman Jimmy",
+                "id": 744293312115388416,
+                "id_str": "744293312115388416",
+                "indices": [
+                    3,
+                    17
+                ]
+            }
+        ],
+        "urls": []
+    },
+    "metadata": {
+        "iso_language_code": "es",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 757989379818319873,
+        "id_str": "757989379818319873",
+        "name": "Jorge srrn",
+        "screen_name": "Jorgefune",
+        "location": "Zaragoza city",
+        "description": "\ud83e\udd18rock and roll\ud83e\udd18 real Zaragoza \u26bd basket Zaragoza\ud83c\udfc0......buscando mi felicidad pero rodeado de falsedad.siempre me faltar\u00e1 algo en mi vida",
+        "url": null,
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 214,
+        "friends_count": 355,
+        "listed_count": 1,
+        "created_at": "Tue Jul 26 17:22:05 +0000 2016",
+        "favourites_count": 30533,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 11130,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": null,
+        "profile_background_image_url_https": null,
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1398961988412248064/NqyyPrPs_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1398961988412248064/NqyyPrPs_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/757989379818319873/1605354313",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": true,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+        "created_at": "Wed Jul 14 15:54:09 +0000 2021",
+        "id": 1415338837270835215,
+        "id_str": "1415338837270835215",
+        "full_text": "\ud83d\udd34\u00daLTIMA HORA | Nueva grabaci\u00f3n a Florentino, esta vez hablando de Sergio Ramos: \"En 2017 le dije que jug\u00e1bamos la final de Champions en Cardiff, y al d\u00eda siguiente se fue a la Tacita de Plata\" https://t.co/V3OxbTVMhX",
+        "truncated": false,
+        "display_text_range": [
+            0,
+            192
+        ],
+        "entities": {
+            "hashtags": [],
+            "symbols": [],
+            "user_mentions": [],
+            "urls": [],
+            "media": [
+                {
+                    "id": 1415338832157974531,
+                    "id_str": "1415338832157974531",
+                    "indices": [
+                        193,
+                        216
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/E6RLK0eXoAMvPc6.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/E6RLK0eXoAMvPc6.jpg",
+                    "url": "https://t.co/V3OxbTVMhX",
+                    "display_url": "pic.twitter.com/V3OxbTVMhX",
+                    "expanded_url": "https://twitter.com/TirodeGraciah/status/1415338837270835215/photo/1",
+                    "type": "photo",
+                    "sizes": {
+                        "small": {
+                            "w": 680,
+                            "h": 420,
+                            "resize": "fit"
+                        },
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "medium": {
+                            "w": 1024,
+                            "h": 632,
+                            "resize": "fit"
+                        },
+                        "large": {
+                            "w": 1024,
+                            "h": 632,
+                            "resize": "fit"
+                        }
+                    }
+                }
+            ]
+        },
+        "extended_entities": {
+            "media": [
+                {
+                    "id": 1415338832157974531,
+                    "id_str": "1415338832157974531",
+                    "indices": [
+                        193,
+                        216
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/E6RLK0eXoAMvPc6.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/E6RLK0eXoAMvPc6.jpg",
+                    "url": "https://t.co/V3OxbTVMhX",
+                    "display_url": "pic.twitter.com/V3OxbTVMhX",
+                    "expanded_url": "https://twitter.com/TirodeGraciah/status/1415338837270835215/photo/1",
+                    "type": "photo",
+                    "sizes": {
+                        "small": {
+                            "w": 680,
+                            "h": 420,
+                            "resize": "fit"
+                        },
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "medium": {
+                            "w": 1024,
+                            "h": 632,
+                            "resize": "fit"
+                        },
+                        "large": {
+                            "w": 1024,
+                            "h": 632,
+                            "resize": "fit"
+                        }
+                    }
+                }
+            ]
+        },
+        "metadata": {
+            "iso_language_code": "es",
+            "result_type": "recent"
+        },
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 744293312115388416,
+            "id_str": "744293312115388416",
+            "name": "Me llaman Jimmy",
+            "screen_name": "TirodeGraciah",
+            "location": "Las Palmas de Gran Canaria, Es",
+            "description": "He cruzado oc\u00e9anos de tiempo para llegar a Twitter. Comunista con Iphone.",
+            "url": null,
+            "entities": {
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 19327,
+            "friends_count": 2140,
+            "listed_count": 118,
+            "created_at": "Sat Jun 18 22:18:48 +0000 2016",
+            "favourites_count": 182050,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": false,
+            "verified": false,
+            "statuses_count": 44397,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "F5F8FA",
+            "profile_background_image_url": null,
+            "profile_background_image_url_https": null,
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1353477570398978048/C84LmWWJ_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1353477570398978048/C84LmWWJ_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/744293312115388416/1603875317",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "has_extended_profile": true,
+            "default_profile": true,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none",
+            "withheld_in_countries": []
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 12,
+        "favorite_count": 67,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "es"
+    },
+    "is_quote_status": false,
+    "retweet_count": 12,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "es"
+}

@@ -1,0 +1,110 @@
+{
+    "created_at": "Thu Jul 15 09:14:29 +0000 2021",
+    "id": 1415600645344690179,
+    "id_str": "1415600645344690179",
+    "full_text": "@migueljuslove Has ido a Barranco alguna ves?",
+    "truncated": false,
+    "display_text_range": [
+        15,
+        45
+    ],
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "migueljuslove",
+                "name": "Miguel\ud83c\uddf5\ud83c\uddea",
+                "id": 764322395037454336,
+                "id_str": "764322395037454336",
+                "indices": [
+                    0,
+                    14
+                ]
+            }
+        ],
+        "urls": []
+    },
+    "metadata": {
+        "iso_language_code": "es",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "in_reply_to_status_id": 1414885855055941632,
+    "in_reply_to_status_id_str": "1414885855055941632",
+    "in_reply_to_user_id": 764322395037454336,
+    "in_reply_to_user_id_str": "764322395037454336",
+    "in_reply_to_screen_name": "migueljuslove",
+    "user": {
+        "id": 346046898,
+        "id_str": "346046898",
+        "name": "\u30d4\u30a8\u30ed\u306b\u3057\u3084\u307e",
+        "screen_name": "mrboxerchampion",
+        "location": "\u5ee3\u5cf6",
+        "description": "\u3076\u3063\u58ca\u308c\u3066\u71c3\u3048\u5c3d\u304d\u308b\u6e96\u5099\u306f\u51fa\u6765\u3066\u308b\u304b\uff1f \u304a\u6bcd\u3055\u3093:\u30da\u30eb\u30fc\u3001\u304a\u7236\u3055\u3093:\u30da\u30eb\u30fc \u8981\u306f\u307b\u307c\u7d14\u6b63\u3060\u3088",
+        "url": "https://t.co/F4SdtUptZ2",
+        "entities": {
+            "url": {
+                "urls": [
+                    {
+                        "url": "https://t.co/F4SdtUptZ2",
+                        "expanded_url": "http://dclog.jp/pieroMAX/",
+                        "display_url": "dclog.jp/pieroMAX/",
+                        "indices": [
+                            0,
+                            23
+                        ]
+                    }
+                ]
+            },
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 336,
+        "friends_count": 299,
+        "listed_count": 1,
+        "created_at": "Sun Jul 31 16:48:20 +0000 2011",
+        "favourites_count": 163,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 9117,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/827438260498477056/i9pP6VXO_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/827438260498477056/i9pP6VXO_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/346046898/1442692952",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": true,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "es"
+}

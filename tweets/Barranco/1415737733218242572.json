@@ -1,0 +1,118 @@
+{
+    "created_at": "Thu Jul 15 18:19:13 +0000 2021",
+    "id": 1415737733218242572,
+    "id_str": "1415737733218242572",
+    "full_text": "La Fuerza Especial de Lucha Contra la Violencia (Felcv) realiz\u00f3 el levantamiento legal de un cad\u00e1ver de sexo femenino de entre 30 y 40 a\u00f1os en la ciudad de #ElAlto, en la zona de Alpacoma, al interior de un barranco.\nhttps://t.co/qihQFGAAgY",
+    "truncated": false,
+    "display_text_range": [
+        0,
+        240
+    ],
+    "entities": {
+        "hashtags": [
+            {
+                "text": "ElAlto",
+                "indices": [
+                    156,
+                    163
+                ]
+            }
+        ],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+            {
+                "url": "https://t.co/qihQFGAAgY",
+                "expanded_url": "https://tinformas.com/la-felcv-reporta-nuevo-caso-de-feminicidio-en-la-ciudad-de-el-alto/",
+                "display_url": "tinformas.com/la-felcv-repor\u2026",
+                "indices": [
+                    217,
+                    240
+                ]
+            }
+        ]
+    },
+    "metadata": {
+        "iso_language_code": "es",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 966099010732855297,
+        "id_str": "966099010732855297",
+        "name": "T-informas Bolivia",
+        "screen_name": "TinformasBo",
+        "location": "La Paz - Bolivia",
+        "description": "Medio de comunicaci\u00f3n de Bolivia que nace del sue\u00f1o de un experimentado grupo de periodistas independientes. Solo nos debemos a nuestros lectores.",
+        "url": "https://t.co/MTSXdiTYBj",
+        "entities": {
+            "url": {
+                "urls": [
+                    {
+                        "url": "https://t.co/MTSXdiTYBj",
+                        "expanded_url": "http://tinformas.com/",
+                        "display_url": "tinformas.com",
+                        "indices": [
+                            0,
+                            23
+                        ]
+                    }
+                ]
+            },
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 274,
+        "friends_count": 128,
+        "listed_count": 5,
+        "created_at": "Tue Feb 20 23:55:28 +0000 2018",
+        "favourites_count": 24,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 23380,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1399741649631301643/2xq9-KI1_normal.png",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1399741649631301643/2xq9-KI1_normal.png",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/966099010732855297/1625145743",
+        "profile_link_color": "19CF86",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "profile_use_background_image": false,
+        "has_extended_profile": true,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "es"
+}

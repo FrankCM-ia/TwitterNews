@@ -1,0 +1,282 @@
+{
+    "created_at": "Wed Jul 14 18:02:27 +0000 2021",
+    "id": 1415371125920514054,
+    "id_str": "1415371125920514054",
+    "full_text": "RT @UNRepublicana: CUBA LIBRE \ud83c\udde8\ud83c\uddfa es una lucha de todos los hombres y mujeres que defendemos y honramos la libertad.\n\nSi cae la dictadura cu\u2026",
+    "truncated": false,
+    "display_text_range": [
+        0,
+        140
+    ],
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "UNRepublicana",
+                "name": "UNI\u00d3N REPUBLICANA",
+                "id": 585843099,
+                "id_str": "585843099",
+                "indices": [
+                    3,
+                    17
+                ]
+            }
+        ],
+        "urls": []
+    },
+    "metadata": {
+        "iso_language_code": "es",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 1395768122821550084,
+        "id_str": "1395768122821550084",
+        "name": "Ricardo",
+        "screen_name": "RicardoCapital1",
+        "location": "",
+        "description": "",
+        "url": null,
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 2,
+        "friends_count": 11,
+        "listed_count": 0,
+        "created_at": "Fri May 21 15:47:58 +0000 2021",
+        "favourites_count": 243,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 224,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": null,
+        "profile_background_image_url_https": null,
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1395768549587701769/3SF-lxkQ_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1395768549587701769/3SF-lxkQ_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": true,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+        "created_at": "Mon Jul 12 13:01:56 +0000 2021",
+        "id": 1414570721548832769,
+        "id_str": "1414570721548832769",
+        "full_text": "CUBA LIBRE \ud83c\udde8\ud83c\uddfa es una lucha de todos los hombres y mujeres que defendemos y honramos la libertad.\n\nSi cae la dictadura cubana, es el comienzo del fin del socialismo latinoamericano que se refugia hace d\u00e9cadas en La Habana. #SOSCuba https://t.co/z8Hksyoxv0",
+        "truncated": false,
+        "display_text_range": [
+            0,
+            230
+        ],
+        "entities": {
+            "hashtags": [
+                {
+                    "text": "SOSCuba",
+                    "indices": [
+                        222,
+                        230
+                    ]
+                }
+            ],
+            "symbols": [],
+            "user_mentions": [],
+            "urls": [],
+            "media": [
+                {
+                    "id": 1414570717799194630,
+                    "id_str": "1414570717799194630",
+                    "indices": [
+                        231,
+                        254
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/E6GQkrgXIAYitYi.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/E6GQkrgXIAYitYi.jpg",
+                    "url": "https://t.co/z8Hksyoxv0",
+                    "display_url": "pic.twitter.com/z8Hksyoxv0",
+                    "expanded_url": "https://twitter.com/UNRepublicana/status/1414570721548832769/photo/1",
+                    "type": "photo",
+                    "sizes": {
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "small": {
+                            "w": 555,
+                            "h": 680,
+                            "resize": "fit"
+                        },
+                        "large": {
+                            "w": 1284,
+                            "h": 1574,
+                            "resize": "fit"
+                        },
+                        "medium": {
+                            "w": 979,
+                            "h": 1200,
+                            "resize": "fit"
+                        }
+                    }
+                }
+            ]
+        },
+        "extended_entities": {
+            "media": [
+                {
+                    "id": 1414570717799194630,
+                    "id_str": "1414570717799194630",
+                    "indices": [
+                        231,
+                        254
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/E6GQkrgXIAYitYi.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/E6GQkrgXIAYitYi.jpg",
+                    "url": "https://t.co/z8Hksyoxv0",
+                    "display_url": "pic.twitter.com/z8Hksyoxv0",
+                    "expanded_url": "https://twitter.com/UNRepublicana/status/1414570721548832769/photo/1",
+                    "type": "photo",
+                    "sizes": {
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "small": {
+                            "w": 555,
+                            "h": 680,
+                            "resize": "fit"
+                        },
+                        "large": {
+                            "w": 1284,
+                            "h": 1574,
+                            "resize": "fit"
+                        },
+                        "medium": {
+                            "w": 979,
+                            "h": 1200,
+                            "resize": "fit"
+                        }
+                    }
+                }
+            ]
+        },
+        "metadata": {
+            "iso_language_code": "es",
+            "result_type": "recent"
+        },
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 585843099,
+            "id_str": "585843099",
+            "name": "UNI\u00d3N REPUBLICANA",
+            "screen_name": "UNRepublicana",
+            "location": "Rep\u00fablica Argentina",
+            "description": "Corriente interna de @PROargentina que defiende expl\u00edcitamente la vida, la libertad y la propiedad privada. Estamos a favor del capitalismo y el libre mercado.",
+            "url": "https://t.co/h1TTOvjwsI",
+            "entities": {
+                "url": {
+                    "urls": [
+                        {
+                            "url": "https://t.co/h1TTOvjwsI",
+                            "expanded_url": "http://unionrepublicana.com.ar",
+                            "display_url": "unionrepublicana.com.ar",
+                            "indices": [
+                                0,
+                                23
+                            ]
+                        }
+                    ]
+                },
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 29522,
+            "friends_count": 347,
+            "listed_count": 55,
+            "created_at": "Sun May 20 15:42:43 +0000 2012",
+            "favourites_count": 205,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": true,
+            "verified": true,
+            "statuses_count": 968,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "F5D94C",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1251333442593345536/PYvu0Y_v_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1251333442593345536/PYvu0Y_v_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/585843099/1583202490",
+            "profile_link_color": "2FC2EF",
+            "profile_sidebar_border_color": "FFFFFF",
+            "profile_sidebar_fill_color": "252429",
+            "profile_text_color": "666666",
+            "profile_use_background_image": false,
+            "has_extended_profile": false,
+            "default_profile": false,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none",
+            "withheld_in_countries": []
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 326,
+        "favorite_count": 834,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "es"
+    },
+    "is_quote_status": false,
+    "retweet_count": 326,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "es"
+}

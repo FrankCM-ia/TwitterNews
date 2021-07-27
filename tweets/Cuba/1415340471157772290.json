@@ -1,0 +1,258 @@
+{
+    "created_at": "Wed Jul 14 16:00:38 +0000 2021",
+    "id": 1415340471157772290,
+    "id_str": "1415340471157772290",
+    "full_text": "RT @Csanchezberzain: Bolsonaro pide el fin de una dictadura cruel en #Cuba. Jair Bolsonaro \u2066@jairbolsonaro\u2069 mandatario brasile\u00f1o, critic\u00f3 a\u2026",
+    "truncated": false,
+    "display_text_range": [
+        0,
+        140
+    ],
+    "entities": {
+        "hashtags": [
+            {
+                "text": "Cuba",
+                "indices": [
+                    69,
+                    74
+                ]
+            }
+        ],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "Csanchezberzain",
+                "name": "CarlosSanchezBerzain",
+                "id": 3073682337,
+                "id_str": "3073682337",
+                "indices": [
+                    3,
+                    19
+                ]
+            },
+            {
+                "screen_name": "jairbolsonaro",
+                "name": "Jair M. Bolsonaro",
+                "id": 128372940,
+                "id_str": "128372940",
+                "indices": [
+                    92,
+                    106
+                ]
+            }
+        ],
+        "urls": []
+    },
+    "metadata": {
+        "iso_language_code": "es",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 79863188,
+        "id_str": "79863188",
+        "name": "Hechicero",
+        "screen_name": "spineda",
+        "location": "",
+        "description": "Intentar convencer a otra persona es como intentar colonizarla, lo cual es una falta de respeto.... Jose Saramago!!",
+        "url": null,
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 1100,
+        "friends_count": 867,
+        "listed_count": 3,
+        "created_at": "Sun Oct 04 23:51:17 +0000 2009",
+        "favourites_count": 179310,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 140823,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1127694319077548032/iXlfDOiG_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1127694319077548032/iXlfDOiG_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/79863188/1620731231",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+        "created_at": "Tue Jul 13 00:20:57 +0000 2021",
+        "id": 1414741602468339715,
+        "id_str": "1414741602468339715",
+        "full_text": "Bolsonaro pide el fin de una dictadura cruel en #Cuba. Jair Bolsonaro \u2066@jairbolsonaro\u2069 mandatario brasile\u00f1o, critic\u00f3 a quienes en #Brasil apoyan a Cuba y a la #Venezuela del dictador Nicol\u00e1s Maduro, un aliado de Cuba https://t.co/r0F1h9o00e",
+        "truncated": false,
+        "display_text_range": [
+            0,
+            240
+        ],
+        "entities": {
+            "hashtags": [
+                {
+                    "text": "Cuba",
+                    "indices": [
+                        48,
+                        53
+                    ]
+                },
+                {
+                    "text": "Brasil",
+                    "indices": [
+                        130,
+                        137
+                    ]
+                },
+                {
+                    "text": "Venezuela",
+                    "indices": [
+                        159,
+                        169
+                    ]
+                }
+            ],
+            "symbols": [],
+            "user_mentions": [
+                {
+                    "screen_name": "jairbolsonaro",
+                    "name": "Jair M. Bolsonaro",
+                    "id": 128372940,
+                    "id_str": "128372940",
+                    "indices": [
+                        71,
+                        85
+                    ]
+                }
+            ],
+            "urls": [
+                {
+                    "url": "https://t.co/r0F1h9o00e",
+                    "expanded_url": "https://www.diariolasamericas.com/america-latina/bolsonaro-pide-el-fin-una-dictadura-cruel-cuba-n4227062",
+                    "display_url": "diariolasamericas.com/america-latina\u2026",
+                    "indices": [
+                        217,
+                        240
+                    ]
+                }
+            ]
+        },
+        "metadata": {
+            "iso_language_code": "es",
+            "result_type": "recent"
+        },
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 3073682337,
+            "id_str": "3073682337",
+            "name": "CarlosSanchezBerzain",
+            "screen_name": "Csanchezberzain",
+            "location": "",
+            "description": "Abogado,Polit\u00f3logo,Master en Ciencia Pol\u00edtica y Sociolog\u00eda. Catedr\u00e1tico. Estadista perseguido y exiliado pol\u00edtico.Director Interamerican Institute for Democracy",
+            "url": "https://t.co/7lel6HvDa2",
+            "entities": {
+                "url": {
+                    "urls": [
+                        {
+                            "url": "https://t.co/7lel6HvDa2",
+                            "expanded_url": "http://www.carlossanchezberzain.com",
+                            "display_url": "carlossanchezberzain.com",
+                            "indices": [
+                                0,
+                                23
+                            ]
+                        }
+                    ]
+                },
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 53767,
+            "friends_count": 8600,
+            "listed_count": 211,
+            "created_at": "Thu Mar 05 23:35:07 +0000 2015",
+            "favourites_count": 38190,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": false,
+            "verified": true,
+            "statuses_count": 30177,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "C0DEED",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1257831147213598723/1O0OkH_o_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1257831147213598723/1O0OkH_o_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/3073682337/1500935317",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "has_extended_profile": true,
+            "default_profile": true,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none",
+            "withheld_in_countries": []
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 66,
+        "favorite_count": 121,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "es"
+    },
+    "is_quote_status": false,
+    "retweet_count": 66,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "es"
+}

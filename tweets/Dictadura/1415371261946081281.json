@@ -1,0 +1,196 @@
+{
+    "created_at": "Wed Jul 14 18:02:59 +0000 2021",
+    "id": 1415371261946081281,
+    "id_str": "1415371261946081281",
+    "full_text": "RT @HuhConH: No puedes hablar del racismo si no eres negro.\nNo puedes hablar de la homofobia si no eres gay.\nNo puedes hablar del machismo\u2026",
+    "truncated": false,
+    "display_text_range": [
+        0,
+        139
+    ],
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "HuhConH",
+                "name": "Huh",
+                "id": 970102508,
+                "id_str": "970102508",
+                "indices": [
+                    3,
+                    11
+                ]
+            }
+        ],
+        "urls": []
+    },
+    "metadata": {
+        "iso_language_code": "es",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 1365365059317293057,
+        "id_str": "1365365059317293057",
+        "name": "Batfan \u2622\ud83c\udf5e\ud83e\udd87 (Tweets irrelevantes y estupidos)",
+        "screen_name": "SorrocheSanchez",
+        "location": "Granada, Espa\u00f1a",
+        "description": "#MaketheBatfleckMovie #SaveSuperman #SaveArgos #DeathstrokeHBOMax #ReleaseTheAyerCut #Batman #IstandbyScott #ThankYouScott",
+        "url": "https://t.co/PXRypwpgsh",
+        "entities": {
+            "url": {
+                "urls": [
+                    {
+                        "url": "https://t.co/PXRypwpgsh",
+                        "expanded_url": "https://MySlink.app/josemariasanchez3503",
+                        "display_url": "MySlink.app/josemariasanch\u2026",
+                        "indices": [
+                            0,
+                            23
+                        ]
+                    }
+                ]
+            },
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 111,
+        "friends_count": 282,
+        "listed_count": 1,
+        "created_at": "Fri Feb 26 18:16:20 +0000 2021",
+        "favourites_count": 4403,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 6437,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": null,
+        "profile_background_image_url_https": null,
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1413505558737559563/LBBeyvii_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1413505558737559563/LBBeyvii_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1365365059317293057/1624823824",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": true,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+        "created_at": "Tue Jul 13 11:55:13 +0000 2021",
+        "id": 1414916321280729095,
+        "id_str": "1414916321280729095",
+        "full_text": "No puedes hablar del racismo si no eres negro.\nNo puedes hablar de la homofobia si no eres gay.\nNo puedes hablar del machismo si no eres mujer.\n\nPero si puedes hablar de Cuba y contradecir lo que dicen los cubanos hartos de la represi\u00f3n de la dictadura aunque vivas a 8.000km. Ya.",
+        "truncated": false,
+        "display_text_range": [
+            0,
+            280
+        ],
+        "entities": {
+            "hashtags": [],
+            "symbols": [],
+            "user_mentions": [],
+            "urls": []
+        },
+        "metadata": {
+            "iso_language_code": "es",
+            "result_type": "recent"
+        },
+        "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 970102508,
+            "id_str": "970102508",
+            "name": "Huh",
+            "screen_name": "HuhConH",
+            "location": "Valencia",
+            "description": "\u00a1Hostia! \u00a1Un t\u00edo que no conozco de nada ha opinado sobre algo! \u00a1Voy a ofenderme!",
+            "url": null,
+            "entities": {
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 79451,
+            "friends_count": 638,
+            "listed_count": 324,
+            "created_at": "Sun Nov 25 14:10:18 +0000 2012",
+            "favourites_count": 137462,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": false,
+            "verified": false,
+            "statuses_count": 10611,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "C0DEED",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": true,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1049737063392862208/KliZ5BhQ_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1049737063392862208/KliZ5BhQ_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/970102508/1565357829",
+            "profile_link_color": "3B94D9",
+            "profile_sidebar_border_color": "FFFFFF",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "has_extended_profile": false,
+            "default_profile": false,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none",
+            "withheld_in_countries": []
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 485,
+        "favorite_count": 1311,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "es"
+    },
+    "is_quote_status": false,
+    "retweet_count": 485,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "es"
+}

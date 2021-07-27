@@ -1,0 +1,96 @@
+{
+    "created_at": "Wed Jul 14 18:02:36 +0000 2021",
+    "id": 1415371163304398853,
+    "id_str": "1415371163304398853",
+    "full_text": "@luisferpo Como hay dinero all\u00e1, sin tope salarial, y los jeques, dando y dando, as\u00ed cualquiera gana ligas, o copas, pero q dif\u00edcil la champions....",
+    "truncated": false,
+    "display_text_range": [
+        11,
+        148
+    ],
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "luisferpo",
+                "name": "Luis Fdo Restrepo",
+                "id": 64851710,
+                "id_str": "64851710",
+                "indices": [
+                    0,
+                    10
+                ]
+            }
+        ],
+        "urls": []
+    },
+    "metadata": {
+        "iso_language_code": "es",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "in_reply_to_status_id": 1415367799296471044,
+    "in_reply_to_status_id_str": "1415367799296471044",
+    "in_reply_to_user_id": 64851710,
+    "in_reply_to_user_id_str": "64851710",
+    "in_reply_to_screen_name": "luisferpo",
+    "user": {
+        "id": 138945817,
+        "id_str": "138945817",
+        "name": "Nathan Lopez",
+        "screen_name": "nathanlopez1975",
+        "location": "Maracaibo",
+        "description": "Amo a mi esposa mi hija mi flia Cristiano luchador y con mi Fe puesta en mi creador",
+        "url": null,
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 312,
+        "friends_count": 2253,
+        "listed_count": 1,
+        "created_at": "Sat May 01 02:59:56 +0000 2010",
+        "favourites_count": 44014,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 8855,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1410752805627904000/FU_ccWeD_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1410752805627904000/FU_ccWeD_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": true,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "es"
+}

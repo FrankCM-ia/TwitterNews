@@ -1,0 +1,262 @@
+{
+    "created_at": "Wed Jul 14 18:01:55 +0000 2021",
+    "id": 1415370990616465413,
+    "id_str": "1415370990616465413",
+    "full_text": "RT @unchinodechina: \"...y si Cuba es una DICTADURA es por el BLOQUEO imperialista, que no les permite comprar las urnas para convocar elecc\u2026",
+    "truncated": false,
+    "display_text_range": [
+        0,
+        140
+    ],
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "unchinodechina",
+                "name": "Chino de China",
+                "id": 4816899857,
+                "id_str": "4816899857",
+                "indices": [
+                    3,
+                    18
+                ]
+            }
+        ],
+        "urls": []
+    },
+    "metadata": {
+        "iso_language_code": "es",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 371324597,
+        "id_str": "371324597",
+        "name": "Pa'l arrastre",
+        "screen_name": "Paelarrastre",
+        "location": "Third rock from the sun.",
+        "description": "Sinceramente el mundo me gusta cada vez menos. Bloqueo a la primera falta.",
+        "url": null,
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 1475,
+        "friends_count": 5005,
+        "listed_count": 127,
+        "created_at": "Sat Sep 10 16:43:46 +0000 2011",
+        "favourites_count": 313766,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 478809,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1045191335244910592/V4DhrKkR_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1045191335244910592/V4DhrKkR_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/371324597/1538028008",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+        "created_at": "Wed Jul 14 11:24:45 +0000 2021",
+        "id": 1415271043447537664,
+        "id_str": "1415271043447537664",
+        "full_text": "\"...y si Cuba es una DICTADURA es por el BLOQUEO imperialista, que no les permite comprar las urnas para convocar elecciones democr\u00e1ticas y libres... \" https://t.co/ff8xukBgQv",
+        "truncated": false,
+        "display_text_range": [
+            0,
+            151
+        ],
+        "entities": {
+            "hashtags": [],
+            "symbols": [],
+            "user_mentions": [],
+            "urls": [],
+            "media": [
+                {
+                    "id": 1415270696654082063,
+                    "id_str": "1415270696654082063",
+                    "indices": [
+                        152,
+                        175
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/E6QNMz8WEA8DGT4.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/E6QNMz8WEA8DGT4.jpg",
+                    "url": "https://t.co/ff8xukBgQv",
+                    "display_url": "pic.twitter.com/ff8xukBgQv",
+                    "expanded_url": "https://twitter.com/unchinodechina/status/1415271043447537664/photo/1",
+                    "type": "photo",
+                    "sizes": {
+                        "small": {
+                            "w": 640,
+                            "h": 360,
+                            "resize": "fit"
+                        },
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "large": {
+                            "w": 640,
+                            "h": 360,
+                            "resize": "fit"
+                        },
+                        "medium": {
+                            "w": 640,
+                            "h": 360,
+                            "resize": "fit"
+                        }
+                    }
+                }
+            ]
+        },
+        "extended_entities": {
+            "media": [
+                {
+                    "id": 1415270696654082063,
+                    "id_str": "1415270696654082063",
+                    "indices": [
+                        152,
+                        175
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/E6QNMz8WEA8DGT4.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/E6QNMz8WEA8DGT4.jpg",
+                    "url": "https://t.co/ff8xukBgQv",
+                    "display_url": "pic.twitter.com/ff8xukBgQv",
+                    "expanded_url": "https://twitter.com/unchinodechina/status/1415271043447537664/photo/1",
+                    "type": "photo",
+                    "sizes": {
+                        "small": {
+                            "w": 640,
+                            "h": 360,
+                            "resize": "fit"
+                        },
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "large": {
+                            "w": 640,
+                            "h": 360,
+                            "resize": "fit"
+                        },
+                        "medium": {
+                            "w": 640,
+                            "h": 360,
+                            "resize": "fit"
+                        }
+                    }
+                }
+            ]
+        },
+        "metadata": {
+            "iso_language_code": "es",
+            "result_type": "recent"
+        },
+        "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 4816899857,
+            "id_str": "4816899857",
+            "name": "Chino de China",
+            "screen_name": "unchinodechina",
+            "location": "",
+            "description": "Polit\u00f3logo Chino muy ir\u00f3nico, sorprendido diariamente con Espa\u00f1a y los espa\u00f1oles Estoy enfadado con Marx (Groucho no, el otro, Karl)\nRi\u00e1monos de la Actualidad.",
+            "url": null,
+            "entities": {
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 96569,
+            "friends_count": 1117,
+            "listed_count": 274,
+            "created_at": "Fri Jan 15 19:18:08 +0000 2016",
+            "favourites_count": 310077,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": false,
+            "verified": false,
+            "statuses_count": 148026,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "DD2E44",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/688079078780481537/_eQ8dK2q_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/688079078780481537/_eQ8dK2q_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/4816899857/1473458430",
+            "profile_link_color": "DD2E44",
+            "profile_sidebar_border_color": "000000",
+            "profile_sidebar_fill_color": "000000",
+            "profile_text_color": "000000",
+            "profile_use_background_image": true,
+            "has_extended_profile": true,
+            "default_profile": false,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none",
+            "withheld_in_countries": []
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 463,
+        "favorite_count": 1992,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "es"
+    },
+    "is_quote_status": false,
+    "retweet_count": 463,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "es"
+}

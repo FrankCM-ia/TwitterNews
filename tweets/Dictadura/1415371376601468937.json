@@ -1,0 +1,275 @@
+{
+    "created_at": "Wed Jul 14 18:03:27 +0000 2021",
+    "id": 1415371376601468937,
+    "id_str": "1415371376601468937",
+    "full_text": "RT @Thecapitalis: No existen imposibles. Insistir, persistir, resistir y nunca desistir. No me paro de emocionar.\n\nSaluden a la dictadura c\u2026",
+    "truncated": false,
+    "display_text_range": [
+        0,
+        140
+    ],
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "Thecapitalis",
+                "name": "The Capitalist",
+                "id": 1319371934245814273,
+                "id_str": "1319371934245814273",
+                "indices": [
+                    3,
+                    16
+                ]
+            }
+        ],
+        "urls": []
+    },
+    "metadata": {
+        "iso_language_code": "es",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 1065234982438924294,
+        "id_str": "1065234982438924294",
+        "name": "Pagliaro",
+        "screen_name": "Pagliar09623862",
+        "location": "",
+        "description": "PRO REMISIONE PECCATORUM",
+        "url": null,
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 1785,
+        "friends_count": 651,
+        "listed_count": 2,
+        "created_at": "Wed Nov 21 13:26:25 +0000 2018",
+        "favourites_count": 60373,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 192629,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": null,
+        "profile_background_image_url_https": null,
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1412751629741432837/t-MocK-i_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1412751629741432837/t-MocK-i_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1065234982438924294/1556111132",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+        "created_at": "Wed Jul 14 17:57:55 +0000 2021",
+        "id": 1415369986332413955,
+        "id_str": "1415369986332413955",
+        "full_text": "No existen imposibles. Insistir, persistir, resistir y nunca desistir. No me paro de emocionar.\n\nSaluden a la dictadura comunista que empieza a irse\u2026 https://t.co/WKbJh6Tx9H",
+        "truncated": false,
+        "display_text_range": [
+            0,
+            149
+        ],
+        "entities": {
+            "hashtags": [],
+            "symbols": [],
+            "user_mentions": [],
+            "urls": [],
+            "media": [
+                {
+                    "id": 1415369977591476233,
+                    "id_str": "1415369977591476233",
+                    "indices": [
+                        150,
+                        173
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/E6RnfuQXsAkZAer.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/E6RnfuQXsAkZAer.jpg",
+                    "url": "https://t.co/WKbJh6Tx9H",
+                    "display_url": "pic.twitter.com/WKbJh6Tx9H",
+                    "expanded_url": "https://twitter.com/Thecapitalis/status/1415369986332413955/photo/1",
+                    "type": "photo",
+                    "sizes": {
+                        "small": {
+                            "w": 562,
+                            "h": 680,
+                            "resize": "fit"
+                        },
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "large": {
+                            "w": 846,
+                            "h": 1024,
+                            "resize": "fit"
+                        },
+                        "medium": {
+                            "w": 846,
+                            "h": 1024,
+                            "resize": "fit"
+                        }
+                    }
+                }
+            ]
+        },
+        "extended_entities": {
+            "media": [
+                {
+                    "id": 1415369977591476233,
+                    "id_str": "1415369977591476233",
+                    "indices": [
+                        150,
+                        173
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/E6RnfuQXsAkZAer.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/E6RnfuQXsAkZAer.jpg",
+                    "url": "https://t.co/WKbJh6Tx9H",
+                    "display_url": "pic.twitter.com/WKbJh6Tx9H",
+                    "expanded_url": "https://twitter.com/Thecapitalis/status/1415369986332413955/photo/1",
+                    "type": "photo",
+                    "sizes": {
+                        "small": {
+                            "w": 562,
+                            "h": 680,
+                            "resize": "fit"
+                        },
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "large": {
+                            "w": 846,
+                            "h": 1024,
+                            "resize": "fit"
+                        },
+                        "medium": {
+                            "w": 846,
+                            "h": 1024,
+                            "resize": "fit"
+                        }
+                    }
+                }
+            ]
+        },
+        "metadata": {
+            "iso_language_code": "es",
+            "result_type": "recent"
+        },
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 1319371934245814273,
+            "id_str": "1319371934245814273",
+            "name": "The Capitalist",
+            "screen_name": "Thecapitalis",
+            "location": "Manhattan, NY",
+            "description": "Capitalista opresor || Derechista ||English & Spanish \ud83c\udde7\ud83c\uddf7\ud83c\uddfa\ud83c\uddf8\ud83c\udde6\ud83c\uddf7\ud83c\uddf5\ud83c\uddfe\ud83c\uddee\ud83c\uddf1",
+            "url": "https://t.co/TLD758munh",
+            "entities": {
+                "url": {
+                    "urls": [
+                        {
+                            "url": "https://t.co/TLD758munh",
+                            "expanded_url": "https://parler.com/profile/Thecapitalis/posts",
+                            "display_url": "parler.com/profile/Thecap\u2026",
+                            "indices": [
+                                0,
+                                23
+                            ]
+                        }
+                    ]
+                },
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 1052,
+            "friends_count": 330,
+            "listed_count": 4,
+            "created_at": "Thu Oct 22 20:16:14 +0000 2020",
+            "favourites_count": 15858,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": false,
+            "verified": false,
+            "statuses_count": 9041,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "F5F8FA",
+            "profile_background_image_url": null,
+            "profile_background_image_url_https": null,
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1402368563168620545/LPS68sIQ_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1402368563168620545/LPS68sIQ_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/1319371934245814273/1623185748",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "has_extended_profile": true,
+            "default_profile": true,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none",
+            "withheld_in_countries": []
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 2,
+        "favorite_count": 5,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "es"
+    },
+    "is_quote_status": false,
+    "retweet_count": 2,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "es"
+}

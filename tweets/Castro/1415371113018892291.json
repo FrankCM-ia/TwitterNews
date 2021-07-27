@@ -1,0 +1,97 @@
+{
+    "created_at": "Wed Jul 14 18:02:24 +0000 2021",
+    "id": 1415371113018892291,
+    "id_str": "1415371113018892291",
+    "full_text": "Enhorabuena por t\u00fa, hija, hijo  \"hije\"\n\nRub\u00e9n Castro, \"Pap\u00e1 Gestante\" di\u00f3 a luz a su \"hije\"\n https://t.co/mEHBHGKl3V",
+    "truncated": false,
+    "display_text_range": [
+        0,
+        116
+    ],
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+            {
+                "url": "https://t.co/mEHBHGKl3V",
+                "expanded_url": "https://www.yasss.es/cultura/papa-gestante-ruben-castro-documental-padre-trans_18_3162348709.html",
+                "display_url": "yasss.es/cultura/papa-g\u2026",
+                "indices": [
+                    93,
+                    116
+                ]
+            }
+        ]
+    },
+    "metadata": {
+        "iso_language_code": "es",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 1251227101669228545,
+        "id_str": "1251227101669228545",
+        "name": "Brad",
+        "screen_name": "Brad84095454",
+        "location": "Hollywood, FL",
+        "description": "#PATRIOT #MAGA #VOX\ud83d\udc9a Ya encontr\u00e9 el sentido a la vida, es para el otro lado. \ud83c\uddec\ud83c\udde7\ud83c\uddea\ud83c\uddf8\ud83c\uddfa\ud83c\uddf8\ud83c\uddee\ud83c\uddf1",
+        "url": null,
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 3389,
+        "friends_count": 2914,
+        "listed_count": 2,
+        "created_at": "Fri Apr 17 19:13:29 +0000 2020",
+        "favourites_count": 5743,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 41879,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": null,
+        "profile_background_image_url_https": null,
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1397649261706326020/EJrrJZtD_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1397649261706326020/EJrrJZtD_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1251227101669228545/1599422832",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "es"
+}

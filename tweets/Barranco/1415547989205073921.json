@@ -1,0 +1,452 @@
+{
+    "created_at": "Thu Jul 15 05:45:14 +0000 2021",
+    "id": 1415547989205073921,
+    "id_str": "1415547989205073921",
+    "full_text": "RT @AleEsat: Por fin Laura Barranco (@LAURABARRANCO), en redes dices una cosa y a la mera hora dices otra.\nhttps://t.co/voRUDXyp5I",
+    "truncated": false,
+    "display_text_range": [
+        0,
+        130
+    ],
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "AleEsat",
+                "name": "Alejandra Escobar",
+                "id": 215733327,
+                "id_str": "215733327",
+                "indices": [
+                    3,
+                    11
+                ]
+            },
+            {
+                "screen_name": "LAURABARRANCO",
+                "name": "Laura Barranco",
+                "id": 118627815,
+                "id_str": "118627815",
+                "indices": [
+                    37,
+                    51
+                ]
+            }
+        ],
+        "urls": [],
+        "media": [
+            {
+                "id": 1415461368971550726,
+                "id_str": "1415461368971550726",
+                "indices": [
+                    107,
+                    130
+                ],
+                "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1415461368971550726/pu/img/gijqKYea9wOR9-2z.jpg",
+                "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1415461368971550726/pu/img/gijqKYea9wOR9-2z.jpg",
+                "url": "https://t.co/voRUDXyp5I",
+                "display_url": "pic.twitter.com/voRUDXyp5I",
+                "expanded_url": "https://twitter.com/CarlosLoret/status/1415461566087061512/video/1",
+                "type": "photo",
+                "sizes": {
+                    "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                    },
+                    "medium": {
+                        "w": 1200,
+                        "h": 675,
+                        "resize": "fit"
+                    },
+                    "small": {
+                        "w": 680,
+                        "h": 383,
+                        "resize": "fit"
+                    },
+                    "large": {
+                        "w": 1280,
+                        "h": 720,
+                        "resize": "fit"
+                    }
+                },
+                "source_status_id": 1415461566087061512,
+                "source_status_id_str": "1415461566087061512",
+                "source_user_id": 68844197,
+                "source_user_id_str": "68844197"
+            }
+        ]
+    },
+    "extended_entities": {
+        "media": [
+            {
+                "id": 1415461368971550726,
+                "id_str": "1415461368971550726",
+                "indices": [
+                    107,
+                    130
+                ],
+                "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1415461368971550726/pu/img/gijqKYea9wOR9-2z.jpg",
+                "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1415461368971550726/pu/img/gijqKYea9wOR9-2z.jpg",
+                "url": "https://t.co/voRUDXyp5I",
+                "display_url": "pic.twitter.com/voRUDXyp5I",
+                "expanded_url": "https://twitter.com/CarlosLoret/status/1415461566087061512/video/1",
+                "type": "video",
+                "sizes": {
+                    "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                    },
+                    "medium": {
+                        "w": 1200,
+                        "h": 675,
+                        "resize": "fit"
+                    },
+                    "small": {
+                        "w": 680,
+                        "h": 383,
+                        "resize": "fit"
+                    },
+                    "large": {
+                        "w": 1280,
+                        "h": 720,
+                        "resize": "fit"
+                    }
+                },
+                "source_status_id": 1415461566087061512,
+                "source_status_id_str": "1415461566087061512",
+                "source_user_id": 68844197,
+                "source_user_id_str": "68844197",
+                "video_info": {
+                    "aspect_ratio": [
+                        16,
+                        9
+                    ],
+                    "duration_millis": 35467,
+                    "variants": [
+                        {
+                            "bitrate": 832000,
+                            "content_type": "video/mp4",
+                            "url": "https://video.twimg.com/ext_tw_video/1415461368971550726/pu/vid/640x360/mPZdOgJI8MvcgApL.mp4?tag=12"
+                        },
+                        {
+                            "bitrate": 256000,
+                            "content_type": "video/mp4",
+                            "url": "https://video.twimg.com/ext_tw_video/1415461368971550726/pu/vid/480x270/qyQ7MIDciiMYF0Yw.mp4?tag=12"
+                        },
+                        {
+                            "content_type": "application/x-mpegURL",
+                            "url": "https://video.twimg.com/ext_tw_video/1415461368971550726/pu/pl/bF479equEodFxQED.m3u8?tag=12&container=fmp4"
+                        },
+                        {
+                            "bitrate": 2176000,
+                            "content_type": "video/mp4",
+                            "url": "https://video.twimg.com/ext_tw_video/1415461368971550726/pu/vid/1280x720/caAxfelOsoxP4WOX.mp4?tag=12"
+                        }
+                    ]
+                },
+                "additional_media_info": {
+                    "monetizable": false
+                }
+            }
+        ]
+    },
+    "metadata": {
+        "iso_language_code": "es",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 2291573478,
+        "id_str": "2291573478",
+        "name": "Rogelio Ojeda Huazo",
+        "screen_name": "RogelioHuazo",
+        "location": "",
+        "description": "",
+        "url": null,
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 28,
+        "friends_count": 44,
+        "listed_count": 0,
+        "created_at": "Tue Jan 14 19:13:05 +0000 2014",
+        "favourites_count": 20948,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 1915,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+        "profile_image_url_https": "https://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": true,
+        "default_profile_image": true,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+        "created_at": "Thu Jul 15 02:42:14 +0000 2021",
+        "id": 1415501934803423232,
+        "id_str": "1415501934803423232",
+        "full_text": "Por fin Laura Barranco (@LAURABARRANCO), en redes dices una cosa y a la mera hora dices otra.\nhttps://t.co/voRUDXyp5I",
+        "truncated": false,
+        "display_text_range": [
+            0,
+            117
+        ],
+        "entities": {
+            "hashtags": [],
+            "symbols": [],
+            "user_mentions": [
+                {
+                    "screen_name": "LAURABARRANCO",
+                    "name": "Laura Barranco",
+                    "id": 118627815,
+                    "id_str": "118627815",
+                    "indices": [
+                        24,
+                        38
+                    ]
+                }
+            ],
+            "urls": [],
+            "media": [
+                {
+                    "id": 1415461368971550726,
+                    "id_str": "1415461368971550726",
+                    "indices": [
+                        94,
+                        117
+                    ],
+                    "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1415461368971550726/pu/img/gijqKYea9wOR9-2z.jpg",
+                    "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1415461368971550726/pu/img/gijqKYea9wOR9-2z.jpg",
+                    "url": "https://t.co/voRUDXyp5I",
+                    "display_url": "pic.twitter.com/voRUDXyp5I",
+                    "expanded_url": "https://twitter.com/CarlosLoret/status/1415461566087061512/video/1",
+                    "type": "photo",
+                    "sizes": {
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "medium": {
+                            "w": 1200,
+                            "h": 675,
+                            "resize": "fit"
+                        },
+                        "small": {
+                            "w": 680,
+                            "h": 383,
+                            "resize": "fit"
+                        },
+                        "large": {
+                            "w": 1280,
+                            "h": 720,
+                            "resize": "fit"
+                        }
+                    },
+                    "source_status_id": 1415461566087061512,
+                    "source_status_id_str": "1415461566087061512",
+                    "source_user_id": 68844197,
+                    "source_user_id_str": "68844197"
+                }
+            ]
+        },
+        "extended_entities": {
+            "media": [
+                {
+                    "id": 1415461368971550726,
+                    "id_str": "1415461368971550726",
+                    "indices": [
+                        94,
+                        117
+                    ],
+                    "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1415461368971550726/pu/img/gijqKYea9wOR9-2z.jpg",
+                    "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1415461368971550726/pu/img/gijqKYea9wOR9-2z.jpg",
+                    "url": "https://t.co/voRUDXyp5I",
+                    "display_url": "pic.twitter.com/voRUDXyp5I",
+                    "expanded_url": "https://twitter.com/CarlosLoret/status/1415461566087061512/video/1",
+                    "type": "video",
+                    "sizes": {
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "medium": {
+                            "w": 1200,
+                            "h": 675,
+                            "resize": "fit"
+                        },
+                        "small": {
+                            "w": 680,
+                            "h": 383,
+                            "resize": "fit"
+                        },
+                        "large": {
+                            "w": 1280,
+                            "h": 720,
+                            "resize": "fit"
+                        }
+                    },
+                    "source_status_id": 1415461566087061512,
+                    "source_status_id_str": "1415461566087061512",
+                    "source_user_id": 68844197,
+                    "source_user_id_str": "68844197",
+                    "video_info": {
+                        "aspect_ratio": [
+                            16,
+                            9
+                        ],
+                        "duration_millis": 35467,
+                        "variants": [
+                            {
+                                "bitrate": 832000,
+                                "content_type": "video/mp4",
+                                "url": "https://video.twimg.com/ext_tw_video/1415461368971550726/pu/vid/640x360/mPZdOgJI8MvcgApL.mp4?tag=12"
+                            },
+                            {
+                                "bitrate": 256000,
+                                "content_type": "video/mp4",
+                                "url": "https://video.twimg.com/ext_tw_video/1415461368971550726/pu/vid/480x270/qyQ7MIDciiMYF0Yw.mp4?tag=12"
+                            },
+                            {
+                                "content_type": "application/x-mpegURL",
+                                "url": "https://video.twimg.com/ext_tw_video/1415461368971550726/pu/pl/bF479equEodFxQED.m3u8?tag=12&container=fmp4"
+                            },
+                            {
+                                "bitrate": 2176000,
+                                "content_type": "video/mp4",
+                                "url": "https://video.twimg.com/ext_tw_video/1415461368971550726/pu/vid/1280x720/caAxfelOsoxP4WOX.mp4?tag=12"
+                            }
+                        ]
+                    },
+                    "additional_media_info": {
+                        "monetizable": false
+                    }
+                }
+            ]
+        },
+        "metadata": {
+            "iso_language_code": "es",
+            "result_type": "recent"
+        },
+        "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 215733327,
+            "id_str": "215733327",
+            "name": "Alejandra Escobar",
+            "screen_name": "AleEsat",
+            "location": "Ciudad de M\u00e9xico, M\u00e9xico",
+            "description": "Editora general de @revistaetcetera - La nostalgia es recordar lo feliz que fuiste sin darte cuenta de ello",
+            "url": "https://t.co/CIDg7FBQQT",
+            "entities": {
+                "url": {
+                    "urls": [
+                        {
+                            "url": "https://t.co/CIDg7FBQQT",
+                            "expanded_url": "https://www.etcetera.com.mx/author/alejandra-escobar/",
+                            "display_url": "etcetera.com.mx/author/alejand\u2026",
+                            "indices": [
+                                0,
+                                23
+                            ]
+                        }
+                    ]
+                },
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 16500,
+            "friends_count": 875,
+            "listed_count": 45,
+            "created_at": "Sun Nov 14 19:32:31 +0000 2010",
+            "favourites_count": 4273,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": true,
+            "verified": false,
+            "statuses_count": 8230,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "EBEBEB",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme7/bg.gif",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme7/bg.gif",
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1380611912384311296/6uL0wbPP_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1380611912384311296/6uL0wbPP_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/215733327/1582305655",
+            "profile_link_color": "0F94BD",
+            "profile_sidebar_border_color": "FFFFFF",
+            "profile_sidebar_fill_color": "F3F3F3",
+            "profile_text_color": "1E53A1",
+            "profile_use_background_image": false,
+            "has_extended_profile": true,
+            "default_profile": false,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none",
+            "withheld_in_countries": []
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 9,
+        "favorite_count": 30,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "es"
+    },
+    "is_quote_status": false,
+    "retweet_count": 9,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "es"
+}

@@ -1,0 +1,97 @@
+{
+    "created_at": "Thu Jul 15 14:58:14 +0000 2021",
+    "id": 1415687154064248837,
+    "id_str": "1415687154064248837",
+    "full_text": "@agarzon El 7 de agosto de 1996, una intensa tormenta en la cabecera del barranco de Ar\u00e1s produjo una gran riada que arras\u00f3 el campin Las Nieves, situado junto a la desembocadura de las aguas torrenciales en el r\u00edo G\u00e1llego. Murieron 87 personas y 183 resultaron heridas.",
+    "truncated": false,
+    "display_text_range": [
+        9,
+        270
+    ],
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "agarzon",
+                "name": "Alberto Garz\u00f3n\ud83d\udd3b",
+                "id": 11904592,
+                "id_str": "11904592",
+                "indices": [
+                    0,
+                    8
+                ]
+            }
+        ],
+        "urls": []
+    },
+    "metadata": {
+        "iso_language_code": "es",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_status_id": 1415681688093401093,
+    "in_reply_to_status_id_str": "1415681688093401093",
+    "in_reply_to_user_id": 11904592,
+    "in_reply_to_user_id_str": "11904592",
+    "in_reply_to_screen_name": "agarzon",
+    "user": {
+        "id": 1230112443474620418,
+        "id_str": "1230112443474620418",
+        "name": "BURNTGON",
+        "screen_name": "BURNT56709347",
+        "location": "",
+        "description": "\ud83c\uddea\ud83c\uddf8\ud83c\uddea\ud83c\uddf8AMO A MI PA\u00cdS, AL MUNDO y la LIBERTAD en todas sus dimensiones",
+        "url": null,
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 347,
+        "friends_count": 634,
+        "listed_count": 0,
+        "created_at": "Wed Feb 19 12:50:44 +0000 2020",
+        "favourites_count": 25168,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 9394,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": null,
+        "profile_background_image_url_https": null,
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1314328089153994759/9yM0WfcU_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1314328089153994759/9yM0WfcU_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1230112443474620418/1625211565",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": true,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 1,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "es"
+}

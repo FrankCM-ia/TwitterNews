@@ -1,0 +1,203 @@
+{
+    "created_at": "Wed Jul 14 16:00:30 +0000 2021",
+    "id": 1415340437703909379,
+    "id_str": "1415340437703909379",
+    "full_text": "RT @DLaraF: Si hay cubanos que desde Cuba est\u00e9n dispuestos a que su voz sea escuchada en esta jornada de protesta, debemos hacer lo posible\u2026",
+    "truncated": false,
+    "display_text_range": [
+        0,
+        140
+    ],
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "DLaraF",
+                "name": "Daniel Lara Far\u00edas \ud83c\udff3\ufe0f\u200d\ud83c\udf08",
+                "id": 40762752,
+                "id_str": "40762752",
+                "indices": [
+                    3,
+                    10
+                ]
+            }
+        ],
+        "urls": []
+    },
+    "metadata": {
+        "iso_language_code": "es",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 109607848,
+        "id_str": "109607848",
+        "name": "Maria Luisa Larralde",
+        "screen_name": "chochove",
+        "location": "Caracas",
+        "description": "resistencia y paz",
+        "url": null,
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 719,
+        "friends_count": 629,
+        "listed_count": 12,
+        "created_at": "Fri Jan 29 16:54:44 +0000 2010",
+        "favourites_count": 513,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 78357,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/973607249078837248/ly93Dkxd_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/973607249078837248/ly93Dkxd_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+        "created_at": "Tue Jul 13 21:09:30 +0000 2021",
+        "id": 1415055810133172230,
+        "id_str": "1415055810133172230",
+        "full_text": "Si hay cubanos que desde Cuba est\u00e9n dispuestos a que su voz sea escuchada en esta jornada de protesta, debemos hacer lo posible por ayudarlos. \nCubanos en Cuba o con familia en Cuba que quieran hablar,avisen por aqu\u00ed que haremos lo posible para sacarlos al aire #CubaLibre \ud83c\udde8\ud83c\uddfa",
+        "truncated": false,
+        "display_text_range": [
+            0,
+            275
+        ],
+        "entities": {
+            "hashtags": [
+                {
+                    "text": "CubaLibre",
+                    "indices": [
+                        262,
+                        272
+                    ]
+                }
+            ],
+            "symbols": [],
+            "user_mentions": [],
+            "urls": []
+        },
+        "metadata": {
+            "iso_language_code": "es",
+            "result_type": "recent"
+        },
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 40762752,
+            "id_str": "40762752",
+            "name": "Daniel Lara Far\u00edas \ud83c\udff3\ufe0f\u200d\ud83c\udf08",
+            "screen_name": "DLaraF",
+            "location": "Alemania",
+            "description": "Ciudadano venezolano exiliado en Alemania | Comunicador independiente | Hier in Deutschland sind wir frei \ud83c\udde9\ud83c\uddea | Mi opini\u00f3n es m\u00eda y de nadie m\u00e1s",
+            "url": "https://t.co/lO1niNG0Ia",
+            "entities": {
+                "url": {
+                    "urls": [
+                        {
+                            "url": "https://t.co/lO1niNG0Ia",
+                            "expanded_url": "http://patreon.com/dlaraf",
+                            "display_url": "patreon.com/dlaraf",
+                            "indices": [
+                                0,
+                                23
+                            ]
+                        }
+                    ]
+                },
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 159586,
+            "friends_count": 6037,
+            "listed_count": 621,
+            "created_at": "Sun May 17 23:38:40 +0000 2009",
+            "favourites_count": 1112,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": true,
+            "verified": true,
+            "statuses_count": 164768,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "B2DFDA",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme13/bg.gif",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme13/bg.gif",
+            "profile_background_tile": true,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1266741140126138370/tmKRuKwh_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1266741140126138370/tmKRuKwh_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/40762752/1590849598",
+            "profile_link_color": "ABB8C2",
+            "profile_sidebar_border_color": "FFFFFF",
+            "profile_sidebar_fill_color": "FFFFFF",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "has_extended_profile": true,
+            "default_profile": false,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none",
+            "withheld_in_countries": []
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 1368,
+        "favorite_count": 2387,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "es"
+    },
+    "is_quote_status": false,
+    "retweet_count": 1368,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "es"
+}

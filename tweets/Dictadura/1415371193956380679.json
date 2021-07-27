@@ -1,0 +1,300 @@
+{
+    "created_at": "Wed Jul 14 18:02:43 +0000 2021",
+    "id": 1415371193956380679,
+    "id_str": "1415371193956380679",
+    "full_text": "RT @albamarinamessa: \u201cLa dictadura Cubana ha fracasado en lo que significa acceso a derechos y a equidad, ha fracasado su  manejo de la eco\u2026",
+    "truncated": false,
+    "display_text_range": [
+        0,
+        140
+    ],
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "albamarinamessa",
+                "name": "alba marina messa",
+                "id": 894433664,
+                "id_str": "894433664",
+                "indices": [
+                    3,
+                    19
+                ]
+            }
+        ],
+        "urls": []
+    },
+    "metadata": {
+        "iso_language_code": "es",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 1313451959802892288,
+        "id_str": "1313451959802892288",
+        "name": "kay",
+        "screen_name": "CarlosB72555021",
+        "location": "",
+        "description": "",
+        "url": null,
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 193,
+        "friends_count": 275,
+        "listed_count": 0,
+        "created_at": "Tue Oct 06 12:12:17 +0000 2020",
+        "favourites_count": 5286,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 15144,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": null,
+        "profile_background_image_url_https": null,
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1313453635402174465/o6AHB30a_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1313453635402174465/o6AHB30a_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": true,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+        "created_at": "Wed Jul 14 17:32:34 +0000 2021",
+        "id": 1415363606187806729,
+        "id_str": "1415363606187806729",
+        "full_text": "\u201cLa dictadura Cubana ha fracasado en lo que significa acceso a derechos y a equidad, ha fracasado su  manejo de la econom\u00eda, la \u00fanica manera de licuar sus deficiencias sociales es empujando  a su gente al exilio . https://t.co/IfkMHeS0hB",
+        "truncated": false,
+        "display_text_range": [
+            0,
+            237
+        ],
+        "entities": {
+            "hashtags": [],
+            "symbols": [],
+            "user_mentions": [],
+            "urls": [],
+            "media": [
+                {
+                    "id": 1415153125506306048,
+                    "id_str": "1415153125506306048",
+                    "indices": [
+                        214,
+                        237
+                    ],
+                    "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1415153125506306048/pu/img/CUjflL7xWiuw6eMC.jpg",
+                    "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1415153125506306048/pu/img/CUjflL7xWiuw6eMC.jpg",
+                    "url": "https://t.co/IfkMHeS0hB",
+                    "display_url": "pic.twitter.com/IfkMHeS0hB",
+                    "expanded_url": "https://twitter.com/Florencia_Pink/status/1415157115547791361/video/1",
+                    "type": "photo",
+                    "sizes": {
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "medium": {
+                            "w": 852,
+                            "h": 480,
+                            "resize": "fit"
+                        },
+                        "large": {
+                            "w": 852,
+                            "h": 480,
+                            "resize": "fit"
+                        },
+                        "small": {
+                            "w": 680,
+                            "h": 383,
+                            "resize": "fit"
+                        }
+                    },
+                    "source_status_id": 1415157115547791361,
+                    "source_status_id_str": "1415157115547791361",
+                    "source_user_id": 87325005,
+                    "source_user_id_str": "87325005"
+                }
+            ]
+        },
+        "extended_entities": {
+            "media": [
+                {
+                    "id": 1415153125506306048,
+                    "id_str": "1415153125506306048",
+                    "indices": [
+                        214,
+                        237
+                    ],
+                    "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1415153125506306048/pu/img/CUjflL7xWiuw6eMC.jpg",
+                    "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1415153125506306048/pu/img/CUjflL7xWiuw6eMC.jpg",
+                    "url": "https://t.co/IfkMHeS0hB",
+                    "display_url": "pic.twitter.com/IfkMHeS0hB",
+                    "expanded_url": "https://twitter.com/Florencia_Pink/status/1415157115547791361/video/1",
+                    "type": "video",
+                    "sizes": {
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "medium": {
+                            "w": 852,
+                            "h": 480,
+                            "resize": "fit"
+                        },
+                        "large": {
+                            "w": 852,
+                            "h": 480,
+                            "resize": "fit"
+                        },
+                        "small": {
+                            "w": 680,
+                            "h": 383,
+                            "resize": "fit"
+                        }
+                    },
+                    "source_status_id": 1415157115547791361,
+                    "source_status_id_str": "1415157115547791361",
+                    "source_user_id": 87325005,
+                    "source_user_id_str": "87325005",
+                    "video_info": {
+                        "aspect_ratio": [
+                            71,
+                            40
+                        ],
+                        "duration_millis": 139933,
+                        "variants": [
+                            {
+                                "bitrate": 256000,
+                                "content_type": "video/mp4",
+                                "url": "https://video.twimg.com/ext_tw_video/1415153125506306048/pu/vid/478x270/rgHE-908d14uIa6H.mp4?tag=12"
+                            },
+                            {
+                                "bitrate": 2176000,
+                                "content_type": "video/mp4",
+                                "url": "https://video.twimg.com/ext_tw_video/1415153125506306048/pu/vid/852x480/MEj53zeKkiTc2rXa.mp4?tag=12"
+                            },
+                            {
+                                "content_type": "application/x-mpegURL",
+                                "url": "https://video.twimg.com/ext_tw_video/1415153125506306048/pu/pl/85ryQUP5iQUKalx-.m3u8?tag=12&container=fmp4"
+                            },
+                            {
+                                "bitrate": 832000,
+                                "content_type": "video/mp4",
+                                "url": "https://video.twimg.com/ext_tw_video/1415153125506306048/pu/vid/638x360/V_tsdN8_sJGVwImJ.mp4?tag=12"
+                            }
+                        ]
+                    },
+                    "additional_media_info": {
+                        "monetizable": false
+                    }
+                }
+            ]
+        },
+        "metadata": {
+            "iso_language_code": "es",
+            "result_type": "recent"
+        },
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 894433664,
+            "id_str": "894433664",
+            "name": "alba marina messa",
+            "screen_name": "albamarinamessa",
+            "location": "Usa",
+            "description": "Uribista-Duquista. A la diestra siempre y con Dios \ud83c\uddfa\ud83c\uddf8\ud83c\udde8\ud83c\uddf4\ud83e\udd8b#SarasotaRally #Trump #HappyFourthOfJuly . APOYO A ISRAEL \ud83c\uddee\ud83c\uddf1",
+            "url": null,
+            "entities": {
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 23714,
+            "friends_count": 14211,
+            "listed_count": 17,
+            "created_at": "Sun Oct 21 02:08:50 +0000 2012",
+            "favourites_count": 86312,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": false,
+            "verified": false,
+            "statuses_count": 133246,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "C0DEED",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1348292019211350016/0zyd8sPs_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1348292019211350016/0zyd8sPs_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/894433664/1583610196",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "has_extended_profile": false,
+            "default_profile": true,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none",
+            "withheld_in_countries": []
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 28,
+        "favorite_count": 36,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "es"
+    },
+    "is_quote_status": false,
+    "retweet_count": 28,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "es"
+}

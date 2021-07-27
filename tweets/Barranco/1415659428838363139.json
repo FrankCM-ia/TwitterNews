@@ -1,0 +1,367 @@
+{
+    "created_at": "Thu Jul 15 13:08:04 +0000 2021",
+    "id": 1415659428838363139,
+    "id_str": "1415659428838363139",
+    "full_text": "Muestren un personaje que les haga decir \"Te quiero patear, golpear, tirarte de un barranco y tirarte un cami\u00f3n lleno de gasolina\"\n\nRobin, amigo no puedo con el simple hecho de que lo hicieron mas intenso y mand\u00f3n, que SIMPatico, normaliz\u00f3 enfermedades mentales (funad@ ser\u00e9) https://t.co/CM2ppd6uRZ https://t.co/EQtmSMcw55",
+    "truncated": false,
+    "display_text_range": [
+        0,
+        299
+    ],
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+            {
+                "url": "https://t.co/CM2ppd6uRZ",
+                "expanded_url": "https://twitter.com/ColombianaMan/status/1415653574395236352",
+                "display_url": "twitter.com/ColombianaMan/\u2026",
+                "indices": [
+                    276,
+                    299
+                ]
+            }
+        ],
+        "media": [
+            {
+                "id": 1415659074096599041,
+                "id_str": "1415659074096599041",
+                "indices": [
+                    300,
+                    323
+                ],
+                "media_url": "http://pbs.twimg.com/media/E6VubWqWEAEyP6V.png",
+                "media_url_https": "https://pbs.twimg.com/media/E6VubWqWEAEyP6V.png",
+                "url": "https://t.co/EQtmSMcw55",
+                "display_url": "pic.twitter.com/EQtmSMcw55",
+                "expanded_url": "https://twitter.com/Stanley_Marsh01/status/1415659428838363139/photo/1",
+                "type": "photo",
+                "sizes": {
+                    "large": {
+                        "w": 174,
+                        "h": 252,
+                        "resize": "fit"
+                    },
+                    "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                    },
+                    "small": {
+                        "w": 174,
+                        "h": 252,
+                        "resize": "fit"
+                    },
+                    "medium": {
+                        "w": 174,
+                        "h": 252,
+                        "resize": "fit"
+                    }
+                }
+            }
+        ]
+    },
+    "extended_entities": {
+        "media": [
+            {
+                "id": 1415659074096599041,
+                "id_str": "1415659074096599041",
+                "indices": [
+                    300,
+                    323
+                ],
+                "media_url": "http://pbs.twimg.com/media/E6VubWqWEAEyP6V.png",
+                "media_url_https": "https://pbs.twimg.com/media/E6VubWqWEAEyP6V.png",
+                "url": "https://t.co/EQtmSMcw55",
+                "display_url": "pic.twitter.com/EQtmSMcw55",
+                "expanded_url": "https://twitter.com/Stanley_Marsh01/status/1415659428838363139/photo/1",
+                "type": "photo",
+                "sizes": {
+                    "large": {
+                        "w": 174,
+                        "h": 252,
+                        "resize": "fit"
+                    },
+                    "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                    },
+                    "small": {
+                        "w": 174,
+                        "h": 252,
+                        "resize": "fit"
+                    },
+                    "medium": {
+                        "w": 174,
+                        "h": 252,
+                        "resize": "fit"
+                    }
+                }
+            }
+        ]
+    },
+    "metadata": {
+        "iso_language_code": "es",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 1301895134594949121,
+        "id_str": "1301895134594949121",
+        "name": "Luisardo ahegao",
+        "screen_name": "Stanley_Marsh01",
+        "location": "COLOMBIA AJUA MI \u00d1ERO",
+        "description": "-;; She/He\n-;; Simp profesional de @ColombianaMan\n-;; Dibujante fallida, payaso en su vida pasada\n-;; Tweet x aburricion\n-;; Wattpad: @-_Marsh_McCormick_-",
+        "url": null,
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 8,
+        "friends_count": 93,
+        "listed_count": 0,
+        "created_at": "Fri Sep 04 14:49:33 +0000 2020",
+        "favourites_count": 978,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 149,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": null,
+        "profile_background_image_url_https": null,
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1415847116216414210/rZuZgnpW_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1415847116216414210/rZuZgnpW_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1301895134594949121/1620189398",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": true,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": true,
+    "quoted_status_id": 1415653574395236352,
+    "quoted_status_id_str": "1415653574395236352",
+    "quoted_status": {
+        "created_at": "Thu Jul 15 12:44:48 +0000 2021",
+        "id": 1415653574395236352,
+        "id_str": "1415653574395236352",
+        "full_text": "Muestren un personaje que les haga decir \"Te quiero patear, golpear, tirarte de un barranco y tirarte un cami\u00f3n lleno de gasolina\" \n\nDeku, si no lloraba. Sacaba fuerzas del orto. Me cae re mal el puto https://t.co/yr6jclCc4u https://t.co/2gTaRgFuER",
+        "truncated": false,
+        "display_text_range": [
+            0,
+            224
+        ],
+        "entities": {
+            "hashtags": [],
+            "symbols": [],
+            "user_mentions": [],
+            "urls": [
+                {
+                    "url": "https://t.co/yr6jclCc4u",
+                    "expanded_url": "https://twitter.com/G0thOliver/status/1415606996137648129",
+                    "display_url": "twitter.com/G0thOliver/sta\u2026",
+                    "indices": [
+                        201,
+                        224
+                    ]
+                }
+            ],
+            "media": [
+                {
+                    "id": 1415653571136266242,
+                    "id_str": "1415653571136266242",
+                    "indices": [
+                        225,
+                        248
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/E6VpbCiXIAIDP_i.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/E6VpbCiXIAIDP_i.jpg",
+                    "url": "https://t.co/2gTaRgFuER",
+                    "display_url": "pic.twitter.com/2gTaRgFuER",
+                    "expanded_url": "https://twitter.com/ColombianaMan/status/1415653574395236352/photo/1",
+                    "type": "photo",
+                    "sizes": {
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "small": {
+                            "w": 480,
+                            "h": 480,
+                            "resize": "fit"
+                        },
+                        "medium": {
+                            "w": 480,
+                            "h": 480,
+                            "resize": "fit"
+                        },
+                        "large": {
+                            "w": 480,
+                            "h": 480,
+                            "resize": "fit"
+                        }
+                    }
+                }
+            ]
+        },
+        "extended_entities": {
+            "media": [
+                {
+                    "id": 1415653571136266242,
+                    "id_str": "1415653571136266242",
+                    "indices": [
+                        225,
+                        248
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/E6VpbCiXIAIDP_i.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/E6VpbCiXIAIDP_i.jpg",
+                    "url": "https://t.co/2gTaRgFuER",
+                    "display_url": "pic.twitter.com/2gTaRgFuER",
+                    "expanded_url": "https://twitter.com/ColombianaMan/status/1415653574395236352/photo/1",
+                    "type": "photo",
+                    "sizes": {
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "small": {
+                            "w": 480,
+                            "h": 480,
+                            "resize": "fit"
+                        },
+                        "medium": {
+                            "w": 480,
+                            "h": 480,
+                            "resize": "fit"
+                        },
+                        "large": {
+                            "w": 480,
+                            "h": 480,
+                            "resize": "fit"
+                        }
+                    }
+                }
+            ]
+        },
+        "metadata": {
+            "iso_language_code": "es",
+            "result_type": "recent"
+        },
+        "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 1401328633030090755,
+            "id_str": "1401328633030090755",
+            "name": "Colombiana Man",
+            "screen_name": "ColombianaMan",
+            "location": "Colombia",
+            "description": "Mis hermanos, Soy Colombiana Man, el hombre gaseosa preferido en toda Colombia #MANgang\n\nPorque la Colombiana la Nuestra",
+            "url": "https://t.co/20gKb9ORbO",
+            "entities": {
+                "url": {
+                    "urls": [
+                        {
+                            "url": "https://t.co/20gKb9ORbO",
+                            "expanded_url": "https://tomatelavida.com.co/informacion-nutricional/gaseosas/colombiana/",
+                            "display_url": "tomatelavida.com.co/informacion-nu\u2026",
+                            "indices": [
+                                0,
+                                23
+                            ]
+                        }
+                    ]
+                },
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 158,
+            "friends_count": 167,
+            "listed_count": 2,
+            "created_at": "Sun Jun 06 00:03:23 +0000 2021",
+            "favourites_count": 463,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": false,
+            "verified": false,
+            "statuses_count": 417,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "F5F8FA",
+            "profile_background_image_url": null,
+            "profile_background_image_url_https": null,
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1407704568205611012/FRJx46z1_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1407704568205611012/FRJx46z1_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/1401328633030090755/1622938150",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "has_extended_profile": true,
+            "default_profile": true,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none",
+            "withheld_in_countries": []
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": true,
+        "quoted_status_id": 1415606996137648129,
+        "quoted_status_id_str": "1415606996137648129",
+        "retweet_count": 0,
+        "favorite_count": 5,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "es"
+    },
+    "retweet_count": 0,
+    "favorite_count": 1,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "es"
+}

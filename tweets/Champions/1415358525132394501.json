@@ -1,0 +1,137 @@
+{
+    "created_at": "Wed Jul 14 17:12:23 +0000 2021",
+    "id": 1415358525132394501,
+    "id_str": "1415358525132394501",
+    "full_text": "@Varcolac1981 @kenderol @Denil4563 @Richtuit @mundodeportivo Sigue siendo virgen... Cuando cuando gane una Champions hablamos \ud83d\udc4d",
+    "truncated": false,
+    "display_text_range": [
+        61,
+        127
+    ],
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "Varcolac1981",
+                "name": "\u0f12\u2022\ud835\udd4d\u00e2\ud835\udd63\uff23\ud835\udd2c\u02e1\u03b1\u0106\u2022\u0f12 \ud83c\uddee\ud83c\udde8\ud83d\ude0e\ud83c\udf34\ud83c\udf0a",
+                "id": 402931197,
+                "id_str": "402931197",
+                "indices": [
+                    0,
+                    13
+                ]
+            },
+            {
+                "screen_name": "kenderol",
+                "name": "kenderol",
+                "id": 310175168,
+                "id_str": "310175168",
+                "indices": [
+                    14,
+                    23
+                ]
+            },
+            {
+                "screen_name": "Denil4563",
+                "name": "Denil",
+                "id": 953741049863655424,
+                "id_str": "953741049863655424",
+                "indices": [
+                    24,
+                    34
+                ]
+            },
+            {
+                "screen_name": "Richtuit",
+                "name": "\u2022 Richtuit \u2022",
+                "id": 243412950,
+                "id_str": "243412950",
+                "indices": [
+                    35,
+                    44
+                ]
+            },
+            {
+                "screen_name": "mundodeportivo",
+                "name": "Mundo Deportivo",
+                "id": 15748165,
+                "id_str": "15748165",
+                "indices": [
+                    45,
+                    60
+                ]
+            }
+        ],
+        "urls": []
+    },
+    "metadata": {
+        "iso_language_code": "es",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "in_reply_to_status_id": 1415354791866339328,
+    "in_reply_to_status_id_str": "1415354791866339328",
+    "in_reply_to_user_id": 402931197,
+    "in_reply_to_user_id_str": "402931197",
+    "in_reply_to_screen_name": "Varcolac1981",
+    "user": {
+        "id": 997674801908146177,
+        "id_str": "997674801908146177",
+        "name": "Mauro ivan",
+        "screen_name": "MauroAurine",
+        "location": "Puerto Madryn, Argentina",
+        "description": "padre de atenea.. amante del f\u00fatbol hincha del rojo y del m\u00e1s grande de la Patagonia el Deportivo Madryn!!! LA INCOMPARABLE!!!",
+        "url": null,
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 15,
+        "friends_count": 83,
+        "listed_count": 0,
+        "created_at": "Sat May 19 03:06:23 +0000 2018",
+        "favourites_count": 1613,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 1313,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": null,
+        "profile_background_image_url_https": null,
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1245457693768376329/en-iI0r1_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1245457693768376329/en-iI0r1_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/997674801908146177/1624037942",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "es"
+}

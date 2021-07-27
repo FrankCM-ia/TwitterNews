@@ -1,0 +1,97 @@
+{
+    "created_at": "Wed Jul 14 18:02:23 +0000 2021",
+    "id": 1415371108883255302,
+    "id_str": "1415371108883255302",
+    "full_text": "@mariuvidal Lo tuiteas desde la provincia que amas o desde  caba? Ah es una DICTADURA, decilo, cobarde",
+    "truncated": false,
+    "display_text_range": [
+        12,
+        102
+    ],
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "mariuvidal",
+                "name": "Mar\u00eda Eugenia Vidal",
+                "id": 109040582,
+                "id_str": "109040582",
+                "indices": [
+                    0,
+                    11
+                ]
+            }
+        ],
+        "urls": []
+    },
+    "metadata": {
+        "iso_language_code": "es",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_status_id": 1415327528554745863,
+    "in_reply_to_status_id_str": "1415327528554745863",
+    "in_reply_to_user_id": 109040582,
+    "in_reply_to_user_id_str": "109040582",
+    "in_reply_to_screen_name": "mariuvidal",
+    "user": {
+        "id": 828749531772813313,
+        "id_str": "828749531772813313",
+        "name": "Hello, Clarice",
+        "screen_name": "Lic_Canaletta",
+        "location": "De ac\u00e1!",
+        "description": "Avionista. Harta de Peronia. CatLady. La grieta es MORAL",
+        "url": null,
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 192,
+        "friends_count": 184,
+        "listed_count": 0,
+        "created_at": "Mon Feb 06 23:37:40 +0000 2017",
+        "favourites_count": 27880,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 18391,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": null,
+        "profile_background_image_url_https": null,
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1408825421731348482/sWbZgJOQ_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1408825421731348482/sWbZgJOQ_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/828749531772813313/1618625466",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": true,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "es"
+}

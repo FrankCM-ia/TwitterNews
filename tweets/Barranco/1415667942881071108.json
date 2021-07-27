@@ -1,0 +1,97 @@
+{
+    "created_at": "Thu Jul 15 13:41:54 +0000 2021",
+    "id": 1415667942881071108,
+    "id_str": "1415667942881071108",
+    "full_text": "@redhistoria Es el S\u00e1nchez babil\u00f3nico evitando que Redondo salte por el barranco\u2026 Y ya de paso\u2026 (La historia se repite)\ud83d\ude09",
+    "truncated": false,
+    "display_text_range": [
+        13,
+        120
+    ],
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "redhistoria",
+                "name": "Diario de Historia\u2122",
+                "id": 142387197,
+                "id_str": "142387197",
+                "indices": [
+                    0,
+                    12
+                ]
+            }
+        ],
+        "urls": []
+    },
+    "metadata": {
+        "iso_language_code": "es",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_status_id": 1415441688449912835,
+    "in_reply_to_status_id_str": "1415441688449912835",
+    "in_reply_to_user_id": 142387197,
+    "in_reply_to_user_id_str": "142387197",
+    "in_reply_to_screen_name": "redhistoria",
+    "user": {
+        "id": 460394782,
+        "id_str": "460394782",
+        "name": "Fernando\ud83d\udd06odnanreF",
+        "screen_name": "Brenyaman",
+        "location": "Aqu\u00ed abajo",
+        "description": "Cosecha del 71. En mis ratos libres, traduzco. En los ocupados, deduzco. #HalfFullGlass #SFC \uf8ff",
+        "url": null,
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 415,
+        "friends_count": 412,
+        "listed_count": 11,
+        "created_at": "Tue Jan 10 18:22:02 +0000 2012",
+        "favourites_count": 48871,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 33079,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1298414942341812229/XR_az40R_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1298414942341812229/XR_az40R_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/460394782/1443703823",
+        "profile_link_color": "1B95E0",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "profile_use_background_image": false,
+        "has_extended_profile": true,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "es"
+}

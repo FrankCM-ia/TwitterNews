@@ -1,0 +1,225 @@
+{
+    "created_at": "Wed Jul 14 16:00:21 +0000 2021",
+    "id": 1415340397891661824,
+    "id_str": "1415340397891661824",
+    "full_text": "RT @Chichisiles: Es desconcertante q  @evoespueblo q hizo del bloqueo inmisericorde su estrategia de extorsi\u00f3n por a\u00f1os, sin dejar ni siqui\u2026",
+    "truncated": false,
+    "display_text_range": [
+        0,
+        140
+    ],
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "Chichisiles",
+                "name": "Luis Eduardo Siles \ud83c\udde7\ud83c\uddf4\ud83c\uddf5\ud83c\uddfe",
+                "id": 129067104,
+                "id_str": "129067104",
+                "indices": [
+                    3,
+                    15
+                ]
+            },
+            {
+                "screen_name": "evoespueblo",
+                "name": "Evo Morales Ayma",
+                "id": 720786569792253952,
+                "id_str": "720786569792253952",
+                "indices": [
+                    38,
+                    50
+                ]
+            }
+        ],
+        "urls": []
+    },
+    "metadata": {
+        "iso_language_code": "es",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 1372553333534232580,
+        "id_str": "1372553333534232580",
+        "name": "@jacn1972",
+        "screen_name": "jacn1972",
+        "location": "",
+        "description": "Very organized person.",
+        "url": null,
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 312,
+        "friends_count": 477,
+        "listed_count": 0,
+        "created_at": "Thu Mar 18 14:20:27 +0000 2021",
+        "favourites_count": 27726,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 29150,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": null,
+        "profile_background_image_url_https": null,
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1372667705829031945/sKPzYInZ_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1372667705829031945/sKPzYInZ_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1372553333534232580/1616100129",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+        "created_at": "Wed Jul 14 12:42:06 +0000 2021",
+        "id": 1415290509459922946,
+        "id_str": "1415290509459922946",
+        "full_text": "Es desconcertante q  @evoespueblo q hizo del bloqueo inmisericorde su estrategia de extorsi\u00f3n por a\u00f1os, sin dejar ni siquiera pasar ambulancias, hoy se rasgue las vestiduras sobre bloqueo que no es tal, bloqueo a #Cuba q lo hace, sin incluir medicinas ni alimentos,1 pais y 200 no",
+        "truncated": false,
+        "display_text_range": [
+            0,
+            280
+        ],
+        "entities": {
+            "hashtags": [
+                {
+                    "text": "Cuba",
+                    "indices": [
+                        213,
+                        218
+                    ]
+                }
+            ],
+            "symbols": [],
+            "user_mentions": [
+                {
+                    "screen_name": "evoespueblo",
+                    "name": "Evo Morales Ayma",
+                    "id": 720786569792253952,
+                    "id_str": "720786569792253952",
+                    "indices": [
+                        21,
+                        33
+                    ]
+                }
+            ],
+            "urls": []
+        },
+        "metadata": {
+            "iso_language_code": "es",
+            "result_type": "recent"
+        },
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 129067104,
+            "id_str": "129067104",
+            "name": "Luis Eduardo Siles \ud83c\udde7\ud83c\uddf4\ud83c\uddf5\ud83c\uddfe",
+            "screen_name": "Chichisiles",
+            "location": "Bolivia",
+            "description": "Titulado IEP, Bordeaux, Francia. Mgr MPD-UCB. Pol\u00edtico y analista. \"La raz\u00f3n no me ha ense\u00f1ado nada. Lo que yo s\u00e9, me ha sido dado por el coraz\u00f3n\" (Tolstoi)",
+            "url": "https://t.co/vqiP4rBX0T",
+            "entities": {
+                "url": {
+                    "urls": [
+                        {
+                            "url": "https://t.co/vqiP4rBX0T",
+                            "expanded_url": "http://www.nuestroperronegro.blogspot.com/",
+                            "display_url": "nuestroperronegro.blogspot.com",
+                            "indices": [
+                                0,
+                                23
+                            ]
+                        }
+                    ]
+                },
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 10494,
+            "friends_count": 1266,
+            "listed_count": 71,
+            "created_at": "Sat Apr 03 02:42:00 +0000 2010",
+            "favourites_count": 29482,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": true,
+            "verified": false,
+            "statuses_count": 45779,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "000000",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1370863520196259848/iIV1_OZC_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1370863520196259848/iIV1_OZC_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/129067104/1596399909",
+            "profile_link_color": "F58EA8",
+            "profile_sidebar_border_color": "000000",
+            "profile_sidebar_fill_color": "000000",
+            "profile_text_color": "000000",
+            "profile_use_background_image": false,
+            "has_extended_profile": true,
+            "default_profile": false,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none",
+            "withheld_in_countries": []
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 7,
+        "favorite_count": 34,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "es"
+    },
+    "is_quote_status": false,
+    "retweet_count": 7,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "es"
+}

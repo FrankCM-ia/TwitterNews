@@ -1,0 +1,218 @@
+{
+    "created_at": "Thu Jul 15 18:58:17 +0000 2021",
+    "id": 1415747563689553922,
+    "id_str": "1415747563689553922",
+    "full_text": "RT @guruchuirer: \u201cLoret de Mola ha hecho de la mentira su columna vertebral\u201d, Laura Barranco. https://t.co/m86o7ZxzyA",
+    "truncated": false,
+    "display_text_range": [
+        0,
+        117
+    ],
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "guruchuirer",
+                "name": "Gur\u00fa Pol\u00edtico",
+                "id": 545061074,
+                "id_str": "545061074",
+                "indices": [
+                    3,
+                    15
+                ]
+            }
+        ],
+        "urls": [
+            {
+                "url": "https://t.co/m86o7ZxzyA",
+                "expanded_url": "http://ow.ly/Qswd30rNKqy",
+                "display_url": "ow.ly/Qswd30rNKqy",
+                "indices": [
+                    94,
+                    117
+                ]
+            }
+        ]
+    },
+    "metadata": {
+        "iso_language_code": "es",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 753816612,
+        "id_str": "753816612",
+        "name": "Ang\u00e9lica Mart\u00ednez G",
+        "screen_name": "GalindezMar",
+        "location": "",
+        "description": "",
+        "url": null,
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 1482,
+        "friends_count": 1472,
+        "listed_count": 7,
+        "created_at": "Sun Aug 12 21:29:58 +0000 2012",
+        "favourites_count": 110974,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 103365,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1393308088862744578/_hMKXuzl_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1393308088862744578/_hMKXuzl_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/753816612/1546876554",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": true,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+        "created_at": "Tue Jul 13 17:36:01 +0000 2021",
+        "id": 1415002087973400576,
+        "id_str": "1415002087973400576",
+        "full_text": "\u201cLoret de Mola ha hecho de la mentira su columna vertebral\u201d, Laura Barranco. https://t.co/m86o7ZxzyA",
+        "truncated": false,
+        "display_text_range": [
+            0,
+            100
+        ],
+        "entities": {
+            "hashtags": [],
+            "symbols": [],
+            "user_mentions": [],
+            "urls": [
+                {
+                    "url": "https://t.co/m86o7ZxzyA",
+                    "expanded_url": "http://ow.ly/Qswd30rNKqy",
+                    "display_url": "ow.ly/Qswd30rNKqy",
+                    "indices": [
+                        77,
+                        100
+                    ]
+                }
+            ]
+        },
+        "metadata": {
+            "iso_language_code": "es",
+            "result_type": "recent"
+        },
+        "source": "<a href=\"https://www.hootsuite.com\" rel=\"nofollow\">Hootsuite Inc.</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 545061074,
+            "id_str": "545061074",
+            "name": "Gur\u00fa Pol\u00edtico",
+            "screen_name": "guruchuirer",
+            "location": "Mexico, ME",
+            "description": "Somos el medio de comunicacion ciudadano que dice las cosas como son. La verdad es el arma m\u00e1s poderosa que tenemos.",
+            "url": "https://t.co/JtnxEFWqHU",
+            "entities": {
+                "url": {
+                    "urls": [
+                        {
+                            "url": "https://t.co/JtnxEFWqHU",
+                            "expanded_url": "http://www.guruchuirer.com",
+                            "display_url": "guruchuirer.com",
+                            "indices": [
+                                0,
+                                23
+                            ]
+                        }
+                    ]
+                },
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 196467,
+            "friends_count": 70286,
+            "listed_count": 617,
+            "created_at": "Wed Apr 04 11:45:01 +0000 2012",
+            "favourites_count": 2511,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": false,
+            "verified": true,
+            "statuses_count": 25928,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "131516",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+            "profile_background_tile": true,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1253734727892246529/Zi2z0jWL_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1253734727892246529/Zi2z0jWL_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/545061074/1597915524",
+            "profile_link_color": "009999",
+            "profile_sidebar_border_color": "EEEEEE",
+            "profile_sidebar_fill_color": "EFEFEF",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "has_extended_profile": false,
+            "default_profile": false,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none",
+            "withheld_in_countries": []
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 888,
+        "favorite_count": 1623,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "es"
+    },
+    "is_quote_status": false,
+    "retweet_count": 888,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "es"
+}

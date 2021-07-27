@@ -1,0 +1,196 @@
+{
+    "created_at": "Wed Jul 14 16:00:38 +0000 2021",
+    "id": 1415340468360056836,
+    "id_str": "1415340468360056836",
+    "full_text": "RT @Robustiano21: Sabemos que Cuba no es una Dictadura\n\nOtegui es un hombre de Paz\n\nLos golpistas son gente de Estado\n\nPodemos es un partid\u2026",
+    "truncated": false,
+    "display_text_range": [
+        0,
+        140
+    ],
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "Robustiano21",
+                "name": "Robustiano ha vuelto",
+                "id": 1395750837075447817,
+                "id_str": "1395750837075447817",
+                "indices": [
+                    3,
+                    16
+                ]
+            }
+        ],
+        "urls": []
+    },
+    "metadata": {
+        "iso_language_code": "es",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 967001215,
+        "id_str": "967001215",
+        "name": "Pedro Mart\u00ednezPoveda",
+        "screen_name": "pedromartinezp9",
+        "location": "Alicante",
+        "description": "ingeniero de caminos canales y puertos,director de atrium ingenieros y piedra artistica del sur",
+        "url": "https://t.co/0SqEZcG72R",
+        "entities": {
+            "url": {
+                "urls": [
+                    {
+                        "url": "https://t.co/0SqEZcG72R",
+                        "expanded_url": "http://www.piedraartisticadelsur.es",
+                        "display_url": "piedraartisticadelsur.es",
+                        "indices": [
+                            0,
+                            23
+                        ]
+                    }
+                ]
+            },
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 3622,
+        "friends_count": 4531,
+        "listed_count": 46,
+        "created_at": "Fri Nov 23 23:06:45 +0000 2012",
+        "favourites_count": 158612,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 73891,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1040612489984180224/TPF7p-0D_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1040612489984180224/TPF7p-0D_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/967001215/1536936325",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": true,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+        "created_at": "Wed Jul 14 06:39:06 +0000 2021",
+        "id": 1415199155551604737,
+        "id_str": "1415199155551604737",
+        "full_text": "Sabemos que Cuba no es una Dictadura\n\nOtegui es un hombre de Paz\n\nLos golpistas son gente de Estado\n\nPodemos es un partido moderado\nAs\u00ed es la izquierda en Espa\u00f1a.",
+        "truncated": false,
+        "display_text_range": [
+            0,
+            162
+        ],
+        "entities": {
+            "hashtags": [],
+            "symbols": [],
+            "user_mentions": [],
+            "urls": []
+        },
+        "metadata": {
+            "iso_language_code": "es",
+            "result_type": "recent"
+        },
+        "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 1395750837075447817,
+            "id_str": "1395750837075447817",
+            "name": "Robustiano ha vuelto",
+            "screen_name": "Robustiano21",
+            "location": "Espa\u00f1a \ud83c\uddea\ud83c\uddf8 ",
+            "description": "El pajarraco me fulmin\u00f3 la cuenta anterior.\nAnticomunista, antimorralla, anti todo lo que vaya en contra de Espa\u00f1a \ud83c\uddea\ud83c\uddf8\n#YoApoyoaGCyPN \ud83d\udc9a\ud83d\udc6e\u200d\u2642\ufe0f\ud83d\udc99 \u26d4Grupos No\u26d4",
+            "url": null,
+            "entities": {
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 3459,
+            "friends_count": 3688,
+            "listed_count": 1,
+            "created_at": "Fri May 21 14:39:03 +0000 2021",
+            "favourites_count": 2423,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": false,
+            "verified": false,
+            "statuses_count": 2140,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "F5F8FA",
+            "profile_background_image_url": null,
+            "profile_background_image_url_https": null,
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1396452779644829705/hABXssfW_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1396452779644829705/hABXssfW_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/1395750837075447817/1621775312",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "has_extended_profile": false,
+            "default_profile": true,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none",
+            "withheld_in_countries": []
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 29,
+        "favorite_count": 71,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "es"
+    },
+    "is_quote_status": false,
+    "retweet_count": 29,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "es"
+}

@@ -1,0 +1,405 @@
+{
+    "created_at": "Wed Jul 14 16:00:25 +0000 2021",
+    "id": 1415340414471708674,
+    "id_str": "1415340414471708674",
+    "full_text": "RT @CubaTamaraen: La Prensa cubana, siempre con la VERDAD. Este 15 de julio, celebramos los 58 a\u00f1os de la Uni\u00f3n de Periodistas de #Cuba. La\u2026",
+    "truncated": false,
+    "display_text_range": [
+        0,
+        140
+    ],
+    "entities": {
+        "hashtags": [
+            {
+                "text": "Cuba",
+                "indices": [
+                    130,
+                    135
+                ]
+            }
+        ],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "CubaTamaraen",
+                "name": "BoliviaTamaraenCuba",
+                "id": 1407833199670145028,
+                "id_str": "1407833199670145028",
+                "indices": [
+                    3,
+                    16
+                ]
+            }
+        ],
+        "urls": []
+    },
+    "metadata": {
+        "iso_language_code": "es",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 127540388,
+        "id_str": "127540388",
+        "name": "CMHS Radio Caibari\u00e9n",
+        "screen_name": "EmisoraCMHS",
+        "location": "Caibari\u00e9n, Villa Clara, Cuba",
+        "description": "Radio Caibari\u00e9n, pioneros de la radio en Cuba, cubrimos el acontecer del centro norte de la Isla las 24 horas del d\u00eda con noticias de la comunidad.",
+        "url": "https://t.co/Ai12yQsMvX",
+        "entities": {
+            "url": {
+                "urls": [
+                    {
+                        "url": "https://t.co/Ai12yQsMvX",
+                        "expanded_url": "http://www.radiocaibarien.icrt.cu",
+                        "display_url": "radiocaibarien.icrt.cu",
+                        "indices": [
+                            0,
+                            23
+                        ]
+                    }
+                ]
+            },
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 2951,
+        "friends_count": 3045,
+        "listed_count": 40,
+        "created_at": "Mon Mar 29 14:50:19 +0000 2010",
+        "favourites_count": 1034,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 37531,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "0099B9",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme4/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme4/bg.gif",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/998921102951829508/nJI8BGEf_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/998921102951829508/nJI8BGEf_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/127540388/1624124271",
+        "profile_link_color": "0099B9",
+        "profile_sidebar_border_color": "5ED4DC",
+        "profile_sidebar_fill_color": "95E8EC",
+        "profile_text_color": "3C3940",
+        "profile_use_background_image": true,
+        "has_extended_profile": true,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+        "created_at": "Tue Jul 13 22:40:48 +0000 2021",
+        "id": 1415078789567205377,
+        "id_str": "1415078789567205377",
+        "full_text": "La Prensa cubana, siempre con la VERDAD. Este 15 de julio, celebramos los 58 a\u00f1os de la Uni\u00f3n de Periodistas de #Cuba. La @radiocmhw cumple 88 y la @ACN_Cuba en #VillaClara sus 46. Nos inspira el pueblo, que es la raz\u00f3n de nuestra existencia.\n#PrensaCubanaConTodos  #UpecLaVerdad https://t.co/LManiaHPTr",
+        "truncated": false,
+        "display_text_range": [
+            0,
+            279
+        ],
+        "entities": {
+            "hashtags": [
+                {
+                    "text": "Cuba",
+                    "indices": [
+                        112,
+                        117
+                    ]
+                },
+                {
+                    "text": "VillaClara",
+                    "indices": [
+                        161,
+                        172
+                    ]
+                },
+                {
+                    "text": "PrensaCubanaConTodos",
+                    "indices": [
+                        243,
+                        264
+                    ]
+                },
+                {
+                    "text": "UpecLaVerdad",
+                    "indices": [
+                        266,
+                        279
+                    ]
+                }
+            ],
+            "symbols": [],
+            "user_mentions": [
+                {
+                    "screen_name": "radiocmhw",
+                    "name": "Radio CMHW",
+                    "id": 81147158,
+                    "id_str": "81147158",
+                    "indices": [
+                        122,
+                        132
+                    ]
+                },
+                {
+                    "screen_name": "ACN_Cuba",
+                    "name": "Agencia Cubana de Noticias",
+                    "id": 101813998,
+                    "id_str": "101813998",
+                    "indices": [
+                        148,
+                        157
+                    ]
+                }
+            ],
+            "urls": [],
+            "media": [
+                {
+                    "id": 1415076375313227779,
+                    "id_str": "1415076375313227779",
+                    "indices": [
+                        280,
+                        303
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/E6Ncd0iXoAMYewO.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/E6Ncd0iXoAMYewO.jpg",
+                    "url": "https://t.co/LManiaHPTr",
+                    "display_url": "pic.twitter.com/LManiaHPTr",
+                    "expanded_url": "https://twitter.com/CubaTamaraen/status/1415078789567205377/photo/1",
+                    "type": "photo",
+                    "sizes": {
+                        "medium": {
+                            "w": 1200,
+                            "h": 900,
+                            "resize": "fit"
+                        },
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "large": {
+                            "w": 2048,
+                            "h": 1536,
+                            "resize": "fit"
+                        },
+                        "small": {
+                            "w": 680,
+                            "h": 510,
+                            "resize": "fit"
+                        }
+                    }
+                }
+            ]
+        },
+        "extended_entities": {
+            "media": [
+                {
+                    "id": 1415076375313227779,
+                    "id_str": "1415076375313227779",
+                    "indices": [
+                        280,
+                        303
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/E6Ncd0iXoAMYewO.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/E6Ncd0iXoAMYewO.jpg",
+                    "url": "https://t.co/LManiaHPTr",
+                    "display_url": "pic.twitter.com/LManiaHPTr",
+                    "expanded_url": "https://twitter.com/CubaTamaraen/status/1415078789567205377/photo/1",
+                    "type": "photo",
+                    "sizes": {
+                        "medium": {
+                            "w": 1200,
+                            "h": 900,
+                            "resize": "fit"
+                        },
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "large": {
+                            "w": 2048,
+                            "h": 1536,
+                            "resize": "fit"
+                        },
+                        "small": {
+                            "w": 680,
+                            "h": 510,
+                            "resize": "fit"
+                        }
+                    }
+                },
+                {
+                    "id": 1415076375434776579,
+                    "id_str": "1415076375434776579",
+                    "indices": [
+                        280,
+                        303
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/E6Ncd0_WUAMaqdO.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/E6Ncd0_WUAMaqdO.jpg",
+                    "url": "https://t.co/LManiaHPTr",
+                    "display_url": "pic.twitter.com/LManiaHPTr",
+                    "expanded_url": "https://twitter.com/CubaTamaraen/status/1415078789567205377/photo/1",
+                    "type": "photo",
+                    "sizes": {
+                        "medium": {
+                            "w": 1200,
+                            "h": 823,
+                            "resize": "fit"
+                        },
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "small": {
+                            "w": 680,
+                            "h": 466,
+                            "resize": "fit"
+                        },
+                        "large": {
+                            "w": 1545,
+                            "h": 1059,
+                            "resize": "fit"
+                        }
+                    }
+                },
+                {
+                    "id": 1415076448755494918,
+                    "id_str": "1415076448755494918",
+                    "indices": [
+                        280,
+                        303
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/E6NciGIXsAYCvVS.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/E6NciGIXsAYCvVS.jpg",
+                    "url": "https://t.co/LManiaHPTr",
+                    "display_url": "pic.twitter.com/LManiaHPTr",
+                    "expanded_url": "https://twitter.com/CubaTamaraen/status/1415078789567205377/photo/1",
+                    "type": "photo",
+                    "sizes": {
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "small": {
+                            "w": 497,
+                            "h": 280,
+                            "resize": "fit"
+                        },
+                        "large": {
+                            "w": 497,
+                            "h": 280,
+                            "resize": "fit"
+                        },
+                        "medium": {
+                            "w": 497,
+                            "h": 280,
+                            "resize": "fit"
+                        }
+                    }
+                }
+            ]
+        },
+        "metadata": {
+            "iso_language_code": "es",
+            "result_type": "recent"
+        },
+        "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 1407833199670145028,
+            "id_str": "1407833199670145028",
+            "name": "BoliviaTamaraenCuba",
+            "screen_name": "CubaTamaraen",
+            "location": "",
+            "description": "Cubana, con nombre de pa\u00eds y guerrillera. \nBoliviaTamaraenCuba por siempre.",
+            "url": null,
+            "entities": {
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 128,
+            "friends_count": 135,
+            "listed_count": 0,
+            "created_at": "Wed Jun 23 22:49:46 +0000 2021",
+            "favourites_count": 101,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": false,
+            "verified": false,
+            "statuses_count": 145,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "F5F8FA",
+            "profile_background_image_url": null,
+            "profile_background_image_url_https": null,
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1407833439512977412/OgxNhyVa_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1407833439512977412/OgxNhyVa_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/1407833199670145028/1624493779",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "has_extended_profile": true,
+            "default_profile": true,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none",
+            "withheld_in_countries": []
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 11,
+        "favorite_count": 24,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "es"
+    },
+    "is_quote_status": false,
+    "retweet_count": 11,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "es"
+}

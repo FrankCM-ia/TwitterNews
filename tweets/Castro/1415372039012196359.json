@@ -1,0 +1,349 @@
+{
+    "created_at": "Wed Jul 14 18:06:05 +0000 2021",
+    "id": 1415372039012196359,
+    "id_str": "1415372039012196359",
+    "full_text": "RT @Rubiapeleona1: Anda mira, Pablo Iglesias con Fidel Castro. https://t.co/ar196pjn3Y",
+    "truncated": false,
+    "display_text_range": [
+        0,
+        86
+    ],
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "Rubiapeleona1",
+                "name": "Rubiapeleona",
+                "id": 1296019415671214081,
+                "id_str": "1296019415671214081",
+                "indices": [
+                    3,
+                    17
+                ]
+            }
+        ],
+        "urls": [],
+        "media": [
+            {
+                "id": 1415223570968498177,
+                "id_str": "1415223570968498177",
+                "indices": [
+                    63,
+                    86
+                ],
+                "media_url": "http://pbs.twimg.com/media/E6PiVvFWUAENIj0.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/E6PiVvFWUAENIj0.jpg",
+                "url": "https://t.co/ar196pjn3Y",
+                "display_url": "pic.twitter.com/ar196pjn3Y",
+                "expanded_url": "https://twitter.com/Rubiapeleona1/status/1415223573027999747/photo/1",
+                "type": "photo",
+                "sizes": {
+                    "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                    },
+                    "large": {
+                        "w": 1080,
+                        "h": 787,
+                        "resize": "fit"
+                    },
+                    "small": {
+                        "w": 680,
+                        "h": 496,
+                        "resize": "fit"
+                    },
+                    "medium": {
+                        "w": 1080,
+                        "h": 787,
+                        "resize": "fit"
+                    }
+                },
+                "source_status_id": 1415223573027999747,
+                "source_status_id_str": "1415223573027999747",
+                "source_user_id": 1296019415671214081,
+                "source_user_id_str": "1296019415671214081"
+            }
+        ]
+    },
+    "extended_entities": {
+        "media": [
+            {
+                "id": 1415223570968498177,
+                "id_str": "1415223570968498177",
+                "indices": [
+                    63,
+                    86
+                ],
+                "media_url": "http://pbs.twimg.com/media/E6PiVvFWUAENIj0.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/E6PiVvFWUAENIj0.jpg",
+                "url": "https://t.co/ar196pjn3Y",
+                "display_url": "pic.twitter.com/ar196pjn3Y",
+                "expanded_url": "https://twitter.com/Rubiapeleona1/status/1415223573027999747/photo/1",
+                "type": "photo",
+                "sizes": {
+                    "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                    },
+                    "large": {
+                        "w": 1080,
+                        "h": 787,
+                        "resize": "fit"
+                    },
+                    "small": {
+                        "w": 680,
+                        "h": 496,
+                        "resize": "fit"
+                    },
+                    "medium": {
+                        "w": 1080,
+                        "h": 787,
+                        "resize": "fit"
+                    }
+                },
+                "source_status_id": 1415223573027999747,
+                "source_status_id_str": "1415223573027999747",
+                "source_user_id": 1296019415671214081,
+                "source_user_id_str": "1296019415671214081"
+            }
+        ]
+    },
+    "metadata": {
+        "iso_language_code": "es",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 1252924076546498561,
+        "id_str": "1252924076546498561",
+        "name": "Josefa Requena Romero",
+        "screen_name": "JosefaRequenaR8",
+        "location": "",
+        "description": "",
+        "url": null,
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 585,
+        "friends_count": 847,
+        "listed_count": 1,
+        "created_at": "Wed Apr 22 11:36:15 +0000 2020",
+        "favourites_count": 51197,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 53209,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": null,
+        "profile_background_image_url_https": null,
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1252924345191747585/uDJaOZQh_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1252924345191747585/uDJaOZQh_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1252924076546498561/1587763892",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+        "created_at": "Wed Jul 14 08:16:08 +0000 2021",
+        "id": 1415223573027999747,
+        "id_str": "1415223573027999747",
+        "full_text": "Anda mira, Pablo Iglesias con Fidel Castro. https://t.co/ar196pjn3Y",
+        "truncated": false,
+        "display_text_range": [
+            0,
+            43
+        ],
+        "entities": {
+            "hashtags": [],
+            "symbols": [],
+            "user_mentions": [],
+            "urls": [],
+            "media": [
+                {
+                    "id": 1415223570968498177,
+                    "id_str": "1415223570968498177",
+                    "indices": [
+                        44,
+                        67
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/E6PiVvFWUAENIj0.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/E6PiVvFWUAENIj0.jpg",
+                    "url": "https://t.co/ar196pjn3Y",
+                    "display_url": "pic.twitter.com/ar196pjn3Y",
+                    "expanded_url": "https://twitter.com/Rubiapeleona1/status/1415223573027999747/photo/1",
+                    "type": "photo",
+                    "sizes": {
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "large": {
+                            "w": 1080,
+                            "h": 787,
+                            "resize": "fit"
+                        },
+                        "small": {
+                            "w": 680,
+                            "h": 496,
+                            "resize": "fit"
+                        },
+                        "medium": {
+                            "w": 1080,
+                            "h": 787,
+                            "resize": "fit"
+                        }
+                    }
+                }
+            ]
+        },
+        "extended_entities": {
+            "media": [
+                {
+                    "id": 1415223570968498177,
+                    "id_str": "1415223570968498177",
+                    "indices": [
+                        44,
+                        67
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/E6PiVvFWUAENIj0.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/E6PiVvFWUAENIj0.jpg",
+                    "url": "https://t.co/ar196pjn3Y",
+                    "display_url": "pic.twitter.com/ar196pjn3Y",
+                    "expanded_url": "https://twitter.com/Rubiapeleona1/status/1415223573027999747/photo/1",
+                    "type": "photo",
+                    "sizes": {
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "large": {
+                            "w": 1080,
+                            "h": 787,
+                            "resize": "fit"
+                        },
+                        "small": {
+                            "w": 680,
+                            "h": 496,
+                            "resize": "fit"
+                        },
+                        "medium": {
+                            "w": 1080,
+                            "h": 787,
+                            "resize": "fit"
+                        }
+                    }
+                }
+            ]
+        },
+        "metadata": {
+            "iso_language_code": "es",
+            "result_type": "recent"
+        },
+        "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 1296019415671214081,
+            "id_str": "1296019415671214081",
+            "name": "Rubiapeleona",
+            "screen_name": "Rubiapeleona1",
+            "location": "",
+            "description": "Joderos Fachas,que ten\u00e9is la sangre roja, el coraz\u00f3n a la izquierda y os limpiais el CULO con la mano derecha.\ud83d\udd3b",
+            "url": null,
+            "entities": {
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 14286,
+            "friends_count": 13761,
+            "listed_count": 20,
+            "created_at": "Wed Aug 19 09:41:48 +0000 2020",
+            "favourites_count": 20846,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": false,
+            "verified": false,
+            "statuses_count": 4389,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "F5F8FA",
+            "profile_background_image_url": null,
+            "profile_background_image_url_https": null,
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1404324155357646853/giP8O_tK_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1404324155357646853/giP8O_tK_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/1296019415671214081/1623085461",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "has_extended_profile": false,
+            "default_profile": true,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none",
+            "withheld_in_countries": []
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 226,
+        "favorite_count": 499,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "es"
+    },
+    "is_quote_status": false,
+    "retweet_count": 226,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "es"
+}

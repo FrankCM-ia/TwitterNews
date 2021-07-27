@@ -1,0 +1,282 @@
+{
+    "created_at": "Wed Jul 14 18:06:25 +0000 2021",
+    "id": 1415372125595131904,
+    "id_str": "1415372125595131904",
+    "full_text": "RT @alearroses: @rosapantin1301 El Bloqueo de Cuba da risa. Aqu\u00ed unas cuantas razones para aquellos que todav\u00eda creen que Cuba est\u00e1 as\u00ed por\u2026",
+    "truncated": false,
+    "display_text_range": [
+        0,
+        140
+    ],
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "alearroses",
+                "name": "Alejandro Oses",
+                "id": 961663505970745344,
+                "id_str": "961663505970745344",
+                "indices": [
+                    3,
+                    14
+                ]
+            },
+            {
+                "screen_name": "rosapantin1301",
+                "name": "Rosa Maria Pantin",
+                "id": 108448051,
+                "id_str": "108448051",
+                "indices": [
+                    16,
+                    31
+                ]
+            }
+        ],
+        "urls": []
+    },
+    "metadata": {
+        "iso_language_code": "es",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 160218224,
+        "id_str": "160218224",
+        "name": "The rasta man",
+        "screen_name": "arnaldourbaez",
+        "location": "venezuela",
+        "description": "Bioanalista, guayanes venezolano en \u00c1frica especialista en reproduccion asistida ex nadador ,deportes fittness ciencia, m\u00fasica de todo un poco.......",
+        "url": null,
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 504,
+        "friends_count": 1677,
+        "listed_count": 8,
+        "created_at": "Sun Jun 27 14:48:08 +0000 2010",
+        "favourites_count": 1055,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 45314,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1412158491012313088/chUcf_vE_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1412158491012313088/chUcf_vE_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/160218224/1598785702",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": true,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+        "created_at": "Wed Jul 14 05:51:27 +0000 2021",
+        "id": 1415187162325299200,
+        "id_str": "1415187162325299200",
+        "full_text": "@rosapantin1301 El Bloqueo de Cuba da risa. Aqu\u00ed unas cuantas razones para aquellos que todav\u00eda creen que Cuba est\u00e1 as\u00ed por culpa del bloqueo y no por culpa de la dictadura de los Castro: https://t.co/D2syrmNncj",
+        "truncated": false,
+        "display_text_range": [
+            16,
+            187
+        ],
+        "entities": {
+            "hashtags": [],
+            "symbols": [],
+            "user_mentions": [
+                {
+                    "screen_name": "rosapantin1301",
+                    "name": "Rosa Maria Pantin",
+                    "id": 108448051,
+                    "id_str": "108448051",
+                    "indices": [
+                        0,
+                        15
+                    ]
+                }
+            ],
+            "urls": [],
+            "media": [
+                {
+                    "id": 1415187158911131651,
+                    "id_str": "1415187158911131651",
+                    "indices": [
+                        188,
+                        211
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/E6PBORmXoAMHlRL.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/E6PBORmXoAMHlRL.jpg",
+                    "url": "https://t.co/D2syrmNncj",
+                    "display_url": "pic.twitter.com/D2syrmNncj",
+                    "expanded_url": "https://twitter.com/alearroses/status/1415187162325299200/photo/1",
+                    "type": "photo",
+                    "sizes": {
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "medium": {
+                            "w": 702,
+                            "h": 1078,
+                            "resize": "fit"
+                        },
+                        "large": {
+                            "w": 702,
+                            "h": 1078,
+                            "resize": "fit"
+                        },
+                        "small": {
+                            "w": 443,
+                            "h": 680,
+                            "resize": "fit"
+                        }
+                    }
+                }
+            ]
+        },
+        "extended_entities": {
+            "media": [
+                {
+                    "id": 1415187158911131651,
+                    "id_str": "1415187158911131651",
+                    "indices": [
+                        188,
+                        211
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/E6PBORmXoAMHlRL.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/E6PBORmXoAMHlRL.jpg",
+                    "url": "https://t.co/D2syrmNncj",
+                    "display_url": "pic.twitter.com/D2syrmNncj",
+                    "expanded_url": "https://twitter.com/alearroses/status/1415187162325299200/photo/1",
+                    "type": "photo",
+                    "sizes": {
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "medium": {
+                            "w": 702,
+                            "h": 1078,
+                            "resize": "fit"
+                        },
+                        "large": {
+                            "w": 702,
+                            "h": 1078,
+                            "resize": "fit"
+                        },
+                        "small": {
+                            "w": 443,
+                            "h": 680,
+                            "resize": "fit"
+                        }
+                    }
+                }
+            ]
+        },
+        "metadata": {
+            "iso_language_code": "es",
+            "result_type": "recent"
+        },
+        "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+        "in_reply_to_status_id": 1415094764194648067,
+        "in_reply_to_status_id_str": "1415094764194648067",
+        "in_reply_to_user_id": 108448051,
+        "in_reply_to_user_id_str": "108448051",
+        "in_reply_to_screen_name": "rosapantin1301",
+        "user": {
+            "id": 961663505970745344,
+            "id_str": "961663505970745344",
+            "name": "Alejandro Oses",
+            "screen_name": "alearroses",
+            "location": "Espa\u00f1a",
+            "description": "Espa\u00f1ol con sentimientos hacia Venezuela y los venezolanos.\ud83c\uddea\ud83c\uddf8\ud83c\uddfb\ud83c\uddea",
+            "url": null,
+            "entities": {
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 26,
+            "friends_count": 123,
+            "listed_count": 0,
+            "created_at": "Thu Feb 08 18:10:21 +0000 2018",
+            "favourites_count": 537,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": false,
+            "verified": false,
+            "statuses_count": 1418,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "000000",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/967034646482575360/s0jj7kHl_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/967034646482575360/s0jj7kHl_normal.jpg",
+            "profile_link_color": "1B95E0",
+            "profile_sidebar_border_color": "000000",
+            "profile_sidebar_fill_color": "000000",
+            "profile_text_color": "000000",
+            "profile_use_background_image": false,
+            "has_extended_profile": false,
+            "default_profile": false,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none",
+            "withheld_in_countries": []
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 16,
+        "favorite_count": 10,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "es"
+    },
+    "is_quote_status": false,
+    "retweet_count": 16,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "es"
+}

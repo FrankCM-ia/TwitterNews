@@ -1,0 +1,106 @@
+{
+    "created_at": "Thu Jul 15 23:33:50 +0000 2021",
+    "id": 1415816907937226753,
+    "id_str": "1415816907937226753",
+    "full_text": "@el_tecolotin @AleB1918 EN CUBA Y VENEZUELA YA LA 4TA SE DESGASTO\nY AL PONER LA REVERSA ESTA EN CAMINO AL FONDO DEL BARRANCO DEL CANON DEL COLORADO.",
+    "truncated": false,
+    "display_text_range": [
+        24,
+        148
+    ],
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "el_tecolotin",
+                "name": "El Tecolote",
+                "id": 1244999303673741312,
+                "id_str": "1244999303673741312",
+                "indices": [
+                    0,
+                    13
+                ]
+            },
+            {
+                "screen_name": "AleB1918",
+                "name": "Ale-B\ud83d\udc95",
+                "id": 1382206727035113472,
+                "id_str": "1382206727035113472",
+                "indices": [
+                    14,
+                    23
+                ]
+            }
+        ],
+        "urls": []
+    },
+    "metadata": {
+        "iso_language_code": "es",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "in_reply_to_status_id": 1415755164405964823,
+    "in_reply_to_status_id_str": "1415755164405964823",
+    "in_reply_to_user_id": 1244999303673741312,
+    "in_reply_to_user_id_str": "1244999303673741312",
+    "in_reply_to_screen_name": "el_tecolotin",
+    "user": {
+        "id": 190001094,
+        "id_str": "190001094",
+        "name": "mario alfaro",
+        "screen_name": "belikoternovo",
+        "location": "DESANDAND EL MUNDO",
+        "description": "ALERGICO A LAS DICTADURAS ME BASTA CON ESO",
+        "url": null,
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 80,
+        "friends_count": 50,
+        "listed_count": 0,
+        "created_at": "Sun Sep 12 20:30:14 +0000 2010",
+        "favourites_count": 6,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 11183,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+        "profile_image_url_https": "https://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": true,
+        "default_profile_image": true,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "es"
+}

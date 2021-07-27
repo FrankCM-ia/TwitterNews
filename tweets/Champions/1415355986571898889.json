@@ -1,0 +1,107 @@
+{
+    "created_at": "Wed Jul 14 17:02:17 +0000 2021",
+    "id": 1415355986571898889,
+    "id_str": "1415355986571898889",
+    "full_text": "@RamboRuiz @marieferro98 En el Madrid no se ha echado a nadie, han salido porque sus peticiones para renovar han estado por encima del inter\u00e9s del club.\nCon jugadores fuera de forma, subcampe\u00f3nes de liga y semifinalista de Champions. \nLogr\u00f3s del Barcelona con \"el mejor del mundo\" est\u00e1 temporada?",
+    "truncated": false,
+    "display_text_range": [
+        25,
+        296
+    ],
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "RamboRuiz",
+                "name": "Jesus Ruiz",
+                "id": 1960665162,
+                "id_str": "1960665162",
+                "indices": [
+                    0,
+                    10
+                ]
+            },
+            {
+                "screen_name": "marieferro98",
+                "name": "Marie Ferro",
+                "id": 177716655,
+                "id_str": "177716655",
+                "indices": [
+                    11,
+                    24
+                ]
+            }
+        ],
+        "urls": []
+    },
+    "metadata": {
+        "iso_language_code": "es",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "in_reply_to_status_id": 1415354801211199490,
+    "in_reply_to_status_id_str": "1415354801211199490",
+    "in_reply_to_user_id": 2952314344,
+    "in_reply_to_user_id_str": "2952314344",
+    "in_reply_to_screen_name": "RjRour1",
+    "user": {
+        "id": 2952314344,
+        "id_str": "2952314344",
+        "name": "Royer Rosales Urbina",
+        "screen_name": "RjRour1",
+        "location": "",
+        "description": "Gastronomo | Liberal/Mutualista \ud83c\udff4 | Agnostico-Ateo  | Opiniones personales.",
+        "url": null,
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 401,
+        "friends_count": 657,
+        "listed_count": 1,
+        "created_at": "Wed Dec 31 01:34:02 +0000 2014",
+        "favourites_count": 9960,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 5217,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "131516",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+        "profile_background_tile": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1373414976065576965/v_tIs-5s_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1373414976065576965/v_tIs-5s_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2952314344/1612202013",
+        "profile_link_color": "009999",
+        "profile_sidebar_border_color": "EEEEEE",
+        "profile_sidebar_fill_color": "EFEFEF",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "es"
+}

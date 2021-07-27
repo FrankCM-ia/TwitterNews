@@ -1,0 +1,97 @@
+{
+    "created_at": "Wed Jul 14 18:03:22 +0000 2021",
+    "id": 1415371355172786179,
+    "id_str": "1415371355172786179",
+    "full_text": "@ronaldgamarra Vean su defensa de la dictadura cubana. Es otro Ch\u00e1vez.....cuando huele a quemado es por que se esta quemado algo.",
+    "truncated": false,
+    "display_text_range": [
+        15,
+        129
+    ],
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "ronaldgamarra",
+                "name": "Ronald Gamarra",
+                "id": 102789756,
+                "id_str": "102789756",
+                "indices": [
+                    0,
+                    14
+                ]
+            }
+        ],
+        "urls": []
+    },
+    "metadata": {
+        "iso_language_code": "es",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "in_reply_to_status_id": 1414819448054243330,
+    "in_reply_to_status_id_str": "1414819448054243330",
+    "in_reply_to_user_id": 102789756,
+    "in_reply_to_user_id_str": "102789756",
+    "in_reply_to_screen_name": "ronaldgamarra",
+    "user": {
+        "id": 48507245,
+        "id_str": "48507245",
+        "name": "Chiwizz",
+        "screen_name": "Chiwizz1",
+        "location": "en camino libertario",
+        "description": "Latinoamerica merece capitalismo,educacion,innovacion,libertades individuales,democracia,instituciones independientes y fuertes.sin corrupcion ni populismo.",
+        "url": null,
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 2384,
+        "friends_count": 3422,
+        "listed_count": 102,
+        "created_at": "Thu Jun 18 22:02:47 +0000 2009",
+        "favourites_count": 88972,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 132448,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "68D5E3",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme18/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme18/bg.gif",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/446043101166333952/7MhxmEIi_normal.jpeg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/446043101166333952/7MhxmEIi_normal.jpeg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/48507245/1392432256",
+        "profile_link_color": "1C25C7",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "es"
+}

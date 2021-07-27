@@ -1,0 +1,97 @@
+{
+    "created_at": "Wed Jul 14 18:06:32 +0000 2021",
+    "id": 1415372155429212171,
+    "id_str": "1415372155429212171",
+    "full_text": "@CuruchetPaula Con los amargos si",
+    "truncated": false,
+    "display_text_range": [
+        15,
+        33
+    ],
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "CuruchetPaula",
+                "name": "\u1d18\u1d00\u1d1c\u029f\u1d00",
+                "id": 1720819358,
+                "id_str": "1720819358",
+                "indices": [
+                    0,
+                    14
+                ]
+            }
+        ],
+        "urls": []
+    },
+    "metadata": {
+        "iso_language_code": "es",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "in_reply_to_status_id": 1415370271771566083,
+    "in_reply_to_status_id_str": "1415370271771566083",
+    "in_reply_to_user_id": 1720819358,
+    "in_reply_to_user_id_str": "1720819358",
+    "in_reply_to_screen_name": "CuruchetPaula",
+    "user": {
+        "id": 2953525433,
+        "id_str": "2953525433",
+        "name": "castro",
+        "screen_name": "castro_joaco",
+        "location": "Gualeguaych\u00fa, Argentina\ud83d\udd25",
+        "description": "\ud83c\udde6\ud83c\uddf7MIRA QUE TE COMO HERMANO",
+        "url": null,
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 1129,
+        "friends_count": 987,
+        "listed_count": 1,
+        "created_at": "Wed Dec 31 18:21:14 +0000 2014",
+        "favourites_count": 16983,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 15049,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "3B94D9",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+        "profile_background_tile": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1404221266551316484/E84sfGUi_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1404221266551316484/E84sfGUi_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2953525433/1625628218",
+        "profile_link_color": "009999",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "profile_use_background_image": true,
+        "has_extended_profile": true,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "es"
+}

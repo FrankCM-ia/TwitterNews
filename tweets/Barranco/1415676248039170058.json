@@ -1,0 +1,115 @@
+{
+    "created_at": "Thu Jul 15 14:14:54 +0000 2021",
+    "id": 1415676248039170058,
+    "id_str": "1415676248039170058",
+    "full_text": "@namela7919 @sanchezcastejon Yo quiero asaltar la Moncloa con el sociopata y todo su s\u00e9quito dentro,con sus guardaespaldas y palmeros incluso,veremos qui\u00e9n le sigue por el barranco!!\nDebemos directamente entregarlo al ej\u00e9rcito para juzgarlo directamente por alta traici\u00f3n y asesinato.\n#carcelexiliomuerte",
+    "truncated": false,
+    "display_text_range": [
+        29,
+        304
+    ],
+    "entities": {
+        "hashtags": [
+            {
+                "text": "carcelexiliomuerte",
+                "indices": [
+                    285,
+                    304
+                ]
+            }
+        ],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "namela7919",
+                "name": "Namela79",
+                "id": 1266830350136889347,
+                "id_str": "1266830350136889347",
+                "indices": [
+                    0,
+                    11
+                ]
+            },
+            {
+                "screen_name": "sanchezcastejon",
+                "name": "Pedro S\u00e1nchez",
+                "id": 68740712,
+                "id_str": "68740712",
+                "indices": [
+                    12,
+                    28
+                ]
+            }
+        ],
+        "urls": []
+    },
+    "metadata": {
+        "iso_language_code": "es",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "in_reply_to_status_id": 1415628313142431749,
+    "in_reply_to_status_id_str": "1415628313142431749",
+    "in_reply_to_user_id": 1266830350136889347,
+    "in_reply_to_user_id_str": "1266830350136889347",
+    "in_reply_to_screen_name": "namela7919",
+    "user": {
+        "id": 1340425291303432194,
+        "id_str": "1340425291303432194",
+        "name": "Intr\u00e9pido",
+        "screen_name": "Nacho1974666",
+        "location": "",
+        "description": "Las segundas oportunidades no abundan.",
+        "url": null,
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 270,
+        "friends_count": 441,
+        "listed_count": 0,
+        "created_at": "Sat Dec 19 22:34:48 +0000 2020",
+        "favourites_count": 2277,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 1400,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": null,
+        "profile_background_image_url_https": null,
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1386423387581566982/OpZzbyiJ_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1386423387581566982/OpZzbyiJ_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1340425291303432194/1624638153",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": true,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 1,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "es"
+}

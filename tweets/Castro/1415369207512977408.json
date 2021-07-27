@@ -1,0 +1,212 @@
+{
+    "created_at": "Wed Jul 14 17:54:50 +0000 2021",
+    "id": 1415369207512977408,
+    "id_str": "1415369207512977408",
+    "full_text": "RT @CesarRomeroC: En el #Peru y #Cuba el pueblo reclama libertad y democracia.\nEn Cuba la dictadura de los \"Castro\" reprime al pueblo y cor\u2026",
+    "truncated": false,
+    "display_text_range": [
+        0,
+        140
+    ],
+    "entities": {
+        "hashtags": [
+            {
+                "text": "Peru",
+                "indices": [
+                    24,
+                    29
+                ]
+            },
+            {
+                "text": "Cuba",
+                "indices": [
+                    32,
+                    37
+                ]
+            }
+        ],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "CesarRomeroC",
+                "name": "C\u00e9sar Romero C",
+                "id": 27683735,
+                "id_str": "27683735",
+                "indices": [
+                    3,
+                    16
+                ]
+            }
+        ],
+        "urls": []
+    },
+    "metadata": {
+        "iso_language_code": "es",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 1229217121126830081,
+        "id_str": "1229217121126830081",
+        "name": "Dante Paul Ponce Cordova",
+        "screen_name": "DantePaulPonce1",
+        "location": "",
+        "description": "Ni fujitroll, ni provida, ni pol\u00edticamente correcto, ni cat\u00f3lico hip\u00f3crita ... todo el que haya delinquido ... a la c\u00e1rcel ...",
+        "url": null,
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 174,
+        "friends_count": 795,
+        "listed_count": 0,
+        "created_at": "Mon Feb 17 01:33:10 +0000 2020",
+        "favourites_count": 51408,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 35459,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": null,
+        "profile_background_image_url_https": null,
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1327866727015833605/QmgDsqAp_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1327866727015833605/QmgDsqAp_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+        "created_at": "Wed Jul 14 15:41:24 +0000 2021",
+        "id": 1415335629429354500,
+        "id_str": "1415335629429354500",
+        "full_text": "En el #Peru y #Cuba el pueblo reclama libertad y democracia.\nEn Cuba la dictadura de los \"Castro\" reprime al pueblo y corta internet.\nEn el Per\u00fa la mafia de los \"Fujimori\" invisibiliza al pueblo y compra la TV y pervierte el derecho.",
+        "truncated": false,
+        "display_text_range": [
+            0,
+            233
+        ],
+        "entities": {
+            "hashtags": [
+                {
+                    "text": "Peru",
+                    "indices": [
+                        6,
+                        11
+                    ]
+                },
+                {
+                    "text": "Cuba",
+                    "indices": [
+                        14,
+                        19
+                    ]
+                }
+            ],
+            "symbols": [],
+            "user_mentions": [],
+            "urls": []
+        },
+        "metadata": {
+            "iso_language_code": "es",
+            "result_type": "recent"
+        },
+        "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 27683735,
+            "id_str": "27683735",
+            "name": "C\u00e9sar Romero C",
+            "screen_name": "CesarRomeroC",
+            "location": "Lima, Per\u00fa",
+            "description": "Periodista, metido entre jueces, abogados, expedientes y sus gentes.",
+            "url": null,
+            "entities": {
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 58094,
+            "friends_count": 534,
+            "listed_count": 362,
+            "created_at": "Mon Mar 30 17:18:10 +0000 2009",
+            "favourites_count": 468,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": true,
+            "verified": false,
+            "statuses_count": 45071,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "709397",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1261340978461454344/4IFOUWTE_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1261340978461454344/4IFOUWTE_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/27683735/1551111596",
+            "profile_link_color": "FF3300",
+            "profile_sidebar_border_color": "86A4A6",
+            "profile_sidebar_fill_color": "A0C5C7",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "has_extended_profile": false,
+            "default_profile": false,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none",
+            "withheld_in_countries": []
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 156,
+        "favorite_count": 374,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "es"
+    },
+    "is_quote_status": false,
+    "retweet_count": 156,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "es"
+}

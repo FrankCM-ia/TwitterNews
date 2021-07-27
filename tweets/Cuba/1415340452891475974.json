@@ -1,0 +1,223 @@
+{
+    "created_at": "Wed Jul 14 16:00:34 +0000 2021",
+    "id": 1415340452891475974,
+    "id_str": "1415340452891475974",
+    "full_text": "RT @alvaredi: Los colaboradores espa\u00f1oles de la dictadura en Cuba, est\u00e1n preocupados. Ojal\u00e1 terminen mucho m\u00e1s preocupados. #SOSCuba https:\u2026",
+    "truncated": false,
+    "display_text_range": [
+        0,
+        140
+    ],
+    "entities": {
+        "hashtags": [
+            {
+                "text": "SOSCuba",
+                "indices": [
+                    124,
+                    132
+                ]
+            }
+        ],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "alvaredi",
+                "name": "Diana  \u00c1lvarez Amell",
+                "id": 15137872,
+                "id_str": "15137872",
+                "indices": [
+                    3,
+                    12
+                ]
+            }
+        ],
+        "urls": []
+    },
+    "metadata": {
+        "iso_language_code": "es",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 900784164869459969,
+        "id_str": "900784164869459969",
+        "name": "Ariel Rodr\u00edguez",
+        "screen_name": "ArielRodGom",
+        "location": "Hanover, Lower Saxony",
+        "description": "Hallowed by thy name, scientist by heart",
+        "url": null,
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 213,
+        "friends_count": 369,
+        "listed_count": 1,
+        "created_at": "Thu Aug 24 18:17:35 +0000 2017",
+        "favourites_count": 28291,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 5016,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": null,
+        "profile_background_image_url_https": null,
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1204122979925401602/hpojbTUT_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1204122979925401602/hpojbTUT_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/900784164869459969/1611386684",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+        "created_at": "Tue Jul 13 20:32:33 +0000 2021",
+        "id": 1415046510555901960,
+        "id_str": "1415046510555901960",
+        "full_text": "Los colaboradores espa\u00f1oles de la dictadura en Cuba, est\u00e1n preocupados. Ojal\u00e1 terminen mucho m\u00e1s preocupados. #SOSCuba https://t.co/wA7W19DCLX",
+        "truncated": false,
+        "display_text_range": [
+            0,
+            142
+        ],
+        "entities": {
+            "hashtags": [
+                {
+                    "text": "SOSCuba",
+                    "indices": [
+                        110,
+                        118
+                    ]
+                }
+            ],
+            "symbols": [],
+            "user_mentions": [],
+            "urls": [
+                {
+                    "url": "https://t.co/wA7W19DCLX",
+                    "expanded_url": "https://www.cibercuba.com/noticias/2021-07-13-u1-e200807-s27061-representantes-empresas-espanolas-cuba-dicen-todo-esta-muy",
+                    "display_url": "cibercuba.com/noticias/2021-\u2026",
+                    "indices": [
+                        119,
+                        142
+                    ]
+                }
+            ]
+        },
+        "metadata": {
+            "iso_language_code": "es",
+            "result_type": "recent"
+        },
+        "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 15137872,
+            "id_str": "15137872",
+            "name": "Diana  \u00c1lvarez Amell",
+            "screen_name": "alvaredi",
+            "location": "USA",
+            "description": "My dear, you seem to forget that I was born here. Nostromo. \nViva la libertad                               Ed.Tres Novelas de Cirilo Villaverde.",
+            "url": "http://t.co/XvQtFeBmkA",
+            "entities": {
+                "url": {
+                    "urls": [
+                        {
+                            "url": "http://t.co/XvQtFeBmkA",
+                            "expanded_url": "http://www.publiberia.com/libros/p/392-cirilo_villaverde_tres_novelas_teresa_dos_amores_y_el_penitente.html",
+                            "display_url": "publiberia.com/libros/p/392-c\u2026",
+                            "indices": [
+                                0,
+                                22
+                            ]
+                        }
+                    ]
+                },
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 763,
+            "friends_count": 567,
+            "listed_count": 7,
+            "created_at": "Mon Jun 16 19:52:37 +0000 2008",
+            "favourites_count": 4325,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": false,
+            "verified": false,
+            "statuses_count": 18524,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "000000",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme17/bg.gif",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme17/bg.gif",
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/651088349545914368/uRmXZl8V_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/651088349545914368/uRmXZl8V_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/15137872/1420460317",
+            "profile_link_color": "1B95E0",
+            "profile_sidebar_border_color": "000000",
+            "profile_sidebar_fill_color": "000000",
+            "profile_text_color": "000000",
+            "profile_use_background_image": false,
+            "has_extended_profile": false,
+            "default_profile": false,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "regular",
+            "withheld_in_countries": []
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 4,
+        "favorite_count": 4,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "es"
+    },
+    "is_quote_status": false,
+    "retweet_count": 4,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "es"
+}

@@ -1,0 +1,99 @@
+{
+    "created_at": "Wed Jul 14 17:50:39 +0000 2021",
+    "id": 1415368158077149184,
+    "id_str": "1415368158077149184",
+    "full_text": "24. He estado viciado a bastantes juegui\u00f1os de movil pero sin duda los que m\u00e1s me han molado han sido el Marvel Contest of Champions (deje de jugar porque me di de morros con la pared invisible de los que son ftp) y el granblue fantasy, que me gusta moito",
+    "truncated": false,
+    "display_text_range": [
+        0,
+        255
+    ],
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+    },
+    "metadata": {
+        "iso_language_code": "es",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "in_reply_to_status_id": 1415367734062370820,
+    "in_reply_to_status_id_str": "1415367734062370820",
+    "in_reply_to_user_id": 740965028787040256,
+    "in_reply_to_user_id_str": "740965028787040256",
+    "in_reply_to_screen_name": "65Serramarc",
+    "user": {
+        "id": 740965028787040256,
+        "id_str": "740965028787040256",
+        "name": "\u269c\ufe0f Marc de la Ilustraci\u00f3n \u269c\ufe0f",
+        "screen_name": "65Serramarc",
+        "location": "Barcelona",
+        "description": "He/Him || (CAT/ENG/ESP) || Average art enjoyer and supporter, physics student and LoL, Genshin and Granblue player \n\nIcon by the amazing @itslopezz \u269c\ufe0f",
+        "url": "https://t.co/nhlxDRuT01",
+        "entities": {
+            "url": {
+                "urls": [
+                    {
+                        "url": "https://t.co/nhlxDRuT01",
+                        "expanded_url": "https://www.instagram.com/marcdelailustracion/",
+                        "display_url": "instagram.com/marcdelailustr\u2026",
+                        "indices": [
+                            0,
+                            23
+                        ]
+                    }
+                ]
+            },
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 730,
+        "friends_count": 1863,
+        "listed_count": 5,
+        "created_at": "Thu Jun 09 17:53:24 +0000 2016",
+        "favourites_count": 114770,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 83104,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1216799555318157315/0Ep2Lzkg_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1216799555318157315/0Ep2Lzkg_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/740965028787040256/1465495889",
+        "profile_link_color": "1B95E0",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "profile_use_background_image": false,
+        "has_extended_profile": true,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "es"
+}

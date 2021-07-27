@@ -1,0 +1,269 @@
+{
+    "created_at": "Wed Jul 14 18:03:12 +0000 2021",
+    "id": 1415371313556905985,
+    "id_str": "1415371313556905985",
+    "full_text": "RT @JuanDomingBiden: Comunista Argentino: \"En Cuba hay elecciones cada 5 a\u00f1os..\"\n\n*La libertad de expresion en Cuba\n\nFoto: el Che Guevara y\u2026",
+    "truncated": false,
+    "display_text_range": [
+        0,
+        140
+    ],
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "JuanDomingBiden",
+                "name": "Juan Domingo Biden",
+                "id": 1325641699742396417,
+                "id_str": "1325641699742396417",
+                "indices": [
+                    3,
+                    19
+                ]
+            }
+        ],
+        "urls": []
+    },
+    "metadata": {
+        "iso_language_code": "es",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 1257004996639547396,
+        "id_str": "1257004996639547396",
+        "name": "J Booker",
+        "screen_name": "JavierF50319736",
+        "location": "",
+        "description": "Libertario.\nFan de los soles de arizona (los Phoenix Suns papa)",
+        "url": null,
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 7,
+        "friends_count": 26,
+        "listed_count": 0,
+        "created_at": "Sun May 03 17:52:13 +0000 2020",
+        "favourites_count": 388,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 288,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": null,
+        "profile_background_image_url_https": null,
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1397059670070677505/C7R3SehI_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1397059670070677505/C7R3SehI_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+        "created_at": "Wed Jul 14 17:12:51 +0000 2021",
+        "id": 1415358646142345217,
+        "id_str": "1415358646142345217",
+        "full_text": "Comunista Argentino: \"En Cuba hay elecciones cada 5 a\u00f1os..\"\n\n*La libertad de expresion en Cuba\n\nFoto: el Che Guevara y Fidel Castro fusilando a libre pensadores, sin juicio ni ley masacre en la impunidad.\n\n#SOSCuba https://t.co/HeMhBTEkaj",
+        "truncated": false,
+        "display_text_range": [
+            0,
+            214
+        ],
+        "entities": {
+            "hashtags": [
+                {
+                    "text": "SOSCuba",
+                    "indices": [
+                        206,
+                        214
+                    ]
+                }
+            ],
+            "symbols": [],
+            "user_mentions": [],
+            "urls": [],
+            "media": [
+                {
+                    "id": 1415358643873226761,
+                    "id_str": "1415358643873226761",
+                    "indices": [
+                        215,
+                        238
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/E6RdMA3XoAkBk0h.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/E6RdMA3XoAkBk0h.jpg",
+                    "url": "https://t.co/HeMhBTEkaj",
+                    "display_url": "pic.twitter.com/HeMhBTEkaj",
+                    "expanded_url": "https://twitter.com/JuanDomingBiden/status/1415358646142345217/photo/1",
+                    "type": "photo",
+                    "sizes": {
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "medium": {
+                            "w": 960,
+                            "h": 880,
+                            "resize": "fit"
+                        },
+                        "large": {
+                            "w": 960,
+                            "h": 880,
+                            "resize": "fit"
+                        },
+                        "small": {
+                            "w": 680,
+                            "h": 623,
+                            "resize": "fit"
+                        }
+                    }
+                }
+            ]
+        },
+        "extended_entities": {
+            "media": [
+                {
+                    "id": 1415358643873226761,
+                    "id_str": "1415358643873226761",
+                    "indices": [
+                        215,
+                        238
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/E6RdMA3XoAkBk0h.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/E6RdMA3XoAkBk0h.jpg",
+                    "url": "https://t.co/HeMhBTEkaj",
+                    "display_url": "pic.twitter.com/HeMhBTEkaj",
+                    "expanded_url": "https://twitter.com/JuanDomingBiden/status/1415358646142345217/photo/1",
+                    "type": "photo",
+                    "sizes": {
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "medium": {
+                            "w": 960,
+                            "h": 880,
+                            "resize": "fit"
+                        },
+                        "large": {
+                            "w": 960,
+                            "h": 880,
+                            "resize": "fit"
+                        },
+                        "small": {
+                            "w": 680,
+                            "h": 623,
+                            "resize": "fit"
+                        }
+                    }
+                }
+            ]
+        },
+        "metadata": {
+            "iso_language_code": "es",
+            "result_type": "recent"
+        },
+        "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 1325641699742396417,
+            "id_str": "1325641699742396417",
+            "name": "Juan Domingo Biden",
+            "screen_name": "JuanDomingBiden",
+            "location": "",
+            "description": "\ud83c\udde6\ud83c\uddf7\ud83c\udde7\ud83c\uddf7",
+            "url": null,
+            "entities": {
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 813,
+            "friends_count": 81,
+            "listed_count": 0,
+            "created_at": "Mon Nov 09 03:29:57 +0000 2020",
+            "favourites_count": 6740,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": false,
+            "verified": false,
+            "statuses_count": 7894,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "F5F8FA",
+            "profile_background_image_url": null,
+            "profile_background_image_url_https": null,
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1414321870673940486/NbzdmY8z_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1414321870673940486/NbzdmY8z_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/1325641699742396417/1623712658",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "has_extended_profile": true,
+            "default_profile": true,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none",
+            "withheld_in_countries": []
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 5,
+        "favorite_count": 2,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "es"
+    },
+    "is_quote_status": false,
+    "retweet_count": 5,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "es"
+}

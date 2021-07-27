@@ -1,0 +1,136 @@
+{
+    "created_at": "Wed Jul 14 18:01:20 +0000 2021",
+    "id": 1415370844604358658,
+    "id_str": "1415370844604358658",
+    "full_text": "@DortaCoello @CubaMINREX @MINSAPCuba @cubacooperaZul @cubacooperaven Que patria,un Pa\u00eds q se cae en pedazos!!!\ndespierta q el mundo es Patria y libertad!!\nhasta cuando resisten a los delincuentes\nD\u00edaz Canel y los Castro????",
+    "truncated": false,
+    "display_text_range": [
+        69,
+        223
+    ],
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "DortaCoello",
+                "name": "Rafael Dorta Coello",
+                "id": 1375920021759741954,
+                "id_str": "1375920021759741954",
+                "indices": [
+                    0,
+                    12
+                ]
+            },
+            {
+                "screen_name": "CubaMINREX",
+                "name": "Canciller\u00eda de Cuba",
+                "id": 141493488,
+                "id_str": "141493488",
+                "indices": [
+                    13,
+                    24
+                ]
+            },
+            {
+                "screen_name": "MINSAPCuba",
+                "name": "Ministerio de Salud P\u00fablica de Cuba",
+                "id": 2394855529,
+                "id_str": "2394855529",
+                "indices": [
+                    25,
+                    36
+                ]
+            },
+            {
+                "screen_name": "cubacooperaZul",
+                "name": "Misi\u00f3n M\u00e9dica Estado Zulia",
+                "id": 1302942788250673154,
+                "id_str": "1302942788250673154",
+                "indices": [
+                    37,
+                    52
+                ]
+            },
+            {
+                "screen_name": "cubacooperaven",
+                "name": "Misi\u00f3n M\u00e9dica Cubana en Venezuela",
+                "id": 1402040647670976516,
+                "id_str": "1402040647670976516",
+                "indices": [
+                    53,
+                    68
+                ]
+            }
+        ],
+        "urls": []
+    },
+    "metadata": {
+        "iso_language_code": "es",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "in_reply_to_status_id": 1415344706112966665,
+    "in_reply_to_status_id_str": "1415344706112966665",
+    "in_reply_to_user_id": 1375920021759741954,
+    "in_reply_to_user_id_str": "1375920021759741954",
+    "in_reply_to_screen_name": "DortaCoello",
+    "user": {
+        "id": 1395155358679814147,
+        "id_str": "1395155358679814147",
+        "name": "Marcelo",
+        "screen_name": "Marcelo58122321",
+        "location": "",
+        "description": "",
+        "url": null,
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 8,
+        "friends_count": 93,
+        "listed_count": 0,
+        "created_at": "Wed May 19 23:12:43 +0000 2021",
+        "favourites_count": 143,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 345,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": null,
+        "profile_background_image_url_https": null,
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1413730052747956224/dZJk-K0u_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1413730052747956224/dZJk-K0u_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": true,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "es"
+}

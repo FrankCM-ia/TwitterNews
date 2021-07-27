@@ -1,0 +1,176 @@
+{
+    "created_at": "Wed Jul 14 16:00:30 +0000 2021",
+    "id": 1415340435564896260,
+    "id_str": "1415340435564896260",
+    "full_text": "@Tweet_Cuba @PrensaLatina_cu @POTUS @KamalaHarris @SecBlinken @EmbaCubaEEUU @PresidenciaCuba @NacionyEmig @CubaMINREX Vivo del lado de la mayor\u00eda consciente del pueblo cubano, no subestimo a la otra, pero la justicia no puede ser ignorada, convenga o no al juzgador.",
+    "truncated": false,
+    "display_text_range": [
+        118,
+        266
+    ],
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "Tweet_Cuba",
+                "name": "Tweet Cuba \u00a9",
+                "id": 618736644,
+                "id_str": "618736644",
+                "indices": [
+                    0,
+                    11
+                ]
+            },
+            {
+                "screen_name": "PrensaLatina_cu",
+                "name": "Prensa Latina",
+                "id": 119881872,
+                "id_str": "119881872",
+                "indices": [
+                    12,
+                    28
+                ]
+            },
+            {
+                "screen_name": "POTUS",
+                "name": "President Biden",
+                "id": 1349149096909668363,
+                "id_str": "1349149096909668363",
+                "indices": [
+                    29,
+                    35
+                ]
+            },
+            {
+                "screen_name": "KamalaHarris",
+                "name": "Kamala Harris",
+                "id": 30354991,
+                "id_str": "30354991",
+                "indices": [
+                    36,
+                    49
+                ]
+            },
+            {
+                "screen_name": "SecBlinken",
+                "name": "Secretary Antony Blinken",
+                "id": 1350150750966603777,
+                "id_str": "1350150750966603777",
+                "indices": [
+                    50,
+                    61
+                ]
+            },
+            {
+                "screen_name": "EmbaCubaEEUU",
+                "name": "Embajada Cuba EEUU",
+                "id": 3658948761,
+                "id_str": "3658948761",
+                "indices": [
+                    62,
+                    75
+                ]
+            },
+            {
+                "screen_name": "PresidenciaCuba",
+                "name": "Presidencia Cuba",
+                "id": 1075882433776676865,
+                "id_str": "1075882433776676865",
+                "indices": [
+                    76,
+                    92
+                ]
+            },
+            {
+                "screen_name": "NacionyEmig",
+                "name": "Naci\u00f3n y Emigraci\u00f3n",
+                "id": 894975383183003657,
+                "id_str": "894975383183003657",
+                "indices": [
+                    93,
+                    105
+                ]
+            },
+            {
+                "screen_name": "CubaMINREX",
+                "name": "Canciller\u00eda de Cuba",
+                "id": 141493488,
+                "id_str": "141493488",
+                "indices": [
+                    106,
+                    117
+                ]
+            }
+        ],
+        "urls": []
+    },
+    "metadata": {
+        "iso_language_code": "es",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "in_reply_to_status_id": 1414989401311043594,
+    "in_reply_to_status_id_str": "1414989401311043594",
+    "in_reply_to_user_id": 618736644,
+    "in_reply_to_user_id_str": "618736644",
+    "in_reply_to_screen_name": "Tweet_Cuba",
+    "user": {
+        "id": 1335992027138445316,
+        "id_str": "1335992027138445316",
+        "name": "Frank Aguero G\u00f3mez",
+        "screen_name": "FrankAgueroGme1",
+        "location": "",
+        "description": "Leer",
+        "url": null,
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 17,
+        "friends_count": 11,
+        "listed_count": 0,
+        "created_at": "Mon Dec 07 16:59:26 +0000 2020",
+        "favourites_count": 823,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 1430,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": null,
+        "profile_background_image_url_https": null,
+        "profile_background_tile": false,
+        "profile_image_url": "http://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+        "profile_image_url_https": "https://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": true,
+        "default_profile": true,
+        "default_profile_image": true,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "es"
+}

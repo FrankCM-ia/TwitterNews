@@ -1,0 +1,119 @@
+{
+    "created_at": "Thu Jul 15 15:08:59 +0000 2021",
+    "id": 1415689861110116358,
+    "id_str": "1415689861110116358",
+    "full_text": "@611c942c774549c @heduardo50 \"El racismo!!!!\" Ptm, t\u00edpico caviar de Barranco que piensa que el water es blanco porque es racista.",
+    "truncated": false,
+    "display_text_range": [
+        29,
+        129
+    ],
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "611c942c774549c",
+                "name": "yoverita",
+                "id": 3247299513,
+                "id_str": "3247299513",
+                "indices": [
+                    0,
+                    16
+                ]
+            },
+            {
+                "screen_name": "heduardo50",
+                "name": "Heduardo",
+                "id": 119454564,
+                "id_str": "119454564",
+                "indices": [
+                    17,
+                    28
+                ]
+            }
+        ],
+        "urls": []
+    },
+    "metadata": {
+        "iso_language_code": "es",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "in_reply_to_status_id": 1415661902550769669,
+    "in_reply_to_status_id_str": "1415661902550769669",
+    "in_reply_to_user_id": 3247299513,
+    "in_reply_to_user_id_str": "3247299513",
+    "in_reply_to_screen_name": "611c942c774549c",
+    "user": {
+        "id": 945330621198602242,
+        "id_str": "945330621198602242",
+        "name": "Don P\u00e9simo",
+        "screen_name": "soydonpesimo",
+        "location": "Omnipresent",
+        "description": "Presidente electo del Per\u00fa.",
+        "url": "https://t.co/MhGedIjyNV",
+        "entities": {
+            "url": {
+                "urls": [
+                    {
+                        "url": "https://t.co/MhGedIjyNV",
+                        "expanded_url": "https://www.facebook.com/soydonpesimo/",
+                        "display_url": "facebook.com/soydonpesimo/",
+                        "indices": [
+                            0,
+                            23
+                        ]
+                    }
+                ]
+            },
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 30,
+        "friends_count": 189,
+        "listed_count": 0,
+        "created_at": "Mon Dec 25 16:29:18 +0000 2017",
+        "favourites_count": 232,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 1865,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": null,
+        "profile_background_image_url_https": null,
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/945335874451107841/iCZ6nmNX_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/945335874451107841/iCZ6nmNX_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": true,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "es"
+}

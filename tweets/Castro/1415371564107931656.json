@@ -1,0 +1,129 @@
+{
+    "created_at": "Wed Jul 14 18:04:11 +0000 2021",
+    "id": 1415371564107931656,
+    "id_str": "1415371564107931656",
+    "full_text": "@IzquierdaUnida seguro que no contestais,pero veamos. \n\u00bfEl sistema o r\u00e9gimen pol\u00edtico cubano es lo que os gustar\u00eda para Espa\u00f1a?\nYo no, me gusta como lo tenemos aqu\u00ed, pero en tu partido sois muy de Castro y su revoluci\u00f3n y que es un para\u00edso,etc.\nNos interesa vuestra opini\u00f3n",
+    "truncated": false,
+    "display_text_range": [
+        0,
+        273
+    ],
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "IzquierdaUnida",
+                "name": "Izquierda Unida\ud83d\udd3b",
+                "id": 14824411,
+                "id_str": "14824411",
+                "indices": [
+                    0,
+                    15
+                ]
+            }
+        ],
+        "urls": []
+    },
+    "metadata": {
+        "iso_language_code": "es",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": 14824411,
+    "in_reply_to_user_id_str": "14824411",
+    "in_reply_to_screen_name": "IzquierdaUnida",
+    "user": {
+        "id": 2312331638,
+        "id_str": "2312331638",
+        "name": "ruru0001",
+        "screen_name": "ruru00011",
+        "location": "Madrid, Comunidad de Madrid",
+        "description": "",
+        "url": null,
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 42,
+        "friends_count": 270,
+        "listed_count": 0,
+        "created_at": "Sun Jan 26 19:13:03 +0000 2014",
+        "favourites_count": 923,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 2571,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/696639824292417537/Gm4jfsoi_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/696639824292417537/Gm4jfsoi_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": true,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": {
+        "id": "206c436ce43a43a3",
+        "url": "https://api.twitter.com/1.1/geo/id/206c436ce43a43a3.json",
+        "place_type": "city",
+        "name": "Madrid",
+        "full_name": "Madrid, Spain",
+        "country_code": "ES",
+        "country": "Spain",
+        "contained_within": [],
+        "bounding_box": {
+            "type": "Polygon",
+            "coordinates": [
+                [
+                    [
+                        -3.8890049,
+                        40.3120713
+                    ],
+                    [
+                        -3.5180102,
+                        40.3120713
+                    ],
+                    [
+                        -3.5180102,
+                        40.6435181
+                    ],
+                    [
+                        -3.8890049,
+                        40.6435181
+                    ]
+                ]
+            ]
+        },
+        "attributes": {}
+    },
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "es"
+}

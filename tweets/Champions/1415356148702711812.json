@@ -1,0 +1,121 @@
+{
+    "created_at": "Wed Jul 14 17:02:56 +0000 2021",
+    "id": 1415356148702711812,
+    "id_str": "1415356148702711812",
+    "full_text": "Estoy esperando los #audios de #Florentino diciendo que pago para ganar m\u00e1s #champions",
+    "truncated": false,
+    "display_text_range": [
+        0,
+        86
+    ],
+    "entities": {
+        "hashtags": [
+            {
+                "text": "audios",
+                "indices": [
+                    20,
+                    27
+                ]
+            },
+            {
+                "text": "Florentino",
+                "indices": [
+                    31,
+                    42
+                ]
+            },
+            {
+                "text": "champions",
+                "indices": [
+                    76,
+                    86
+                ]
+            }
+        ],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+    },
+    "metadata": {
+        "iso_language_code": "es",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 308080243,
+        "id_str": "308080243",
+        "name": "theporroriusmma",
+        "screen_name": "theporroriusmma",
+        "location": "",
+        "description": "No estoy bien como yo quisiera pero tampoco estoy mal como otros quisieran \ud83d\udcaa\ud83c\udffbEl que como callado, repite BETIS-PIZZA CON PI\u00d1A-BETIS IN THAT ORDER",
+        "url": "https://t.co/3XPD8e4Ixd",
+        "entities": {
+            "url": {
+                "urls": [
+                    {
+                        "url": "https://t.co/3XPD8e4Ixd",
+                        "expanded_url": "https://onlyfans.com/theporrorious",
+                        "display_url": "onlyfans.com/theporrorious",
+                        "indices": [
+                            0,
+                            23
+                        ]
+                    }
+                ]
+            },
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 249,
+        "friends_count": 337,
+        "listed_count": 2,
+        "created_at": "Mon May 30 20:03:55 +0000 2011",
+        "favourites_count": 552,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 11536,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "332525",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme5/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme5/bg.gif",
+        "profile_background_tile": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1412714822005891073/f6iDbKaC_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1412714822005891073/f6iDbKaC_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/308080243/1624358582",
+        "profile_link_color": "D02B55",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "99CC33",
+        "profile_text_color": "3E4415",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "es"
+}

@@ -1,0 +1,196 @@
+{
+    "created_at": "Wed Jul 14 18:02:58 +0000 2021",
+    "id": 1415371255587516421,
+    "id_str": "1415371255587516421",
+    "full_text": "RT @Mr_Bugman: El que le pide di\u00e1logo pacifico a una dictadura es medio pelotudo.",
+    "truncated": false,
+    "display_text_range": [
+        0,
+        81
+    ],
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "Mr_Bugman",
+                "name": "Bugman",
+                "id": 258968955,
+                "id_str": "258968955",
+                "indices": [
+                    3,
+                    13
+                ]
+            }
+        ],
+        "urls": []
+    },
+    "metadata": {
+        "iso_language_code": "es",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 716295311342321665,
+        "id_str": "716295311342321665",
+        "name": "alejandra save",
+        "screen_name": "alejandra_save",
+        "location": "",
+        "description": "",
+        "url": null,
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 574,
+        "friends_count": 510,
+        "listed_count": 4,
+        "created_at": "Sat Apr 02 16:04:45 +0000 2016",
+        "favourites_count": 115001,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 147738,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": null,
+        "profile_background_image_url_https": null,
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1170054050899013632/vXNTbxzM_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1170054050899013632/vXNTbxzM_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/716295311342321665/1567797558",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+        "created_at": "Wed Jul 14 16:09:59 +0000 2021",
+        "id": 1415342821947723777,
+        "id_str": "1415342821947723777",
+        "full_text": "El que le pide di\u00e1logo pacifico a una dictadura es medio pelotudo.",
+        "truncated": false,
+        "display_text_range": [
+            0,
+            66
+        ],
+        "entities": {
+            "hashtags": [],
+            "symbols": [],
+            "user_mentions": [],
+            "urls": []
+        },
+        "metadata": {
+            "iso_language_code": "es",
+            "result_type": "recent"
+        },
+        "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 258968955,
+            "id_str": "258968955",
+            "name": "Bugman",
+            "screen_name": "Mr_Bugman",
+            "location": "",
+            "description": "Euf\u00f3rico transgresor blanco. Ignoto. Nac\u00ed a muy temprana edad. Ahora aqu\u00ed me ven. Lo que sucedi\u00f3 entretanto no viene al caso.",
+            "url": "https://t.co/eC7kJMG5FG",
+            "entities": {
+                "url": {
+                    "urls": [
+                        {
+                            "url": "https://t.co/eC7kJMG5FG",
+                            "expanded_url": "http://buguert.blogspot.com",
+                            "display_url": "buguert.blogspot.com",
+                            "indices": [
+                                0,
+                                23
+                            ]
+                        }
+                    ]
+                },
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 78914,
+            "friends_count": 2391,
+            "listed_count": 315,
+            "created_at": "Mon Feb 28 22:06:41 +0000 2011",
+            "favourites_count": 90262,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": true,
+            "verified": false,
+            "statuses_count": 267025,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "131516",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+            "profile_background_tile": true,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1207663343617662977/ASbf3N9j_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1207663343617662977/ASbf3N9j_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/258968955/1398451237",
+            "profile_link_color": "009999",
+            "profile_sidebar_border_color": "EEEEEE",
+            "profile_sidebar_fill_color": "EFEFEF",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "has_extended_profile": true,
+            "default_profile": false,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none",
+            "withheld_in_countries": []
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 148,
+        "favorite_count": 892,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "es"
+    },
+    "is_quote_status": false,
+    "retweet_count": 148,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "es"
+}

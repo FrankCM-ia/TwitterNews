@@ -1,0 +1,126 @@
+{
+    "created_at": "Wed Jul 14 18:08:17 +0000 2021",
+    "id": 1415372595885654021,
+    "id_str": "1415372595885654021",
+    "full_text": "@catovasconez1 @WonderNatz @davidsanchezur4 @fernandoposada_ si los vacunados aun se contagian de covid, y los virus por lo general mutan ante \"malos habitats\", acaso no son los vacunados los q pueden generar variantes mas fuertes q sean capaz de contrarrestar las vacunas?\n(ya q sabemos las vacunas no matan al bicho, solo disminuye riesgo)",
+    "truncated": false,
+    "display_text_range": [
+        61,
+        341
+    ],
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "catovasconez1",
+                "name": "catovasconez@hotmail.com",
+                "id": 1334110422161633285,
+                "id_str": "1334110422161633285",
+                "indices": [
+                    0,
+                    14
+                ]
+            },
+            {
+                "screen_name": "WonderNatz",
+                "name": "Natz",
+                "id": 173912733,
+                "id_str": "173912733",
+                "indices": [
+                    15,
+                    26
+                ]
+            },
+            {
+                "screen_name": "davidsanchezur4",
+                "name": "Dei",
+                "id": 745456405344321536,
+                "id_str": "745456405344321536",
+                "indices": [
+                    27,
+                    43
+                ]
+            },
+            {
+                "screen_name": "fernandoposada_",
+                "name": "Fernando Posada",
+                "id": 147705809,
+                "id_str": "147705809",
+                "indices": [
+                    44,
+                    60
+                ]
+            }
+        ],
+        "urls": []
+    },
+    "metadata": {
+        "iso_language_code": "es",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "in_reply_to_status_id": 1415327547630530562,
+    "in_reply_to_status_id_str": "1415327547630530562",
+    "in_reply_to_user_id": 1334110422161633285,
+    "in_reply_to_user_id_str": "1334110422161633285",
+    "in_reply_to_screen_name": "catovasconez1",
+    "user": {
+        "id": 3001047556,
+        "id_str": "3001047556",
+        "name": "Fabian Castro",
+        "screen_name": "fabian_castro_c",
+        "location": "",
+        "description": "con ganas de que Chile sea un buen pa\u00eds para todos.",
+        "url": null,
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 72,
+        "friends_count": 73,
+        "listed_count": 2,
+        "created_at": "Tue Jan 27 08:11:04 +0000 2015",
+        "favourites_count": 1485,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 2691,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": true,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1343182280362176512/7eSO3XDN_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1343182280362176512/7eSO3XDN_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "es"
+}

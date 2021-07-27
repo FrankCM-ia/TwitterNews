@@ -1,0 +1,223 @@
+{
+    "created_at": "Wed Jul 14 18:07:07 +0000 2021",
+    "id": 1415372301474975751,
+    "id_str": "1415372301474975751",
+    "full_text": "RT @AnaBaralt: @statusQuo2020 @AlexDelgadoPR Jam\u00e1s olvidar\u00e9 cuando muri\u00f3 Fidel, Yulin estaba llorando desesperada y Lenin dijo en Pavacentr\u2026",
+    "truncated": false,
+    "display_text_range": [
+        0,
+        140
+    ],
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "AnaBaralt",
+                "name": "Cayetana",
+                "id": 811210663,
+                "id_str": "811210663",
+                "indices": [
+                    3,
+                    13
+                ]
+            },
+            {
+                "screen_name": "statusQuo2020",
+                "name": "Status Quo Boricua",
+                "id": 29777286,
+                "id_str": "29777286",
+                "indices": [
+                    15,
+                    29
+                ]
+            },
+            {
+                "screen_name": "AlexDelgadoPR",
+                "name": "AlexDelgado",
+                "id": 176201124,
+                "id_str": "176201124",
+                "indices": [
+                    30,
+                    44
+                ]
+            }
+        ],
+        "urls": []
+    },
+    "metadata": {
+        "iso_language_code": "es",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 3984355365,
+        "id_str": "3984355365",
+        "name": "Olgui- ORAD SIN CESAR",
+        "screen_name": "soyguu4",
+        "location": "",
+        "description": "Bachillerato Pedagog\u00eda-Educaci\u00f3n Especial. Bachillerato Teolog\u00eda.",
+        "url": null,
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 2921,
+        "friends_count": 2456,
+        "listed_count": 16,
+        "created_at": "Sun Oct 18 04:14:57 +0000 2015",
+        "favourites_count": 50745,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 69131,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1412566824768753668/bQTKYfLN_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1412566824768753668/bQTKYfLN_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/3984355365/1622255968",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": true,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+        "created_at": "Wed Jul 14 10:32:25 +0000 2021",
+        "id": 1415257870875119620,
+        "id_str": "1415257870875119620",
+        "full_text": "@statusQuo2020 @AlexDelgadoPR Jam\u00e1s olvidar\u00e9 cuando muri\u00f3 Fidel, Yulin estaba llorando desesperada y Lenin dijo en Pavacentro: Acaba de fallecer el \u201cPR\u00d3CER\u201d Fidel Castro. Por poco lo llama heroe. \ud83e\udd2e",
+        "truncated": false,
+        "display_text_range": [
+            30,
+            197
+        ],
+        "entities": {
+            "hashtags": [],
+            "symbols": [],
+            "user_mentions": [
+                {
+                    "screen_name": "statusQuo2020",
+                    "name": "Status Quo Boricua",
+                    "id": 29777286,
+                    "id_str": "29777286",
+                    "indices": [
+                        0,
+                        14
+                    ]
+                },
+                {
+                    "screen_name": "AlexDelgadoPR",
+                    "name": "AlexDelgado",
+                    "id": 176201124,
+                    "id_str": "176201124",
+                    "indices": [
+                        15,
+                        29
+                    ]
+                }
+            ],
+            "urls": []
+        },
+        "metadata": {
+            "iso_language_code": "es",
+            "result_type": "recent"
+        },
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "in_reply_to_status_id": 1414917588782567430,
+        "in_reply_to_status_id_str": "1414917588782567430",
+        "in_reply_to_user_id": 29777286,
+        "in_reply_to_user_id_str": "29777286",
+        "in_reply_to_screen_name": "statusQuo2020",
+        "user": {
+            "id": 811210663,
+            "id_str": "811210663",
+            "name": "Cayetana",
+            "screen_name": "AnaBaralt",
+            "location": "guaynabo",
+            "description": "",
+            "url": null,
+            "entities": {
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 109,
+            "friends_count": 233,
+            "listed_count": 0,
+            "created_at": "Sat Sep 08 16:08:04 +0000 2012",
+            "favourites_count": 4822,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": true,
+            "verified": false,
+            "statuses_count": 4008,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "C0DEED",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/891681717311897600/3tYMcwnl_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/891681717311897600/3tYMcwnl_normal.jpg",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "has_extended_profile": true,
+            "default_profile": true,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none",
+            "withheld_in_countries": []
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 1,
+        "favorite_count": 2,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "es"
+    },
+    "is_quote_status": false,
+    "retweet_count": 1,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "es"
+}

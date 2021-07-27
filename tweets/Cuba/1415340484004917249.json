@@ -1,0 +1,243 @@
+{
+    "created_at": "Wed Jul 14 16:00:41 +0000 2021",
+    "id": 1415340484004917249,
+    "id_str": "1415340484004917249",
+    "full_text": "RT @Maxpow45: @supernickgross @LiberacionUCyT @mdelpueblo No dura medio d\u00eda en Cuba",
+    "truncated": false,
+    "display_text_range": [
+        0,
+        83
+    ],
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "Maxpow45",
+                "name": "El Adornauta",
+                "id": 1038916726262583297,
+                "id_str": "1038916726262583297",
+                "indices": [
+                    3,
+                    12
+                ]
+            },
+            {
+                "screen_name": "supernickgross",
+                "name": "Yodadorni",
+                "id": 2750261889,
+                "id_str": "2750261889",
+                "indices": [
+                    14,
+                    29
+                ]
+            },
+            {
+                "screen_name": "LiberacionUCyT",
+                "name": "Liberaci\u00f3n - Corriente Univ CyT",
+                "id": 970641816981827584,
+                "id_str": "970641816981827584",
+                "indices": [
+                    30,
+                    45
+                ]
+            },
+            {
+                "screen_name": "mdelpueblo",
+                "name": "Mariano Del P\u00f3polo",
+                "id": 143199693,
+                "id_str": "143199693",
+                "indices": [
+                    46,
+                    57
+                ]
+            }
+        ],
+        "urls": []
+    },
+    "metadata": {
+        "iso_language_code": "es",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 1315749845282500610,
+        "id_str": "1315749845282500610",
+        "name": "DanteAkeen",
+        "screen_name": "AkeenDante",
+        "location": "La Ant\u00e1rtida.",
+        "description": "Andate a la concha de tu hermana Alberto Fern\u00e1ndez. Larga vida al pueblo jud\u00edo y a Israel \ud83c\uddee\ud83c\uddf1 \nLos peores d\u00edas fueron, son y ser\u00e1n peronistas. Macri hijo de pu",
+        "url": null,
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 70,
+        "friends_count": 145,
+        "listed_count": 1,
+        "created_at": "Mon Oct 12 20:23:26 +0000 2020",
+        "favourites_count": 29699,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 7420,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": null,
+        "profile_background_image_url_https": null,
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1382793505119072263/Is172oD-_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1382793505119072263/Is172oD-_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1315749845282500610/1622570719",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": true,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+        "created_at": "Wed Jul 14 14:53:03 +0000 2021",
+        "id": 1415323462076452867,
+        "id_str": "1415323462076452867",
+        "full_text": "@supernickgross @LiberacionUCyT @mdelpueblo No dura medio d\u00eda en Cuba",
+        "truncated": false,
+        "display_text_range": [
+            44,
+            69
+        ],
+        "entities": {
+            "hashtags": [],
+            "symbols": [],
+            "user_mentions": [
+                {
+                    "screen_name": "supernickgross",
+                    "name": "Yodadorni",
+                    "id": 2750261889,
+                    "id_str": "2750261889",
+                    "indices": [
+                        0,
+                        15
+                    ]
+                },
+                {
+                    "screen_name": "LiberacionUCyT",
+                    "name": "Liberaci\u00f3n - Corriente Univ CyT",
+                    "id": 970641816981827584,
+                    "id_str": "970641816981827584",
+                    "indices": [
+                        16,
+                        31
+                    ]
+                },
+                {
+                    "screen_name": "mdelpueblo",
+                    "name": "Mariano Del P\u00f3polo",
+                    "id": 143199693,
+                    "id_str": "143199693",
+                    "indices": [
+                        32,
+                        43
+                    ]
+                }
+            ],
+            "urls": []
+        },
+        "metadata": {
+            "iso_language_code": "es",
+            "result_type": "recent"
+        },
+        "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+        "in_reply_to_status_id": 1415321773864857607,
+        "in_reply_to_status_id_str": "1415321773864857607",
+        "in_reply_to_user_id": 2750261889,
+        "in_reply_to_user_id_str": "2750261889",
+        "in_reply_to_screen_name": "supernickgross",
+        "user": {
+            "id": 1038916726262583297,
+            "id_str": "1038916726262583297",
+            "name": "El Adornauta",
+            "screen_name": "Maxpow45",
+            "location": "",
+            "description": "",
+            "url": null,
+            "entities": {
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 20,
+            "friends_count": 112,
+            "listed_count": 0,
+            "created_at": "Sun Sep 09 22:27:04 +0000 2018",
+            "favourites_count": 6237,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": false,
+            "verified": false,
+            "statuses_count": 620,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "F5F8FA",
+            "profile_background_image_url": null,
+            "profile_background_image_url_https": null,
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1314598438437302272/jqvW6T1d_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1314598438437302272/jqvW6T1d_normal.jpg",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "has_extended_profile": false,
+            "default_profile": true,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none",
+            "withheld_in_countries": []
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 3,
+        "favorite_count": 106,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "es"
+    },
+    "is_quote_status": false,
+    "retweet_count": 3,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "es"
+}

@@ -1,0 +1,198 @@
+{
+    "created_at": "Wed Jul 14 17:52:01 +0000 2021",
+    "id": 1415368500462379011,
+    "id_str": "1415368500462379011",
+    "full_text": "Y aun as\u00ed no ganar\u00e1n Champions porque no tienen algo que se llama m\u00edstica, y mucho menos historia. Abrazo. https://t.co/4KCOBMZuRA",
+    "truncated": false,
+    "display_text_range": [
+        0,
+        106
+    ],
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+            {
+                "url": "https://t.co/4KCOBMZuRA",
+                "expanded_url": "https://twitter.com/allanfajardo29/status/1415355637509263362",
+                "display_url": "twitter.com/allanfajardo29\u2026",
+                "indices": [
+                    107,
+                    130
+                ]
+            }
+        ]
+    },
+    "metadata": {
+        "iso_language_code": "es",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 220148634,
+        "id_str": "220148634",
+        "name": "Kenneth Ventura",
+        "screen_name": "kventura97",
+        "location": "Honduras",
+        "description": "If you wanna have a good time, just give me a call\nFCM\ud83e\udd85 || RMCF\ud83d\udc51 || CABJ\ud83d\udc99\ud83d\udc9b\nA veces publico contenido serio",
+        "url": "https://t.co/ZhxgI6X9zS",
+        "entities": {
+            "url": {
+                "urls": [
+                    {
+                        "url": "https://t.co/ZhxgI6X9zS",
+                        "expanded_url": "http://instragram.com/kennethvengram",
+                        "display_url": "instragram.com/kennethvengram",
+                        "indices": [
+                            0,
+                            23
+                        ]
+                    }
+                ]
+            },
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 1468,
+        "friends_count": 1642,
+        "listed_count": 0,
+        "created_at": "Fri Nov 26 22:46:58 +0000 2010",
+        "favourites_count": 36504,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 50250,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "1A1B1F",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1275528352301035521/zAEawjej_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1275528352301035521/zAEawjej_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/220148634/1611930295",
+        "profile_link_color": "2FC2EF",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": true,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": true,
+    "quoted_status_id": 1415355637509263362,
+    "quoted_status_id_str": "1415355637509263362",
+    "quoted_status": {
+        "created_at": "Wed Jul 14 17:00:54 +0000 2021",
+        "id": 1415355637509263362,
+        "id_str": "1415355637509263362",
+        "full_text": "Ni los sobrinos de don H\u00e9ctor Salamanca meten tanto miedo como el plantel que est\u00e1 armando el Par\u00eds SG. \ud83d\ude41",
+        "truncated": false,
+        "display_text_range": [
+            0,
+            105
+        ],
+        "entities": {
+            "hashtags": [],
+            "symbols": [],
+            "user_mentions": [],
+            "urls": []
+        },
+        "metadata": {
+            "iso_language_code": "es",
+            "result_type": "recent"
+        },
+        "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 738554592946847744,
+            "id_str": "738554592946847744",
+            "name": "Allan Fajardo",
+            "screen_name": "allanfajardo29",
+            "location": "",
+            "description": "Relator y comentarista.\nStaff de @DeportesTVC y @fafradio_hn",
+            "url": null,
+            "entities": {
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 44451,
+            "friends_count": 1159,
+            "listed_count": 31,
+            "created_at": "Fri Jun 03 02:15:11 +0000 2016",
+            "favourites_count": 24890,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": false,
+            "verified": false,
+            "statuses_count": 16768,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "000000",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1324199007003037697/Uf2i8-wT_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1324199007003037697/Uf2i8-wT_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/738554592946847744/1559363820",
+            "profile_link_color": "1B95E0",
+            "profile_sidebar_border_color": "000000",
+            "profile_sidebar_fill_color": "000000",
+            "profile_text_color": "000000",
+            "profile_use_background_image": false,
+            "has_extended_profile": true,
+            "default_profile": false,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none",
+            "withheld_in_countries": []
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 9,
+        "favorite_count": 143,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "es"
+    },
+    "retweet_count": 0,
+    "favorite_count": 1,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "es"
+}

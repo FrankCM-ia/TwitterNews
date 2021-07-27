@@ -1,0 +1,350 @@
+{
+    "created_at": "Wed Jul 14 16:00:43 +0000 2021",
+    "id": 1415340490841526276,
+    "id_str": "1415340490841526276",
+    "full_text": "RT @UJCdeCuba: Denunci\u00f3 el Canciller\ud83c\udde8\ud83c\uddfa @BrunoRguezP la operaci\u00f3n comunicacional desde #EEUU q unida al #bloqueo recrudecido, pretende crear\u2026",
+    "truncated": false,
+    "display_text_range": [
+        0,
+        140
+    ],
+    "entities": {
+        "hashtags": [
+            {
+                "text": "EEUU",
+                "indices": [
+                    86,
+                    91
+                ]
+            },
+            {
+                "text": "bloqueo",
+                "indices": [
+                    103,
+                    111
+                ]
+            }
+        ],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "UJCdeCuba",
+                "name": "UJC de Cuba",
+                "id": 1272669433258037250,
+                "id_str": "1272669433258037250",
+                "indices": [
+                    3,
+                    13
+                ]
+            },
+            {
+                "screen_name": "BrunoRguezP",
+                "name": "Bruno Rodr\u00edguez P",
+                "id": 1074358534853271555,
+                "id_str": "1074358534853271555",
+                "indices": [
+                    39,
+                    51
+                ]
+            }
+        ],
+        "urls": []
+    },
+    "metadata": {
+        "iso_language_code": "es",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 1293930983327236098,
+        "id_str": "1293930983327236098",
+        "name": "Lisbet",
+        "screen_name": "Lisbet48851878",
+        "location": "Cuba",
+        "description": "Especialista en Gesti\u00f3n Econ\u00f3mica , Empresa Telecomunicaciones ETECSA_Cuba",
+        "url": null,
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 63,
+        "friends_count": 143,
+        "listed_count": 0,
+        "created_at": "Thu Aug 13 15:23:05 +0000 2020",
+        "favourites_count": 426,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 356,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": null,
+        "profile_background_image_url_https": null,
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1316838446741291008/JDNbvegH_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1316838446741291008/JDNbvegH_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1293930983327236098/1597341676",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": true,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+        "created_at": "Wed Jul 14 15:35:44 +0000 2021",
+        "id": 1415334203395280910,
+        "id_str": "1415334203395280910",
+        "full_text": "Denunci\u00f3 el Canciller\ud83c\udde8\ud83c\uddfa @BrunoRguezP la operaci\u00f3n comunicacional desde #EEUU q unida al #bloqueo recrudecido, pretende crear el caos y propiciar el cambio d r\u00e9gimen, la cual ha tenido la complicidad d redes sociales como #Twitter y medios d prensa\ud83c\uddfa\ud83c\uddf8 y europeos. #Cuba @DiosvanyUJC https://t.co/w3JNMkmSPg",
+        "truncated": false,
+        "display_text_range": [
+            0,
+            280
+        ],
+        "entities": {
+            "hashtags": [
+                {
+                    "text": "EEUU",
+                    "indices": [
+                        71,
+                        76
+                    ]
+                },
+                {
+                    "text": "bloqueo",
+                    "indices": [
+                        88,
+                        96
+                    ]
+                },
+                {
+                    "text": "Twitter",
+                    "indices": [
+                        221,
+                        229
+                    ]
+                },
+                {
+                    "text": "Cuba",
+                    "indices": [
+                        262,
+                        267
+                    ]
+                }
+            ],
+            "symbols": [],
+            "user_mentions": [
+                {
+                    "screen_name": "BrunoRguezP",
+                    "name": "Bruno Rodr\u00edguez P",
+                    "id": 1074358534853271555,
+                    "id_str": "1074358534853271555",
+                    "indices": [
+                        24,
+                        36
+                    ]
+                },
+                {
+                    "screen_name": "DiosvanyUJC",
+                    "name": "Diosvany Acosta Abrahante",
+                    "id": 1349384583045906434,
+                    "id_str": "1349384583045906434",
+                    "indices": [
+                        268,
+                        280
+                    ]
+                }
+            ],
+            "urls": [],
+            "media": [
+                {
+                    "id": 1415334191676395520,
+                    "id_str": "1415334191676395520",
+                    "indices": [
+                        281,
+                        304
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/E6RG8tVWEAAExmL.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/E6RG8tVWEAAExmL.jpg",
+                    "url": "https://t.co/w3JNMkmSPg",
+                    "display_url": "pic.twitter.com/w3JNMkmSPg",
+                    "expanded_url": "https://twitter.com/UJCdeCuba/status/1415334203395280910/photo/1",
+                    "type": "photo",
+                    "sizes": {
+                        "medium": {
+                            "w": 425,
+                            "h": 271,
+                            "resize": "fit"
+                        },
+                        "large": {
+                            "w": 425,
+                            "h": 271,
+                            "resize": "fit"
+                        },
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "small": {
+                            "w": 425,
+                            "h": 271,
+                            "resize": "fit"
+                        }
+                    }
+                }
+            ]
+        },
+        "extended_entities": {
+            "media": [
+                {
+                    "id": 1415334191676395520,
+                    "id_str": "1415334191676395520",
+                    "indices": [
+                        281,
+                        304
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/E6RG8tVWEAAExmL.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/E6RG8tVWEAAExmL.jpg",
+                    "url": "https://t.co/w3JNMkmSPg",
+                    "display_url": "pic.twitter.com/w3JNMkmSPg",
+                    "expanded_url": "https://twitter.com/UJCdeCuba/status/1415334203395280910/photo/1",
+                    "type": "photo",
+                    "sizes": {
+                        "medium": {
+                            "w": 425,
+                            "h": 271,
+                            "resize": "fit"
+                        },
+                        "large": {
+                            "w": 425,
+                            "h": 271,
+                            "resize": "fit"
+                        },
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "small": {
+                            "w": 425,
+                            "h": 271,
+                            "resize": "fit"
+                        }
+                    }
+                }
+            ]
+        },
+        "metadata": {
+            "iso_language_code": "es",
+            "result_type": "recent"
+        },
+        "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 1272669433258037250,
+            "id_str": "1272669433258037250",
+            "name": "UJC de Cuba",
+            "screen_name": "UJCdeCuba",
+            "location": "La Habana, Cuba",
+            "description": "Cuenta Oficial de la Uni\u00f3n de J\u00f3venes Comunistas de Cuba",
+            "url": "https://t.co/E481E7wJ4j",
+            "entities": {
+                "url": {
+                    "urls": [
+                        {
+                            "url": "https://t.co/E481E7wJ4j",
+                            "expanded_url": "http://www.ujc.cu",
+                            "display_url": "ujc.cu",
+                            "indices": [
+                                0,
+                                23
+                            ]
+                        }
+                    ]
+                },
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 10878,
+            "friends_count": 77,
+            "listed_count": 30,
+            "created_at": "Mon Jun 15 23:17:12 +0000 2020",
+            "favourites_count": 2447,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": false,
+            "verified": false,
+            "statuses_count": 2898,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "F5F8FA",
+            "profile_background_image_url": null,
+            "profile_background_image_url_https": null,
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1272669866470842368/i_fdnph0_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1272669866470842368/i_fdnph0_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/1272669433258037250/1592572449",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "has_extended_profile": true,
+            "default_profile": true,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none",
+            "withheld_in_countries": []
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 23,
+        "favorite_count": 24,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "es"
+    },
+    "is_quote_status": false,
+    "retweet_count": 23,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "es"
+}

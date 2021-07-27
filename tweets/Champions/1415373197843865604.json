@@ -1,0 +1,107 @@
+{
+    "created_at": "Wed Jul 14 18:10:41 +0000 2021",
+    "id": 1415373197843865604,
+    "id_str": "1415373197843865604",
+    "full_text": "@jmgalvanrico @unicajaCB Est\u00e1n esperando el parche de la Champions",
+    "truncated": false,
+    "display_text_range": [
+        25,
+        66
+    ],
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "jmgalvanrico",
+                "name": "Jos\u00e9 Manuel Galv\u00e1n",
+                "id": 283694998,
+                "id_str": "283694998",
+                "indices": [
+                    0,
+                    13
+                ]
+            },
+            {
+                "screen_name": "unicajaCB",
+                "name": "UnicajaCB",
+                "id": 244419160,
+                "id_str": "244419160",
+                "indices": [
+                    14,
+                    24
+                ]
+            }
+        ],
+        "urls": []
+    },
+    "metadata": {
+        "iso_language_code": "es",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "in_reply_to_status_id": 1415368269385580549,
+    "in_reply_to_status_id_str": "1415368269385580549",
+    "in_reply_to_user_id": 283694998,
+    "in_reply_to_user_id_str": "283694998",
+    "in_reply_to_screen_name": "jmgalvanrico",
+    "user": {
+        "id": 16927245,
+        "id_str": "16927245",
+        "name": "Kain083",
+        "screen_name": "kain_083",
+        "location": "M\u00e1laga",
+        "description": "Para no ser un recuerdo,habr\u00e1 que ser un reloco",
+        "url": null,
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 923,
+        "friends_count": 700,
+        "listed_count": 61,
+        "created_at": "Thu Oct 23 14:21:30 +0000 2008",
+        "favourites_count": 40615,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 258501,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme5/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme5/bg.gif",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1354704586435657731/gzYKvmQc_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1354704586435657731/gzYKvmQc_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/16927245/1567545144",
+        "profile_link_color": "19CF86",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "profile_use_background_image": false,
+        "has_extended_profile": false,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "es"
+}

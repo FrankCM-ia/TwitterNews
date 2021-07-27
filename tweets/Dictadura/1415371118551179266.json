@@ -1,0 +1,356 @@
+{
+    "created_at": "Wed Jul 14 18:02:25 +0000 2021",
+    "id": 1415371118551179266,
+    "id_str": "1415371118551179266",
+    "full_text": "RT @felipesguitar: A Vero le duele que la dictadura comunista llena de odio y opresi\u00f3n contra su pueblo est\u00e1 cayendo. Y consecuentemente, a\u2026",
+    "truncated": false,
+    "display_text_range": [
+        0,
+        140
+    ],
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "felipesguitar",
+                "name": "Felipe Alonso",
+                "id": 1177070435286097920,
+                "id_str": "1177070435286097920",
+                "indices": [
+                    3,
+                    17
+                ]
+            }
+        ],
+        "urls": []
+    },
+    "metadata": {
+        "iso_language_code": "es",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 459202451,
+        "id_str": "459202451",
+        "name": "\ud835\uddd5\ud835\uddd8\ud835\uddd6\ud835\uddd4\ud835\uddd8\ud835\udde6",
+        "screen_name": "BECAES_",
+        "location": "C\u00e1diz, Espa\u00f1a",
+        "description": "LIBERAL \ud83d\uddfd HISPAN\u00d3FILO \ud83c\uddea\ud83c\uddf8 ARTE / HISTORIA / POL\u00cdTICA \ud83c\udfa8\ud83d\udcd6\ud83c\udf0d",
+        "url": "https://t.co/13w8grsx2F",
+        "entities": {
+            "url": {
+                "urls": [
+                    {
+                        "url": "https://t.co/13w8grsx2F",
+                        "expanded_url": "http://www.letralibre.es/search/label/Bcaes",
+                        "display_url": "letralibre.es/search/label/B\u2026",
+                        "indices": [
+                            0,
+                            23
+                        ]
+                    }
+                ]
+            },
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 17817,
+        "friends_count": 15609,
+        "listed_count": 378,
+        "created_at": "Mon Jan 09 11:52:42 +0000 2012",
+        "favourites_count": 128869,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 1143032,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "85B0C6",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1313389388768989185/_2agckZC_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1313389388768989185/_2agckZC_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/459202451/1562260585",
+        "profile_link_color": "40BDE8",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "regular",
+        "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+        "created_at": "Wed Jul 14 18:01:44 +0000 2021",
+        "id": 1415370945175359492,
+        "id_str": "1415370945175359492",
+        "full_text": "A Vero le duele que la dictadura comunista llena de odio y opresi\u00f3n contra su pueblo est\u00e1 cayendo. Y consecuentemente, a Vero se le muere el discurso pol\u00edtico de toda su vida. #SOSPeru #SOSCuba #JNESacateElSombrero https://t.co/1lRF4VLZ0R",
+        "truncated": false,
+        "display_text_range": [
+            0,
+            214
+        ],
+        "entities": {
+            "hashtags": [
+                {
+                    "text": "SOSPeru",
+                    "indices": [
+                        176,
+                        184
+                    ]
+                },
+                {
+                    "text": "SOSCuba",
+                    "indices": [
+                        185,
+                        193
+                    ]
+                },
+                {
+                    "text": "JNESacateElSombrero",
+                    "indices": [
+                        194,
+                        214
+                    ]
+                }
+            ],
+            "symbols": [],
+            "user_mentions": [],
+            "urls": [
+                {
+                    "url": "https://t.co/1lRF4VLZ0R",
+                    "expanded_url": "https://twitter.com/informateperu/status/1415368308623351808",
+                    "display_url": "twitter.com/informateperu/\u2026",
+                    "indices": [
+                        215,
+                        238
+                    ]
+                }
+            ]
+        },
+        "metadata": {
+            "iso_language_code": "es",
+            "result_type": "recent"
+        },
+        "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 1177070435286097920,
+            "id_str": "1177070435286097920",
+            "name": "Felipe Alonso",
+            "screen_name": "felipesguitar",
+            "location": "USA",
+            "description": "Music maker - Composer. University of Southern California Alumni @USC- International Relations @USCDornsife - #AlOdioLeDigoNo \ud83c\uddf5\ud83c\uddea \ud83c\uddfa\ud83c\uddf8 \ud83c\uddea\ud83c\uddf8",
+            "url": "https://t.co/br8GNVRC5Y",
+            "entities": {
+                "url": {
+                    "urls": [
+                        {
+                            "url": "https://t.co/br8GNVRC5Y",
+                            "expanded_url": "https://spoti.fi/3ck8hZm",
+                            "display_url": "spoti.fi/3ck8hZm",
+                            "indices": [
+                                0,
+                                23
+                            ]
+                        }
+                    ]
+                },
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 222,
+            "friends_count": 707,
+            "listed_count": 1,
+            "created_at": "Thu Sep 26 04:00:48 +0000 2019",
+            "favourites_count": 55076,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": false,
+            "verified": false,
+            "statuses_count": 19702,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "F5F8FA",
+            "profile_background_image_url": null,
+            "profile_background_image_url_https": null,
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1177070938250260480/8RvLvv74_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1177070938250260480/8RvLvv74_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/1177070435286097920/1582825052",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "has_extended_profile": false,
+            "default_profile": true,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none",
+            "withheld_in_countries": []
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": true,
+        "quoted_status_id": 1415368308623351808,
+        "quoted_status_id_str": "1415368308623351808",
+        "quoted_status": {
+            "created_at": "Wed Jul 14 17:51:15 +0000 2021",
+            "id": 1415368308623351808,
+            "id_str": "1415368308623351808",
+            "full_text": "\ud83d\udd34 \u00a1\u00a1\u00a1ATENCI\u00d3N!!! \u00bfQu\u00e9 opina usted? | Cuarto d\u00eda de represi\u00f3n de la dictadura castrista y la excandidata presidencial de Juntos por el Per\u00fa, Ver\u00f3nika Mendoza sigue guardando silencio tras la protesta de miles de cubanos luchando por libertad. https://t.co/80SJqVfxuT",
+            "truncated": false,
+            "display_text_range": [
+                0,
+                265
+            ],
+            "entities": {
+                "hashtags": [],
+                "symbols": [],
+                "user_mentions": [],
+                "urls": [
+                    {
+                        "url": "https://t.co/80SJqVfxuT",
+                        "expanded_url": "https://informateperu.pe/politica/cuarto-dia-de-represion-de-la-dictadura-castrista-y-veronika-mendoza-guarda-silencio/",
+                        "display_url": "informateperu.pe/politica/cuart\u2026",
+                        "indices": [
+                            242,
+                            265
+                        ]
+                    }
+                ]
+            },
+            "metadata": {
+                "iso_language_code": "es",
+                "result_type": "recent"
+            },
+            "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+            "in_reply_to_status_id": null,
+            "in_reply_to_status_id_str": null,
+            "in_reply_to_user_id": null,
+            "in_reply_to_user_id_str": null,
+            "in_reply_to_screen_name": null,
+            "user": {
+                "id": 63990472,
+                "id_str": "63990472",
+                "name": "Inf\u00f3rmate Per\u00fa",
+                "screen_name": "informateperu",
+                "location": "Lima, Peru",
+                "description": "Las noticias m\u00e1s importantes del Per\u00fa y el mundo est\u00e1n aqu\u00ed",
+                "url": "https://t.co/ZeYvuaYNBy",
+                "entities": {
+                    "url": {
+                        "urls": [
+                            {
+                                "url": "https://t.co/ZeYvuaYNBy",
+                                "expanded_url": "http://informateperu.pe",
+                                "display_url": "informateperu.pe",
+                                "indices": [
+                                    0,
+                                    23
+                                ]
+                            }
+                        ]
+                    },
+                    "description": {
+                        "urls": []
+                    }
+                },
+                "protected": false,
+                "followers_count": 12076,
+                "friends_count": 152,
+                "listed_count": 33,
+                "created_at": "Sat Aug 08 16:04:42 +0000 2009",
+                "favourites_count": 0,
+                "utc_offset": null,
+                "time_zone": null,
+                "geo_enabled": false,
+                "verified": false,
+                "statuses_count": 28443,
+                "lang": null,
+                "contributors_enabled": false,
+                "is_translator": false,
+                "is_translation_enabled": false,
+                "profile_background_color": "B00202",
+                "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+                "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+                "profile_background_tile": false,
+                "profile_image_url": "http://pbs.twimg.com/profile_images/1397352599137947649/qn1SsPnq_normal.jpg",
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/1397352599137947649/qn1SsPnq_normal.jpg",
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/63990472/1626106004",
+                "profile_link_color": "BA0404",
+                "profile_sidebar_border_color": "B00202",
+                "profile_sidebar_fill_color": "F4F2F5",
+                "profile_text_color": "333333",
+                "profile_use_background_image": true,
+                "has_extended_profile": false,
+                "default_profile": false,
+                "default_profile_image": false,
+                "following": false,
+                "follow_request_sent": false,
+                "notifications": false,
+                "translator_type": "none",
+                "withheld_in_countries": []
+            },
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "contributors": null,
+            "is_quote_status": false,
+            "retweet_count": 9,
+            "favorite_count": 23,
+            "favorited": false,
+            "retweeted": false,
+            "possibly_sensitive": false,
+            "lang": "es"
+        },
+        "retweet_count": 2,
+        "favorite_count": 1,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "es"
+    },
+    "is_quote_status": true,
+    "quoted_status_id": 1415368308623351808,
+    "quoted_status_id_str": "1415368308623351808",
+    "retweet_count": 2,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "es"
+}

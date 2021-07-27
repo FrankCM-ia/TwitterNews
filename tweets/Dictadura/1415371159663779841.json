@@ -1,0 +1,217 @@
+{
+    "created_at": "Wed Jul 14 18:02:35 +0000 2021",
+    "id": 1415371159663779841,
+    "id_str": "1415371159663779841",
+    "full_text": "RT @gabomedina75: Cuba es una dictadura, Venezuela es una dictadura, Nicaragua es una dictadura, China es una dictadura. Rusia, el mayor fi\u2026",
+    "truncated": false,
+    "display_text_range": [
+        0,
+        140
+    ],
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "gabomedina75",
+                "name": "Gabriel Medina",
+                "id": 421881470,
+                "id_str": "421881470",
+                "indices": [
+                    3,
+                    16
+                ]
+            }
+        ],
+        "urls": []
+    },
+    "metadata": {
+        "iso_language_code": "es",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"http://www.twitpane.com\" rel=\"nofollow\">TwitPane for Android</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 567691634,
+        "id_str": "567691634",
+        "name": "PeriodismoParaTodos",
+        "screen_name": "LanataPPT",
+        "location": "",
+        "description": "Todos los Domingos a las 22hs",
+        "url": "https://t.co/uMNaVZ8YJ5",
+        "entities": {
+            "url": {
+                "urls": [
+                    {
+                        "url": "https://t.co/uMNaVZ8YJ5",
+                        "expanded_url": "http://www.eltrecetv.com.ar/periodismo-para-todos",
+                        "display_url": "eltrecetv.com.ar/periodismo-par\u2026",
+                        "indices": [
+                            0,
+                            23
+                        ]
+                    }
+                ]
+            },
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 98892,
+        "friends_count": 607,
+        "listed_count": 185,
+        "created_at": "Tue May 01 00:28:57 +0000 2012",
+        "favourites_count": 1438,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 29642,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/475438041050255361/1m-q5_0G_normal.jpeg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/475438041050255361/1m-q5_0G_normal.jpeg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/567691634/1403999335",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": false,
+        "has_extended_profile": false,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+        "created_at": "Wed Jul 14 13:53:08 +0000 2021",
+        "id": 1415308382391705608,
+        "id_str": "1415308382391705608",
+        "full_text": "Cuba es una dictadura, Venezuela es una dictadura, Nicaragua es una dictadura, China es una dictadura. Rusia, el mayor financista de las dictaduras latinoamericanas, est\u00e1 al borde de serlo. Argentina est\u00e1 muy cerca y negarlo es de ignorante, o de hip\u00f3crita. #SOSCubaLibre",
+        "truncated": false,
+        "display_text_range": [
+            0,
+            271
+        ],
+        "entities": {
+            "hashtags": [
+                {
+                    "text": "SOSCubaLibre",
+                    "indices": [
+                        258,
+                        271
+                    ]
+                }
+            ],
+            "symbols": [],
+            "user_mentions": [],
+            "urls": []
+        },
+        "metadata": {
+            "iso_language_code": "es",
+            "result_type": "recent"
+        },
+        "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 421881470,
+            "id_str": "421881470",
+            "name": "Gabriel Medina",
+            "screen_name": "gabomedina75",
+            "location": "Ciudad de Buenos Aires",
+            "description": "Director de Cine. Guionista. Entre otras cosas dirig\u00ed y escrib\u00ed Los paranoicos y La ara\u00f1a vampiro. En proceso de reescritura.",
+            "url": "https://t.co/aPFautLXwk",
+            "entities": {
+                "url": {
+                    "urls": [
+                        {
+                            "url": "https://t.co/aPFautLXwk",
+                            "expanded_url": "https://www.instagram.com/gabomedina75/",
+                            "display_url": "instagram.com/gabomedina75/",
+                            "indices": [
+                                0,
+                                23
+                            ]
+                        }
+                    ]
+                },
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 4026,
+            "friends_count": 802,
+            "listed_count": 28,
+            "created_at": "Sat Nov 26 14:18:44 +0000 2011",
+            "favourites_count": 18194,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": false,
+            "verified": false,
+            "statuses_count": 14767,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "022330",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1357675741211746305/xPz-qa91_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1357675741211746305/xPz-qa91_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/421881470/1623185811",
+            "profile_link_color": "0084B4",
+            "profile_sidebar_border_color": "A8C7F7",
+            "profile_sidebar_fill_color": "C0DFEC",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "has_extended_profile": false,
+            "default_profile": false,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none",
+            "withheld_in_countries": []
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 22,
+        "favorite_count": 77,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "es"
+    },
+    "is_quote_status": false,
+    "retweet_count": 22,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "es"
+}

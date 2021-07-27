@@ -1,0 +1,206 @@
+{
+    "created_at": "Wed Jul 14 17:59:23 +0000 2021",
+    "id": 1415370352948125696,
+    "id_str": "1415370352948125696",
+    "full_text": "@Gomez_RM19 @Saaayfer @NoloFCB @elchiringuitotv Messi no se merece el bal\u00f3n de oro porque \"ha hecho el rid\u00edculo en champions\", pero de seguro se lo quer\u00e9s dar a Lewandowski que ha sido eliminado en cuartos, no? Ah no, mejor Jorginho que ha ganado Champions, Eurocopa (como si al ni\u00f1o Torres se lo hubieran dado en 2012 por eso) https://t.co/9sEvEv1Zop",
+    "truncated": false,
+    "display_text_range": [
+        48,
+        327
+    ],
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "Gomez_RM19",
+                "name": "Sergio Gomez",
+                "id": 253223680,
+                "id_str": "253223680",
+                "indices": [
+                    0,
+                    11
+                ]
+            },
+            {
+                "screen_name": "Saaayfer",
+                "name": "kK",
+                "id": 959024498363248640,
+                "id_str": "959024498363248640",
+                "indices": [
+                    12,
+                    21
+                ]
+            },
+            {
+                "screen_name": "NoloFCB",
+                "name": "#10",
+                "id": 1294410777454096384,
+                "id_str": "1294410777454096384",
+                "indices": [
+                    22,
+                    30
+                ]
+            },
+            {
+                "screen_name": "elchiringuitotv",
+                "name": "El Chiringuito TV",
+                "id": 18905975,
+                "id_str": "18905975",
+                "indices": [
+                    31,
+                    47
+                ]
+            }
+        ],
+        "urls": [],
+        "media": [
+            {
+                "id": 1415370349764612106,
+                "id_str": "1415370349764612106",
+                "indices": [
+                    328,
+                    351
+                ],
+                "media_url": "http://pbs.twimg.com/media/E6Rn1YtXEAoPE2y.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/E6Rn1YtXEAoPE2y.jpg",
+                "url": "https://t.co/9sEvEv1Zop",
+                "display_url": "pic.twitter.com/9sEvEv1Zop",
+                "expanded_url": "https://twitter.com/axelduarte08/status/1415370352948125696/photo/1",
+                "type": "photo",
+                "sizes": {
+                    "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                    },
+                    "small": {
+                        "w": 680,
+                        "h": 523,
+                        "resize": "fit"
+                    },
+                    "large": {
+                        "w": 1080,
+                        "h": 831,
+                        "resize": "fit"
+                    },
+                    "medium": {
+                        "w": 1080,
+                        "h": 831,
+                        "resize": "fit"
+                    }
+                }
+            }
+        ]
+    },
+    "extended_entities": {
+        "media": [
+            {
+                "id": 1415370349764612106,
+                "id_str": "1415370349764612106",
+                "indices": [
+                    328,
+                    351
+                ],
+                "media_url": "http://pbs.twimg.com/media/E6Rn1YtXEAoPE2y.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/E6Rn1YtXEAoPE2y.jpg",
+                "url": "https://t.co/9sEvEv1Zop",
+                "display_url": "pic.twitter.com/9sEvEv1Zop",
+                "expanded_url": "https://twitter.com/axelduarte08/status/1415370352948125696/photo/1",
+                "type": "photo",
+                "sizes": {
+                    "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                    },
+                    "small": {
+                        "w": 680,
+                        "h": 523,
+                        "resize": "fit"
+                    },
+                    "large": {
+                        "w": 1080,
+                        "h": 831,
+                        "resize": "fit"
+                    },
+                    "medium": {
+                        "w": 1080,
+                        "h": 831,
+                        "resize": "fit"
+                    }
+                }
+            }
+        ]
+    },
+    "metadata": {
+        "iso_language_code": "es",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "in_reply_to_status_id": 1415351787712880644,
+    "in_reply_to_status_id_str": "1415351787712880644",
+    "in_reply_to_user_id": 253223680,
+    "in_reply_to_user_id_str": "253223680",
+    "in_reply_to_screen_name": "Gomez_RM19",
+    "user": {
+        "id": 1726899487,
+        "id_str": "1726899487",
+        "name": "Axel Duarte",
+        "screen_name": "axelduarte08",
+        "location": "",
+        "description": "There's nothing worse in life than being ordinary.",
+        "url": null,
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 37,
+        "friends_count": 47,
+        "listed_count": 0,
+        "created_at": "Tue Sep 03 22:54:40 +0000 2013",
+        "favourites_count": 701,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 502,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1414417629092188160/15D52TVs_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1414417629092188160/15D52TVs_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1726899487/1626013893",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "es"
+}

@@ -1,0 +1,348 @@
+{
+    "created_at": "Wed Jul 14 18:04:32 +0000 2021",
+    "id": 1415371649206169603,
+    "id_str": "1415371649206169603",
+    "full_text": "RT @CristinaSegui_: \u00bfC\u00f3mo califica @NadiaCalvino al r\u00e9gimen cubano: \"Creo que no es productivo calificar las cosas. Me parece que no aporta\u2026",
+    "truncated": false,
+    "display_text_range": [
+        0,
+        140
+    ],
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "CristinaSegui_",
+                "name": "Cristina Segu\u00ed",
+                "id": 87659574,
+                "id_str": "87659574",
+                "indices": [
+                    3,
+                    18
+                ]
+            },
+            {
+                "screen_name": "NadiaCalvino",
+                "name": "Nadia Calvi\u00f1o",
+                "id": 602263392,
+                "id_str": "602263392",
+                "indices": [
+                    35,
+                    48
+                ]
+            }
+        ],
+        "urls": []
+    },
+    "metadata": {
+        "iso_language_code": "es",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 606624104,
+        "id_str": "606624104",
+        "name": "DR HACKEMBUSH\ud83d\udcaf\ud83d\udc99\u2764\ufe0f\ud83d\udc9b\ud83e\udd87",
+        "screen_name": "Dr_Hackenbush",
+        "location": "Valencia",
+        "description": "Valenciano , Espa\u00f1ol y no soporto a las \ud83d\udc00\ud83d\udc00 pancas . \ud83d\udc99\u2764\ufe0f\ud83d\udc9b\ud83e\udd87\ud83d\udcaf",
+        "url": null,
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 9222,
+        "friends_count": 10117,
+        "listed_count": 19,
+        "created_at": "Tue Jun 12 20:43:40 +0000 2012",
+        "favourites_count": 55881,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 80012,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/719997032224698369/YQ8RoWnh_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/719997032224698369/YQ8RoWnh_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/606624104/1618697204",
+        "profile_link_color": "1B95E0",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+        "created_at": "Wed Jul 14 08:13:32 +0000 2021",
+        "id": 1415222922382397442,
+        "id_str": "1415222922382397442",
+        "full_text": "\u00bfC\u00f3mo califica @NadiaCalvino al r\u00e9gimen cubano: \"Creo que no es productivo calificar las cosas. Me parece que no aporta valor a\u00f1adido\"\n\nY dec\u00edais que \u00e9sta era la mejor de toda la mugre socialista. \u00bfQu\u00e9 no sabr\u00e1n los Castro de los indecentes de @Moncloa?\nhttps://t.co/jNhJQPNuxT",
+        "truncated": false,
+        "display_text_range": [
+            0,
+            277
+        ],
+        "entities": {
+            "hashtags": [],
+            "symbols": [],
+            "user_mentions": [
+                {
+                    "screen_name": "NadiaCalvino",
+                    "name": "Nadia Calvi\u00f1o",
+                    "id": 602263392,
+                    "id_str": "602263392",
+                    "indices": [
+                        15,
+                        28
+                    ]
+                },
+                {
+                    "screen_name": "Moncloa",
+                    "name": "Moncloa Noticias",
+                    "id": 326070700,
+                    "id_str": "326070700",
+                    "indices": [
+                        244,
+                        252
+                    ]
+                }
+            ],
+            "urls": [],
+            "media": [
+                {
+                    "id": 1415204053483626496,
+                    "id_str": "1415204053483626496",
+                    "indices": [
+                        254,
+                        277
+                    ],
+                    "media_url": "http://pbs.twimg.com/amplify_video_thumb/1415204053483626496/img/x8e6FjqZD95KVC7A.jpg",
+                    "media_url_https": "https://pbs.twimg.com/amplify_video_thumb/1415204053483626496/img/x8e6FjqZD95KVC7A.jpg",
+                    "url": "https://t.co/jNhJQPNuxT",
+                    "display_url": "pic.twitter.com/jNhJQPNuxT",
+                    "expanded_url": "https://twitter.com/HoyPorHoy/status/1415204243577966595/video/1",
+                    "type": "photo",
+                    "sizes": {
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "medium": {
+                            "w": 1200,
+                            "h": 675,
+                            "resize": "fit"
+                        },
+                        "small": {
+                            "w": 680,
+                            "h": 383,
+                            "resize": "fit"
+                        },
+                        "large": {
+                            "w": 1280,
+                            "h": 720,
+                            "resize": "fit"
+                        }
+                    },
+                    "source_status_id": 1415204243577966595,
+                    "source_status_id_str": "1415204243577966595",
+                    "source_user_id": 225887277,
+                    "source_user_id_str": "225887277"
+                }
+            ]
+        },
+        "extended_entities": {
+            "media": [
+                {
+                    "id": 1415204053483626496,
+                    "id_str": "1415204053483626496",
+                    "indices": [
+                        254,
+                        277
+                    ],
+                    "media_url": "http://pbs.twimg.com/amplify_video_thumb/1415204053483626496/img/x8e6FjqZD95KVC7A.jpg",
+                    "media_url_https": "https://pbs.twimg.com/amplify_video_thumb/1415204053483626496/img/x8e6FjqZD95KVC7A.jpg",
+                    "url": "https://t.co/jNhJQPNuxT",
+                    "display_url": "pic.twitter.com/jNhJQPNuxT",
+                    "expanded_url": "https://twitter.com/HoyPorHoy/status/1415204243577966595/video/1",
+                    "type": "video",
+                    "sizes": {
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "medium": {
+                            "w": 1200,
+                            "h": 675,
+                            "resize": "fit"
+                        },
+                        "small": {
+                            "w": 680,
+                            "h": 383,
+                            "resize": "fit"
+                        },
+                        "large": {
+                            "w": 1280,
+                            "h": 720,
+                            "resize": "fit"
+                        }
+                    },
+                    "source_status_id": 1415204243577966595,
+                    "source_status_id_str": "1415204243577966595",
+                    "source_user_id": 225887277,
+                    "source_user_id_str": "225887277",
+                    "video_info": {
+                        "aspect_ratio": [
+                            16,
+                            9
+                        ],
+                        "duration_millis": 34841,
+                        "variants": [
+                            {
+                                "bitrate": 2176000,
+                                "content_type": "video/mp4",
+                                "url": "https://video.twimg.com/amplify_video/1415204053483626496/vid/1280x720/skkCBN9qv2OZZFlN.mp4?tag=14"
+                            },
+                            {
+                                "bitrate": 288000,
+                                "content_type": "video/mp4",
+                                "url": "https://video.twimg.com/amplify_video/1415204053483626496/vid/480x270/t9IirVQtQNR9zOcZ.mp4?tag=14"
+                            },
+                            {
+                                "content_type": "application/x-mpegURL",
+                                "url": "https://video.twimg.com/amplify_video/1415204053483626496/pl/w3SkhYsY55BdsDcb.m3u8?tag=14"
+                            },
+                            {
+                                "bitrate": 832000,
+                                "content_type": "video/mp4",
+                                "url": "https://video.twimg.com/amplify_video/1415204053483626496/vid/640x360/AwGf78pPQMfeuYQn.mp4?tag=14"
+                            }
+                        ]
+                    },
+                    "additional_media_info": {
+                        "title": "",
+                        "description": "",
+                        "embeddable": true,
+                        "monetizable": false
+                    }
+                }
+            ]
+        },
+        "metadata": {
+            "iso_language_code": "es",
+            "result_type": "recent"
+        },
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 87659574,
+            "id_str": "87659574",
+            "name": "Cristina Segu\u00ed",
+            "screen_name": "CristinaSegui_",
+            "location": "Reino de Valencia",
+            "description": "Anticomunista. Antifeminista. @EstadoDAlarmaTV #CSEGU\u00cd. Autora de #LaMafiaFeminista de @BHLegens . Articulista en @DeDerechasC",
+            "url": "https://t.co/aen8L2dPa6",
+            "entities": {
+                "url": {
+                    "urls": [
+                        {
+                            "url": "https://t.co/aen8L2dPa6",
+                            "expanded_url": "https://homolegens.com/libro/la-mafia-feminista/",
+                            "display_url": "homolegens.com/libro/la-mafia\u2026",
+                            "indices": [
+                                0,
+                                23
+                            ]
+                        }
+                    ]
+                },
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 183658,
+            "friends_count": 1005,
+            "listed_count": 990,
+            "created_at": "Thu Nov 05 10:40:16 +0000 2009",
+            "favourites_count": 29530,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": true,
+            "verified": true,
+            "statuses_count": 111955,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "0A0A0A",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1383848716382064655/yDAXa4kk_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1383848716382064655/yDAXa4kk_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/87659574/1626127598",
+            "profile_link_color": "3B94D9",
+            "profile_sidebar_border_color": "FFFFFF",
+            "profile_sidebar_fill_color": "EFEFEF",
+            "profile_text_color": "333333",
+            "profile_use_background_image": false,
+            "has_extended_profile": true,
+            "default_profile": false,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "regular",
+            "withheld_in_countries": []
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 273,
+        "favorite_count": 630,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "es"
+    },
+    "is_quote_status": false,
+    "retweet_count": 273,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "es"
+}

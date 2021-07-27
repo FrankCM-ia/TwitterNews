@@ -1,0 +1,269 @@
+{
+    "created_at": "Fri Jul 16 02:56:32 +0000 2021",
+    "id": 1415867918600921089,
+    "id_str": "1415867918600921089",
+    "full_text": "RT @espartaco_saenz: Del video de @CarlosLoret #LordFarsante #LordMentiras INTITULADO \"AS\u00cd CHILLAN LAS RATAS\" https://t.co/sw3CgBb2rk",
+    "truncated": false,
+    "display_text_range": [
+        0,
+        133
+    ],
+    "entities": {
+        "hashtags": [
+            {
+                "text": "LordFarsante",
+                "indices": [
+                    47,
+                    60
+                ]
+            },
+            {
+                "text": "LordMentiras",
+                "indices": [
+                    61,
+                    74
+                ]
+            }
+        ],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "espartaco_saenz",
+                "name": "Manuel Espartaco L\u00f3pez S\u00e1enz #RedAMLO",
+                "id": 1081703586495635457,
+                "id_str": "1081703586495635457",
+                "indices": [
+                    3,
+                    19
+                ]
+            },
+            {
+                "screen_name": "CarlosLoret",
+                "name": "Carlos Loret de Mola",
+                "id": 68844197,
+                "id_str": "68844197",
+                "indices": [
+                    34,
+                    46
+                ]
+            }
+        ],
+        "urls": [
+            {
+                "url": "https://t.co/sw3CgBb2rk",
+                "expanded_url": "https://polemon.mx/loret-se-comporto-como-rata-acorralada-en-el-careo-laura-barranco/?utm_source=Notification&utm_medium=NotificacionPolemon&utm_campaign=PMLN",
+                "display_url": "polemon.mx/loret-se-compo\u2026",
+                "indices": [
+                    110,
+                    133
+                ]
+            }
+        ]
+    },
+    "metadata": {
+        "iso_language_code": "es",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 1077595540286627843,
+        "id_str": "1077595540286627843",
+        "name": "G1 (G1))=K1i (G1(n)",
+        "screen_name": "dm0PS6VKBhoM4Tm",
+        "location": "Malibu, CA",
+        "description": "Soccer Politics Latino Music NBA MLB History",
+        "url": null,
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 692,
+        "friends_count": 997,
+        "listed_count": 0,
+        "created_at": "Tue Dec 25 16:02:52 +0000 2018",
+        "favourites_count": 453,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 5140,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": null,
+        "profile_background_image_url_https": null,
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1255539470457171970/wNOlnsfQ_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1255539470457171970/wNOlnsfQ_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1077595540286627843/1588178960",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+        "created_at": "Wed Jul 14 00:47:41 +0000 2021",
+        "id": 1415110716869287939,
+        "id_str": "1415110716869287939",
+        "full_text": "Del video de @CarlosLoret #LordFarsante #LordMentiras INTITULADO \"AS\u00cd CHILLAN LAS RATAS\" https://t.co/sw3CgBb2rk",
+        "truncated": false,
+        "display_text_range": [
+            0,
+            112
+        ],
+        "entities": {
+            "hashtags": [
+                {
+                    "text": "LordFarsante",
+                    "indices": [
+                        26,
+                        39
+                    ]
+                },
+                {
+                    "text": "LordMentiras",
+                    "indices": [
+                        40,
+                        53
+                    ]
+                }
+            ],
+            "symbols": [],
+            "user_mentions": [
+                {
+                    "screen_name": "CarlosLoret",
+                    "name": "Carlos Loret de Mola",
+                    "id": 68844197,
+                    "id_str": "68844197",
+                    "indices": [
+                        13,
+                        25
+                    ]
+                }
+            ],
+            "urls": [
+                {
+                    "url": "https://t.co/sw3CgBb2rk",
+                    "expanded_url": "https://polemon.mx/loret-se-comporto-como-rata-acorralada-en-el-careo-laura-barranco/?utm_source=Notification&utm_medium=NotificacionPolemon&utm_campaign=PMLN",
+                    "display_url": "polemon.mx/loret-se-compo\u2026",
+                    "indices": [
+                        89,
+                        112
+                    ]
+                }
+            ]
+        },
+        "metadata": {
+            "iso_language_code": "es",
+            "result_type": "recent"
+        },
+        "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 1081703586495635457,
+            "id_str": "1081703586495635457",
+            "name": "Manuel Espartaco L\u00f3pez S\u00e1enz #RedAMLO",
+            "screen_name": "espartaco_saenz",
+            "location": "CDMX",
+            "description": "Comprometido con la construcci\u00f3n de un M\u00e9xico para TODOS. Psic\u00f3logo (UAM-X) Maestro en Educaci\u00f3n (IEU) Doctor en Ciencias Sociales (UAGRO) \u00a1S\u00cdGUEME Y TE SIGO!",
+            "url": "https://t.co/kumjEkdKu0",
+            "entities": {
+                "url": {
+                    "urls": [
+                        {
+                            "url": "https://t.co/kumjEkdKu0",
+                            "expanded_url": "https://www.youtube.com/channel/UC92AEkrwvyGTDTrLC2RYH0w",
+                            "display_url": "youtube.com/channel/UC92AE\u2026",
+                            "indices": [
+                                0,
+                                23
+                            ]
+                        }
+                    ]
+                },
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 2194,
+            "friends_count": 2414,
+            "listed_count": 1,
+            "created_at": "Sun Jan 06 00:06:46 +0000 2019",
+            "favourites_count": 6579,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": false,
+            "verified": false,
+            "statuses_count": 8378,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "F5F8FA",
+            "profile_background_image_url": null,
+            "profile_background_image_url_https": null,
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1411489971622400006/uy3sfhs8_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1411489971622400006/uy3sfhs8_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/1081703586495635457/1604723728",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "has_extended_profile": true,
+            "default_profile": true,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none",
+            "withheld_in_countries": []
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 51,
+        "favorite_count": 63,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "es"
+    },
+    "is_quote_status": false,
+    "retweet_count": 51,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "es"
+}

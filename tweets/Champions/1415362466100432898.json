@@ -1,0 +1,136 @@
+{
+    "created_at": "Wed Jul 14 17:28:02 +0000 2021",
+    "id": 1415362466100432898,
+    "id_str": "1415362466100432898",
+    "full_text": "@GXdcimokintavez @ByStreett @PabloWayne6 @elchiringuitotv @PSG_inside Imagino que si en su dia te hubieran lesionado a Cristiano en alguna final de Champions lo hubieras \"relativizado\" de la misma manera. \"Bah, no pasa nada, igual ahora metemos 5\"... JUUUUASSSSSSSS",
+    "truncated": false,
+    "display_text_range": [
+        70,
+        265
+    ],
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "GXdcimokintavez",
+                "name": "M.G.D.",
+                "id": 124447097,
+                "id_str": "124447097",
+                "indices": [
+                    0,
+                    16
+                ]
+            },
+            {
+                "screen_name": "ByStreett",
+                "name": "AlvaroCalafat",
+                "id": 880125796903510016,
+                "id_str": "880125796903510016",
+                "indices": [
+                    17,
+                    27
+                ]
+            },
+            {
+                "screen_name": "PabloWayne6",
+                "name": "Doctor Incisivo",
+                "id": 2849496411,
+                "id_str": "2849496411",
+                "indices": [
+                    28,
+                    40
+                ]
+            },
+            {
+                "screen_name": "elchiringuitotv",
+                "name": "El Chiringuito TV",
+                "id": 18905975,
+                "id_str": "18905975",
+                "indices": [
+                    41,
+                    57
+                ]
+            },
+            {
+                "screen_name": "PSG_inside",
+                "name": "Paris Saint-Germain",
+                "id": 38164846,
+                "id_str": "38164846",
+                "indices": [
+                    58,
+                    69
+                ]
+            }
+        ],
+        "urls": []
+    },
+    "metadata": {
+        "iso_language_code": "es",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "in_reply_to_status_id": 1415323294438412288,
+    "in_reply_to_status_id_str": "1415323294438412288",
+    "in_reply_to_user_id": 124447097,
+    "in_reply_to_user_id_str": "124447097",
+    "in_reply_to_screen_name": "GXdcimokintavez",
+    "user": {
+        "id": 1313923246824345602,
+        "id_str": "1313923246824345602",
+        "name": "\u00a2\u0e04kkt\u0e19\u015e",
+        "screen_name": "ccakktus",
+        "location": "",
+        "description": "Lliure de pensament. Lliure per lluitar per un m\u00f3n millor.",
+        "url": null,
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 19,
+        "friends_count": 10,
+        "listed_count": 0,
+        "created_at": "Wed Oct 07 19:24:56 +0000 2020",
+        "favourites_count": 6806,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 8477,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": null,
+        "profile_background_image_url_https": null,
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1313924391617650688/yozPh9lC_normal.png",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1313924391617650688/yozPh9lC_normal.png",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": true,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "es"
+}

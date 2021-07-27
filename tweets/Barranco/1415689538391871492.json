@@ -1,0 +1,188 @@
+{
+    "created_at": "Thu Jul 15 15:07:42 +0000 2021",
+    "id": 1415689538391871492,
+    "id_str": "1415689538391871492",
+    "full_text": "Dos mujeres que se columpiaban caen a barranco y salen ilesas - https://t.co/bWVo18H1cU https://t.co/KmdHvI2OU9",
+    "truncated": false,
+    "display_text_range": [
+        0,
+        87
+    ],
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+            {
+                "url": "https://t.co/bWVo18H1cU",
+                "expanded_url": "https://canal44.com/internacional/dos-mujeres-que-se-columpiaban-caen-a-barranco-y-salen-ilesas/",
+                "display_url": "canal44.com/internacional/\u2026",
+                "indices": [
+                    64,
+                    87
+                ]
+            }
+        ],
+        "media": [
+            {
+                "id": 1415689536936370177,
+                "id_str": "1415689536936370177",
+                "indices": [
+                    88,
+                    111
+                ],
+                "media_url": "http://pbs.twimg.com/media/E6WKIhlUYAEbCKK.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/E6WKIhlUYAEbCKK.jpg",
+                "url": "https://t.co/KmdHvI2OU9",
+                "display_url": "pic.twitter.com/KmdHvI2OU9",
+                "expanded_url": "https://twitter.com/canal_44/status/1415689538391871492/photo/1",
+                "type": "photo",
+                "sizes": {
+                    "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                    },
+                    "medium": {
+                        "w": 1024,
+                        "h": 576,
+                        "resize": "fit"
+                    },
+                    "small": {
+                        "w": 680,
+                        "h": 383,
+                        "resize": "fit"
+                    },
+                    "large": {
+                        "w": 1024,
+                        "h": 576,
+                        "resize": "fit"
+                    }
+                }
+            }
+        ]
+    },
+    "extended_entities": {
+        "media": [
+            {
+                "id": 1415689536936370177,
+                "id_str": "1415689536936370177",
+                "indices": [
+                    88,
+                    111
+                ],
+                "media_url": "http://pbs.twimg.com/media/E6WKIhlUYAEbCKK.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/E6WKIhlUYAEbCKK.jpg",
+                "url": "https://t.co/KmdHvI2OU9",
+                "display_url": "pic.twitter.com/KmdHvI2OU9",
+                "expanded_url": "https://twitter.com/canal_44/status/1415689538391871492/photo/1",
+                "type": "photo",
+                "sizes": {
+                    "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                    },
+                    "medium": {
+                        "w": 1024,
+                        "h": 576,
+                        "resize": "fit"
+                    },
+                    "small": {
+                        "w": 680,
+                        "h": 383,
+                        "resize": "fit"
+                    },
+                    "large": {
+                        "w": 1024,
+                        "h": 576,
+                        "resize": "fit"
+                    }
+                }
+            }
+        ]
+    },
+    "metadata": {
+        "iso_language_code": "es",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"http://canal44.com\" rel=\"nofollow\">Canal_44</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 57385969,
+        "id_str": "57385969",
+        "name": "canal44",
+        "screen_name": "canal_44",
+        "location": "",
+        "description": "",
+        "url": "https://t.co/g3Q5vdm9zz",
+        "entities": {
+            "url": {
+                "urls": [
+                    {
+                        "url": "https://t.co/g3Q5vdm9zz",
+                        "expanded_url": "http://www.canal44.com",
+                        "display_url": "canal44.com",
+                        "indices": [
+                            0,
+                            23
+                        ]
+                    }
+                ]
+            },
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 11242,
+        "friends_count": 7,
+        "listed_count": 184,
+        "created_at": "Thu Jul 16 17:11:29 +0000 2009",
+        "favourites_count": 208,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 430318,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "131516",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+        "profile_background_tile": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1397600168443367428/9XFIZSyN_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1397600168443367428/9XFIZSyN_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/57385969/1622048877",
+        "profile_link_color": "009999",
+        "profile_sidebar_border_color": "EEEEEE",
+        "profile_sidebar_fill_color": "EFEFEF",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "es"
+}

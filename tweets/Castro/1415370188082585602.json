@@ -1,0 +1,97 @@
+{
+    "created_at": "Wed Jul 14 17:58:43 +0000 2021",
+    "id": 1415370188082585602,
+    "id_str": "1415370188082585602",
+    "full_text": "@ngeldelcielo12 El Bloqueo Econ\u00f3mico Que Es En Realidad\nUn Embargo Contra Las Medidas De Castro.",
+    "truncated": false,
+    "display_text_range": [
+        16,
+        96
+    ],
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "ngeldelcielo12",
+                "name": "\ud83d\udc8eAli\ud83d\udc8e\ud83d\ude07\u2b50Adamor \u2b50\ud83d\ude07",
+                "id": 1153733500819976195,
+                "id_str": "1153733500819976195",
+                "indices": [
+                    0,
+                    15
+                ]
+            }
+        ],
+        "urls": []
+    },
+    "metadata": {
+        "iso_language_code": "es",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "in_reply_to_status_id": 1415347161605316616,
+    "in_reply_to_status_id_str": "1415347161605316616",
+    "in_reply_to_user_id": 1153733500819976195,
+    "in_reply_to_user_id_str": "1153733500819976195",
+    "in_reply_to_screen_name": "ngeldelcielo12",
+    "user": {
+        "id": 1292613688076230656,
+        "id_str": "1292613688076230656",
+        "name": "\u05d2'\u05d5\u05e0\u05ea\u05df S\u00c1NCHEZ",
+        "screen_name": "JONATHA83425585",
+        "location": "",
+        "description": "\ud83c\uddee\ud83c\uddf1\ud83c\uddf2\ud83c\uddfd\u271d\ufe0f HOLA Soy Jonathan S\u00e1nchez\nSoy Administrador de Empresa de seguridad privada, Activista social por los Derechos de los Animales Pro Frenaaa \ud83c\uddf2\ud83c\uddfd\ud83c\uddf2\ud83c\uddfd\ud83c\uddf2",
+        "url": null,
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 1004,
+        "friends_count": 5001,
+        "listed_count": 1,
+        "created_at": "Mon Aug 10 00:09:33 +0000 2020",
+        "favourites_count": 17239,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 11502,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": null,
+        "profile_background_image_url_https": null,
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1292617254983675905/yYYbRWFm_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1292617254983675905/yYYbRWFm_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1292613688076230656/1605242562",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": true,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "es"
+}

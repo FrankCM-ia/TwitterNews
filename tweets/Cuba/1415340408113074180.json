@@ -1,0 +1,305 @@
+{
+    "created_at": "Wed Jul 14 16:00:23 +0000 2021",
+    "id": 1415340408113074180,
+    "id_str": "1415340408113074180",
+    "full_text": "RT @CUBADECIDE: [#Actualizaci\u00f3n] Al menos 219 personas han sido detenidas y/o se encuentran desaparecidas en Cuba\n\n#SOSCuba\n\ud83d\udc47 https://t.co/\u2026",
+    "truncated": false,
+    "display_text_range": [
+        0,
+        140
+    ],
+    "entities": {
+        "hashtags": [
+            {
+                "text": "Actualizaci\u00f3n",
+                "indices": [
+                    17,
+                    31
+                ]
+            },
+            {
+                "text": "SOSCuba",
+                "indices": [
+                    115,
+                    123
+                ]
+            }
+        ],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "CUBADECIDE",
+                "name": "CUBADECIDE",
+                "id": 3130928453,
+                "id_str": "3130928453",
+                "indices": [
+                    3,
+                    14
+                ]
+            }
+        ],
+        "urls": []
+    },
+    "metadata": {
+        "iso_language_code": "es",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 4279862494,
+        "id_str": "4279862494",
+        "name": "griselmedina",
+        "screen_name": "griselmedinam",
+        "location": "",
+        "description": "",
+        "url": null,
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 7,
+        "friends_count": 29,
+        "listed_count": 0,
+        "created_at": "Thu Nov 26 00:26:28 +0000 2015",
+        "favourites_count": 14,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 37,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/718496037036519424/yZ3eDPGx_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/718496037036519424/yZ3eDPGx_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/4279862494/1460137774",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+        "created_at": "Tue Jul 13 20:18:10 +0000 2021",
+        "id": 1415042893526491141,
+        "id_str": "1415042893526491141",
+        "full_text": "[#Actualizaci\u00f3n] Al menos 219 personas han sido detenidas y/o se encuentran desaparecidas en Cuba\n\n#SOSCuba\n\ud83d\udc47 https://t.co/BIZkep6L8G",
+        "truncated": false,
+        "display_text_range": [
+            0,
+            109
+        ],
+        "entities": {
+            "hashtags": [
+                {
+                    "text": "Actualizaci\u00f3n",
+                    "indices": [
+                        1,
+                        15
+                    ]
+                },
+                {
+                    "text": "SOSCuba",
+                    "indices": [
+                        99,
+                        107
+                    ]
+                }
+            ],
+            "symbols": [],
+            "user_mentions": [],
+            "urls": [],
+            "media": [
+                {
+                    "id": 1415042891081261056,
+                    "id_str": "1415042891081261056",
+                    "indices": [
+                        110,
+                        133
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/E6M-AyDXIAAaY-d.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/E6M-AyDXIAAaY-d.jpg",
+                    "url": "https://t.co/BIZkep6L8G",
+                    "display_url": "pic.twitter.com/BIZkep6L8G",
+                    "expanded_url": "https://twitter.com/CUBADECIDE/status/1415042893526491141/photo/1",
+                    "type": "photo",
+                    "sizes": {
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "medium": {
+                            "w": 1080,
+                            "h": 1080,
+                            "resize": "fit"
+                        },
+                        "large": {
+                            "w": 1080,
+                            "h": 1080,
+                            "resize": "fit"
+                        },
+                        "small": {
+                            "w": 680,
+                            "h": 680,
+                            "resize": "fit"
+                        }
+                    }
+                }
+            ]
+        },
+        "extended_entities": {
+            "media": [
+                {
+                    "id": 1415042891081261056,
+                    "id_str": "1415042891081261056",
+                    "indices": [
+                        110,
+                        133
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/E6M-AyDXIAAaY-d.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/E6M-AyDXIAAaY-d.jpg",
+                    "url": "https://t.co/BIZkep6L8G",
+                    "display_url": "pic.twitter.com/BIZkep6L8G",
+                    "expanded_url": "https://twitter.com/CUBADECIDE/status/1415042893526491141/photo/1",
+                    "type": "photo",
+                    "sizes": {
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "medium": {
+                            "w": 1080,
+                            "h": 1080,
+                            "resize": "fit"
+                        },
+                        "large": {
+                            "w": 1080,
+                            "h": 1080,
+                            "resize": "fit"
+                        },
+                        "small": {
+                            "w": 680,
+                            "h": 680,
+                            "resize": "fit"
+                        }
+                    }
+                }
+            ]
+        },
+        "metadata": {
+            "iso_language_code": "es",
+            "result_type": "recent"
+        },
+        "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 3130928453,
+            "id_str": "3130928453",
+            "name": "CUBADECIDE",
+            "screen_name": "CUBADECIDE",
+            "location": "",
+            "description": "Iniciativa ciudadana",
+            "url": "http://t.co/ZjVhlVsqR9",
+            "entities": {
+                "url": {
+                    "urls": [
+                        {
+                            "url": "http://t.co/ZjVhlVsqR9",
+                            "expanded_url": "http://www.cubadecide.org",
+                            "display_url": "cubadecide.org",
+                            "indices": [
+                                0,
+                                22
+                            ]
+                        }
+                    ]
+                },
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 22402,
+            "friends_count": 6644,
+            "listed_count": 127,
+            "created_at": "Wed Apr 01 00:36:41 +0000 2015",
+            "favourites_count": 22284,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": true,
+            "verified": true,
+            "statuses_count": 25773,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "9AE4E8",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme16/bg.gif",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme16/bg.gif",
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1106270159617122304/vqiiP-ex_normal.png",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1106270159617122304/vqiiP-ex_normal.png",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/3130928453/1431348655",
+            "profile_link_color": "0084B4",
+            "profile_sidebar_border_color": "BDDCAD",
+            "profile_sidebar_fill_color": "DDFFCC",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "has_extended_profile": false,
+            "default_profile": false,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none",
+            "withheld_in_countries": []
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 306,
+        "favorite_count": 209,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "es"
+    },
+    "is_quote_status": false,
+    "retweet_count": 306,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "es"
+}

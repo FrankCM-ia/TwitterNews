@@ -1,0 +1,126 @@
+{
+    "created_at": "Wed Jul 14 17:55:46 +0000 2021",
+    "id": 1415369445065777152,
+    "id_str": "1415369445065777152",
+    "full_text": "@Csanchezberzain @AngelRCuba @mbachelet @mbachelet es c\u00f3mplice por callar por las muertes de cubanos inocentes a manos de la dictadura Castro-Canel.",
+    "truncated": false,
+    "display_text_range": [
+        40,
+        148
+    ],
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "Csanchezberzain",
+                "name": "CarlosSanchezBerzain",
+                "id": 3073682337,
+                "id_str": "3073682337",
+                "indices": [
+                    0,
+                    16
+                ]
+            },
+            {
+                "screen_name": "AngelRCuba",
+                "name": "Angel Rivas",
+                "id": 1000513106336985095,
+                "id_str": "1000513106336985095",
+                "indices": [
+                    17,
+                    28
+                ]
+            },
+            {
+                "screen_name": "mbachelet",
+                "name": "Michelle Bachelet",
+                "id": 4119914644,
+                "id_str": "4119914644",
+                "indices": [
+                    29,
+                    39
+                ]
+            },
+            {
+                "screen_name": "mbachelet",
+                "name": "Michelle Bachelet",
+                "id": 4119914644,
+                "id_str": "4119914644",
+                "indices": [
+                    40,
+                    50
+                ]
+            }
+        ],
+        "urls": []
+    },
+    "metadata": {
+        "iso_language_code": "es",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "in_reply_to_status_id": 1415322125989187587,
+    "in_reply_to_status_id_str": "1415322125989187587",
+    "in_reply_to_user_id": 3073682337,
+    "in_reply_to_user_id_str": "3073682337",
+    "in_reply_to_screen_name": "Csanchezberzain",
+    "user": {
+        "id": 801867272,
+        "id_str": "801867272",
+        "name": "Hector  HC",
+        "screen_name": "hcarvajal1",
+        "location": "Georgia, USA",
+        "description": "Libertad para Cuba",
+        "url": null,
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 123,
+        "friends_count": 109,
+        "listed_count": 0,
+        "created_at": "Tue Sep 04 05:40:54 +0000 2012",
+        "favourites_count": 11368,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 9079,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1413356833264345090/_a2KG5y1_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1413356833264345090/_a2KG5y1_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "es"
+}

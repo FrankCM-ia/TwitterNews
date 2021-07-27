@@ -1,0 +1,196 @@
+{
+    "created_at": "Wed Jul 14 17:54:04 +0000 2021",
+    "id": 1415369014772211717,
+    "id_str": "1415369014772211717",
+    "full_text": "RT @alberlopezfrau: Vicente del Bosque apagaba la luz de la Ciudad Deportiva e iba a buscar los balones que se perd\u00edan. Como entrenador del\u2026",
+    "truncated": false,
+    "display_text_range": [
+        0,
+        140
+    ],
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "alberlopezfrau",
+                "name": "Alberto L\u00f3pez Frau",
+                "id": 183249040,
+                "id_str": "183249040",
+                "indices": [
+                    3,
+                    18
+                ]
+            }
+        ],
+        "urls": []
+    },
+    "metadata": {
+        "iso_language_code": "es",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 2490902885,
+        "id_str": "2490902885",
+        "name": "Alfonso Buitrago",
+        "screen_name": "julitri14",
+        "location": "Oviedo, Espa\u00f1a",
+        "description": "",
+        "url": null,
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 420,
+        "friends_count": 5001,
+        "listed_count": 31,
+        "created_at": "Fri Apr 18 00:06:55 +0000 2014",
+        "favourites_count": 106,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 163627,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/457202938348597248/gKQodAJN_normal.jpeg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/457202938348597248/gKQodAJN_normal.jpeg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2490902885/1397840650",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": true,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+        "created_at": "Wed Jul 14 13:59:50 +0000 2021",
+        "id": 1415310071089795075,
+        "id_str": "1415310071089795075",
+        "full_text": "Vicente del Bosque apagaba la luz de la Ciudad Deportiva e iba a buscar los balones que se perd\u00edan. Como entrenador del Real Madrid gan\u00f3 2 Ligas, 2 Champions, 1 Intercontinental, 1 Supercopa de Espa\u00f1a y 1 de Europa en 3 a\u00f1os y medio. Y una representaci\u00f3n impecable del club.",
+        "truncated": false,
+        "display_text_range": [
+            0,
+            274
+        ],
+        "entities": {
+            "hashtags": [],
+            "symbols": [],
+            "user_mentions": [],
+            "urls": []
+        },
+        "metadata": {
+            "iso_language_code": "es",
+            "result_type": "recent"
+        },
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 183249040,
+            "id_str": "183249040",
+            "name": "Alberto L\u00f3pez Frau",
+            "screen_name": "alberlopezfrau",
+            "location": "Madrid",
+            "description": "Periodista. Comentarista en @RadioMarca. En tele en @movistarplus y @EstadioTVE. Escrib\u00ed en @TheTacticalRoom. @SpheraSports. Email: alber_frau78@hotmail.com",
+            "url": "https://t.co/SjQfDOvQ26",
+            "entities": {
+                "url": {
+                    "urls": [
+                        {
+                            "url": "https://t.co/SjQfDOvQ26",
+                            "expanded_url": "http://www.campeon.tv",
+                            "display_url": "campeon.tv",
+                            "indices": [
+                                0,
+                                23
+                            ]
+                        }
+                    ]
+                },
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 14250,
+            "friends_count": 1106,
+            "listed_count": 372,
+            "created_at": "Thu Aug 26 14:54:10 +0000 2010",
+            "favourites_count": 9781,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": true,
+            "verified": false,
+            "statuses_count": 88154,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "022330",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1296932789099606018/VCB1w29N_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1296932789099606018/VCB1w29N_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/183249040/1606642582",
+            "profile_link_color": "1B95E0",
+            "profile_sidebar_border_color": "A8C7F7",
+            "profile_sidebar_fill_color": "C0DFEC",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "has_extended_profile": true,
+            "default_profile": false,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none",
+            "withheld_in_countries": []
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 33,
+        "favorite_count": 153,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "es"
+    },
+    "is_quote_status": false,
+    "retweet_count": 33,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "es"
+}

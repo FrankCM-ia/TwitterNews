@@ -1,0 +1,188 @@
+{
+    "created_at": "Wed Jul 14 18:00:29 +0000 2021",
+    "id": 1415370630594187268,
+    "id_str": "1415370630594187268",
+    "full_text": "Jan Castro se posicion\u00f3 s\u00f3lidamente en la categor\u00eda \"Video Essay\". | Estudiante de la UPR Arecibo gana un premio Emmy - NotiCentro https://t.co/kQY8pcx725 https://t.co/3hZVaukxYg",
+    "truncated": false,
+    "display_text_range": [
+        0,
+        154
+    ],
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+            {
+                "url": "https://t.co/kQY8pcx725",
+                "expanded_url": "https://buff.ly/2U918re",
+                "display_url": "buff.ly/2U918re",
+                "indices": [
+                    131,
+                    154
+                ]
+            }
+        ],
+        "media": [
+            {
+                "id": 1415370627159138305,
+                "id_str": "1415370627159138305",
+                "indices": [
+                    155,
+                    178
+                ],
+                "media_url": "http://pbs.twimg.com/media/E6RoFiFXoAEIXRN.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/E6RoFiFXoAEIXRN.jpg",
+                "url": "https://t.co/3hZVaukxYg",
+                "display_url": "pic.twitter.com/3hZVaukxYg",
+                "expanded_url": "https://twitter.com/QuePasaBoricua/status/1415370630594187268/photo/1",
+                "type": "photo",
+                "sizes": {
+                    "small": {
+                        "w": 680,
+                        "h": 357,
+                        "resize": "fit"
+                    },
+                    "large": {
+                        "w": 1200,
+                        "h": 630,
+                        "resize": "fit"
+                    },
+                    "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                    },
+                    "medium": {
+                        "w": 1200,
+                        "h": 630,
+                        "resize": "fit"
+                    }
+                }
+            }
+        ]
+    },
+    "extended_entities": {
+        "media": [
+            {
+                "id": 1415370627159138305,
+                "id_str": "1415370627159138305",
+                "indices": [
+                    155,
+                    178
+                ],
+                "media_url": "http://pbs.twimg.com/media/E6RoFiFXoAEIXRN.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/E6RoFiFXoAEIXRN.jpg",
+                "url": "https://t.co/3hZVaukxYg",
+                "display_url": "pic.twitter.com/3hZVaukxYg",
+                "expanded_url": "https://twitter.com/QuePasaBoricua/status/1415370630594187268/photo/1",
+                "type": "photo",
+                "sizes": {
+                    "small": {
+                        "w": 680,
+                        "h": 357,
+                        "resize": "fit"
+                    },
+                    "large": {
+                        "w": 1200,
+                        "h": 630,
+                        "resize": "fit"
+                    },
+                    "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                    },
+                    "medium": {
+                        "w": 1200,
+                        "h": 630,
+                        "resize": "fit"
+                    }
+                }
+            }
+        ]
+    },
+    "metadata": {
+        "iso_language_code": "es",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"https://buffer.com\" rel=\"nofollow\">Buffer</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 745310343719641089,
+        "id_str": "745310343719641089",
+        "name": "Que Pasa Boricua",
+        "screen_name": "QuePasaBoricua",
+        "location": "Puerto Rico",
+        "description": "Una Red Social Netamente Puertorrique\u00f1a",
+        "url": "https://t.co/k2Qwb7BDDk",
+        "entities": {
+            "url": {
+                "urls": [
+                    {
+                        "url": "https://t.co/k2Qwb7BDDk",
+                        "expanded_url": "http://QuePasaBoricua.com",
+                        "display_url": "QuePasaBoricua.com",
+                        "indices": [
+                            0,
+                            23
+                        ]
+                    }
+                ]
+            },
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 316,
+        "friends_count": 628,
+        "listed_count": 5,
+        "created_at": "Tue Jun 21 17:40:07 +0000 2016",
+        "favourites_count": 92,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 7804,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1343935693840637952/aBwkdzKX_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1343935693840637952/aBwkdzKX_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/745310343719641089/1515375005",
+        "profile_link_color": "E81C4F",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "profile_use_background_image": false,
+        "has_extended_profile": true,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "es"
+}

@@ -1,0 +1,199 @@
+{
+    "created_at": "Wed Jul 14 16:00:34 +0000 2021",
+    "id": 1415340452660842503,
+    "id_str": "1415340452660842503",
+    "full_text": "RT @AlejandroCambr_: Lo que est\u00e1 pasando en #Cuba es importante para TODOS.",
+    "truncated": false,
+    "display_text_range": [
+        0,
+        75
+    ],
+    "entities": {
+        "hashtags": [
+            {
+                "text": "Cuba",
+                "indices": [
+                    44,
+                    49
+                ]
+            }
+        ],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "AlejandroCambr_",
+                "name": "AIejandro Pulgar C.",
+                "id": 74283474,
+                "id_str": "74283474",
+                "indices": [
+                    3,
+                    19
+                ]
+            }
+        ],
+        "urls": []
+    },
+    "metadata": {
+        "iso_language_code": "es",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 230098826,
+        "id_str": "230098826",
+        "name": "Valeria #Resistencia",
+        "screen_name": "ValeriaStar28",
+        "location": "Venezuela",
+        "description": "Vibra en positivo!! luchando SIEMPRE por cada sue\u00f1o.. Mi punto de vista es mio!! //Deportista de cuando en cuando // Amante de VENEZUELA\u2665",
+        "url": null,
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 465,
+        "friends_count": 486,
+        "listed_count": 2,
+        "created_at": "Fri Dec 24 07:53:35 +0000 2010",
+        "favourites_count": 15979,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 25539,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "3AB5F2",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+        "profile_background_tile": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1381393578363064320/O4wpLrhf_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1381393578363064320/O4wpLrhf_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/230098826/1450028158",
+        "profile_link_color": "B851DB",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "4E4085",
+        "profile_text_color": "E368E3",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+        "created_at": "Wed Jul 14 01:17:48 +0000 2021",
+        "id": 1415118298656743429,
+        "id_str": "1415118298656743429",
+        "full_text": "Lo que est\u00e1 pasando en #Cuba es importante para TODOS.",
+        "truncated": false,
+        "display_text_range": [
+            0,
+            54
+        ],
+        "entities": {
+            "hashtags": [
+                {
+                    "text": "Cuba",
+                    "indices": [
+                        23,
+                        28
+                    ]
+                }
+            ],
+            "symbols": [],
+            "user_mentions": [],
+            "urls": []
+        },
+        "metadata": {
+            "iso_language_code": "es",
+            "result_type": "recent"
+        },
+        "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 74283474,
+            "id_str": "74283474",
+            "name": "AIejandro Pulgar C.",
+            "screen_name": "AlejandroCambr_",
+            "location": "",
+            "description": "Libre mercado. Derecha. Conservador. Propiedad privada. Leg\u00edtima defensa. Rep\u00fablica.",
+            "url": null,
+            "entities": {
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 8947,
+            "friends_count": 7040,
+            "listed_count": 21,
+            "created_at": "Mon Sep 14 22:23:26 +0000 2009",
+            "favourites_count": 153357,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": true,
+            "verified": false,
+            "statuses_count": 90498,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "C0DEED",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": true,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1260079150116765697/JFlSPB88_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1260079150116765697/JFlSPB88_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/74283474/1615953719",
+            "profile_link_color": "0084B4",
+            "profile_sidebar_border_color": "FFFFFF",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "has_extended_profile": true,
+            "default_profile": false,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none",
+            "withheld_in_countries": []
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 107,
+        "favorite_count": 355,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "es"
+    },
+    "is_quote_status": false,
+    "retweet_count": 107,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "es"
+}

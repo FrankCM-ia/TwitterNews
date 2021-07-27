@@ -1,0 +1,209 @@
+{
+    "created_at": "Thu Jul 15 03:50:17 +0000 2021",
+    "id": 1415519060880760835,
+    "id_str": "1415519060880760835",
+    "full_text": "RT @maky_vegaa: m\u00e1rcame a ti si te contesto",
+    "truncated": false,
+    "display_text_range": [
+        0,
+        43
+    ],
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "maky_vegaa",
+                "name": "suchavirgoo",
+                "id": 1310449225117954049,
+                "id_str": "1310449225117954049",
+                "indices": [
+                    3,
+                    14
+                ]
+            }
+        ],
+        "urls": []
+    },
+    "metadata": {
+        "iso_language_code": "es",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 608745192,
+        "id_str": "608745192",
+        "name": "Ale\ud83e\udd8b",
+        "screen_name": "Camila_Barranco",
+        "location": "",
+        "description": "R\ud83e\udd0d",
+        "url": "https://t.co/ktB5n4Wboy",
+        "entities": {
+            "url": {
+                "urls": [
+                    {
+                        "url": "https://t.co/ktB5n4Wboy",
+                        "expanded_url": "http://vsco.co/camilabarranco",
+                        "display_url": "vsco.co/camilabarranco",
+                        "indices": [
+                            0,
+                            23
+                        ]
+                    }
+                ]
+            },
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 303,
+        "friends_count": 341,
+        "listed_count": 0,
+        "created_at": "Fri Jun 15 01:28:07 +0000 2012",
+        "favourites_count": 5967,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 25866,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "084C70",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1362934386560094208/xpoUjCR9_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1362934386560094208/xpoUjCR9_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/608745192/1500618692",
+        "profile_link_color": "8E09DB",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": true,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "regular",
+        "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+        "created_at": "Tue Jul 13 19:07:58 +0000 2021",
+        "id": 1415025226740555781,
+        "id_str": "1415025226740555781",
+        "full_text": "m\u00e1rcame a ti si te contesto",
+        "truncated": false,
+        "display_text_range": [
+            0,
+            27
+        ],
+        "entities": {
+            "hashtags": [],
+            "symbols": [],
+            "user_mentions": [],
+            "urls": []
+        },
+        "metadata": {
+            "iso_language_code": "es",
+            "result_type": "recent"
+        },
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 1310449225117954049,
+            "id_str": "1310449225117954049",
+            "name": "suchavirgoo",
+            "screen_name": "maky_vegaa",
+            "location": "",
+            "description": "@skinnyflakk | she/they \ud83d\udc9c\ud83d\udc9a",
+            "url": "https://t.co/j69qh21vlh",
+            "entities": {
+                "url": {
+                    "urls": [
+                        {
+                            "url": "https://t.co/j69qh21vlh",
+                            "expanded_url": "https://instagram.com/maky_vegaa?r=nametag",
+                            "display_url": "instagram.com/maky_vegaa?r=n\u2026",
+                            "indices": [
+                                0,
+                                23
+                            ]
+                        }
+                    ]
+                },
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 3429,
+            "friends_count": 1536,
+            "listed_count": 3,
+            "created_at": "Mon Sep 28 05:20:28 +0000 2020",
+            "favourites_count": 45540,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": false,
+            "verified": false,
+            "statuses_count": 20064,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "F5F8FA",
+            "profile_background_image_url": null,
+            "profile_background_image_url_https": null,
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1413379832084377601/9J0NH2wd_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1413379832084377601/9J0NH2wd_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/1310449225117954049/1625004748",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "has_extended_profile": true,
+            "default_profile": true,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none",
+            "withheld_in_countries": []
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 3705,
+        "favorite_count": 9404,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "es"
+    },
+    "is_quote_status": false,
+    "retweet_count": 3705,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "es"
+}

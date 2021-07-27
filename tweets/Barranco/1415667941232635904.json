@@ -1,0 +1,203 @@
+{
+    "created_at": "Thu Jul 15 13:41:53 +0000 2021",
+    "id": 1415667941232635904,
+    "id_str": "1415667941232635904",
+    "full_text": "RT @jagnecka: @zebravoyager He tenido la posibilidad de ver todas las sesiones de la constituyente, por ende las intervenciones de toda(o)s\u2026",
+    "truncated": false,
+    "display_text_range": [
+        0,
+        140
+    ],
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "jagnecka",
+                "name": "Gerardo \u0141ukaszewski",
+                "id": 1210379118262530049,
+                "id_str": "1210379118262530049",
+                "indices": [
+                    3,
+                    12
+                ]
+            },
+            {
+                "screen_name": "zebravoyager",
+                "name": "Zebrita \ud83d\ude4f\ud83d\ude0e\ud83d\udeb4\u200d\u2640\ufe0f\ud83d\udc31\u2708\ud83c\udfd6\ud83c\udf1e\u2764\ud83d\udc9a",
+                "id": 92560633,
+                "id_str": "92560633",
+                "indices": [
+                    14,
+                    27
+                ]
+            }
+        ],
+        "urls": []
+    },
+    "metadata": {
+        "iso_language_code": "es",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 3035219363,
+        "id_str": "3035219363",
+        "name": "Gladys",
+        "screen_name": "GladysbrandP",
+        "location": "Vi\u00f1a del Mar, Chile",
+        "description": "Buena amiga. Viuda. Camino por la derecha. Rechazo. \ud83d\udc9a",
+        "url": null,
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 4244,
+        "friends_count": 4175,
+        "listed_count": 0,
+        "created_at": "Fri Feb 13 18:53:44 +0000 2015",
+        "favourites_count": 22223,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 29690,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1400979590907039749/3zorqDyD_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1400979590907039749/3zorqDyD_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": true,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+        "created_at": "Thu Jul 15 13:32:59 +0000 2021",
+        "id": 1415665702401232901,
+        "id_str": "1415665702401232901",
+        "full_text": "@zebravoyager He tenido la posibilidad de ver todas las sesiones de la constituyente, por ende las intervenciones de toda(o)s y cr\u00e9eme que de ah\u00ed nada bueno va a salir. Insisto en echarle la culpa a los 600 mil votantes de derecha que no fueron a las urnas. Vamos directo al barranco.",
+        "truncated": false,
+        "display_text_range": [
+            14,
+            284
+        ],
+        "entities": {
+            "hashtags": [],
+            "symbols": [],
+            "user_mentions": [
+                {
+                    "screen_name": "zebravoyager",
+                    "name": "Zebrita \ud83d\ude4f\ud83d\ude0e\ud83d\udeb4\u200d\u2640\ufe0f\ud83d\udc31\u2708\ud83c\udfd6\ud83c\udf1e\u2764\ud83d\udc9a",
+                    "id": 92560633,
+                    "id_str": "92560633",
+                    "indices": [
+                        0,
+                        13
+                    ]
+                }
+            ],
+            "urls": []
+        },
+        "metadata": {
+            "iso_language_code": "es",
+            "result_type": "recent"
+        },
+        "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+        "in_reply_to_status_id": 1415663816843616261,
+        "in_reply_to_status_id_str": "1415663816843616261",
+        "in_reply_to_user_id": 92560633,
+        "in_reply_to_user_id_str": "92560633",
+        "in_reply_to_screen_name": "zebravoyager",
+        "user": {
+            "id": 1210379118262530049,
+            "id_str": "1210379118262530049",
+            "name": "Gerardo \u0141ukaszewski",
+            "screen_name": "jagnecka",
+            "location": "Pelluco, Puerto Montt",
+            "description": "Nac\u00ed en Chile Chico, luego bendecido por Coyhaique y Cochrane.",
+            "url": null,
+            "entities": {
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 198,
+            "friends_count": 288,
+            "listed_count": 0,
+            "created_at": "Fri Dec 27 01:57:41 +0000 2019",
+            "favourites_count": 73,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": false,
+            "verified": false,
+            "statuses_count": 630,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "F5F8FA",
+            "profile_background_image_url": null,
+            "profile_background_image_url_https": null,
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1387766883831668743/KHvKlguL_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1387766883831668743/KHvKlguL_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/1210379118262530049/1623598243",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "has_extended_profile": true,
+            "default_profile": true,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none",
+            "withheld_in_countries": []
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 1,
+        "favorite_count": 4,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "es"
+    },
+    "is_quote_status": false,
+    "retweet_count": 1,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "es"
+}

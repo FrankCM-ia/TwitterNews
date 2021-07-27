@@ -1,0 +1,137 @@
+{
+    "created_at": "Wed Jul 14 17:02:53 +0000 2021",
+    "id": 1415356135318511617,
+    "id_str": "1415356135318511617",
+    "full_text": "@Alets60768132 @FeroxATM @ArmandoMezcales @DeJongFrenkie01 @MatteMoretto Muy bien y el atl\u00e9tico se le merec\u00eda m\u00e1s que nadie eso que no quepa duda, pero estoy hablando de Champions no liga \ud83d\ude09\ud83d\ude09.",
+    "truncated": false,
+    "display_text_range": [
+        73,
+        191
+    ],
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "Alets60768132",
+                "name": "Alets Miranda",
+                "id": 1227739761659478016,
+                "id_str": "1227739761659478016",
+                "indices": [
+                    0,
+                    14
+                ]
+            },
+            {
+                "screen_name": "FeroxATM",
+                "name": "F\u00e9rox",
+                "id": 2558795937,
+                "id_str": "2558795937",
+                "indices": [
+                    15,
+                    24
+                ]
+            },
+            {
+                "screen_name": "ArmandoMezcales",
+                "name": "Ed\u00e9n",
+                "id": 369332344,
+                "id_str": "369332344",
+                "indices": [
+                    25,
+                    41
+                ]
+            },
+            {
+                "screen_name": "DeJongFrenkie01",
+                "name": "Frenkie\ud83c\uddf3\ud83c\uddf1",
+                "id": 1973204550,
+                "id_str": "1973204550",
+                "indices": [
+                    42,
+                    58
+                ]
+            },
+            {
+                "screen_name": "MatteMoretto",
+                "name": "Matteo Moretto",
+                "id": 975909216824254464,
+                "id_str": "975909216824254464",
+                "indices": [
+                    59,
+                    72
+                ]
+            }
+        ],
+        "urls": []
+    },
+    "metadata": {
+        "iso_language_code": "es",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_status_id": 1415339123771154439,
+    "in_reply_to_status_id_str": "1415339123771154439",
+    "in_reply_to_user_id": 1227739761659478016,
+    "in_reply_to_user_id_str": "1227739761659478016",
+    "in_reply_to_screen_name": "Alets60768132",
+    "user": {
+        "id": 887737922295783424,
+        "id_str": "887737922295783424",
+        "name": "RaulJimenismo",
+        "screen_name": "RJimenismo",
+        "location": "",
+        "description": "\ud83d\ude0d\ud83d\ude0d\ud83d\ude0d\ud83d\ude0d\ud83c\uddf2\ud83c\uddfd\ud83c\uddf2\ud83c\uddfd\ud83c\uddf2\ud83c\uddfd \ud83c\uddf2\ud83c\uddfd\ud83c\uddf2\ud83c\uddfd/\ud83c\uddea\ud83c\uddf8\ud83c\uddea\ud83c\uddf8\ud83c\uddea\ud83c\uddf8\ud83c\uddea\ud83c\uddf8\ud83c\uddea\ud83c\uddf8Barcelona, America y Green Bay. Hablo con la cabeza y los pies. Messi \ud83d\udc10\ud83d\udc10\ud83d\udc10\ud83d\udc10\ud83d\udc10",
+        "url": null,
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 39,
+        "friends_count": 266,
+        "listed_count": 0,
+        "created_at": "Wed Jul 19 18:16:28 +0000 2017",
+        "favourites_count": 3226,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 4536,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": null,
+        "profile_background_image_url_https": null,
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1396539129601662976/33J6QzBH_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1396539129601662976/33J6QzBH_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/887737922295783424/1615988733",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "es"
+}

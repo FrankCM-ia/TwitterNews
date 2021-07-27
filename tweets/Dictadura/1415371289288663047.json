@@ -1,0 +1,265 @@
+{
+    "created_at": "Wed Jul 14 18:03:06 +0000 2021",
+    "id": 1415371289288663047,
+    "id_str": "1415371289288663047",
+    "full_text": "RT @Csanchezberzain: \u201cBachelet @mbachelet no ha denunciado las violaciones de #DDHH en #Cuba desde que se convirti\u00f3 en la Alta Comisionada\u2026",
+    "truncated": false,
+    "display_text_range": [
+        0,
+        139
+    ],
+    "entities": {
+        "hashtags": [
+            {
+                "text": "DDHH",
+                "indices": [
+                    78,
+                    83
+                ]
+            },
+            {
+                "text": "Cuba",
+                "indices": [
+                    87,
+                    92
+                ]
+            }
+        ],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "Csanchezberzain",
+                "name": "CarlosSanchezBerzain",
+                "id": 3073682337,
+                "id_str": "3073682337",
+                "indices": [
+                    3,
+                    19
+                ]
+            },
+            {
+                "screen_name": "mbachelet",
+                "name": "Michelle Bachelet",
+                "id": 4119914644,
+                "id_str": "4119914644",
+                "indices": [
+                    31,
+                    41
+                ]
+            }
+        ],
+        "urls": []
+    },
+    "metadata": {
+        "iso_language_code": "es",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 410258780,
+        "id_str": "410258780",
+        "name": "Walter Aparicio",
+        "screen_name": "waparici",
+        "location": "Bolivia",
+        "description": "",
+        "url": null,
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 187,
+        "friends_count": 232,
+        "listed_count": 0,
+        "created_at": "Fri Nov 11 21:22:33 +0000 2011",
+        "favourites_count": 42767,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 7962,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1266384476956962816/rDIQA9mV_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1266384476956962816/rDIQA9mV_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/410258780/1549572718",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+        "created_at": "Wed Jul 14 14:47:44 +0000 2021",
+        "id": 1415322125989187587,
+        "id_str": "1415322125989187587",
+        "full_text": "\u201cBachelet @mbachelet no ha denunciado las violaciones de #DDHH en #Cuba desde que se convirti\u00f3 en la Alta Comisionada de la ONU para los #DDHH. \u00bfRomper\u00e1 el silencio ahora que la dictadura cubana est\u00e1 reprimiendo las mayores protestas en el pa\u00eds en d\u00e9cadas?\u201dhttps://t.co/S1pmCZe2yD",
+        "truncated": false,
+        "display_text_range": [
+            0,
+            280
+        ],
+        "entities": {
+            "hashtags": [
+                {
+                    "text": "DDHH",
+                    "indices": [
+                        57,
+                        62
+                    ]
+                },
+                {
+                    "text": "Cuba",
+                    "indices": [
+                        66,
+                        71
+                    ]
+                },
+                {
+                    "text": "DDHH",
+                    "indices": [
+                        137,
+                        142
+                    ]
+                }
+            ],
+            "symbols": [],
+            "user_mentions": [
+                {
+                    "screen_name": "mbachelet",
+                    "name": "Michelle Bachelet",
+                    "id": 4119914644,
+                    "id_str": "4119914644",
+                    "indices": [
+                        10,
+                        20
+                    ]
+                }
+            ],
+            "urls": [
+                {
+                    "url": "https://t.co/S1pmCZe2yD",
+                    "expanded_url": "https://www.infobae.com/america/america-latina/2021/07/14/fuerte-critica-de-human-rights-watch-a-michelle-bachelet-por-su-silencio-sobre-la-represion-en-cuba/",
+                    "display_url": "infobae.com/america/americ\u2026",
+                    "indices": [
+                        257,
+                        280
+                    ]
+                }
+            ]
+        },
+        "metadata": {
+            "iso_language_code": "es",
+            "result_type": "recent"
+        },
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 3073682337,
+            "id_str": "3073682337",
+            "name": "CarlosSanchezBerzain",
+            "screen_name": "Csanchezberzain",
+            "location": "",
+            "description": "Abogado,Polit\u00f3logo,Master en Ciencia Pol\u00edtica y Sociolog\u00eda. Catedr\u00e1tico. Estadista perseguido y exiliado pol\u00edtico.Director Interamerican Institute for Democracy",
+            "url": "https://t.co/7lel6HvDa2",
+            "entities": {
+                "url": {
+                    "urls": [
+                        {
+                            "url": "https://t.co/7lel6HvDa2",
+                            "expanded_url": "http://www.carlossanchezberzain.com",
+                            "display_url": "carlossanchezberzain.com",
+                            "indices": [
+                                0,
+                                23
+                            ]
+                        }
+                    ]
+                },
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 53770,
+            "friends_count": 8600,
+            "listed_count": 211,
+            "created_at": "Thu Mar 05 23:35:07 +0000 2015",
+            "favourites_count": 38190,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": false,
+            "verified": true,
+            "statuses_count": 30177,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "C0DEED",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1257831147213598723/1O0OkH_o_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1257831147213598723/1O0OkH_o_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/3073682337/1500935317",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "has_extended_profile": true,
+            "default_profile": true,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none",
+            "withheld_in_countries": []
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 129,
+        "favorite_count": 158,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "es"
+    },
+    "is_quote_status": false,
+    "retweet_count": 129,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "es"
+}

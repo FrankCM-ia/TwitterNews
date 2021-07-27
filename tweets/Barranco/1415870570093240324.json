@@ -1,0 +1,96 @@
+{
+    "created_at": "Fri Jul 16 03:07:04 +0000 2021",
+    "id": 1415870570093240324,
+    "id_str": "1415870570093240324",
+    "full_text": "@arnoldsuarezg Chifa Uni\u00f3n en Barranco",
+    "truncated": false,
+    "display_text_range": [
+        15,
+        38
+    ],
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "arnoldsuarezg",
+                "name": "hey arnold!",
+                "id": 554820864,
+                "id_str": "554820864",
+                "indices": [
+                    0,
+                    14
+                ]
+            }
+        ],
+        "urls": []
+    },
+    "metadata": {
+        "iso_language_code": "es",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "in_reply_to_status_id": 1415868662704132096,
+    "in_reply_to_status_id_str": "1415868662704132096",
+    "in_reply_to_user_id": 554820864,
+    "in_reply_to_user_id_str": "554820864",
+    "in_reply_to_screen_name": "arnoldsuarezg",
+    "user": {
+        "id": 138774688,
+        "id_str": "138774688",
+        "name": "karina jara falc\u00f3n",
+        "screen_name": "kjarazu",
+        "location": "lima",
+        "description": "",
+        "url": null,
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 89,
+        "friends_count": 489,
+        "listed_count": 0,
+        "created_at": "Fri Apr 30 15:06:45 +0000 2010",
+        "favourites_count": 999,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 521,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/2623181200/dz0d6oe63k1x01i8i4vm_normal.jpeg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/2623181200/dz0d6oe63k1x01i8i4vm_normal.jpeg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "es"
+}

@@ -1,0 +1,97 @@
+{
+    "created_at": "Wed Jul 14 17:19:50 +0000 2021",
+    "id": 1415360403362787344,
+    "id_str": "1415360403362787344",
+    "full_text": "Si Griezmann regresa al @Atleti para su perd\u00f3n le vamos a exigir la Champions, la Copa, la Liga y las esferas del Drag\u00f3n...",
+    "truncated": false,
+    "display_text_range": [
+        0,
+        123
+    ],
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "Atleti",
+                "name": "\u2764\ufe0f\ud83e\udd0d\ud83c\udfc6 CAMPEONES \ud83c\udfc6\u2764\ufe0f\ud83e\udd0d",
+                "id": 199354750,
+                "id_str": "199354750",
+                "indices": [
+                    24,
+                    31
+                ]
+            }
+        ],
+        "urls": []
+    },
+    "metadata": {
+        "iso_language_code": "es",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 259422632,
+        "id_str": "259422632",
+        "name": "\u03c8 \u00df\u03b1s\u00eel\u00ee \u272d \u042f\u03b5\u0438 \u03c8",
+        "screen_name": "Vorphael",
+        "location": "Aqui y donde me invoquen",
+        "description": "\ud83d\udd25 I A O \ud83d\udd25",
+        "url": null,
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 1125,
+        "friends_count": 1236,
+        "listed_count": 1,
+        "created_at": "Tue Mar 01 21:58:31 +0000 2011",
+        "favourites_count": 10363,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 25942,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "000305",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+        "profile_background_tile": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1398370899124842497/bTZ4hIsI_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1398370899124842497/bTZ4hIsI_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/259422632/1622245684",
+        "profile_link_color": "C71508",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "EFEFEF",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "es"
+}

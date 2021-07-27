@@ -1,0 +1,319 @@
+{
+    "created_at": "Wed Jul 14 17:57:12 +0000 2021",
+    "id": 1415369804492455937,
+    "id_str": "1415369804492455937",
+    "full_text": "RT @gonnassau: Lo de Cuba esta vez va en serio.",
+    "truncated": false,
+    "display_text_range": [
+        0,
+        47
+    ],
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "gonnassau",
+                "name": "Gonzalo",
+                "id": 112749535,
+                "id_str": "112749535",
+                "indices": [
+                    3,
+                    13
+                ]
+            }
+        ],
+        "urls": []
+    },
+    "metadata": {
+        "iso_language_code": "es",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 1040683567616065536,
+        "id_str": "1040683567616065536",
+        "name": "Manu.Castro \ud83c\uddea\ud83c\uddf8\ud83c\uddea\ud83c\uddfa",
+        "screen_name": "Manu_Castro_FE",
+        "location": "Ferrol, Espa\u00f1a",
+        "description": "",
+        "url": null,
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 648,
+        "friends_count": 1994,
+        "listed_count": 0,
+        "created_at": "Fri Sep 14 19:27:52 +0000 2018",
+        "favourites_count": 22077,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 15842,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": null,
+        "profile_background_image_url_https": null,
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1040686014749200384/u__aaeUB_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1040686014749200384/u__aaeUB_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1040683567616065536/1536953856",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": true,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+        "created_at": "Wed Jul 14 17:51:57 +0000 2021",
+        "id": 1415368484138127367,
+        "id_str": "1415368484138127367",
+        "full_text": "Lo de Cuba esta vez va en serio. https://t.co/aUN4uahBVu",
+        "truncated": false,
+        "display_text_range": [
+            0,
+            32
+        ],
+        "entities": {
+            "hashtags": [],
+            "symbols": [],
+            "user_mentions": [],
+            "urls": [
+                {
+                    "url": "https://t.co/aUN4uahBVu",
+                    "expanded_url": "https://twitter.com/agusantonetti/status/1415356812992335876",
+                    "display_url": "twitter.com/agusantonetti/\u2026",
+                    "indices": [
+                        33,
+                        56
+                    ]
+                }
+            ]
+        },
+        "metadata": {
+            "iso_language_code": "es",
+            "result_type": "recent"
+        },
+        "source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 112749535,
+            "id_str": "112749535",
+            "name": "Gonzalo",
+            "screen_name": "gonnassau",
+            "location": "",
+            "description": "\u00bfQu\u00e9 es esto? \u00bfRomanes eunt domus? \u00bfGente llamada romanos ir la casa?",
+            "url": null,
+            "entities": {
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 27791,
+            "friends_count": 4465,
+            "listed_count": 134,
+            "created_at": "Tue Feb 09 15:47:54 +0000 2010",
+            "favourites_count": 304615,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": false,
+            "verified": false,
+            "statuses_count": 213641,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "352726",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme5/bg.gif",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme5/bg.gif",
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1346878130393378821/6F9bRhYj_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1346878130393378821/6F9bRhYj_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/112749535/1599987060",
+            "profile_link_color": "D02B55",
+            "profile_sidebar_border_color": "829D5E",
+            "profile_sidebar_fill_color": "99CC33",
+            "profile_text_color": "3E4415",
+            "profile_use_background_image": true,
+            "has_extended_profile": false,
+            "default_profile": false,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none",
+            "withheld_in_countries": []
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": true,
+        "quoted_status_id": 1415356812992335876,
+        "quoted_status_id_str": "1415356812992335876",
+        "quoted_status": {
+            "created_at": "Wed Jul 14 17:05:34 +0000 2021",
+            "id": 1415356812992335876,
+            "id_str": "1415356812992335876",
+            "full_text": "Ahora, confirma @abc_es.  https://t.co/FY4Q1Bipsd",
+            "truncated": false,
+            "display_text_range": [
+                0,
+                49
+            ],
+            "entities": {
+                "hashtags": [],
+                "symbols": [],
+                "user_mentions": [
+                    {
+                        "screen_name": "abc_es",
+                        "name": "ABC.es",
+                        "id": 19923515,
+                        "id_str": "19923515",
+                        "indices": [
+                            16,
+                            23
+                        ]
+                    }
+                ],
+                "urls": [
+                    {
+                        "url": "https://t.co/FY4Q1Bipsd",
+                        "expanded_url": "https://www.abc.es/internacional/abci-dimite-viceministro-interior-cuba-desacuerdo-fuerza-excesiva-contra-manifestantes-202107141845_noticia_amp.html?__twitter_impression=true",
+                        "display_url": "abc.es/internacional/\u2026",
+                        "indices": [
+                            26,
+                            49
+                        ]
+                    }
+                ]
+            },
+            "metadata": {
+                "iso_language_code": "es",
+                "result_type": "recent"
+            },
+            "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+            "in_reply_to_status_id": 1415355811795193858,
+            "in_reply_to_status_id_str": "1415355811795193858",
+            "in_reply_to_user_id": 374699026,
+            "in_reply_to_user_id_str": "374699026",
+            "in_reply_to_screen_name": "agusantonetti",
+            "user": {
+                "id": 374699026,
+                "id_str": "374699026",
+                "name": "Agustin Antonetti",
+                "screen_name": "agusantonetti",
+                "location": "",
+                "description": "Relaciones Internacionales. Geopolitics. Intentando explicar el mundo de una forma m\u00e1s f\u00e1cil. Human Rights Activist. Cuenta secundaria: @aguusantonetti",
+                "url": "https://t.co/sotu73qub1",
+                "entities": {
+                    "url": {
+                        "urls": [
+                            {
+                                "url": "https://t.co/sotu73qub1",
+                                "expanded_url": "http://instagram.com/agusantonetti",
+                                "display_url": "instagram.com/agusantonetti",
+                                "indices": [
+                                    0,
+                                    23
+                                ]
+                            }
+                        ]
+                    },
+                    "description": {
+                        "urls": []
+                    }
+                },
+                "protected": false,
+                "followers_count": 107655,
+                "friends_count": 996,
+                "listed_count": 190,
+                "created_at": "Fri Sep 16 19:37:17 +0000 2011",
+                "favourites_count": 237141,
+                "utc_offset": null,
+                "time_zone": null,
+                "geo_enabled": true,
+                "verified": false,
+                "statuses_count": 36241,
+                "lang": null,
+                "contributors_enabled": false,
+                "is_translator": false,
+                "is_translation_enabled": false,
+                "profile_background_color": "C0DEED",
+                "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+                "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+                "profile_background_tile": false,
+                "profile_image_url": "http://pbs.twimg.com/profile_images/1404663831092240385/3fEpaqhz_normal.jpg",
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/1404663831092240385/3fEpaqhz_normal.jpg",
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/374699026/1625891786",
+                "profile_link_color": "0084B4",
+                "profile_sidebar_border_color": "FFFFFF",
+                "profile_sidebar_fill_color": "DDEEF6",
+                "profile_text_color": "333333",
+                "profile_use_background_image": true,
+                "has_extended_profile": true,
+                "default_profile": false,
+                "default_profile_image": false,
+                "following": false,
+                "follow_request_sent": false,
+                "notifications": false,
+                "translator_type": "regular",
+                "withheld_in_countries": []
+            },
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "contributors": null,
+            "is_quote_status": false,
+            "retweet_count": 980,
+            "favorite_count": 1907,
+            "favorited": false,
+            "retweeted": false,
+            "possibly_sensitive": false,
+            "lang": "es"
+        },
+        "retweet_count": 9,
+        "favorite_count": 27,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "es"
+    },
+    "is_quote_status": true,
+    "quoted_status_id": 1415356812992335876,
+    "quoted_status_id_str": "1415356812992335876",
+    "retweet_count": 9,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "es"
+}

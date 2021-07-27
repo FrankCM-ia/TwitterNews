@@ -1,0 +1,126 @@
+{
+    "created_at": "Wed Jul 14 17:43:02 +0000 2021",
+    "id": 1415366238310735873,
+    "id_str": "1415366238310735873",
+    "full_text": "@suso_RMA @ivxnmartiin_ @Mancuer91 @AntoGriezmann GRIEZMAN no a ganado una Champions en su carrera asi que no creo que sea el jugador para levantar de nuevo la orejona , por cierto el muerto de Messi est\u00e1 temporada que fue de sus peores en a hecho m\u00e1s goles que griezman en su mejor temporada",
+    "truncated": false,
+    "display_text_range": [
+        50,
+        292
+    ],
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "suso_RMA",
+                "name": "Suso_25",
+                "id": 2916320541,
+                "id_str": "2916320541",
+                "indices": [
+                    0,
+                    9
+                ]
+            },
+            {
+                "screen_name": "ivxnmartiin_",
+                "name": "ivanmartiin\u2604\ufe0f",
+                "id": 1005407741161205763,
+                "id_str": "1005407741161205763",
+                "indices": [
+                    10,
+                    23
+                ]
+            },
+            {
+                "screen_name": "Mancuer91",
+                "name": "Mancuer",
+                "id": 248008281,
+                "id_str": "248008281",
+                "indices": [
+                    24,
+                    34
+                ]
+            },
+            {
+                "screen_name": "AntoGriezmann",
+                "name": "Antoine Griezmann",
+                "id": 950341134,
+                "id_str": "950341134",
+                "indices": [
+                    35,
+                    49
+                ]
+            }
+        ],
+        "urls": []
+    },
+    "metadata": {
+        "iso_language_code": "es",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "in_reply_to_status_id": 1415357428670115843,
+    "in_reply_to_status_id_str": "1415357428670115843",
+    "in_reply_to_user_id": 2916320541,
+    "in_reply_to_user_id_str": "2916320541",
+    "in_reply_to_screen_name": "suso_RMA",
+    "user": {
+        "id": 1269362987120431104,
+        "id_str": "1269362987120431104",
+        "name": "Yeremijcu",
+        "screen_name": "Yeremijcu1",
+        "location": "",
+        "description": "-\u00a1-#;#2_\u00a3;",
+        "url": null,
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 34,
+        "friends_count": 40,
+        "listed_count": 0,
+        "created_at": "Sat Jun 06 20:20:10 +0000 2020",
+        "favourites_count": 34095,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 432,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": null,
+        "profile_background_image_url_https": null,
+        "profile_background_tile": false,
+        "profile_image_url": "http://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+        "profile_image_url_https": "https://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": true,
+        "default_profile_image": true,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 2,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "es"
+}

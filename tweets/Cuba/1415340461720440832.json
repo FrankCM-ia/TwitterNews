@@ -1,0 +1,301 @@
+{
+    "created_at": "Wed Jul 14 16:00:36 +0000 2021",
+    "id": 1415340461720440832,
+    "id_str": "1415340461720440832",
+    "full_text": "RT @JulianMaciasT: \u00bfQu\u00e9 est\u00e1 pasando en Cuba?\nAnalic\u00e9 los m\u00e1s de dos millones de tuits usando el HT #SOSCuba que comenz\u00f3 pidiendo ayuda hum\u2026",
+    "truncated": false,
+    "display_text_range": [
+        0,
+        140
+    ],
+    "entities": {
+        "hashtags": [
+            {
+                "text": "SOSCuba",
+                "indices": [
+                    100,
+                    108
+                ]
+            }
+        ],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "JulianMaciasT",
+                "name": "Juli\u00e1n Mac\u00edas Tovar",
+                "id": 1392054620,
+                "id_str": "1392054620",
+                "indices": [
+                    3,
+                    17
+                ]
+            }
+        ],
+        "urls": []
+    },
+    "metadata": {
+        "iso_language_code": "es",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 226055311,
+        "id_str": "226055311",
+        "name": "Marco #11",
+        "screen_name": "AgustinMassimo",
+        "location": "Uruguay",
+        "description": "Jaz \u2764 \nUX/UI Designer",
+        "url": null,
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 303,
+        "friends_count": 590,
+        "listed_count": 2,
+        "created_at": "Mon Dec 13 05:40:27 +0000 2010",
+        "favourites_count": 22696,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 18769,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "131516",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+        "profile_background_tile": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1150771918376710144/L7yRR_aR_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1150771918376710144/L7yRR_aR_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/226055311/1430073396",
+        "profile_link_color": "009999",
+        "profile_sidebar_border_color": "EEEEEE",
+        "profile_sidebar_fill_color": "EFEFEF",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": true,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+        "created_at": "Mon Jul 12 20:22:50 +0000 2021",
+        "id": 1414681678539378691,
+        "id_str": "1414681678539378691",
+        "full_text": "\u00bfQu\u00e9 est\u00e1 pasando en Cuba?\nAnalic\u00e9 los m\u00e1s de dos millones de tuits usando el HT #SOSCuba que comenz\u00f3 pidiendo ayuda humanitaria con la participaci\u00f3n de artistas y miles de cuentas reci\u00e9n creadas y bots por las muertes por COVID y terminaron en movilizaciones en las calles. https://t.co/XDq2nki3Ne",
+        "truncated": false,
+        "display_text_range": [
+            0,
+            274
+        ],
+        "entities": {
+            "hashtags": [
+                {
+                    "text": "SOSCuba",
+                    "indices": [
+                        81,
+                        89
+                    ]
+                }
+            ],
+            "symbols": [],
+            "user_mentions": [],
+            "urls": [],
+            "media": [
+                {
+                    "id": 1414680758740992007,
+                    "id_str": "1414680758740992007",
+                    "indices": [
+                        275,
+                        298
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/E6H0p59WQAcRrLJ.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/E6H0p59WQAcRrLJ.jpg",
+                    "url": "https://t.co/XDq2nki3Ne",
+                    "display_url": "pic.twitter.com/XDq2nki3Ne",
+                    "expanded_url": "https://twitter.com/JulianMaciasT/status/1414681678539378691/photo/1",
+                    "type": "photo",
+                    "sizes": {
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "medium": {
+                            "w": 1200,
+                            "h": 768,
+                            "resize": "fit"
+                        },
+                        "large": {
+                            "w": 1261,
+                            "h": 807,
+                            "resize": "fit"
+                        },
+                        "small": {
+                            "w": 680,
+                            "h": 435,
+                            "resize": "fit"
+                        }
+                    }
+                }
+            ]
+        },
+        "extended_entities": {
+            "media": [
+                {
+                    "id": 1414680758740992007,
+                    "id_str": "1414680758740992007",
+                    "indices": [
+                        275,
+                        298
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/E6H0p59WQAcRrLJ.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/E6H0p59WQAcRrLJ.jpg",
+                    "url": "https://t.co/XDq2nki3Ne",
+                    "display_url": "pic.twitter.com/XDq2nki3Ne",
+                    "expanded_url": "https://twitter.com/JulianMaciasT/status/1414681678539378691/photo/1",
+                    "type": "photo",
+                    "sizes": {
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "medium": {
+                            "w": 1200,
+                            "h": 768,
+                            "resize": "fit"
+                        },
+                        "large": {
+                            "w": 1261,
+                            "h": 807,
+                            "resize": "fit"
+                        },
+                        "small": {
+                            "w": 680,
+                            "h": 435,
+                            "resize": "fit"
+                        }
+                    }
+                }
+            ]
+        },
+        "metadata": {
+            "iso_language_code": "es",
+            "result_type": "recent"
+        },
+        "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 1392054620,
+            "id_str": "1392054620",
+            "name": "Juli\u00e1n Mac\u00edas Tovar",
+            "screen_name": "JulianMaciasT",
+            "location": "Madrid",
+            "description": "Dato mata relato.\nActivista contra la desinformaci\u00f3n digital\ud83d\udc49https://t.co/Nwq5r688Im.\nMis opiniones son solo m\u00edas.\nS\u00ed Se Puede!",
+            "url": "https://t.co/MmzCDtc8GI",
+            "entities": {
+                "url": {
+                    "urls": [
+                        {
+                            "url": "https://t.co/MmzCDtc8GI",
+                            "expanded_url": "https://www.pandemiadigital.net/",
+                            "display_url": "pandemiadigital.net",
+                            "indices": [
+                                0,
+                                23
+                            ]
+                        }
+                    ]
+                },
+                "description": {
+                    "urls": [
+                        {
+                            "url": "https://t.co/Nwq5r688Im",
+                            "expanded_url": "http://t.me/PandemiaDigital",
+                            "display_url": "t.me/PandemiaDigital",
+                            "indices": [
+                                61,
+                                84
+                            ]
+                        }
+                    ]
+                }
+            },
+            "protected": false,
+            "followers_count": 74381,
+            "friends_count": 2300,
+            "listed_count": 503,
+            "created_at": "Tue Apr 30 13:19:46 +0000 2013",
+            "favourites_count": 15215,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": false,
+            "verified": true,
+            "statuses_count": 10464,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "C0DEED",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1307344071376109569/0eDkRxBT_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1307344071376109569/0eDkRxBT_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/1392054620/1593360085",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "has_extended_profile": true,
+            "default_profile": true,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none",
+            "withheld_in_countries": []
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 8594,
+        "favorite_count": 10691,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "es"
+    },
+    "is_quote_status": false,
+    "retweet_count": 8594,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "es"
+}

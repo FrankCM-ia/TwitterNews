@@ -1,0 +1,117 @@
+{
+    "created_at": "Thu Jul 15 22:11:08 +0000 2021",
+    "id": 1415796096798965763,
+    "id_str": "1415796096798965763",
+    "full_text": "@TUMBANDO @joelperalta14 @VocesFutbolPeru No meti\u00f3 putas y trago como Farf\u00e1n siempre lo hace. O como Quevedo antes de la final del 2018 se fu\u00e9 a cagarla a barranco bar con el Jefe de equipo incluido. Las diferencias son abismales. Slds.",
+    "truncated": false,
+    "display_text_range": [
+        42,
+        236
+    ],
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "TUMBANDO",
+                "name": "JULIO JOYA LETURIA",
+                "id": 128289863,
+                "id_str": "128289863",
+                "indices": [
+                    0,
+                    9
+                ]
+            },
+            {
+                "screen_name": "joelperalta14",
+                "name": "Joel Peralta",
+                "id": 375359686,
+                "id_str": "375359686",
+                "indices": [
+                    10,
+                    24
+                ]
+            },
+            {
+                "screen_name": "VocesFutbolPeru",
+                "name": "Las Voces Del F\u00fatbol | Per\u00fa",
+                "id": 1162216910169100288,
+                "id_str": "1162216910169100288",
+                "indices": [
+                    25,
+                    41
+                ]
+            }
+        ],
+        "urls": []
+    },
+    "metadata": {
+        "iso_language_code": "es",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "in_reply_to_status_id": 1415760729819566082,
+    "in_reply_to_status_id_str": "1415760729819566082",
+    "in_reply_to_user_id": 128289863,
+    "in_reply_to_user_id_str": "128289863",
+    "in_reply_to_screen_name": "TUMBANDO",
+    "user": {
+        "id": 154036919,
+        "id_str": "154036919",
+        "name": "Jerome - A+A+A",
+        "screen_name": "Andiavolo",
+        "location": "Rimac - Lima ",
+        "description": "Tengo 33 a\u00f1os, Del Rico Rimac !! Hincha @clubscristal (Mi paSCi\u00f3n),aficionado a la fotografia, @Formula1, @realmadrid, box, Pap\u00e1 de Tito.",
+        "url": null,
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 188,
+        "friends_count": 1272,
+        "listed_count": 4,
+        "created_at": "Thu Jun 10 05:50:54 +0000 2010",
+        "favourites_count": 16972,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 12777,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1362091526596292608/nQDWjXr3_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1362091526596292608/nQDWjXr3_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/154036919/1558573260",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 1,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "es"
+}

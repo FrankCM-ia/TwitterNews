@@ -1,0 +1,99 @@
+{
+    "created_at": "Wed Jul 14 16:00:34 +0000 2021",
+    "id": 1415340453696843778,
+    "id_str": "1415340453696843778",
+    "full_text": "La Uni\u00f3n Sovi\u00e9tica, durante la Guerra Fr\u00eda, don\u00f3 a Cuba +100000 millones de d\u00f3lares (seg\u00fan un estudio de la Academia de Ciencias de Rusia); Saben cu\u00e1nta plata puso EEUU en el Plan Marshall para RECUPERAR EUROPA? 13000 millones de d\u00f3lares.",
+    "truncated": false,
+    "display_text_range": [
+        0,
+        238
+    ],
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+    },
+    "metadata": {
+        "iso_language_code": "es",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 1327293647176523776,
+        "id_str": "1327293647176523776",
+        "name": "Lautaro Bare\u00f1o",
+        "screen_name": "broliardovich",
+        "location": "\ud83d\udcccMaldonado, Uruguay",
+        "description": "16 a\u00f1os, dando la batalla cultural, orgullosamente blanco, cursando 2\u00b0 a\u00f1o de bachillerato.\nDigo lo que pienso.\n#OrientalesDeTwitter",
+        "url": "https://t.co/rRsOFqegi1",
+        "entities": {
+            "url": {
+                "urls": [
+                    {
+                        "url": "https://t.co/rRsOFqegi1",
+                        "expanded_url": "https://youtube.com/channel/UCZDR9a42bfY86A9mhm53r4Q",
+                        "display_url": "youtube.com/channel/UCZDR9\u2026",
+                        "indices": [
+                            0,
+                            23
+                        ]
+                    }
+                ]
+            },
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 1010,
+        "friends_count": 2136,
+        "listed_count": 0,
+        "created_at": "Fri Nov 13 16:54:13 +0000 2020",
+        "favourites_count": 6760,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 4762,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": null,
+        "profile_background_image_url_https": null,
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1407506618049236996/Eh3e8hG6_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1407506618049236996/Eh3e8hG6_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1327293647176523776/1612217104",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": true,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 1,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "es"
+}

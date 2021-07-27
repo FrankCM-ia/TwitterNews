@@ -1,0 +1,196 @@
+{
+    "created_at": "Wed Jul 14 18:02:17 +0000 2021",
+    "id": 1415371085428793349,
+    "id_str": "1415371085428793349",
+    "full_text": "RT @FrayJosepho: Ponerse a discutir ahora si Cuba es una dictadura o una democracia es como debatir si mis cojones son geranios.",
+    "truncated": false,
+    "display_text_range": [
+        0,
+        128
+    ],
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "FrayJosepho",
+                "name": "Fray Josepho",
+                "id": 126465001,
+                "id_str": "126465001",
+                "indices": [
+                    3,
+                    15
+                ]
+            }
+        ],
+        "urls": []
+    },
+    "metadata": {
+        "iso_language_code": "es",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 618519072,
+        "id_str": "618519072",
+        "name": "javier torres torres",
+        "screen_name": "javtt9000",
+        "location": "",
+        "description": "",
+        "url": null,
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 1357,
+        "friends_count": 2947,
+        "listed_count": 0,
+        "created_at": "Mon Jun 25 21:10:06 +0000 2012",
+        "favourites_count": 21410,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 49981,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1393561463797784578/cr66lqJH_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1393561463797784578/cr66lqJH_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/618519072/1621085674",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": true,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+        "created_at": "Wed Jul 14 11:18:59 +0000 2021",
+        "id": 1415269591547252738,
+        "id_str": "1415269591547252738",
+        "full_text": "Ponerse a discutir ahora si Cuba es una dictadura o una democracia es como debatir si mis cojones son geranios.",
+        "truncated": false,
+        "display_text_range": [
+            0,
+            111
+        ],
+        "entities": {
+            "hashtags": [],
+            "symbols": [],
+            "user_mentions": [],
+            "urls": []
+        },
+        "metadata": {
+            "iso_language_code": "es",
+            "result_type": "recent"
+        },
+        "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 126465001,
+            "id_str": "126465001",
+            "name": "Fray Josepho",
+            "screen_name": "FrayJosepho",
+            "location": "Espa\u00f1a",
+            "description": "La s\u00e1tira de Libertad Digital. Tambi\u00e9n en @lanochededieter de @esradio.\nTambi\u00e9n estoy en Parler: @frayjosepho",
+            "url": "https://t.co/cNo2xHAFcY",
+            "entities": {
+                "url": {
+                    "urls": [
+                        {
+                            "url": "https://t.co/cNo2xHAFcY",
+                            "expanded_url": "http://www.libertaddigital.com/opinion/fray-josepho/",
+                            "display_url": "libertaddigital.com/opinion/fray-j\u2026",
+                            "indices": [
+                                0,
+                                23
+                            ]
+                        }
+                    ]
+                },
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 148156,
+            "friends_count": 640,
+            "listed_count": 786,
+            "created_at": "Thu Mar 25 23:44:26 +0000 2010",
+            "favourites_count": 15237,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": false,
+            "verified": true,
+            "statuses_count": 187041,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "000000",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1133800357308575747/lKF2FI02_normal.png",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1133800357308575747/lKF2FI02_normal.png",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/126465001/1491409734",
+            "profile_link_color": "ABB8C2",
+            "profile_sidebar_border_color": "000000",
+            "profile_sidebar_fill_color": "000000",
+            "profile_text_color": "000000",
+            "profile_use_background_image": false,
+            "has_extended_profile": true,
+            "default_profile": false,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none",
+            "withheld_in_countries": []
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 588,
+        "favorite_count": 2719,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "es"
+    },
+    "is_quote_status": false,
+    "retweet_count": 588,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "es"
+}

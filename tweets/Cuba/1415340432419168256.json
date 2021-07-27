@@ -1,0 +1,282 @@
+{
+    "created_at": "Wed Jul 14 16:00:29 +0000 2021",
+    "id": 1415340432419168256,
+    "id_str": "1415340432419168256",
+    "full_text": "RT @DonVocero: \u00bfPOR QU\u00c9 HAY UN \"BLOQUEO\" EN CUBA?\nUna de los pretextos de los defensores de Cuba es que \"el bloqueo criminal\" de los US est\u2026",
+    "truncated": false,
+    "display_text_range": [
+        0,
+        140
+    ],
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "DonVocero",
+                "name": "Don Vocero",
+                "id": 1099543457734053888,
+                "id_str": "1099543457734053888",
+                "indices": [
+                    3,
+                    13
+                ]
+            }
+        ],
+        "urls": []
+    },
+    "metadata": {
+        "iso_language_code": "es",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 1318301363927830528,
+        "id_str": "1318301363927830528",
+        "name": "Mat\u00edas S\u00e1nchez",
+        "screen_name": "MatasSn99508720",
+        "location": "",
+        "description": "",
+        "url": null,
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 122,
+        "friends_count": 327,
+        "listed_count": 0,
+        "created_at": "Mon Oct 19 21:22:38 +0000 2020",
+        "favourites_count": 32455,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 32637,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": null,
+        "profile_background_image_url_https": null,
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1318301870356537344/NgnfMnAv_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1318301870356537344/NgnfMnAv_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": true,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+        "created_at": "Wed Jul 14 15:05:45 +0000 2021",
+        "id": 1415326660065480706,
+        "id_str": "1415326660065480706",
+        "full_text": "\u00bfPOR QU\u00c9 HAY UN \"BLOQUEO\" EN CUBA?\nUna de los pretextos de los defensores de Cuba es que \"el bloqueo criminal\" de los US est\u00e1 matando de hambre a la isla.\nVamos a analizar:\na) Por qu\u00e9 es ese bloqueo\nb) Si es cierto que tiene un grande impacto en la isla.\nAbro #HiloDeIxtle https://t.co/ATXScHYbwU",
+        "truncated": false,
+        "display_text_range": [
+            0,
+            272
+        ],
+        "entities": {
+            "hashtags": [
+                {
+                    "text": "HiloDeIxtle",
+                    "indices": [
+                        260,
+                        272
+                    ]
+                }
+            ],
+            "symbols": [],
+            "user_mentions": [],
+            "urls": [],
+            "media": [
+                {
+                    "id": 1415309006936104965,
+                    "id_str": "1415309006936104965",
+                    "indices": [
+                        273,
+                        296
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/E6QwCw3WYAUGizA.png",
+                    "media_url_https": "https://pbs.twimg.com/media/E6QwCw3WYAUGizA.png",
+                    "url": "https://t.co/ATXScHYbwU",
+                    "display_url": "pic.twitter.com/ATXScHYbwU",
+                    "expanded_url": "https://twitter.com/DonVocero/status/1415326660065480706/photo/1",
+                    "type": "photo",
+                    "sizes": {
+                        "large": {
+                            "w": 600,
+                            "h": 400,
+                            "resize": "fit"
+                        },
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "small": {
+                            "w": 600,
+                            "h": 400,
+                            "resize": "fit"
+                        },
+                        "medium": {
+                            "w": 600,
+                            "h": 400,
+                            "resize": "fit"
+                        }
+                    }
+                }
+            ]
+        },
+        "extended_entities": {
+            "media": [
+                {
+                    "id": 1415309006936104965,
+                    "id_str": "1415309006936104965",
+                    "indices": [
+                        273,
+                        296
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/E6QwCw3WYAUGizA.png",
+                    "media_url_https": "https://pbs.twimg.com/media/E6QwCw3WYAUGizA.png",
+                    "url": "https://t.co/ATXScHYbwU",
+                    "display_url": "pic.twitter.com/ATXScHYbwU",
+                    "expanded_url": "https://twitter.com/DonVocero/status/1415326660065480706/photo/1",
+                    "type": "photo",
+                    "sizes": {
+                        "large": {
+                            "w": 600,
+                            "h": 400,
+                            "resize": "fit"
+                        },
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "small": {
+                            "w": 600,
+                            "h": 400,
+                            "resize": "fit"
+                        },
+                        "medium": {
+                            "w": 600,
+                            "h": 400,
+                            "resize": "fit"
+                        }
+                    }
+                }
+            ]
+        },
+        "metadata": {
+            "iso_language_code": "es",
+            "result_type": "recent"
+        },
+        "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 1099543457734053888,
+            "id_str": "1099543457734053888",
+            "name": "Don Vocero",
+            "screen_name": "DonVocero",
+            "location": "Mexico",
+            "description": "La Mafia del poder no se crea ni se destruye, tan solo se transforma Neoliberal Senior.  #CoNexiones #LegiOnLine #MexicoSeActiva",
+            "url": "https://t.co/VuEi1rW7au",
+            "entities": {
+                "url": {
+                    "urls": [
+                        {
+                            "url": "https://t.co/VuEi1rW7au",
+                            "expanded_url": "https://anchor.fm/don-vocero",
+                            "display_url": "anchor.fm/don-vocero",
+                            "indices": [
+                                0,
+                                23
+                            ]
+                        }
+                    ]
+                },
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 65816,
+            "friends_count": 5881,
+            "listed_count": 133,
+            "created_at": "Sun Feb 24 05:36:03 +0000 2019",
+            "favourites_count": 32364,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": false,
+            "verified": false,
+            "statuses_count": 122462,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "F5F8FA",
+            "profile_background_image_url": null,
+            "profile_background_image_url_https": null,
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1405181327993827328/MBw1heM7_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1405181327993827328/MBw1heM7_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/1099543457734053888/1625681462",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "has_extended_profile": true,
+            "default_profile": true,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none",
+            "withheld_in_countries": []
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 62,
+        "favorite_count": 106,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "es"
+    },
+    "is_quote_status": false,
+    "retweet_count": 62,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "es"
+}

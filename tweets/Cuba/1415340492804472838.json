@@ -1,0 +1,196 @@
+{
+    "created_at": "Wed Jul 14 16:00:43 +0000 2021",
+    "id": 1415340492804472838,
+    "id_str": "1415340492804472838",
+    "full_text": "RT @SinLinea_Mx: En la Conferencia Presidente. Transmiten el video del incidente de ayer en la embajada de Cuba en M\u00e9xico y las expresiones\u2026",
+    "truncated": false,
+    "display_text_range": [
+        0,
+        140
+    ],
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "SinLinea_Mx",
+                "name": "SinL\u00ednea.Mx",
+                "id": 1092610577808138240,
+                "id_str": "1092610577808138240",
+                "indices": [
+                    3,
+                    15
+                ]
+            }
+        ],
+        "urls": []
+    },
+    "metadata": {
+        "iso_language_code": "es",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 1274576384631824385,
+        "id_str": "1274576384631824385",
+        "name": "Lu\u00eds Rodriguez",
+        "screen_name": "luisrdz_torres",
+        "location": "Monterrey, Nuevo Le\u00f3n",
+        "description": "La sencillez es una virtud, pero con car\u00e1cter qu\u00e9 t\u00e9 defina,lo mas importante son las cosas qu\u00e9 hacemos y lo que podemos hacer por los dem\u00e1s. AMLO MI PRESIDENTE",
+        "url": null,
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 1334,
+        "friends_count": 1848,
+        "listed_count": 3,
+        "created_at": "Sun Jun 21 05:34:40 +0000 2020",
+        "favourites_count": 27682,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 9776,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": null,
+        "profile_background_image_url_https": null,
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1337320159694897159/EO1Wpskh_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1337320159694897159/EO1Wpskh_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1274576384631824385/1615506538",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": true,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+        "created_at": "Wed Jul 14 12:57:04 +0000 2021",
+        "id": 1415294272547524609,
+        "id_str": "1415294272547524609",
+        "full_text": "En la Conferencia Presidente. Transmiten el video del incidente de ayer en la embajada de Cuba en M\u00e9xico y las expresiones de racismo de uno de los declarantes que encabeza una organizaci\u00f3n de derechos humanos.",
+        "truncated": false,
+        "display_text_range": [
+            0,
+            210
+        ],
+        "entities": {
+            "hashtags": [],
+            "symbols": [],
+            "user_mentions": [],
+            "urls": []
+        },
+        "metadata": {
+            "iso_language_code": "es",
+            "result_type": "recent"
+        },
+        "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 1092610577808138240,
+            "id_str": "1092610577808138240",
+            "name": "SinL\u00ednea.Mx",
+            "screen_name": "SinLinea_Mx",
+            "location": "M\u00e9xico",
+            "description": "Medio de informaci\u00f3n, digital e independiente  \nventas@sinlineamx.com \ud83d\uded2",
+            "url": "https://t.co/upL4TbcX1y",
+            "entities": {
+                "url": {
+                    "urls": [
+                        {
+                            "url": "https://t.co/upL4TbcX1y",
+                            "expanded_url": "https://sinlineamx.com/",
+                            "display_url": "sinlineamx.com",
+                            "indices": [
+                                0,
+                                23
+                            ]
+                        }
+                    ]
+                },
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 178605,
+            "friends_count": 1952,
+            "listed_count": 388,
+            "created_at": "Tue Feb 05 02:27:16 +0000 2019",
+            "favourites_count": 1,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": true,
+            "verified": false,
+            "statuses_count": 26949,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "000000",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1358918925602459654/6jweX8Go_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1358918925602459654/6jweX8Go_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/1092610577808138240/1617929037",
+            "profile_link_color": "1B95E0",
+            "profile_sidebar_border_color": "000000",
+            "profile_sidebar_fill_color": "000000",
+            "profile_text_color": "000000",
+            "profile_use_background_image": false,
+            "has_extended_profile": false,
+            "default_profile": false,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none",
+            "withheld_in_countries": []
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 401,
+        "favorite_count": 948,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "es"
+    },
+    "is_quote_status": false,
+    "retweet_count": 401,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "es"
+}

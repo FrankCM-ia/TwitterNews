@@ -1,0 +1,196 @@
+{
+    "created_at": "Wed Jul 14 16:00:20 +0000 2021",
+    "id": 1415340394649427970,
+    "id_str": "1415340394649427970",
+    "full_text": "RT @pedrosola: Sorprende ver a funcionarios de la embajada de Cuba tratando por la fuerza de impedir una manifestaci\u00f3n afuera de la embajad\u2026",
+    "truncated": false,
+    "display_text_range": [
+        0,
+        140
+    ],
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "pedrosola",
+                "name": "Pedro Sola",
+                "id": 263961164,
+                "id_str": "263961164",
+                "indices": [
+                    3,
+                    13
+                ]
+            }
+        ],
+        "urls": []
+    },
+    "metadata": {
+        "iso_language_code": "es",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 155601595,
+        "id_str": "155601595",
+        "name": "Daniela Jaen",
+        "screen_name": "DaniJaen",
+        "location": "M\u00e9xico",
+        "description": "Un alma libre encerrada en un cuerpo de mujer\u2764",
+        "url": null,
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 389,
+        "friends_count": 322,
+        "listed_count": 1,
+        "created_at": "Mon Jun 14 15:54:17 +0000 2010",
+        "favourites_count": 1606,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 7946,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "DBE9ED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme19/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme19/bg.gif",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1375785239193251842/m8dsPCQq_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1375785239193251842/m8dsPCQq_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/155601595/1584986344",
+        "profile_link_color": "B833CC",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "F6FFD1",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": true,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+        "created_at": "Wed Jul 14 12:18:48 +0000 2021",
+        "id": 1415284641976700929,
+        "id_str": "1415284641976700929",
+        "full_text": "Sorprende ver a funcionarios de la embajada de Cuba tratando por la fuerza de impedir una manifestaci\u00f3n afuera de la embajada de su pa\u00eds, olvidan que M\u00e9xico aun es un pa\u00eds de libertades.",
+        "truncated": false,
+        "display_text_range": [
+            0,
+            186
+        ],
+        "entities": {
+            "hashtags": [],
+            "symbols": [],
+            "user_mentions": [],
+            "urls": []
+        },
+        "metadata": {
+            "iso_language_code": "es",
+            "result_type": "recent"
+        },
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 263961164,
+            "id_str": "263961164",
+            "name": "Pedro Sola",
+            "screen_name": "pedrosola",
+            "location": "Distrito Federal, M\u00e9xico",
+            "description": "Conductor del Programa Ventaneando. Cin\u00e9filo empedernido y fan\u00e1tico de la buena comida. Negocios: contacto@tiopedrito.com",
+            "url": "https://t.co/L6Lz76dK00",
+            "entities": {
+                "url": {
+                    "urls": [
+                        {
+                            "url": "https://t.co/L6Lz76dK00",
+                            "expanded_url": "http://www.aztecauno.com/ventaneando/perfil/perfil/pedro-sola/288",
+                            "display_url": "aztecauno.com/ventaneando/pe\u2026",
+                            "indices": [
+                                0,
+                                23
+                            ]
+                        }
+                    ]
+                },
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 435279,
+            "friends_count": 100,
+            "listed_count": 490,
+            "created_at": "Fri Mar 11 02:14:55 +0000 2011",
+            "favourites_count": 18313,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": true,
+            "verified": true,
+            "statuses_count": 55321,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": true,
+            "profile_background_color": "9AE4E8",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme16/bg.gif",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme16/bg.gif",
+            "profile_background_tile": true,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/946819335229661184/i4Qin0Tx_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/946819335229661184/i4Qin0Tx_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/263961164/1514574232",
+            "profile_link_color": "0084B4",
+            "profile_sidebar_border_color": "FFFFFF",
+            "profile_sidebar_fill_color": "DDFFCC",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "has_extended_profile": true,
+            "default_profile": false,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none",
+            "withheld_in_countries": []
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 355,
+        "favorite_count": 2642,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "es"
+    },
+    "is_quote_status": false,
+    "retweet_count": 355,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "es"
+}

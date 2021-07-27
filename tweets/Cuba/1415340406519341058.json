@@ -1,0 +1,198 @@
+{
+    "created_at": "Wed Jul 14 16:00:23 +0000 2021",
+    "id": 1415340406519341058,
+    "id_str": "1415340406519341058",
+    "full_text": "Protestas en Cuba dejan un fallecido y m\u00e1s de 100 heridos. https://t.co/Gqz3oz0iRv https://t.co/Cq5ds4T5aT",
+    "truncated": false,
+    "display_text_range": [
+        0,
+        82
+    ],
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+            {
+                "url": "https://t.co/Gqz3oz0iRv",
+                "expanded_url": "https://buff.ly/3kf0bYZ",
+                "display_url": "buff.ly/3kf0bYZ",
+                "indices": [
+                    59,
+                    82
+                ]
+            }
+        ],
+        "media": [
+            {
+                "id": 1415340403029680128,
+                "id_str": "1415340403029680128",
+                "indices": [
+                    83,
+                    106
+                ],
+                "media_url": "http://pbs.twimg.com/media/E6RMmQbXoAAQXeT.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/E6RMmQbXoAAQXeT.jpg",
+                "url": "https://t.co/Cq5ds4T5aT",
+                "display_url": "pic.twitter.com/Cq5ds4T5aT",
+                "expanded_url": "https://twitter.com/DiarioAvance/status/1415340406519341058/photo/1",
+                "type": "photo",
+                "sizes": {
+                    "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                    },
+                    "large": {
+                        "w": 853,
+                        "h": 480,
+                        "resize": "fit"
+                    },
+                    "medium": {
+                        "w": 853,
+                        "h": 480,
+                        "resize": "fit"
+                    },
+                    "small": {
+                        "w": 680,
+                        "h": 383,
+                        "resize": "fit"
+                    }
+                }
+            }
+        ]
+    },
+    "extended_entities": {
+        "media": [
+            {
+                "id": 1415340403029680128,
+                "id_str": "1415340403029680128",
+                "indices": [
+                    83,
+                    106
+                ],
+                "media_url": "http://pbs.twimg.com/media/E6RMmQbXoAAQXeT.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/E6RMmQbXoAAQXeT.jpg",
+                "url": "https://t.co/Cq5ds4T5aT",
+                "display_url": "pic.twitter.com/Cq5ds4T5aT",
+                "expanded_url": "https://twitter.com/DiarioAvance/status/1415340406519341058/photo/1",
+                "type": "photo",
+                "sizes": {
+                    "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                    },
+                    "large": {
+                        "w": 853,
+                        "h": 480,
+                        "resize": "fit"
+                    },
+                    "medium": {
+                        "w": 853,
+                        "h": 480,
+                        "resize": "fit"
+                    },
+                    "small": {
+                        "w": 680,
+                        "h": 383,
+                        "resize": "fit"
+                    }
+                }
+            }
+        ]
+    },
+    "metadata": {
+        "iso_language_code": "es",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"https://buffer.com\" rel=\"nofollow\">Buffer</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 88603173,
+        "id_str": "88603173",
+        "name": "Diario Avance",
+        "screen_name": "DiarioAvance",
+        "location": "Los Teques / Estado Miranda",
+        "description": "Somos el diario l\u00edder en los Altos Mirandinos. \u00danico impreso en Los Teques, con la informaci\u00f3n que te interesa. https://t.co/86IXN3H4Su",
+        "url": "https://t.co/86IXN3H4Su",
+        "entities": {
+            "url": {
+                "urls": [
+                    {
+                        "url": "https://t.co/86IXN3H4Su",
+                        "expanded_url": "http://www.diarioavance.com",
+                        "display_url": "diarioavance.com",
+                        "indices": [
+                            0,
+                            23
+                        ]
+                    }
+                ]
+            },
+            "description": {
+                "urls": [
+                    {
+                        "url": "https://t.co/86IXN3H4Su",
+                        "expanded_url": "http://www.diarioavance.com",
+                        "display_url": "diarioavance.com",
+                        "indices": [
+                            112,
+                            135
+                        ]
+                    }
+                ]
+            }
+        },
+        "protected": false,
+        "followers_count": 96919,
+        "friends_count": 250,
+        "listed_count": 556,
+        "created_at": "Mon Nov 09 05:53:22 +0000 2009",
+        "favourites_count": 724,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 348253,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif",
+        "profile_background_tile": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1354869706570817537/2Ce61MOu_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1354869706570817537/2Ce61MOu_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/88603173/1624810672",
+        "profile_link_color": "D10E00",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "DAECF4",
+        "profile_text_color": "663B12",
+        "profile_use_background_image": true,
+        "has_extended_profile": true,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "es"
+}

@@ -1,0 +1,275 @@
+{
+    "created_at": "Wed Jul 14 16:00:22 +0000 2021",
+    "id": 1415340404019548172,
+    "id_str": "1415340404019548172",
+    "full_text": "RT @marioraulnegri: Alberto Fern\u00e1ndez est\u00e1 tirando la honra bien ganada de nuestro pa\u00eds en la lucha por los Derechos Humanos. Primero defen\u2026",
+    "truncated": false,
+    "display_text_range": [
+        0,
+        140
+    ],
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "marioraulnegri",
+                "name": "Mario Ra\u00fal Negri",
+                "id": 267784293,
+                "id_str": "267784293",
+                "indices": [
+                    3,
+                    18
+                ]
+            }
+        ],
+        "urls": []
+    },
+    "metadata": {
+        "iso_language_code": "es",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 3309321867,
+        "id_str": "3309321867",
+        "name": "Luz",
+        "screen_name": "Luz_opinando",
+        "location": "",
+        "description": "Ante el insulto bloqueo. No me interesa que me lea gente maleducada.",
+        "url": null,
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 4079,
+        "friends_count": 3894,
+        "listed_count": 1,
+        "created_at": "Fri Jun 05 15:15:11 +0000 2015",
+        "favourites_count": 329919,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 156592,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1288057184010502145/IaA-ereR_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1288057184010502145/IaA-ereR_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/3309321867/1589467385",
+        "profile_link_color": "981CEB",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "profile_use_background_image": false,
+        "has_extended_profile": true,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+        "created_at": "Wed Jul 14 02:21:48 +0000 2021",
+        "id": 1415134404389769217,
+        "id_str": "1415134404389769217",
+        "full_text": "Alberto Fern\u00e1ndez est\u00e1 tirando la honra bien ganada de nuestro pa\u00eds en la lucha por los Derechos Humanos. Primero defendiendo el r\u00e9gimen de Maduro en Venezuela, luego de los Ortega en Nicaragua y ahora del castrismo en Cuba. https://t.co/rFsIdS7Yom",
+        "truncated": false,
+        "display_text_range": [
+            0,
+            224
+        ],
+        "entities": {
+            "hashtags": [],
+            "symbols": [],
+            "user_mentions": [],
+            "urls": [],
+            "media": [
+                {
+                    "id": 1415134395187568646,
+                    "id_str": "1415134395187568646",
+                    "indices": [
+                        225,
+                        248
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/E6ORPBaXoAYkNIo.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/E6ORPBaXoAYkNIo.jpg",
+                    "url": "https://t.co/rFsIdS7Yom",
+                    "display_url": "pic.twitter.com/rFsIdS7Yom",
+                    "expanded_url": "https://twitter.com/marioraulnegri/status/1415134404389769217/photo/1",
+                    "type": "photo",
+                    "sizes": {
+                        "large": {
+                            "w": 1280,
+                            "h": 719,
+                            "resize": "fit"
+                        },
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "medium": {
+                            "w": 1200,
+                            "h": 674,
+                            "resize": "fit"
+                        },
+                        "small": {
+                            "w": 680,
+                            "h": 382,
+                            "resize": "fit"
+                        }
+                    }
+                }
+            ]
+        },
+        "extended_entities": {
+            "media": [
+                {
+                    "id": 1415134395187568646,
+                    "id_str": "1415134395187568646",
+                    "indices": [
+                        225,
+                        248
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/E6ORPBaXoAYkNIo.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/E6ORPBaXoAYkNIo.jpg",
+                    "url": "https://t.co/rFsIdS7Yom",
+                    "display_url": "pic.twitter.com/rFsIdS7Yom",
+                    "expanded_url": "https://twitter.com/marioraulnegri/status/1415134404389769217/photo/1",
+                    "type": "photo",
+                    "sizes": {
+                        "large": {
+                            "w": 1280,
+                            "h": 719,
+                            "resize": "fit"
+                        },
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "medium": {
+                            "w": 1200,
+                            "h": 674,
+                            "resize": "fit"
+                        },
+                        "small": {
+                            "w": 680,
+                            "h": 382,
+                            "resize": "fit"
+                        }
+                    }
+                }
+            ]
+        },
+        "metadata": {
+            "iso_language_code": "es",
+            "result_type": "recent"
+        },
+        "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 267784293,
+            "id_str": "267784293",
+            "name": "Mario Ra\u00fal Negri",
+            "screen_name": "marioraulnegri",
+            "location": "C\u00f3rdoba, Argentina",
+            "description": "Diputado Nacional - C\u00f3rdoba - Presidente del Bloque UCR y del Interbloque Juntos por el Cambio.",
+            "url": "https://t.co/fiAkvRtEc1",
+            "entities": {
+                "url": {
+                    "urls": [
+                        {
+                            "url": "https://t.co/fiAkvRtEc1",
+                            "expanded_url": "http://www.marionegri.com.ar",
+                            "display_url": "marionegri.com.ar",
+                            "indices": [
+                                0,
+                                23
+                            ]
+                        }
+                    ]
+                },
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 211819,
+            "friends_count": 1148,
+            "listed_count": 436,
+            "created_at": "Thu Mar 17 14:47:45 +0000 2011",
+            "favourites_count": 10776,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": true,
+            "verified": true,
+            "statuses_count": 16157,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "EB1111",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1042446986371321858/ZVKQC5TA_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1042446986371321858/ZVKQC5TA_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/267784293/1572374020",
+            "profile_link_color": "68A9B3",
+            "profile_sidebar_border_color": "FFFFFF",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "has_extended_profile": true,
+            "default_profile": false,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none",
+            "withheld_in_countries": []
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 522,
+        "favorite_count": 1448,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "es"
+    },
+    "is_quote_status": false,
+    "retweet_count": 522,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "es"
+}

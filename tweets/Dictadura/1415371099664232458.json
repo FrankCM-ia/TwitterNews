@@ -1,0 +1,214 @@
+{
+    "created_at": "Wed Jul 14 18:02:21 +0000 2021",
+    "id": 1415371099664232458,
+    "id_str": "1415371099664232458",
+    "full_text": "RT @rop2412: @mariuvidal Error de tipeo: donde dice \"el gobierno\", debe decir \"la dictadura\". Gracias.",
+    "truncated": false,
+    "display_text_range": [
+        0,
+        102
+    ],
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "rop2412",
+                "name": "Rafa, el renegau Pereyra",
+                "id": 207085526,
+                "id_str": "207085526",
+                "indices": [
+                    3,
+                    11
+                ]
+            },
+            {
+                "screen_name": "mariuvidal",
+                "name": "Mar\u00eda Eugenia Vidal",
+                "id": 109040582,
+                "id_str": "109040582",
+                "indices": [
+                    13,
+                    24
+                ]
+            }
+        ],
+        "urls": []
+    },
+    "metadata": {
+        "iso_language_code": "es",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 781308404400873472,
+        "id_str": "781308404400873472",
+        "name": "Alejandra G. Sena",
+        "screen_name": "AlejandraGSena1",
+        "location": "",
+        "description": "Escucho buena m\u00fasica\ud83c\udfb6\ud83c\udfb6LUPUS sist\u00e9mico...esperando mi vacuna contra el lupus\u23f3\u231b\ud83d\udc8a\ud83d\udc89  Mauricio y Patricia. LIBERTAD, de eso se trata la vida.",
+        "url": null,
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 6509,
+        "friends_count": 6970,
+        "listed_count": 3,
+        "created_at": "Thu Sep 29 01:43:34 +0000 2016",
+        "favourites_count": 23767,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 19612,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": null,
+        "profile_background_image_url_https": null,
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1385645407125000201/3Eo_lwgm_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1385645407125000201/3Eo_lwgm_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/781308404400873472/1619198536",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": true,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+        "created_at": "Wed Jul 14 17:10:17 +0000 2021",
+        "id": 1415357997367316481,
+        "id_str": "1415357997367316481",
+        "full_text": "@mariuvidal Error de tipeo: donde dice \"el gobierno\", debe decir \"la dictadura\". Gracias.",
+        "truncated": false,
+        "display_text_range": [
+            12,
+            89
+        ],
+        "entities": {
+            "hashtags": [],
+            "symbols": [],
+            "user_mentions": [
+                {
+                    "screen_name": "mariuvidal",
+                    "name": "Mar\u00eda Eugenia Vidal",
+                    "id": 109040582,
+                    "id_str": "109040582",
+                    "indices": [
+                        0,
+                        11
+                    ]
+                }
+            ],
+            "urls": []
+        },
+        "metadata": {
+            "iso_language_code": "es",
+            "result_type": "recent"
+        },
+        "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+        "in_reply_to_status_id": 1415327528554745863,
+        "in_reply_to_status_id_str": "1415327528554745863",
+        "in_reply_to_user_id": 109040582,
+        "in_reply_to_user_id_str": "109040582",
+        "in_reply_to_screen_name": "mariuvidal",
+        "user": {
+            "id": 207085526,
+            "id_str": "207085526",
+            "name": "Rafa, el renegau Pereyra",
+            "screen_name": "rop2412",
+            "location": "Villa Mantero, Entre R\u00edos!",
+            "description": "Jubilado, entrerriano, liberal de derecha. \nCanto tangos.\nMi canal de youtube: https://t.co/GTRuLUuWgB",
+            "url": null,
+            "entities": {
+                "description": {
+                    "urls": [
+                        {
+                            "url": "https://t.co/GTRuLUuWgB",
+                            "expanded_url": "https://www.youtube.com/channel/UC_IMxUB0HtZvPOGyKL_VUnw?view_as=",
+                            "display_url": "youtube.com/channel/UC_IMx\u2026",
+                            "indices": [
+                                79,
+                                102
+                            ]
+                        }
+                    ]
+                }
+            },
+            "protected": false,
+            "followers_count": 7161,
+            "friends_count": 7137,
+            "listed_count": 23,
+            "created_at": "Sun Oct 24 13:46:57 +0000 2010",
+            "favourites_count": 45997,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": true,
+            "verified": false,
+            "statuses_count": 149274,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "FFF04D",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme19/bg.gif",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme19/bg.gif",
+            "profile_background_tile": true,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1369142360240750597/GTM06Ei1_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1369142360240750597/GTM06Ei1_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/207085526/1612150259",
+            "profile_link_color": "0099CC",
+            "profile_sidebar_border_color": "FFFFFF",
+            "profile_sidebar_fill_color": "F6FFD1",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "has_extended_profile": true,
+            "default_profile": false,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none",
+            "withheld_in_countries": []
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 3,
+        "favorite_count": 8,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "es"
+    },
+    "is_quote_status": false,
+    "retweet_count": 3,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "es"
+}

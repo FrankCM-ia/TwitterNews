@@ -1,0 +1,400 @@
+{
+    "created_at": "Wed Jul 14 16:00:38 +0000 2021",
+    "id": 1415340468846698507,
+    "id_str": "1415340468846698507",
+    "full_text": "RT @MarioCujae: El pueblo de Regla en La Habana, junto a los estudiantes de la #CUJAE respaldan a nuestro gobierno.\n\u00a1Patria o muerte!\n\u00a1Venc\u2026",
+    "truncated": false,
+    "display_text_range": [
+        0,
+        140
+    ],
+    "entities": {
+        "hashtags": [
+            {
+                "text": "CUJAE",
+                "indices": [
+                    79,
+                    85
+                ]
+            }
+        ],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "MarioCujae",
+                "name": "MarioCUJAE",
+                "id": 1074812552922714113,
+                "id_str": "1074812552922714113",
+                "indices": [
+                    3,
+                    14
+                ]
+            }
+        ],
+        "urls": []
+    },
+    "metadata": {
+        "iso_language_code": "es",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 1138551602279866373,
+        "id_str": "1138551602279866373",
+        "name": "Eros Valdes",
+        "screen_name": "valdes_eros",
+        "location": "",
+        "description": "Procura no ir esparciendo espinas por el camino, Tal vez te toque volver descalzo \ud83c\udde8\ud83c\uddfa",
+        "url": null,
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 1144,
+        "friends_count": 2249,
+        "listed_count": 0,
+        "created_at": "Tue Jun 11 21:00:30 +0000 2019",
+        "favourites_count": 15008,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 35566,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": null,
+        "profile_background_image_url_https": null,
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1138885813100515338/MLYIYSix_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1138885813100515338/MLYIYSix_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1138551602279866373/1588612027",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": true,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+        "created_at": "Wed Jul 14 13:33:38 +0000 2021",
+        "id": 1415303476100411392,
+        "id_str": "1415303476100411392",
+        "full_text": "El pueblo de Regla en La Habana, junto a los estudiantes de la #CUJAE respaldan a nuestro gobierno.\n\u00a1Patria o muerte!\n\u00a1Venceremos!\n@AAB_Cuba @jsaborido50 \n@modesto_gc @MollCUJAE @DanhizDP @AlmaCujae \n@CujaeRedSocial @nataliauci16 @osanamoleriop https://t.co/iUvkkuoWZY",
+        "truncated": false,
+        "display_text_range": [
+            0,
+            244
+        ],
+        "entities": {
+            "hashtags": [
+                {
+                    "text": "CUJAE",
+                    "indices": [
+                        63,
+                        69
+                    ]
+                }
+            ],
+            "symbols": [],
+            "user_mentions": [
+                {
+                    "screen_name": "AAB_Cuba",
+                    "name": "Alicia Alonso Becerra",
+                    "id": 1072150897667526656,
+                    "id_str": "1072150897667526656",
+                    "indices": [
+                        131,
+                        140
+                    ]
+                },
+                {
+                    "screen_name": "jsaborido50",
+                    "name": "Jos\u00e9 Ram\u00f3n Saborido Loidi",
+                    "id": 951848755682336768,
+                    "id_str": "951848755682336768",
+                    "indices": [
+                        141,
+                        153
+                    ]
+                },
+                {
+                    "screen_name": "modesto_gc",
+                    "name": "Modesto Ricardo G\u00f3mez Crespo",
+                    "id": 1086633779584630785,
+                    "id_str": "1086633779584630785",
+                    "indices": [
+                        155,
+                        166
+                    ]
+                },
+                {
+                    "screen_name": "MollCUJAE",
+                    "name": "ReyMoll",
+                    "id": 1076339543966658560,
+                    "id_str": "1076339543966658560",
+                    "indices": [
+                        167,
+                        177
+                    ]
+                },
+                {
+                    "screen_name": "DanhizDP",
+                    "name": "Danhiz D\u00edaz Pereira",
+                    "id": 3826709240,
+                    "id_str": "3826709240",
+                    "indices": [
+                        178,
+                        187
+                    ]
+                },
+                {
+                    "screen_name": "AlmaCujae",
+                    "name": "Alma Cujae",
+                    "id": 947997916978974726,
+                    "id_str": "947997916978974726",
+                    "indices": [
+                        188,
+                        198
+                    ]
+                },
+                {
+                    "screen_name": "CujaeRedSocial",
+                    "name": "Universidad Tecnol\u00f3gica de La Habana",
+                    "id": 3220423548,
+                    "id_str": "3220423548",
+                    "indices": [
+                        200,
+                        215
+                    ]
+                },
+                {
+                    "screen_name": "nataliauci16",
+                    "name": "Natalia \ud83c\udde8\ud83c\uddfa",
+                    "id": 805890929940975616,
+                    "id_str": "805890929940975616",
+                    "indices": [
+                        216,
+                        229
+                    ]
+                },
+                {
+                    "screen_name": "osanamoleriop",
+                    "name": "Osana Molerio P\u00e9rez",
+                    "id": 1080840193425526785,
+                    "id_str": "1080840193425526785",
+                    "indices": [
+                        230,
+                        244
+                    ]
+                }
+            ],
+            "urls": [],
+            "media": [
+                {
+                    "id": 1415300677706960898,
+                    "id_str": "1415300677706960898",
+                    "indices": [
+                        245,
+                        268
+                    ],
+                    "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1415300677706960898/pu/img/ShfdgbEKW3ljtmF_.jpg",
+                    "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1415300677706960898/pu/img/ShfdgbEKW3ljtmF_.jpg",
+                    "url": "https://t.co/iUvkkuoWZY",
+                    "display_url": "pic.twitter.com/iUvkkuoWZY",
+                    "expanded_url": "https://twitter.com/MarioCujae/status/1415303476100411392/video/1",
+                    "type": "photo",
+                    "sizes": {
+                        "medium": {
+                            "w": 640,
+                            "h": 480,
+                            "resize": "fit"
+                        },
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "small": {
+                            "w": 640,
+                            "h": 480,
+                            "resize": "fit"
+                        },
+                        "large": {
+                            "w": 640,
+                            "h": 480,
+                            "resize": "fit"
+                        }
+                    }
+                }
+            ]
+        },
+        "extended_entities": {
+            "media": [
+                {
+                    "id": 1415300677706960898,
+                    "id_str": "1415300677706960898",
+                    "indices": [
+                        245,
+                        268
+                    ],
+                    "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1415300677706960898/pu/img/ShfdgbEKW3ljtmF_.jpg",
+                    "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1415300677706960898/pu/img/ShfdgbEKW3ljtmF_.jpg",
+                    "url": "https://t.co/iUvkkuoWZY",
+                    "display_url": "pic.twitter.com/iUvkkuoWZY",
+                    "expanded_url": "https://twitter.com/MarioCujae/status/1415303476100411392/video/1",
+                    "type": "video",
+                    "sizes": {
+                        "medium": {
+                            "w": 640,
+                            "h": 480,
+                            "resize": "fit"
+                        },
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "small": {
+                            "w": 640,
+                            "h": 480,
+                            "resize": "fit"
+                        },
+                        "large": {
+                            "w": 640,
+                            "h": 480,
+                            "resize": "fit"
+                        }
+                    },
+                    "video_info": {
+                        "aspect_ratio": [
+                            4,
+                            3
+                        ],
+                        "duration_millis": 97800,
+                        "variants": [
+                            {
+                                "bitrate": 2176000,
+                                "content_type": "video/mp4",
+                                "url": "https://video.twimg.com/ext_tw_video/1415300677706960898/pu/vid/640x480/fMu-XrR_MX9kHblg.mp4?tag=12"
+                            },
+                            {
+                                "content_type": "application/x-mpegURL",
+                                "url": "https://video.twimg.com/ext_tw_video/1415300677706960898/pu/pl/2LsVtUn2f-2Uj0AN.m3u8?tag=12&container=fmp4"
+                            },
+                            {
+                                "bitrate": 832000,
+                                "content_type": "video/mp4",
+                                "url": "https://video.twimg.com/ext_tw_video/1415300677706960898/pu/vid/480x360/shQFExOAH6mT3LVN.mp4?tag=12"
+                            },
+                            {
+                                "bitrate": 256000,
+                                "content_type": "video/mp4",
+                                "url": "https://video.twimg.com/ext_tw_video/1415300677706960898/pu/vid/360x270/Y2QP-rmXi3oCzBG4.mp4?tag=12"
+                            }
+                        ]
+                    },
+                    "additional_media_info": {
+                        "monetizable": false
+                    }
+                }
+            ]
+        },
+        "metadata": {
+            "iso_language_code": "es",
+            "result_type": "recent"
+        },
+        "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 1074812552922714113,
+            "id_str": "1074812552922714113",
+            "name": "MarioCUJAE",
+            "screen_name": "MarioCujae",
+            "location": "La Habana. Cuba",
+            "description": "Soy profesor de Ingenier\u00eda Mec\u00e1nica e Ingenier\u00eda en Metalurgia y Materiales de la Facultad de Ingenier\u00eda Mec\u00e1nica de la CUJAE",
+            "url": null,
+            "entities": {
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 552,
+            "friends_count": 390,
+            "listed_count": 0,
+            "created_at": "Mon Dec 17 23:44:16 +0000 2018",
+            "favourites_count": 4117,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": false,
+            "verified": false,
+            "statuses_count": 3249,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "F5F8FA",
+            "profile_background_image_url": null,
+            "profile_background_image_url_https": null,
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1074813683145076738/XUnvncNR_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1074813683145076738/XUnvncNR_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/1074812552922714113/1547994472",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "has_extended_profile": true,
+            "default_profile": true,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none",
+            "withheld_in_countries": []
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 5,
+        "favorite_count": 15,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "es"
+    },
+    "is_quote_status": false,
+    "retweet_count": 5,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "es"
+}

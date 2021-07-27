@@ -1,0 +1,283 @@
+{
+    "created_at": "Wed Jul 14 18:08:32 +0000 2021",
+    "id": 1415372658779336705,
+    "id_str": "1415372658779336705",
+    "full_text": "RT @JuanDomingBiden: @EugeniaRolon_ Argentino Comunista promedio: \"En Cuba hay Libre expresion y votan cada 5 a\u00f1os!!!\"\n\n*El Che Guevara y F\u2026",
+    "truncated": false,
+    "display_text_range": [
+        0,
+        140
+    ],
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "JuanDomingBiden",
+                "name": "Juan Domingo Biden",
+                "id": 1325641699742396417,
+                "id_str": "1325641699742396417",
+                "indices": [
+                    3,
+                    19
+                ]
+            },
+            {
+                "screen_name": "EugeniaRolon_",
+                "name": "Eugenia Rol\u00f3n",
+                "id": 1001517475618488320,
+                "id_str": "1001517475618488320",
+                "indices": [
+                    21,
+                    35
+                ]
+            }
+        ],
+        "urls": []
+    },
+    "metadata": {
+        "iso_language_code": "es",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 1336802712772632580,
+        "id_str": "1336802712772632580",
+        "name": "Benedictus \ud83c\udde6\ud83c\uddf7 \u271d\ufe0f",
+        "screen_name": "Benedictusok",
+        "location": "Ciudad Aut\u00f3noma de Buenos Aire",
+        "description": "Cristiano. Anticomunista. Licenciado en Dise\u00f1o Multimedia y de Interacci\u00f3n (UADE). Me gustan los jueguitos de computadora",
+        "url": null,
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 127,
+        "friends_count": 417,
+        "listed_count": 0,
+        "created_at": "Wed Dec 09 22:39:46 +0000 2020",
+        "favourites_count": 19399,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 5788,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": null,
+        "profile_background_image_url_https": null,
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1403076310373707778/bTq03HMg_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1403076310373707778/bTq03HMg_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1336802712772632580/1615660681",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": true,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+        "created_at": "Wed Jul 14 17:17:52 +0000 2021",
+        "id": 1415359906069241864,
+        "id_str": "1415359906069241864",
+        "full_text": "@EugeniaRolon_ Argentino Comunista promedio: \"En Cuba hay Libre expresion y votan cada 5 a\u00f1os!!!\"\n\n*El Che Guevara y Fidel Castro fusilando a libre pensadores, sin juicio ni ley masacre en la impunidad. https://t.co/hyZ4F8JG1h",
+        "truncated": false,
+        "display_text_range": [
+            15,
+            202
+        ],
+        "entities": {
+            "hashtags": [],
+            "symbols": [],
+            "user_mentions": [
+                {
+                    "screen_name": "EugeniaRolon_",
+                    "name": "Eugenia Rol\u00f3n",
+                    "id": 1001517475618488320,
+                    "id_str": "1001517475618488320",
+                    "indices": [
+                        0,
+                        14
+                    ]
+                }
+            ],
+            "urls": [],
+            "media": [
+                {
+                    "id": 1415359903976275969,
+                    "id_str": "1415359903976275969",
+                    "indices": [
+                        203,
+                        226
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/E6ReVXHWQAEpVcY.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/E6ReVXHWQAEpVcY.jpg",
+                    "url": "https://t.co/hyZ4F8JG1h",
+                    "display_url": "pic.twitter.com/hyZ4F8JG1h",
+                    "expanded_url": "https://twitter.com/JuanDomingBiden/status/1415359906069241864/photo/1",
+                    "type": "photo",
+                    "sizes": {
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "medium": {
+                            "w": 960,
+                            "h": 880,
+                            "resize": "fit"
+                        },
+                        "large": {
+                            "w": 960,
+                            "h": 880,
+                            "resize": "fit"
+                        },
+                        "small": {
+                            "w": 680,
+                            "h": 623,
+                            "resize": "fit"
+                        }
+                    }
+                }
+            ]
+        },
+        "extended_entities": {
+            "media": [
+                {
+                    "id": 1415359903976275969,
+                    "id_str": "1415359903976275969",
+                    "indices": [
+                        203,
+                        226
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/E6ReVXHWQAEpVcY.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/E6ReVXHWQAEpVcY.jpg",
+                    "url": "https://t.co/hyZ4F8JG1h",
+                    "display_url": "pic.twitter.com/hyZ4F8JG1h",
+                    "expanded_url": "https://twitter.com/JuanDomingBiden/status/1415359906069241864/photo/1",
+                    "type": "photo",
+                    "sizes": {
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "medium": {
+                            "w": 960,
+                            "h": 880,
+                            "resize": "fit"
+                        },
+                        "large": {
+                            "w": 960,
+                            "h": 880,
+                            "resize": "fit"
+                        },
+                        "small": {
+                            "w": 680,
+                            "h": 623,
+                            "resize": "fit"
+                        }
+                    }
+                }
+            ]
+        },
+        "metadata": {
+            "iso_language_code": "es",
+            "result_type": "recent"
+        },
+        "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+        "in_reply_to_status_id": 1415332464625692679,
+        "in_reply_to_status_id_str": "1415332464625692679",
+        "in_reply_to_user_id": 1001517475618488320,
+        "in_reply_to_user_id_str": "1001517475618488320",
+        "in_reply_to_screen_name": "EugeniaRolon_",
+        "user": {
+            "id": 1325641699742396417,
+            "id_str": "1325641699742396417",
+            "name": "Juan Domingo Biden",
+            "screen_name": "JuanDomingBiden",
+            "location": "",
+            "description": "\ud83c\udde6\ud83c\uddf7\ud83c\udde7\ud83c\uddf7",
+            "url": null,
+            "entities": {
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 813,
+            "friends_count": 81,
+            "listed_count": 0,
+            "created_at": "Mon Nov 09 03:29:57 +0000 2020",
+            "favourites_count": 6739,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": false,
+            "verified": false,
+            "statuses_count": 7893,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "F5F8FA",
+            "profile_background_image_url": null,
+            "profile_background_image_url_https": null,
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1414321870673940486/NbzdmY8z_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1414321870673940486/NbzdmY8z_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/1325641699742396417/1623712658",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "has_extended_profile": true,
+            "default_profile": true,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none",
+            "withheld_in_countries": []
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 3,
+        "favorite_count": 6,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "es"
+    },
+    "is_quote_status": false,
+    "retweet_count": 3,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "es"
+}

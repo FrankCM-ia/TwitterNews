@@ -1,0 +1,275 @@
+{
+    "created_at": "Wed Jul 14 17:20:33 +0000 2021",
+    "id": 1415360583453577218,
+    "id_str": "1415360583453577218",
+    "full_text": "RT @nahuelzn: El Connah's Quay Nomads de Gales \ud83c\udff4\udb40\udc67\udb40\udc62\udb40\udc77\udb40\udc6c\udb40\udc73\udb40\udc7f est\u00e1 jugando contra el Alashkert su partido de Champions en Armenia. Lo acompa\u00f1a UN\u2026",
+    "truncated": false,
+    "display_text_range": [
+        0,
+        139
+    ],
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "nahuelzn",
+                "name": "Nahuel Lanz\u00f3n",
+                "id": 14480408,
+                "id_str": "14480408",
+                "indices": [
+                    3,
+                    12
+                ]
+            }
+        ],
+        "urls": []
+    },
+    "metadata": {
+        "iso_language_code": "es",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 34047480,
+        "id_str": "34047480",
+        "name": "Starkie-Littbarski84 \ud83c\uddf2\ud83c\uddfd\ud83c\udde9\ud83c\uddea\ud83c\uddf8\ud83c\uddfb",
+        "screen_name": "Starkie84",
+        "location": "Mos Eisley, Tatooine",
+        "description": "White Eagle. Aguila Blanca B\u00e1vara. English-Deutsche-Fran\u00e7aise.Tatooinian. Mexicano nacido en El Salvador. #MiaSanMia #Greytliano #BayernM\u00fcnchen",
+        "url": null,
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 929,
+        "friends_count": 5001,
+        "listed_count": 29,
+        "created_at": "Tue Apr 21 21:23:23 +0000 2009",
+        "favourites_count": 68370,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 113461,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "9AE4E8",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme16/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme16/bg.gif",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1335568129800478720/TylDgdTM_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1335568129800478720/TylDgdTM_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/34047480/1415231646",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "DDFFCC",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": true,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+        "created_at": "Wed Jul 14 17:17:39 +0000 2021",
+        "id": 1415359851736276995,
+        "id_str": "1415359851736276995",
+        "full_text": "El Connah's Quay Nomads de Gales \ud83c\udff4\udb40\udc67\udb40\udc62\udb40\udc77\udb40\udc6c\udb40\udc73\udb40\udc7f est\u00e1 jugando contra el Alashkert su partido de Champions en Armenia. Lo acompa\u00f1a UN hincha de su club que se mand\u00f3 el viaje.\n\nEso es pasi\u00f3n por los colores! https://t.co/X3W4b7xIOU",
+        "truncated": false,
+        "display_text_range": [
+            0,
+            197
+        ],
+        "entities": {
+            "hashtags": [],
+            "symbols": [],
+            "user_mentions": [],
+            "urls": [],
+            "media": [
+                {
+                    "id": 1415359848116543489,
+                    "id_str": "1415359848116543489",
+                    "indices": [
+                        198,
+                        221
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/E6ReSHBWYAEqeop.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/E6ReSHBWYAEqeop.jpg",
+                    "url": "https://t.co/X3W4b7xIOU",
+                    "display_url": "pic.twitter.com/X3W4b7xIOU",
+                    "expanded_url": "https://twitter.com/nahuelzn/status/1415359851736276995/photo/1",
+                    "type": "photo",
+                    "sizes": {
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "small": {
+                            "w": 680,
+                            "h": 510,
+                            "resize": "fit"
+                        },
+                        "large": {
+                            "w": 2048,
+                            "h": 1536,
+                            "resize": "fit"
+                        },
+                        "medium": {
+                            "w": 1200,
+                            "h": 900,
+                            "resize": "fit"
+                        }
+                    }
+                }
+            ]
+        },
+        "extended_entities": {
+            "media": [
+                {
+                    "id": 1415359848116543489,
+                    "id_str": "1415359848116543489",
+                    "indices": [
+                        198,
+                        221
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/E6ReSHBWYAEqeop.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/E6ReSHBWYAEqeop.jpg",
+                    "url": "https://t.co/X3W4b7xIOU",
+                    "display_url": "pic.twitter.com/X3W4b7xIOU",
+                    "expanded_url": "https://twitter.com/nahuelzn/status/1415359851736276995/photo/1",
+                    "type": "photo",
+                    "sizes": {
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "small": {
+                            "w": 680,
+                            "h": 510,
+                            "resize": "fit"
+                        },
+                        "large": {
+                            "w": 2048,
+                            "h": 1536,
+                            "resize": "fit"
+                        },
+                        "medium": {
+                            "w": 1200,
+                            "h": 900,
+                            "resize": "fit"
+                        }
+                    }
+                }
+            ]
+        },
+        "metadata": {
+            "iso_language_code": "es",
+            "result_type": "recent"
+        },
+        "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 14480408,
+            "id_str": "14480408",
+            "name": "Nahuel Lanz\u00f3n",
+            "screen_name": "nahuelzn",
+            "location": "Buenos Aires",
+            "description": "Seguime para saber todo sobre el f\u00fatbol que no te muestran en la tele. Escribo y hablo en @alterfutbol y @enganchesup. Antes, 7 a\u00f1os de filosof\u00eda en la UBA.",
+            "url": "https://t.co/k2vt0QKaro",
+            "entities": {
+                "url": {
+                    "urls": [
+                        {
+                            "url": "https://t.co/k2vt0QKaro",
+                            "expanded_url": "https://www.linktr.ee/nahuelzn",
+                            "display_url": "linktr.ee/nahuelzn",
+                            "indices": [
+                                0,
+                                23
+                            ]
+                        }
+                    ]
+                },
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 24485,
+            "friends_count": 1518,
+            "listed_count": 96,
+            "created_at": "Tue Apr 22 21:02:25 +0000 2008",
+            "favourites_count": 46147,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": false,
+            "verified": false,
+            "statuses_count": 113643,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "131516",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+            "profile_background_tile": true,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1015397102925606912/9kjUMFm5_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1015397102925606912/9kjUMFm5_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/14480408/1399582581",
+            "profile_link_color": "009999",
+            "profile_sidebar_border_color": "EEEEEE",
+            "profile_sidebar_fill_color": "EFEFEF",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "has_extended_profile": true,
+            "default_profile": false,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none",
+            "withheld_in_countries": []
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 3,
+        "favorite_count": 49,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "es"
+    },
+    "is_quote_status": false,
+    "retweet_count": 3,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "es"
+}

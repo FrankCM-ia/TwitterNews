@@ -1,0 +1,126 @@
+{
+    "created_at": "Wed Jul 14 18:12:06 +0000 2021",
+    "id": 1415373556204990464,
+    "id_str": "1415373556204990464",
+    "full_text": "@dojuegos @5Meeples @xeta21 @ElClubDante2 Fran rico mirate las cajas para el marvel champions de @hobbyaescala las vas a querer si o si XD",
+    "truncated": false,
+    "display_text_range": [
+        42,
+        138
+    ],
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "dojuegos",
+                "name": "Descubriendo Juegos",
+                "id": 4621560154,
+                "id_str": "4621560154",
+                "indices": [
+                    0,
+                    9
+                ]
+            },
+            {
+                "screen_name": "5Meeples",
+                "name": "Gon 5Meeples",
+                "id": 3651968488,
+                "id_str": "3651968488",
+                "indices": [
+                    10,
+                    19
+                ]
+            },
+            {
+                "screen_name": "xeta21",
+                "name": "Montse Mkd",
+                "id": 151397931,
+                "id_str": "151397931",
+                "indices": [
+                    20,
+                    27
+                ]
+            },
+            {
+                "screen_name": "ElClubDante2",
+                "name": "El Club Dante",
+                "id": 1022482879253757953,
+                "id_str": "1022482879253757953",
+                "indices": [
+                    28,
+                    41
+                ]
+            }
+        ],
+        "urls": []
+    },
+    "metadata": {
+        "iso_language_code": "es",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "in_reply_to_status_id": 1414978087889031168,
+    "in_reply_to_status_id_str": "1414978087889031168",
+    "in_reply_to_user_id": 4621560154,
+    "in_reply_to_user_id_str": "4621560154",
+    "in_reply_to_screen_name": "dojuegos",
+    "user": {
+        "id": 1242336699499384832,
+        "id_str": "1242336699499384832",
+        "name": "Nacho",
+        "screen_name": "Nacho87025725",
+        "location": "",
+        "description": "",
+        "url": null,
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 9,
+        "friends_count": 71,
+        "listed_count": 0,
+        "created_at": "Tue Mar 24 06:25:39 +0000 2020",
+        "favourites_count": 32,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 40,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": null,
+        "profile_background_image_url_https": null,
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1322304774285524993/n_2TUsTh_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1322304774285524993/n_2TUsTh_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "es"
+}

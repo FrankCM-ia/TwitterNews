@@ -1,0 +1,208 @@
+{
+    "created_at": "Thu Jul 15 17:35:24 +0000 2021",
+    "id": 1415726706275635203,
+    "id_str": "1415726706275635203",
+    "full_text": "Mrk me tiro de un barranco. https://t.co/4UJ4YMfcrf",
+    "truncated": false,
+    "display_text_range": [
+        0,
+        27
+    ],
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+            {
+                "url": "https://t.co/4UJ4YMfcrf",
+                "expanded_url": "https://twitter.com/HangeZoesnk_/status/1415725287480909828",
+                "display_url": "twitter.com/HangeZoesnk_/s\u2026",
+                "indices": [
+                    28,
+                    51
+                ]
+            }
+        ]
+    },
+    "metadata": {
+        "iso_language_code": "es",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 857591273271808001,
+        "id_str": "857591273271808001",
+        "name": "Daz || REB VOLVI\u00d3 AL RP",
+        "screen_name": "SoukokuMaru",
+        "location": "\u2501  \ud835\ude56\ud835\ude68\ud835\ude5d  \ud83d\udc90 \ud835\udc8d\ud835\udc9a\ud835\udc8f\ud835\udc99  he/she",
+        "description": "\u2665\ufe0e. \ud835\udde5\ud835\uddd8\ud835\uddd5\ud835\udde2\ud835\udde5\ud835\udde1?! \u79c1\u306f\u304b\u308c\u3068\u4e00\u7dd2  \ud83d\udca3\ud83d\udca4. . .  \u306b\u4e00\u4eba\u306b\u306a\u308b\u305f\u3081\u306b\u3068\u4e00  \ud835\ude01\ud835\uddfc\ud835\uddf8\ud835\ude06\ud835\uddfc \ud835\uddfa\ud835\uddee\ud835\uddfb\ud835\uddf7\ud835\uddf6 \ud835\uddf4\ud835\uddee\ud835\uddfb\ud835\uddf4 \u306b\u76d7\u3080\u3060\u308d\u3046 \u2726 \ud835\uddd7\ud835\udde5\ud835\uddd4\ud835\uddde\ud835\uddd8\ud835\udde1!!!! \u304b\u308c\u306e\u305f\u3081\u306b\u3059\u3079\u3066\n                     \n\n  \ufe55 \ud811\ude13 @iLYMiSAMEi",
+        "url": "https://t.co/8nRcXWtKfX",
+        "entities": {
+            "url": {
+                "urls": [
+                    {
+                        "url": "https://t.co/8nRcXWtKfX",
+                        "expanded_url": "https://www.twitch.tv/reborn_live",
+                        "display_url": "twitch.tv/reborn_live",
+                        "indices": [
+                            0,
+                            23
+                        ]
+                    }
+                ]
+            },
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 660,
+        "friends_count": 811,
+        "listed_count": 10,
+        "created_at": "Thu Apr 27 13:44:27 +0000 2017",
+        "favourites_count": 57028,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 21685,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": null,
+        "profile_background_image_url_https": null,
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1414611395551899653/fqcpS2hm_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1414611395551899653/fqcpS2hm_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/857591273271808001/1625269120",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": true,
+    "quoted_status_id": 1415725287480909828,
+    "quoted_status_id_str": "1415725287480909828",
+    "quoted_status": {
+        "created_at": "Thu Jul 15 17:29:46 +0000 2021",
+        "id": 1415725287480909828,
+        "id_str": "1415725287480909828",
+        "full_text": "Reborn ahora : Hoy no me apetece Rp. Qu\u00e9 tal un DBD o unos shooters?",
+        "truncated": false,
+        "display_text_range": [
+            0,
+            68
+        ],
+        "entities": {
+            "hashtags": [],
+            "symbols": [],
+            "user_mentions": [],
+            "urls": []
+        },
+        "metadata": {
+            "iso_language_code": "es",
+            "result_type": "recent"
+        },
+        "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 1130786976477655040,
+            "id_str": "1130786976477655040",
+            "name": "Zoe \ud83c\udde8\ud83c\uddf4",
+            "screen_name": "HangeZoesnk_",
+            "location": "Cali, Colombia",
+            "description": "Stan Reborn\nMultifandom \n(No tengo problema de a qui\u00e9n stanees, tus gustos son tuyos)\nhttps://t.co/Fe73LqZ8VW",
+            "url": null,
+            "entities": {
+                "description": {
+                    "urls": [
+                        {
+                            "url": "https://t.co/Fe73LqZ8VW",
+                            "expanded_url": "https://curiouscat.qa/zoesnk_",
+                            "display_url": "curiouscat.qa/zoesnk_",
+                            "indices": [
+                                86,
+                                109
+                            ]
+                        }
+                    ]
+                }
+            },
+            "protected": false,
+            "followers_count": 1982,
+            "friends_count": 1817,
+            "listed_count": 21,
+            "created_at": "Tue May 21 10:46:38 +0000 2019",
+            "favourites_count": 105071,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": false,
+            "verified": false,
+            "statuses_count": 27081,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "F5F8FA",
+            "profile_background_image_url": null,
+            "profile_background_image_url_https": null,
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1415154840255311875/R7IxqRoT_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1415154840255311875/R7IxqRoT_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/1130786976477655040/1621128075",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "has_extended_profile": true,
+            "default_profile": true,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none",
+            "withheld_in_countries": []
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 48,
+        "favorite_count": 647,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "es"
+    },
+    "retweet_count": 0,
+    "favorite_count": 1,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "es"
+}

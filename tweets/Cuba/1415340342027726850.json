@@ -1,0 +1,308 @@
+{
+    "created_at": "Wed Jul 14 16:00:07 +0000 2021",
+    "id": 1415340342027726850,
+    "id_str": "1415340342027726850",
+    "full_text": "RT @CanalCaribeCuba: Que nunca falten entre los cubanos la unidad, el respeto y el amor por la vida \ud83c\udde8\ud83c\uddfa\n\n\ud83d\udc49https://t.co/Nxfwe8r5R7 https://t.\u2026",
+    "truncated": false,
+    "display_text_range": [
+        0,
+        140
+    ],
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "CanalCaribeCuba",
+                "name": "Canal Caribe",
+                "id": 741705695993569281,
+                "id_str": "741705695993569281",
+                "indices": [
+                    3,
+                    19
+                ]
+            }
+        ],
+        "urls": [
+            {
+                "url": "https://t.co/Nxfwe8r5R7",
+                "expanded_url": "https://bit.ly/3ekpoh3",
+                "display_url": "bit.ly/3ekpoh3",
+                "indices": [
+                    105,
+                    128
+                ]
+            }
+        ]
+    },
+    "metadata": {
+        "iso_language_code": "es",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 1267831081761304577,
+        "id_str": "1267831081761304577",
+        "name": "Alido",
+        "screen_name": "Alido37358463",
+        "location": "Vedado Plaza de la Revoluci\u00f3n ",
+        "description": "Subdirector Direcci\u00f3n Territorial CADECA Artemisa-Mayabeque",
+        "url": "https://t.co/6fwIO1UgyZ",
+        "entities": {
+            "url": {
+                "urls": [
+                    {
+                        "url": "https://t.co/6fwIO1UgyZ",
+                        "expanded_url": "http://www.cadeca.cu",
+                        "display_url": "cadeca.cu",
+                        "indices": [
+                            0,
+                            23
+                        ]
+                    }
+                ]
+            },
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 74,
+        "friends_count": 231,
+        "listed_count": 0,
+        "created_at": "Tue Jun 02 14:52:02 +0000 2020",
+        "favourites_count": 1473,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 1123,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": null,
+        "profile_background_image_url_https": null,
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1389919136864690177/yBWp5KUU_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1389919136864690177/yBWp5KUU_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": true,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+        "created_at": "Wed Jul 14 14:42:03 +0000 2021",
+        "id": 1415320695630934017,
+        "id_str": "1415320695630934017",
+        "full_text": "Que nunca falten entre los cubanos la unidad, el respeto y el amor por la vida \ud83c\udde8\ud83c\uddfa\n\n\ud83d\udc49https://t.co/Nxfwe8r5R7 https://t.co/RWDFPc9ps0",
+        "truncated": false,
+        "display_text_range": [
+            0,
+            107
+        ],
+        "entities": {
+            "hashtags": [],
+            "symbols": [],
+            "user_mentions": [],
+            "urls": [
+                {
+                    "url": "https://t.co/Nxfwe8r5R7",
+                    "expanded_url": "https://bit.ly/3ekpoh3",
+                    "display_url": "bit.ly/3ekpoh3",
+                    "indices": [
+                        84,
+                        107
+                    ]
+                }
+            ],
+            "media": [
+                {
+                    "id": 1415320394719023115,
+                    "id_str": "1415320394719023115",
+                    "indices": [
+                        108,
+                        131
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/E6Q6ZnqX0AsFb-v.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/E6Q6ZnqX0AsFb-v.jpg",
+                    "url": "https://t.co/RWDFPc9ps0",
+                    "display_url": "pic.twitter.com/RWDFPc9ps0",
+                    "expanded_url": "https://twitter.com/CanalCaribeCuba/status/1415320695630934017/photo/1",
+                    "type": "photo",
+                    "sizes": {
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "medium": {
+                            "w": 830,
+                            "h": 553,
+                            "resize": "fit"
+                        },
+                        "small": {
+                            "w": 680,
+                            "h": 453,
+                            "resize": "fit"
+                        },
+                        "large": {
+                            "w": 830,
+                            "h": 553,
+                            "resize": "fit"
+                        }
+                    }
+                }
+            ]
+        },
+        "extended_entities": {
+            "media": [
+                {
+                    "id": 1415320394719023115,
+                    "id_str": "1415320394719023115",
+                    "indices": [
+                        108,
+                        131
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/E6Q6ZnqX0AsFb-v.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/E6Q6ZnqX0AsFb-v.jpg",
+                    "url": "https://t.co/RWDFPc9ps0",
+                    "display_url": "pic.twitter.com/RWDFPc9ps0",
+                    "expanded_url": "https://twitter.com/CanalCaribeCuba/status/1415320695630934017/photo/1",
+                    "type": "photo",
+                    "sizes": {
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "medium": {
+                            "w": 830,
+                            "h": 553,
+                            "resize": "fit"
+                        },
+                        "small": {
+                            "w": 680,
+                            "h": 453,
+                            "resize": "fit"
+                        },
+                        "large": {
+                            "w": 830,
+                            "h": 553,
+                            "resize": "fit"
+                        }
+                    }
+                }
+            ]
+        },
+        "metadata": {
+            "iso_language_code": "es",
+            "result_type": "recent"
+        },
+        "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 741705695993569281,
+            "id_str": "741705695993569281",
+            "name": "Canal Caribe",
+            "screen_name": "CanalCaribeCuba",
+            "location": "Cuba",
+            "description": "Canal Cubano de Noticias",
+            "url": "https://t.co/zs2dHr7SYY",
+            "entities": {
+                "url": {
+                    "urls": [
+                        {
+                            "url": "https://t.co/zs2dHr7SYY",
+                            "expanded_url": "http://www.canalcaribe.icrt.cu",
+                            "display_url": "canalcaribe.icrt.cu",
+                            "indices": [
+                                0,
+                                23
+                            ]
+                        }
+                    ]
+                },
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 16746,
+            "friends_count": 297,
+            "listed_count": 81,
+            "created_at": "Sat Jun 11 18:56:32 +0000 2016",
+            "favourites_count": 20850,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": true,
+            "verified": false,
+            "statuses_count": 48579,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "000000",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1047841365399199744/y6YifkLE_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1047841365399199744/y6YifkLE_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/741705695993569281/1588291432",
+            "profile_link_color": "014C8D",
+            "profile_sidebar_border_color": "000000",
+            "profile_sidebar_fill_color": "000000",
+            "profile_text_color": "000000",
+            "profile_use_background_image": false,
+            "has_extended_profile": false,
+            "default_profile": false,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none",
+            "withheld_in_countries": []
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 13,
+        "favorite_count": 16,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "es"
+    },
+    "is_quote_status": false,
+    "retweet_count": 13,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": true,
+    "lang": "es"
+}

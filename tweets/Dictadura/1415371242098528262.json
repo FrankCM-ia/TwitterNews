@@ -1,0 +1,206 @@
+{
+    "created_at": "Wed Jul 14 18:02:55 +0000 2021",
+    "id": 1415371242098528262,
+    "id_str": "1415371242098528262",
+    "full_text": "RT @PaolaHolguin: No es lo mismo protestar para tumbar una dictadura, que bloquear para imponerla",
+    "truncated": false,
+    "display_text_range": [
+        0,
+        97
+    ],
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "PaolaHolguin",
+                "name": "Paola Holgu\u00edn \ud83c\udde8\ud83c\uddf4",
+                "id": 185763733,
+                "id_str": "185763733",
+                "indices": [
+                    3,
+                    16
+                ]
+            }
+        ],
+        "urls": []
+    },
+    "metadata": {
+        "iso_language_code": "es",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 924434108,
+        "id_str": "924434108",
+        "name": "Lucia Mejia",
+        "screen_name": "LuciaMejiaZ",
+        "location": "",
+        "description": "",
+        "url": null,
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 65,
+        "friends_count": 63,
+        "listed_count": 1,
+        "created_at": "Sun Nov 04 01:54:01 +0000 2012",
+        "favourites_count": 9945,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 5337,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/378800000193621700/642003fcd43171e5f8b367d0b1998bc3_normal.jpeg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/378800000193621700/642003fcd43171e5f8b367d0b1998bc3_normal.jpeg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/924434108/1374968438",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+        "created_at": "Wed Jul 14 00:57:31 +0000 2021",
+        "id": 1415113194515861508,
+        "id_str": "1415113194515861508",
+        "full_text": "No es lo mismo protestar para tumbar una dictadura, que bloquear para imponerla",
+        "truncated": false,
+        "display_text_range": [
+            0,
+            79
+        ],
+        "entities": {
+            "hashtags": [],
+            "symbols": [],
+            "user_mentions": [],
+            "urls": []
+        },
+        "metadata": {
+            "iso_language_code": "es",
+            "result_type": "recent"
+        },
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 185763733,
+            "id_str": "185763733",
+            "name": "Paola Holgu\u00edn \ud83c\udde8\ud83c\uddf4",
+            "screen_name": "PaolaHolguin",
+            "location": "Colombia",
+            "description": "Ciudadana que cree en la lucha por la democracia. Senadora de Colombia por el Centro Democr\u00e1tico 2014-18, 2018-22 https://t.co/4wokqVWysz",
+            "url": "https://t.co/w2ogU88s7q",
+            "entities": {
+                "url": {
+                    "urls": [
+                        {
+                            "url": "https://t.co/w2ogU88s7q",
+                            "expanded_url": "http://www.paolaholguin.com",
+                            "display_url": "paolaholguin.com",
+                            "indices": [
+                                0,
+                                23
+                            ]
+                        }
+                    ]
+                },
+                "description": {
+                    "urls": [
+                        {
+                            "url": "https://t.co/4wokqVWysz",
+                            "expanded_url": "http://www.youtube.com/user/paolaholguinmoreno",
+                            "display_url": "youtube.com/user/paolaholg\u2026",
+                            "indices": [
+                                114,
+                                137
+                            ]
+                        }
+                    ]
+                }
+            },
+            "protected": false,
+            "followers_count": 200190,
+            "friends_count": 2974,
+            "listed_count": 500,
+            "created_at": "Wed Sep 01 19:49:14 +0000 2010",
+            "favourites_count": 940,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": true,
+            "verified": true,
+            "statuses_count": 246871,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "1A1B1F",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1410427856497356803/Dh2KGsNC_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1410427856497356803/Dh2KGsNC_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/185763733/1621864777",
+            "profile_link_color": "2FC2EF",
+            "profile_sidebar_border_color": "000000",
+            "profile_sidebar_fill_color": "252429",
+            "profile_text_color": "666666",
+            "profile_use_background_image": false,
+            "has_extended_profile": true,
+            "default_profile": false,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none",
+            "withheld_in_countries": []
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 1424,
+        "favorite_count": 3294,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "es"
+    },
+    "is_quote_status": false,
+    "retweet_count": 1424,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "es"
+}

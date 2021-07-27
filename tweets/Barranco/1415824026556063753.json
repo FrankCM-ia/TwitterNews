@@ -1,0 +1,227 @@
+{
+    "created_at": "Fri Jul 16 00:02:07 +0000 2021",
+    "id": 1415824026556063753,
+    "id_str": "1415824026556063753",
+    "full_text": "#PongoElHombro \ud83d\udc89\ud83c\uddf5\ud83c\uddea Si eres mayor de 45 a\u00f1os est\u00e1s invitado a la VACUNAT\u00d3N de este fin de semana\n\ud83d\uddd3 Inicia: S\u00e1bado 17 de Julio a las 7 a.m hasta el domingo 18 de Julio a las 7 p.m \u00a1De corrido!\n\n@munisurco1 @Barranco_Muni @VesMuni @Muni_VMT https://t.co/ZjttMH11O3",
+    "truncated": false,
+    "display_text_range": [
+        0,
+        237
+    ],
+    "entities": {
+        "hashtags": [
+            {
+                "text": "PongoElHombro",
+                "indices": [
+                    0,
+                    14
+                ]
+            }
+        ],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "munisurco1",
+                "name": "Municipalidad de Santiago de Surco",
+                "id": 1221804050649419776,
+                "id_str": "1221804050649419776",
+                "indices": [
+                    192,
+                    203
+                ]
+            },
+            {
+                "screen_name": "Barranco_Muni",
+                "name": "Muni Barranco",
+                "id": 3004255763,
+                "id_str": "3004255763",
+                "indices": [
+                    204,
+                    218
+                ]
+            },
+            {
+                "screen_name": "VesMuni",
+                "name": "Municipalidad de Villa El Salvador (Oficial)",
+                "id": 586889585,
+                "id_str": "586889585",
+                "indices": [
+                    219,
+                    227
+                ]
+            },
+            {
+                "screen_name": "Muni_VMT",
+                "name": "Municipalidad VMT",
+                "id": 3254189399,
+                "id_str": "3254189399",
+                "indices": [
+                    228,
+                    237
+                ]
+            }
+        ],
+        "urls": [],
+        "media": [
+            {
+                "id": 1415823879990304768,
+                "id_str": "1415823879990304768",
+                "indices": [
+                    238,
+                    261
+                ],
+                "media_url": "http://pbs.twimg.com/media/E6YEUUdWYAAuEp9.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/E6YEUUdWYAAuEp9.jpg",
+                "url": "https://t.co/ZjttMH11O3",
+                "display_url": "pic.twitter.com/ZjttMH11O3",
+                "expanded_url": "https://twitter.com/DIRISLimaSur/status/1415824026556063753/photo/1",
+                "type": "photo",
+                "sizes": {
+                    "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                    },
+                    "small": {
+                        "w": 680,
+                        "h": 680,
+                        "resize": "fit"
+                    },
+                    "large": {
+                        "w": 1000,
+                        "h": 1000,
+                        "resize": "fit"
+                    },
+                    "medium": {
+                        "w": 1000,
+                        "h": 1000,
+                        "resize": "fit"
+                    }
+                }
+            }
+        ]
+    },
+    "extended_entities": {
+        "media": [
+            {
+                "id": 1415823879990304768,
+                "id_str": "1415823879990304768",
+                "indices": [
+                    238,
+                    261
+                ],
+                "media_url": "http://pbs.twimg.com/media/E6YEUUdWYAAuEp9.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/E6YEUUdWYAAuEp9.jpg",
+                "url": "https://t.co/ZjttMH11O3",
+                "display_url": "pic.twitter.com/ZjttMH11O3",
+                "expanded_url": "https://twitter.com/DIRISLimaSur/status/1415824026556063753/photo/1",
+                "type": "photo",
+                "sizes": {
+                    "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                    },
+                    "small": {
+                        "w": 680,
+                        "h": 680,
+                        "resize": "fit"
+                    },
+                    "large": {
+                        "w": 1000,
+                        "h": 1000,
+                        "resize": "fit"
+                    },
+                    "medium": {
+                        "w": 1000,
+                        "h": 1000,
+                        "resize": "fit"
+                    }
+                }
+            }
+        ]
+    },
+    "metadata": {
+        "iso_language_code": "es",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 914951870371827713,
+        "id_str": "914951870371827713",
+        "name": "DIRIS Lima Sur",
+        "screen_name": "DIRISLimaSur",
+        "location": "Barranco",
+        "description": "La DIRIS Lima Sur est\u00e1 encargada de operar, gestionar y articular en Lima Sur los procesos de promoci\u00f3n, prevenci\u00f3n, recuperaci\u00f3n y rehabilitaci\u00f3n en salud.",
+        "url": "https://t.co/v23DwIbgll",
+        "entities": {
+            "url": {
+                "urls": [
+                    {
+                        "url": "https://t.co/v23DwIbgll",
+                        "expanded_url": "http://www.dirislimasur.gob.pe",
+                        "display_url": "dirislimasur.gob.pe",
+                        "indices": [
+                            0,
+                            23
+                        ]
+                    }
+                ]
+            },
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 3212,
+        "friends_count": 392,
+        "listed_count": 8,
+        "created_at": "Mon Oct 02 20:34:59 +0000 2017",
+        "favourites_count": 1137,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 3714,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": null,
+        "profile_background_image_url_https": null,
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1290278345469558789/-HPs7EZk_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1290278345469558789/-HPs7EZk_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/914951870371827713/1625586514",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 8,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "es"
+}

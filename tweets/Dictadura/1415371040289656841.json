@@ -1,0 +1,207 @@
+{
+    "created_at": "Wed Jul 14 18:02:06 +0000 2021",
+    "id": 1415371040289656841,
+    "id_str": "1415371040289656841",
+    "full_text": "RT @maibortpetit: De Vargas Llosa a Residente: se multiplica el repudio de los artistas e intelectuales a la represi\u00f3n de la dictadura cuba\u2026",
+    "truncated": false,
+    "display_text_range": [
+        0,
+        140
+    ],
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "maibortpetit",
+                "name": "Maibort Petit",
+                "id": 81202321,
+                "id_str": "81202321",
+                "indices": [
+                    3,
+                    16
+                ]
+            }
+        ],
+        "urls": []
+    },
+    "metadata": {
+        "iso_language_code": "es",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 71159047,
+        "id_str": "71159047",
+        "name": "Emma Pessagno",
+        "screen_name": "EmmaPessagno",
+        "location": "Valencia, Venezuela",
+        "description": "VENEZOLANA, Madre, hija, esposa y hermana. Comunicadora Social prestada a la tecnolog\u00eda. X siempre UCABISTA. Amante y orgullosa de mi pa\u00eds y mi bella Familia.",
+        "url": null,
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 864,
+        "friends_count": 2226,
+        "listed_count": 3,
+        "created_at": "Thu Sep 03 03:21:57 +0000 2009",
+        "favourites_count": 20290,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 27436,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "FF6699",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme11/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme11/bg.gif",
+        "profile_background_tile": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/453704727868366848/AFx5yRrz_normal.jpeg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/453704727868366848/AFx5yRrz_normal.jpeg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/71159047/1397006533",
+        "profile_link_color": "B40B43",
+        "profile_sidebar_border_color": "CC3366",
+        "profile_sidebar_fill_color": "E5507E",
+        "profile_text_color": "362720",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+        "created_at": "Wed Jul 14 17:58:58 +0000 2021",
+        "id": 1415370250833604613,
+        "id_str": "1415370250833604613",
+        "full_text": "De Vargas Llosa a Residente: se multiplica el repudio de los artistas e intelectuales a la represi\u00f3n de la dictadura cubana https://t.co/rBvp8hu9uP",
+        "truncated": false,
+        "display_text_range": [
+            0,
+            147
+        ],
+        "entities": {
+            "hashtags": [],
+            "symbols": [],
+            "user_mentions": [],
+            "urls": [
+                {
+                    "url": "https://t.co/rBvp8hu9uP",
+                    "expanded_url": "https://www.infobae.com/america/america-latina/2021/07/14/de-vargas-llosa-a-residente-se-multiplica-el-repudio-de-los-artistas-e-intelectuales-a-la-represion-de-la-dictadura-cubana/",
+                    "display_url": "infobae.com/america/americ\u2026",
+                    "indices": [
+                        124,
+                        147
+                    ]
+                }
+            ]
+        },
+        "metadata": {
+            "iso_language_code": "es",
+            "result_type": "recent"
+        },
+        "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 81202321,
+            "id_str": "81202321",
+            "name": "Maibort Petit",
+            "screen_name": "maibortpetit",
+            "location": "United States",
+            "description": "Investigadora y polit\u00f3loga venezolana. Cubro el Crimen Organizado Transnacional. Mi cuenta en Gettr @MaibortPetit",
+            "url": "https://t.co/bwlDgnQS2k",
+            "entities": {
+                "url": {
+                    "urls": [
+                        {
+                            "url": "https://t.co/bwlDgnQS2k",
+                            "expanded_url": "https://linktr.ee/MaibortPetit",
+                            "display_url": "linktr.ee/MaibortPetit",
+                            "indices": [
+                                0,
+                                23
+                            ]
+                        }
+                    ]
+                },
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 553616,
+            "friends_count": 3287,
+            "listed_count": 1375,
+            "created_at": "Fri Oct 09 21:04:28 +0000 2009",
+            "favourites_count": 3958,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": false,
+            "verified": false,
+            "statuses_count": 159288,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "ABB8C2",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme19/bg.gif",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme19/bg.gif",
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1373015152912695296/-WDDFJ66_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1373015152912695296/-WDDFJ66_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/81202321/1560795081",
+            "profile_link_color": "111111",
+            "profile_sidebar_border_color": "000000",
+            "profile_sidebar_fill_color": "000000",
+            "profile_text_color": "000000",
+            "profile_use_background_image": true,
+            "has_extended_profile": true,
+            "default_profile": false,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none",
+            "withheld_in_countries": []
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 11,
+        "favorite_count": 10,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "es"
+    },
+    "is_quote_status": false,
+    "retweet_count": 11,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "es"
+}

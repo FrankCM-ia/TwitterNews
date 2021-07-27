@@ -1,0 +1,140 @@
+{
+    "created_at": "Wed Jul 14 17:28:39 +0000 2021",
+    "id": 1415362619003838471,
+    "id_str": "1415362619003838471",
+    "full_text": "@JesusR81435106 @KidCarloM4gn0 @HugoEnriqueRa17 @Faitelson_ESPN Jajaja quien en su sano juicio pens\u00f3 que los 500 eran de golpe? Ni el m\u00e1s anormal.\nPero las clausulas de lealtad si las cobro.\nSus 70 millones anuales tambi\u00e9n.\nLo que si no cobro fueron los premios por ganar Champions y cosas as\u00ed.\nRepite esa cl\u00e1usula y se ahorran mucho dinero.",
+    "truncated": false,
+    "display_text_range": [
+        64,
+        341
+    ],
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "JesusR81435106",
+                "name": "Jes\u00fasR",
+                "id": 1334319396685312004,
+                "id_str": "1334319396685312004",
+                "indices": [
+                    0,
+                    15
+                ]
+            },
+            {
+                "screen_name": "KidCarloM4gn0",
+                "name": "Israel Segura",
+                "id": 1195353998,
+                "id_str": "1195353998",
+                "indices": [
+                    16,
+                    30
+                ]
+            },
+            {
+                "screen_name": "HugoEnriqueRa17",
+                "name": "\u0126\u0244\u20b2\u00d8 \u051e\u0197\u051e\u0246 \u024c\u20b3\u2c98\u0197\u0301\u024c\u0246\u01b5",
+                "id": 945443467290906624,
+                "id_str": "945443467290906624",
+                "indices": [
+                    31,
+                    47
+                ]
+            },
+            {
+                "screen_name": "Faitelson_ESPN",
+                "name": "David Faitelson",
+                "id": 150832830,
+                "id_str": "150832830",
+                "indices": [
+                    48,
+                    63
+                ]
+            }
+        ],
+        "urls": []
+    },
+    "metadata": {
+        "iso_language_code": "es",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "in_reply_to_status_id": 1415361936573845511,
+    "in_reply_to_status_id_str": "1415361936573845511",
+    "in_reply_to_user_id": 1334319396685312004,
+    "in_reply_to_user_id_str": "1334319396685312004",
+    "in_reply_to_screen_name": "JesusR81435106",
+    "user": {
+        "id": 111250140,
+        "id_str": "111250140",
+        "name": "Carlos Valle Sitja",
+        "screen_name": "vallesitja",
+        "location": "\u00dcT: 19.501939,-99.233317",
+        "description": "Tlatoani de las Cuatro Casas",
+        "url": "http://t.co/Xb8SU8GPBi",
+        "entities": {
+            "url": {
+                "urls": [
+                    {
+                        "url": "http://t.co/Xb8SU8GPBi",
+                        "expanded_url": "http://leemeestaya.blogspot.com/",
+                        "display_url": "leemeestaya.blogspot.com",
+                        "indices": [
+                            0,
+                            22
+                        ]
+                    }
+                ]
+            },
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 826,
+        "friends_count": 1662,
+        "listed_count": 3,
+        "created_at": "Thu Feb 04 08:22:29 +0000 2010",
+        "favourites_count": 9368,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 12924,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "131516",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+        "profile_background_tile": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1217313529876770818/x5V5MnNN_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1217313529876770818/x5V5MnNN_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/111250140/1351561375",
+        "profile_link_color": "009999",
+        "profile_sidebar_border_color": "EEEEEE",
+        "profile_sidebar_fill_color": "EFEFEF",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 1,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "es"
+}

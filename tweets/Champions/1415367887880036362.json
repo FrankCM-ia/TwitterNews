@@ -1,0 +1,97 @@
+{
+    "created_at": "Wed Jul 14 17:49:35 +0000 2021",
+    "id": 1415367887880036362,
+    "id_str": "1415367887880036362",
+    "full_text": "@David74Sanchez No David, yo tuve que ir desde M\u00e9xico hasta Barcelona para tener la de Messi de champions. Y de paso ver el cl\u00e1sico del 2012. Que f\u00e1cil te rendiste.",
+    "truncated": false,
+    "display_text_range": [
+        16,
+        164
+    ],
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "David74Sanchez",
+                "name": "\ud83c\udf99 \ud835\uddd7\ud835\uddee\ud835\ude03\ud835\uddf6\ud835\uddf1 \ud835\udde6\ud835\uddee\u0301\ud835\uddfb\ud835\uddf0\ud835\uddf5\ud835\uddf2\ud835\ude07",
+                "id": 92346321,
+                "id_str": "92346321",
+                "indices": [
+                    0,
+                    15
+                ]
+            }
+        ],
+        "urls": []
+    },
+    "metadata": {
+        "iso_language_code": "es",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "in_reply_to_status_id": 1415357956506505219,
+    "in_reply_to_status_id_str": "1415357956506505219",
+    "in_reply_to_user_id": 92346321,
+    "in_reply_to_user_id_str": "92346321",
+    "in_reply_to_screen_name": "David74Sanchez",
+    "user": {
+        "id": 218706472,
+        "id_str": "218706472",
+        "name": "Oscar Flomeli",
+        "screen_name": "OskRflomeli",
+        "location": "",
+        "description": "Arquitecto \ud83c\udfd7 - Blaugrana 100%",
+        "url": null,
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 188,
+        "friends_count": 493,
+        "listed_count": 0,
+        "created_at": "Tue Nov 23 01:48:00 +0000 2010",
+        "favourites_count": 26825,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 7248,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1414054269242601474/c14G-Ffa_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1414054269242601474/c14G-Ffa_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/218706472/1598454349",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": true,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "es"
+}

@@ -1,0 +1,217 @@
+{
+    "created_at": "Wed Jul 14 18:13:08 +0000 2021",
+    "id": 1415373816344334340,
+    "id_str": "1415373816344334340",
+    "full_text": "RT @Ronaldios2003: @bocarajo_ Copa del Mundo: Argentina \nBal\u00f3n de Oro: Messi\nChampions: Psg",
+    "truncated": false,
+    "display_text_range": [
+        0,
+        91
+    ],
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "Ronaldios2003",
+                "name": "\ud83c\udde6\ud83c\uddf7\u26a1MESSITO\u26a1\ud83c\udde6\ud83c\uddf7",
+                "id": 1408595176721944579,
+                "id_str": "1408595176721944579",
+                "indices": [
+                    3,
+                    17
+                ]
+            },
+            {
+                "screen_name": "bocarajo_",
+                "name": "BOCARAJO",
+                "id": 1347737887530504197,
+                "id_str": "1347737887530504197",
+                "indices": [
+                    19,
+                    29
+                ]
+            }
+        ],
+        "urls": []
+    },
+    "metadata": {
+        "iso_language_code": "es",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 1008178543090720768,
+        "id_str": "1008178543090720768",
+        "name": "Piana",
+        "screen_name": "lautaro_piana",
+        "location": "Campana, Argentina",
+        "description": "19 \ud83d\udcab,\ud83d\udccdCampana, Buenos Aires \ud83d\udccd, Atletismo CCC \ud83d\udc7b lautypiana, \ud83d\udcf8 lautaro_piana",
+        "url": "https://t.co/sDig0SCvxv",
+        "entities": {
+            "url": {
+                "urls": [
+                    {
+                        "url": "https://t.co/sDig0SCvxv",
+                        "expanded_url": "https://www.instagram.com/p/CBoSk0iBpqVA9E02NHOvjFfzRgUb1aN54RK3vQ0/?igshid=1eqpl13k3fc7n",
+                        "display_url": "instagram.com/p/CBoSk0iBpqVA\u2026",
+                        "indices": [
+                            0,
+                            23
+                        ]
+                    }
+                ]
+            },
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 85,
+        "friends_count": 507,
+        "listed_count": 0,
+        "created_at": "Sun Jun 17 02:44:30 +0000 2018",
+        "favourites_count": 14232,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 5589,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": null,
+        "profile_background_image_url_https": null,
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1405932816089718798/UG41u6FT_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1405932816089718798/UG41u6FT_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1008178543090720768/1625972366",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": true,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+        "created_at": "Wed Jul 14 17:35:17 +0000 2021",
+        "id": 1415364288659742720,
+        "id_str": "1415364288659742720",
+        "full_text": "@bocarajo_ Copa del Mundo: Argentina \nBal\u00f3n de Oro: Messi\nChampions: Psg",
+        "truncated": false,
+        "display_text_range": [
+            11,
+            72
+        ],
+        "entities": {
+            "hashtags": [],
+            "symbols": [],
+            "user_mentions": [
+                {
+                    "screen_name": "bocarajo_",
+                    "name": "BOCARAJO",
+                    "id": 1347737887530504197,
+                    "id_str": "1347737887530504197",
+                    "indices": [
+                        0,
+                        10
+                    ]
+                }
+            ],
+            "urls": []
+        },
+        "metadata": {
+            "iso_language_code": "es",
+            "result_type": "recent"
+        },
+        "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+        "in_reply_to_status_id": 1415363828309712902,
+        "in_reply_to_status_id_str": "1415363828309712902",
+        "in_reply_to_user_id": 1347737887530504197,
+        "in_reply_to_user_id_str": "1347737887530504197",
+        "in_reply_to_screen_name": "bocarajo_",
+        "user": {
+            "id": 1408595176721944579,
+            "id_str": "1408595176721944579",
+            "name": "\ud83c\udde6\ud83c\uddf7\u26a1MESSITO\u26a1\ud83c\udde6\ud83c\uddf7",
+            "screen_name": "Ronaldios2003",
+            "location": "Formosa, Argentina",
+            "description": "Me gusta Twitter y fifa mobile xd",
+            "url": null,
+            "entities": {
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 388,
+            "friends_count": 1612,
+            "listed_count": 0,
+            "created_at": "Sat Jun 26 01:17:34 +0000 2021",
+            "favourites_count": 3620,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": false,
+            "verified": false,
+            "statuses_count": 1528,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "F5F8FA",
+            "profile_background_image_url": null,
+            "profile_background_image_url_https": null,
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1415283202734936075/2zL255Sa_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1415283202734936075/2zL255Sa_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/1408595176721944579/1625978225",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "has_extended_profile": true,
+            "default_profile": true,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none",
+            "withheld_in_countries": []
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 1,
+        "favorite_count": 1,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "es"
+    },
+    "is_quote_status": false,
+    "retweet_count": 1,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "es"
+}

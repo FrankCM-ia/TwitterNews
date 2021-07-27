@@ -1,0 +1,107 @@
+{
+    "created_at": "Wed Jul 14 17:43:03 +0000 2021",
+    "id": 1415366245214531590,
+    "id_str": "1415366245214531590",
+    "full_text": "@sport @sanantheone Jugando solo 3 finales de Champions y ganando s\u00f3lo 3 Champions en 22 a\u00f1os, mucho para el mejor jugador de la historia del Barcelona (el Bar\u00e7a solo tiene 5 Champions) pero poco para el \"mejor de toda la historia y de todos los tiempos\".",
+    "truncated": false,
+    "display_text_range": [
+        20,
+        255
+    ],
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "sport",
+                "name": "Diario SPORT",
+                "id": 19343904,
+                "id_str": "19343904",
+                "indices": [
+                    0,
+                    6
+                ]
+            },
+            {
+                "screen_name": "sanantheone",
+                "name": "Ivan San Antonio",
+                "id": 179110779,
+                "id_str": "179110779",
+                "indices": [
+                    7,
+                    19
+                ]
+            }
+        ],
+        "urls": []
+    },
+    "metadata": {
+        "iso_language_code": "es",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "in_reply_to_status_id": 1415295766495592454,
+    "in_reply_to_status_id_str": "1415295766495592454",
+    "in_reply_to_user_id": 19343904,
+    "in_reply_to_user_id_str": "19343904",
+    "in_reply_to_screen_name": "sport",
+    "user": {
+        "id": 1196469749502398464,
+        "id_str": "1196469749502398464",
+        "name": "Mr. V\u00e1squez",
+        "screen_name": "VasquezAbinadi",
+        "location": "",
+        "description": "",
+        "url": null,
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 7,
+        "friends_count": 115,
+        "listed_count": 0,
+        "created_at": "Mon Nov 18 16:46:44 +0000 2019",
+        "favourites_count": 426,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 1598,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": null,
+        "profile_background_image_url_https": null,
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1204832048386629634/amHg0q1R_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1204832048386629634/amHg0q1R_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1196469749502398464/1576090401",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 2,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "es"
+}

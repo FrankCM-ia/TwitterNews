@@ -1,0 +1,419 @@
+{
+    "created_at": "Wed Jul 14 17:13:25 +0000 2021",
+    "id": 1415358788673155073,
+    "id_str": "1415358788673155073",
+    "full_text": "RT @leo_fredd1: Bien que te hizo ganar 4 champions que no conseguiste ni con los gal\u00e1cticos  viejo viagrero https://t.co/9MHTdGQrk6",
+    "truncated": false,
+    "display_text_range": [
+        0,
+        131
+    ],
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "leo_fredd1",
+                "name": "GAL\u00c9S BALE",
+                "id": 1225834750943879168,
+                "id_str": "1225834750943879168",
+                "indices": [
+                    3,
+                    14
+                ]
+            }
+        ],
+        "urls": [],
+        "media": [
+            {
+                "id": 1415297430988464129,
+                "id_str": "1415297430988464129",
+                "indices": [
+                    108,
+                    131
+                ],
+                "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1415297430988464129/pu/img/vsV8u7fZxjXqw-ao.jpg",
+                "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1415297430988464129/pu/img/vsV8u7fZxjXqw-ao.jpg",
+                "url": "https://t.co/9MHTdGQrk6",
+                "display_url": "pic.twitter.com/9MHTdGQrk6",
+                "expanded_url": "https://twitter.com/dxnirm/status/1415297452048109580/video/1",
+                "type": "photo",
+                "sizes": {
+                    "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                    },
+                    "medium": {
+                        "w": 1200,
+                        "h": 675,
+                        "resize": "fit"
+                    },
+                    "small": {
+                        "w": 680,
+                        "h": 383,
+                        "resize": "fit"
+                    },
+                    "large": {
+                        "w": 1280,
+                        "h": 720,
+                        "resize": "fit"
+                    }
+                },
+                "source_status_id": 1415297452048109580,
+                "source_status_id_str": "1415297452048109580",
+                "source_user_id": 1314913745076981762,
+                "source_user_id_str": "1314913745076981762"
+            }
+        ]
+    },
+    "extended_entities": {
+        "media": [
+            {
+                "id": 1415297430988464129,
+                "id_str": "1415297430988464129",
+                "indices": [
+                    108,
+                    131
+                ],
+                "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1415297430988464129/pu/img/vsV8u7fZxjXqw-ao.jpg",
+                "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1415297430988464129/pu/img/vsV8u7fZxjXqw-ao.jpg",
+                "url": "https://t.co/9MHTdGQrk6",
+                "display_url": "pic.twitter.com/9MHTdGQrk6",
+                "expanded_url": "https://twitter.com/dxnirm/status/1415297452048109580/video/1",
+                "type": "video",
+                "sizes": {
+                    "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                    },
+                    "medium": {
+                        "w": 1200,
+                        "h": 675,
+                        "resize": "fit"
+                    },
+                    "small": {
+                        "w": 680,
+                        "h": 383,
+                        "resize": "fit"
+                    },
+                    "large": {
+                        "w": 1280,
+                        "h": 720,
+                        "resize": "fit"
+                    }
+                },
+                "source_status_id": 1415297452048109580,
+                "source_status_id_str": "1415297452048109580",
+                "source_user_id": 1314913745076981762,
+                "source_user_id_str": "1314913745076981762",
+                "video_info": {
+                    "aspect_ratio": [
+                        16,
+                        9
+                    ],
+                    "duration_millis": 12040,
+                    "variants": [
+                        {
+                            "bitrate": 832000,
+                            "content_type": "video/mp4",
+                            "url": "https://video.twimg.com/ext_tw_video/1415297430988464129/pu/vid/640x360/q4VqGB-e7auySxRQ.mp4?tag=12"
+                        },
+                        {
+                            "bitrate": 2176000,
+                            "content_type": "video/mp4",
+                            "url": "https://video.twimg.com/ext_tw_video/1415297430988464129/pu/vid/1280x720/CI6aFDBgJ1qZulJw.mp4?tag=12"
+                        },
+                        {
+                            "bitrate": 256000,
+                            "content_type": "video/mp4",
+                            "url": "https://video.twimg.com/ext_tw_video/1415297430988464129/pu/vid/480x270/d8SHOVgYCZriH9G5.mp4?tag=12"
+                        },
+                        {
+                            "content_type": "application/x-mpegURL",
+                            "url": "https://video.twimg.com/ext_tw_video/1415297430988464129/pu/pl/pygnPhyuZd6Zogtm.m3u8?tag=12&container=fmp4"
+                        }
+                    ]
+                },
+                "additional_media_info": {
+                    "monetizable": false
+                }
+            }
+        ]
+    },
+    "metadata": {
+        "iso_language_code": "es",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 1389042785714573313,
+        "id_str": "1389042785714573313",
+        "name": "DEJEN LA VIDA POR ESTA CAMISETA\ud83d\udd34\u26ab",
+        "screen_name": "LautyLeiva1974",
+        "location": "Rosario ",
+        "description": "NEWELL'S POR ENCIMA DE TODOS.\nMe bloquearon la otra cuenta . (EX nachota Scocco ) \n\u00bfComo te vas a ir 4 veces a la B?\ud83d\udd07",
+        "url": null,
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 134,
+        "friends_count": 366,
+        "listed_count": 0,
+        "created_at": "Mon May 03 02:23:16 +0000 2021",
+        "favourites_count": 2457,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 601,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": null,
+        "profile_background_image_url_https": null,
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1389050176334188544/zGWVubD7_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1389050176334188544/zGWVubD7_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1389042785714573313/1620010318",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": true,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+        "created_at": "Wed Jul 14 17:09:20 +0000 2021",
+        "id": 1415357760305303552,
+        "id_str": "1415357760305303552",
+        "full_text": "Bien que te hizo ganar 4 champions que no conseguiste ni con los gal\u00e1cticos  viejo viagrero https://t.co/9MHTdGQrk6",
+        "truncated": false,
+        "display_text_range": [
+            0,
+            115
+        ],
+        "entities": {
+            "hashtags": [],
+            "symbols": [],
+            "user_mentions": [],
+            "urls": [],
+            "media": [
+                {
+                    "id": 1415297430988464129,
+                    "id_str": "1415297430988464129",
+                    "indices": [
+                        92,
+                        115
+                    ],
+                    "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1415297430988464129/pu/img/vsV8u7fZxjXqw-ao.jpg",
+                    "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1415297430988464129/pu/img/vsV8u7fZxjXqw-ao.jpg",
+                    "url": "https://t.co/9MHTdGQrk6",
+                    "display_url": "pic.twitter.com/9MHTdGQrk6",
+                    "expanded_url": "https://twitter.com/dxnirm/status/1415297452048109580/video/1",
+                    "type": "photo",
+                    "sizes": {
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "medium": {
+                            "w": 1200,
+                            "h": 675,
+                            "resize": "fit"
+                        },
+                        "small": {
+                            "w": 680,
+                            "h": 383,
+                            "resize": "fit"
+                        },
+                        "large": {
+                            "w": 1280,
+                            "h": 720,
+                            "resize": "fit"
+                        }
+                    },
+                    "source_status_id": 1415297452048109580,
+                    "source_status_id_str": "1415297452048109580",
+                    "source_user_id": 1314913745076981762,
+                    "source_user_id_str": "1314913745076981762"
+                }
+            ]
+        },
+        "extended_entities": {
+            "media": [
+                {
+                    "id": 1415297430988464129,
+                    "id_str": "1415297430988464129",
+                    "indices": [
+                        92,
+                        115
+                    ],
+                    "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1415297430988464129/pu/img/vsV8u7fZxjXqw-ao.jpg",
+                    "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1415297430988464129/pu/img/vsV8u7fZxjXqw-ao.jpg",
+                    "url": "https://t.co/9MHTdGQrk6",
+                    "display_url": "pic.twitter.com/9MHTdGQrk6",
+                    "expanded_url": "https://twitter.com/dxnirm/status/1415297452048109580/video/1",
+                    "type": "video",
+                    "sizes": {
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "medium": {
+                            "w": 1200,
+                            "h": 675,
+                            "resize": "fit"
+                        },
+                        "small": {
+                            "w": 680,
+                            "h": 383,
+                            "resize": "fit"
+                        },
+                        "large": {
+                            "w": 1280,
+                            "h": 720,
+                            "resize": "fit"
+                        }
+                    },
+                    "source_status_id": 1415297452048109580,
+                    "source_status_id_str": "1415297452048109580",
+                    "source_user_id": 1314913745076981762,
+                    "source_user_id_str": "1314913745076981762",
+                    "video_info": {
+                        "aspect_ratio": [
+                            16,
+                            9
+                        ],
+                        "duration_millis": 12040,
+                        "variants": [
+                            {
+                                "bitrate": 832000,
+                                "content_type": "video/mp4",
+                                "url": "https://video.twimg.com/ext_tw_video/1415297430988464129/pu/vid/640x360/q4VqGB-e7auySxRQ.mp4?tag=12"
+                            },
+                            {
+                                "bitrate": 2176000,
+                                "content_type": "video/mp4",
+                                "url": "https://video.twimg.com/ext_tw_video/1415297430988464129/pu/vid/1280x720/CI6aFDBgJ1qZulJw.mp4?tag=12"
+                            },
+                            {
+                                "bitrate": 256000,
+                                "content_type": "video/mp4",
+                                "url": "https://video.twimg.com/ext_tw_video/1415297430988464129/pu/vid/480x270/d8SHOVgYCZriH9G5.mp4?tag=12"
+                            },
+                            {
+                                "content_type": "application/x-mpegURL",
+                                "url": "https://video.twimg.com/ext_tw_video/1415297430988464129/pu/pl/pygnPhyuZd6Zogtm.m3u8?tag=12&container=fmp4"
+                            }
+                        ]
+                    },
+                    "additional_media_info": {
+                        "monetizable": false
+                    }
+                }
+            ]
+        },
+        "metadata": {
+            "iso_language_code": "es",
+            "result_type": "recent"
+        },
+        "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 1225834750943879168,
+            "id_str": "1225834750943879168",
+            "name": "GAL\u00c9S BALE",
+            "screen_name": "leo_fredd1",
+            "location": "",
+            "description": "Bale no fan account",
+            "url": null,
+            "entities": {
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 1116,
+            "friends_count": 549,
+            "listed_count": 0,
+            "created_at": "Fri Feb 07 17:32:40 +0000 2020",
+            "favourites_count": 10130,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": false,
+            "verified": false,
+            "statuses_count": 11508,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "F5F8FA",
+            "profile_background_image_url": null,
+            "profile_background_image_url_https": null,
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1415009285709369345/e3UgqXhI_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1415009285709369345/e3UgqXhI_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/1225834750943879168/1621632946",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "has_extended_profile": true,
+            "default_profile": true,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none",
+            "withheld_in_countries": []
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 2,
+        "favorite_count": 9,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "es"
+    },
+    "is_quote_status": false,
+    "retweet_count": 2,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "es"
+}

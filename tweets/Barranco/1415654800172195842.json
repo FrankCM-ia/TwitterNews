@@ -1,0 +1,97 @@
+{
+    "created_at": "Thu Jul 15 12:49:40 +0000 2021",
+    "id": 1415654800172195842,
+    "id_str": "1415654800172195842",
+    "full_text": "@Ecclesiasticca Ca\u00ed en uni ayer, si me cambias el beso por un empuj\u00f3n a un barranco",
+    "truncated": false,
+    "display_text_range": [
+        16,
+        83
+    ],
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "Ecclesiasticca",
+                "name": "\ud83d\udd78\ufe0f\ud835\udc6c\ud835\udc6a\ud835\udc6a\ud835\udc73\ud835\udc6c\ud835\udc7a\ud835\udc70\ud835\udc68\ud83d\udd78\ufe0f",
+                "id": 1915013214,
+                "id_str": "1915013214",
+                "indices": [
+                    0,
+                    15
+                ]
+            }
+        ],
+        "urls": []
+    },
+    "metadata": {
+        "iso_language_code": "es",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "in_reply_to_status_id": 1415651560168857602,
+    "in_reply_to_status_id_str": "1415651560168857602",
+    "in_reply_to_user_id": 1915013214,
+    "in_reply_to_user_id_str": "1915013214",
+    "in_reply_to_screen_name": "Ecclesiasticca",
+    "user": {
+        "id": 922101477732225025,
+        "id_str": "922101477732225025",
+        "name": "Mer jor lo dejo",
+        "screen_name": "mermartist",
+        "location": "Crying ",
+        "description": "[ESP/ENG/GER? ] Tired Artist \u2728 Fine Arts / History of art + \ud83c\udfa8 #BerniniFangirl \u2728Baroque Soul\u2728 nb {all pronouns are cool} \u26d4 private acc: @bitchkawatooru",
+        "url": null,
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 472,
+        "friends_count": 774,
+        "listed_count": 7,
+        "created_at": "Sun Oct 22 14:04:58 +0000 2017",
+        "favourites_count": 88820,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 77842,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": null,
+        "profile_background_image_url_https": null,
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1318133440366202880/i6vZ5LCD_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1318133440366202880/i6vZ5LCD_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/922101477732225025/1603102679",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": true,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 1,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "es"
+}

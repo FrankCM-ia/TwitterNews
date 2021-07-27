@@ -1,0 +1,288 @@
+{
+    "created_at": "Thu Jul 15 11:34:00 +0000 2021",
+    "id": 1415635757746860032,
+    "id_str": "1415635757746860032",
+    "full_text": "RT @FraileEriz: \ud83d\uddd3\ufe0f #VueltaZamora21 - Etapa 3\n\ud83d\udee3\ufe0f Fonfr\u00eda - Riofr\u00edo de Aliste\n\ud83d\udcca 142.8 kil\u00f3metros\n\ud83d\udd70\ufe0f 15:00 - 18:34\n\n\ud83d\udcd1 Previa: https://t.co/RqG\u2026",
+    "truncated": false,
+    "display_text_range": [
+        0,
+        140
+    ],
+    "entities": {
+        "hashtags": [
+            {
+                "text": "VueltaZamora21",
+                "indices": [
+                    19,
+                    34
+                ]
+            }
+        ],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "FraileEriz",
+                "name": "Eriz Fraile",
+                "id": 1108090771452973056,
+                "id_str": "1108090771452973056",
+                "indices": [
+                    3,
+                    14
+                ]
+            }
+        ],
+        "urls": []
+    },
+    "metadata": {
+        "iso_language_code": "es",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 92941609,
+        "id_str": "92941609",
+        "name": "David Barranco",
+        "screen_name": "david_barranco",
+        "location": "",
+        "description": "\ud83d\udcda Dr. en Actividad F\u00edsica y Salud. \ud83d\udd0e\ud83e\uddea Profesor Ciclismo e Investigador en Universidad Europea de Madrid  \ud83d\udcbb\u23f1 Entrenador Ciclistas y Triatletas",
+        "url": null,
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 1229,
+        "friends_count": 2183,
+        "listed_count": 7,
+        "created_at": "Fri Nov 27 10:10:48 +0000 2009",
+        "favourites_count": 1446,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 10405,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme18/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme18/bg.gif",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1234082801902854145/rKwRXW9o_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1234082801902854145/rKwRXW9o_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/92941609/1583132103",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+        "created_at": "Thu Jul 15 11:30:00 +0000 2021",
+        "id": 1415634750593814532,
+        "id_str": "1415634750593814532",
+        "full_text": "\ud83d\uddd3\ufe0f #VueltaZamora21 - Etapa 3\n\ud83d\udee3\ufe0f Fonfr\u00eda - Riofr\u00edo de Aliste\n\ud83d\udcca 142.8 kil\u00f3metros\n\ud83d\udd70\ufe0f 15:00 - 18:34\n\n\ud83d\udcd1 Previa: https://t.co/RqGb1r5tBE https://t.co/E3trpqolhy",
+        "truncated": false,
+        "display_text_range": [
+            0,
+            130
+        ],
+        "entities": {
+            "hashtags": [
+                {
+                    "text": "VueltaZamora21",
+                    "indices": [
+                        3,
+                        18
+                    ]
+                }
+            ],
+            "symbols": [],
+            "user_mentions": [],
+            "urls": [
+                {
+                    "url": "https://t.co/RqGb1r5tBE",
+                    "expanded_url": "http://bit.ly/PreZamora21",
+                    "display_url": "bit.ly/PreZamora21",
+                    "indices": [
+                        107,
+                        130
+                    ]
+                }
+            ],
+            "media": [
+                {
+                    "id": 1414615171163725824,
+                    "id_str": "1414615171163725824",
+                    "indices": [
+                        131,
+                        154
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/E6G5ANMXoAA307m.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/E6G5ANMXoAA307m.jpg",
+                    "url": "https://t.co/E3trpqolhy",
+                    "display_url": "pic.twitter.com/E3trpqolhy",
+                    "expanded_url": "https://twitter.com/FraileEriz/status/1415634750593814532/photo/1",
+                    "type": "photo",
+                    "sizes": {
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "large": {
+                            "w": 1016,
+                            "h": 406,
+                            "resize": "fit"
+                        },
+                        "small": {
+                            "w": 680,
+                            "h": 272,
+                            "resize": "fit"
+                        },
+                        "medium": {
+                            "w": 1016,
+                            "h": 406,
+                            "resize": "fit"
+                        }
+                    }
+                }
+            ]
+        },
+        "extended_entities": {
+            "media": [
+                {
+                    "id": 1414615171163725824,
+                    "id_str": "1414615171163725824",
+                    "indices": [
+                        131,
+                        154
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/E6G5ANMXoAA307m.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/E6G5ANMXoAA307m.jpg",
+                    "url": "https://t.co/E3trpqolhy",
+                    "display_url": "pic.twitter.com/E3trpqolhy",
+                    "expanded_url": "https://twitter.com/FraileEriz/status/1415634750593814532/photo/1",
+                    "type": "photo",
+                    "sizes": {
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "large": {
+                            "w": 1016,
+                            "h": 406,
+                            "resize": "fit"
+                        },
+                        "small": {
+                            "w": 680,
+                            "h": 272,
+                            "resize": "fit"
+                        },
+                        "medium": {
+                            "w": 1016,
+                            "h": 406,
+                            "resize": "fit"
+                        }
+                    }
+                }
+            ]
+        },
+        "metadata": {
+            "iso_language_code": "es",
+            "result_type": "recent"
+        },
+        "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 1108090771452973056,
+            "id_str": "1108090771452973056",
+            "name": "Eriz Fraile",
+            "screen_name": "FraileEriz",
+            "location": "Barakaldo",
+            "description": "1997 | Periodista | Socio de @AgenciaCicloCom | Junto letras para @ssprint_final y @Equipo_LaTova | Intento de fot\u00f3grafo | Editor de perfiles ciclistas",
+            "url": null,
+            "entities": {
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 1330,
+            "friends_count": 547,
+            "listed_count": 27,
+            "created_at": "Tue Mar 19 19:40:02 +0000 2019",
+            "favourites_count": 4230,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": false,
+            "verified": false,
+            "statuses_count": 8204,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "000000",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1392038687551197184/Y8jph6VI_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1392038687551197184/Y8jph6VI_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/1108090771452973056/1553034370",
+            "profile_link_color": "ABB8C2",
+            "profile_sidebar_border_color": "000000",
+            "profile_sidebar_fill_color": "000000",
+            "profile_text_color": "000000",
+            "profile_use_background_image": false,
+            "has_extended_profile": true,
+            "default_profile": false,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none",
+            "withheld_in_countries": []
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 1,
+        "favorite_count": 1,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "es"
+    },
+    "is_quote_status": false,
+    "retweet_count": 1,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "es"
+}

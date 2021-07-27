@@ -1,0 +1,107 @@
+{
+    "created_at": "Wed Jul 14 17:59:43 +0000 2021",
+    "id": 1415370437970825218,
+    "id_str": "1415370437970825218",
+    "full_text": "@williecolon @PedroOquero Ning\u00fan hijo de puta comunista que se encuentre viviendo en USA se va a regresar a CUBA, solo defienden a Cuba, a Castro y a los comunistas por que est\u00e1n en lo nomina de los castristas",
+    "truncated": false,
+    "display_text_range": [
+        26,
+        209
+    ],
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "williecolon",
+                "name": "Willie Col\u00f3n",
+                "id": 46919513,
+                "id_str": "46919513",
+                "indices": [
+                    0,
+                    12
+                ]
+            },
+            {
+                "screen_name": "PedroOquero",
+                "name": "Pedro Alejando Oquero Roversi",
+                "id": 289754763,
+                "id_str": "289754763",
+                "indices": [
+                    13,
+                    25
+                ]
+            }
+        ],
+        "urls": []
+    },
+    "metadata": {
+        "iso_language_code": "es",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_status_id": 1415160242917281797,
+    "in_reply_to_status_id_str": "1415160242917281797",
+    "in_reply_to_user_id": 46919513,
+    "in_reply_to_user_id_str": "46919513",
+    "in_reply_to_screen_name": "williecolon",
+    "user": {
+        "id": 975339692,
+        "id_str": "975339692",
+        "name": "CHUCKIE",
+        "screen_name": "salasrolm",
+        "location": "Caracas, Venezuela",
+        "description": "Rechazo todo tipo de Adulaci\u00f3n",
+        "url": null,
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 1841,
+        "friends_count": 3015,
+        "listed_count": 17,
+        "created_at": "Wed Nov 28 04:19:56 +0000 2012",
+        "favourites_count": 5629,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 68030,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1331424519744053249/NHSdfDrw_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1331424519744053249/NHSdfDrw_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/975339692/1596499557",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": true,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "es"
+}

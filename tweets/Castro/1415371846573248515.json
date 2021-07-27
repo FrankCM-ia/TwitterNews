@@ -1,0 +1,109 @@
+{
+    "created_at": "Wed Jul 14 18:05:19 +0000 2021",
+    "id": 1415371846573248515,
+    "id_str": "1415371846573248515",
+    "full_text": "@luisrinconge Hay una verdad impl\u00edcita: D\u00edaz Canel no es un Castro y ergo, el PCC ya no es igual de poderoso a lo interno.",
+    "truncated": false,
+    "display_text_range": [
+        14,
+        122
+    ],
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "luisrinconge",
+                "name": "Luisrinconge",
+                "id": 896828416774868994,
+                "id_str": "896828416774868994",
+                "indices": [
+                    0,
+                    13
+                ]
+            }
+        ],
+        "urls": []
+    },
+    "metadata": {
+        "iso_language_code": "es",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "in_reply_to_status_id": 1415364086729162759,
+    "in_reply_to_status_id_str": "1415364086729162759",
+    "in_reply_to_user_id": 896828416774868994,
+    "in_reply_to_user_id_str": "896828416774868994",
+    "in_reply_to_screen_name": "luisrinconge",
+    "user": {
+        "id": 114763883,
+        "id_str": "114763883",
+        "name": "Pbro. Luis Camejo",
+        "screen_name": "supertucan44",
+        "location": "\u00dcT: 10.957864,-63.84301",
+        "description": "Hombre de fe, busco la justicia y la paz. Amante del beisbol y la buena comida. S\u00f3lo el amor vence al mal.",
+        "url": "https://t.co/lUg4bjzD7y",
+        "entities": {
+            "url": {
+                "urls": [
+                    {
+                        "url": "https://t.co/lUg4bjzD7y",
+                        "expanded_url": "http://www.elblogdeluiscamejo.blogspot.com",
+                        "display_url": "elblogdeluiscamejo.blogspot.com",
+                        "indices": [
+                            0,
+                            23
+                        ]
+                    }
+                ]
+            },
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 3233,
+        "friends_count": 1665,
+        "listed_count": 15,
+        "created_at": "Tue Feb 16 14:48:16 +0000 2010",
+        "favourites_count": 29346,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 32831,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "1A1B1F",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1158031124691656709/jIhWLo1F_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1158031124691656709/jIhWLo1F_normal.jpg",
+        "profile_link_color": "2FC2EF",
+        "profile_sidebar_border_color": "181A1E",
+        "profile_sidebar_fill_color": "252429",
+        "profile_text_color": "666666",
+        "profile_use_background_image": true,
+        "has_extended_profile": true,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "es"
+}

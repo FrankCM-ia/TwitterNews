@@ -1,0 +1,309 @@
+{
+    "created_at": "Wed Jul 14 18:00:38 +0000 2021",
+    "id": 1415370668263227392,
+    "id_str": "1415370668263227392",
+    "full_text": "RT @ElAguijon_: Enrique Santiago, un comunista apolillado que gana 118.248,58 \u20ac como Secretario de Estado para la Agenda 2030 y que admite\u2026",
+    "truncated": false,
+    "display_text_range": [
+        0,
+        139
+    ],
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "ElAguijon_",
+                "name": "El Aguij\u00f3n \ud83d\udc1d",
+                "id": 902092087,
+                "id_str": "902092087",
+                "indices": [
+                    3,
+                    14
+                ]
+            }
+        ],
+        "urls": []
+    },
+    "metadata": {
+        "iso_language_code": "es",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 1235627133155921923,
+        "id_str": "1235627133155921923",
+        "name": "ramon m-p c",
+        "screen_name": "Monra03231136",
+        "location": "Madrid capital",
+        "description": "@Ramon9491\nMadrid, Espa\u00f1a\nSe uni\u00f3 en diciembre de 2011\nCUENTA SUSPENDIDA POR Twitter El 05/03/2020",
+        "url": null,
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 212,
+        "friends_count": 485,
+        "listed_count": 0,
+        "created_at": "Thu Mar 05 18:05:25 +0000 2020",
+        "favourites_count": 17257,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 12880,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": null,
+        "profile_background_image_url_https": null,
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1407370317597753349/tK1Cfwzf_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1407370317597753349/tK1Cfwzf_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1235627133155921923/1583607284",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": true,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+        "created_at": "Wed Jul 14 17:54:39 +0000 2021",
+        "id": 1415369163976105984,
+        "id_str": "1415369163976105984",
+        "full_text": "Enrique Santiago, un comunista apolillado que gana 118.248,58 \u20ac como Secretario de Estado para la Agenda 2030 y que admite en p\u00fablico que admira a Lenin, Maduro y Fidel Castro \n#ElGobiernoTeRoba \nhttps://t.co/sDB8RYzolX",
+        "truncated": false,
+        "display_text_range": [
+            0,
+            219
+        ],
+        "entities": {
+            "hashtags": [
+                {
+                    "text": "ElGobiernoTeRoba",
+                    "indices": [
+                        177,
+                        194
+                    ]
+                }
+            ],
+            "symbols": [],
+            "user_mentions": [],
+            "urls": [],
+            "media": [
+                {
+                    "id": 1258735946679410689,
+                    "id_str": "1258735946679410689",
+                    "indices": [
+                        196,
+                        219
+                    ],
+                    "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1258735946679410689/pu/img/eHLOj39wc-bE5iEm.jpg",
+                    "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1258735946679410689/pu/img/eHLOj39wc-bE5iEm.jpg",
+                    "url": "https://t.co/sDB8RYzolX",
+                    "display_url": "pic.twitter.com/sDB8RYzolX",
+                    "expanded_url": "https://twitter.com/Amartinbeaumont/status/1258735990438494208/video/1",
+                    "type": "photo",
+                    "sizes": {
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "medium": {
+                            "w": 1114,
+                            "h": 626,
+                            "resize": "fit"
+                        },
+                        "large": {
+                            "w": 1114,
+                            "h": 626,
+                            "resize": "fit"
+                        },
+                        "small": {
+                            "w": 680,
+                            "h": 382,
+                            "resize": "fit"
+                        }
+                    },
+                    "source_status_id": 1258735990438494208,
+                    "source_status_id_str": "1258735990438494208",
+                    "source_user_id": 270506305,
+                    "source_user_id_str": "270506305"
+                }
+            ]
+        },
+        "extended_entities": {
+            "media": [
+                {
+                    "id": 1258735946679410689,
+                    "id_str": "1258735946679410689",
+                    "indices": [
+                        196,
+                        219
+                    ],
+                    "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1258735946679410689/pu/img/eHLOj39wc-bE5iEm.jpg",
+                    "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1258735946679410689/pu/img/eHLOj39wc-bE5iEm.jpg",
+                    "url": "https://t.co/sDB8RYzolX",
+                    "display_url": "pic.twitter.com/sDB8RYzolX",
+                    "expanded_url": "https://twitter.com/Amartinbeaumont/status/1258735990438494208/video/1",
+                    "type": "video",
+                    "sizes": {
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "medium": {
+                            "w": 1114,
+                            "h": 626,
+                            "resize": "fit"
+                        },
+                        "large": {
+                            "w": 1114,
+                            "h": 626,
+                            "resize": "fit"
+                        },
+                        "small": {
+                            "w": 680,
+                            "h": 382,
+                            "resize": "fit"
+                        }
+                    },
+                    "source_status_id": 1258735990438494208,
+                    "source_status_id_str": "1258735990438494208",
+                    "source_user_id": 270506305,
+                    "source_user_id_str": "270506305",
+                    "video_info": {
+                        "aspect_ratio": [
+                            557,
+                            313
+                        ],
+                        "duration_millis": 45720,
+                        "variants": [
+                            {
+                                "content_type": "application/x-mpegURL",
+                                "url": "https://video.twimg.com/ext_tw_video/1258735946679410689/pu/pl/eetUJHmSf5zu--eM.m3u8?tag=10"
+                            },
+                            {
+                                "bitrate": 2176000,
+                                "content_type": "video/mp4",
+                                "url": "https://video.twimg.com/ext_tw_video/1258735946679410689/pu/vid/1114x626/gYTHN7RfPX3h3ew6.mp4?tag=10"
+                            },
+                            {
+                                "bitrate": 256000,
+                                "content_type": "video/mp4",
+                                "url": "https://video.twimg.com/ext_tw_video/1258735946679410689/pu/vid/480x270/RqGb35TaMp63DXsb.mp4?tag=10"
+                            },
+                            {
+                                "bitrate": 832000,
+                                "content_type": "video/mp4",
+                                "url": "https://video.twimg.com/ext_tw_video/1258735946679410689/pu/vid/640x360/j_CyCG5SkaxEbkw6.mp4?tag=10"
+                            }
+                        ]
+                    },
+                    "additional_media_info": {
+                        "monetizable": false
+                    }
+                }
+            ]
+        },
+        "metadata": {
+            "iso_language_code": "es",
+            "result_type": "recent"
+        },
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 902092087,
+            "id_str": "902092087",
+            "name": "El Aguij\u00f3n \ud83d\udc1d",
+            "screen_name": "ElAguijon_",
+            "location": "En las barricadas ",
+            "description": "Reparto aguijonazos",
+            "url": null,
+            "entities": {
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 86450,
+            "friends_count": 953,
+            "listed_count": 414,
+            "created_at": "Wed Oct 24 15:49:58 +0000 2012",
+            "favourites_count": 104897,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": false,
+            "verified": false,
+            "statuses_count": 106053,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "C0DEED",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1288606985076826112/DOOTvFPM_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1288606985076826112/DOOTvFPM_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/902092087/1560098248",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "has_extended_profile": false,
+            "default_profile": true,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none",
+            "withheld_in_countries": []
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 24,
+        "favorite_count": 23,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "es"
+    },
+    "is_quote_status": false,
+    "retweet_count": 24,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "es"
+}

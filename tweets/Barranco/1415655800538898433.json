@@ -1,0 +1,127 @@
+{
+    "created_at": "Thu Jul 15 12:53:39 +0000 2021",
+    "id": 1415655800538898433,
+    "id_str": "1415655800538898433",
+    "full_text": "@CDTOficial @JCCordero9 @Nahuel7Leiva @RealOviedo Si lo quiere el Oviedo que pague y punto, si no tienen dinero pues a llorar al barranco. A venderlo al mejor postor.",
+    "truncated": false,
+    "display_text_range": [
+        50,
+        166
+    ],
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "CDTOficial",
+                "name": "CD Tenerife",
+                "id": 608154553,
+                "id_str": "608154553",
+                "indices": [
+                    0,
+                    11
+                ]
+            },
+            {
+                "screen_name": "JCCordero9",
+                "name": "Juan Carlos Cordero",
+                "id": 1050320150203965441,
+                "id_str": "1050320150203965441",
+                "indices": [
+                    12,
+                    23
+                ]
+            },
+            {
+                "screen_name": "Nahuel7Leiva",
+                "name": "Nahuel Leiva",
+                "id": 1455438775,
+                "id_str": "1455438775",
+                "indices": [
+                    24,
+                    37
+                ]
+            },
+            {
+                "screen_name": "RealOviedo",
+                "name": "Real Oviedo",
+                "id": 263843269,
+                "id_str": "263843269",
+                "indices": [
+                    38,
+                    49
+                ]
+            }
+        ],
+        "urls": []
+    },
+    "metadata": {
+        "iso_language_code": "es",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "in_reply_to_status_id": 1415648093354274817,
+    "in_reply_to_status_id_str": "1415648093354274817",
+    "in_reply_to_user_id": 608154553,
+    "in_reply_to_user_id_str": "608154553",
+    "in_reply_to_screen_name": "CDTOficial",
+    "user": {
+        "id": 722380619968344064,
+        "id_str": "722380619968344064",
+        "name": "Giovanni Gonz\u00e1lez",
+        "screen_name": "gioglezzz",
+        "location": "Santa Cruz de Tenerife, Espa\u00f1a",
+        "description": "Tenerife\ud83c\uddee\ud83c\udde897'\nEF Santiago del Teide, CD Ofra, CD San Miguel, CD San Isidro,CD Armepalmas, Atco. Alcal\u00e1, CD Isora, CD Atl\u00e9tico Granadilla, CD Bah\u00eda Santiago\ud83d\udc50\u26bd",
+        "url": null,
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 337,
+        "friends_count": 486,
+        "listed_count": 0,
+        "created_at": "Tue Apr 19 11:05:35 +0000 2016",
+        "favourites_count": 4897,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 1277,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": null,
+        "profile_background_image_url_https": null,
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1359101831050387459/1_uTFIPQ_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1359101831050387459/1_uTFIPQ_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/722380619968344064/1594898388",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": true,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 1,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "es"
+}

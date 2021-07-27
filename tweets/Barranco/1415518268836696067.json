@@ -1,0 +1,130 @@
+{
+    "created_at": "Thu Jul 15 03:47:09 +0000 2021",
+    "id": 1415518268836696067,
+    "id_str": "1415518268836696067",
+    "full_text": "@Tochadas_01 Pero qui\u00e9n es esa pecueca porque con ese taparrabo en la jeta no le reconozco",
+    "truncated": false,
+    "display_text_range": [
+        13,
+        90
+    ],
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "Tochadas_01",
+                "name": "Tochadas_01",
+                "id": 845540678,
+                "id_str": "845540678",
+                "indices": [
+                    0,
+                    12
+                ]
+            }
+        ],
+        "urls": []
+    },
+    "metadata": {
+        "iso_language_code": "es",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_status_id": 1415517278431588352,
+    "in_reply_to_status_id_str": "1415517278431588352",
+    "in_reply_to_user_id": 845540678,
+    "in_reply_to_user_id_str": "845540678",
+    "in_reply_to_screen_name": "Tochadas_01",
+    "user": {
+        "id": 109683863,
+        "id_str": "109683863",
+        "name": "Eduardo \ud83c\uddfb\ud83c\uddea\ud83c\uddfa\ud83c\uddf8",
+        "screen_name": "BARRANCO_ND",
+        "location": "Miami, FL",
+        "description": "#MAGA | Los cabecillas del r\u00e9gimen me tienen bloqueado | Victima y damnificado de @AeroMexico @AM_escucha y estafado por @ViajaNetVE y @Turismo_Maso",
+        "url": null,
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 2771,
+        "friends_count": 4330,
+        "listed_count": 53,
+        "created_at": "Fri Jan 29 22:29:06 +0000 2010",
+        "favourites_count": 14621,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 123284,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1397224293264728070/KC2hrdzy_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1397224293264728070/KC2hrdzy_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/109683863/1498704471",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": true,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": {
+        "id": "04cb31bae3b3af93",
+        "url": "https://api.twitter.com/1.1/geo/id/04cb31bae3b3af93.json",
+        "place_type": "city",
+        "name": "Miami",
+        "full_name": "Miami, FL",
+        "country_code": "US",
+        "country": "United States",
+        "contained_within": [],
+        "bounding_box": {
+            "type": "Polygon",
+            "coordinates": [
+                [
+                    [
+                        -80.321683,
+                        25.7090404
+                    ],
+                    [
+                        -80.144974,
+                        25.7090404
+                    ],
+                    [
+                        -80.144974,
+                        25.855667
+                    ],
+                    [
+                        -80.321683,
+                        25.855667
+                    ]
+                ]
+            ]
+        },
+        "attributes": {}
+    },
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "es"
+}

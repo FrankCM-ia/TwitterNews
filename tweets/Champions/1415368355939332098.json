@@ -1,0 +1,110 @@
+{
+    "created_at": "Wed Jul 14 17:51:26 +0000 2021",
+    "id": 1415368355939332098,
+    "id_str": "1415368355939332098",
+    "full_text": "@unchinodechina Lo has resumido perfectamente. Salvamos vidas. We are the champions.",
+    "truncated": false,
+    "display_text_range": [
+        16,
+        84
+    ],
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "unchinodechina",
+                "name": "Chino de China",
+                "id": 4816899857,
+                "id_str": "4816899857",
+                "indices": [
+                    0,
+                    15
+                ]
+            }
+        ],
+        "urls": []
+    },
+    "metadata": {
+        "iso_language_code": "es",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "in_reply_to_status_id": 1415367663631622144,
+    "in_reply_to_status_id_str": "1415367663631622144",
+    "in_reply_to_user_id": 4816899857,
+    "in_reply_to_user_id_str": "4816899857",
+    "in_reply_to_screen_name": "unchinodechina",
+    "user": {
+        "id": 21121637,
+        "id_str": "21121637",
+        "name": "John M\u00fcller",
+        "screen_name": "cultrun",
+        "location": "MAD/SCL/ZOS",
+        "description": "Madrile\u00f1o de Osorno. He visto caer dos (\u00bf3?) democracias: Chile y Venezuela. Fui bombero. Gitano es mi coraz\u00f3n. Aqu\u00ed hablo como ciudadano, no como periodista.",
+        "url": "https://t.co/FOr03xsmyQ",
+        "entities": {
+            "url": {
+                "urls": [
+                    {
+                        "url": "https://t.co/FOr03xsmyQ",
+                        "expanded_url": "https://johnmuller.wordpress.com/author/cultrun/",
+                        "display_url": "johnmuller.wordpress.com/author/cultrun/",
+                        "indices": [
+                            0,
+                            23
+                        ]
+                    }
+                ]
+            },
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 73160,
+        "friends_count": 3561,
+        "listed_count": 1354,
+        "created_at": "Tue Feb 17 19:39:07 +0000 2009",
+        "favourites_count": 60910,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 205846,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "709397",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+        "profile_background_tile": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1243256598606348292/_gj82BFx_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1243256598606348292/_gj82BFx_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/21121637/1521190150",
+        "profile_link_color": "1B95E0",
+        "profile_sidebar_border_color": "86A4A6",
+        "profile_sidebar_fill_color": "A0C5C7",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": true,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 1,
+    "favorite_count": 11,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "es"
+}

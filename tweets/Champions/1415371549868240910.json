@@ -1,0 +1,97 @@
+{
+    "created_at": "Wed Jul 14 18:04:08 +0000 2021",
+    "id": 1415371549868240910,
+    "id_str": "1415371549868240910",
+    "full_text": "@milenagimon Va por la champions en plan de l\u00edder, creo que es la \u00fanica raz\u00f3n.",
+    "truncated": false,
+    "display_text_range": [
+        13,
+        78
+    ],
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "milenagimon",
+                "name": "milena gimon",
+                "id": 112905634,
+                "id_str": "112905634",
+                "indices": [
+                    0,
+                    12
+                ]
+            }
+        ],
+        "urls": []
+    },
+    "metadata": {
+        "iso_language_code": "es",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "in_reply_to_status_id": 1415332835968290816,
+    "in_reply_to_status_id_str": "1415332835968290816",
+    "in_reply_to_user_id": 112905634,
+    "in_reply_to_user_id_str": "112905634",
+    "in_reply_to_screen_name": "milenagimon",
+    "user": {
+        "id": 146147883,
+        "id_str": "146147883",
+        "name": "Francisco Aponte",
+        "screen_name": "Francisco_iuris",
+        "location": "En una selva de cemento",
+        "description": "Contador Publico-Abogado. Ejerzo por la calle del medio. La verdad est\u00e1 en la calle, no en 4 paredes. Untense de Pueblo. En sociedad todo control es corrupci\u00f3n.",
+        "url": null,
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 391,
+        "friends_count": 959,
+        "listed_count": 3,
+        "created_at": "Thu May 20 18:20:14 +0000 2010",
+        "favourites_count": 326,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 10372,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/629974317305102336/tmXTAtBA_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/629974317305102336/tmXTAtBA_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/146147883/1379367749",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "es"
+}

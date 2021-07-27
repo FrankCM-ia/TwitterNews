@@ -1,0 +1,130 @@
+{
+    "created_at": "Thu Jul 15 10:04:40 +0000 2021",
+    "id": 1415613278122770435,
+    "id_str": "1415613278122770435",
+    "full_text": "@Hng56529270 @Huyenth61935203 @yuqibabe0923 Solo quiero que sepas que ustedes solas tiraron a Yuqi al barranco, yo solo correg\u00ed que el # deber\u00eda de ser para Lucas y ustedes saltaron con conclusiones, eso solo evidencia que realmente lo que dijo fue real y est\u00e1n tratando de cubrilo JAJSBAJ",
+    "truncated": false,
+    "display_text_range": [
+        44,
+        289
+    ],
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "Hng56529270",
+                "name": "H\u1eb1ng",
+                "id": 1415144848705789956,
+                "id_str": "1415144848705789956",
+                "indices": [
+                    0,
+                    12
+                ]
+            },
+            {
+                "screen_name": "Huyenth61935203",
+                "name": "Huyenthu",
+                "id": 1415138540233531393,
+                "id_str": "1415138540233531393",
+                "indices": [
+                    13,
+                    29
+                ]
+            },
+            {
+                "screen_name": "yuqibabe0923",
+                "name": "\ud83e\udd8b",
+                "id": 1072678305894039552,
+                "id_str": "1072678305894039552",
+                "indices": [
+                    30,
+                    43
+                ]
+            }
+        ],
+        "urls": []
+    },
+    "metadata": {
+        "iso_language_code": "es",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "in_reply_to_status_id": 1415610795619098627,
+    "in_reply_to_status_id_str": "1415610795619098627",
+    "in_reply_to_user_id": 1415144848705789956,
+    "in_reply_to_user_id_str": "1415144848705789956",
+    "in_reply_to_screen_name": "Hng56529270",
+    "user": {
+        "id": 4905143065,
+        "id_str": "4905143065",
+        "name": "Mango tooth \u2766",
+        "screen_name": "_LovePaint_",
+        "location": "ncity",
+        "description": "\ud835\udfcf\ud835\udfd6  | \ud835\udfce\ud835\udfd1 \ud835\udc25\ud835\udc22\ud835\udc27\ud835\udc1e | \ud835\udc07\ud835\udc1e/\ud835\udc07\ud835\udc22\ud835\udc26\n\u2014 for #NUEST , #NCT and #WAYV",
+        "url": "https://t.co/TY10y7kNZn",
+        "entities": {
+            "url": {
+                "urls": [
+                    {
+                        "url": "https://t.co/TY10y7kNZn",
+                        "expanded_url": "https://mingi.xn--0qah2a7604a/",
+                        "display_url": "mingi.\u263d\u02ce\u02ca\u02d7",
+                        "indices": [
+                            0,
+                            23
+                        ]
+                    }
+                ]
+            },
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 331,
+        "friends_count": 554,
+        "listed_count": 4,
+        "created_at": "Sun Feb 14 05:10:02 +0000 2016",
+        "favourites_count": 11450,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 3457,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1415442070571937793/m_9sS5Wt_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1415442070571937793/m_9sS5Wt_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/4905143065/1618187078",
+        "profile_link_color": "981CEB",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "profile_use_background_image": false,
+        "has_extended_profile": true,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "es"
+}

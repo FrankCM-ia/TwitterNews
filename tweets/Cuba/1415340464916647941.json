@@ -1,0 +1,139 @@
+{
+    "created_at": "Wed Jul 14 16:00:37 +0000 2021",
+    "id": 1415340464916647941,
+    "id_str": "1415340464916647941",
+    "full_text": "@EAristeguieta Para acompa\u00f1ar a los pueblos de #Cuba, #Venezuela y #Nicaragua no bastan los comunicados de solidaridad. Hace falta conformar una Fuerza Militar Interamericana que enfrente a las tiran\u00edas comunistas y a las organizaciones criminales transnacionales que las sostienen.\n#TIAR",
+    "truncated": false,
+    "display_text_range": [
+        15,
+        288
+    ],
+    "entities": {
+        "hashtags": [
+            {
+                "text": "Cuba",
+                "indices": [
+                    47,
+                    52
+                ]
+            },
+            {
+                "text": "Venezuela",
+                "indices": [
+                    54,
+                    64
+                ]
+            },
+            {
+                "text": "Nicaragua",
+                "indices": [
+                    67,
+                    77
+                ]
+            },
+            {
+                "text": "TIAR",
+                "indices": [
+                    283,
+                    288
+                ]
+            }
+        ],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "EAristeguieta",
+                "name": "Enrique Aristeguieta",
+                "id": 1410380994,
+                "id_str": "1410380994",
+                "indices": [
+                    0,
+                    14
+                ]
+            }
+        ],
+        "urls": []
+    },
+    "metadata": {
+        "iso_language_code": "es",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_status_id": 1415314024225509380,
+    "in_reply_to_status_id_str": "1415314024225509380",
+    "in_reply_to_user_id": 1410380994,
+    "in_reply_to_user_id_str": "1410380994",
+    "in_reply_to_screen_name": "EAristeguieta",
+    "user": {
+        "id": 111195056,
+        "id_str": "111195056",
+        "name": "Andr\u00e9s A. Mezgravis SCO",
+        "screen_name": "amezgravis",
+        "location": "Libertad=pensamiento cr\u00edtico",
+        "description": "Abogado. Profesor de Pre y Postgrado de Resoluci\u00f3n de Conflictos de la UCAB (2000-2013).",
+        "url": "https://t.co/w6yXZnngoA",
+        "entities": {
+            "url": {
+                "urls": [
+                    {
+                        "url": "https://t.co/w6yXZnngoA",
+                        "expanded_url": "http://SociedadCivilVzla.org",
+                        "display_url": "SociedadCivilVzla.org",
+                        "indices": [
+                            0,
+                            23
+                        ]
+                    }
+                ]
+            },
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 29437,
+        "friends_count": 1386,
+        "listed_count": 69,
+        "created_at": "Thu Feb 04 03:06:49 +0000 2010",
+        "favourites_count": 12742,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 16853,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1085202375550427137/qcvJqgn0_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1085202375550427137/qcvJqgn0_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/111195056/1575249611",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 1,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "es"
+}

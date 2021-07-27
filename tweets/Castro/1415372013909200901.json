@@ -1,0 +1,107 @@
+{
+    "created_at": "Wed Jul 14 18:05:59 +0000 2021",
+    "id": 1415372013909200901,
+    "id_str": "1415372013909200901",
+    "full_text": "@MeteoAero @lilian_sala25 Ser\u00eda fenomenal que renuncien todos y se unan al pueblo. Que entiendan q Fidel Castro, no fue el l\u00edder q les hizo creer. Fue un criminal, mit\u00f3mano y ladr\u00f3n. Muri\u00f3 siendo uno de los hombres m\u00e1s rico del \ud83c\udf0e \u00c9l con sus falacias llev\u00f3 a la miseria de terror a \ud83c\udde8\ud83c\uddfa",
+    "truncated": false,
+    "display_text_range": [
+        26,
+        283
+    ],
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "MeteoAero",
+                "name": "Pedro Jaimes Criollo",
+                "id": 1196407146142928897,
+                "id_str": "1196407146142928897",
+                "indices": [
+                    0,
+                    10
+                ]
+            },
+            {
+                "screen_name": "lilian_sala25",
+                "name": "Lilian Salazar",
+                "id": 2538085072,
+                "id_str": "2538085072",
+                "indices": [
+                    11,
+                    25
+                ]
+            }
+        ],
+        "urls": []
+    },
+    "metadata": {
+        "iso_language_code": "es",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_status_id": 1415359097134796807,
+    "in_reply_to_status_id_str": "1415359097134796807",
+    "in_reply_to_user_id": 1196407146142928897,
+    "in_reply_to_user_id_str": "1196407146142928897",
+    "in_reply_to_screen_name": "MeteoAero",
+    "user": {
+        "id": 963429745,
+        "id_str": "963429745",
+        "name": "Romelia Brito",
+        "screen_name": "alausi1528",
+        "location": "",
+        "description": "",
+        "url": null,
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 572,
+        "friends_count": 73,
+        "listed_count": 1,
+        "created_at": "Thu Nov 22 01:37:50 +0000 2012",
+        "favourites_count": 90904,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 94699,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/2883595505/4c419fd96e6f2ea103a4504bc44f6f4c_normal.jpeg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/2883595505/4c419fd96e6f2ea103a4504bc44f6f4c_normal.jpeg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/963429745/1353631732",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "es"
+}

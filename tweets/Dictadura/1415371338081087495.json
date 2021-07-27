@@ -1,0 +1,402 @@
+{
+    "created_at": "Wed Jul 14 18:03:17 +0000 2021",
+    "id": 1415371338081087495,
+    "id_str": "1415371338081087495",
+    "full_text": "RT @TAMARA_SUJU: #Cuba.  Comienzan a bajarse del Titanic de la Represion de la Dictadura cubana.  Dimite el Viceministro del Interior por d\u2026",
+    "truncated": false,
+    "display_text_range": [
+        0,
+        140
+    ],
+    "entities": {
+        "hashtags": [
+            {
+                "text": "Cuba",
+                "indices": [
+                    17,
+                    22
+                ]
+            }
+        ],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "TAMARA_SUJU",
+                "name": "Tamara Suju",
+                "id": 80047141,
+                "id_str": "80047141",
+                "indices": [
+                    3,
+                    15
+                ]
+            }
+        ],
+        "urls": []
+    },
+    "metadata": {
+        "iso_language_code": "es",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 827417358,
+        "id_str": "827417358",
+        "name": "Entre los Cristales",
+        "screen_name": "crissalcedo73",
+        "location": "",
+        "description": "Hay un lugar donde nada te puede lastimar, donde no tienes precio y vales s\u00f3lo por lo que eres. Es un punto de no retorno: la dignidad Walter Riso",
+        "url": null,
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 439,
+        "friends_count": 2300,
+        "listed_count": 0,
+        "created_at": "Sun Sep 16 17:05:24 +0000 2012",
+        "favourites_count": 42355,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 57065,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "ADACAB",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme3/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme3/bg.gif",
+        "profile_background_tile": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/455886231667089409/thkomsJP_normal.jpeg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/455886231667089409/thkomsJP_normal.jpeg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/827417358/1369935843",
+        "profile_link_color": "144531",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+        "created_at": "Wed Jul 14 17:11:08 +0000 2021",
+        "id": 1415358210580439040,
+        "id_str": "1415358210580439040",
+        "full_text": "#Cuba.  Comienzan a bajarse del Titanic de la Represion de la Dictadura cubana.  Dimite el Viceministro del Interior por desacuerdo del uso excesivo de la fuerza contra manifestantes.  #CubaLibre #PatriaYVida #SOSCubaLibre https://t.co/cZtikLQlaK",
+        "truncated": false,
+        "display_text_range": [
+            0,
+            222
+        ],
+        "entities": {
+            "hashtags": [
+                {
+                    "text": "Cuba",
+                    "indices": [
+                        0,
+                        5
+                    ]
+                },
+                {
+                    "text": "CubaLibre",
+                    "indices": [
+                        185,
+                        195
+                    ]
+                },
+                {
+                    "text": "PatriaYVida",
+                    "indices": [
+                        196,
+                        208
+                    ]
+                },
+                {
+                    "text": "SOSCubaLibre",
+                    "indices": [
+                        209,
+                        222
+                    ]
+                }
+            ],
+            "symbols": [],
+            "user_mentions": [],
+            "urls": [
+                {
+                    "url": "https://t.co/cZtikLQlaK",
+                    "expanded_url": "https://twitter.com/abc_es/status/1415353085942185991",
+                    "display_url": "twitter.com/abc_es/status/\u2026",
+                    "indices": [
+                        223,
+                        246
+                    ]
+                }
+            ]
+        },
+        "metadata": {
+            "iso_language_code": "es",
+            "result_type": "recent"
+        },
+        "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 80047141,
+            "id_str": "80047141",
+            "name": "Tamara Suju",
+            "screen_name": "TAMARA_SUJU",
+            "location": "Rep\u00fablica Checa",
+            "description": "Abogada defensora de Derechos Humanos. Directora Ejecutiva de Casla Institute. Delegada de WJA ante la Corte Penal Internacional  @caslainstitute",
+            "url": "https://t.co/QcI7OV33do",
+            "entities": {
+                "url": {
+                    "urls": [
+                        {
+                            "url": "https://t.co/QcI7OV33do",
+                            "expanded_url": "http://www.caslainstitute.org",
+                            "display_url": "caslainstitute.org",
+                            "indices": [
+                                0,
+                                23
+                            ]
+                        }
+                    ]
+                },
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 591881,
+            "friends_count": 6637,
+            "listed_count": 1114,
+            "created_at": "Mon Oct 05 15:12:13 +0000 2009",
+            "favourites_count": 9087,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": true,
+            "verified": false,
+            "statuses_count": 47422,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "C0DEED",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/936870041198379009/5ZsKVEfW_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/936870041198379009/5ZsKVEfW_normal.jpg",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "has_extended_profile": true,
+            "default_profile": true,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none",
+            "withheld_in_countries": []
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": true,
+        "quoted_status_id": 1415353085942185991,
+        "quoted_status_id_str": "1415353085942185991",
+        "quoted_status": {
+            "created_at": "Wed Jul 14 16:50:46 +0000 2021",
+            "id": 1415353085942185991,
+            "id_str": "1415353085942185991",
+            "full_text": "\ud83d\udd34 #\u00daLTIMAHORA Dimite el viceministro del Interior de Cuba, en desacuerdo por el uso de fuerza excesiva contra los manifestantes https://t.co/VNeXNSq93U",
+            "truncated": false,
+            "display_text_range": [
+                0,
+                151
+            ],
+            "entities": {
+                "hashtags": [
+                    {
+                        "text": "\u00daLTIMAHORA",
+                        "indices": [
+                            2,
+                            13
+                        ]
+                    }
+                ],
+                "symbols": [],
+                "user_mentions": [],
+                "urls": [
+                    {
+                        "url": "https://t.co/VNeXNSq93U",
+                        "expanded_url": "http://ver.abc.es/mrsg62",
+                        "display_url": "ver.abc.es/mrsg62",
+                        "indices": [
+                            128,
+                            151
+                        ]
+                    }
+                ]
+            },
+            "metadata": {
+                "iso_language_code": "es",
+                "result_type": "recent"
+            },
+            "source": "<a href=\"http://besocy.com\" rel=\"nofollow\">Besocy_Oficial</a>",
+            "in_reply_to_status_id": 1415291241395363845,
+            "in_reply_to_status_id_str": "1415291241395363845",
+            "in_reply_to_user_id": 19923515,
+            "in_reply_to_user_id_str": "19923515",
+            "in_reply_to_screen_name": "abc_es",
+            "user": {
+                "id": 19923515,
+                "id_str": "19923515",
+                "name": "ABC.es",
+                "screen_name": "abc_es",
+                "location": "Espa\u00f1a",
+                "description": "Diario ABC.  Tambi\u00e9n en  https://t.co/3GkZTTHdy7 https://t.co/SIP7bshNUA \nhttps://t.co/ZMmgA5nXbT \nhttps://t.co/ZhWlwZa13l",
+                "url": "http://t.co/o4UYlJAuDz",
+                "entities": {
+                    "url": {
+                        "urls": [
+                            {
+                                "url": "http://t.co/o4UYlJAuDz",
+                                "expanded_url": "http://www.abc.es",
+                                "display_url": "abc.es",
+                                "indices": [
+                                    0,
+                                    22
+                                ]
+                            }
+                        ]
+                    },
+                    "description": {
+                        "urls": [
+                            {
+                                "url": "https://t.co/3GkZTTHdy7",
+                                "expanded_url": "http://abc.es",
+                                "display_url": "abc.es",
+                                "indices": [
+                                    25,
+                                    48
+                                ]
+                            },
+                            {
+                                "url": "https://t.co/SIP7bshNUA",
+                                "expanded_url": "http://facebook.com/ABCes/",
+                                "display_url": "facebook.com/ABCes/",
+                                "indices": [
+                                    49,
+                                    72
+                                ]
+                            },
+                            {
+                                "url": "https://t.co/ZMmgA5nXbT",
+                                "expanded_url": "http://instagram.com/abc_diario/",
+                                "display_url": "instagram.com/abc_diario/",
+                                "indices": [
+                                    74,
+                                    97
+                                ]
+                            },
+                            {
+                                "url": "https://t.co/ZhWlwZa13l",
+                                "expanded_url": "http://www.linkedin.com/company/diario-abc",
+                                "display_url": "linkedin.com/company/diario\u2026",
+                                "indices": [
+                                    99,
+                                    122
+                                ]
+                            }
+                        ]
+                    }
+                },
+                "protected": false,
+                "followers_count": 2121137,
+                "friends_count": 14745,
+                "listed_count": 18545,
+                "created_at": "Mon Feb 02 19:10:35 +0000 2009",
+                "favourites_count": 2119,
+                "utc_offset": null,
+                "time_zone": null,
+                "geo_enabled": false,
+                "verified": true,
+                "statuses_count": 497534,
+                "lang": null,
+                "contributors_enabled": false,
+                "is_translator": false,
+                "is_translation_enabled": true,
+                "profile_background_color": "333366",
+                "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+                "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+                "profile_background_tile": false,
+                "profile_image_url": "http://pbs.twimg.com/profile_images/1270225649769349121/APXXZSXa_normal.png",
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/1270225649769349121/APXXZSXa_normal.png",
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/19923515/1612187778",
+                "profile_link_color": "3B94D9",
+                "profile_sidebar_border_color": "F0F0F0",
+                "profile_sidebar_fill_color": "F0F0F0",
+                "profile_text_color": "363636",
+                "profile_use_background_image": false,
+                "has_extended_profile": false,
+                "default_profile": false,
+                "default_profile_image": false,
+                "following": false,
+                "follow_request_sent": false,
+                "notifications": false,
+                "translator_type": "none",
+                "withheld_in_countries": []
+            },
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "contributors": null,
+            "is_quote_status": false,
+            "retweet_count": 721,
+            "favorite_count": 906,
+            "favorited": false,
+            "retweeted": false,
+            "possibly_sensitive": false,
+            "lang": "es"
+        },
+        "retweet_count": 464,
+        "favorite_count": 562,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "es"
+    },
+    "is_quote_status": true,
+    "quoted_status_id": 1415353085942185991,
+    "quoted_status_id_str": "1415353085942185991",
+    "retweet_count": 464,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "es"
+}

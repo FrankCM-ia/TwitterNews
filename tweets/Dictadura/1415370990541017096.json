@@ -1,0 +1,192 @@
+{
+    "created_at": "Wed Jul 14 18:01:55 +0000 2021",
+    "id": 1415370990541017096,
+    "id_str": "1415370990541017096",
+    "full_text": "RT @MilvaGauto: Quiero ver a los pol\u00edticos paraguayos de que lado est\u00e1n y demuestren la clara l\u00ednea a favor de la libertad de Cuba y en con\u2026",
+    "truncated": false,
+    "display_text_range": [
+        0,
+        140
+    ],
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "MilvaGauto",
+                "name": "Milva Gauto",
+                "id": 166546290,
+                "id_str": "166546290",
+                "indices": [
+                    3,
+                    14
+                ]
+            }
+        ],
+        "urls": []
+    },
+    "metadata": {
+        "iso_language_code": "es",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 1260726940308307970,
+        "id_str": "1260726940308307970",
+        "name": "Alcides Cabello",
+        "screen_name": "AlcidesCabello3",
+        "location": "Paraguay",
+        "description": "lo m\u00e1s grande y hermoso la LIBERTAD.",
+        "url": null,
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 722,
+        "friends_count": 2266,
+        "listed_count": 0,
+        "created_at": "Thu May 14 00:22:15 +0000 2020",
+        "favourites_count": 112925,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 20084,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": null,
+        "profile_background_image_url_https": null,
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1414719021925142536/6ky54RAQ_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1414719021925142536/6ky54RAQ_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": true,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+        "created_at": "Wed Jul 14 16:28:17 +0000 2021",
+        "id": 1415347427226361862,
+        "id_str": "1415347427226361862",
+        "full_text": "Quiero ver a los pol\u00edticos paraguayos de que lado est\u00e1n y demuestren la clara l\u00ednea a favor de la libertad de Cuba y en contra de la dictadura comunista.\nDemuestren, este es el momento.\nNo valen los ausentes, los  tibios no nos sirven !",
+        "truncated": false,
+        "display_text_range": [
+            0,
+            236
+        ],
+        "entities": {
+            "hashtags": [],
+            "symbols": [],
+            "user_mentions": [],
+            "urls": []
+        },
+        "metadata": {
+            "iso_language_code": "es",
+            "result_type": "recent"
+        },
+        "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 166546290,
+            "id_str": "166546290",
+            "name": "Milva Gauto",
+            "screen_name": "MilvaGauto",
+            "location": "Paraguay",
+            "description": "de tv de radio de edici\u00f3n de sonidos de m\u00fasica de mkt de brand de comunicaci\u00f3n digital de actriz de la vida de nada gracias https://t.co/80MhjFZtdc",
+            "url": null,
+            "entities": {
+                "description": {
+                    "urls": [
+                        {
+                            "url": "https://t.co/80MhjFZtdc",
+                            "expanded_url": "https://t.me/milvagauto",
+                            "display_url": "t.me/milvagauto",
+                            "indices": [
+                                124,
+                                147
+                            ]
+                        }
+                    ]
+                }
+            },
+            "protected": false,
+            "followers_count": 394371,
+            "friends_count": 10719,
+            "listed_count": 350,
+            "created_at": "Wed Jul 14 12:30:33 +0000 2010",
+            "favourites_count": 60686,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": true,
+            "verified": true,
+            "statuses_count": 134911,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "131516",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+            "profile_background_tile": true,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1342696666198110208/v35pmLXO_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1342696666198110208/v35pmLXO_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/166546290/1559258260",
+            "profile_link_color": "009999",
+            "profile_sidebar_border_color": "EEEEEE",
+            "profile_sidebar_fill_color": "EFEFEF",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "has_extended_profile": true,
+            "default_profile": false,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none",
+            "withheld_in_countries": []
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 4,
+        "favorite_count": 30,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "es"
+    },
+    "is_quote_status": false,
+    "retweet_count": 4,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "es"
+}

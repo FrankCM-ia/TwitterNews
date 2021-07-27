@@ -1,0 +1,283 @@
+{
+    "created_at": "Wed Jul 14 16:00:21 +0000 2021",
+    "id": 1415340399359627271,
+    "id_str": "1415340399359627271",
+    "full_text": "RT @agusantonetti: ATENCI\u00d3N ARGENTINA \ud83c\udde6\ud83c\uddf7\n\nHoy tenemos la oportunidad real de poder hacer algo para ayudar al pueblo cubano desde nuestro pa\u2026",
+    "truncated": false,
+    "display_text_range": [
+        0,
+        140
+    ],
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "agusantonetti",
+                "name": "Agustin Antonetti",
+                "id": 374699026,
+                "id_str": "374699026",
+                "indices": [
+                    3,
+                    17
+                ]
+            }
+        ],
+        "urls": []
+    },
+    "metadata": {
+        "iso_language_code": "es",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 1232517325313671170,
+        "id_str": "1232517325313671170",
+        "name": "Fran",
+        "screen_name": "ltfran27",
+        "location": "",
+        "description": "scalonista desde el 6/7/19. Vignolo y los dem\u00e1s operadores que la chupen, y que la sigan chupando.",
+        "url": null,
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 16,
+        "friends_count": 25,
+        "listed_count": 1,
+        "created_at": "Wed Feb 26 04:06:57 +0000 2020",
+        "favourites_count": 10820,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 1518,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": null,
+        "profile_background_image_url_https": null,
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1414056908550508546/ysSVXxKl_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1414056908550508546/ysSVXxKl_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1232517325313671170/1622214639",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+        "created_at": "Wed Jul 14 14:09:24 +0000 2021",
+        "id": 1415312477307482113,
+        "id_str": "1415312477307482113",
+        "full_text": "ATENCI\u00d3N ARGENTINA \ud83c\udde6\ud83c\uddf7\n\nHoy tenemos la oportunidad real de poder hacer algo para ayudar al pueblo cubano desde nuestro pa\u00eds. Esta tarde habr\u00e1 una mega movilizaci\u00f3n frente a la Embajada de Cuba en Buenos Aires. Por favor, difundamos por todos lados. Vayamos a apoyar. #SOSCuba \ud83c\udde8\ud83c\uddfa https://t.co/x25hm2TwOt",
+        "truncated": false,
+        "display_text_range": [
+            0,
+            277
+        ],
+        "entities": {
+            "hashtags": [
+                {
+                    "text": "SOSCuba",
+                    "indices": [
+                        266,
+                        274
+                    ]
+                }
+            ],
+            "symbols": [],
+            "user_mentions": [],
+            "urls": [],
+            "media": [
+                {
+                    "id": 1415312468918902784,
+                    "id_str": "1415312468918902784",
+                    "indices": [
+                        278,
+                        301
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/E6QzMRwXoAAQamv.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/E6QzMRwXoAAQamv.jpg",
+                    "url": "https://t.co/x25hm2TwOt",
+                    "display_url": "pic.twitter.com/x25hm2TwOt",
+                    "expanded_url": "https://twitter.com/agusantonetti/status/1415312477307482113/photo/1",
+                    "type": "photo",
+                    "sizes": {
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "medium": {
+                            "w": 1024,
+                            "h": 1024,
+                            "resize": "fit"
+                        },
+                        "large": {
+                            "w": 1024,
+                            "h": 1024,
+                            "resize": "fit"
+                        },
+                        "small": {
+                            "w": 680,
+                            "h": 680,
+                            "resize": "fit"
+                        }
+                    }
+                }
+            ]
+        },
+        "extended_entities": {
+            "media": [
+                {
+                    "id": 1415312468918902784,
+                    "id_str": "1415312468918902784",
+                    "indices": [
+                        278,
+                        301
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/E6QzMRwXoAAQamv.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/E6QzMRwXoAAQamv.jpg",
+                    "url": "https://t.co/x25hm2TwOt",
+                    "display_url": "pic.twitter.com/x25hm2TwOt",
+                    "expanded_url": "https://twitter.com/agusantonetti/status/1415312477307482113/photo/1",
+                    "type": "photo",
+                    "sizes": {
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "medium": {
+                            "w": 1024,
+                            "h": 1024,
+                            "resize": "fit"
+                        },
+                        "large": {
+                            "w": 1024,
+                            "h": 1024,
+                            "resize": "fit"
+                        },
+                        "small": {
+                            "w": 680,
+                            "h": 680,
+                            "resize": "fit"
+                        }
+                    }
+                }
+            ]
+        },
+        "metadata": {
+            "iso_language_code": "es",
+            "result_type": "recent"
+        },
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 374699026,
+            "id_str": "374699026",
+            "name": "Agustin Antonetti",
+            "screen_name": "agusantonetti",
+            "location": "",
+            "description": "Relaciones Internacionales. Geopolitics. Intentando explicar el mundo de una forma m\u00e1s f\u00e1cil. Human Rights Activist. Cuenta secundaria: @aguusantonetti",
+            "url": "https://t.co/sotu73qub1",
+            "entities": {
+                "url": {
+                    "urls": [
+                        {
+                            "url": "https://t.co/sotu73qub1",
+                            "expanded_url": "http://instagram.com/agusantonetti",
+                            "display_url": "instagram.com/agusantonetti",
+                            "indices": [
+                                0,
+                                23
+                            ]
+                        }
+                    ]
+                },
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 107142,
+            "friends_count": 996,
+            "listed_count": 187,
+            "created_at": "Fri Sep 16 19:37:17 +0000 2011",
+            "favourites_count": 237095,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": true,
+            "verified": false,
+            "statuses_count": 36235,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "C0DEED",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1404663831092240385/3fEpaqhz_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1404663831092240385/3fEpaqhz_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/374699026/1625891786",
+            "profile_link_color": "0084B4",
+            "profile_sidebar_border_color": "FFFFFF",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "has_extended_profile": true,
+            "default_profile": false,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "regular",
+            "withheld_in_countries": []
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 782,
+        "favorite_count": 1610,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "es"
+    },
+    "is_quote_status": false,
+    "retweet_count": 782,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "es"
+}

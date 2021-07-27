@@ -1,0 +1,476 @@
+{
+    "created_at": "Wed Jul 14 18:02:23 +0000 2021",
+    "id": 1415371109059399683,
+    "id_str": "1415371109059399683",
+    "full_text": "RT @EGaona14: #SOSCubaLibre \nCubanos detenidos o muertos en la lucha por la libertad !! \ud83e\udd18\ud83c\udffb\ud83c\udde8\ud83c\uddfa\u2665\ufe0f\n\nRt para mayor difusi\u00f3n por favor \ud83d\ude4f\ud83c\udffc \n\n#RedA\u2026",
+    "truncated": false,
+    "display_text_range": [
+        0,
+        140
+    ],
+    "entities": {
+        "hashtags": [
+            {
+                "text": "SOSCubaLibre",
+                "indices": [
+                    14,
+                    27
+                ]
+            }
+        ],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "EGaona14",
+                "name": "EvaG14",
+                "id": 1229633601735667713,
+                "id_str": "1229633601735667713",
+                "indices": [
+                    3,
+                    12
+                ]
+            }
+        ],
+        "urls": []
+    },
+    "metadata": {
+        "iso_language_code": "es",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 261349322,
+        "id_str": "261349322",
+        "name": "LOBO",
+        "screen_name": "lobo_del_norte",
+        "location": "",
+        "description": "",
+        "url": null,
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 928,
+        "friends_count": 638,
+        "listed_count": 0,
+        "created_at": "Sat Mar 05 19:38:55 +0000 2011",
+        "favourites_count": 25216,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 29269,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/2265011020/image_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/2265011020/image_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+        "created_at": "Wed Jul 14 15:14:48 +0000 2021",
+        "id": 1415328935550853133,
+        "id_str": "1415328935550853133",
+        "full_text": "#SOSCubaLibre \nCubanos detenidos o muertos en la lucha por la libertad !! \ud83e\udd18\ud83c\udffb\ud83c\udde8\ud83c\uddfa\u2665\ufe0f\n\nRt para mayor difusi\u00f3n por favor \ud83d\ude4f\ud83c\udffc \n\n#RedAMLO \n@EstefaniaVeloz \n@yeidckol \n@lopezobrador_ \nApoyan la dictadura! \ud83d\ude21 https://t.co/JVg6OrNekx",
+        "truncated": false,
+        "display_text_range": [
+            0,
+            196
+        ],
+        "entities": {
+            "hashtags": [
+                {
+                    "text": "SOSCubaLibre",
+                    "indices": [
+                        0,
+                        13
+                    ]
+                },
+                {
+                    "text": "RedAMLO",
+                    "indices": [
+                        120,
+                        128
+                    ]
+                }
+            ],
+            "symbols": [],
+            "user_mentions": [
+                {
+                    "screen_name": "EstefaniaVeloz",
+                    "name": "Estefan\u00eda Veloz",
+                    "id": 573238670,
+                    "id_str": "573238670",
+                    "indices": [
+                        130,
+                        145
+                    ]
+                },
+                {
+                    "screen_name": "yeidckol",
+                    "name": "Yeidckol Polevnsky",
+                    "id": 89848766,
+                    "id_str": "89848766",
+                    "indices": [
+                        147,
+                        156
+                    ]
+                },
+                {
+                    "screen_name": "lopezobrador_",
+                    "name": "Andr\u00e9s Manuel",
+                    "id": 82119937,
+                    "id_str": "82119937",
+                    "indices": [
+                        158,
+                        172
+                    ]
+                }
+            ],
+            "urls": [
+                {
+                    "url": "https://t.co/JVg6OrNekx",
+                    "expanded_url": "https://twitter.com/charanzova/status/1415310446517686272",
+                    "display_url": "twitter.com/charanzova/sta\u2026",
+                    "indices": [
+                        197,
+                        220
+                    ]
+                }
+            ]
+        },
+        "metadata": {
+            "iso_language_code": "es",
+            "result_type": "recent"
+        },
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 1229633601735667713,
+            "id_str": "1229633601735667713",
+            "name": "EvaG14",
+            "screen_name": "EGaona14",
+            "location": "",
+            "description": "ANTIPJ #RedMasUNO #ComunidadCarlitoS #LiDeRes #CPT #ExijamosMexico #Nessios #SalAVotar2021 #DefendiendoAMexico #Valquirias #SOSMEX #SomosMexico #GRN #LegiOnLine",
+            "url": null,
+            "entities": {
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 17290,
+            "friends_count": 11392,
+            "listed_count": 16,
+            "created_at": "Tue Feb 18 05:08:07 +0000 2020",
+            "favourites_count": 129960,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": false,
+            "verified": false,
+            "statuses_count": 141779,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "F5F8FA",
+            "profile_background_image_url": null,
+            "profile_background_image_url_https": null,
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1410390069777682436/_u_u7Z2__normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1410390069777682436/_u_u7Z2__normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/1229633601735667713/1615380107",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "has_extended_profile": true,
+            "default_profile": true,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none",
+            "withheld_in_countries": []
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": true,
+        "quoted_status_id": 1415310446517686272,
+        "quoted_status_id_str": "1415310446517686272",
+        "quoted_status": {
+            "created_at": "Wed Jul 14 14:01:20 +0000 2021",
+            "id": 1415310446517686272,
+            "id_str": "1415310446517686272",
+            "full_text": "Enviamos esta carta sobre la represi\u00f3n contra manifestantes en Cuba. Pedimos acciones concretas a @JosepBorrellF:\n\n- exigir liberaci\u00f3n de detenidos arbitrarios y cese de violencia contra manifestantes\n\n- pedir una reuni\u00f3n de urgencia con Cuba sobre incumplimiento del Acuerdo \ud83c\uddea\ud83c\uddfa\ud83c\udde8\ud83c\uddfa https://t.co/55wELVRO8A",
+            "truncated": false,
+            "display_text_range": [
+                0,
+                280
+            ],
+            "entities": {
+                "hashtags": [],
+                "symbols": [],
+                "user_mentions": [
+                    {
+                        "screen_name": "JosepBorrellF",
+                        "name": "Josep Borrell Fontelles",
+                        "id": 1003895325025865730,
+                        "id_str": "1003895325025865730",
+                        "indices": [
+                            98,
+                            112
+                        ]
+                    }
+                ],
+                "urls": [],
+                "media": [
+                    {
+                        "id": 1415310185078444036,
+                        "id_str": "1415310185078444036",
+                        "indices": [
+                            281,
+                            304
+                        ],
+                        "media_url": "http://pbs.twimg.com/media/E6QxHVyX0AQH-hY.jpg",
+                        "media_url_https": "https://pbs.twimg.com/media/E6QxHVyX0AQH-hY.jpg",
+                        "url": "https://t.co/55wELVRO8A",
+                        "display_url": "pic.twitter.com/55wELVRO8A",
+                        "expanded_url": "https://twitter.com/charanzova/status/1415310446517686272/photo/1",
+                        "type": "photo",
+                        "sizes": {
+                            "thumb": {
+                                "w": 150,
+                                "h": 150,
+                                "resize": "crop"
+                            },
+                            "small": {
+                                "w": 471,
+                                "h": 680,
+                                "resize": "fit"
+                            },
+                            "large": {
+                                "w": 1072,
+                                "h": 1547,
+                                "resize": "fit"
+                            },
+                            "medium": {
+                                "w": 832,
+                                "h": 1200,
+                                "resize": "fit"
+                            }
+                        }
+                    }
+                ]
+            },
+            "extended_entities": {
+                "media": [
+                    {
+                        "id": 1415310185078444036,
+                        "id_str": "1415310185078444036",
+                        "indices": [
+                            281,
+                            304
+                        ],
+                        "media_url": "http://pbs.twimg.com/media/E6QxHVyX0AQH-hY.jpg",
+                        "media_url_https": "https://pbs.twimg.com/media/E6QxHVyX0AQH-hY.jpg",
+                        "url": "https://t.co/55wELVRO8A",
+                        "display_url": "pic.twitter.com/55wELVRO8A",
+                        "expanded_url": "https://twitter.com/charanzova/status/1415310446517686272/photo/1",
+                        "type": "photo",
+                        "sizes": {
+                            "thumb": {
+                                "w": 150,
+                                "h": 150,
+                                "resize": "crop"
+                            },
+                            "small": {
+                                "w": 471,
+                                "h": 680,
+                                "resize": "fit"
+                            },
+                            "large": {
+                                "w": 1072,
+                                "h": 1547,
+                                "resize": "fit"
+                            },
+                            "medium": {
+                                "w": 832,
+                                "h": 1200,
+                                "resize": "fit"
+                            }
+                        }
+                    },
+                    {
+                        "id": 1415310185086824463,
+                        "id_str": "1415310185086824463",
+                        "indices": [
+                            281,
+                            304
+                        ],
+                        "media_url": "http://pbs.twimg.com/media/E6QxHV0XsA8D-un.jpg",
+                        "media_url_https": "https://pbs.twimg.com/media/E6QxHV0XsA8D-un.jpg",
+                        "url": "https://t.co/55wELVRO8A",
+                        "display_url": "pic.twitter.com/55wELVRO8A",
+                        "expanded_url": "https://twitter.com/charanzova/status/1415310446517686272/photo/1",
+                        "type": "photo",
+                        "sizes": {
+                            "thumb": {
+                                "w": 150,
+                                "h": 150,
+                                "resize": "crop"
+                            },
+                            "large": {
+                                "w": 1052,
+                                "h": 1534,
+                                "resize": "fit"
+                            },
+                            "small": {
+                                "w": 466,
+                                "h": 680,
+                                "resize": "fit"
+                            },
+                            "medium": {
+                                "w": 823,
+                                "h": 1200,
+                                "resize": "fit"
+                            }
+                        }
+                    }
+                ]
+            },
+            "metadata": {
+                "iso_language_code": "es",
+                "result_type": "recent"
+            },
+            "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+            "in_reply_to_status_id": null,
+            "in_reply_to_status_id_str": null,
+            "in_reply_to_user_id": null,
+            "in_reply_to_user_id_str": null,
+            "in_reply_to_screen_name": null,
+            "user": {
+                "id": 2656533409,
+                "id_str": "2656533409",
+                "name": "Dita Charanzov\u00e1",
+                "screen_name": "charanzova",
+                "location": "Prague, Czech Republic",
+                "description": "\ud83c\udde8\ud83c\uddff\ud83c\uddea\ud83c\uddfaVice President of the European Parliament - @EP_SingleMarket - @RenewEurope - digital- consumer protection - international trade -human rights",
+                "url": "https://t.co/n4ffUZm8WN",
+                "entities": {
+                    "url": {
+                        "urls": [
+                            {
+                                "url": "https://t.co/n4ffUZm8WN",
+                                "expanded_url": "http://www.charanzova.cz",
+                                "display_url": "charanzova.cz",
+                                "indices": [
+                                    0,
+                                    23
+                                ]
+                            }
+                        ]
+                    },
+                    "description": {
+                        "urls": []
+                    }
+                },
+                "protected": false,
+                "followers_count": 23448,
+                "friends_count": 538,
+                "listed_count": 275,
+                "created_at": "Fri Jul 18 11:10:18 +0000 2014",
+                "favourites_count": 1156,
+                "utc_offset": null,
+                "time_zone": null,
+                "geo_enabled": true,
+                "verified": true,
+                "statuses_count": 2053,
+                "lang": null,
+                "contributors_enabled": false,
+                "is_translator": false,
+                "is_translation_enabled": false,
+                "profile_background_color": "C0DEED",
+                "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+                "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+                "profile_background_tile": false,
+                "profile_image_url": "http://pbs.twimg.com/profile_images/1331681821105524742/fGHqvc7U_normal.jpg",
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/1331681821105524742/fGHqvc7U_normal.jpg",
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/2656533409/1587383117",
+                "profile_link_color": "1DA1F2",
+                "profile_sidebar_border_color": "C0DEED",
+                "profile_sidebar_fill_color": "DDEEF6",
+                "profile_text_color": "333333",
+                "profile_use_background_image": true,
+                "has_extended_profile": false,
+                "default_profile": true,
+                "default_profile_image": false,
+                "following": false,
+                "follow_request_sent": false,
+                "notifications": false,
+                "translator_type": "none",
+                "withheld_in_countries": []
+            },
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "contributors": null,
+            "is_quote_status": false,
+            "retweet_count": 427,
+            "favorite_count": 711,
+            "favorited": false,
+            "retweeted": false,
+            "possibly_sensitive": false,
+            "lang": "es"
+        },
+        "retweet_count": 104,
+        "favorite_count": 97,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "es"
+    },
+    "is_quote_status": true,
+    "quoted_status_id": 1415310446517686272,
+    "quoted_status_id_str": "1415310446517686272",
+    "retweet_count": 104,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "es"
+}

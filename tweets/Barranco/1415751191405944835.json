@@ -1,0 +1,212 @@
+{
+    "created_at": "Thu Jul 15 19:12:42 +0000 2021",
+    "id": 1415751191405944835,
+    "id_str": "1415751191405944835",
+    "full_text": "Si no se queda con Shinwoo me tiro por un barranco #LightOnMeEP6\nhttps://t.co/rDgLCNVRVV",
+    "truncated": false,
+    "display_text_range": [
+        0,
+        88
+    ],
+    "entities": {
+        "hashtags": [
+            {
+                "text": "LightOnMeEP6",
+                "indices": [
+                    51,
+                    64
+                ]
+            }
+        ],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [],
+        "media": [
+            {
+                "id": 1415601913303764994,
+                "id_str": "1415601913303764994",
+                "indices": [
+                    65,
+                    88
+                ],
+                "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1415601913303764994/pu/img/0mbR1GhtER9XyyB0.jpg",
+                "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1415601913303764994/pu/img/0mbR1GhtER9XyyB0.jpg",
+                "url": "https://t.co/rDgLCNVRVV",
+                "display_url": "pic.twitter.com/rDgLCNVRVV",
+                "expanded_url": "https://twitter.com/BLUPDATE2020/status/1415602003036688387/video/1",
+                "type": "photo",
+                "sizes": {
+                    "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                    },
+                    "medium": {
+                        "w": 1200,
+                        "h": 675,
+                        "resize": "fit"
+                    },
+                    "small": {
+                        "w": 680,
+                        "h": 383,
+                        "resize": "fit"
+                    },
+                    "large": {
+                        "w": 1280,
+                        "h": 720,
+                        "resize": "fit"
+                    }
+                },
+                "source_status_id": 1415602003036688387,
+                "source_status_id_str": "1415602003036688387",
+                "source_user_id": 753082502349221889,
+                "source_user_id_str": "753082502349221889"
+            }
+        ]
+    },
+    "extended_entities": {
+        "media": [
+            {
+                "id": 1415601913303764994,
+                "id_str": "1415601913303764994",
+                "indices": [
+                    65,
+                    88
+                ],
+                "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1415601913303764994/pu/img/0mbR1GhtER9XyyB0.jpg",
+                "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1415601913303764994/pu/img/0mbR1GhtER9XyyB0.jpg",
+                "url": "https://t.co/rDgLCNVRVV",
+                "display_url": "pic.twitter.com/rDgLCNVRVV",
+                "expanded_url": "https://twitter.com/BLUPDATE2020/status/1415602003036688387/video/1",
+                "type": "video",
+                "sizes": {
+                    "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                    },
+                    "medium": {
+                        "w": 1200,
+                        "h": 675,
+                        "resize": "fit"
+                    },
+                    "small": {
+                        "w": 680,
+                        "h": 383,
+                        "resize": "fit"
+                    },
+                    "large": {
+                        "w": 1280,
+                        "h": 720,
+                        "resize": "fit"
+                    }
+                },
+                "source_status_id": 1415602003036688387,
+                "source_status_id_str": "1415602003036688387",
+                "source_user_id": 753082502349221889,
+                "source_user_id_str": "753082502349221889",
+                "video_info": {
+                    "aspect_ratio": [
+                        16,
+                        9
+                    ],
+                    "duration_millis": 52981,
+                    "variants": [
+                        {
+                            "bitrate": 256000,
+                            "content_type": "video/mp4",
+                            "url": "https://video.twimg.com/ext_tw_video/1415601913303764994/pu/vid/480x270/kKMAQ-Z2iRpEitVF.mp4?tag=12"
+                        },
+                        {
+                            "bitrate": 2176000,
+                            "content_type": "video/mp4",
+                            "url": "https://video.twimg.com/ext_tw_video/1415601913303764994/pu/vid/1280x720/r1pZ5TZmiKpY9NzI.mp4?tag=12"
+                        },
+                        {
+                            "content_type": "application/x-mpegURL",
+                            "url": "https://video.twimg.com/ext_tw_video/1415601913303764994/pu/pl/1aHhx_elpRutt3tS.m3u8?tag=12&container=fmp4"
+                        },
+                        {
+                            "bitrate": 832000,
+                            "content_type": "video/mp4",
+                            "url": "https://video.twimg.com/ext_tw_video/1415601913303764994/pu/vid/640x360/uDUSYLgd_qW4hqIi.mp4?tag=12"
+                        }
+                    ]
+                },
+                "additional_media_info": {
+                    "monetizable": false
+                }
+            }
+        ]
+    },
+    "metadata": {
+        "iso_language_code": "es",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 1350489068564574209,
+        "id_str": "1350489068564574209",
+        "name": "DaDa",
+        "screen_name": "DaDamiauu",
+        "location": "",
+        "description": "",
+        "url": null,
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 186,
+        "friends_count": 205,
+        "listed_count": 2,
+        "created_at": "Sat Jan 16 17:04:27 +0000 2021",
+        "favourites_count": 2345,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 1518,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": null,
+        "profile_background_image_url_https": null,
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1350489406239600640/OUOTCL-T_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1350489406239600640/OUOTCL-T_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1350489068564574209/1610816887",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": true,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 5,
+    "favorite_count": 9,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "es"
+}

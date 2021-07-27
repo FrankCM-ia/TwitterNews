@@ -1,0 +1,195 @@
+{
+    "created_at": "Wed Jul 14 17:38:14 +0000 2021",
+    "id": 1415365032498634761,
+    "id_str": "1415365032498634761",
+    "full_text": "Titulos Europeos del Sevilla 7 Titulos Europeos del Tottenham 0, por cierto tenemos las mismas champions que el Atletico https://t.co/nBpFBtDQrM",
+    "truncated": false,
+    "display_text_range": [
+        0,
+        120
+    ],
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+            {
+                "url": "https://t.co/nBpFBtDQrM",
+                "expanded_url": "https://twitter.com/JavierPrezRome1/status/1415277020817379331",
+                "display_url": "twitter.com/JavierPrezRome\u2026",
+                "indices": [
+                    121,
+                    144
+                ]
+            }
+        ]
+    },
+    "metadata": {
+        "iso_language_code": "es",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 824619011862392832,
+        "id_str": "824619011862392832",
+        "name": "TemplodeNervion",
+        "screen_name": "templodenervion",
+        "location": "",
+        "description": "Este amor es inmortal",
+        "url": null,
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 227,
+        "friends_count": 688,
+        "listed_count": 0,
+        "created_at": "Thu Jan 26 14:04:27 +0000 2017",
+        "favourites_count": 5160,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 3937,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": null,
+        "profile_background_image_url_https": null,
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1261419637834686464/lpoig_aj_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1261419637834686464/lpoig_aj_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/824619011862392832/1598205763",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": true,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": true,
+    "quoted_status_id": 1415277020817379331,
+    "quoted_status_id_str": "1415277020817379331",
+    "quoted_status": {
+        "created_at": "Wed Jul 14 11:48:30 +0000 2021",
+        "id": 1415277020817379331,
+        "id_str": "1415277020817379331",
+        "full_text": "@BrinismoATM En que momento un grande de la premier como es el Tottenham, es peor que el sevilla? Para un a\u00f1o que ol\u00e9is la champions y ya os cre\u00e9is algo\ud83e\udd23\ud83e\udd23\ud83e\udd23 respeta un poco a tus superiores",
+        "truncated": false,
+        "display_text_range": [
+            13,
+            188
+        ],
+        "entities": {
+            "hashtags": [],
+            "symbols": [],
+            "user_mentions": [
+                {
+                    "screen_name": "BrinismoATM",
+                    "name": "Bri\u00f1is",
+                    "id": 912014005673316353,
+                    "id_str": "912014005673316353",
+                    "indices": [
+                        0,
+                        12
+                    ]
+                }
+            ],
+            "urls": []
+        },
+        "metadata": {
+            "iso_language_code": "es",
+            "result_type": "recent"
+        },
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "in_reply_to_status_id": 1415220929345605634,
+        "in_reply_to_status_id_str": "1415220929345605634",
+        "in_reply_to_user_id": 912014005673316353,
+        "in_reply_to_user_id_str": "912014005673316353",
+        "in_reply_to_screen_name": "BrinismoATM",
+        "user": {
+            "id": 4716478420,
+            "id_str": "4716478420",
+            "name": "JaPerz",
+            "screen_name": "JavierPrezRome1",
+            "location": "",
+            "description": "Estudiante ADE",
+            "url": null,
+            "entities": {
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 77,
+            "friends_count": 60,
+            "listed_count": 1,
+            "created_at": "Tue Jan 05 16:36:55 +0000 2016",
+            "favourites_count": 1561,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": false,
+            "verified": false,
+            "statuses_count": 928,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "F5F8FA",
+            "profile_background_image_url": null,
+            "profile_background_image_url_https": null,
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1297017944346701831/VvsBdHYe_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1297017944346701831/VvsBdHYe_normal.jpg",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "has_extended_profile": false,
+            "default_profile": true,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none",
+            "withheld_in_countries": []
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 0,
+        "favorite_count": 0,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "es"
+    },
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "es"
+}

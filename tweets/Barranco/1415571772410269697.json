@@ -1,0 +1,301 @@
+{
+    "created_at": "Thu Jul 15 07:19:45 +0000 2021",
+    "id": 1415571772410269697,
+    "id_str": "1415571772410269697",
+    "full_text": "RT @AristeguiOnline: #AristeguiEnVivo | Me atrever\u00eda a inferir que Azucena Pimentel agrav\u00f3 la expectativa que ten\u00edan Garc\u00eda Luna y C\u00e1rdenas\u2026",
+    "truncated": false,
+    "display_text_range": [
+        0,
+        140
+    ],
+    "entities": {
+        "hashtags": [
+            {
+                "text": "AristeguiEnVivo",
+                "indices": [
+                    21,
+                    37
+                ]
+            }
+        ],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "AristeguiOnline",
+                "name": "Aristegui Noticias",
+                "id": 520653311,
+                "id_str": "520653311",
+                "indices": [
+                    3,
+                    19
+                ]
+            }
+        ],
+        "urls": []
+    },
+    "metadata": {
+        "iso_language_code": "es",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 1376957645660114949,
+        "id_str": "1376957645660114949",
+        "name": "Jopelo Chari",
+        "screen_name": "JopeloChari3",
+        "location": "",
+        "description": "Cocinar y boxear y comer",
+        "url": null,
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 200,
+        "friends_count": 272,
+        "listed_count": 0,
+        "created_at": "Tue Mar 30 18:01:25 +0000 2021",
+        "favourites_count": 6489,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 6803,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": null,
+        "profile_background_image_url_https": null,
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1376957936639991815/cDcvVviJ_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1376957936639991815/cDcvVviJ_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1376957645660114949/1625409637",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": true,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+        "created_at": "Wed Apr 07 14:59:09 +0000 2021",
+        "id": 1379810988191547393,
+        "id_str": "1379810988191547393",
+        "full_text": "#AristeguiEnVivo | Me atrever\u00eda a inferir que Azucena Pimentel agrav\u00f3 la expectativa que ten\u00edan Garc\u00eda Luna y C\u00e1rdenas Palomino con el montaje. Recuerdo que al terminar la emisi\u00f3n, todo el equipo de Primero Noticias se fueron de festejo: Barranco https://t.co/zptMLzDXdJ https://t.co/Q8MWbQImrg",
+        "truncated": false,
+        "display_text_range": [
+            0,
+            270
+        ],
+        "entities": {
+            "hashtags": [
+                {
+                    "text": "AristeguiEnVivo",
+                    "indices": [
+                        0,
+                        16
+                    ]
+                }
+            ],
+            "symbols": [],
+            "user_mentions": [],
+            "urls": [
+                {
+                    "url": "https://t.co/zptMLzDXdJ",
+                    "expanded_url": "http://ow.ly/lmW730rDHU3",
+                    "display_url": "ow.ly/lmW730rDHU3",
+                    "indices": [
+                        247,
+                        270
+                    ]
+                }
+            ],
+            "media": [
+                {
+                    "id": 1379810938774249475,
+                    "id_str": "1379810938774249475",
+                    "indices": [
+                        271,
+                        294
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/EyYSvP7WYAMqRug.png",
+                    "media_url_https": "https://pbs.twimg.com/media/EyYSvP7WYAMqRug.png",
+                    "url": "https://t.co/Q8MWbQImrg",
+                    "display_url": "pic.twitter.com/Q8MWbQImrg",
+                    "expanded_url": "https://twitter.com/AristeguiOnline/status/1379810988191547393/photo/1",
+                    "type": "photo",
+                    "sizes": {
+                        "medium": {
+                            "w": 819,
+                            "h": 480,
+                            "resize": "fit"
+                        },
+                        "large": {
+                            "w": 819,
+                            "h": 480,
+                            "resize": "fit"
+                        },
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "small": {
+                            "w": 680,
+                            "h": 399,
+                            "resize": "fit"
+                        }
+                    }
+                }
+            ]
+        },
+        "extended_entities": {
+            "media": [
+                {
+                    "id": 1379810938774249475,
+                    "id_str": "1379810938774249475",
+                    "indices": [
+                        271,
+                        294
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/EyYSvP7WYAMqRug.png",
+                    "media_url_https": "https://pbs.twimg.com/media/EyYSvP7WYAMqRug.png",
+                    "url": "https://t.co/Q8MWbQImrg",
+                    "display_url": "pic.twitter.com/Q8MWbQImrg",
+                    "expanded_url": "https://twitter.com/AristeguiOnline/status/1379810988191547393/photo/1",
+                    "type": "photo",
+                    "sizes": {
+                        "medium": {
+                            "w": 819,
+                            "h": 480,
+                            "resize": "fit"
+                        },
+                        "large": {
+                            "w": 819,
+                            "h": 480,
+                            "resize": "fit"
+                        },
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "small": {
+                            "w": 680,
+                            "h": 399,
+                            "resize": "fit"
+                        }
+                    }
+                }
+            ]
+        },
+        "metadata": {
+            "iso_language_code": "es",
+            "result_type": "recent"
+        },
+        "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+        "in_reply_to_status_id": 1379805662797037568,
+        "in_reply_to_status_id_str": "1379805662797037568",
+        "in_reply_to_user_id": 520653311,
+        "in_reply_to_user_id_str": "520653311",
+        "in_reply_to_screen_name": "AristeguiOnline",
+        "user": {
+            "id": 520653311,
+            "id_str": "520653311",
+            "name": "Aristegui Noticias",
+            "screen_name": "AristeguiOnline",
+            "location": "Ciudad de M\u00e9xico",
+            "description": "Esta cuenta es administrada por Carmen Aristegui y el equipo de Aristegui Noticias. Los tuits de Carmen se firmar\u00e1n como \u201c-C. Aristegui\u201d o \u201c-C.\u201d.",
+            "url": "http://t.co/yuBuzoDMxo",
+            "entities": {
+                "url": {
+                    "urls": [
+                        {
+                            "url": "http://t.co/yuBuzoDMxo",
+                            "expanded_url": "http://AristeguiNoticias.com",
+                            "display_url": "AristeguiNoticias.com",
+                            "indices": [
+                                0,
+                                22
+                            ]
+                        }
+                    ]
+                },
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 8864760,
+            "friends_count": 10,
+            "listed_count": 14545,
+            "created_at": "Sat Mar 10 19:08:28 +0000 2012",
+            "favourites_count": 198,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": false,
+            "verified": true,
+            "statuses_count": 328309,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": true,
+            "profile_background_color": "C0DEED",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1067110021115170816/YAPVlY0W_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1067110021115170816/YAPVlY0W_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/520653311/1549057415",
+            "profile_link_color": "0084B4",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "has_extended_profile": false,
+            "default_profile": false,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none",
+            "withheld_in_countries": []
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 28,
+        "favorite_count": 64,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "es"
+    },
+    "is_quote_status": false,
+    "retweet_count": 28,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "es"
+}

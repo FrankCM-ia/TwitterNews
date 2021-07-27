@@ -1,0 +1,455 @@
+{
+    "created_at": "Wed Jul 14 18:06:21 +0000 2021",
+    "id": 1415372106498461697,
+    "id_str": "1415372106498461697",
+    "full_text": "RT @Tonicanto1: Comunistas apoyando a una dictadura comunista. Nada nuevo. Lo grave es que los tenemos en el Gobierno de Espa\u00f1a.",
+    "truncated": false,
+    "display_text_range": [
+        0,
+        128
+    ],
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "Tonicanto1",
+                "name": "Toni Cant\u00f3",
+                "id": 249122306,
+                "id_str": "249122306",
+                "indices": [
+                    3,
+                    14
+                ]
+            }
+        ],
+        "urls": []
+    },
+    "metadata": {
+        "iso_language_code": "es",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 1040683567616065536,
+        "id_str": "1040683567616065536",
+        "name": "Manu.Castro \ud83c\uddea\ud83c\uddf8\ud83c\uddea\ud83c\uddfa",
+        "screen_name": "Manu_Castro_FE",
+        "location": "Ferrol, Espa\u00f1a",
+        "description": "",
+        "url": null,
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 648,
+        "friends_count": 1994,
+        "listed_count": 0,
+        "created_at": "Fri Sep 14 19:27:52 +0000 2018",
+        "favourites_count": 22077,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 15842,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": null,
+        "profile_background_image_url_https": null,
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1040686014749200384/u__aaeUB_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1040686014749200384/u__aaeUB_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1040683567616065536/1536953856",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": true,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+        "created_at": "Wed Jul 14 09:06:08 +0000 2021",
+        "id": 1415236158020149251,
+        "id_str": "1415236158020149251",
+        "full_text": "Comunistas apoyando a una dictadura comunista. Nada nuevo. Lo grave es que los tenemos en el Gobierno de Espa\u00f1a. https://t.co/STn9Hf54kp",
+        "truncated": false,
+        "display_text_range": [
+            0,
+            112
+        ],
+        "entities": {
+            "hashtags": [],
+            "symbols": [],
+            "user_mentions": [],
+            "urls": [
+                {
+                    "url": "https://t.co/STn9Hf54kp",
+                    "expanded_url": "https://twitter.com/iurioja/status/1415001124839596043",
+                    "display_url": "twitter.com/iurioja/status\u2026",
+                    "indices": [
+                        113,
+                        136
+                    ]
+                }
+            ]
+        },
+        "metadata": {
+            "iso_language_code": "es",
+            "result_type": "recent"
+        },
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 249122306,
+            "id_str": "249122306",
+            "name": "Toni Cant\u00f3",
+            "screen_name": "Tonicanto1",
+            "location": "Espa\u00f1a",
+            "description": "Actor por vocaci\u00f3n, pol\u00edtico por devoci\u00f3n.",
+            "url": "https://t.co/enNcFOL1aF",
+            "entities": {
+                "url": {
+                    "urls": [
+                        {
+                            "url": "https://t.co/enNcFOL1aF",
+                            "expanded_url": "https://t.me/ToniCantoHablamos",
+                            "display_url": "t.me/ToniCantoHabla\u2026",
+                            "indices": [
+                                0,
+                                23
+                            ]
+                        }
+                    ]
+                },
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 407278,
+            "friends_count": 3080,
+            "listed_count": 2677,
+            "created_at": "Tue Feb 08 12:16:57 +0000 2011",
+            "favourites_count": 11156,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": true,
+            "verified": true,
+            "statuses_count": 78979,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "C0DEED",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1304106726812200961/CvhvXjeS_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1304106726812200961/CvhvXjeS_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/249122306/1614446648",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "has_extended_profile": false,
+            "default_profile": true,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none",
+            "withheld_in_countries": []
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": true,
+        "quoted_status_id": 1415001124839596043,
+        "quoted_status_id_str": "1415001124839596043",
+        "quoted_status": {
+            "created_at": "Tue Jul 13 17:32:12 +0000 2021",
+            "id": 1415001124839596043,
+            "id_str": "1415001124839596043",
+            "full_text": "\ud83c\udde8\ud83c\uddfaNuestra diputada en el Parlamento de La Rioja @Henarmore,  participa en la @embaCubaEspana en el acto en defensa de la Revoluci\u00f3n y contra las agresiones del imperialismo y la reacci\u00f3n. \n\n#LaCalleEsDeLosRevolucionarios #CubaNoEstaSola #CubaSoberana https://t.co/Wng8CBMGlo",
+            "truncated": false,
+            "display_text_range": [
+                0,
+                250
+            ],
+            "entities": {
+                "hashtags": [
+                    {
+                        "text": "LaCalleEsDeLosRevolucionarios",
+                        "indices": [
+                            190,
+                            220
+                        ]
+                    },
+                    {
+                        "text": "CubaNoEstaSola",
+                        "indices": [
+                            221,
+                            236
+                        ]
+                    },
+                    {
+                        "text": "CubaSoberana",
+                        "indices": [
+                            237,
+                            250
+                        ]
+                    }
+                ],
+                "symbols": [],
+                "user_mentions": [
+                    {
+                        "screen_name": "Henarmore",
+                        "name": "Henar Moreno",
+                        "id": 1228358370,
+                        "id_str": "1228358370",
+                        "indices": [
+                            48,
+                            58
+                        ]
+                    },
+                    {
+                        "screen_name": "embaCubaEspana",
+                        "name": "EmbaCubaEspa\u00f1a",
+                        "id": 3130741565,
+                        "id_str": "3130741565",
+                        "indices": [
+                            77,
+                            92
+                        ]
+                    }
+                ],
+                "urls": [],
+                "media": [
+                    {
+                        "id": 1415001120477429761,
+                        "id_str": "1415001120477429761",
+                        "indices": [
+                            251,
+                            274
+                        ],
+                        "media_url": "http://pbs.twimg.com/media/E6MYBabWQAExjRb.jpg",
+                        "media_url_https": "https://pbs.twimg.com/media/E6MYBabWQAExjRb.jpg",
+                        "url": "https://t.co/Wng8CBMGlo",
+                        "display_url": "pic.twitter.com/Wng8CBMGlo",
+                        "expanded_url": "https://twitter.com/iurioja/status/1415001124839596043/photo/1",
+                        "type": "photo",
+                        "sizes": {
+                            "medium": {
+                                "w": 768,
+                                "h": 1024,
+                                "resize": "fit"
+                            },
+                            "thumb": {
+                                "w": 150,
+                                "h": 150,
+                                "resize": "crop"
+                            },
+                            "small": {
+                                "w": 510,
+                                "h": 680,
+                                "resize": "fit"
+                            },
+                            "large": {
+                                "w": 768,
+                                "h": 1024,
+                                "resize": "fit"
+                            }
+                        }
+                    }
+                ]
+            },
+            "extended_entities": {
+                "media": [
+                    {
+                        "id": 1415001120477429761,
+                        "id_str": "1415001120477429761",
+                        "indices": [
+                            251,
+                            274
+                        ],
+                        "media_url": "http://pbs.twimg.com/media/E6MYBabWQAExjRb.jpg",
+                        "media_url_https": "https://pbs.twimg.com/media/E6MYBabWQAExjRb.jpg",
+                        "url": "https://t.co/Wng8CBMGlo",
+                        "display_url": "pic.twitter.com/Wng8CBMGlo",
+                        "expanded_url": "https://twitter.com/iurioja/status/1415001124839596043/photo/1",
+                        "type": "photo",
+                        "sizes": {
+                            "medium": {
+                                "w": 768,
+                                "h": 1024,
+                                "resize": "fit"
+                            },
+                            "thumb": {
+                                "w": 150,
+                                "h": 150,
+                                "resize": "crop"
+                            },
+                            "small": {
+                                "w": 510,
+                                "h": 680,
+                                "resize": "fit"
+                            },
+                            "large": {
+                                "w": 768,
+                                "h": 1024,
+                                "resize": "fit"
+                            }
+                        }
+                    },
+                    {
+                        "id": 1415001120477437964,
+                        "id_str": "1415001120477437964",
+                        "indices": [
+                            251,
+                            274
+                        ],
+                        "media_url": "http://pbs.twimg.com/media/E6MYBabWYAwvE2p.jpg",
+                        "media_url_https": "https://pbs.twimg.com/media/E6MYBabWYAwvE2p.jpg",
+                        "url": "https://t.co/Wng8CBMGlo",
+                        "display_url": "pic.twitter.com/Wng8CBMGlo",
+                        "expanded_url": "https://twitter.com/iurioja/status/1415001124839596043/photo/1",
+                        "type": "photo",
+                        "sizes": {
+                            "thumb": {
+                                "w": 150,
+                                "h": 150,
+                                "resize": "crop"
+                            },
+                            "large": {
+                                "w": 768,
+                                "h": 1024,
+                                "resize": "fit"
+                            },
+                            "small": {
+                                "w": 510,
+                                "h": 680,
+                                "resize": "fit"
+                            },
+                            "medium": {
+                                "w": 768,
+                                "h": 1024,
+                                "resize": "fit"
+                            }
+                        }
+                    }
+                ]
+            },
+            "metadata": {
+                "iso_language_code": "es",
+                "result_type": "recent"
+            },
+            "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+            "in_reply_to_status_id": null,
+            "in_reply_to_status_id_str": null,
+            "in_reply_to_user_id": null,
+            "in_reply_to_user_id_str": null,
+            "in_reply_to_screen_name": null,
+            "user": {
+                "id": 136359280,
+                "id_str": "136359280",
+                "name": "IU La Rioja \ud83d\udd3b",
+                "screen_name": "iurioja",
+                "location": "La Rioja",
+                "description": "Izquierda Unida de La Rioja larioja@izquierdaunida.org",
+                "url": null,
+                "entities": {
+                    "description": {
+                        "urls": []
+                    }
+                },
+                "protected": false,
+                "followers_count": 2886,
+                "friends_count": 1178,
+                "listed_count": 92,
+                "created_at": "Fri Apr 23 18:25:29 +0000 2010",
+                "favourites_count": 6906,
+                "utc_offset": null,
+                "time_zone": null,
+                "geo_enabled": true,
+                "verified": true,
+                "statuses_count": 22468,
+                "lang": null,
+                "contributors_enabled": false,
+                "is_translator": false,
+                "is_translation_enabled": false,
+                "profile_background_color": "FFFFFF",
+                "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+                "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+                "profile_background_tile": false,
+                "profile_image_url": "http://pbs.twimg.com/profile_images/1409443732622020614/gkkP0b35_normal.jpg",
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/1409443732622020614/gkkP0b35_normal.jpg",
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/136359280/1621610631",
+                "profile_link_color": "DD2E44",
+                "profile_sidebar_border_color": "FFFFFF",
+                "profile_sidebar_fill_color": "DDEEF6",
+                "profile_text_color": "333333",
+                "profile_use_background_image": true,
+                "has_extended_profile": false,
+                "default_profile": false,
+                "default_profile_image": false,
+                "following": false,
+                "follow_request_sent": false,
+                "notifications": false,
+                "translator_type": "none",
+                "withheld_in_countries": []
+            },
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "contributors": null,
+            "is_quote_status": false,
+            "retweet_count": 32,
+            "favorite_count": 65,
+            "favorited": false,
+            "retweeted": false,
+            "possibly_sensitive": false,
+            "lang": "es"
+        },
+        "retweet_count": 674,
+        "favorite_count": 2023,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "es"
+    },
+    "is_quote_status": true,
+    "quoted_status_id": 1415001124839596043,
+    "quoted_status_id_str": "1415001124839596043",
+    "retweet_count": 674,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "es"
+}
