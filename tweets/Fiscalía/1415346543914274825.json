@@ -1,0 +1,128 @@
+{
+    "created_at": "Wed Jul 14 16:24:46 +0000 2021",
+    "id": 1415346543914274825,
+    "id_str": "1415346543914274825",
+    "full_text": "@semprearran @LlibreriaG @nomagradares Aqu\u00ed el pq ha estallado todo\nhttps://t.co/Y1lrEcwPB2\nIrene Montero ha llevado el caso ante la Fiscal\u00eda.",
+    "truncated": false,
+    "display_text_range": [
+        39,
+        142
+    ],
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "semprearran",
+                "name": "\ud83c\udf97\ufe0f#SENSEPOR PV ||*||\ud83c\udf97\ufe0f",
+                "id": 264054160,
+                "id_str": "264054160",
+                "indices": [
+                    0,
+                    12
+                ]
+            },
+            {
+                "screen_name": "LlibreriaG",
+                "name": "Llibreria Geli",
+                "id": 1279060084958658560,
+                "id_str": "1279060084958658560",
+                "indices": [
+                    13,
+                    24
+                ]
+            },
+            {
+                "screen_name": "nomagradares",
+                "name": "SOLER",
+                "id": 196984537,
+                "id_str": "196984537",
+                "indices": [
+                    25,
+                    38
+                ]
+            }
+        ],
+        "urls": [
+            {
+                "url": "https://t.co/Y1lrEcwPB2",
+                "expanded_url": "https://youtu.be/YomzCaeN5fA",
+                "display_url": "youtu.be/YomzCaeN5fA",
+                "indices": [
+                    68,
+                    91
+                ]
+            }
+        ]
+    },
+    "metadata": {
+        "iso_language_code": "es",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "in_reply_to_status_id": 1415319103196237824,
+    "in_reply_to_status_id_str": "1415319103196237824",
+    "in_reply_to_user_id": 264054160,
+    "in_reply_to_user_id_str": "264054160",
+    "in_reply_to_screen_name": "semprearran",
+    "user": {
+        "id": 1273266170653745152,
+        "id_str": "1273266170653745152",
+        "name": "Amo_My_Mouse \u2764\ud83d\udc00\ud83d\uddb1",
+        "screen_name": "amomyraton",
+        "location": "",
+        "description": "@pol\u00edtica, @tea, @ de amor y de arroba a ratos.\nHay pensamientos que no son est\u00e1ticos, cambian, con el tiempo, @ veces!\n@nti grupos y @nti cosas.",
+        "url": null,
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 123,
+        "friends_count": 185,
+        "listed_count": 1,
+        "created_at": "Wed Jun 17 14:49:11 +0000 2020",
+        "favourites_count": 18978,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 7141,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": null,
+        "profile_background_image_url_https": null,
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1324833559027372036/tF9BfM7B_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1324833559027372036/tF9BfM7B_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1273266170653745152/1626047950",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "es"
+}

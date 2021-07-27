@@ -1,0 +1,224 @@
+{
+    "created_at": "Wed Jul 14 16:25:29 +0000 2021",
+    "id": 1415346721786318851,
+    "id_str": "1415346721786318851",
+    "full_text": "RT @ReporteNi: (canal12nica) #PorSiTeLoPerdiste Dr. Borge citado a Fiscal\u00eda por emitir receta m\u00e9dica a la aspirante presidencial Asunci\u00f3n M\u2026",
+    "truncated": false,
+    "display_text_range": [
+        0,
+        140
+    ],
+    "entities": {
+        "hashtags": [
+            {
+                "text": "PorSiTeLoPerdiste",
+                "indices": [
+                    29,
+                    47
+                ]
+            }
+        ],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "ReporteNi",
+                "name": "\ud83c\uddf3\ud83c\uddeeReportes Nicas\ud83c\uddf3\ud83c\uddee",
+                "id": 434585942,
+                "id_str": "434585942",
+                "indices": [
+                    3,
+                    13
+                ]
+            }
+        ],
+        "urls": []
+    },
+    "metadata": {
+        "iso_language_code": "es",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 2428190896,
+        "id_str": "2428190896",
+        "name": "El BANANO",
+        "screen_name": "GiunerC",
+        "location": "",
+        "description": "PERIODISTA.  SI NO HAY JUSTICIA PARA EL PUEBLO QUE NO HAYA PAZ PARA EL GOBIERNO.",
+        "url": null,
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 1439,
+        "friends_count": 1421,
+        "listed_count": 0,
+        "created_at": "Sat Mar 22 03:55:30 +0000 2014",
+        "favourites_count": 88575,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 64141,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1274324720121495552/UHlJk8-m_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1274324720121495552/UHlJk8-m_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2428190896/1409435564",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+        "created_at": "Wed Jul 14 16:04:51 +0000 2021",
+        "id": 1415341531704307712,
+        "id_str": "1415341531704307712",
+        "full_text": "(canal12nica) #PorSiTeLoPerdiste Dr. Borge citado a Fiscal\u00eda por emitir receta m\u00e9dica a la aspirante presidencial Asunci\u00f3n Moreno. https://t.co/V9CN3Dng7w",
+        "truncated": false,
+        "display_text_range": [
+            0,
+            154
+        ],
+        "entities": {
+            "hashtags": [
+                {
+                    "text": "PorSiTeLoPerdiste",
+                    "indices": [
+                        14,
+                        32
+                    ]
+                }
+            ],
+            "symbols": [],
+            "user_mentions": [],
+            "urls": [
+                {
+                    "url": "https://t.co/V9CN3Dng7w",
+                    "expanded_url": "https://youtu.be/BMs-50S9P3c",
+                    "display_url": "youtu.be/BMs-50S9P3c",
+                    "indices": [
+                        131,
+                        154
+                    ]
+                }
+            ]
+        },
+        "metadata": {
+            "iso_language_code": "es",
+            "result_type": "recent"
+        },
+        "source": "<a href=\"https://twitter.com/reporteni\" rel=\"nofollow\">@ReporteNi</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 434585942,
+            "id_str": "434585942",
+            "name": "\ud83c\uddf3\ud83c\uddeeReportes Nicas\ud83c\uddf3\ud83c\uddee",
+            "screen_name": "ReporteNi",
+            "location": "Nicaragua",
+            "description": "Reporta u opina en temas de inter\u00e9s com\u00fan. Usa @ReporteNi, #ReporteNi o #reporto en tu mensaje y el tuit ser\u00e1 citado. Dudas, comentarios? Env\u00edanos un MD.",
+            "url": "https://t.co/WPn4fwUgsr",
+            "entities": {
+                "url": {
+                    "urls": [
+                        {
+                            "url": "https://t.co/WPn4fwUgsr",
+                            "expanded_url": "https://tinyurl.com/REP0RTENI",
+                            "display_url": "tinyurl.com/REP0RTENI",
+                            "indices": [
+                                0,
+                                23
+                            ]
+                        }
+                    ]
+                },
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 31742,
+            "friends_count": 9699,
+            "listed_count": 216,
+            "created_at": "Mon Dec 12 02:02:00 +0000 2011",
+            "favourites_count": 4634,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": false,
+            "verified": false,
+            "statuses_count": 661775,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "C0DEED",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1310684671030812672/Xl7clxd-_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1310684671030812672/Xl7clxd-_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/434585942/1601327418",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "has_extended_profile": true,
+            "default_profile": true,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "regular",
+            "withheld_in_countries": []
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 1,
+        "favorite_count": 0,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "es"
+    },
+    "is_quote_status": false,
+    "retweet_count": 1,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "es"
+}

@@ -1,0 +1,118 @@
+{
+    "created_at": "Wed Jul 14 16:28:11 +0000 2021",
+    "id": 1415347402786185217,
+    "id_str": "1415347402786185217",
+    "full_text": "Fiscal\u00eda investiga asesinato del director del centro de salud de la 5 de Febrero en #Tapachula, baleado este Mi\u00e9rcoles https://t.co/OV5bWAh8NK",
+    "truncated": false,
+    "display_text_range": [
+        0,
+        142
+    ],
+    "entities": {
+        "hashtags": [
+            {
+                "text": "Tapachula",
+                "indices": [
+                    84,
+                    94
+                ]
+            }
+        ],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+            {
+                "url": "https://t.co/OV5bWAh8NK",
+                "expanded_url": "https://balancemexico.com/fiscalia-investiga-asesinato-del-director-del-centro-de-salud-en-tapachula/",
+                "display_url": "balancemexico.com/fiscalia-inves\u2026",
+                "indices": [
+                    119,
+                    142
+                ]
+            }
+        ]
+    },
+    "metadata": {
+        "iso_language_code": "es",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"http://publicize.wp.com/\" rel=\"nofollow\">WordPress.com</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 93911067,
+        "id_str": "93911067",
+        "name": "BALANCE M\u00c9XICO",
+        "screen_name": "Cbalancemexico",
+        "location": "Distrito Federal, M\u00e9xico",
+        "description": "Por el valor de informar #BalanceMexico",
+        "url": "https://t.co/GRWnpBmovY",
+        "entities": {
+            "url": {
+                "urls": [
+                    {
+                        "url": "https://t.co/GRWnpBmovY",
+                        "expanded_url": "http://www.balancemexico.com",
+                        "display_url": "balancemexico.com",
+                        "indices": [
+                            0,
+                            23
+                        ]
+                    }
+                ]
+            },
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 23206,
+        "friends_count": 129,
+        "listed_count": 13,
+        "created_at": "Tue Dec 01 18:13:37 +0000 2009",
+        "favourites_count": 132,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 9332,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "0FFFFF",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1385446221649645569/_Y7bsbWJ_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1385446221649645569/_Y7bsbWJ_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/93911067/1619150967",
+        "profile_link_color": "6E6E6E",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "313233",
+        "profile_text_color": "000000",
+        "profile_use_background_image": true,
+        "has_extended_profile": true,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": true,
+    "lang": "es"
+}

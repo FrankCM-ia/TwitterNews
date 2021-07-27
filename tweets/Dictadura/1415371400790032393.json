@@ -1,0 +1,183 @@
+{
+    "created_at": "Wed Jul 14 18:03:32 +0000 2021",
+    "id": 1415371400790032393,
+    "id_str": "1415371400790032393",
+    "full_text": "RT @MWinazki: \u00bfYa salio el movimiento estudiantil.argentino a condenar la brutal represi\u00f3n de la siniestra dictadura cubana?",
+    "truncated": false,
+    "display_text_range": [
+        0,
+        124
+    ],
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "MWinazki",
+                "name": "Miguel Wi\u00f1azki",
+                "id": 50065150,
+                "id_str": "50065150",
+                "indices": [
+                    3,
+                    12
+                ]
+            }
+        ],
+        "urls": []
+    },
+    "metadata": {
+        "iso_language_code": "es",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 1101175849267744769,
+        "id_str": "1101175849267744769",
+        "name": "ladyGodiva",
+        "screen_name": "AyerzaAngie",
+        "location": "Buenos Aires City Region",
+        "description": "",
+        "url": null,
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 166,
+        "friends_count": 246,
+        "listed_count": 0,
+        "created_at": "Thu Feb 28 17:42:36 +0000 2019",
+        "favourites_count": 14252,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 16278,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": null,
+        "profile_background_image_url_https": null,
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1102756613906198528/94yA_lqq_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1102756613906198528/94yA_lqq_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1101175849267744769/1551397746",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+        "created_at": "Wed Jul 14 13:12:14 +0000 2021",
+        "id": 1415298090534416385,
+        "id_str": "1415298090534416385",
+        "full_text": "\u00bfYa salio el movimiento estudiantil.argentino a condenar la brutal represi\u00f3n de la siniestra dictadura cubana?",
+        "truncated": false,
+        "display_text_range": [
+            0,
+            110
+        ],
+        "entities": {
+            "hashtags": [],
+            "symbols": [],
+            "user_mentions": [],
+            "urls": []
+        },
+        "metadata": {
+            "iso_language_code": "es",
+            "result_type": "recent"
+        },
+        "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 50065150,
+            "id_str": "50065150",
+            "name": "Miguel Wi\u00f1azki",
+            "screen_name": "MWinazki",
+            "location": "Argentina",
+            "description": "Periodista",
+            "url": null,
+            "entities": {
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 78307,
+            "friends_count": 3378,
+            "listed_count": 311,
+            "created_at": "Tue Jun 23 18:56:50 +0000 2009",
+            "favourites_count": 4853,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": true,
+            "verified": false,
+            "statuses_count": 2590,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "C6E2EE",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif",
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1413156105920864259/DPCVEOTV_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1413156105920864259/DPCVEOTV_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/50065150/1617120959",
+            "profile_link_color": "1F98C7",
+            "profile_sidebar_border_color": "C6E2EE",
+            "profile_sidebar_fill_color": "DAECF4",
+            "profile_text_color": "663B12",
+            "profile_use_background_image": true,
+            "has_extended_profile": true,
+            "default_profile": false,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none",
+            "withheld_in_countries": []
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 665,
+        "favorite_count": 2066,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "es"
+    },
+    "is_quote_status": false,
+    "retweet_count": 665,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "es"
+}

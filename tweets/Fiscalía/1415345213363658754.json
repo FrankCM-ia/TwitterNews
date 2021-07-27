@@ -1,0 +1,302 @@
+{
+    "created_at": "Wed Jul 14 16:19:29 +0000 2021",
+    "id": 1415345213363658754,
+    "id_str": "1415345213363658754",
+    "full_text": "RT @Ines_herreros: Me encanta esta pregunta. \nLa siguiente es: \u00bfQu\u00e9 hacemos con nuestra infancia y adolescencia -no vacunada a\u00fan-? \n#SoloPr\u2026",
+    "truncated": false,
+    "display_text_range": [
+        0,
+        140
+    ],
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "Ines_herreros",
+                "name": "In\u00e9s Herreros",
+                "id": 751428842,
+                "id_str": "751428842",
+                "indices": [
+                    3,
+                    17
+                ]
+            }
+        ],
+        "urls": []
+    },
+    "metadata": {
+        "iso_language_code": "es",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 637224711,
+        "id_str": "637224711",
+        "name": "MjFiT",
+        "screen_name": "MjFitei",
+        "location": "",
+        "description": "Provant de trobar just\u00edcia. Vivint temps  que els joves estudiaran.",
+        "url": null,
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 496,
+        "friends_count": 1179,
+        "listed_count": 2,
+        "created_at": "Mon Jul 16 17:41:13 +0000 2012",
+        "favourites_count": 29228,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 26315,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/3406036117/a17eb01f0e8212e8cab717544fd5c03e_normal.jpeg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/3406036117/a17eb01f0e8212e8cab717544fd5c03e_normal.jpeg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+        "created_at": "Wed Jul 14 16:18:49 +0000 2021",
+        "id": 1415345047034343429,
+        "id_str": "1415345047034343429",
+        "full_text": "Me encanta esta pregunta. \nLa siguiente es: \u00bfQu\u00e9 hacemos con nuestra infancia y adolescencia -no vacunada a\u00fan-? \n#SoloPregunto\nLa Fiscalia Superior de Canarias inform\u00f3 a favor de toque de queda... razones de peso hay. https://t.co/ekZRg9pxZB",
+        "truncated": false,
+        "display_text_range": [
+            0,
+            217
+        ],
+        "entities": {
+            "hashtags": [
+                {
+                    "text": "SoloPregunto",
+                    "indices": [
+                        113,
+                        126
+                    ]
+                }
+            ],
+            "symbols": [],
+            "user_mentions": [],
+            "urls": [
+                {
+                    "url": "https://t.co/ekZRg9pxZB",
+                    "expanded_url": "https://twitter.com/Oriveabogados/status/1415342213270282240",
+                    "display_url": "twitter.com/Oriveabogados/\u2026",
+                    "indices": [
+                        218,
+                        241
+                    ]
+                }
+            ]
+        },
+        "metadata": {
+            "iso_language_code": "es",
+            "result_type": "recent"
+        },
+        "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 751428842,
+            "id_str": "751428842",
+            "name": "In\u00e9s Herreros",
+            "screen_name": "Ines_herreros",
+            "location": "Espa\u00f1a inclusiva y compasiva.",
+            "description": "Mujer. Fiscal. Vocal en el Consejo Fiscal, tambi\u00e9n integrante de su comisi\u00f3n de igualdad y comunicaci\u00f3n.",
+            "url": null,
+            "entities": {
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 5771,
+            "friends_count": 1012,
+            "listed_count": 60,
+            "created_at": "Sat Aug 11 15:19:55 +0000 2012",
+            "favourites_count": 3046,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": false,
+            "verified": false,
+            "statuses_count": 15566,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "C0DEED",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1396534648063266817/DrY0qOGD_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1396534648063266817/DrY0qOGD_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/751428842/1570330472",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "has_extended_profile": false,
+            "default_profile": true,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none",
+            "withheld_in_countries": []
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": true,
+        "quoted_status_id": 1415342213270282240,
+        "quoted_status_id_str": "1415342213270282240",
+        "quoted_status": {
+            "created_at": "Wed Jul 14 16:07:34 +0000 2021",
+            "id": 1415342213270282240,
+            "id_str": "1415342213270282240",
+            "full_text": "@DavidCuestaTV Pregunto, sin precisar respuesta. Si algunos no temen los contagios masivos porque se aplican tantas medidas restrictivas para acceder a los edificios judiciales\u2026 pregunto\ud83d\ude13",
+            "truncated": false,
+            "display_text_range": [
+                15,
+                187
+            ],
+            "entities": {
+                "hashtags": [],
+                "symbols": [],
+                "user_mentions": [
+                    {
+                        "screen_name": "DavidCuestaTV",
+                        "name": "David Cuesta",
+                        "id": 533397068,
+                        "id_str": "533397068",
+                        "indices": [
+                            0,
+                            14
+                        ]
+                    }
+                ],
+                "urls": []
+            },
+            "metadata": {
+                "iso_language_code": "es",
+                "result_type": "recent"
+            },
+            "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+            "in_reply_to_status_id": 1415316493366091777,
+            "in_reply_to_status_id_str": "1415316493366091777",
+            "in_reply_to_user_id": 533397068,
+            "in_reply_to_user_id_str": "533397068",
+            "in_reply_to_screen_name": "DavidCuestaTV",
+            "user": {
+                "id": 968010697,
+                "id_str": "968010697",
+                "name": "Roberto Orive",
+                "screen_name": "Oriveabogados",
+                "location": "Las Palmas de Gran Canaria",
+                "description": "Abogado del Ilustre Colegio de Abogados de Las Palmas al que le gusta su trabajo y piensa que hay que cambiar las cosas.",
+                "url": null,
+                "entities": {
+                    "description": {
+                        "urls": []
+                    }
+                },
+                "protected": false,
+                "followers_count": 1628,
+                "friends_count": 4871,
+                "listed_count": 19,
+                "created_at": "Sat Nov 24 13:13:11 +0000 2012",
+                "favourites_count": 61942,
+                "utc_offset": null,
+                "time_zone": null,
+                "geo_enabled": true,
+                "verified": false,
+                "statuses_count": 11139,
+                "lang": null,
+                "contributors_enabled": false,
+                "is_translator": false,
+                "is_translation_enabled": false,
+                "profile_background_color": "C0DEED",
+                "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+                "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+                "profile_background_tile": false,
+                "profile_image_url": "http://pbs.twimg.com/profile_images/1283507219615621120/OAqkV81J_normal.jpg",
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/1283507219615621120/OAqkV81J_normal.jpg",
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/968010697/1416769101",
+                "profile_link_color": "1DA1F2",
+                "profile_sidebar_border_color": "C0DEED",
+                "profile_sidebar_fill_color": "DDEEF6",
+                "profile_text_color": "333333",
+                "profile_use_background_image": true,
+                "has_extended_profile": false,
+                "default_profile": true,
+                "default_profile_image": false,
+                "following": false,
+                "follow_request_sent": false,
+                "notifications": false,
+                "translator_type": "none",
+                "withheld_in_countries": []
+            },
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "contributors": null,
+            "is_quote_status": false,
+            "retweet_count": 2,
+            "favorite_count": 2,
+            "favorited": false,
+            "retweeted": false,
+            "lang": "es"
+        },
+        "retweet_count": 1,
+        "favorite_count": 0,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "es"
+    },
+    "is_quote_status": true,
+    "quoted_status_id": 1415342213270282240,
+    "quoted_status_id_str": "1415342213270282240",
+    "retweet_count": 1,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "es"
+}

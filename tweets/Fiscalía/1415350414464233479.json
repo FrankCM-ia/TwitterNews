@@ -1,0 +1,132 @@
+{
+    "created_at": "Wed Jul 14 16:40:09 +0000 2021",
+    "id": 1415350414464233479,
+    "id_str": "1415350414464233479",
+    "full_text": "En las democracias hay equilibrio de poderes y los entes de control como la Fiscal\u00eda, la Procuradur\u00eda, la Contralor\u00eda y la Defensor\u00eda no est\u00e1n bajo el dominio gubernamental: https://t.co/IOTQ5MYRsh\n\n#ParaSalirDePobres #TieneHuevo #ParoNacional14Jul",
+    "truncated": false,
+    "display_text_range": [
+        0,
+        248
+    ],
+    "entities": {
+        "hashtags": [
+            {
+                "text": "ParaSalirDePobres",
+                "indices": [
+                    199,
+                    217
+                ]
+            },
+            {
+                "text": "TieneHuevo",
+                "indices": [
+                    218,
+                    229
+                ]
+            },
+            {
+                "text": "ParoNacional14Jul",
+                "indices": [
+                    230,
+                    248
+                ]
+            }
+        ],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+            {
+                "url": "https://t.co/IOTQ5MYRsh",
+                "expanded_url": "https://bit.ly/2Tv3Tmn",
+                "display_url": "bit.ly/2Tv3Tmn",
+                "indices": [
+                    174,
+                    197
+                ]
+            }
+        ]
+    },
+    "metadata": {
+        "iso_language_code": "es",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 134285389,
+        "id_str": "134285389",
+        "name": "Juan Carlos",
+        "screen_name": "DigitalJumper",
+        "location": "Bogot\u00e1 D.C. / Colombia",
+        "description": "\u00bfPor qu\u00e9 callar si nacimos gritando?",
+        "url": "https://t.co/1wd4ejswI9",
+        "entities": {
+            "url": {
+                "urls": [
+                    {
+                        "url": "https://t.co/1wd4ejswI9",
+                        "expanded_url": "https://blogs.eltiempo.com/digital-jumper/",
+                        "display_url": "blogs.eltiempo.com/digital-jumper/",
+                        "indices": [
+                            0,
+                            23
+                        ]
+                    }
+                ]
+            },
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 5383,
+        "friends_count": 3605,
+        "listed_count": 71,
+        "created_at": "Sun Apr 18 00:39:57 +0000 2010",
+        "favourites_count": 11,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "verified": true,
+        "statuses_count": 1705,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "0099B9",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme19/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme19/bg.gif",
+        "profile_background_tile": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1412196184547069954/ah_jrSZp_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1412196184547069954/ah_jrSZp_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/134285389/1626275962",
+        "profile_link_color": "1B95E0",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "profile_use_background_image": false,
+        "has_extended_profile": false,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "es"
+}

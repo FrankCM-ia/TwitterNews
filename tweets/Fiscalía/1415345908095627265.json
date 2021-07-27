@@ -1,0 +1,265 @@
+{
+    "created_at": "Wed Jul 14 16:22:15 +0000 2021",
+    "id": 1415345908095627265,
+    "id_str": "1415345908095627265",
+    "full_text": "RT @LaVerdadJz: #Ent\u00e9rate | Interfieren en comunicaciones privadas del #periodista Arnoldo Cu\u00e9llar, editor de @poplabmx ; fuentes consultad\u2026",
+    "truncated": false,
+    "display_text_range": [
+        0,
+        140
+    ],
+    "entities": {
+        "hashtags": [
+            {
+                "text": "Ent\u00e9rate",
+                "indices": [
+                    16,
+                    25
+                ]
+            },
+            {
+                "text": "periodista",
+                "indices": [
+                    71,
+                    82
+                ]
+            }
+        ],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "LaVerdadJz",
+                "name": "La Verdad",
+                "id": 983796964755046405,
+                "id_str": "983796964755046405",
+                "indices": [
+                    3,
+                    14
+                ]
+            },
+            {
+                "screen_name": "poplabmx",
+                "name": "POPLabMx",
+                "id": 1097918788857675786,
+                "id_str": "1097918788857675786",
+                "indices": [
+                    110,
+                    119
+                ]
+            }
+        ],
+        "urls": []
+    },
+    "metadata": {
+        "iso_language_code": "es",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 3649836674,
+        "id_str": "3649836674",
+        "name": "Fernando J. G. \ud83c\udff3\ufe0f\u200d\ud83c\udf08",
+        "screen_name": "FernandoOlivaw",
+        "location": "Nezahualc\u00f3yotl, M\u00e9xico",
+        "description": "@Alterna_MX | Reportero en formaci\u00f3n | joto | \u00c9l | FCPyS",
+        "url": null,
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 492,
+        "friends_count": 2165,
+        "listed_count": 3,
+        "created_at": "Tue Sep 22 15:12:14 +0000 2015",
+        "favourites_count": 50775,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 12208,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1409659908107165696/2cBUzGEq_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1409659908107165696/2cBUzGEq_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/3649836674/1625035672",
+        "profile_link_color": "213AA1",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "profile_use_background_image": false,
+        "has_extended_profile": true,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+        "created_at": "Tue Jul 13 13:41:27 +0000 2021",
+        "id": 1414943054864162817,
+        "id_str": "1414943054864162817",
+        "full_text": "#Ent\u00e9rate | Interfieren en comunicaciones privadas del #periodista Arnoldo Cu\u00e9llar, editor de @poplabmx ; fuentes consultadas responsabilizan de la acci\u00f3n al director de la AIC de la fiscal\u00eda de Guanajuato, Jos\u00e9 Antonio Torres \n#LibertaddeExpresi\u00f3n \nhttps://t.co/Z4wJWjF11U",
+        "truncated": false,
+        "display_text_range": [
+            0,
+            273
+        ],
+        "entities": {
+            "hashtags": [
+                {
+                    "text": "Ent\u00e9rate",
+                    "indices": [
+                        0,
+                        9
+                    ]
+                },
+                {
+                    "text": "periodista",
+                    "indices": [
+                        55,
+                        66
+                    ]
+                },
+                {
+                    "text": "LibertaddeExpresi\u00f3n",
+                    "indices": [
+                        228,
+                        248
+                    ]
+                }
+            ],
+            "symbols": [],
+            "user_mentions": [
+                {
+                    "screen_name": "poplabmx",
+                    "name": "POPLabMx",
+                    "id": 1097918788857675786,
+                    "id_str": "1097918788857675786",
+                    "indices": [
+                        94,
+                        103
+                    ]
+                }
+            ],
+            "urls": [
+                {
+                    "url": "https://t.co/Z4wJWjF11U",
+                    "expanded_url": "https://laverdadjuarez.com/index.php/2021/07/13/denuncia-poplab-presunto-espionaje-de-fiscalia-de-guanajuato-fgr-declina-y-la-turna-al-estado/",
+                    "display_url": "laverdadjuarez.com/index.php/2021\u2026",
+                    "indices": [
+                        250,
+                        273
+                    ]
+                }
+            ]
+        },
+        "metadata": {
+            "iso_language_code": "es",
+            "result_type": "recent"
+        },
+        "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 983796964755046405,
+            "id_str": "983796964755046405",
+            "name": "La Verdad",
+            "screen_name": "LaVerdadJz",
+            "location": "Ciudad Ju\u00e1rez, Chihuahua",
+            "description": "Periodismo con la mirada fija en los intereses de los ciudadanos / Investigaci\u00f3n / An\u00e1lisis y Opini\u00f3n / contacto: laverdadjz@gmail.com",
+            "url": "https://t.co/X0YFAAf3c8",
+            "entities": {
+                "url": {
+                    "urls": [
+                        {
+                            "url": "https://t.co/X0YFAAf3c8",
+                            "expanded_url": "https://laverdadjuarez.com/",
+                            "display_url": "laverdadjuarez.com",
+                            "indices": [
+                                0,
+                                23
+                            ]
+                        }
+                    ]
+                },
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 3168,
+            "friends_count": 1564,
+            "listed_count": 38,
+            "created_at": "Tue Apr 10 20:00:49 +0000 2018",
+            "favourites_count": 2410,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": false,
+            "verified": false,
+            "statuses_count": 6502,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "F5F8FA",
+            "profile_background_image_url": null,
+            "profile_background_image_url_https": null,
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/985282522610253825/03o4apk4_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/985282522610253825/03o4apk4_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/983796964755046405/1625591778",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "has_extended_profile": false,
+            "default_profile": true,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none",
+            "withheld_in_countries": []
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 5,
+        "favorite_count": 3,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "es"
+    },
+    "is_quote_status": false,
+    "retweet_count": 5,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "es"
+}

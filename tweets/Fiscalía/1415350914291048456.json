@@ -1,0 +1,110 @@
+{
+    "created_at": "Wed Jul 14 16:42:08 +0000 2021",
+    "id": 1415350914291048456,
+    "id_str": "1415350914291048456",
+    "full_text": "La Fiscal\u00eda General del Estado de Oaxaca obtuvo  vinculaci\u00f3n a proceso contra la persona del sexo masculino identificada como A. G. Y., por su probable responsabilidad en la comisi\u00f3n del delito de equiparado a la violaci\u00f3n en agravio de un ni\u00f1o de 9 a\u00f1os\n\nhttps://t.co/CZjIsBXLgB",
+    "truncated": false,
+    "display_text_range": [
+        0,
+        279
+    ],
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+            {
+                "url": "https://t.co/CZjIsBXLgB",
+                "expanded_url": "https://bit.ly/3xFwBjt",
+                "display_url": "bit.ly/3xFwBjt",
+                "indices": [
+                    256,
+                    279
+                ]
+            }
+        ]
+    },
+    "metadata": {
+        "iso_language_code": "es",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 180266790,
+        "id_str": "180266790",
+        "name": "Quadrat\u00edn Oaxaca",
+        "screen_name": "Quadratinoaxaca",
+        "location": "Oaxaca",
+        "description": "Filial de la Agencia de Noticias Quadrati\u0301n. Director general editorial y de contenidos de Quadrat\u00edn Oaxaca, Lic. Gabriel Flores Archundia @gfloresa7",
+        "url": "https://t.co/kPb06V8c4I",
+        "entities": {
+            "url": {
+                "urls": [
+                    {
+                        "url": "https://t.co/kPb06V8c4I",
+                        "expanded_url": "http://www.quadratinoaxaca.com.mx",
+                        "display_url": "quadratinoaxaca.com.mx",
+                        "indices": [
+                            0,
+                            23
+                        ]
+                    }
+                ]
+            },
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 145255,
+        "friends_count": 439,
+        "listed_count": 405,
+        "created_at": "Thu Aug 19 05:55:41 +0000 2010",
+        "favourites_count": 1192,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 244194,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "022330",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1410604314117038087/5CvNixxB_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1410604314117038087/5CvNixxB_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/180266790/1625149252",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_border_color": "A8C7F7",
+        "profile_sidebar_fill_color": "C0DFEC",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "es"
+}

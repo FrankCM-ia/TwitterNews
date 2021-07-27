@@ -1,0 +1,203 @@
+{
+    "created_at": "Wed Jul 14 16:32:43 +0000 2021",
+    "id": 1415348545356537859,
+    "id_str": "1415348545356537859",
+    "full_text": "RT @edik_melendez: @ExpresoPeru Con sus acciones la Chika K fortalece las acusaci\u00f3n  de la fiscal\u00eda.",
+    "truncated": false,
+    "display_text_range": [
+        0,
+        100
+    ],
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "edik_melendez",
+                "name": "emelendez",
+                "id": 125419900,
+                "id_str": "125419900",
+                "indices": [
+                    3,
+                    17
+                ]
+            },
+            {
+                "screen_name": "ExpresoPeru",
+                "name": "Diario Expreso",
+                "id": 225232891,
+                "id_str": "225232891",
+                "indices": [
+                    19,
+                    31
+                ]
+            }
+        ],
+        "urls": []
+    },
+    "metadata": {
+        "iso_language_code": "es",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 945703954444414978,
+        "id_str": "945703954444414978",
+        "name": "Roxana Manuela D.",
+        "screen_name": "RoxanaManuelaD4",
+        "location": "",
+        "description": "Sin fanatismos, observadora, directa..trato en lo m\u00e1ximo de tener empat\u00eda, Independiente opini\u00f3n propia",
+        "url": null,
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 79,
+        "friends_count": 158,
+        "listed_count": 0,
+        "created_at": "Tue Dec 26 17:12:47 +0000 2017",
+        "favourites_count": 18457,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 5319,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1373750976293838848/iAjoqg4M_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1373750976293838848/iAjoqg4M_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/945703954444414978/1587015067",
+        "profile_link_color": "7FDBB6",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "profile_use_background_image": false,
+        "has_extended_profile": false,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+        "created_at": "Wed Jul 14 14:56:09 +0000 2021",
+        "id": 1415324243647160325,
+        "id_str": "1415324243647160325",
+        "full_text": "@ExpresoPeru Con sus acciones la Chika K fortalece las acusaci\u00f3n  de la fiscal\u00eda.",
+        "truncated": false,
+        "display_text_range": [
+            13,
+            81
+        ],
+        "entities": {
+            "hashtags": [],
+            "symbols": [],
+            "user_mentions": [
+                {
+                    "screen_name": "ExpresoPeru",
+                    "name": "Diario Expreso",
+                    "id": 225232891,
+                    "id_str": "225232891",
+                    "indices": [
+                        0,
+                        12
+                    ]
+                }
+            ],
+            "urls": []
+        },
+        "metadata": {
+            "iso_language_code": "es",
+            "result_type": "recent"
+        },
+        "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+        "in_reply_to_status_id": 1415321701127233537,
+        "in_reply_to_status_id_str": "1415321701127233537",
+        "in_reply_to_user_id": 225232891,
+        "in_reply_to_user_id_str": "225232891",
+        "in_reply_to_screen_name": "ExpresoPeru",
+        "user": {
+            "id": 125419900,
+            "id_str": "125419900",
+            "name": "emelendez",
+            "screen_name": "edik_melendez",
+            "location": "San Borja - Lima",
+            "description": "",
+            "url": null,
+            "entities": {
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 60,
+            "friends_count": 193,
+            "listed_count": 0,
+            "created_at": "Mon Mar 22 19:10:47 +0000 2010",
+            "favourites_count": 519,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": false,
+            "verified": false,
+            "statuses_count": 3477,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "C0DEED",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/621526542997438464/gjSVbbO8_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/621526542997438464/gjSVbbO8_normal.jpg",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "has_extended_profile": false,
+            "default_profile": true,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none",
+            "withheld_in_countries": []
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 1,
+        "favorite_count": 1,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "es"
+    },
+    "is_quote_status": false,
+    "retweet_count": 1,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "es"
+}

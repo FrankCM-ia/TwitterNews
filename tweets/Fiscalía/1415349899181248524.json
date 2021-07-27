@@ -1,0 +1,231 @@
+{
+    "created_at": "Wed Jul 14 16:38:06 +0000 2021",
+    "id": 1415349899181248524,
+    "id_str": "1415349899181248524",
+    "full_text": "RT @BreitbartTexas: CDG Rescata a Mando de Edificio de Fiscal\u00eda en Reynosa https://t.co/5lgEKeVhN4",
+    "truncated": false,
+    "display_text_range": [
+        0,
+        98
+    ],
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "BreitbartTexas",
+                "name": "BreitbartTexas",
+                "id": 2336823235,
+                "id_str": "2336823235",
+                "indices": [
+                    3,
+                    18
+                ]
+            }
+        ],
+        "urls": [
+            {
+                "url": "https://t.co/5lgEKeVhN4",
+                "expanded_url": "https://www.breitbart.com/border/2021/07/14/cdg-rescata-a-mando-de-edificio-de-fiscalia-en-reynosa/",
+                "display_url": "breitbart.com/border/2021/07\u2026",
+                "indices": [
+                    75,
+                    98
+                ]
+            }
+        ]
+    },
+    "metadata": {
+        "iso_language_code": "es",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 876802761249234944,
+        "id_str": "876802761249234944",
+        "name": "ElGuzman \ud83c\uddf2\ud83c\uddfd",
+        "screen_name": "FuriaNegra7",
+        "location": "Tamaulipas, M\u00e9xico",
+        "description": "\u201cHonor, valor, lealtad y sacrificio\u201d",
+        "url": "https://t.co/OIm4Hfv3lw",
+        "entities": {
+            "url": {
+                "urls": [
+                    {
+                        "url": "https://t.co/OIm4Hfv3lw",
+                        "expanded_url": "https://www.facebook.com/FuriaNegra7G/",
+                        "display_url": "facebook.com/FuriaNegra7G/",
+                        "indices": [
+                            0,
+                            23
+                        ]
+                    }
+                ]
+            },
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 36503,
+        "friends_count": 1939,
+        "listed_count": 123,
+        "created_at": "Mon Jun 19 14:04:03 +0000 2017",
+        "favourites_count": 16965,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 39196,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": null,
+        "profile_background_image_url_https": null,
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1291835378328977408/L3r7fdSs_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1291835378328977408/L3r7fdSs_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/876802761249234944/1605804886",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": true,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+        "created_at": "Wed Jul 14 15:49:45 +0000 2021",
+        "id": 1415337730402357259,
+        "id_str": "1415337730402357259",
+        "full_text": "CDG Rescata a Mando de Edificio de Fiscal\u00eda en Reynosa https://t.co/5lgEKeVhN4",
+        "truncated": false,
+        "display_text_range": [
+            0,
+            78
+        ],
+        "entities": {
+            "hashtags": [],
+            "symbols": [],
+            "user_mentions": [],
+            "urls": [
+                {
+                    "url": "https://t.co/5lgEKeVhN4",
+                    "expanded_url": "https://www.breitbart.com/border/2021/07/14/cdg-rescata-a-mando-de-edificio-de-fiscalia-en-reynosa/",
+                    "display_url": "breitbart.com/border/2021/07\u2026",
+                    "indices": [
+                        55,
+                        78
+                    ]
+                }
+            ]
+        },
+        "metadata": {
+            "iso_language_code": "es",
+            "result_type": "recent"
+        },
+        "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 2336823235,
+            "id_str": "2336823235",
+            "name": "BreitbartTexas",
+            "screen_name": "BreitbartTexas",
+            "location": "Texas",
+            "description": "Breitbart News in the Lone Star State.",
+            "url": "http://t.co/HXoMQpoheX",
+            "entities": {
+                "url": {
+                    "urls": [
+                        {
+                            "url": "http://t.co/HXoMQpoheX",
+                            "expanded_url": "http://www.breitbart.com/breitbart-texas",
+                            "display_url": "breitbart.com/breitbart-texas",
+                            "indices": [
+                                0,
+                                22
+                            ]
+                        }
+                    ]
+                },
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 16055,
+            "friends_count": 51,
+            "listed_count": 293,
+            "created_at": "Mon Feb 10 14:59:46 +0000 2014",
+            "favourites_count": 1,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": false,
+            "verified": false,
+            "statuses_count": 15952,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "FA743E",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1190726926480138240/FpPmmo2j_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1190726926480138240/FpPmmo2j_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/2336823235/1392876665",
+            "profile_link_color": "F29909",
+            "profile_sidebar_border_color": "000000",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "has_extended_profile": false,
+            "default_profile": false,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none",
+            "withheld_in_countries": []
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 1,
+        "favorite_count": 3,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "es"
+    },
+    "is_quote_status": false,
+    "retweet_count": 1,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": true,
+    "lang": "es"
+}

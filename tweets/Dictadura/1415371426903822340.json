@@ -1,0 +1,199 @@
+{
+    "created_at": "Wed Jul 14 18:03:39 +0000 2021",
+    "id": 1415371426903822340,
+    "id_str": "1415371426903822340",
+    "full_text": "RT @Guadi_Pelosista: Mauricio Macri: \"Apoyo al pueblo cubano que reclama el fin de la dictadura\". Era Macri #SOSCuba",
+    "truncated": false,
+    "display_text_range": [
+        0,
+        116
+    ],
+    "entities": {
+        "hashtags": [
+            {
+                "text": "SOSCuba",
+                "indices": [
+                    108,
+                    116
+                ]
+            }
+        ],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "Guadi_Pelosista",
+                "name": "Guadi \ud83e\udd85\ud83d\udc95",
+                "id": 375223674,
+                "id_str": "375223674",
+                "indices": [
+                    3,
+                    19
+                ]
+            }
+        ],
+        "urls": []
+    },
+    "metadata": {
+        "iso_language_code": "es",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 171091383,
+        "id_str": "171091383",
+        "name": "WALTER  KERMEN",
+        "screen_name": "WALTERKERMEN",
+        "location": "C\u00f3rdoba, Argentina",
+        "description": "T\u00e9cnico en Construcciones Viales.\nT\u00e9cnico Superior en Seguridad Vial.\nEspecialista en Accidentologia Vial y Prevenci\u00f3n.",
+        "url": null,
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 70,
+        "friends_count": 241,
+        "listed_count": 2,
+        "created_at": "Mon Jul 26 14:51:15 +0000 2010",
+        "favourites_count": 8342,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 5710,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/558317628117508096/ASI-ds9w_normal.jpeg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/558317628117508096/ASI-ds9w_normal.jpeg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/171091383/1421948268",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": true,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+        "created_at": "Wed Jul 14 16:00:55 +0000 2021",
+        "id": 1415340542439927812,
+        "id_str": "1415340542439927812",
+        "full_text": "Mauricio Macri: \"Apoyo al pueblo cubano que reclama el fin de la dictadura\". Era Macri #SOSCuba",
+        "truncated": false,
+        "display_text_range": [
+            0,
+            95
+        ],
+        "entities": {
+            "hashtags": [
+                {
+                    "text": "SOSCuba",
+                    "indices": [
+                        87,
+                        95
+                    ]
+                }
+            ],
+            "symbols": [],
+            "user_mentions": [],
+            "urls": []
+        },
+        "metadata": {
+            "iso_language_code": "es",
+            "result_type": "recent"
+        },
+        "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 375223674,
+            "id_str": "375223674",
+            "name": "Guadi \ud83e\udd85\ud83d\udc95",
+            "screen_name": "Guadi_Pelosista",
+            "location": "NDP \ud83d\udc9c",
+            "description": "Orgullosa Miembro del 41% \nMadam Speaker Nancy Patricia D'Alesandro Pelosi is my (s)hero \ud83d\udc51 #TeamPelosi \ud83d\udc95\ud83d\udc51 #Biden46 \ud83d\udd25 #MVPHarris \ud83d\udd25",
+            "url": null,
+            "entities": {
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 8857,
+            "friends_count": 1020,
+            "listed_count": 20,
+            "created_at": "Sat Sep 17 18:43:02 +0000 2011",
+            "favourites_count": 245915,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": true,
+            "verified": false,
+            "statuses_count": 66037,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "BADFCD",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme4/bg.gif",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme4/bg.gif",
+            "profile_background_tile": true,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1203487580467142656/XtPghVcm_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1203487580467142656/XtPghVcm_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/375223674/1625077003",
+            "profile_link_color": "E60EAC",
+            "profile_sidebar_border_color": "FFFFFF",
+            "profile_sidebar_fill_color": "95E8EC",
+            "profile_text_color": "3C3940",
+            "profile_use_background_image": true,
+            "has_extended_profile": true,
+            "default_profile": false,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none",
+            "withheld_in_countries": []
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 124,
+        "favorite_count": 382,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "es"
+    },
+    "is_quote_status": false,
+    "retweet_count": 124,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "es"
+}

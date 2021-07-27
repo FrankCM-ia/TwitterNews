@@ -1,0 +1,118 @@
+{
+    "created_at": "Wed Jul 14 16:29:41 +0000 2021",
+    "id": 1415347781733163012,
+    "id_str": "1415347781733163012",
+    "full_text": "El caso #YosStop contin\u00faa su proceso y presentan 6 videos como pruebas ante un juez de Control.\nhttps://t.co/FOtULBW1MY",
+    "truncated": false,
+    "display_text_range": [
+        0,
+        119
+    ],
+    "entities": {
+        "hashtags": [
+            {
+                "text": "YosStop",
+                "indices": [
+                    8,
+                    16
+                ]
+            }
+        ],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+            {
+                "url": "https://t.co/FOtULBW1MY",
+                "expanded_url": "https://bit.ly/2U4A1Oa",
+                "display_url": "bit.ly/2U4A1Oa",
+                "indices": [
+                    96,
+                    119
+                ]
+            }
+        ]
+    },
+    "metadata": {
+        "iso_language_code": "es",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 986674796300775439,
+        "id_str": "986674796300775439",
+        "name": "SomosCDMX",
+        "screen_name": "cdmx_somos",
+        "location": "CDMX",
+        "description": "SOMOS CDMX ofrece las \u00faltimas noticias que acontecen en Ciudad de  M\u00e9xico. Con informaci\u00f3n de \u00faltimo momento sobre tr\u00e1fico, seguridad y  tr\u00e1mites.",
+        "url": "https://t.co/SYMF96JLc7",
+        "entities": {
+            "url": {
+                "urls": [
+                    {
+                        "url": "https://t.co/SYMF96JLc7",
+                        "expanded_url": "https://somoscdmx.com/",
+                        "display_url": "somoscdmx.com",
+                        "indices": [
+                            0,
+                            23
+                        ]
+                    }
+                ]
+            },
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 655,
+        "friends_count": 63,
+        "listed_count": 11,
+        "created_at": "Wed Apr 18 18:36:17 +0000 2018",
+        "favourites_count": 194,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 1187,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1311708708389425152/Vznp727J_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1311708708389425152/Vznp727J_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/986674796300775439/1524077735",
+        "profile_link_color": "E81C4F",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "profile_use_background_image": false,
+        "has_extended_profile": true,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "es"
+}

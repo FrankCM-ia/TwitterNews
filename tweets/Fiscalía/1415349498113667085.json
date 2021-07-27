@@ -1,0 +1,330 @@
+{
+    "created_at": "Wed Jul 14 16:36:30 +0000 2021",
+    "id": 1415349498113667085,
+    "id_str": "1415349498113667085",
+    "full_text": "RT @JaimePalomera: La Fiscal\u00eda, que depende del Gobierno espa\u00f1ol, quiere meternos 9 a\u00f1os en la c\u00e1rcel por manifestarnos pac\u00edficamente y def\u2026",
+    "truncated": false,
+    "display_text_range": [
+        0,
+        140
+    ],
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "JaimePalomera",
+                "name": "Jaime Palomera Zaidel",
+                "id": 100259974,
+                "id_str": "100259974",
+                "indices": [
+                    3,
+                    17
+                ]
+            }
+        ],
+        "urls": []
+    },
+    "metadata": {
+        "iso_language_code": "es",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 800285610975952896,
+        "id_str": "800285610975952896",
+        "name": "Maytemoro59@gmail.co",
+        "screen_name": "Maytemoro59gma1",
+        "location": "",
+        "description": "",
+        "url": null,
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 24,
+        "friends_count": 163,
+        "listed_count": 0,
+        "created_at": "Sun Nov 20 10:32:13 +0000 2016",
+        "favourites_count": 15826,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 5098,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": null,
+        "profile_background_image_url_https": null,
+        "profile_background_tile": false,
+        "profile_image_url": "http://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+        "profile_image_url_https": "https://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": true,
+        "default_profile_image": true,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+        "created_at": "Tue Jul 13 19:34:15 +0000 2021",
+        "id": 1415031841308938244,
+        "id_str": "1415031841308938244",
+        "full_text": "La Fiscal\u00eda, que depende del Gobierno espa\u00f1ol, quiere meternos 9 a\u00f1os en la c\u00e1rcel por manifestarnos pac\u00edficamente y defender el derecho a la vivienda. https://t.co/hSj5ZDLYCF",
+        "truncated": false,
+        "display_text_range": [
+            0,
+            151
+        ],
+        "entities": {
+            "hashtags": [],
+            "symbols": [],
+            "user_mentions": [],
+            "urls": [
+                {
+                    "url": "https://t.co/hSj5ZDLYCF",
+                    "expanded_url": "https://twitter.com/eldiarioes/status/1414856119063916548",
+                    "display_url": "twitter.com/eldiarioes/sta\u2026",
+                    "indices": [
+                        152,
+                        175
+                    ]
+                }
+            ]
+        },
+        "metadata": {
+            "iso_language_code": "es",
+            "result_type": "recent"
+        },
+        "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 100259974,
+            "id_str": "100259974",
+            "name": "Jaime Palomera Zaidel",
+            "screen_name": "JaimePalomera",
+            "location": "",
+            "description": "La vivienda es un derecho, no un privilegio \u2022 Doctor en Antropolog\u00eda Econ\u00f3mica \u2022 Padre \u2022 Investigador en @LahidraCoop \u2022 Uno m\u00e1s en el @SindicatLloguer",
+            "url": "https://t.co/VqWQMRMPUt",
+            "entities": {
+                "url": {
+                    "urls": [
+                        {
+                            "url": "https://t.co/VqWQMRMPUt",
+                            "expanded_url": "https://ub.academia.edu/JaimePalomera",
+                            "display_url": "ub.academia.edu/JaimePalomera",
+                            "indices": [
+                                0,
+                                23
+                            ]
+                        }
+                    ]
+                },
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 30274,
+            "friends_count": 1521,
+            "listed_count": 217,
+            "created_at": "Tue Dec 29 16:16:11 +0000 2009",
+            "favourites_count": 15049,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": true,
+            "verified": false,
+            "statuses_count": 12605,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "C0DEED",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1373427290219163653/k7KWgtGb_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1373427290219163653/k7KWgtGb_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/100259974/1601282416",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "has_extended_profile": false,
+            "default_profile": true,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none",
+            "withheld_in_countries": []
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": true,
+        "quoted_status_id": 1414856119063916548,
+        "quoted_status_id_str": "1414856119063916548",
+        "quoted_status": {
+            "created_at": "Tue Jul 13 07:56:00 +0000 2021",
+            "id": 1414856119063916548,
+            "id_str": "1414856119063916548",
+            "full_text": "El Gobierno espa\u00f1ol pide a Cuba que respete el derecho de los ciudadanos a manifestarse\nhttps://t.co/YKoxC8XkkH",
+            "truncated": false,
+            "display_text_range": [
+                0,
+                111
+            ],
+            "entities": {
+                "hashtags": [],
+                "symbols": [],
+                "user_mentions": [],
+                "urls": [
+                    {
+                        "url": "https://t.co/YKoxC8XkkH",
+                        "expanded_url": "https://www.eldiario.es/sociedad/ultima-hora-coronavirus-actualidad-politica-13-julio_6_8129968_1074176.html",
+                        "display_url": "eldiario.es/sociedad/ultim\u2026",
+                        "indices": [
+                            88,
+                            111
+                        ]
+                    }
+                ]
+            },
+            "metadata": {
+                "iso_language_code": "es",
+                "result_type": "recent"
+            },
+            "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+            "in_reply_to_status_id": null,
+            "in_reply_to_status_id_str": null,
+            "in_reply_to_user_id": null,
+            "in_reply_to_user_id_str": null,
+            "in_reply_to_screen_name": null,
+            "user": {
+                "id": 535707261,
+                "id_str": "535707261",
+                "name": "elDiario.es",
+                "screen_name": "eldiarioes",
+                "location": "",
+                "description": "Periodismo a pesar de todo. Hazte socio, hazte socia https://t.co/PBfvIbuKpN",
+                "url": "http://t.co/9SEeSxM6L5",
+                "entities": {
+                    "url": {
+                        "urls": [
+                            {
+                                "url": "http://t.co/9SEeSxM6L5",
+                                "expanded_url": "http://www.eldiario.es",
+                                "display_url": "eldiario.es",
+                                "indices": [
+                                    0,
+                                    22
+                                ]
+                            }
+                        ]
+                    },
+                    "description": {
+                        "urls": [
+                            {
+                                "url": "https://t.co/PBfvIbuKpN",
+                                "expanded_url": "https://usuarios.eldiario.es/#!/hazte_socio",
+                                "display_url": "usuarios.eldiario.es/#!/hazte_socio",
+                                "indices": [
+                                    53,
+                                    76
+                                ]
+                            }
+                        ]
+                    }
+                },
+                "protected": false,
+                "followers_count": 1271897,
+                "friends_count": 478,
+                "listed_count": 12845,
+                "created_at": "Sat Mar 24 19:08:26 +0000 2012",
+                "favourites_count": 201,
+                "utc_offset": null,
+                "time_zone": null,
+                "geo_enabled": false,
+                "verified": true,
+                "statuses_count": 312480,
+                "lang": null,
+                "contributors_enabled": false,
+                "is_translator": false,
+                "is_translation_enabled": true,
+                "profile_background_color": "196CAE",
+                "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+                "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+                "profile_background_tile": false,
+                "profile_image_url": "http://pbs.twimg.com/profile_images/1412694670023565313/estqWllW_normal.jpg",
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/1412694670023565313/estqWllW_normal.jpg",
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/535707261/1625647632",
+                "profile_link_color": "0084B4",
+                "profile_sidebar_border_color": "FFFFFF",
+                "profile_sidebar_fill_color": "DDEEF6",
+                "profile_text_color": "333333",
+                "profile_use_background_image": false,
+                "has_extended_profile": false,
+                "default_profile": false,
+                "default_profile_image": false,
+                "following": false,
+                "follow_request_sent": false,
+                "notifications": false,
+                "translator_type": "none",
+                "withheld_in_countries": []
+            },
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "contributors": null,
+            "is_quote_status": false,
+            "retweet_count": 206,
+            "favorite_count": 644,
+            "favorited": false,
+            "retweeted": false,
+            "possibly_sensitive": false,
+            "lang": "es"
+        },
+        "retweet_count": 914,
+        "favorite_count": 1645,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "es"
+    },
+    "is_quote_status": true,
+    "quoted_status_id": 1414856119063916548,
+    "quoted_status_id_str": "1414856119063916548",
+    "retweet_count": 914,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "es"
+}

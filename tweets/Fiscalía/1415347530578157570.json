@@ -1,0 +1,106 @@
+{
+    "created_at": "Wed Jul 14 16:28:41 +0000 2021",
+    "id": 1415347530578157570,
+    "id_str": "1415347530578157570",
+    "full_text": "@Politica_LR @acollantes_1096 DEFINITIVAMENTE ESE SR LOPEZ ALIAGA ES DROGADITO, ALCOHOLICO  NO LO DIGO YO LO DICE UNA DEMANDA QUE TIENEN ANTE LA FISCAL\u00cdA  POR ESO EN EL DEBATE DE LA PRIMERA VUELTA BALVUCEABA....Y SE LE NOTA EN SU COMPORTAMIENTO.Y TAMBIEN TIENE DENUNCIAS. POR OTROS DELITOS CONTRA EL \ud83c\uddf5\ud83c\uddea",
+    "truncated": false,
+    "display_text_range": [
+        30,
+        302
+    ],
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "Politica_LR",
+                "name": "Pol\u00edtica LRep\u00fablica",
+                "id": 829750511624679424,
+                "id_str": "829750511624679424",
+                "indices": [
+                    0,
+                    12
+                ]
+            },
+            {
+                "screen_name": "acollantes_1096",
+                "name": "Alonso Collantes",
+                "id": 741119276812275714,
+                "id_str": "741119276812275714",
+                "indices": [
+                    13,
+                    29
+                ]
+            }
+        ],
+        "urls": []
+    },
+    "metadata": {
+        "iso_language_code": "es",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "in_reply_to_status_id": 1415327800995819529,
+    "in_reply_to_status_id_str": "1415327800995819529",
+    "in_reply_to_user_id": 829750511624679424,
+    "in_reply_to_user_id_str": "829750511624679424",
+    "in_reply_to_screen_name": "Politica_LR",
+    "user": {
+        "id": 1381493666624237568,
+        "id_str": "1381493666624237568",
+        "name": "ElPuebloExigeJusticia",
+        "screen_name": "Justicia9Verdad",
+        "location": "",
+        "description": "",
+        "url": null,
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 15,
+        "friends_count": 48,
+        "listed_count": 0,
+        "created_at": "Mon Apr 12 06:25:50 +0000 2021",
+        "favourites_count": 7217,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 8110,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": null,
+        "profile_background_image_url_https": null,
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1400347151675318272/iq7wg4a0_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1400347151675318272/iq7wg4a0_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "es"
+}

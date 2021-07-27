@@ -1,0 +1,110 @@
+{
+    "created_at": "Wed Jul 14 16:34:04 +0000 2021",
+    "id": 1415348885074100226,
+    "id_str": "1415348885074100226",
+    "full_text": "Detiene Fiscal\u00eda General a involucrado en homicidio ocurrido en\u00a0Jacona https://t.co/VfRw6Uz2dl",
+    "truncated": false,
+    "display_text_range": [
+        0,
+        94
+    ],
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+            {
+                "url": "https://t.co/VfRw6Uz2dl",
+                "expanded_url": "http://www.mizitacuaro.com/noticias/seguridad/detiene-fiscalia-general-a-involucrado-en-homicidio-ocurrido-en-jacona/197619/",
+                "display_url": "mizitacuaro.com/noticias/segur\u2026",
+                "indices": [
+                    71,
+                    94
+                ]
+            }
+        ]
+    },
+    "metadata": {
+        "iso_language_code": "es",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"http://publicize.wp.com/\" rel=\"nofollow\">WordPress.com</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 184666151,
+        "id_str": "184666151",
+        "name": "mizitacuaro",
+        "screen_name": "mizitacuaro",
+        "location": "M\u00e9xico",
+        "description": "Noticias de Zit\u00e1cuaro Michoac\u00e1n, M\u00e9xico y el Mundo.",
+        "url": "https://t.co/Rsow1ucLlN",
+        "entities": {
+            "url": {
+                "urls": [
+                    {
+                        "url": "https://t.co/Rsow1ucLlN",
+                        "expanded_url": "http://www.mizitacuaro.com",
+                        "display_url": "mizitacuaro.com",
+                        "indices": [
+                            0,
+                            23
+                        ]
+                    }
+                ]
+            },
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 1407,
+        "friends_count": 891,
+        "listed_count": 14,
+        "created_at": "Mon Aug 30 04:40:54 +0000 2010",
+        "favourites_count": 17,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 90480,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "1A1B1F",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/458804990484574208/HvddbLhP_normal.png",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/458804990484574208/HvddbLhP_normal.png",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/184666151/1435392617",
+        "profile_link_color": "63162F",
+        "profile_sidebar_border_color": "181A1E",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "949494",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "es"
+}

@@ -1,0 +1,117 @@
+{
+    "created_at": "Wed Jul 14 16:41:56 +0000 2021",
+    "id": 1415350863527354369,
+    "id_str": "1415350863527354369",
+    "full_text": "@Pa__tty @FISCALIA_IX @PDI_Araucania Srta Patricia. Ahora les toca proteger al adolescente. El no es machi ni quiere serlo. Su comunidad lo sabe y lo discriminan por su condici\u00f3n y c\u00f3mo es. Por algo se fue de su casa. Ayudelo",
+    "truncated": false,
+    "display_text_range": [
+        37,
+        225
+    ],
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "Pa__tty",
+                "name": "Patty Mu\u00f1oz Garc\u00eda",
+                "id": 57955465,
+                "id_str": "57955465",
+                "indices": [
+                    0,
+                    8
+                ]
+            },
+            {
+                "screen_name": "FISCALIA_IX",
+                "name": "Fiscal\u00eda Araucan\u00eda",
+                "id": 138422176,
+                "id_str": "138422176",
+                "indices": [
+                    9,
+                    21
+                ]
+            },
+            {
+                "screen_name": "PDI_Araucania",
+                "name": "PDI_Araucania",
+                "id": 707646963852963840,
+                "id_str": "707646963852963840",
+                "indices": [
+                    22,
+                    36
+                ]
+            }
+        ],
+        "urls": []
+    },
+    "metadata": {
+        "iso_language_code": "es",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_status_id": 1415344509966245888,
+    "in_reply_to_status_id_str": "1415344509966245888",
+    "in_reply_to_user_id": 57955465,
+    "in_reply_to_user_id_str": "57955465",
+    "in_reply_to_screen_name": "Pa__tty",
+    "user": {
+        "id": 1247318424172269571,
+        "id_str": "1247318424172269571",
+        "name": "Jose Cariman",
+        "screen_name": "jose_pehuenche",
+        "location": "Pehuenche ",
+        "description": "\u201cC\u00f3ndor Verde\u201d, Ciclista, obrero y buena persona. Quien no se esfuerza y trabaja no es nadie en la vida. El esfuerzo es el \u00fanico camino para salir adelante.",
+        "url": null,
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 93,
+        "friends_count": 330,
+        "listed_count": 0,
+        "created_at": "Tue Apr 07 00:21:14 +0000 2020",
+        "favourites_count": 540,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 2213,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": null,
+        "profile_background_image_url_https": null,
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1319984244458999808/sVC9KZD5_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1319984244458999808/sVC9KZD5_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1247318424172269571/1603543743",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "es"
+}

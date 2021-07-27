@@ -1,0 +1,293 @@
+{
+    "created_at": "Wed Jul 14 16:32:05 +0000 2021",
+    "id": 1415348385054347264,
+    "id_str": "1415348385054347264",
+    "full_text": "RT @DDMexico: #Mexico #Tamaulipas #CrimenOrganizado #Fuga\n\ud83d\udd34Un comando armado liber\u00f3 de una sede de la Fiscal\u00eda estatal, en #Reynosa, a \"El\u2026",
+    "truncated": false,
+    "display_text_range": [
+        0,
+        139
+    ],
+    "entities": {
+        "hashtags": [
+            {
+                "text": "Mexico",
+                "indices": [
+                    14,
+                    21
+                ]
+            },
+            {
+                "text": "Tamaulipas",
+                "indices": [
+                    22,
+                    33
+                ]
+            },
+            {
+                "text": "CrimenOrganizado",
+                "indices": [
+                    34,
+                    51
+                ]
+            },
+            {
+                "text": "Fuga",
+                "indices": [
+                    52,
+                    57
+                ]
+            },
+            {
+                "text": "Reynosa",
+                "indices": [
+                    123,
+                    131
+                ]
+            }
+        ],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "DDMexico",
+                "name": "Diario de M\u00e9xico",
+                "id": 98670246,
+                "id_str": "98670246",
+                "indices": [
+                    3,
+                    12
+                ]
+            }
+        ],
+        "urls": []
+    },
+    "metadata": {
+        "iso_language_code": "es",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 209831835,
+        "id_str": "209831835",
+        "name": "PLEASURE TO KILL",
+        "screen_name": "NocturneCult",
+        "location": "INFIERNO",
+        "description": "Asesino serial",
+        "url": null,
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 128,
+        "friends_count": 1288,
+        "listed_count": 6,
+        "created_at": "Sat Oct 30 00:44:30 +0000 2010",
+        "favourites_count": 24935,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 35425,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "131516",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+        "profile_background_tile": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/461709958782808064/fsICokZx_normal.jpeg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/461709958782808064/fsICokZx_normal.jpeg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/209831835/1401407092",
+        "profile_link_color": "000000",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "EFEFEF",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+        "created_at": "Wed Jul 14 15:44:26 +0000 2021",
+        "id": 1415336391735595011,
+        "id_str": "1415336391735595011",
+        "full_text": "#Mexico #Tamaulipas #CrimenOrganizado #Fuga\n\ud83d\udd34Un comando armado liber\u00f3 de una sede de la Fiscal\u00eda estatal, en #Reynosa, a \"El Calamardo\" presunto un l\u00edder del #C\u00e1rteldelGolfo \n#DiariodeMexico\nhttps://t.co/I9i9okKSmh",
+        "truncated": false,
+        "display_text_range": [
+            0,
+            214
+        ],
+        "entities": {
+            "hashtags": [
+                {
+                    "text": "Mexico",
+                    "indices": [
+                        0,
+                        7
+                    ]
+                },
+                {
+                    "text": "Tamaulipas",
+                    "indices": [
+                        8,
+                        19
+                    ]
+                },
+                {
+                    "text": "CrimenOrganizado",
+                    "indices": [
+                        20,
+                        37
+                    ]
+                },
+                {
+                    "text": "Fuga",
+                    "indices": [
+                        38,
+                        43
+                    ]
+                },
+                {
+                    "text": "Reynosa",
+                    "indices": [
+                        109,
+                        117
+                    ]
+                },
+                {
+                    "text": "C\u00e1rteldelGolfo",
+                    "indices": [
+                        158,
+                        173
+                    ]
+                },
+                {
+                    "text": "DiariodeMexico",
+                    "indices": [
+                        175,
+                        190
+                    ]
+                }
+            ],
+            "symbols": [],
+            "user_mentions": [],
+            "urls": [
+                {
+                    "url": "https://t.co/I9i9okKSmh",
+                    "expanded_url": "https://www.diariodemexico.com/mi-nacion/comando-armado-libera-un-capo-del-cartel-del-golfo-en-tamaulipas",
+                    "display_url": "diariodemexico.com/mi-nacion/coma\u2026",
+                    "indices": [
+                        191,
+                        214
+                    ]
+                }
+            ]
+        },
+        "metadata": {
+            "iso_language_code": "es",
+            "result_type": "recent"
+        },
+        "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 98670246,
+            "id_str": "98670246",
+            "name": "Diario de M\u00e9xico",
+            "screen_name": "DDMexico",
+            "location": "M\u00e9xico",
+            "description": "Cuenta oficial - Diario de M\u00e9xico redaccion@diariodemexico.com",
+            "url": "https://t.co/xN5mALlaCu",
+            "entities": {
+                "url": {
+                    "urls": [
+                        {
+                            "url": "https://t.co/xN5mALlaCu",
+                            "expanded_url": "http://www.diariodemexico.com",
+                            "display_url": "diariodemexico.com",
+                            "indices": [
+                                0,
+                                23
+                            ]
+                        }
+                    ]
+                },
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 16428,
+            "friends_count": 1589,
+            "listed_count": 339,
+            "created_at": "Tue Dec 22 16:35:35 +0000 2009",
+            "favourites_count": 5945,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": true,
+            "verified": false,
+            "statuses_count": 232827,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "022330",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1409899330404708359/O5RcFO84_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1409899330404708359/O5RcFO84_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/98670246/1610051197",
+            "profile_link_color": "1B95E0",
+            "profile_sidebar_border_color": "FFFFFF",
+            "profile_sidebar_fill_color": "C0DFEC",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "has_extended_profile": true,
+            "default_profile": false,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none",
+            "withheld_in_countries": []
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 4,
+        "favorite_count": 3,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "es"
+    },
+    "is_quote_status": false,
+    "retweet_count": 4,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "es"
+}

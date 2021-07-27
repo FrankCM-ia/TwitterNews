@@ -1,0 +1,388 @@
+{
+    "created_at": "Wed Jul 14 16:25:57 +0000 2021",
+    "id": 1415346840330031108,
+    "id_str": "1415346840330031108",
+    "full_text": "RT @c4jimenez: \u2026Y el MINISTERIO P\u00daBLICO INFLUYENTE S\u00cd LIBER\u00d3 a SU HIJO\nPersonal de la Fiscal\u00eda en @Alc_Iztapalapa dej\u00f3 EN LIBERTAD a Leonel\u2026",
+    "truncated": false,
+    "display_text_range": [
+        0,
+        140
+    ],
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "c4jimenez",
+                "name": "Carlos Jim\u00e9nez",
+                "id": 95338132,
+                "id_str": "95338132",
+                "indices": [
+                    3,
+                    13
+                ]
+            },
+            {
+                "screen_name": "Alc_Iztapalapa",
+                "name": "Alcald\u00eda Iztapalapa",
+                "id": 834009786,
+                "id_str": "834009786",
+                "indices": [
+                    98,
+                    113
+                ]
+            }
+        ],
+        "urls": []
+    },
+    "metadata": {
+        "iso_language_code": "es",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 550672151,
+        "id_str": "550672151",
+        "name": "olivia belmontes.",
+        "screen_name": "abejita2003",
+        "location": "",
+        "description": "",
+        "url": null,
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 137,
+        "friends_count": 327,
+        "listed_count": 1,
+        "created_at": "Wed Apr 11 03:46:51 +0000 2012",
+        "favourites_count": 25742,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 10642,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "FF6699",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme11/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme11/bg.gif",
+        "profile_background_tile": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1108937033873915906/CKMTNd2E_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1108937033873915906/CKMTNd2E_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/550672151/1363739966",
+        "profile_link_color": "B40B43",
+        "profile_sidebar_border_color": "CC3366",
+        "profile_sidebar_fill_color": "E5507E",
+        "profile_text_color": "362720",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+        "created_at": "Thu Jul 08 01:02:17 +0000 2021",
+        "id": 1412940065194512387,
+        "id_str": "1412940065194512387",
+        "full_text": "\u2026Y el MINISTERIO P\u00daBLICO INFLUYENTE S\u00cd LIBER\u00d3 a SU HIJO\nPersonal de la Fiscal\u00eda en @Alc_Iztapalapa dej\u00f3 EN LIBERTAD a Leonel S.\nEs hijo de Mart\u00edn SantaMar\u00eda, este Mp de @FiscaliaCDMX q amenaz\u00f3 a los agentes q lo detuvieron con una moto remarcada.\nAmag\u00f3 con liberarlo\u2026 y cumpli\u00f3! https://t.co/BvgycJGFGc",
+        "truncated": false,
+        "display_text_range": [
+            0,
+            278
+        ],
+        "entities": {
+            "hashtags": [],
+            "symbols": [],
+            "user_mentions": [
+                {
+                    "screen_name": "Alc_Iztapalapa",
+                    "name": "Alcald\u00eda Iztapalapa",
+                    "id": 834009786,
+                    "id_str": "834009786",
+                    "indices": [
+                        83,
+                        98
+                    ]
+                },
+                {
+                    "screen_name": "FiscaliaCDMX",
+                    "name": "Fiscal\u00eda CDMX",
+                    "id": 561471584,
+                    "id_str": "561471584",
+                    "indices": [
+                        169,
+                        182
+                    ]
+                }
+            ],
+            "urls": [],
+            "media": [
+                {
+                    "id": 1412940057795862529,
+                    "id_str": "1412940057795862529",
+                    "indices": [
+                        279,
+                        302
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/E5vFfxnXoAEnI_g.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/E5vFfxnXoAEnI_g.jpg",
+                    "url": "https://t.co/BvgycJGFGc",
+                    "display_url": "pic.twitter.com/BvgycJGFGc",
+                    "expanded_url": "https://twitter.com/c4jimenez/status/1412940065194512387/photo/1",
+                    "type": "photo",
+                    "sizes": {
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "medium": {
+                            "w": 685,
+                            "h": 1024,
+                            "resize": "fit"
+                        },
+                        "small": {
+                            "w": 455,
+                            "h": 680,
+                            "resize": "fit"
+                        },
+                        "large": {
+                            "w": 685,
+                            "h": 1024,
+                            "resize": "fit"
+                        }
+                    }
+                }
+            ]
+        },
+        "extended_entities": {
+            "media": [
+                {
+                    "id": 1412940057795862529,
+                    "id_str": "1412940057795862529",
+                    "indices": [
+                        279,
+                        302
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/E5vFfxnXoAEnI_g.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/E5vFfxnXoAEnI_g.jpg",
+                    "url": "https://t.co/BvgycJGFGc",
+                    "display_url": "pic.twitter.com/BvgycJGFGc",
+                    "expanded_url": "https://twitter.com/c4jimenez/status/1412940065194512387/photo/1",
+                    "type": "photo",
+                    "sizes": {
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "medium": {
+                            "w": 685,
+                            "h": 1024,
+                            "resize": "fit"
+                        },
+                        "small": {
+                            "w": 455,
+                            "h": 680,
+                            "resize": "fit"
+                        },
+                        "large": {
+                            "w": 685,
+                            "h": 1024,
+                            "resize": "fit"
+                        }
+                    }
+                },
+                {
+                    "id": 1412940057795780608,
+                    "id_str": "1412940057795780608",
+                    "indices": [
+                        279,
+                        302
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/E5vFfxnWYAAJKCu.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/E5vFfxnWYAAJKCu.jpg",
+                    "url": "https://t.co/BvgycJGFGc",
+                    "display_url": "pic.twitter.com/BvgycJGFGc",
+                    "expanded_url": "https://twitter.com/c4jimenez/status/1412940065194512387/photo/1",
+                    "type": "photo",
+                    "sizes": {
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "small": {
+                            "w": 451,
+                            "h": 680,
+                            "resize": "fit"
+                        },
+                        "large": {
+                            "w": 551,
+                            "h": 831,
+                            "resize": "fit"
+                        },
+                        "medium": {
+                            "w": 551,
+                            "h": 831,
+                            "resize": "fit"
+                        }
+                    }
+                },
+                {
+                    "id": 1412940057808355333,
+                    "id_str": "1412940057808355333",
+                    "indices": [
+                        279,
+                        302
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/E5vFfxqWQAUfBWh.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/E5vFfxqWQAUfBWh.jpg",
+                    "url": "https://t.co/BvgycJGFGc",
+                    "display_url": "pic.twitter.com/BvgycJGFGc",
+                    "expanded_url": "https://twitter.com/c4jimenez/status/1412940065194512387/photo/1",
+                    "type": "photo",
+                    "sizes": {
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "medium": {
+                            "w": 994,
+                            "h": 1200,
+                            "resize": "fit"
+                        },
+                        "small": {
+                            "w": 563,
+                            "h": 680,
+                            "resize": "fit"
+                        },
+                        "large": {
+                            "w": 1242,
+                            "h": 1500,
+                            "resize": "fit"
+                        }
+                    }
+                }
+            ]
+        },
+        "metadata": {
+            "iso_language_code": "es",
+            "result_type": "recent"
+        },
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 95338132,
+            "id_str": "95338132",
+            "name": "Carlos Jim\u00e9nez",
+            "screen_name": "c4jimenez",
+            "location": "M\u00e9xico",
+            "description": "Reportero, con una vida poca madre... @ImagenTVMex @ImagenZea C4Noticias ~ Todo aqu\u00ed, es mi responsabilidad\u2026 En IG: https://t.co/VMOTqxiA3T",
+            "url": "https://t.co/YUIkeHS1Uy",
+            "entities": {
+                "url": {
+                    "urls": [
+                        {
+                            "url": "https://t.co/YUIkeHS1Uy",
+                            "expanded_url": "http://www.c4noticias.com",
+                            "display_url": "c4noticias.com",
+                            "indices": [
+                                0,
+                                23
+                            ]
+                        }
+                    ]
+                },
+                "description": {
+                    "urls": [
+                        {
+                            "url": "https://t.co/VMOTqxiA3T",
+                            "expanded_url": "https://www.instagram.com/c4jimenez1/",
+                            "display_url": "instagram.com/c4jimenez1/",
+                            "indices": [
+                                116,
+                                139
+                            ]
+                        }
+                    ]
+                }
+            },
+            "protected": false,
+            "followers_count": 263845,
+            "friends_count": 43,
+            "listed_count": 771,
+            "created_at": "Tue Dec 08 03:02:27 +0000 2009",
+            "favourites_count": 356,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": true,
+            "verified": true,
+            "statuses_count": 15194,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "1A1B1F",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+            "profile_background_tile": true,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1403779976659451909/Un9a8mXy_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1403779976659451909/Un9a8mXy_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/95338132/1611637876",
+            "profile_link_color": "091417",
+            "profile_sidebar_border_color": "181A1E",
+            "profile_sidebar_fill_color": "252429",
+            "profile_text_color": "666666",
+            "profile_use_background_image": true,
+            "has_extended_profile": true,
+            "default_profile": false,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none",
+            "withheld_in_countries": []
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 735,
+        "favorite_count": 1060,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": true,
+        "lang": "es"
+    },
+    "is_quote_status": false,
+    "retweet_count": 735,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "es"
+}

@@ -1,0 +1,543 @@
+{
+    "created_at": "Wed Jul 14 18:03:56 +0000 2021",
+    "id": 1415371497808486410,
+    "id_str": "1415371497808486410",
+    "full_text": "RT @ppmadrid: CUBA ES UNA DICTADURA. \n\n@AlmeidaPP_ #SOSCuba https://t.co/kbooiNwm06",
+    "truncated": false,
+    "display_text_range": [
+        0,
+        83
+    ],
+    "entities": {
+        "hashtags": [
+            {
+                "text": "SOSCuba",
+                "indices": [
+                    51,
+                    59
+                ]
+            }
+        ],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "ppmadrid",
+                "name": "PP Comunidad de Madrid",
+                "id": 18979745,
+                "id_str": "18979745",
+                "indices": [
+                    3,
+                    12
+                ]
+            },
+            {
+                "screen_name": "AlmeidaPP_",
+                "name": "Jos\u00e9 Luis Mart\u00ednez-Almeida",
+                "id": 800536976,
+                "id_str": "800536976",
+                "indices": [
+                    39,
+                    50
+                ]
+            }
+        ],
+        "urls": [],
+        "media": [
+            {
+                "id": 1415360516311105536,
+                "id_str": "1415360516311105536",
+                "indices": [
+                    60,
+                    83
+                ],
+                "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1415360516311105536/pu/img/8lzgJ1DuW1brMPzw.jpg",
+                "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1415360516311105536/pu/img/8lzgJ1DuW1brMPzw.jpg",
+                "url": "https://t.co/kbooiNwm06",
+                "display_url": "pic.twitter.com/kbooiNwm06",
+                "expanded_url": "https://twitter.com/ppmadrid/status/1415360921128603650/video/1",
+                "type": "photo",
+                "sizes": {
+                    "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                    },
+                    "medium": {
+                        "w": 1200,
+                        "h": 675,
+                        "resize": "fit"
+                    },
+                    "small": {
+                        "w": 680,
+                        "h": 383,
+                        "resize": "fit"
+                    },
+                    "large": {
+                        "w": 1280,
+                        "h": 720,
+                        "resize": "fit"
+                    }
+                },
+                "source_status_id": 1415360921128603650,
+                "source_status_id_str": "1415360921128603650",
+                "source_user_id": 18979745,
+                "source_user_id_str": "18979745"
+            }
+        ]
+    },
+    "extended_entities": {
+        "media": [
+            {
+                "id": 1415360516311105536,
+                "id_str": "1415360516311105536",
+                "indices": [
+                    60,
+                    83
+                ],
+                "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1415360516311105536/pu/img/8lzgJ1DuW1brMPzw.jpg",
+                "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1415360516311105536/pu/img/8lzgJ1DuW1brMPzw.jpg",
+                "url": "https://t.co/kbooiNwm06",
+                "display_url": "pic.twitter.com/kbooiNwm06",
+                "expanded_url": "https://twitter.com/ppmadrid/status/1415360921128603650/video/1",
+                "type": "video",
+                "sizes": {
+                    "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                    },
+                    "medium": {
+                        "w": 1200,
+                        "h": 675,
+                        "resize": "fit"
+                    },
+                    "small": {
+                        "w": 680,
+                        "h": 383,
+                        "resize": "fit"
+                    },
+                    "large": {
+                        "w": 1280,
+                        "h": 720,
+                        "resize": "fit"
+                    }
+                },
+                "source_status_id": 1415360921128603650,
+                "source_status_id_str": "1415360921128603650",
+                "source_user_id": 18979745,
+                "source_user_id_str": "18979745",
+                "video_info": {
+                    "aspect_ratio": [
+                        16,
+                        9
+                    ],
+                    "duration_millis": 128795,
+                    "variants": [
+                        {
+                            "bitrate": 256000,
+                            "content_type": "video/mp4",
+                            "url": "https://video.twimg.com/ext_tw_video/1415360516311105536/pu/vid/480x270/cOTJid0Zz2Gt1P7a.mp4?tag=12"
+                        },
+                        {
+                            "content_type": "application/x-mpegURL",
+                            "url": "https://video.twimg.com/ext_tw_video/1415360516311105536/pu/pl/Zf_knn1_Ffs5V5ei.m3u8?tag=12&container=fmp4"
+                        },
+                        {
+                            "bitrate": 2176000,
+                            "content_type": "video/mp4",
+                            "url": "https://video.twimg.com/ext_tw_video/1415360516311105536/pu/vid/1280x720/-5tOW9kVPX80eBF1.mp4?tag=12"
+                        },
+                        {
+                            "bitrate": 832000,
+                            "content_type": "video/mp4",
+                            "url": "https://video.twimg.com/ext_tw_video/1415360516311105536/pu/vid/640x360/fZwdKwKbhnUw3w24.mp4?tag=12"
+                        }
+                    ]
+                },
+                "additional_media_info": {
+                    "monetizable": false,
+                    "source_user": {
+                        "id": 18979745,
+                        "id_str": "18979745",
+                        "name": "PP Comunidad de Madrid",
+                        "screen_name": "ppmadrid",
+                        "location": "Comunidad de Madrid, Espa\u00f1a",
+                        "description": "Defendiendo un modelo de bienestar para todos los madrile\u00f1os.\ud83e\udd17 \u27a1\ufe0fFirma contra los indultos\ud83d\udcf2 https://t.co/Q3h3DpDI57",
+                        "url": "https://t.co/saBE82MLn9",
+                        "entities": {
+                            "url": {
+                                "urls": [
+                                    {
+                                        "url": "https://t.co/saBE82MLn9",
+                                        "expanded_url": "http://www.ppmadrid.es",
+                                        "display_url": "ppmadrid.es",
+                                        "indices": [
+                                            0,
+                                            23
+                                        ]
+                                    }
+                                ]
+                            },
+                            "description": {
+                                "urls": [
+                                    {
+                                        "url": "https://t.co/Q3h3DpDI57",
+                                        "expanded_url": "http://bit.ly/IndultosNoJusticiaS\u00ed",
+                                        "display_url": "bit.ly/IndultosNoJust\u2026",
+                                        "indices": [
+                                            92,
+                                            115
+                                        ]
+                                    }
+                                ]
+                            }
+                        },
+                        "protected": false,
+                        "followers_count": 124441,
+                        "friends_count": 5824,
+                        "listed_count": 1047,
+                        "created_at": "Wed Jan 14 15:30:34 +0000 2009",
+                        "favourites_count": 10036,
+                        "utc_offset": null,
+                        "time_zone": null,
+                        "geo_enabled": true,
+                        "verified": true,
+                        "statuses_count": 98239,
+                        "lang": null,
+                        "contributors_enabled": false,
+                        "is_translator": false,
+                        "is_translation_enabled": false,
+                        "profile_background_color": "026EB4",
+                        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+                        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+                        "profile_background_tile": false,
+                        "profile_image_url": "http://pbs.twimg.com/profile_images/1383761130770681861/Vy8bLZit_normal.jpg",
+                        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1383761130770681861/Vy8bLZit_normal.jpg",
+                        "profile_banner_url": "https://pbs.twimg.com/profile_banners/18979745/1623666921",
+                        "profile_link_color": "0099FF",
+                        "profile_sidebar_border_color": "FFFFFF",
+                        "profile_sidebar_fill_color": "DDEEF6",
+                        "profile_text_color": "333333",
+                        "profile_use_background_image": false,
+                        "has_extended_profile": false,
+                        "default_profile": false,
+                        "default_profile_image": false,
+                        "following": false,
+                        "follow_request_sent": false,
+                        "notifications": false,
+                        "translator_type": "none",
+                        "withheld_in_countries": []
+                    }
+                }
+            }
+        ]
+    },
+    "metadata": {
+        "iso_language_code": "es",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 4918826463,
+        "id_str": "4918826463",
+        "name": "Petrus \ud83c\udf3c",
+        "screen_name": "Littlepetrus",
+        "location": "En un mundo desubicado",
+        "description": "El mundo al rev\u00e9s, por lo q no sigo el dictado de nadie.\nPensar todav\u00eda no es ilegal. La verdad te hace libre. Simple life. \nSiempre una sonrisa",
+        "url": null,
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 543,
+        "friends_count": 828,
+        "listed_count": 0,
+        "created_at": "Tue Feb 16 10:33:54 +0000 2016",
+        "favourites_count": 26474,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 42947,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": null,
+        "profile_background_image_url_https": null,
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1330443137689464832/hrD-eCoE_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1330443137689464832/hrD-eCoE_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/4918826463/1585853574",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+        "created_at": "Wed Jul 14 17:21:54 +0000 2021",
+        "id": 1415360921128603650,
+        "id_str": "1415360921128603650",
+        "full_text": "CUBA ES UNA DICTADURA. \n\n@AlmeidaPP_ #SOSCuba https://t.co/kbooiNwm06",
+        "truncated": false,
+        "display_text_range": [
+            0,
+            45
+        ],
+        "entities": {
+            "hashtags": [
+                {
+                    "text": "SOSCuba",
+                    "indices": [
+                        37,
+                        45
+                    ]
+                }
+            ],
+            "symbols": [],
+            "user_mentions": [
+                {
+                    "screen_name": "AlmeidaPP_",
+                    "name": "Jos\u00e9 Luis Mart\u00ednez-Almeida",
+                    "id": 800536976,
+                    "id_str": "800536976",
+                    "indices": [
+                        25,
+                        36
+                    ]
+                }
+            ],
+            "urls": [],
+            "media": [
+                {
+                    "id": 1415360516311105536,
+                    "id_str": "1415360516311105536",
+                    "indices": [
+                        46,
+                        69
+                    ],
+                    "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1415360516311105536/pu/img/8lzgJ1DuW1brMPzw.jpg",
+                    "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1415360516311105536/pu/img/8lzgJ1DuW1brMPzw.jpg",
+                    "url": "https://t.co/kbooiNwm06",
+                    "display_url": "pic.twitter.com/kbooiNwm06",
+                    "expanded_url": "https://twitter.com/ppmadrid/status/1415360921128603650/video/1",
+                    "type": "photo",
+                    "sizes": {
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "medium": {
+                            "w": 1200,
+                            "h": 675,
+                            "resize": "fit"
+                        },
+                        "small": {
+                            "w": 680,
+                            "h": 383,
+                            "resize": "fit"
+                        },
+                        "large": {
+                            "w": 1280,
+                            "h": 720,
+                            "resize": "fit"
+                        }
+                    }
+                }
+            ]
+        },
+        "extended_entities": {
+            "media": [
+                {
+                    "id": 1415360516311105536,
+                    "id_str": "1415360516311105536",
+                    "indices": [
+                        46,
+                        69
+                    ],
+                    "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1415360516311105536/pu/img/8lzgJ1DuW1brMPzw.jpg",
+                    "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1415360516311105536/pu/img/8lzgJ1DuW1brMPzw.jpg",
+                    "url": "https://t.co/kbooiNwm06",
+                    "display_url": "pic.twitter.com/kbooiNwm06",
+                    "expanded_url": "https://twitter.com/ppmadrid/status/1415360921128603650/video/1",
+                    "type": "video",
+                    "sizes": {
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "medium": {
+                            "w": 1200,
+                            "h": 675,
+                            "resize": "fit"
+                        },
+                        "small": {
+                            "w": 680,
+                            "h": 383,
+                            "resize": "fit"
+                        },
+                        "large": {
+                            "w": 1280,
+                            "h": 720,
+                            "resize": "fit"
+                        }
+                    },
+                    "video_info": {
+                        "aspect_ratio": [
+                            16,
+                            9
+                        ],
+                        "duration_millis": 128795,
+                        "variants": [
+                            {
+                                "bitrate": 256000,
+                                "content_type": "video/mp4",
+                                "url": "https://video.twimg.com/ext_tw_video/1415360516311105536/pu/vid/480x270/cOTJid0Zz2Gt1P7a.mp4?tag=12"
+                            },
+                            {
+                                "content_type": "application/x-mpegURL",
+                                "url": "https://video.twimg.com/ext_tw_video/1415360516311105536/pu/pl/Zf_knn1_Ffs5V5ei.m3u8?tag=12&container=fmp4"
+                            },
+                            {
+                                "bitrate": 2176000,
+                                "content_type": "video/mp4",
+                                "url": "https://video.twimg.com/ext_tw_video/1415360516311105536/pu/vid/1280x720/-5tOW9kVPX80eBF1.mp4?tag=12"
+                            },
+                            {
+                                "bitrate": 832000,
+                                "content_type": "video/mp4",
+                                "url": "https://video.twimg.com/ext_tw_video/1415360516311105536/pu/vid/640x360/fZwdKwKbhnUw3w24.mp4?tag=12"
+                            }
+                        ]
+                    },
+                    "additional_media_info": {
+                        "monetizable": false
+                    }
+                }
+            ]
+        },
+        "metadata": {
+            "iso_language_code": "es",
+            "result_type": "recent"
+        },
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 18979745,
+            "id_str": "18979745",
+            "name": "PP Comunidad de Madrid",
+            "screen_name": "ppmadrid",
+            "location": "Comunidad de Madrid, Espa\u00f1a",
+            "description": "Defendiendo un modelo de bienestar para todos los madrile\u00f1os.\ud83e\udd17 \u27a1\ufe0fFirma contra los indultos\ud83d\udcf2 https://t.co/Q3h3DpDI57",
+            "url": "https://t.co/saBE82MLn9",
+            "entities": {
+                "url": {
+                    "urls": [
+                        {
+                            "url": "https://t.co/saBE82MLn9",
+                            "expanded_url": "http://www.ppmadrid.es",
+                            "display_url": "ppmadrid.es",
+                            "indices": [
+                                0,
+                                23
+                            ]
+                        }
+                    ]
+                },
+                "description": {
+                    "urls": [
+                        {
+                            "url": "https://t.co/Q3h3DpDI57",
+                            "expanded_url": "http://bit.ly/IndultosNoJusticiaS\u00ed",
+                            "display_url": "bit.ly/IndultosNoJust\u2026",
+                            "indices": [
+                                92,
+                                115
+                            ]
+                        }
+                    ]
+                }
+            },
+            "protected": false,
+            "followers_count": 124441,
+            "friends_count": 5824,
+            "listed_count": 1047,
+            "created_at": "Wed Jan 14 15:30:34 +0000 2009",
+            "favourites_count": 10036,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": true,
+            "verified": true,
+            "statuses_count": 98239,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "026EB4",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1383761130770681861/Vy8bLZit_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1383761130770681861/Vy8bLZit_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/18979745/1623666921",
+            "profile_link_color": "0099FF",
+            "profile_sidebar_border_color": "FFFFFF",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": false,
+            "has_extended_profile": false,
+            "default_profile": false,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none",
+            "withheld_in_countries": []
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 28,
+        "favorite_count": 62,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "es"
+    },
+    "is_quote_status": false,
+    "retweet_count": 28,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "es"
+}

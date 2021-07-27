@@ -1,0 +1,110 @@
+{
+    "created_at": "Wed Jul 14 16:20:33 +0000 2021",
+    "id": 1415345480922456067,
+    "id_str": "1415345480922456067",
+    "full_text": "@Betocoralg Mucho hpta, tomarle fotos a Beto Coral con los hijos, en forma de amenaza. Ese tipo es pura escoria. \u00bfY la fiscal\u00eda? -\u00a1Yo bien, gracias!",
+    "truncated": false,
+    "display_text_range": [
+        12,
+        148
+    ],
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "Betocoralg",
+                "name": "Beto Coral",
+                "id": 206402786,
+                "id_str": "206402786",
+                "indices": [
+                    0,
+                    11
+                ]
+            }
+        ],
+        "urls": []
+    },
+    "metadata": {
+        "iso_language_code": "es",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "in_reply_to_status_id": 1415095182052179973,
+    "in_reply_to_status_id_str": "1415095182052179973",
+    "in_reply_to_user_id": 206402786,
+    "in_reply_to_user_id_str": "206402786",
+    "in_reply_to_screen_name": "Betocoralg",
+    "user": {
+        "id": 1083823291708657665,
+        "id_str": "1083823291708657665",
+        "name": "Noct\u00e1mbulo",
+        "screen_name": "noctmbulo5",
+        "location": "En el infierno (Colombia)",
+        "description": "Un tipo que escribe cosas",
+        "url": "https://t.co/K8D2Ff7Sr8",
+        "entities": {
+            "url": {
+                "urls": [
+                    {
+                        "url": "https://t.co/K8D2Ff7Sr8",
+                        "expanded_url": "https://www.instagram.com/noctambulo14/?hl=es-la",
+                        "display_url": "instagram.com/noctambulo14/?\u2026",
+                        "indices": [
+                            0,
+                            23
+                        ]
+                    }
+                ]
+            },
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 50,
+        "friends_count": 195,
+        "listed_count": 0,
+        "created_at": "Fri Jan 11 20:29:43 +0000 2019",
+        "favourites_count": 4061,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 3552,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": null,
+        "profile_background_image_url_https": null,
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1413293012520669187/j3vJQ4pJ_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1413293012520669187/j3vJQ4pJ_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1083823291708657665/1624988942",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": true,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "es"
+}

@@ -1,0 +1,368 @@
+{
+    "created_at": "Wed Jul 14 18:03:33 +0000 2021",
+    "id": 1415371403419860995,
+    "id_str": "1415371403419860995",
+    "full_text": "RT @eldipypapaok: Hola estela de carlotto, hebe de bonafini y @vikidonda!\nAlgo para decir de la dictadura y represion del pueblo Cubano?\nAh\u2026",
+    "truncated": false,
+    "display_text_range": [
+        0,
+        140
+    ],
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "eldipypapaok",
+                "name": "Eldipypapaok",
+                "id": 1299789445277851648,
+                "id_str": "1299789445277851648",
+                "indices": [
+                    3,
+                    16
+                ]
+            },
+            {
+                "screen_name": "vikidonda",
+                "name": "\ud83d\udc9a Victoria Donda Perez",
+                "id": 179675345,
+                "id_str": "179675345",
+                "indices": [
+                    62,
+                    72
+                ]
+            }
+        ],
+        "urls": []
+    },
+    "metadata": {
+        "iso_language_code": "es",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 142797578,
+        "id_str": "142797578",
+        "name": "Titi",
+        "screen_name": "chicadanyrami",
+        "location": "argentina",
+        "description": "faceboo",
+        "url": null,
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 1847,
+        "friends_count": 2455,
+        "listed_count": 2,
+        "created_at": "Tue May 11 20:01:30 +0000 2010",
+        "favourites_count": 17924,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 84503,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "642D8B",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme10/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme10/bg.gif",
+        "profile_background_tile": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1392999078653464581/427UJcar_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1392999078653464581/427UJcar_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/142797578/1421437013",
+        "profile_link_color": "FF0000",
+        "profile_sidebar_border_color": "65B0DA",
+        "profile_sidebar_fill_color": "7AC3EE",
+        "profile_text_color": "3D1957",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+        "created_at": "Wed Jul 14 14:32:16 +0000 2021",
+        "id": 1415318231045246980,
+        "id_str": "1415318231045246980",
+        "full_text": "Hola estela de carlotto, hebe de bonafini y @vikidonda!\nAlgo para decir de la dictadura y represion del pueblo Cubano?\nAhhh No?\nMe imagine por las fotos.\nSaludos. https://t.co/rth4vhU80A",
+        "truncated": false,
+        "display_text_range": [
+            0,
+            162
+        ],
+        "entities": {
+            "hashtags": [],
+            "symbols": [],
+            "user_mentions": [
+                {
+                    "screen_name": "vikidonda",
+                    "name": "\ud83d\udc9a Victoria Donda Perez",
+                    "id": 179675345,
+                    "id_str": "179675345",
+                    "indices": [
+                        44,
+                        54
+                    ]
+                }
+            ],
+            "urls": [],
+            "media": [
+                {
+                    "id": 1415318220857303047,
+                    "id_str": "1415318220857303047",
+                    "indices": [
+                        163,
+                        186
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/E6Q4bFZWYAc3gBX.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/E6Q4bFZWYAc3gBX.jpg",
+                    "url": "https://t.co/rth4vhU80A",
+                    "display_url": "pic.twitter.com/rth4vhU80A",
+                    "expanded_url": "https://twitter.com/eldipypapaok/status/1415318231045246980/photo/1",
+                    "type": "photo",
+                    "sizes": {
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "large": {
+                            "w": 278,
+                            "h": 182,
+                            "resize": "fit"
+                        },
+                        "medium": {
+                            "w": 278,
+                            "h": 182,
+                            "resize": "fit"
+                        },
+                        "small": {
+                            "w": 278,
+                            "h": 182,
+                            "resize": "fit"
+                        }
+                    }
+                }
+            ]
+        },
+        "extended_entities": {
+            "media": [
+                {
+                    "id": 1415318220857303047,
+                    "id_str": "1415318220857303047",
+                    "indices": [
+                        163,
+                        186
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/E6Q4bFZWYAc3gBX.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/E6Q4bFZWYAc3gBX.jpg",
+                    "url": "https://t.co/rth4vhU80A",
+                    "display_url": "pic.twitter.com/rth4vhU80A",
+                    "expanded_url": "https://twitter.com/eldipypapaok/status/1415318231045246980/photo/1",
+                    "type": "photo",
+                    "sizes": {
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "large": {
+                            "w": 278,
+                            "h": 182,
+                            "resize": "fit"
+                        },
+                        "medium": {
+                            "w": 278,
+                            "h": 182,
+                            "resize": "fit"
+                        },
+                        "small": {
+                            "w": 278,
+                            "h": 182,
+                            "resize": "fit"
+                        }
+                    }
+                },
+                {
+                    "id": 1415318225328431105,
+                    "id_str": "1415318225328431105",
+                    "indices": [
+                        163,
+                        186
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/E6Q4bWDWYAEqQzs.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/E6Q4bWDWYAEqQzs.jpg",
+                    "url": "https://t.co/rth4vhU80A",
+                    "display_url": "pic.twitter.com/rth4vhU80A",
+                    "expanded_url": "https://twitter.com/eldipypapaok/status/1415318231045246980/photo/1",
+                    "type": "photo",
+                    "sizes": {
+                        "large": {
+                            "w": 1200,
+                            "h": 958,
+                            "resize": "fit"
+                        },
+                        "medium": {
+                            "w": 1200,
+                            "h": 958,
+                            "resize": "fit"
+                        },
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "small": {
+                            "w": 680,
+                            "h": 543,
+                            "resize": "fit"
+                        }
+                    }
+                },
+                {
+                    "id": 1415318228524539905,
+                    "id_str": "1415318228524539905",
+                    "indices": [
+                        163,
+                        186
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/E6Q4bh9XIAE5EIc.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/E6Q4bh9XIAE5EIc.jpg",
+                    "url": "https://t.co/rth4vhU80A",
+                    "display_url": "pic.twitter.com/rth4vhU80A",
+                    "expanded_url": "https://twitter.com/eldipypapaok/status/1415318231045246980/photo/1",
+                    "type": "photo",
+                    "sizes": {
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "small": {
+                            "w": 652,
+                            "h": 366,
+                            "resize": "fit"
+                        },
+                        "large": {
+                            "w": 652,
+                            "h": 366,
+                            "resize": "fit"
+                        },
+                        "medium": {
+                            "w": 652,
+                            "h": 366,
+                            "resize": "fit"
+                        }
+                    }
+                }
+            ]
+        },
+        "metadata": {
+            "iso_language_code": "es",
+            "result_type": "recent"
+        },
+        "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 1299789445277851648,
+            "id_str": "1299789445277851648",
+            "name": "Eldipypapaok",
+            "screen_name": "eldipypapaok",
+            "location": "",
+            "description": "cantante (PONELE)  CONTRATACIONES : Javier cajal 1135186759 \n\n\n\n\nsubsistiendo en peronistan",
+            "url": "https://t.co/DSvZOjcvpR",
+            "entities": {
+                "url": {
+                    "urls": [
+                        {
+                            "url": "https://t.co/DSvZOjcvpR",
+                            "expanded_url": "http://www.instagram.com/eldipypapaok",
+                            "display_url": "instagram.com/eldipypapaok",
+                            "indices": [
+                                0,
+                                23
+                            ]
+                        }
+                    ]
+                },
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 78571,
+            "friends_count": 378,
+            "listed_count": 53,
+            "created_at": "Sat Aug 29 19:22:21 +0000 2020",
+            "favourites_count": 12741,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": false,
+            "verified": false,
+            "statuses_count": 9869,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "F5F8FA",
+            "profile_background_image_url": null,
+            "profile_background_image_url_https": null,
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1413825982855893003/fufU9yGz_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1413825982855893003/fufU9yGz_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/1299789445277851648/1626130979",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "has_extended_profile": true,
+            "default_profile": true,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none",
+            "withheld_in_countries": []
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 871,
+        "favorite_count": 2244,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "es"
+    },
+    "is_quote_status": false,
+    "retweet_count": 871,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "es"
+}

@@ -1,0 +1,167 @@
+{
+    "created_at": "Wed Jul 14 16:28:34 +0000 2021",
+    "id": 1415347499137736711,
+    "id_str": "1415347499137736711",
+    "full_text": "@lauvelasco801 @soscaballostafe @aluisaorg @centinelaformos @lacornetafm @Eduardo38095841 @Eduardo97844914 @AliciaM41324527 Laura podes pasar el telefono de la Comisaria y/o Fiscalia.\nO si queres por DM.\nGracias !!!",
+    "truncated": false,
+    "display_text_range": [
+        124,
+        215
+    ],
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "lauvelasco801",
+                "name": "Laura Velasco",
+                "id": 706222770733129728,
+                "id_str": "706222770733129728",
+                "indices": [
+                    0,
+                    14
+                ]
+            },
+            {
+                "screen_name": "soscaballostafe",
+                "name": "S.O.S CABALLOS",
+                "id": 821195119252697089,
+                "id_str": "821195119252697089",
+                "indices": [
+                    15,
+                    31
+                ]
+            },
+            {
+                "screen_name": "aluisaorg",
+                "name": "ALUISA-Asociacion Civil",
+                "id": 788183673564762112,
+                "id_str": "788183673564762112",
+                "indices": [
+                    32,
+                    42
+                ]
+            },
+            {
+                "screen_name": "centinelaformos",
+                "name": "centinelaformosa",
+                "id": 815903348,
+                "id_str": "815903348",
+                "indices": [
+                    43,
+                    59
+                ]
+            },
+            {
+                "screen_name": "lacornetafm",
+                "name": "La Corneta",
+                "id": 222212348,
+                "id_str": "222212348",
+                "indices": [
+                    60,
+                    72
+                ]
+            },
+            {
+                "screen_name": "Eduardo38095841",
+                "name": "Eduardo",
+                "id": 1177052603097800706,
+                "id_str": "1177052603097800706",
+                "indices": [
+                    73,
+                    89
+                ]
+            },
+            {
+                "screen_name": "Eduardo97844914",
+                "name": "Eduardo",
+                "id": 1346253970365407233,
+                "id_str": "1346253970365407233",
+                "indices": [
+                    90,
+                    106
+                ]
+            },
+            {
+                "screen_name": "AliciaM41324527",
+                "name": "Alicia Mercedes",
+                "id": 1221945700725993477,
+                "id_str": "1221945700725993477",
+                "indices": [
+                    107,
+                    123
+                ]
+            }
+        ],
+        "urls": []
+    },
+    "metadata": {
+        "iso_language_code": "es",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "in_reply_to_status_id": 1415131816789520386,
+    "in_reply_to_status_id_str": "1415131816789520386",
+    "in_reply_to_user_id": 706222770733129728,
+    "in_reply_to_user_id_str": "706222770733129728",
+    "in_reply_to_screen_name": "lauvelasco801",
+    "user": {
+        "id": 1849864501,
+        "id_str": "1849864501",
+        "name": "lau",
+        "screen_name": "laurasa321368",
+        "location": "CABA - ARGENTINA",
+        "description": "AMO MI PAIS ARGENTINA, EL QUE LASTIMA A UN ANIMAL ME LASTIMA A MI YA QUE LOS AMO CON TODO MI CORAZON.\nSOY DE CABA",
+        "url": null,
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 9736,
+        "friends_count": 9599,
+        "listed_count": 72,
+        "created_at": "Tue Sep 10 00:15:58 +0000 2013",
+        "favourites_count": 288643,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 352314,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1405568883231281158/TbkBCKcp_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1405568883231281158/TbkBCKcp_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1849864501/1618257211",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "profile_use_background_image": false,
+        "has_extended_profile": false,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "regular",
+        "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "es"
+}

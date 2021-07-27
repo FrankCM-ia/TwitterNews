@@ -1,0 +1,313 @@
+{
+    "created_at": "Wed Jul 14 16:38:24 +0000 2021",
+    "id": 1415349976188719106,
+    "id_str": "1415349976188719106",
+    "full_text": "RT @florydiazinfo: Hace unos instantes atropellan a dos personas en el filtro de sanitizaci\u00f3n  en  la Villa de Mitla  @Oaxaca_9_1_1 @Agenci\u2026",
+    "truncated": false,
+    "display_text_range": [
+        0,
+        140
+    ],
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "florydiazinfo",
+                "name": "@florydiaz",
+                "id": 1068479313765441536,
+                "id_str": "1068479313765441536",
+                "indices": [
+                    3,
+                    17
+                ]
+            },
+            {
+                "screen_name": "Oaxaca_9_1_1",
+                "name": "9-1-1 Oaxaca",
+                "id": 818856523371659268,
+                "id_str": "818856523371659268",
+                "indices": [
+                    118,
+                    131
+                ]
+            }
+        ],
+        "urls": []
+    },
+    "metadata": {
+        "iso_language_code": "es",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 51939064,
+        "id_str": "51939064",
+        "name": "Calvin Jon\u00e1s \ud83c\uddf2\ud83c\uddfd",
+        "screen_name": "rigo_nzalez",
+        "location": "Mexico",
+        "description": "CHILANGO, inform\u00e1tico, M\u00daSICA, BATERISTA, F\u00daTBOL, CONCIERTOS, cine, AUTOS, pets lover, RUNNER, RADIOHEAD, MUSE, DIVIDIDOS, SODA STEREO, BLUR, CERATI vive",
+        "url": null,
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 122,
+        "friends_count": 312,
+        "listed_count": 1,
+        "created_at": "Mon Jun 29 03:14:14 +0000 2009",
+        "favourites_count": 1530,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 9415,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "022330",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme20/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme20/bg.png",
+        "profile_background_tile": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1158848564254171136/08rp7zlB_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1158848564254171136/08rp7zlB_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/51939064/1434942424",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_border_color": "A8C7F7",
+        "profile_sidebar_fill_color": "C0DFEC",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": true,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+        "created_at": "Tue Jul 13 23:10:13 +0000 2021",
+        "id": 1415086190764699653,
+        "id_str": "1415086190764699653",
+        "full_text": "Hace unos instantes atropellan a dos personas en el filtro de sanitizaci\u00f3n  en  la Villa de Mitla  @Oaxaca_9_1_1 @AgenciaSpiaboc @FISCALIA_GobOax @AEI_Oaxaca https://t.co/frlEwzDEp3",
+        "truncated": false,
+        "display_text_range": [
+            0,
+            157
+        ],
+        "entities": {
+            "hashtags": [],
+            "symbols": [],
+            "user_mentions": [
+                {
+                    "screen_name": "Oaxaca_9_1_1",
+                    "name": "9-1-1 Oaxaca",
+                    "id": 818856523371659268,
+                    "id_str": "818856523371659268",
+                    "indices": [
+                        99,
+                        112
+                    ]
+                },
+                {
+                    "screen_name": "AgenciaSpiaboc",
+                    "name": "SPIABOC Agencia Informativa",
+                    "id": 241374999,
+                    "id_str": "241374999",
+                    "indices": [
+                        113,
+                        128
+                    ]
+                },
+                {
+                    "screen_name": "FISCALIA_GobOax",
+                    "name": "Fiscal\u00eda General",
+                    "id": 296352875,
+                    "id_str": "296352875",
+                    "indices": [
+                        129,
+                        145
+                    ]
+                },
+                {
+                    "screen_name": "AEI_Oaxaca",
+                    "name": "AEI_Oaxaca",
+                    "id": 1551817747,
+                    "id_str": "1551817747",
+                    "indices": [
+                        146,
+                        157
+                    ]
+                }
+            ],
+            "urls": [],
+            "media": [
+                {
+                    "id": 1415086179133833221,
+                    "id_str": "1415086179133833221",
+                    "indices": [
+                        158,
+                        181
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/E6NlYenWQAUVPbJ.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/E6NlYenWQAUVPbJ.jpg",
+                    "url": "https://t.co/frlEwzDEp3",
+                    "display_url": "pic.twitter.com/frlEwzDEp3",
+                    "expanded_url": "https://twitter.com/florydiazinfo/status/1415086190764699653/photo/1",
+                    "type": "photo",
+                    "sizes": {
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "small": {
+                            "w": 510,
+                            "h": 680,
+                            "resize": "fit"
+                        },
+                        "large": {
+                            "w": 1200,
+                            "h": 1600,
+                            "resize": "fit"
+                        },
+                        "medium": {
+                            "w": 900,
+                            "h": 1200,
+                            "resize": "fit"
+                        }
+                    }
+                }
+            ]
+        },
+        "extended_entities": {
+            "media": [
+                {
+                    "id": 1415086179133833221,
+                    "id_str": "1415086179133833221",
+                    "indices": [
+                        158,
+                        181
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/E6NlYenWQAUVPbJ.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/E6NlYenWQAUVPbJ.jpg",
+                    "url": "https://t.co/frlEwzDEp3",
+                    "display_url": "pic.twitter.com/frlEwzDEp3",
+                    "expanded_url": "https://twitter.com/florydiazinfo/status/1415086190764699653/photo/1",
+                    "type": "photo",
+                    "sizes": {
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "small": {
+                            "w": 510,
+                            "h": 680,
+                            "resize": "fit"
+                        },
+                        "large": {
+                            "w": 1200,
+                            "h": 1600,
+                            "resize": "fit"
+                        },
+                        "medium": {
+                            "w": 900,
+                            "h": 1200,
+                            "resize": "fit"
+                        }
+                    }
+                }
+            ]
+        },
+        "metadata": {
+            "iso_language_code": "es",
+            "result_type": "recent"
+        },
+        "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 1068479313765441536,
+            "id_str": "1068479313765441536",
+            "name": "@florydiaz",
+            "screen_name": "florydiazinfo",
+            "location": "",
+            "description": "Noticias. Denuncia ciudadana. C\u00e1maras. espect\u00e1culos la noticia hoy",
+            "url": null,
+            "entities": {
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 902,
+            "friends_count": 101,
+            "listed_count": 7,
+            "created_at": "Fri Nov 30 12:18:14 +0000 2018",
+            "favourites_count": 769,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": true,
+            "verified": false,
+            "statuses_count": 5255,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "F5F8FA",
+            "profile_background_image_url": null,
+            "profile_background_image_url_https": null,
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1336686039491080192/cMgxHV1z_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1336686039491080192/cMgxHV1z_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/1068479313765441536/1589503305",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "has_extended_profile": false,
+            "default_profile": true,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none",
+            "withheld_in_countries": []
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 3,
+        "favorite_count": 3,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "es"
+    },
+    "is_quote_status": false,
+    "retweet_count": 3,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "es"
+}

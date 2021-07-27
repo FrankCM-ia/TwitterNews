@@ -1,0 +1,191 @@
+{
+    "created_at": "Wed Jul 14 18:03:42 +0000 2021",
+    "id": 1415371438941523971,
+    "id_str": "1415371438941523971",
+    "full_text": "RT @2018uy: Millones de cubanos han nacido, crecido y fallecido padeciendo una dictadura que ya lleva 62 a\u00f1os.\nNunca llegaron a conocer lo\u2026",
+    "truncated": false,
+    "display_text_range": [
+        0,
+        139
+    ],
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "2018uy",
+                "name": "Andres",
+                "id": 977205331125260288,
+                "id_str": "977205331125260288",
+                "indices": [
+                    3,
+                    10
+                ]
+            }
+        ],
+        "urls": []
+    },
+    "metadata": {
+        "iso_language_code": "es",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 790244347560296448,
+        "id_str": "790244347560296448",
+        "name": "Daniel Merello",
+        "screen_name": "merellodaniel",
+        "location": "Paysand\u00fa, Uruguay",
+        "description": "especular no es bueno. ni en la vida ni en el f\u00fatbol. tarde o temprano perder\u00e1s.",
+        "url": null,
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 518,
+        "friends_count": 517,
+        "listed_count": 2,
+        "created_at": "Sun Oct 23 17:31:49 +0000 2016",
+        "favourites_count": 37045,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 40476,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": null,
+        "profile_background_image_url_https": null,
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1378653544295858177/JvRr3ti8_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1378653544295858177/JvRr3ti8_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/790244347560296448/1579611348",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": true,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+        "created_at": "Wed Jul 14 17:30:15 +0000 2021",
+        "id": 1415363024517574662,
+        "id_str": "1415363024517574662",
+        "full_text": "Millones de cubanos han nacido, crecido y fallecido padeciendo una dictadura que ya lleva 62 a\u00f1os.\nNunca llegaron a conocer lo que es vivir en un pa\u00eds donde el pueblo libremente elige sus gobernantes.\n#SOSCubaLibre",
+        "truncated": false,
+        "display_text_range": [
+            0,
+            214
+        ],
+        "entities": {
+            "hashtags": [
+                {
+                    "text": "SOSCubaLibre",
+                    "indices": [
+                        201,
+                        214
+                    ]
+                }
+            ],
+            "symbols": [],
+            "user_mentions": [],
+            "urls": []
+        },
+        "metadata": {
+            "iso_language_code": "es",
+            "result_type": "recent"
+        },
+        "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 977205331125260288,
+            "id_str": "977205331125260288",
+            "name": "Andres",
+            "screen_name": "2018uy",
+            "location": "Montevideo, Uruguay",
+            "description": "Un ciudadano que sue\u00f1a con poder volver a caminar por las calles sin miedo a la inseguridad. Y espera que nuestros gobernantes sean honestos.",
+            "url": null,
+            "entities": {
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 4794,
+            "friends_count": 4334,
+            "listed_count": 4,
+            "created_at": "Fri Mar 23 15:28:01 +0000 2018",
+            "favourites_count": 12773,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": false,
+            "verified": false,
+            "statuses_count": 601,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "F5F8FA",
+            "profile_background_image_url": null,
+            "profile_background_image_url_https": null,
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1001193607917899781/i90CWU8y_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1001193607917899781/i90CWU8y_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/977205331125260288/1527536230",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "has_extended_profile": true,
+            "default_profile": true,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none",
+            "withheld_in_countries": []
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 6,
+        "favorite_count": 9,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "es"
+    },
+    "is_quote_status": false,
+    "retweet_count": 6,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "es"
+}

@@ -1,0 +1,183 @@
+{
+    "created_at": "Wed Jul 14 18:03:31 +0000 2021",
+    "id": 1415371394632781829,
+    "id_str": "1415371394632781829",
+    "full_text": "RT @econofia: Noooo como que Cuba es una dictadura y se mueren de hambre si yo fui a un hotel 5 estrellas con vista al mar y funcionaba re\u2026",
+    "truncated": false,
+    "display_text_range": [
+        0,
+        139
+    ],
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "econofia",
+                "name": "sofia",
+                "id": 358815581,
+                "id_str": "358815581",
+                "indices": [
+                    3,
+                    12
+                ]
+            }
+        ],
+        "urls": []
+    },
+    "metadata": {
+        "iso_language_code": "es",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 307562981,
+        "id_str": "307562981",
+        "name": "G E R A .G",
+        "screen_name": "tattogera",
+        "location": "Ciudad Aut\u00f3noma de Buenos Aire",
+        "description": "Cordob\u00e9s, hincha y socio de Talleres /CAT\\\ud83c\uddec\ud83c\uddf7 \u2022Econ\u00f3micas UBA\u2022\n\ud83d\udcaa\ud83c\udde6\ud83c\uddf7\ud83d\udc08\ud83e\udd86\ud83c\udf31\ud83d\udc9b                                                  Va. Urquiza - (opulenta)CABA",
+        "url": null,
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 214,
+        "friends_count": 948,
+        "listed_count": 5,
+        "created_at": "Sun May 29 21:33:12 +0000 2011",
+        "favourites_count": 32497,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 15008,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1288992485566447616/MFPmXiz9_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1288992485566447616/MFPmXiz9_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/307562981/1533144974",
+        "profile_link_color": "4A913C",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+        "created_at": "Wed Jul 14 01:35:29 +0000 2021",
+        "id": 1415122749190705162,
+        "id_str": "1415122749190705162",
+        "full_text": "Noooo como que Cuba es una dictadura y se mueren de hambre si yo fui a un hotel 5 estrellas con vista al mar y funcionaba re bien el comunismo ah\u00ed",
+        "truncated": false,
+        "display_text_range": [
+            0,
+            146
+        ],
+        "entities": {
+            "hashtags": [],
+            "symbols": [],
+            "user_mentions": [],
+            "urls": []
+        },
+        "metadata": {
+            "iso_language_code": "es",
+            "result_type": "recent"
+        },
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 358815581,
+            "id_str": "358815581",
+            "name": "sofia",
+            "screen_name": "econofia",
+            "location": "",
+            "description": "Catadora de cervezas y hamburguesas. Estudiante de econom\u00eda - UBA\ud83d\udcca\u2764\ufe0f",
+            "url": null,
+            "entities": {
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 9300,
+            "friends_count": 760,
+            "listed_count": 8,
+            "created_at": "Sat Aug 20 15:08:48 +0000 2011",
+            "favourites_count": 152855,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": true,
+            "verified": false,
+            "statuses_count": 28970,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": true,
+            "profile_background_color": "C0DEED",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1412883972464562192/TDJcGNY__normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1412883972464562192/TDJcGNY__normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/358815581/1625971232",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "has_extended_profile": true,
+            "default_profile": true,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none",
+            "withheld_in_countries": []
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 861,
+        "favorite_count": 8021,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "es"
+    },
+    "is_quote_status": false,
+    "retweet_count": 861,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "es"
+}

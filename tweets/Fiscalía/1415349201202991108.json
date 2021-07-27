@@ -1,0 +1,262 @@
+{
+    "created_at": "Wed Jul 14 16:35:20 +0000 2021",
+    "id": 1415349201202991108,
+    "id_str": "1415349201202991108",
+    "full_text": "RT @miguelyopal: Andr\u00e9s Escobar va a hacer y deshacer. De forma descarada y apoyado indirectamente por la inoperancia de las instituciones\u2026",
+    "truncated": false,
+    "display_text_range": [
+        0,
+        139
+    ],
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "miguelyopal",
+                "name": "Ingeniero Miguel, para ud...",
+                "id": 85811623,
+                "id_str": "85811623",
+                "indices": [
+                    3,
+                    15
+                ]
+            }
+        ],
+        "urls": []
+    },
+    "metadata": {
+        "iso_language_code": "es",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 1658094758,
+        "id_str": "1658094758",
+        "name": "gonzalo",
+        "screen_name": "36gonzo",
+        "location": "Bucaramanga, colombia",
+        "description": "ARRIESGATE POR TODO AQUELLO QUE TE PUEDE HACER FELIZ POR QUE TAN S\u00d3LO SE VIVE UNA VEZ   zona(+18)",
+        "url": null,
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 2229,
+        "friends_count": 1918,
+        "listed_count": 29,
+        "created_at": "Fri Aug 09 16:14:36 +0000 2013",
+        "favourites_count": 76326,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 120737,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1357407709151318020/e5AeXdby_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1357407709151318020/e5AeXdby_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1658094758/1608947520",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": true,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+        "created_at": "Wed Jul 14 12:51:33 +0000 2021",
+        "id": 1415292887563177986,
+        "id_str": "1415292887563177986",
+        "full_text": "Andr\u00e9s Escobar va a hacer y deshacer. De forma descarada y apoyado indirectamente por la inoperancia de las instituciones del estado como Fiscal\u00eda, va a seguir amenazando e intimidando a quienes no est\u00e9n de acuerdo con sus \"metodos de gente de bien\". https://t.co/sFuLMB6iHm",
+        "truncated": false,
+        "display_text_range": [
+            0,
+            250
+        ],
+        "entities": {
+            "hashtags": [],
+            "symbols": [],
+            "user_mentions": [],
+            "urls": [],
+            "media": [
+                {
+                    "id": 1415292851030794242,
+                    "id_str": "1415292851030794242",
+                    "indices": [
+                        251,
+                        274
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/E6QhWXbXIAI7guS.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/E6QhWXbXIAI7guS.jpg",
+                    "url": "https://t.co/sFuLMB6iHm",
+                    "display_url": "pic.twitter.com/sFuLMB6iHm",
+                    "expanded_url": "https://twitter.com/miguelyopal/status/1415292887563177986/photo/1",
+                    "type": "photo",
+                    "sizes": {
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "small": {
+                            "w": 680,
+                            "h": 416,
+                            "resize": "fit"
+                        },
+                        "large": {
+                            "w": 980,
+                            "h": 600,
+                            "resize": "fit"
+                        },
+                        "medium": {
+                            "w": 980,
+                            "h": 600,
+                            "resize": "fit"
+                        }
+                    }
+                }
+            ]
+        },
+        "extended_entities": {
+            "media": [
+                {
+                    "id": 1415292851030794242,
+                    "id_str": "1415292851030794242",
+                    "indices": [
+                        251,
+                        274
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/E6QhWXbXIAI7guS.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/E6QhWXbXIAI7guS.jpg",
+                    "url": "https://t.co/sFuLMB6iHm",
+                    "display_url": "pic.twitter.com/sFuLMB6iHm",
+                    "expanded_url": "https://twitter.com/miguelyopal/status/1415292887563177986/photo/1",
+                    "type": "photo",
+                    "sizes": {
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "small": {
+                            "w": 680,
+                            "h": 416,
+                            "resize": "fit"
+                        },
+                        "large": {
+                            "w": 980,
+                            "h": 600,
+                            "resize": "fit"
+                        },
+                        "medium": {
+                            "w": 980,
+                            "h": 600,
+                            "resize": "fit"
+                        }
+                    }
+                }
+            ]
+        },
+        "metadata": {
+            "iso_language_code": "es",
+            "result_type": "recent"
+        },
+        "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 85811623,
+            "id_str": "85811623",
+            "name": "Ingeniero Miguel, para ud...",
+            "screen_name": "miguelyopal",
+            "location": "Llano Colombiano",
+            "description": "Aqui se critican pol\u00edticos y se comparten maravillas de la naturaleza. Bien pueda, SIGA. #Animalista #Ambientalista #DogLover",
+            "url": null,
+            "entities": {
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 5966,
+            "friends_count": 1377,
+            "listed_count": 10,
+            "created_at": "Wed Oct 28 12:58:47 +0000 2009",
+            "favourites_count": 20566,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": false,
+            "verified": false,
+            "statuses_count": 44418,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "8B542B",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1271880204110254081/woNgfmrW_normal.png",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1271880204110254081/woNgfmrW_normal.png",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/85811623/1625053006",
+            "profile_link_color": "981CEB",
+            "profile_sidebar_border_color": "FFFFFF",
+            "profile_sidebar_fill_color": "EADEAA",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "has_extended_profile": true,
+            "default_profile": false,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none",
+            "withheld_in_countries": []
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 8,
+        "favorite_count": 9,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "es"
+    },
+    "is_quote_status": false,
+    "retweet_count": 8,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "es"
+}

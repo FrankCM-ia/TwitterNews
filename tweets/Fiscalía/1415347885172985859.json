@@ -1,0 +1,97 @@
+{
+    "created_at": "Wed Jul 14 16:30:06 +0000 2021",
+    "id": 1415347885172985859,
+    "id_str": "1415347885172985859",
+    "full_text": "@CARLOSFMEJIA Como cuando Duque uso el avi\u00f3n presidencial para fiesta en Panaca, o Barbosa el avi\u00f3n de la Fiscal\u00eda para paseo en San Andr\u00e9s. \ud83e\udd21\ud83e\udd2b",
+    "truncated": false,
+    "display_text_range": [
+        14,
+        143
+    ],
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "CARLOSFMEJIA",
+                "name": "Carlos Felipe Mej\u00eda",
+                "id": 277206820,
+                "id_str": "277206820",
+                "indices": [
+                    0,
+                    13
+                ]
+            }
+        ],
+        "urls": []
+    },
+    "metadata": {
+        "iso_language_code": "es",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "in_reply_to_status_id": 1415313230231130116,
+    "in_reply_to_status_id_str": "1415313230231130116",
+    "in_reply_to_user_id": 277206820,
+    "in_reply_to_user_id_str": "277206820",
+    "in_reply_to_screen_name": "CARLOSFMEJIA",
+    "user": {
+        "id": 1288261673749483520,
+        "id_str": "1288261673749483520",
+        "name": "Vox Populi",
+        "screen_name": "TiteresAnti",
+        "location": "Brampton",
+        "description": "Leo, pienso, luego escribo.\nEstoy aqu\u00ed para aportar ideas. Du\u00e9lale al que le duela.\n#AntiUribistaSigueAntiUribista",
+        "url": null,
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 19163,
+        "friends_count": 12297,
+        "listed_count": 9,
+        "created_at": "Tue Jul 28 23:55:05 +0000 2020",
+        "favourites_count": 104093,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 8039,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": null,
+        "profile_background_image_url_https": null,
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1288262007360282625/dAvf7mq7_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1288262007360282625/dAvf7mq7_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1288261673749483520/1612040239",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": true,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "es"
+}

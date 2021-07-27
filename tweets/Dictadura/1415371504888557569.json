@@ -1,0 +1,305 @@
+{
+    "created_at": "Wed Jul 14 18:03:57 +0000 2021",
+    "id": 1415371504888557569,
+    "id_str": "1415371504888557569",
+    "full_text": "RT @Desdemona_jna: Dictadura castrista Mariu , NO Gobierno.",
+    "truncated": false,
+    "display_text_range": [
+        0,
+        59
+    ],
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "Desdemona_jna",
+                "name": "Desd\u00e9mona #Son100Mil",
+                "id": 157830185,
+                "id_str": "157830185",
+                "indices": [
+                    3,
+                    17
+                ]
+            }
+        ],
+        "urls": []
+    },
+    "metadata": {
+        "iso_language_code": "es",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 1352520895,
+        "id_str": "1352520895",
+        "name": "Elvira Delvis",
+        "screen_name": "Delvis_CM",
+        "location": "Mendoza Rep\u00fablica Argentina",
+        "description": "Docente jubilada. Viuda. Madre de dos hijas maravillosas, dos hijos adoptados (con permiso de sus madres) y abuela enamorada de Facundo y Juan Mart\u00edn.",
+        "url": null,
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 7769,
+        "friends_count": 6474,
+        "listed_count": 178,
+        "created_at": "Sun Apr 14 18:30:59 +0000 2013",
+        "favourites_count": 300607,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 346192,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1359181682910375944/EoKhD8UW_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1359181682910375944/EoKhD8UW_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1352520895/1516832993",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+        "created_at": "Wed Jul 14 16:10:26 +0000 2021",
+        "id": 1415342935105757191,
+        "id_str": "1415342935105757191",
+        "full_text": "Dictadura castrista Mariu , NO Gobierno. https://t.co/EbROxQr4H2",
+        "truncated": false,
+        "display_text_range": [
+            0,
+            40
+        ],
+        "entities": {
+            "hashtags": [],
+            "symbols": [],
+            "user_mentions": [],
+            "urls": [
+                {
+                    "url": "https://t.co/EbROxQr4H2",
+                    "expanded_url": "https://twitter.com/mariuvidal/status/1415327528554745863",
+                    "display_url": "twitter.com/mariuvidal/sta\u2026",
+                    "indices": [
+                        41,
+                        64
+                    ]
+                }
+            ]
+        },
+        "metadata": {
+            "iso_language_code": "es",
+            "result_type": "recent"
+        },
+        "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 157830185,
+            "id_str": "157830185",
+            "name": "Desd\u00e9mona #Son100Mil",
+            "screen_name": "Desdemona_jna",
+            "location": "Argentina",
+            "description": "Alejandra MB - Periodismo de Investigaci\u00f3n - Bloguera - Almanauta - Cantante de ducha - CSI en construcci\u00f3n -\"Quisqunque tactus vestigia legat\"",
+            "url": "https://t.co/seIbJdDHDe",
+            "entities": {
+                "url": {
+                    "urls": [
+                        {
+                            "url": "https://t.co/seIbJdDHDe",
+                            "expanded_url": "https://lavidaesunaserendipia.blogspot.com.ar/",
+                            "display_url": "lavidaesunaserendipia.blogspot.com.ar",
+                            "indices": [
+                                0,
+                                23
+                            ]
+                        }
+                    ]
+                },
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 57563,
+            "friends_count": 2886,
+            "listed_count": 136,
+            "created_at": "Mon Jun 21 01:10:50 +0000 2010",
+            "favourites_count": 134629,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": false,
+            "verified": false,
+            "statuses_count": 284627,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "DD2E44",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme11/bg.gif",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme11/bg.gif",
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1406124902650978304/IT1aKX_s_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1406124902650978304/IT1aKX_s_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/157830185/1599614080",
+            "profile_link_color": "19CF86",
+            "profile_sidebar_border_color": "000000",
+            "profile_sidebar_fill_color": "927CED",
+            "profile_text_color": "357A1C",
+            "profile_use_background_image": true,
+            "has_extended_profile": true,
+            "default_profile": false,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none",
+            "withheld_in_countries": []
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": true,
+        "quoted_status_id": 1415327528554745863,
+        "quoted_status_id_str": "1415327528554745863",
+        "quoted_status": {
+            "created_at": "Wed Jul 14 15:09:12 +0000 2021",
+            "id": 1415327528554745863,
+            "id_str": "1415327528554745863",
+            "full_text": "Todo mi apoyo al pueblo cubano que hoy est\u00e1 en las calles, reclamando por sus derechos humanos. Esperamos que el Gobierno escuche sus reclamos de libertad de manera pac\u00edfica, sin m\u00e1s represiones ni atropellos. #SOSCuba \ud83c\udde8\ud83c\uddfa",
+            "truncated": false,
+            "display_text_range": [
+                0,
+                221
+            ],
+            "entities": {
+                "hashtags": [
+                    {
+                        "text": "SOSCuba",
+                        "indices": [
+                            210,
+                            218
+                        ]
+                    }
+                ],
+                "symbols": [],
+                "user_mentions": [],
+                "urls": []
+            },
+            "metadata": {
+                "iso_language_code": "es",
+                "result_type": "recent"
+            },
+            "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+            "in_reply_to_status_id": null,
+            "in_reply_to_status_id_str": null,
+            "in_reply_to_user_id": null,
+            "in_reply_to_user_id_str": null,
+            "in_reply_to_screen_name": null,
+            "user": {
+                "id": 109040582,
+                "id_str": "109040582",
+                "name": "Mar\u00eda Eugenia Vidal",
+                "screen_name": "mariuvidal",
+                "location": "Buenos Aires",
+                "description": "Mam\u00e1 orgullosa de Camila, Mar\u00eda Jos\u00e9 y Pedrito.",
+                "url": null,
+                "entities": {
+                    "description": {
+                        "urls": []
+                    }
+                },
+                "protected": false,
+                "followers_count": 1631986,
+                "friends_count": 555,
+                "listed_count": 2000,
+                "created_at": "Wed Jan 27 19:56:18 +0000 2010",
+                "favourites_count": 490,
+                "utc_offset": null,
+                "time_zone": null,
+                "geo_enabled": true,
+                "verified": true,
+                "statuses_count": 7582,
+                "lang": null,
+                "contributors_enabled": false,
+                "is_translator": false,
+                "is_translation_enabled": false,
+                "profile_background_color": "C0DEED",
+                "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+                "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+                "profile_background_tile": false,
+                "profile_image_url": "http://pbs.twimg.com/profile_images/1375055005619748870/OXJPIkS__normal.jpg",
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/1375055005619748870/OXJPIkS__normal.jpg",
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/109040582/1575397860",
+                "profile_link_color": "1DA1F2",
+                "profile_sidebar_border_color": "C0DEED",
+                "profile_sidebar_fill_color": "DDEEF6",
+                "profile_text_color": "333333",
+                "profile_use_background_image": true,
+                "has_extended_profile": true,
+                "default_profile": true,
+                "default_profile_image": false,
+                "following": false,
+                "follow_request_sent": false,
+                "notifications": false,
+                "translator_type": "none",
+                "withheld_in_countries": []
+            },
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "contributors": null,
+            "is_quote_status": false,
+            "retweet_count": 467,
+            "favorite_count": 2391,
+            "favorited": false,
+            "retweeted": false,
+            "lang": "es"
+        },
+        "retweet_count": 34,
+        "favorite_count": 138,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "es"
+    },
+    "is_quote_status": true,
+    "quoted_status_id": 1415327528554745863,
+    "quoted_status_id_str": "1415327528554745863",
+    "retweet_count": 34,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "es"
+}

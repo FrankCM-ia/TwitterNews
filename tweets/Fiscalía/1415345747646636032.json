@@ -1,0 +1,410 @@
+{
+    "created_at": "Wed Jul 14 16:21:36 +0000 2021",
+    "id": 1415345747646636032,
+    "id_str": "1415345747646636032",
+    "full_text": "RT @EyenSoft: El sitio web de la Fiscal\u00eda General de la Rep\u00fablica de Cuba, ha sido retirada con \u00e9xito.\n\n\u00a1Por una Cuba libre!\n\nhttps://t.co/\u2026",
+    "truncated": false,
+    "display_text_range": [
+        0,
+        140
+    ],
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "EyenSoft",
+                "name": "Anonymous",
+                "id": 1335639978341265408,
+                "id_str": "1335639978341265408",
+                "indices": [
+                    3,
+                    12
+                ]
+            }
+        ],
+        "urls": []
+    },
+    "metadata": {
+        "iso_language_code": "es",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 1396905075625299977,
+        "id_str": "1396905075625299977",
+        "name": "xcryptx",
+        "screen_name": "anonxcryptx",
+        "location": "",
+        "description": "#WikiLeaks #FreeAssange #FuckTheSystem #Wakeup #Linux  #FreeAnons",
+        "url": null,
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 176,
+        "friends_count": 318,
+        "listed_count": 1,
+        "created_at": "Mon May 24 19:05:31 +0000 2021",
+        "favourites_count": 2281,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 1295,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": null,
+        "profile_background_image_url_https": null,
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1408660271984529410/4oZ1NJVZ_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1408660271984529410/4oZ1NJVZ_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1396905075625299977/1621886441",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": true,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+        "created_at": "Wed Jul 14 15:08:30 +0000 2021",
+        "id": 1415327350242299906,
+        "id_str": "1415327350242299906",
+        "full_text": "El sitio web de la Fiscal\u00eda General de la Rep\u00fablica de Cuba, ha sido retirada con \u00e9xito.\n\n\u00a1Por una Cuba libre!\n\nhttps://t.co/hsX4BnvMe6 | #Offline \n\nPrueba: https://t.co/gRuOiTswlG\n\n#Cuba #OpCuba #CubaSOS \n\n@YourAnonS0u1 @LorianSynaro @YourAnonSeak @YourAnonBl4ck @HenaHella https://t.co/hptsDw3YU5",
+        "truncated": false,
+        "display_text_range": [
+            0,
+            274
+        ],
+        "entities": {
+            "hashtags": [
+                {
+                    "text": "Offline",
+                    "indices": [
+                        138,
+                        146
+                    ]
+                },
+                {
+                    "text": "Cuba",
+                    "indices": [
+                        182,
+                        187
+                    ]
+                },
+                {
+                    "text": "OpCuba",
+                    "indices": [
+                        188,
+                        195
+                    ]
+                },
+                {
+                    "text": "CubaSOS",
+                    "indices": [
+                        196,
+                        204
+                    ]
+                }
+            ],
+            "symbols": [],
+            "user_mentions": [
+                {
+                    "screen_name": "YourAnonS0u1",
+                    "name": "Anonymous",
+                    "id": 888159120746045440,
+                    "id_str": "888159120746045440",
+                    "indices": [
+                        207,
+                        220
+                    ]
+                },
+                {
+                    "screen_name": "LorianSynaro",
+                    "name": "Lorian Synaro",
+                    "id": 971833617549848576,
+                    "id_str": "971833617549848576",
+                    "indices": [
+                        221,
+                        234
+                    ]
+                },
+                {
+                    "screen_name": "YourAnonSeak",
+                    "name": "Seak \ud83c\udf39",
+                    "id": 1331498903749976065,
+                    "id_str": "1331498903749976065",
+                    "indices": [
+                        235,
+                        248
+                    ]
+                },
+                {
+                    "screen_name": "YourAnonBl4ck",
+                    "name": "Anonymous",
+                    "id": 1410341187899346945,
+                    "id_str": "1410341187899346945",
+                    "indices": [
+                        249,
+                        263
+                    ]
+                },
+                {
+                    "screen_name": "HenaHella",
+                    "name": "H\u00ebna",
+                    "id": 3087230623,
+                    "id_str": "3087230623",
+                    "indices": [
+                        264,
+                        274
+                    ]
+                }
+            ],
+            "urls": [
+                {
+                    "url": "https://t.co/hsX4BnvMe6",
+                    "expanded_url": "https://www.fgr.gob.cu/es",
+                    "display_url": "fgr.gob.cu/es",
+                    "indices": [
+                        112,
+                        135
+                    ]
+                },
+                {
+                    "url": "https://t.co/gRuOiTswlG",
+                    "expanded_url": "https://check-host.net/check-report/1ccadd5ke67",
+                    "display_url": "check-host.net/check-report/1\u2026",
+                    "indices": [
+                        157,
+                        180
+                    ]
+                }
+            ],
+            "media": [
+                {
+                    "id": 1415326350940979200,
+                    "id_str": "1415326350940979200",
+                    "indices": [
+                        275,
+                        298
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/E6Q_0UUWQAAs8Kj.png",
+                    "media_url_https": "https://pbs.twimg.com/media/E6Q_0UUWQAAs8Kj.png",
+                    "url": "https://t.co/hptsDw3YU5",
+                    "display_url": "pic.twitter.com/hptsDw3YU5",
+                    "expanded_url": "https://twitter.com/EyenSoft/status/1415327350242299906/photo/1",
+                    "type": "photo",
+                    "sizes": {
+                        "large": {
+                            "w": 1319,
+                            "h": 510,
+                            "resize": "fit"
+                        },
+                        "small": {
+                            "w": 680,
+                            "h": 263,
+                            "resize": "fit"
+                        },
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "medium": {
+                            "w": 1200,
+                            "h": 464,
+                            "resize": "fit"
+                        }
+                    }
+                }
+            ]
+        },
+        "extended_entities": {
+            "media": [
+                {
+                    "id": 1415326350940979200,
+                    "id_str": "1415326350940979200",
+                    "indices": [
+                        275,
+                        298
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/E6Q_0UUWQAAs8Kj.png",
+                    "media_url_https": "https://pbs.twimg.com/media/E6Q_0UUWQAAs8Kj.png",
+                    "url": "https://t.co/hptsDw3YU5",
+                    "display_url": "pic.twitter.com/hptsDw3YU5",
+                    "expanded_url": "https://twitter.com/EyenSoft/status/1415327350242299906/photo/1",
+                    "type": "photo",
+                    "sizes": {
+                        "large": {
+                            "w": 1319,
+                            "h": 510,
+                            "resize": "fit"
+                        },
+                        "small": {
+                            "w": 680,
+                            "h": 263,
+                            "resize": "fit"
+                        },
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "medium": {
+                            "w": 1200,
+                            "h": 464,
+                            "resize": "fit"
+                        }
+                    }
+                },
+                {
+                    "id": 1415327324451524611,
+                    "id_str": "1415327324451524611",
+                    "indices": [
+                        275,
+                        298
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/E6RAs-7WUAMZ5EV.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/E6RAs-7WUAMZ5EV.jpg",
+                    "url": "https://t.co/hptsDw3YU5",
+                    "display_url": "pic.twitter.com/hptsDw3YU5",
+                    "expanded_url": "https://twitter.com/EyenSoft/status/1415327350242299906/photo/1",
+                    "type": "photo",
+                    "sizes": {
+                        "medium": {
+                            "w": 225,
+                            "h": 225,
+                            "resize": "fit"
+                        },
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "small": {
+                            "w": 225,
+                            "h": 225,
+                            "resize": "fit"
+                        },
+                        "large": {
+                            "w": 225,
+                            "h": 225,
+                            "resize": "fit"
+                        }
+                    }
+                }
+            ]
+        },
+        "metadata": {
+            "iso_language_code": "es",
+            "result_type": "recent"
+        },
+        "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 1335639978341265408,
+            "id_str": "1335639978341265408",
+            "name": "Anonymous",
+            "screen_name": "EyenSoft",
+            "location": "127.0.0.1",
+            "description": "Knowledge is free. | Justice and equality. | @DarkSec_ | #Anonymous | #Antifa | #GlobalRevolution | #NewBlood | #BlackLivesMatter | #FreeWorld | Expect us.",
+            "url": "https://t.co/x5Nmce1qfg",
+            "entities": {
+                "url": {
+                    "urls": [
+                        {
+                            "url": "https://t.co/x5Nmce1qfg",
+                            "expanded_url": "https://www.youtube.com/channel/UCeEGpPoBW0Q4jEdSHNhNgeQ",
+                            "display_url": "youtube.com/channel/UCeEGp\u2026",
+                            "indices": [
+                                0,
+                                23
+                            ]
+                        }
+                    ]
+                },
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 4945,
+            "friends_count": 125,
+            "listed_count": 12,
+            "created_at": "Sun Dec 06 17:39:55 +0000 2020",
+            "favourites_count": 2715,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": false,
+            "verified": false,
+            "statuses_count": 700,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "F5F8FA",
+            "profile_background_image_url": null,
+            "profile_background_image_url_https": null,
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1414979438970818575/cqm34Zw3_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1414979438970818575/cqm34Zw3_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/1335639978341265408/1624300077",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "has_extended_profile": true,
+            "default_profile": true,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none",
+            "withheld_in_countries": []
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 13,
+        "favorite_count": 26,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "es"
+    },
+    "is_quote_status": false,
+    "retweet_count": 13,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "es"
+}

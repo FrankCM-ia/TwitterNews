@@ -1,0 +1,327 @@
+{
+    "created_at": "Wed Jul 14 16:25:46 +0000 2021",
+    "id": 1415346793584500738,
+    "id_str": "1415346793584500738",
+    "full_text": "RT @Fridaguerrera: Nancy y Ariadna; \u00bfacceso a la justicia para las mujeres? https://t.co/JjSbijId8w #Nancy sobrevivi\u00f3 luego de recibir un d\u2026",
+    "truncated": false,
+    "display_text_range": [
+        0,
+        140
+    ],
+    "entities": {
+        "hashtags": [
+            {
+                "text": "Nancy",
+                "indices": [
+                    100,
+                    106
+                ]
+            }
+        ],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "Fridaguerrera",
+                "name": "FridaGuerrera #NiUnaM\u00e1s",
+                "id": 83623243,
+                "id_str": "83623243",
+                "indices": [
+                    3,
+                    17
+                ]
+            }
+        ],
+        "urls": [
+            {
+                "url": "https://t.co/JjSbijId8w",
+                "expanded_url": "https://fridaguerrera.blogspot.com/2021/06/nancy-y-ariadna-acceso-la-justicia-para.html",
+                "display_url": "fridaguerrera.blogspot.com/2021/06/nancy-\u2026",
+                "indices": [
+                    76,
+                    99
+                ]
+            }
+        ]
+    },
+    "metadata": {
+        "iso_language_code": "es",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 249785632,
+        "id_str": "249785632",
+        "name": "Humberto N Berdejo",
+        "screen_name": "humbertonberdej",
+        "location": "",
+        "description": "Criticando un poco de cine, televisi\u00f3n, streaming, y lo que pueda. claro que desde mi punto de vista como CONSUMIDOR y no experto en estos menesteres.",
+        "url": null,
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 170,
+        "friends_count": 718,
+        "listed_count": 2,
+        "created_at": "Wed Feb 09 19:40:43 +0000 2011",
+        "favourites_count": 67875,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 5246,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1407335683165990920/hqwxE0rl_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1407335683165990920/hqwxE0rl_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/249785632/1429939304",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": true,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+        "created_at": "Thu Jun 24 01:18:21 +0000 2021",
+        "id": 1407870681023385602,
+        "id_str": "1407870681023385602",
+        "full_text": "Nancy y Ariadna; \u00bfacceso a la justicia para las mujeres? https://t.co/JjSbijId8w #Nancy sobrevivi\u00f3 luego de recibir un disparo en la cabeza, su agresor su pareja y padre de #Ariadna a casi 2 a\u00f1os, no sabe d\u00f3nde est\u00e1 su peque\u00f1a. \u00bfNos ayudas? @Fiscalia_Mor @FiscaliaCDMX https://t.co/Ikbrg6iUVs",
+        "truncated": false,
+        "display_text_range": [
+            0,
+            268
+        ],
+        "entities": {
+            "hashtags": [
+                {
+                    "text": "Nancy",
+                    "indices": [
+                        81,
+                        87
+                    ]
+                },
+                {
+                    "text": "Ariadna",
+                    "indices": [
+                        173,
+                        181
+                    ]
+                }
+            ],
+            "symbols": [],
+            "user_mentions": [
+                {
+                    "screen_name": "Fiscalia_Mor",
+                    "name": "FISCALIA MORELOS",
+                    "id": 1327248902,
+                    "id_str": "1327248902",
+                    "indices": [
+                        241,
+                        254
+                    ]
+                },
+                {
+                    "screen_name": "FiscaliaCDMX",
+                    "name": "Fiscal\u00eda CDMX",
+                    "id": 561471584,
+                    "id_str": "561471584",
+                    "indices": [
+                        255,
+                        268
+                    ]
+                }
+            ],
+            "urls": [
+                {
+                    "url": "https://t.co/JjSbijId8w",
+                    "expanded_url": "https://fridaguerrera.blogspot.com/2021/06/nancy-y-ariadna-acceso-la-justicia-para.html",
+                    "display_url": "fridaguerrera.blogspot.com/2021/06/nancy-\u2026",
+                    "indices": [
+                        57,
+                        80
+                    ]
+                }
+            ],
+            "media": [
+                {
+                    "id": 1407870637444583425,
+                    "id_str": "1407870637444583425",
+                    "indices": [
+                        269,
+                        292
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/E4nC4rKWUAE2xMm.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/E4nC4rKWUAE2xMm.jpg",
+                    "url": "https://t.co/Ikbrg6iUVs",
+                    "display_url": "pic.twitter.com/Ikbrg6iUVs",
+                    "expanded_url": "https://twitter.com/Fridaguerrera/status/1407870681023385602/photo/1",
+                    "type": "photo",
+                    "sizes": {
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "small": {
+                            "w": 510,
+                            "h": 680,
+                            "resize": "fit"
+                        },
+                        "medium": {
+                            "w": 720,
+                            "h": 960,
+                            "resize": "fit"
+                        },
+                        "large": {
+                            "w": 720,
+                            "h": 960,
+                            "resize": "fit"
+                        }
+                    }
+                }
+            ]
+        },
+        "extended_entities": {
+            "media": [
+                {
+                    "id": 1407870637444583425,
+                    "id_str": "1407870637444583425",
+                    "indices": [
+                        269,
+                        292
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/E4nC4rKWUAE2xMm.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/E4nC4rKWUAE2xMm.jpg",
+                    "url": "https://t.co/Ikbrg6iUVs",
+                    "display_url": "pic.twitter.com/Ikbrg6iUVs",
+                    "expanded_url": "https://twitter.com/Fridaguerrera/status/1407870681023385602/photo/1",
+                    "type": "photo",
+                    "sizes": {
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "small": {
+                            "w": 510,
+                            "h": 680,
+                            "resize": "fit"
+                        },
+                        "medium": {
+                            "w": 720,
+                            "h": 960,
+                            "resize": "fit"
+                        },
+                        "large": {
+                            "w": 720,
+                            "h": 960,
+                            "resize": "fit"
+                        }
+                    }
+                }
+            ]
+        },
+        "metadata": {
+            "iso_language_code": "es",
+            "result_type": "recent"
+        },
+        "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 83623243,
+            "id_str": "83623243",
+            "name": "FridaGuerrera #NiUnaM\u00e1s",
+            "screen_name": "Fridaguerrera",
+            "location": "\u00dcT: 19.374069,-99.160168",
+            "description": "Cronista de FEMINICIDIO en todo M\u00e9xico desde 2016.Quieres contar una historia de feminicidio, b\u00fascame, ay\u00fadame a visualizarlas. NO LUCRAMOS, NO MENTIMOS.",
+            "url": null,
+            "entities": {
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 67039,
+            "friends_count": 4597,
+            "listed_count": 301,
+            "created_at": "Mon Oct 19 15:26:40 +0000 2009",
+            "favourites_count": 25385,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": true,
+            "verified": false,
+            "statuses_count": 95101,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "000000",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif",
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1402341554757509124/yTNkzXTw_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1402341554757509124/yTNkzXTw_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/83623243/1624594432",
+            "profile_link_color": "981CEB",
+            "profile_sidebar_border_color": "000000",
+            "profile_sidebar_fill_color": "000000",
+            "profile_text_color": "000000",
+            "profile_use_background_image": false,
+            "has_extended_profile": true,
+            "default_profile": false,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none",
+            "withheld_in_countries": []
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 179,
+        "favorite_count": 79,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "es"
+    },
+    "is_quote_status": false,
+    "retweet_count": 179,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "es"
+}

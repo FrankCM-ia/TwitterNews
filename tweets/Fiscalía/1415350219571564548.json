@@ -1,0 +1,322 @@
+{
+    "created_at": "Wed Jul 14 16:39:22 +0000 2021",
+    "id": 1415350219571564548,
+    "id_str": "1415350219571564548",
+    "full_text": "RT @ZonaDocs: #HastaEncontrarles\nTeresita G\u00f3mez Blancarte, de 21 a\u00f1os, fue desaparecida el 22 de febrero de 2020 en Tuxpan, Jalisco. Su mad\u2026",
+    "truncated": false,
+    "display_text_range": [
+        0,
+        140
+    ],
+    "entities": {
+        "hashtags": [
+            {
+                "text": "HastaEncontrarles",
+                "indices": [
+                    14,
+                    32
+                ]
+            }
+        ],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "ZonaDocs",
+                "name": "ZonaDocs",
+                "id": 1030901349607727106,
+                "id_str": "1030901349607727106",
+                "indices": [
+                    3,
+                    12
+                ]
+            }
+        ],
+        "urls": []
+    },
+    "metadata": {
+        "iso_language_code": "es",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 2786495711,
+        "id_str": "2786495711",
+        "name": "Esp\u00edritu del Pulque",
+        "screen_name": "pmemo29",
+        "location": "Los pilares de la creaci\u00f3n",
+        "description": "PudimosAmarnosperonosedio LlorandoNostalgiasmedijisteAdios HoyNoentiendoComoesqueSucedio SobrevivioelEgoyseMurioelAmor",
+        "url": null,
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 256,
+        "friends_count": 1726,
+        "listed_count": 0,
+        "created_at": "Sat Sep 27 00:40:54 +0000 2014",
+        "favourites_count": 15951,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 38436,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1409892165086593025/i7hSajcY_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1409892165086593025/i7hSajcY_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2786495711/1624979503",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+        "created_at": "Wed Jul 14 13:03:00 +0000 2021",
+        "id": 1415295766642397185,
+        "id_str": "1415295766642397185",
+        "full_text": "#HastaEncontrarles\nTeresita G\u00f3mez Blancarte, de 21 a\u00f1os, fue desaparecida el 22 de febrero de 2020 en Tuxpan, Jalisco. Su madre detect\u00f3 que es v\u00edctima de trata, entreg\u00f3 las pruebas a @FiscaliaJal, pero no han hecho nada.\n\nPor Darwin Franco / @darwinfranco https://t.co/7IRnANc29d https://t.co/4TdJP512pK",
+        "truncated": false,
+        "display_text_range": [
+            0,
+            279
+        ],
+        "entities": {
+            "hashtags": [
+                {
+                    "text": "HastaEncontrarles",
+                    "indices": [
+                        0,
+                        18
+                    ]
+                }
+            ],
+            "symbols": [],
+            "user_mentions": [
+                {
+                    "screen_name": "FiscaliaJal",
+                    "name": "Fiscal\u00eda del Estado de Jalisco",
+                    "id": 1532088668,
+                    "id_str": "1532088668",
+                    "indices": [
+                        183,
+                        195
+                    ]
+                },
+                {
+                    "screen_name": "darwinfranco",
+                    "name": "Darwin Franco Migues",
+                    "id": 132686513,
+                    "id_str": "132686513",
+                    "indices": [
+                        242,
+                        255
+                    ]
+                }
+            ],
+            "urls": [
+                {
+                    "url": "https://t.co/7IRnANc29d",
+                    "expanded_url": "https://www.zonadocs.mx/2021/07/12/en-fiscalia-no-quieren-investigar-a-quienes-tienen-a-mi-hija/",
+                    "display_url": "zonadocs.mx/2021/07/12/en-\u2026",
+                    "indices": [
+                        256,
+                        279
+                    ]
+                }
+            ],
+            "media": [
+                {
+                    "id": 1414750137478418433,
+                    "id_str": "1414750137478418433",
+                    "indices": [
+                        280,
+                        303
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/E6IzwR5WEAE-ao_.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/E6IzwR5WEAE-ao_.jpg",
+                    "url": "https://t.co/4TdJP512pK",
+                    "display_url": "pic.twitter.com/4TdJP512pK",
+                    "expanded_url": "https://twitter.com/ZonaDocs/status/1415295766642397185/photo/1",
+                    "type": "photo",
+                    "sizes": {
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "medium": {
+                            "w": 1200,
+                            "h": 1013,
+                            "resize": "fit"
+                        },
+                        "small": {
+                            "w": 680,
+                            "h": 574,
+                            "resize": "fit"
+                        },
+                        "large": {
+                            "w": 2048,
+                            "h": 1728,
+                            "resize": "fit"
+                        }
+                    }
+                }
+            ]
+        },
+        "extended_entities": {
+            "media": [
+                {
+                    "id": 1414750137478418433,
+                    "id_str": "1414750137478418433",
+                    "indices": [
+                        280,
+                        303
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/E6IzwR5WEAE-ao_.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/E6IzwR5WEAE-ao_.jpg",
+                    "url": "https://t.co/4TdJP512pK",
+                    "display_url": "pic.twitter.com/4TdJP512pK",
+                    "expanded_url": "https://twitter.com/ZonaDocs/status/1415295766642397185/photo/1",
+                    "type": "photo",
+                    "sizes": {
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "medium": {
+                            "w": 1200,
+                            "h": 1013,
+                            "resize": "fit"
+                        },
+                        "small": {
+                            "w": 680,
+                            "h": 574,
+                            "resize": "fit"
+                        },
+                        "large": {
+                            "w": 2048,
+                            "h": 1728,
+                            "resize": "fit"
+                        }
+                    }
+                }
+            ]
+        },
+        "metadata": {
+            "iso_language_code": "es",
+            "result_type": "recent"
+        },
+        "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 1030901349607727106,
+            "id_str": "1030901349607727106",
+            "name": "ZonaDocs",
+            "screen_name": "ZonaDocs",
+            "location": "Guadalajara, Jalisco.",
+            "description": "Periodismo independiente con perspectiva de derechos humanos. Somos periodismo y periodistas en resistencia. zonadocsgdl@gmail.com",
+            "url": "https://t.co/wgspg19Q8m",
+            "entities": {
+                "url": {
+                    "urls": [
+                        {
+                            "url": "https://t.co/wgspg19Q8m",
+                            "expanded_url": "http://www.zonadocs.mx",
+                            "display_url": "zonadocs.mx",
+                            "indices": [
+                                0,
+                                23
+                            ]
+                        }
+                    ]
+                },
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 11257,
+            "friends_count": 1753,
+            "listed_count": 120,
+            "created_at": "Sat Aug 18 19:36:49 +0000 2018",
+            "favourites_count": 5058,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": true,
+            "verified": false,
+            "statuses_count": 22887,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "000000",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1181563211017068547/S-R65IxQ_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1181563211017068547/S-R65IxQ_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/1030901349607727106/1626051589",
+            "profile_link_color": "ABB8C2",
+            "profile_sidebar_border_color": "000000",
+            "profile_sidebar_fill_color": "000000",
+            "profile_text_color": "000000",
+            "profile_use_background_image": false,
+            "has_extended_profile": true,
+            "default_profile": false,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none",
+            "withheld_in_countries": []
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 14,
+        "favorite_count": 8,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "es"
+    },
+    "is_quote_status": false,
+    "retweet_count": 14,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "es"
+}

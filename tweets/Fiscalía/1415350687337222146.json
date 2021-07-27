@@ -1,0 +1,96 @@
+{
+    "created_at": "Wed Jul 14 16:41:14 +0000 2021",
+    "id": 1415350687337222146,
+    "id_str": "1415350687337222146",
+    "full_text": "@yolandavery Creo que son m\u00e1s de 8000 al final.\nY lo \u00faltimo que le\u00ed, es que la fiscal\u00eda estaba archivando las denuncias porque \" no ve delito\"\nViendo los jueces que tenemos no me extra\u00f1a. Lo que no entiendo es que los familiares de los fallecidos no salgan a la calle a quemar Espa\u00f1a",
+    "truncated": false,
+    "display_text_range": [
+        13,
+        283
+    ],
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "yolandavery",
+                "name": "yolanda \u2764\ufe0f\ud83d\udc9b\ud83d\udc9c\ud83d\udd3b",
+                "id": 601203321,
+                "id_str": "601203321",
+                "indices": [
+                    0,
+                    12
+                ]
+            }
+        ],
+        "urls": []
+    },
+    "metadata": {
+        "iso_language_code": "es",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "in_reply_to_status_id": 1415222180229623809,
+    "in_reply_to_status_id_str": "1415222180229623809",
+    "in_reply_to_user_id": 601203321,
+    "in_reply_to_user_id_str": "601203321",
+    "in_reply_to_screen_name": "yolandavery",
+    "user": {
+        "id": 1362332107012517888,
+        "id_str": "1362332107012517888",
+        "name": "Luz",
+        "screen_name": "Luz31957180",
+        "location": "",
+        "description": "Feminista, de izquierdas, ir\u00f3nica.\n Odio el racismo, la misoginia y que Twitter no me deje enrollarme como una persiana",
+        "url": null,
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 816,
+        "friends_count": 1188,
+        "listed_count": 0,
+        "created_at": "Thu Feb 18 09:24:34 +0000 2021",
+        "favourites_count": 9554,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 9758,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": null,
+        "profile_background_image_url_https": null,
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1372589155801296900/F1Jjp9pj_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1372589155801296900/F1Jjp9pj_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": true,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "es"
+}

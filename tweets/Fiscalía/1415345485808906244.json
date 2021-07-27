@@ -1,0 +1,311 @@
+{
+    "created_at": "Wed Jul 14 16:20:34 +0000 2021",
+    "id": 1415345485808906244,
+    "id_str": "1415345485808906244",
+    "full_text": "RT @_incomprobables: AHORA | \ud83d\udea9Fiscal\u00eda de La Araucan\u00eda confirm\u00f3 que fue encontrado con vida en Constituci\u00f3n el joven machi de 16 a\u00f1os que d\u2026",
+    "truncated": false,
+    "display_text_range": [
+        0,
+        140
+    ],
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "_incomprobables",
+                "name": "Los Incomprobables",
+                "id": 1249886458275643395,
+                "id_str": "1249886458275643395",
+                "indices": [
+                    3,
+                    19
+                ]
+            }
+        ],
+        "urls": []
+    },
+    "metadata": {
+        "iso_language_code": "es",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 1228131658450243584,
+        "id_str": "1228131658450243584",
+        "name": "Soy Scruffy el conserje",
+        "screen_name": "skruffy21",
+        "location": "",
+        "description": "Que caigan todos los corruptos.",
+        "url": null,
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 68,
+        "friends_count": 0,
+        "listed_count": 0,
+        "created_at": "Fri Feb 14 01:39:52 +0000 2020",
+        "favourites_count": 40,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 12300,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": null,
+        "profile_background_image_url_https": null,
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1376922509241683968/OQFuJPlA_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1376922509241683968/OQFuJPlA_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1228131658450243584/1617119099",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+        "created_at": "Wed Jul 14 16:18:02 +0000 2021",
+        "id": 1415344850237628416,
+        "id_str": "1415344850237628416",
+        "full_text": "AHORA | \ud83d\udea9Fiscal\u00eda de La Araucan\u00eda confirm\u00f3 que fue encontrado con vida en Constituci\u00f3n el joven machi de 16 a\u00f1os que desapareci\u00f3 el d\u00eda s\u00e1bado en la comuna de Nueva Imperial. \n#FelizMiercoles #ContigoCHV https://t.co/lWDTs5NtLY",
+        "truncated": false,
+        "display_text_range": [
+            0,
+            203
+        ],
+        "entities": {
+            "hashtags": [
+                {
+                    "text": "FelizMiercoles",
+                    "indices": [
+                        176,
+                        191
+                    ]
+                },
+                {
+                    "text": "ContigoCHV",
+                    "indices": [
+                        192,
+                        203
+                    ]
+                }
+            ],
+            "symbols": [],
+            "user_mentions": [],
+            "urls": [],
+            "media": [
+                {
+                    "id": 1415344145716101121,
+                    "id_str": "1415344145716101121",
+                    "indices": [
+                        204,
+                        227
+                    ],
+                    "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1415344145716101121/pu/img/wxwkWUdRyh9CKoF_.jpg",
+                    "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1415344145716101121/pu/img/wxwkWUdRyh9CKoF_.jpg",
+                    "url": "https://t.co/lWDTs5NtLY",
+                    "display_url": "pic.twitter.com/lWDTs5NtLY",
+                    "expanded_url": "https://twitter.com/_incomprobables/status/1415344850237628416/video/1",
+                    "type": "photo",
+                    "sizes": {
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "large": {
+                            "w": 426,
+                            "h": 240,
+                            "resize": "fit"
+                        },
+                        "medium": {
+                            "w": 426,
+                            "h": 240,
+                            "resize": "fit"
+                        },
+                        "small": {
+                            "w": 426,
+                            "h": 240,
+                            "resize": "fit"
+                        }
+                    }
+                }
+            ]
+        },
+        "extended_entities": {
+            "media": [
+                {
+                    "id": 1415344145716101121,
+                    "id_str": "1415344145716101121",
+                    "indices": [
+                        204,
+                        227
+                    ],
+                    "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1415344145716101121/pu/img/wxwkWUdRyh9CKoF_.jpg",
+                    "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1415344145716101121/pu/img/wxwkWUdRyh9CKoF_.jpg",
+                    "url": "https://t.co/lWDTs5NtLY",
+                    "display_url": "pic.twitter.com/lWDTs5NtLY",
+                    "expanded_url": "https://twitter.com/_incomprobables/status/1415344850237628416/video/1",
+                    "type": "video",
+                    "sizes": {
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "large": {
+                            "w": 426,
+                            "h": 240,
+                            "resize": "fit"
+                        },
+                        "medium": {
+                            "w": 426,
+                            "h": 240,
+                            "resize": "fit"
+                        },
+                        "small": {
+                            "w": 426,
+                            "h": 240,
+                            "resize": "fit"
+                        }
+                    },
+                    "video_info": {
+                        "aspect_ratio": [
+                            71,
+                            40
+                        ],
+                        "duration_millis": 44859,
+                        "variants": [
+                            {
+                                "bitrate": 256000,
+                                "content_type": "video/mp4",
+                                "url": "https://video.twimg.com/ext_tw_video/1415344145716101121/pu/vid/426x240/fjG81etldPyK0Dbh.mp4?tag=12"
+                            },
+                            {
+                                "content_type": "application/x-mpegURL",
+                                "url": "https://video.twimg.com/ext_tw_video/1415344145716101121/pu/pl/Z3DdnH99aMmjgq3m.m3u8?tag=12&container=fmp4"
+                            }
+                        ]
+                    },
+                    "additional_media_info": {
+                        "monetizable": false
+                    }
+                }
+            ]
+        },
+        "metadata": {
+            "iso_language_code": "es",
+            "result_type": "recent"
+        },
+        "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 1249886458275643395,
+            "id_str": "1249886458275643395",
+            "name": "Los Incomprobables",
+            "screen_name": "_incomprobables",
+            "location": "Entre Olmu\u00e9, Santiago y Temuco",
+            "description": "Cuenta oficial de un programa de incomprobable origen. Acompa\u00f1an @seguel09 @dtmontenegro y @navarrodavid01 B\u00fascanos en Instagram y Podcasts \ud83d\udc47\ud83c\udffb",
+            "url": "https://t.co/JyMWIC54WO",
+            "entities": {
+                "url": {
+                    "urls": [
+                        {
+                            "url": "https://t.co/JyMWIC54WO",
+                            "expanded_url": "http://anchor.fm/los-incomprobables",
+                            "display_url": "anchor.fm/los-incomproba\u2026",
+                            "indices": [
+                                0,
+                                23
+                            ]
+                        }
+                    ]
+                },
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 764,
+            "friends_count": 1016,
+            "listed_count": 2,
+            "created_at": "Tue Apr 14 02:27:10 +0000 2020",
+            "favourites_count": 1130,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": false,
+            "verified": false,
+            "statuses_count": 862,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "F5F8FA",
+            "profile_background_image_url": null,
+            "profile_background_image_url_https": null,
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1262418205240426498/SgtKhWoO_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1262418205240426498/SgtKhWoO_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/1249886458275643395/1586832989",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "has_extended_profile": false,
+            "default_profile": true,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none",
+            "withheld_in_countries": []
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 1,
+        "favorite_count": 1,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "es"
+    },
+    "is_quote_status": false,
+    "retweet_count": 1,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "es"
+}

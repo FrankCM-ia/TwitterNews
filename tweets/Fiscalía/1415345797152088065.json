@@ -1,0 +1,230 @@
+{
+    "created_at": "Wed Jul 14 16:21:48 +0000 2021",
+    "id": 1415345797152088065,
+    "id_str": "1415345797152088065",
+    "full_text": "RT @CNCTVGranma: Esta noche emisi\u00f3n especial del programa @hacemos_cuba. El Ministerio del Interior y la Fiscal\u00eda General de la Rep\u00fablica i\u2026",
+    "truncated": false,
+    "display_text_range": [
+        0,
+        140
+    ],
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "CNCTVGranma",
+                "name": "CNC TV Granma",
+                "id": 201253745,
+                "id_str": "201253745",
+                "indices": [
+                    3,
+                    15
+                ]
+            },
+            {
+                "screen_name": "hacemos_cuba",
+                "name": "HacemosCuba",
+                "id": 1196544294762496000,
+                "id_str": "1196544294762496000",
+                "indices": [
+                    58,
+                    71
+                ]
+            }
+        ],
+        "urls": []
+    },
+    "metadata": {
+        "iso_language_code": "es",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 1409360032425259010,
+        "id_str": "1409360032425259010",
+        "name": "@LasTunasTV",
+        "screen_name": "TunasTV1",
+        "location": "Las Tunas, Cuba",
+        "description": "Canal de televisi\u00f3n de la provincia de Las Tunas, Cuba\n\"Somos La Imagen Que Ud Protagoniza\"",
+        "url": "https://t.co/7AHSfgOa93",
+        "entities": {
+            "url": {
+                "urls": [
+                    {
+                        "url": "https://t.co/7AHSfgOa93",
+                        "expanded_url": "http://www.visiontunera.icrt.cu/",
+                        "display_url": "visiontunera.icrt.cu",
+                        "indices": [
+                            0,
+                            23
+                        ]
+                    }
+                ]
+            },
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 50,
+        "friends_count": 145,
+        "listed_count": 0,
+        "created_at": "Mon Jun 28 03:56:59 +0000 2021",
+        "favourites_count": 129,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 180,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": null,
+        "profile_background_image_url_https": null,
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1409585504295739394/vtRsz5Xi_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1409585504295739394/vtRsz5Xi_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1409360032425259010/1624906349",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": true,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+        "created_at": "Wed Jul 14 15:15:07 +0000 2021",
+        "id": 1415329013606854657,
+        "id_str": "1415329013606854657",
+        "full_text": "Esta noche emisi\u00f3n especial del programa @hacemos_cuba. El Ministerio del Interior y la Fiscal\u00eda General de la Rep\u00fablica informar\u00e1n acerca de las actuaciones que se realizan en este momento como resultado de los hechos de desorden p\u00fablico y vandalismo que tuvieron lugar",
+        "truncated": false,
+        "display_text_range": [
+            0,
+            270
+        ],
+        "entities": {
+            "hashtags": [],
+            "symbols": [],
+            "user_mentions": [
+                {
+                    "screen_name": "hacemos_cuba",
+                    "name": "HacemosCuba",
+                    "id": 1196544294762496000,
+                    "id_str": "1196544294762496000",
+                    "indices": [
+                        41,
+                        54
+                    ]
+                }
+            ],
+            "urls": []
+        },
+        "metadata": {
+            "iso_language_code": "es",
+            "result_type": "recent"
+        },
+        "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 201253745,
+            "id_str": "201253745",
+            "name": "CNC TV Granma",
+            "screen_name": "CNCTVGranma",
+            "location": "Bayamo, Cuba",
+            "description": "Telecentro provincial de Granma, Cuba. Transmitimos desde Bayamo, Cuna de la Nacionalidad Cubana (CNC)\n\n#ProvinciaGranma #Cuba",
+            "url": "https://t.co/l1SPvAoWme",
+            "entities": {
+                "url": {
+                    "urls": [
+                        {
+                            "url": "https://t.co/l1SPvAoWme",
+                            "expanded_url": "http://www.cnctvgranma.cu",
+                            "display_url": "cnctvgranma.cu",
+                            "indices": [
+                                0,
+                                23
+                            ]
+                        }
+                    ]
+                },
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 8435,
+            "friends_count": 2921,
+            "listed_count": 100,
+            "created_at": "Mon Oct 11 13:01:02 +0000 2010",
+            "favourites_count": 17576,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": true,
+            "verified": false,
+            "statuses_count": 80955,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "003399",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme17/bg.gif",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme17/bg.gif",
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1324704522825015296/_M3cAW06_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1324704522825015296/_M3cAW06_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/201253745/1625847498",
+            "profile_link_color": "003399",
+            "profile_sidebar_border_color": "FFFFFF",
+            "profile_sidebar_fill_color": "373737",
+            "profile_text_color": "FDB31C",
+            "profile_use_background_image": true,
+            "has_extended_profile": true,
+            "default_profile": false,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none",
+            "withheld_in_countries": []
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 4,
+        "favorite_count": 5,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "es"
+    },
+    "is_quote_status": false,
+    "retweet_count": 4,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "es"
+}

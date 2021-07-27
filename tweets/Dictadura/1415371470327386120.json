@@ -1,0 +1,314 @@
+{
+    "created_at": "Wed Jul 14 18:03:49 +0000 2021",
+    "id": 1415371470327386120,
+    "id_str": "1415371470327386120",
+    "full_text": "RT @NTN24: Presidente del Gobierno espa\u00f1ol dijo que Cuba \"no es una democracia\". Oposici\u00f3n le exige que condene sin eufemismos al r\u00e9gimen d\u2026",
+    "truncated": false,
+    "display_text_range": [
+        0,
+        140
+    ],
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "NTN24",
+                "name": "NTN24",
+                "id": 133945128,
+                "id_str": "133945128",
+                "indices": [
+                    3,
+                    9
+                ]
+            }
+        ],
+        "urls": []
+    },
+    "metadata": {
+        "iso_language_code": "es",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 1206983393738670081,
+        "id_str": "1206983393738670081",
+        "name": "Rafael Gutil\u00f2p",
+        "screen_name": "RGutilop",
+        "location": "",
+        "description": "Carabobe\u00f1o | #Lidera11/ @VenteVenezuela |  Comunicador Social/ | Liberal / Activista \ud83c\udff3\ufe0f\u200d\ud83c\udf08.",
+        "url": null,
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 383,
+        "friends_count": 1560,
+        "listed_count": 0,
+        "created_at": "Tue Dec 17 17:04:16 +0000 2019",
+        "favourites_count": 16193,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 12626,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": null,
+        "profile_background_image_url_https": null,
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1410569186422763523/zjCto_la_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1410569186422763523/zjCto_la_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1206983393738670081/1579601173",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+        "created_at": "Wed Jul 14 17:57:21 +0000 2021",
+        "id": 1415369841050013696,
+        "id_str": "1415369841050013696",
+        "full_text": "Presidente del Gobierno espa\u00f1ol dijo que Cuba \"no es una democracia\". Oposici\u00f3n le exige que condene sin eufemismos al r\u00e9gimen de D\u00edaz-Canel y lo califique directamente como una dictadura https://t.co/klXh80fDM3 https://t.co/PvA7XTvMD1",
+        "truncated": false,
+        "display_text_range": [
+            0,
+            211
+        ],
+        "entities": {
+            "hashtags": [],
+            "symbols": [],
+            "user_mentions": [],
+            "urls": [
+                {
+                    "url": "https://t.co/klXh80fDM3",
+                    "expanded_url": "https://bit.ly/2Uv8K73",
+                    "display_url": "bit.ly/2Uv8K73",
+                    "indices": [
+                        188,
+                        211
+                    ]
+                }
+            ],
+            "media": [
+                {
+                    "id": 1415364900361277440,
+                    "id_str": "1415364900361277440",
+                    "indices": [
+                        212,
+                        235
+                    ],
+                    "media_url": "http://pbs.twimg.com/amplify_video_thumb/1415364900361277440/img/Ou-4Cf_OcVljTDOp.jpg",
+                    "media_url_https": "https://pbs.twimg.com/amplify_video_thumb/1415364900361277440/img/Ou-4Cf_OcVljTDOp.jpg",
+                    "url": "https://t.co/PvA7XTvMD1",
+                    "display_url": "pic.twitter.com/PvA7XTvMD1",
+                    "expanded_url": "https://twitter.com/NTN24/status/1415369841050013696/video/1",
+                    "type": "photo",
+                    "sizes": {
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "large": {
+                            "w": 720,
+                            "h": 404,
+                            "resize": "fit"
+                        },
+                        "small": {
+                            "w": 680,
+                            "h": 382,
+                            "resize": "fit"
+                        },
+                        "medium": {
+                            "w": 720,
+                            "h": 404,
+                            "resize": "fit"
+                        }
+                    }
+                }
+            ]
+        },
+        "extended_entities": {
+            "media": [
+                {
+                    "id": 1415364900361277440,
+                    "id_str": "1415364900361277440",
+                    "indices": [
+                        212,
+                        235
+                    ],
+                    "media_url": "http://pbs.twimg.com/amplify_video_thumb/1415364900361277440/img/Ou-4Cf_OcVljTDOp.jpg",
+                    "media_url_https": "https://pbs.twimg.com/amplify_video_thumb/1415364900361277440/img/Ou-4Cf_OcVljTDOp.jpg",
+                    "url": "https://t.co/PvA7XTvMD1",
+                    "display_url": "pic.twitter.com/PvA7XTvMD1",
+                    "expanded_url": "https://twitter.com/NTN24/status/1415369841050013696/video/1",
+                    "type": "video",
+                    "sizes": {
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "large": {
+                            "w": 720,
+                            "h": 404,
+                            "resize": "fit"
+                        },
+                        "small": {
+                            "w": 680,
+                            "h": 382,
+                            "resize": "fit"
+                        },
+                        "medium": {
+                            "w": 720,
+                            "h": 404,
+                            "resize": "fit"
+                        }
+                    },
+                    "video_info": {
+                        "aspect_ratio": [
+                            180,
+                            101
+                        ],
+                        "duration_millis": 205388,
+                        "variants": [
+                            {
+                                "content_type": "application/x-mpegURL",
+                                "url": "https://video.twimg.com/amplify_video/1415364900361277440/pl/unzVw4ngXJk-P8Eb.m3u8?tag=14"
+                            },
+                            {
+                                "bitrate": 832000,
+                                "content_type": "video/mp4",
+                                "url": "https://video.twimg.com/amplify_video/1415364900361277440/vid/720x404/I1Nsq3Tj2Xvcn0Zd.mp4?tag=14"
+                            },
+                            {
+                                "bitrate": 288000,
+                                "content_type": "video/mp4",
+                                "url": "https://video.twimg.com/amplify_video/1415364900361277440/vid/480x270/QThdugIeuZs9nmaH.mp4?tag=14"
+                            }
+                        ]
+                    },
+                    "additional_media_info": {
+                        "title": "",
+                        "description": "",
+                        "embeddable": true,
+                        "monetizable": false
+                    }
+                }
+            ]
+        },
+        "metadata": {
+            "iso_language_code": "es",
+            "result_type": "recent"
+        },
+        "source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 133945128,
+            "id_str": "133945128",
+            "name": "NTN24",
+            "screen_name": "NTN24",
+            "location": "Continente Americano",
+            "description": "Somos el canal de las Am\u00e9ricas \u00a1Solic\u00edtelo a su cable operador!",
+            "url": "https://t.co/Faz8Qq8Vc6",
+            "entities": {
+                "url": {
+                    "urls": [
+                        {
+                            "url": "https://t.co/Faz8Qq8Vc6",
+                            "expanded_url": "http://www.ntn24.com",
+                            "display_url": "ntn24.com",
+                            "indices": [
+                                0,
+                                23
+                            ]
+                        }
+                    ]
+                },
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 4455880,
+            "friends_count": 233,
+            "listed_count": 8294,
+            "created_at": "Sat Apr 17 02:08:10 +0000 2010",
+            "favourites_count": 1299,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": true,
+            "verified": true,
+            "statuses_count": 385964,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": true,
+            "profile_background_color": "FCFCFC",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": true,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1278404640418287617/wwoZKuuA_normal.png",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1278404640418287617/wwoZKuuA_normal.png",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/133945128/1593537065",
+            "profile_link_color": "163CAD",
+            "profile_sidebar_border_color": "000000",
+            "profile_sidebar_fill_color": "FFB95E",
+            "profile_text_color": "363434",
+            "profile_use_background_image": true,
+            "has_extended_profile": false,
+            "default_profile": false,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none",
+            "withheld_in_countries": []
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 8,
+        "favorite_count": 17,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "es"
+    },
+    "is_quote_status": false,
+    "retweet_count": 8,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "es"
+}

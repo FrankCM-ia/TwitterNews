@@ -1,0 +1,139 @@
+{
+    "created_at": "Wed Jul 14 16:29:51 +0000 2021",
+    "id": 1415347821188763649,
+    "id_str": "1415347821188763649",
+    "full_text": "#Mexico\nPresenta fiscal\u00eda 6 videos contra #yossstop \n\n#NoticieroAltavoz #LaNoticiaAlMomento\n\nhttps://t.co/sDLXHJvcKn",
+    "truncated": false,
+    "display_text_range": [
+        0,
+        116
+    ],
+    "entities": {
+        "hashtags": [
+            {
+                "text": "Mexico",
+                "indices": [
+                    0,
+                    7
+                ]
+            },
+            {
+                "text": "yossstop",
+                "indices": [
+                    42,
+                    51
+                ]
+            },
+            {
+                "text": "NoticieroAltavoz",
+                "indices": [
+                    54,
+                    71
+                ]
+            },
+            {
+                "text": "LaNoticiaAlMomento",
+                "indices": [
+                    72,
+                    91
+                ]
+            }
+        ],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+            {
+                "url": "https://t.co/sDLXHJvcKn",
+                "expanded_url": "http://noticieroaltavoz.com/presenta-fiscalia-6-videos-contra-yosstop/",
+                "display_url": "noticieroaltavoz.com/presenta-fisca\u2026",
+                "indices": [
+                    93,
+                    116
+                ]
+            }
+        ]
+    },
+    "metadata": {
+        "iso_language_code": "es",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 353703334,
+        "id_str": "353703334",
+        "name": "Noticiero Altavoz",
+        "screen_name": "Altavoznoticias",
+        "location": "Los Mochis, Sinaloa, M\u00e8xico",
+        "description": "En red estatal con Sinaloa.\nUn informativo de @chavez_radio",
+        "url": "https://t.co/qMm6GB6y0F",
+        "entities": {
+            "url": {
+                "urls": [
+                    {
+                        "url": "https://t.co/qMm6GB6y0F",
+                        "expanded_url": "http://www.noticieroaltavoz.com",
+                        "display_url": "noticieroaltavoz.com",
+                        "indices": [
+                            0,
+                            23
+                        ]
+                    }
+                ]
+            },
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 8320,
+        "friends_count": 234,
+        "listed_count": 47,
+        "created_at": "Fri Aug 12 14:18:11 +0000 2011",
+        "favourites_count": 68,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 192156,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "131516",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+        "profile_background_tile": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1352471297209597959/QW-_4G_o_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1352471297209597959/QW-_4G_o_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/353703334/1616533198",
+        "profile_link_color": "009999",
+        "profile_sidebar_border_color": "EEEEEE",
+        "profile_sidebar_fill_color": "EFEFEF",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "es"
+}

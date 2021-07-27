@@ -1,0 +1,285 @@
+{
+    "created_at": "Wed Jul 14 16:39:59 +0000 2021",
+    "id": 1415350372483305476,
+    "id_str": "1415350372483305476",
+    "full_text": "RT @Radio_Formula: Comando libera a \u201cEl Calamardo\u201d, presunto l\u00edder del C\u00e1rtel del Golfo detenido en Fiscal\u00eda de Tamaulipas https://t.co/GR3\u2026",
+    "truncated": false,
+    "display_text_range": [
+        0,
+        140
+    ],
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "Radio_Formula",
+                "name": "Grupo F\u00f3rmula",
+                "id": 148372339,
+                "id_str": "148372339",
+                "indices": [
+                    3,
+                    17
+                ]
+            }
+        ],
+        "urls": []
+    },
+    "metadata": {
+        "iso_language_code": "es",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 140204053,
+        "id_str": "140204053",
+        "name": "andryk dereck",
+        "screen_name": "hoker89",
+        "location": "",
+        "description": "puma d nacimiento regio adoptado pero sobre todo a tus \u00f3rdenes Monterrey, Quer\u00e9taro , puebla .",
+        "url": null,
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 848,
+        "friends_count": 3393,
+        "listed_count": 0,
+        "created_at": "Tue May 04 22:03:27 +0000 2010",
+        "favourites_count": 11334,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 69714,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1303527223035482112/cXdduYX0_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1303527223035482112/cXdduYX0_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/140204053/1599620083",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+        "created_at": "Wed Jul 14 15:50:06 +0000 2021",
+        "id": 1415337817819975681,
+        "id_str": "1415337817819975681",
+        "full_text": "Comando libera a \u201cEl Calamardo\u201d, presunto l\u00edder del C\u00e1rtel del Golfo detenido en Fiscal\u00eda de Tamaulipas https://t.co/GR3VoVP9FB https://t.co/4M9gIy6h5B",
+        "truncated": false,
+        "display_text_range": [
+            0,
+            127
+        ],
+        "entities": {
+            "hashtags": [],
+            "symbols": [],
+            "user_mentions": [],
+            "urls": [
+                {
+                    "url": "https://t.co/GR3VoVP9FB",
+                    "expanded_url": "https://bit.ly/3keudfD",
+                    "display_url": "bit.ly/3keudfD",
+                    "indices": [
+                        104,
+                        127
+                    ]
+                }
+            ],
+            "media": [
+                {
+                    "id": 1415337815865532423,
+                    "id_str": "1415337815865532423",
+                    "indices": [
+                        128,
+                        151
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/E6RKPqfXoAcxOOH.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/E6RKPqfXoAcxOOH.jpg",
+                    "url": "https://t.co/4M9gIy6h5B",
+                    "display_url": "pic.twitter.com/4M9gIy6h5B",
+                    "expanded_url": "https://twitter.com/Radio_Formula/status/1415337817819975681/photo/1",
+                    "type": "photo",
+                    "sizes": {
+                        "medium": {
+                            "w": 780,
+                            "h": 470,
+                            "resize": "fit"
+                        },
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "small": {
+                            "w": 680,
+                            "h": 410,
+                            "resize": "fit"
+                        },
+                        "large": {
+                            "w": 780,
+                            "h": 470,
+                            "resize": "fit"
+                        }
+                    }
+                }
+            ]
+        },
+        "extended_entities": {
+            "media": [
+                {
+                    "id": 1415337815865532423,
+                    "id_str": "1415337815865532423",
+                    "indices": [
+                        128,
+                        151
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/E6RKPqfXoAcxOOH.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/E6RKPqfXoAcxOOH.jpg",
+                    "url": "https://t.co/4M9gIy6h5B",
+                    "display_url": "pic.twitter.com/4M9gIy6h5B",
+                    "expanded_url": "https://twitter.com/Radio_Formula/status/1415337817819975681/photo/1",
+                    "type": "photo",
+                    "sizes": {
+                        "medium": {
+                            "w": 780,
+                            "h": 470,
+                            "resize": "fit"
+                        },
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "small": {
+                            "w": 680,
+                            "h": 410,
+                            "resize": "fit"
+                        },
+                        "large": {
+                            "w": 780,
+                            "h": 470,
+                            "resize": "fit"
+                        }
+                    }
+                }
+            ]
+        },
+        "metadata": {
+            "iso_language_code": "es",
+            "result_type": "recent"
+        },
+        "source": "<a href=\"https://sproutsocial.com\" rel=\"nofollow\">Sprout Social</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 148372339,
+            "id_str": "148372339",
+            "name": "Grupo F\u00f3rmula",
+            "screen_name": "Radio_Formula",
+            "location": "Ciudad de Mexico",
+            "description": "El grupo de comunicaci\u00f3n m\u00e1s influyente de radio hablada e informativa en M\u00e9xico",
+            "url": "https://t.co/B6Kdc0ARhD",
+            "entities": {
+                "url": {
+                    "urls": [
+                        {
+                            "url": "https://t.co/B6Kdc0ARhD",
+                            "expanded_url": "http://www.grupoformula.com.mx",
+                            "display_url": "grupoformula.com.mx",
+                            "indices": [
+                                0,
+                                23
+                            ]
+                        }
+                    ]
+                },
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 681223,
+            "friends_count": 1220,
+            "listed_count": 3156,
+            "created_at": "Wed May 26 14:46:42 +0000 2010",
+            "favourites_count": 2305,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": false,
+            "verified": true,
+            "statuses_count": 359878,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "9CBFFF",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1411043739909332993/C_EEWeAl_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1411043739909332993/C_EEWeAl_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/148372339/1612307584",
+            "profile_link_color": "0077B3",
+            "profile_sidebar_border_color": "1D086B",
+            "profile_sidebar_fill_color": "C3D4E0",
+            "profile_text_color": "2108FF",
+            "profile_use_background_image": true,
+            "has_extended_profile": false,
+            "default_profile": false,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none",
+            "withheld_in_countries": []
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 6,
+        "favorite_count": 19,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "es"
+    },
+    "is_quote_status": false,
+    "retweet_count": 6,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "es"
+}

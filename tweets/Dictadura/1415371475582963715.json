@@ -1,0 +1,196 @@
+{
+    "created_at": "Wed Jul 14 18:03:50 +0000 2021",
+    "id": 1415371475582963715,
+    "id_str": "1415371475582963715",
+    "full_text": "RT @ANIMA_red: En Espa\u00f1a si hay una carga policial contra unos manifestantes dicen que el sistema es fascista. En Cuba el presidente manda\u2026",
+    "truncated": false,
+    "display_text_range": [
+        0,
+        139
+    ],
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "ANIMA_red",
+                "name": "\u028c\u0438\u0131\u028d\u028c",
+                "id": 301742816,
+                "id_str": "301742816",
+                "indices": [
+                    3,
+                    13
+                ]
+            }
+        ],
+        "urls": []
+    },
+    "metadata": {
+        "iso_language_code": "es",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 1029323126,
+        "id_str": "1029323126",
+        "name": "Comunista Europeo",
+        "screen_name": "TheWayToBeMe",
+        "location": "Republica de Aragon",
+        "description": "\u00a1\u00a1\u00a1ARRIBA PARIAS DE LA TIERRA!!!\nJoven comunista de tendencia europeista y revolucionario pacifista.\nLa revolucion triunfar\u00e1, pero no por las Armas!!!",
+        "url": null,
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 127,
+        "friends_count": 936,
+        "listed_count": 0,
+        "created_at": "Sat Dec 22 21:43:54 +0000 2012",
+        "favourites_count": 29291,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 22967,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/884839430317649921/2COHoX7S_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/884839430317649921/2COHoX7S_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1029323126/1499798612",
+        "profile_link_color": "B50027",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "profile_use_background_image": false,
+        "has_extended_profile": true,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+        "created_at": "Tue Jul 13 12:41:38 +0000 2021",
+        "id": 1414928003826655237,
+        "id_str": "1414928003826655237",
+        "full_text": "En Espa\u00f1a si hay una carga policial contra unos manifestantes dicen que el sistema es fascista. En Cuba el presidente manda a combatir y luchar contra unos manifestantes por pedir el fin de la dictadura y los mismos que dicen que Espa\u00f1a es fascista justifican al r\u00e9gimen cubano.",
+        "truncated": false,
+        "display_text_range": [
+            0,
+            278
+        ],
+        "entities": {
+            "hashtags": [],
+            "symbols": [],
+            "user_mentions": [],
+            "urls": []
+        },
+        "metadata": {
+            "iso_language_code": "es",
+            "result_type": "recent"
+        },
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 301742816,
+            "id_str": "301742816",
+            "name": "\u028c\u0438\u0131\u028d\u028c",
+            "screen_name": "ANIMA_red",
+            "location": "Madrid, Comunidad de Madrid",
+            "description": "A veces escribo en @disidentia y @elliberal_com\nSubo v\u00eddeos de diversos temas en mi canal de YouTube: ANIMA Marina. Los Jueves en #DisidenciaDescontrolada",
+            "url": "https://t.co/IMW5a0uMfQ",
+            "entities": {
+                "url": {
+                    "urls": [
+                        {
+                            "url": "https://t.co/IMW5a0uMfQ",
+                            "expanded_url": "https://www.youtube.com/c/ANIMAMarina",
+                            "display_url": "youtube.com/c/ANIMAMarina",
+                            "indices": [
+                                0,
+                                23
+                            ]
+                        }
+                    ]
+                },
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 33315,
+            "friends_count": 533,
+            "listed_count": 132,
+            "created_at": "Fri May 20 00:12:25 +0000 2011",
+            "favourites_count": 31065,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": true,
+            "verified": false,
+            "statuses_count": 17632,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "131516",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+            "profile_background_tile": true,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1384245604298096642/pE1IQv9__normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1384245604298096642/pE1IQv9__normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/301742816/1618865224",
+            "profile_link_color": "1B95E0",
+            "profile_sidebar_border_color": "EEEEEE",
+            "profile_sidebar_fill_color": "EFEFEF",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "has_extended_profile": false,
+            "default_profile": false,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none",
+            "withheld_in_countries": []
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 487,
+        "favorite_count": 1432,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "es"
+    },
+    "is_quote_status": false,
+    "retweet_count": 487,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "es"
+}

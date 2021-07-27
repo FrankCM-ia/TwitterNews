@@ -1,0 +1,182 @@
+{
+    "created_at": "Wed Jul 14 16:37:36 +0000 2021",
+    "id": 1415349775013187586,
+    "id_str": "1415349775013187586",
+    "full_text": "RT @emquiben: Jorge Rodr\u00edguez solicit\u00f3 a la fiscal\u00eda detener a los dirigentes de Voluntad Popular, Emilio Grater\u00f3n, Hasler Iglesias y Gilbe\u2026",
+    "truncated": false,
+    "display_text_range": [
+        0,
+        140
+    ],
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "emquiben",
+                "name": "emilio quintana",
+                "id": 2350086775,
+                "id_str": "2350086775",
+                "indices": [
+                    3,
+                    12
+                ]
+            }
+        ],
+        "urls": []
+    },
+    "metadata": {
+        "iso_language_code": "es",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 1366980314728398848,
+        "id_str": "1366980314728398848",
+        "name": "maracucho en lima \ud83c\uddfb\ud83c\uddea\ud83c\uddfb\ud83c\uddea\ud83c\uddfb\ud83c\uddea\ud83c\uddfb\ud83c\uddea\ud83c\uddfb\ud83c\uddea\ud83c\uddfb\ud83c\uddea\ud83c\uddfb",
+        "screen_name": "PirelaJavi",
+        "location": "Lima, Peru",
+        "description": "Javi pirela mcbo . lima Per\u00fa",
+        "url": null,
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 282,
+        "friends_count": 951,
+        "listed_count": 0,
+        "created_at": "Wed Mar 03 05:14:56 +0000 2021",
+        "favourites_count": 2093,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 10954,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": null,
+        "profile_background_image_url_https": null,
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1367426688913727489/4FQYhwpk_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1367426688913727489/4FQYhwpk_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": true,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+        "created_at": "Wed Jul 14 11:07:23 +0000 2021",
+        "id": 1415266673314127872,
+        "id_str": "1415266673314127872",
+        "full_text": "Jorge Rodr\u00edguez solicit\u00f3 a la fiscal\u00eda detener a los dirigentes de Voluntad Popular, Emilio Grater\u00f3n, Hasler Iglesias y Gilber Caro por estar vinculados a supuestos planes conspirativos. De la misma manera asegur\u00f3 la b\u00fasqueda del jefe del despacho de Juan Guaid\u00f3, Luis Somaza.",
+        "truncated": false,
+        "display_text_range": [
+            0,
+            276
+        ],
+        "entities": {
+            "hashtags": [],
+            "symbols": [],
+            "user_mentions": [],
+            "urls": []
+        },
+        "metadata": {
+            "iso_language_code": "es",
+            "result_type": "recent"
+        },
+        "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 2350086775,
+            "id_str": "2350086775",
+            "name": "emilio quintana",
+            "screen_name": "emquiben",
+            "location": "Aqui y Alla",
+            "description": "No he sido Presidente, Ministro, Empleado Publico ni Politico solo he sido y seguire siempre un Venezolano agradecido !",
+            "url": null,
+            "entities": {
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 139808,
+            "friends_count": 140777,
+            "listed_count": 122,
+            "created_at": "Tue Feb 18 12:58:37 +0000 2014",
+            "favourites_count": 3623,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": false,
+            "verified": false,
+            "statuses_count": 85016,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "C0DEED",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1256596485782884352/mnhS0LkQ_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1256596485782884352/mnhS0LkQ_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/2350086775/1611064085",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "has_extended_profile": false,
+            "default_profile": true,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none",
+            "withheld_in_countries": []
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 10,
+        "favorite_count": 8,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "es"
+    },
+    "is_quote_status": false,
+    "retweet_count": 10,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "es"
+}

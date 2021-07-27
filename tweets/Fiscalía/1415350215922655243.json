@@ -1,0 +1,233 @@
+{
+    "created_at": "Wed Jul 14 16:39:22 +0000 2021",
+    "id": 1415350215922655243,
+    "id_str": "1415350215922655243",
+    "full_text": "RT @elsalvador: #DePa\u00eds | Regina Ca\u00f1as, conocida como \u00abT\u00eda Bubu\u00bb, acude solo dos d\u00edas a la semana a una Adesco, de El Zonte, para cumplir c\u2026",
+    "truncated": false,
+    "display_text_range": [
+        0,
+        140
+    ],
+    "entities": {
+        "hashtags": [
+            {
+                "text": "DePa\u00eds",
+                "indices": [
+                    16,
+                    23
+                ]
+            }
+        ],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "elsalvador",
+                "name": "Diario El Salvador",
+                "id": 1201561204206034944,
+                "id_str": "1201561204206034944",
+                "indices": [
+                    3,
+                    14
+                ]
+            }
+        ],
+        "urls": []
+    },
+    "metadata": {
+        "iso_language_code": "es",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 1239996525452890112,
+        "id_str": "1239996525452890112",
+        "name": "dulcinea.gourmet@yahoo.com",
+        "screen_name": "dulcineagourme1",
+        "location": "",
+        "description": "",
+        "url": null,
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 214,
+        "friends_count": 46,
+        "listed_count": 0,
+        "created_at": "Tue Mar 17 19:26:40 +0000 2020",
+        "favourites_count": 63268,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 7016,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": null,
+        "profile_background_image_url_https": null,
+        "profile_background_tile": false,
+        "profile_image_url": "http://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+        "profile_image_url_https": "https://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": true,
+        "default_profile_image": true,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+        "created_at": "Wed Jul 14 13:30:00 +0000 2021",
+        "id": 1415302561771360256,
+        "id_str": "1415302561771360256",
+        "full_text": "#DePa\u00eds | Regina Ca\u00f1as, conocida como \u00abT\u00eda Bubu\u00bb, acude solo dos d\u00edas a la semana a una Adesco, de El Zonte, para cumplir con las 144 jornadas de trabajo de utilidad p\u00fablica, pero a la @FGR_SV no le parece la forma en que las realiza.\nhttps://t.co/P0ey3cHkpI",
+        "truncated": false,
+        "display_text_range": [
+            0,
+            258
+        ],
+        "entities": {
+            "hashtags": [
+                {
+                    "text": "DePa\u00eds",
+                    "indices": [
+                        0,
+                        7
+                    ]
+                }
+            ],
+            "symbols": [],
+            "user_mentions": [
+                {
+                    "screen_name": "FGR_SV",
+                    "name": "Fiscal\u00eda General de la Rep\u00fablica El Salvador",
+                    "id": 611845716,
+                    "id_str": "611845716",
+                    "indices": [
+                        185,
+                        192
+                    ]
+                }
+            ],
+            "urls": [
+                {
+                    "url": "https://t.co/P0ey3cHkpI",
+                    "expanded_url": "https://diarioelsalvador.com/tia-bubu-solo-trabaja-dos-dias-por-semana-denuncia-fiscalia/106014/",
+                    "display_url": "diarioelsalvador.com/tia-bubu-solo-\u2026",
+                    "indices": [
+                        235,
+                        258
+                    ]
+                }
+            ]
+        },
+        "metadata": {
+            "iso_language_code": "es",
+            "result_type": "recent"
+        },
+        "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 1201561204206034944,
+            "id_str": "1201561204206034944",
+            "name": "Diario El Salvador",
+            "screen_name": "elsalvador",
+            "location": "El Salvador",
+            "description": "Cuenta oficial de Diario El Salvador. Empresa estatal.",
+            "url": "https://t.co/fKqYLeqefE",
+            "entities": {
+                "url": {
+                    "urls": [
+                        {
+                            "url": "https://t.co/fKqYLeqefE",
+                            "expanded_url": "http://www.diarioelsalvador.com",
+                            "display_url": "diarioelsalvador.com",
+                            "indices": [
+                                0,
+                                23
+                            ]
+                        }
+                    ]
+                },
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 114465,
+            "friends_count": 149,
+            "listed_count": 129,
+            "created_at": "Mon Dec 02 17:58:26 +0000 2019",
+            "favourites_count": 58,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": false,
+            "verified": true,
+            "statuses_count": 35563,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "F5F8FA",
+            "profile_background_image_url": null,
+            "profile_background_image_url_https": null,
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1314028920858185729/sJe3Gi9E_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1314028920858185729/sJe3Gi9E_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/1201561204206034944/1615464263",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "has_extended_profile": true,
+            "default_profile": true,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none",
+            "withheld_in_countries": []
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 69,
+        "favorite_count": 211,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "es"
+    },
+    "is_quote_status": false,
+    "retweet_count": 69,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "es"
+}

@@ -1,0 +1,127 @@
+{
+    "created_at": "Wed Jul 14 16:30:27 +0000 2021",
+    "id": 1415347975577079811,
+    "id_str": "1415347975577079811",
+    "full_text": "@glentianci @FISCALIA_IX @PDI_Araucania Podr\u00edas decirme c\u00f3mo en pendejo de 16 a\u00f1os llega a ser \"Machi\"",
+    "truncated": false,
+    "display_text_range": [
+        40,
+        102
+    ],
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "glentianci",
+                "name": "glenda cayuqueo",
+                "id": 189946323,
+                "id_str": "189946323",
+                "indices": [
+                    0,
+                    11
+                ]
+            },
+            {
+                "screen_name": "FISCALIA_IX",
+                "name": "Fiscal\u00eda Araucan\u00eda",
+                "id": 138422176,
+                "id_str": "138422176",
+                "indices": [
+                    12,
+                    24
+                ]
+            },
+            {
+                "screen_name": "PDI_Araucania",
+                "name": "PDI_Araucania",
+                "id": 707646963852963840,
+                "id_str": "707646963852963840",
+                "indices": [
+                    25,
+                    39
+                ]
+            }
+        ],
+        "urls": []
+    },
+    "metadata": {
+        "iso_language_code": "es",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "in_reply_to_status_id": 1415336437495517184,
+    "in_reply_to_status_id_str": "1415336437495517184",
+    "in_reply_to_user_id": 189946323,
+    "in_reply_to_user_id_str": "189946323",
+    "in_reply_to_screen_name": "glentianci",
+    "user": {
+        "id": 1033847030416908290,
+        "id_str": "1033847030416908290",
+        "name": "pancho",
+        "screen_name": "Francis61994810",
+        "location": "",
+        "description": "Todos contra la izquierda y el populasho ignorante  que creen que son mayoria\n\nhttps://t.co/cjJqM1ztnZ, nueva plataforma que no censura...",
+        "url": null,
+        "entities": {
+            "description": {
+                "urls": [
+                    {
+                        "url": "https://t.co/cjJqM1ztnZ",
+                        "expanded_url": "https://gab.com",
+                        "display_url": "gab.com",
+                        "indices": [
+                            79,
+                            102
+                        ]
+                    }
+                ]
+            }
+        },
+        "protected": false,
+        "followers_count": 280,
+        "friends_count": 262,
+        "listed_count": 0,
+        "created_at": "Sun Aug 26 22:41:54 +0000 2018",
+        "favourites_count": 4757,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 8708,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": null,
+        "profile_background_image_url_https": null,
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1249912271951839233/_WKpnQoV_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1249912271951839233/_WKpnQoV_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1033847030416908290/1583600272",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 1,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "es"
+}

@@ -1,0 +1,389 @@
+{
+    "created_at": "Wed Jul 14 18:03:40 +0000 2021",
+    "id": 1415371434298417152,
+    "id_str": "1415371434298417152",
+    "full_text": "RT @NoaCostas1: \u00bfEst\u00e1 comparando la Espa\u00f1a de la dictadura y el hambre con la Espa\u00f1a \u201cactual\u201d utilizando una foto real de menores? Este ser\u2026",
+    "truncated": false,
+    "display_text_range": [
+        0,
+        140
+    ],
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "NoaCostas1",
+                "name": "noa costas",
+                "id": 336775526,
+                "id_str": "336775526",
+                "indices": [
+                    3,
+                    14
+                ]
+            }
+        ],
+        "urls": []
+    },
+    "metadata": {
+        "iso_language_code": "es",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 1860227634,
+        "id_str": "1860227634",
+        "name": "mar\u00eda",
+        "screen_name": "mariiamc23",
+        "location": "",
+        "description": "A tientas en un mundo lleno de chispazos\ud83c\udf31",
+        "url": null,
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 250,
+        "friends_count": 199,
+        "listed_count": 1,
+        "created_at": "Fri Sep 13 11:04:45 +0000 2013",
+        "favourites_count": 65372,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 26107,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1414293367324807170/gs6i0pk8_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1414293367324807170/gs6i0pk8_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1860227634/1575646606",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": true,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+        "created_at": "Wed Jul 14 09:41:52 +0000 2021",
+        "id": 1415245149798555648,
+        "id_str": "1415245149798555648",
+        "full_text": "\u00bfEst\u00e1 comparando la Espa\u00f1a de la dictadura y el hambre con la Espa\u00f1a \u201cactual\u201d utilizando una foto real de menores? Este ser que promulga tantos valores y h\u00e1bitos \u201csaludables\u201d es un peligro para la salud mental. https://t.co/1abDW7JRtP",
+        "truncated": false,
+        "display_text_range": [
+            0,
+            210
+        ],
+        "entities": {
+            "hashtags": [],
+            "symbols": [],
+            "user_mentions": [],
+            "urls": [
+                {
+                    "url": "https://t.co/1abDW7JRtP",
+                    "expanded_url": "https://twitter.com/avillegas__/status/1415057290835767298",
+                    "display_url": "twitter.com/avillegas__/st\u2026",
+                    "indices": [
+                        211,
+                        234
+                    ]
+                }
+            ]
+        },
+        "metadata": {
+            "iso_language_code": "es",
+            "result_type": "recent"
+        },
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 336775526,
+            "id_str": "336775526",
+            "name": "noa costas",
+            "screen_name": "NoaCostas1",
+            "location": "",
+            "description": "i'll see you on the dark side of the moon \u2022 filolox\u00eda hisp\u00e1nica \ud83d\udd4a",
+            "url": "https://t.co/DvJNmAtNGe",
+            "entities": {
+                "url": {
+                    "urls": [
+                        {
+                            "url": "https://t.co/DvJNmAtNGe",
+                            "expanded_url": "https://www.instagram.com/noacostas/",
+                            "display_url": "instagram.com/noacostas/",
+                            "indices": [
+                                0,
+                                23
+                            ]
+                        }
+                    ]
+                },
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 823,
+            "friends_count": 283,
+            "listed_count": 2,
+            "created_at": "Sat Jul 16 22:00:54 +0000 2011",
+            "favourites_count": 16190,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": true,
+            "verified": false,
+            "statuses_count": 10100,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "FFFFFF",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": true,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1405870332532174848/c3nwt4fw_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1405870332532174848/c3nwt4fw_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/336775526/1624020896",
+            "profile_link_color": "F5ABB5",
+            "profile_sidebar_border_color": "FFFFFF",
+            "profile_sidebar_fill_color": "FFF7CC",
+            "profile_text_color": "0C3E53",
+            "profile_use_background_image": true,
+            "has_extended_profile": false,
+            "default_profile": false,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none",
+            "withheld_in_countries": []
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": true,
+        "quoted_status_id": 1415057290835767298,
+        "quoted_status_id_str": "1415057290835767298",
+        "quoted_status": {
+            "created_at": "Tue Jul 13 21:15:23 +0000 2021",
+            "id": 1415057290835767298,
+            "id_str": "1415057290835767298",
+            "full_text": "Dictadura s\u00ed, gordos no. https://t.co/yJiV4fW1Ha",
+            "truncated": false,
+            "display_text_range": [
+                0,
+                24
+            ],
+            "entities": {
+                "hashtags": [],
+                "symbols": [],
+                "user_mentions": [],
+                "urls": [],
+                "media": [
+                    {
+                        "id": 1415057282254221312,
+                        "id_str": "1415057282254221312",
+                        "indices": [
+                            25,
+                            48
+                        ],
+                        "media_url": "http://pbs.twimg.com/media/E6NLGdWXsAAO0ar.jpg",
+                        "media_url_https": "https://pbs.twimg.com/media/E6NLGdWXsAAO0ar.jpg",
+                        "url": "https://t.co/yJiV4fW1Ha",
+                        "display_url": "pic.twitter.com/yJiV4fW1Ha",
+                        "expanded_url": "https://twitter.com/avillegas__/status/1415057290835767298/photo/1",
+                        "type": "photo",
+                        "sizes": {
+                            "thumb": {
+                                "w": 150,
+                                "h": 150,
+                                "resize": "crop"
+                            },
+                            "small": {
+                                "w": 482,
+                                "h": 680,
+                                "resize": "fit"
+                            },
+                            "medium": {
+                                "w": 850,
+                                "h": 1200,
+                                "resize": "fit"
+                            },
+                            "large": {
+                                "w": 1124,
+                                "h": 1587,
+                                "resize": "fit"
+                            }
+                        }
+                    }
+                ]
+            },
+            "extended_entities": {
+                "media": [
+                    {
+                        "id": 1415057282254221312,
+                        "id_str": "1415057282254221312",
+                        "indices": [
+                            25,
+                            48
+                        ],
+                        "media_url": "http://pbs.twimg.com/media/E6NLGdWXsAAO0ar.jpg",
+                        "media_url_https": "https://pbs.twimg.com/media/E6NLGdWXsAAO0ar.jpg",
+                        "url": "https://t.co/yJiV4fW1Ha",
+                        "display_url": "pic.twitter.com/yJiV4fW1Ha",
+                        "expanded_url": "https://twitter.com/avillegas__/status/1415057290835767298/photo/1",
+                        "type": "photo",
+                        "sizes": {
+                            "thumb": {
+                                "w": 150,
+                                "h": 150,
+                                "resize": "crop"
+                            },
+                            "small": {
+                                "w": 482,
+                                "h": 680,
+                                "resize": "fit"
+                            },
+                            "medium": {
+                                "w": 850,
+                                "h": 1200,
+                                "resize": "fit"
+                            },
+                            "large": {
+                                "w": 1124,
+                                "h": 1587,
+                                "resize": "fit"
+                            }
+                        }
+                    }
+                ]
+            },
+            "metadata": {
+                "iso_language_code": "es",
+                "result_type": "recent"
+            },
+            "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+            "in_reply_to_status_id": null,
+            "in_reply_to_status_id_str": null,
+            "in_reply_to_user_id": null,
+            "in_reply_to_user_id_str": null,
+            "in_reply_to_screen_name": null,
+            "user": {
+                "id": 441056640,
+                "id_str": "441056640",
+                "name": "Andrea",
+                "screen_name": "avillegas__",
+                "location": "Cuenca, Castilla-La Mancha",
+                "description": "Profe de lengua. Escribo y dirijo la secci\u00f3n de historia contempor\u00e1nea en @Arcdelahistori. Multitasking.",
+                "url": "https://t.co/iyMrLTc4z7",
+                "entities": {
+                    "url": {
+                        "urls": [
+                            {
+                                "url": "https://t.co/iyMrLTc4z7",
+                                "expanded_url": "https://archivoshistoria.com/republica-clandestina-historia-arm/",
+                                "display_url": "archivoshistoria.com/republica-clan\u2026",
+                                "indices": [
+                                    0,
+                                    23
+                                ]
+                            }
+                        ]
+                    },
+                    "description": {
+                        "urls": []
+                    }
+                },
+                "protected": false,
+                "followers_count": 2457,
+                "friends_count": 926,
+                "listed_count": 14,
+                "created_at": "Mon Dec 19 18:00:41 +0000 2011",
+                "favourites_count": 73219,
+                "utc_offset": null,
+                "time_zone": null,
+                "geo_enabled": true,
+                "verified": false,
+                "statuses_count": 49761,
+                "lang": null,
+                "contributors_enabled": false,
+                "is_translator": false,
+                "is_translation_enabled": false,
+                "profile_background_color": "022330",
+                "profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+                "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+                "profile_background_tile": true,
+                "profile_image_url": "http://pbs.twimg.com/profile_images/1373748261220200461/OSYkjNKU_normal.jpg",
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/1373748261220200461/OSYkjNKU_normal.jpg",
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/441056640/1608908376",
+                "profile_link_color": "0084B4",
+                "profile_sidebar_border_color": "FFFFFF",
+                "profile_sidebar_fill_color": "C0DFEC",
+                "profile_text_color": "333333",
+                "profile_use_background_image": true,
+                "has_extended_profile": true,
+                "default_profile": false,
+                "default_profile_image": false,
+                "following": false,
+                "follow_request_sent": false,
+                "notifications": false,
+                "translator_type": "none",
+                "withheld_in_countries": []
+            },
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "contributors": null,
+            "is_quote_status": false,
+            "retweet_count": 1210,
+            "favorite_count": 5972,
+            "favorited": false,
+            "retweeted": false,
+            "possibly_sensitive": false,
+            "lang": "es"
+        },
+        "retweet_count": 166,
+        "favorite_count": 569,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "es"
+    },
+    "is_quote_status": true,
+    "quoted_status_id": 1415057290835767298,
+    "quoted_status_id_str": "1415057290835767298",
+    "retweet_count": 166,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "es"
+}

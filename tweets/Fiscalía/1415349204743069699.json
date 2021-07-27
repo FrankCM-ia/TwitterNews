@@ -1,0 +1,119 @@
+{
+    "created_at": "Wed Jul 14 16:35:20 +0000 2021",
+    "id": 1415349204743069699,
+    "id_str": "1415349204743069699",
+    "full_text": "Hechos en la Cota 905, Magnicidio en Hait\u00ed, Protestas en Cuba, circo predecible de Jorge Joseph Goebbels Rodr\u00edguez, se filtran audios de Su Florentineza, flexibilizaci\u00f3n del bloqueo gringo a Sovietzuela, fiscal\u00eda italiana aprueba extradici\u00f3n a Sovietzuela de R. Ramirez, ...",
+    "truncated": false,
+    "display_text_range": [
+        0,
+        274
+    ],
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+    },
+    "metadata": {
+        "iso_language_code": "es",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 178380939,
+        "id_str": "178380939",
+        "name": "Z\u00e9 Estrada",
+        "screen_name": "ElPercusio",
+        "location": "Ig: @ElPercusio",
+        "description": "Resumiendo... \nQuiero ser baterista de Guillermo Carrasco \u2194\ufe0f @vosto\n#LaM\u00fasicaSalva\n#PalmeroDeChacao \ud83c\udf34",
+        "url": null,
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 445,
+        "friends_count": 1215,
+        "listed_count": 2,
+        "created_at": "Sat Aug 14 16:23:08 +0000 2010",
+        "favourites_count": 13189,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 8963,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "7F7F7F",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+        "profile_background_tile": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1399730544896843780/qoT84KU3_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1399730544896843780/qoT84KU3_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/178380939/1615918806",
+        "profile_link_color": "CD4A12",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "EFEFEF",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": true,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": {
+        "id": "015cbec154ca1c9c",
+        "url": "https://api.twitter.com/1.1/geo/id/015cbec154ca1c9c.json",
+        "place_type": "city",
+        "name": "Chacao",
+        "full_name": "Chacao, Venezuela",
+        "country_code": "VE",
+        "country": "Venezuela",
+        "contained_within": [],
+        "bounding_box": {
+            "type": "Polygon",
+            "coordinates": [
+                [
+                    [
+                        -66.871556,
+                        10.480841
+                    ],
+                    [
+                        -66.842229,
+                        10.480841
+                    ],
+                    [
+                        -66.842229,
+                        10.5143166
+                    ],
+                    [
+                        -66.871556,
+                        10.5143166
+                    ]
+                ]
+            ]
+        },
+        "attributes": {}
+    },
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "es"
+}

@@ -1,0 +1,262 @@
+{
+    "created_at": "Wed Jul 14 18:03:58 +0000 2021",
+    "id": 1415371507111432192,
+    "id_str": "1415371507111432192",
+    "full_text": "RT @JRFB290170: Si es de IZQUIERDA no es DICTADURA, suena como aquel si es de IZQUIERDA no es CORRUPTO!\nSe ENRIEDAN en su PROPIA MADEJA! ht\u2026",
+    "truncated": false,
+    "display_text_range": [
+        0,
+        140
+    ],
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "JRFB290170",
+                "name": "\ud83c\udd79 \ud83c\udd81 \ud83c\udd75 \ud83c\udd71 7 0",
+                "id": 1145295940552708096,
+                "id_str": "1145295940552708096",
+                "indices": [
+                    3,
+                    14
+                ]
+            }
+        ],
+        "urls": []
+    },
+    "metadata": {
+        "iso_language_code": "es",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 1034587133045088256,
+        "id_str": "1034587133045088256",
+        "name": "Callado",
+        "screen_name": "Callado_uru",
+        "location": "",
+        "description": "Trabajador, malhumorado. Descerebrado. Necio intelectual.\n\n #NuncaMasFA #MeQuedoEnCasa",
+        "url": null,
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 2222,
+        "friends_count": 861,
+        "listed_count": 6,
+        "created_at": "Tue Aug 28 23:42:48 +0000 2018",
+        "favourites_count": 228308,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 108394,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": null,
+        "profile_background_image_url_https": null,
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1095710918107893767/DWex4zd2_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1095710918107893767/DWex4zd2_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1034587133045088256/1550071885",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+        "created_at": "Tue Jul 13 20:22:26 +0000 2021",
+        "id": 1415043966525976586,
+        "id_str": "1415043966525976586",
+        "full_text": "Si es de IZQUIERDA no es DICTADURA, suena como aquel si es de IZQUIERDA no es CORRUPTO!\nSe ENRIEDAN en su PROPIA MADEJA! https://t.co/VsI8PkTdKK",
+        "truncated": false,
+        "display_text_range": [
+            0,
+            120
+        ],
+        "entities": {
+            "hashtags": [],
+            "symbols": [],
+            "user_mentions": [],
+            "urls": [],
+            "media": [
+                {
+                    "id": 1415043963036356610,
+                    "id_str": "1415043963036356610",
+                    "indices": [
+                        121,
+                        144
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/E6M-_LZX0AI3XNL.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/E6M-_LZX0AI3XNL.jpg",
+                    "url": "https://t.co/VsI8PkTdKK",
+                    "display_url": "pic.twitter.com/VsI8PkTdKK",
+                    "expanded_url": "https://twitter.com/JRFB290170/status/1415043966525976586/photo/1",
+                    "type": "photo",
+                    "sizes": {
+                        "medium": {
+                            "w": 716,
+                            "h": 865,
+                            "resize": "fit"
+                        },
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "large": {
+                            "w": 716,
+                            "h": 865,
+                            "resize": "fit"
+                        },
+                        "small": {
+                            "w": 563,
+                            "h": 680,
+                            "resize": "fit"
+                        }
+                    }
+                }
+            ]
+        },
+        "extended_entities": {
+            "media": [
+                {
+                    "id": 1415043963036356610,
+                    "id_str": "1415043963036356610",
+                    "indices": [
+                        121,
+                        144
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/E6M-_LZX0AI3XNL.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/E6M-_LZX0AI3XNL.jpg",
+                    "url": "https://t.co/VsI8PkTdKK",
+                    "display_url": "pic.twitter.com/VsI8PkTdKK",
+                    "expanded_url": "https://twitter.com/JRFB290170/status/1415043966525976586/photo/1",
+                    "type": "photo",
+                    "sizes": {
+                        "medium": {
+                            "w": 716,
+                            "h": 865,
+                            "resize": "fit"
+                        },
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "large": {
+                            "w": 716,
+                            "h": 865,
+                            "resize": "fit"
+                        },
+                        "small": {
+                            "w": 563,
+                            "h": 680,
+                            "resize": "fit"
+                        }
+                    }
+                }
+            ]
+        },
+        "metadata": {
+            "iso_language_code": "es",
+            "result_type": "recent"
+        },
+        "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 1145295940552708096,
+            "id_str": "1145295940552708096",
+            "name": "\ud83c\udd79 \ud83c\udd81 \ud83c\udd75 \ud83c\udd71 7 0",
+            "screen_name": "JRFB290170",
+            "location": "San Jose de Mayo - Uruguay",
+            "description": "Bolso y blanco como hueso de bagual!!!\nFanatico de R.E.M.!!!!!! y del buen Rock Alternativo.",
+            "url": null,
+            "entities": {
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 4409,
+            "friends_count": 3053,
+            "listed_count": 5,
+            "created_at": "Sun Jun 30 11:40:05 +0000 2019",
+            "favourites_count": 54668,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": false,
+            "verified": false,
+            "statuses_count": 20559,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "F5F8FA",
+            "profile_background_image_url": null,
+            "profile_background_image_url_https": null,
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1408570855211388940/dLQoAKVj_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1408570855211388940/dLQoAKVj_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/1145295940552708096/1611594877",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "has_extended_profile": true,
+            "default_profile": true,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none",
+            "withheld_in_countries": []
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 42,
+        "favorite_count": 82,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "es"
+    },
+    "is_quote_status": false,
+    "retweet_count": 42,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "es"
+}

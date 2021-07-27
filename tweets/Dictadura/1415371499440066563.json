@@ -1,0 +1,417 @@
+{
+    "created_at": "Wed Jul 14 18:03:56 +0000 2021",
+    "id": 1415371499440066563,
+    "id_str": "1415371499440066563",
+    "full_text": "RT @capitancianuro: Tranqui, la Javiera Parada , la hija de un degollado en la dictadura hoy trabaja en la Campa\u00f1a de Briones ...los padres\u2026",
+    "truncated": false,
+    "display_text_range": [
+        0,
+        140
+    ],
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "capitancianuro",
+                "name": "Capit\u00e1n Cianuro Escritor",
+                "id": 214727609,
+                "id_str": "214727609",
+                "indices": [
+                    3,
+                    18
+                ]
+            }
+        ],
+        "urls": []
+    },
+    "metadata": {
+        "iso_language_code": "es",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 1145136692673671169,
+        "id_str": "1145136692673671169",
+        "name": "Comehojas",
+        "screen_name": "ComehojasCc",
+        "location": "Chill\u00e1n, Chile",
+        "description": "Sin naturaleza no me interesa \ud83c\udff3\ufe0f\u200d\ud83c\udf08cultivo mis derechos, fui n\u00f3made. Bailar\u00edn y profesor de danza/movimiento. Y por si fuera poco, cola, chileno y mugriento.",
+        "url": "https://t.co/q5IwydlvnR",
+        "entities": {
+            "url": {
+                "urls": [
+                    {
+                        "url": "https://t.co/q5IwydlvnR",
+                        "expanded_url": "http://www.instagram.com/comehojas",
+                        "display_url": "instagram.com/comehojas",
+                        "indices": [
+                            0,
+                            23
+                        ]
+                    }
+                ]
+            },
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 616,
+        "friends_count": 1367,
+        "listed_count": 0,
+        "created_at": "Sun Jun 30 01:07:17 +0000 2019",
+        "favourites_count": 57755,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 9079,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": null,
+        "profile_background_image_url_https": null,
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1409959537549918214/ckHYt6TX_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1409959537549918214/ckHYt6TX_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1145136692673671169/1599077541",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": true,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+        "created_at": "Wed Jul 14 18:02:17 +0000 2021",
+        "id": 1415371084086616066,
+        "id_str": "1415371084086616066",
+        "full_text": "Tranqui, la Javiera Parada , la hija de un degollado en la dictadura hoy trabaja en la Campa\u00f1a de Briones ...los padres no son a los hijos como tampoco los hijos son a los padres . https://t.co/t9QfRepomd",
+        "truncated": false,
+        "display_text_range": [
+            0,
+            180
+        ],
+        "entities": {
+            "hashtags": [],
+            "symbols": [],
+            "user_mentions": [],
+            "urls": [
+                {
+                    "url": "https://t.co/t9QfRepomd",
+                    "expanded_url": "https://twitter.com/Chile_Alerta/status/1415369711412514818",
+                    "display_url": "twitter.com/Chile_Alerta/s\u2026",
+                    "indices": [
+                        181,
+                        204
+                    ]
+                }
+            ]
+        },
+        "metadata": {
+            "iso_language_code": "es",
+            "result_type": "recent"
+        },
+        "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 214727609,
+            "id_str": "214727609",
+            "name": "Capit\u00e1n Cianuro Escritor",
+            "screen_name": "capitancianuro",
+            "location": "santiago",
+            "description": "Transportista de letras, Cocinero de historias, Arquitecto de la palabra, abogado de la poes\u00eda, Escritor viajero...\ninstagram @capitancianuroescritor",
+            "url": "https://t.co/zM48yeBobc",
+            "entities": {
+                "url": {
+                    "urls": [
+                        {
+                            "url": "https://t.co/zM48yeBobc",
+                            "expanded_url": "https://www.youtube.com/channel/UCa4d3MKX-16yuYJKii4CIZw?view_as=subscriber",
+                            "display_url": "youtube.com/channel/UCa4d3\u2026",
+                            "indices": [
+                                0,
+                                23
+                            ]
+                        }
+                    ]
+                },
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 2819,
+            "friends_count": 2772,
+            "listed_count": 9,
+            "created_at": "Fri Nov 12 02:35:29 +0000 2010",
+            "favourites_count": 30590,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": true,
+            "verified": false,
+            "statuses_count": 48883,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "642D8B",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme18/bg.gif",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme18/bg.gif",
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1397022316731699202/eh9TFFEa_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1397022316731699202/eh9TFFEa_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/214727609/1621911018",
+            "profile_link_color": "19CF86",
+            "profile_sidebar_border_color": "FFFFFF",
+            "profile_sidebar_fill_color": "7AC3EE",
+            "profile_text_color": "3D1957",
+            "profile_use_background_image": true,
+            "has_extended_profile": true,
+            "default_profile": false,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none",
+            "withheld_in_countries": []
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": true,
+        "quoted_status_id": 1415369711412514818,
+        "quoted_status_id_str": "1415369711412514818",
+        "quoted_status": {
+            "created_at": "Wed Jul 14 17:56:50 +0000 2021",
+            "id": 1415369711412514818,
+            "id_str": "1415369711412514818",
+            "full_text": "El padre de Boric haciendo una dupla de su hijo con Briones, el mismo que celebr\u00f3 la rebaja de 65 lukas para los m\u00e1s vulnerables.\n\u00bfUds creen que Gabriel es diferente? \n#JadueVenceraYSeraHermoso #SeguimosAvanzando https://t.co/Dp4aZLZgVL",
+            "truncated": false,
+            "display_text_range": [
+                0,
+                212
+            ],
+            "entities": {
+                "hashtags": [
+                    {
+                        "text": "JadueVenceraYSeraHermoso",
+                        "indices": [
+                            168,
+                            193
+                        ]
+                    },
+                    {
+                        "text": "SeguimosAvanzando",
+                        "indices": [
+                            194,
+                            212
+                        ]
+                    }
+                ],
+                "symbols": [],
+                "user_mentions": [],
+                "urls": [],
+                "media": [
+                    {
+                        "id": 1415367865721626624,
+                        "id_str": "1415367865721626624",
+                        "indices": [
+                            213,
+                            236
+                        ],
+                        "media_url": "http://pbs.twimg.com/media/E6Rlky7XIAA0aC8.png",
+                        "media_url_https": "https://pbs.twimg.com/media/E6Rlky7XIAA0aC8.png",
+                        "url": "https://t.co/Dp4aZLZgVL",
+                        "display_url": "pic.twitter.com/Dp4aZLZgVL",
+                        "expanded_url": "https://twitter.com/Chile_Alerta/status/1415369711412514818/photo/1",
+                        "type": "photo",
+                        "sizes": {
+                            "small": {
+                                "w": 664,
+                                "h": 336,
+                                "resize": "fit"
+                            },
+                            "large": {
+                                "w": 664,
+                                "h": 336,
+                                "resize": "fit"
+                            },
+                            "thumb": {
+                                "w": 150,
+                                "h": 150,
+                                "resize": "crop"
+                            },
+                            "medium": {
+                                "w": 664,
+                                "h": 336,
+                                "resize": "fit"
+                            }
+                        }
+                    }
+                ]
+            },
+            "extended_entities": {
+                "media": [
+                    {
+                        "id": 1415367865721626624,
+                        "id_str": "1415367865721626624",
+                        "indices": [
+                            213,
+                            236
+                        ],
+                        "media_url": "http://pbs.twimg.com/media/E6Rlky7XIAA0aC8.png",
+                        "media_url_https": "https://pbs.twimg.com/media/E6Rlky7XIAA0aC8.png",
+                        "url": "https://t.co/Dp4aZLZgVL",
+                        "display_url": "pic.twitter.com/Dp4aZLZgVL",
+                        "expanded_url": "https://twitter.com/Chile_Alerta/status/1415369711412514818/photo/1",
+                        "type": "photo",
+                        "sizes": {
+                            "small": {
+                                "w": 664,
+                                "h": 336,
+                                "resize": "fit"
+                            },
+                            "large": {
+                                "w": 664,
+                                "h": 336,
+                                "resize": "fit"
+                            },
+                            "thumb": {
+                                "w": 150,
+                                "h": 150,
+                                "resize": "crop"
+                            },
+                            "medium": {
+                                "w": 664,
+                                "h": 336,
+                                "resize": "fit"
+                            }
+                        }
+                    }
+                ]
+            },
+            "metadata": {
+                "iso_language_code": "es",
+                "result_type": "recent"
+            },
+            "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+            "in_reply_to_status_id": null,
+            "in_reply_to_status_id_str": null,
+            "in_reply_to_user_id": null,
+            "in_reply_to_user_id_str": null,
+            "in_reply_to_screen_name": null,
+            "user": {
+                "id": 472737652,
+                "id_str": "472737652",
+                "name": "\ud83d\udce2ChileAlerta Am\u00e9ricaLatinaUnida #JaduePresidente",
+                "screen_name": "Chile_Alerta",
+                "location": "chile@asambleaconstituyente.cl",
+                "description": "Alir Alamo. \nLa ideolog\u00eda neoliberal favorece intereses de los grupos dominantes. El rico m\u00e1s rico, el pobre m\u00e1s pobre\n                     No al TPP11",
+                "url": "https://t.co/7lx6GiMFGP",
+                "entities": {
+                    "url": {
+                        "urls": [
+                            {
+                                "url": "https://t.co/7lx6GiMFGP",
+                                "expanded_url": "http://www.asambleaconstituyente.cl",
+                                "display_url": "asambleaconstituyente.cl",
+                                "indices": [
+                                    0,
+                                    23
+                                ]
+                            }
+                        ]
+                    },
+                    "description": {
+                        "urls": []
+                    }
+                },
+                "protected": false,
+                "followers_count": 85201,
+                "friends_count": 81541,
+                "listed_count": 137,
+                "created_at": "Tue Jan 24 07:50:17 +0000 2012",
+                "favourites_count": 71993,
+                "utc_offset": null,
+                "time_zone": null,
+                "geo_enabled": false,
+                "verified": false,
+                "statuses_count": 127443,
+                "lang": null,
+                "contributors_enabled": false,
+                "is_translator": false,
+                "is_translation_enabled": false,
+                "profile_background_color": "1A1B1F",
+                "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+                "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+                "profile_background_tile": true,
+                "profile_image_url": "http://pbs.twimg.com/profile_images/1411854718016659458/L6Rk6Rth_normal.jpg",
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/1411854718016659458/L6Rk6Rth_normal.jpg",
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/472737652/1625447084",
+                "profile_link_color": "449933",
+                "profile_sidebar_border_color": "FFFFFF",
+                "profile_sidebar_fill_color": "DDEEF6",
+                "profile_text_color": "333333",
+                "profile_use_background_image": true,
+                "has_extended_profile": false,
+                "default_profile": false,
+                "default_profile_image": false,
+                "following": false,
+                "follow_request_sent": false,
+                "notifications": false,
+                "translator_type": "none",
+                "withheld_in_countries": []
+            },
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "contributors": null,
+            "is_quote_status": false,
+            "retweet_count": 8,
+            "favorite_count": 11,
+            "favorited": false,
+            "retweeted": false,
+            "possibly_sensitive": false,
+            "lang": "es"
+        },
+        "retweet_count": 1,
+        "favorite_count": 1,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "es"
+    },
+    "is_quote_status": true,
+    "quoted_status_id": 1415369711412514818,
+    "quoted_status_id_str": "1415369711412514818",
+    "retweet_count": 1,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "es"
+}

@@ -1,0 +1,227 @@
+{
+    "created_at": "Wed Jul 14 16:26:42 +0000 2021",
+    "id": 1415347029950271498,
+    "id_str": "1415347029950271498",
+    "full_text": "RT @polliforero: \ud83d\udd34La @fiscalia_RMSur present\u00f3 acusaci\u00f3n y pidi\u00f3 12 a\u00f1os de presidio contra el exfutbolista, Luis N\u00fa\u00f1ez, acusado de homicidi\u2026",
+    "truncated": false,
+    "display_text_range": [
+        0,
+        140
+    ],
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "polliforero",
+                "name": "Daniela Forero-Ortiz",
+                "id": 426345316,
+                "id_str": "426345316",
+                "indices": [
+                    3,
+                    15
+                ]
+            },
+            {
+                "screen_name": "fiscalia_RMSur",
+                "name": "Fiscal\u00eda Metropolitana Sur",
+                "id": 882360106054275073,
+                "id_str": "882360106054275073",
+                "indices": [
+                    21,
+                    36
+                ]
+            }
+        ],
+        "urls": []
+    },
+    "metadata": {
+        "iso_language_code": "es",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 60691809,
+        "id_str": "60691809",
+        "name": "Carlos Danilo",
+        "screen_name": "berliot",
+        "location": "Regi\u00f3n de Valpara\u00edso, CL.",
+        "description": "- Periodista sin remedio -",
+        "url": "https://t.co/HVo1RELTz5",
+        "entities": {
+            "url": {
+                "urls": [
+                    {
+                        "url": "https://t.co/HVo1RELTz5",
+                        "expanded_url": "http://www.espacioregional.cl",
+                        "display_url": "espacioregional.cl",
+                        "indices": [
+                            0,
+                            23
+                        ]
+                    }
+                ]
+            },
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 1834,
+        "friends_count": 3033,
+        "listed_count": 22,
+        "created_at": "Mon Jul 27 19:51:41 +0000 2009",
+        "favourites_count": 57881,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 74345,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "F53B23",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1394140857574563849/C2CAWnNr_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1394140857574563849/C2CAWnNr_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/60691809/1404001062",
+        "profile_link_color": "E81C4F",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "E6EAEB",
+        "profile_text_color": "2F570E",
+        "profile_use_background_image": true,
+        "has_extended_profile": true,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+        "created_at": "Wed Jul 14 16:07:21 +0000 2021",
+        "id": 1415342159092387847,
+        "id_str": "1415342159092387847",
+        "full_text": "\ud83d\udd34La @fiscalia_RMSur present\u00f3 acusaci\u00f3n y pidi\u00f3 12 a\u00f1os de presidio contra el exfutbolista, Luis N\u00fa\u00f1ez, acusado de homicidio. El juicio oral se fij\u00f3 para el 23 de agosto. @biobio",
+        "truncated": false,
+        "display_text_range": [
+            0,
+            177
+        ],
+        "entities": {
+            "hashtags": [],
+            "symbols": [],
+            "user_mentions": [
+                {
+                    "screen_name": "fiscalia_RMSur",
+                    "name": "Fiscal\u00eda Metropolitana Sur",
+                    "id": 882360106054275073,
+                    "id_str": "882360106054275073",
+                    "indices": [
+                        4,
+                        19
+                    ]
+                },
+                {
+                    "screen_name": "biobio",
+                    "name": "BioBioChile",
+                    "id": 14638581,
+                    "id_str": "14638581",
+                    "indices": [
+                        170,
+                        177
+                    ]
+                }
+            ],
+            "urls": []
+        },
+        "metadata": {
+            "iso_language_code": "es",
+            "result_type": "recent"
+        },
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 426345316,
+            "id_str": "426345316",
+            "name": "Daniela Forero-Ortiz",
+            "screen_name": "polliforero",
+            "location": "",
+            "description": "Periodista de la radio @biobio. Cubro tribunales. Con post\u00edtulo en Derecho Penal en la U. de Chile. Gatos y monta\u00f1a.",
+            "url": null,
+            "entities": {
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 17873,
+            "friends_count": 2399,
+            "listed_count": 56,
+            "created_at": "Fri Dec 02 03:57:10 +0000 2011",
+            "favourites_count": 6475,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": true,
+            "verified": false,
+            "statuses_count": 27545,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "FF6699",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme11/bg.gif",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme11/bg.gif",
+            "profile_background_tile": true,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1334276158251261954/QXXpnRYz_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1334276158251261954/QXXpnRYz_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/426345316/1583373003",
+            "profile_link_color": "B30D4F",
+            "profile_sidebar_border_color": "FFFFFF",
+            "profile_sidebar_fill_color": "E5507E",
+            "profile_text_color": "362720",
+            "profile_use_background_image": true,
+            "has_extended_profile": true,
+            "default_profile": false,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none",
+            "withheld_in_countries": []
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 10,
+        "favorite_count": 13,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "es"
+    },
+    "is_quote_status": false,
+    "retweet_count": 10,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "es"
+}

@@ -1,0 +1,285 @@
+{
+    "created_at": "Wed Jul 14 16:19:42 +0000 2021",
+    "id": 1415345266568404995,
+    "id_str": "1415345266568404995",
+    "full_text": "RT @PabloEchenique: Con tanto Cuba, a los telediarios no les ha cabido que\u00a0la fiscal\u00eda ha pedido\u00a0imputar, junto\u00a0a\u00a0Villarejo, en el caso del\u2026",
+    "truncated": false,
+    "display_text_range": [
+        0,
+        140
+    ],
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "PabloEchenique",
+                "name": "Pablo Echenique",
+                "id": 25555639,
+                "id_str": "25555639",
+                "indices": [
+                    3,
+                    18
+                ]
+            }
+        ],
+        "urls": []
+    },
+    "metadata": {
+        "iso_language_code": "es",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 955221871,
+        "id_str": "955221871",
+        "name": "antonio iglesias",
+        "screen_name": "anigco",
+        "location": "Malaga",
+        "description": "Malaga, 1955/Asesor Laboral/Experto Universitario en Derecho del Trabajo y Gestion Laboral/Experto Universitario en Seguridad Social",
+        "url": null,
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 937,
+        "friends_count": 1884,
+        "listed_count": 21,
+        "created_at": "Sun Nov 18 10:10:36 +0000 2012",
+        "favourites_count": 19,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 47134,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/923306000630894592/LvYj7QCM_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/923306000630894592/LvYj7QCM_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/955221871/1426113553",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+        "created_at": "Tue Jul 13 15:39:17 +0000 2021",
+        "id": 1414972707905626117,
+        "id_str": "1414972707905626117",
+        "full_text": "Con tanto Cuba, a los telediarios no les ha cabido que\u00a0la fiscal\u00eda ha pedido\u00a0imputar, junto\u00a0a\u00a0Villarejo, en el caso del apu\u00f1alamiento de la doctora Pinto, al ex-amigo \u00edntimo y \"compiyogui\" al que los reyes animaron cuando lo pillaron con las tarjetas Black. C'est la vie. \ud83e\udd37 https://t.co/iGwDbHTnI5",
+        "truncated": false,
+        "display_text_range": [
+            0,
+            273
+        ],
+        "entities": {
+            "hashtags": [],
+            "symbols": [],
+            "user_mentions": [],
+            "urls": [],
+            "media": [
+                {
+                    "id": 1414972646639423493,
+                    "id_str": "1414972646639423493",
+                    "indices": [
+                        274,
+                        297
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/E6L-IBHWUAUH2yj.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/E6L-IBHWUAUH2yj.jpg",
+                    "url": "https://t.co/iGwDbHTnI5",
+                    "display_url": "pic.twitter.com/iGwDbHTnI5",
+                    "expanded_url": "https://twitter.com/PabloEchenique/status/1414972707905626117/photo/1",
+                    "type": "photo",
+                    "sizes": {
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "large": {
+                            "w": 1002,
+                            "h": 760,
+                            "resize": "fit"
+                        },
+                        "medium": {
+                            "w": 1002,
+                            "h": 760,
+                            "resize": "fit"
+                        },
+                        "small": {
+                            "w": 680,
+                            "h": 516,
+                            "resize": "fit"
+                        }
+                    }
+                }
+            ]
+        },
+        "extended_entities": {
+            "media": [
+                {
+                    "id": 1414972646639423493,
+                    "id_str": "1414972646639423493",
+                    "indices": [
+                        274,
+                        297
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/E6L-IBHWUAUH2yj.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/E6L-IBHWUAUH2yj.jpg",
+                    "url": "https://t.co/iGwDbHTnI5",
+                    "display_url": "pic.twitter.com/iGwDbHTnI5",
+                    "expanded_url": "https://twitter.com/PabloEchenique/status/1414972707905626117/photo/1",
+                    "type": "photo",
+                    "sizes": {
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "large": {
+                            "w": 1002,
+                            "h": 760,
+                            "resize": "fit"
+                        },
+                        "medium": {
+                            "w": 1002,
+                            "h": 760,
+                            "resize": "fit"
+                        },
+                        "small": {
+                            "w": 680,
+                            "h": 516,
+                            "resize": "fit"
+                        }
+                    }
+                }
+            ]
+        },
+        "metadata": {
+            "iso_language_code": "es",
+            "result_type": "recent"
+        },
+        "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 25555639,
+            "id_str": "25555639",
+            "name": "Pablo Echenique",
+            "screen_name": "PabloEchenique",
+            "location": "Espa\u00f1a",
+            "description": "Cient\u00edfico del @CSIC. Secr. de Programa de @PODEMOS. Portavoz del grupo parlamentario de Unidas Podemos-ECP-GeC. \u00a1S\u00ed se puede! \ud83d\udcaa\n\nTelegram: https://t.co/8FpnThsrrU",
+            "url": "https://t.co/fUdyLvopD1",
+            "entities": {
+                "url": {
+                    "urls": [
+                        {
+                            "url": "https://t.co/fUdyLvopD1",
+                            "expanded_url": "https://www.facebook.com/pablo.echenique/",
+                            "display_url": "facebook.com/pablo.echeniqu\u2026",
+                            "indices": [
+                                0,
+                                23
+                            ]
+                        }
+                    ]
+                },
+                "description": {
+                    "urls": [
+                        {
+                            "url": "https://t.co/8FpnThsrrU",
+                            "expanded_url": "http://t.me/PabloEchenique",
+                            "display_url": "t.me/PabloEchenique",
+                            "indices": [
+                                140,
+                                163
+                            ]
+                        }
+                    ]
+                }
+            },
+            "protected": false,
+            "followers_count": 585968,
+            "friends_count": 2396,
+            "listed_count": 2912,
+            "created_at": "Fri Mar 20 19:04:44 +0000 2009",
+            "favourites_count": 166,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": false,
+            "verified": true,
+            "statuses_count": 441,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "709397",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+            "profile_background_tile": true,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1414530582592299008/P-Orq00e_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1414530582592299008/P-Orq00e_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/25555639/1620572547",
+            "profile_link_color": "8A008A",
+            "profile_sidebar_border_color": "FFFFFF",
+            "profile_sidebar_fill_color": "A0C5C7",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "has_extended_profile": false,
+            "default_profile": false,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none",
+            "withheld_in_countries": []
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 1204,
+        "favorite_count": 2046,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "es"
+    },
+    "is_quote_status": false,
+    "retweet_count": 1204,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "es"
+}

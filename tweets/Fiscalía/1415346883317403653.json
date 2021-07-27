@@ -1,0 +1,195 @@
+{
+    "created_at": "Wed Jul 14 16:26:07 +0000 2021",
+    "id": 1415346883317403653,
+    "id_str": "1415346883317403653",
+    "full_text": "RT @UldaricoChilito: Entonces a Mar\u00eda Fernanda Cabal la sacaron de la Fiscal\u00eda en el 2007 porque desde su oficina filtraron informaci\u00f3n a N\u2026",
+    "truncated": false,
+    "display_text_range": [
+        0,
+        140
+    ],
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "UldaricoChilito",
+                "name": "U L D A R I C O",
+                "id": 461527998,
+                "id_str": "461527998",
+                "indices": [
+                    3,
+                    19
+                ]
+            }
+        ],
+        "urls": []
+    },
+    "metadata": {
+        "iso_language_code": "es",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 238682666,
+        "id_str": "238682666",
+        "name": "gaston velandia",
+        "screen_name": "gastonvelandia",
+        "location": "Bogot\u00e1, D.C., Colombia",
+        "description": "actor, locutor,  libre pensador, por eso estoy sin trabajo, porque vivo bien.",
+        "url": null,
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 4146,
+        "friends_count": 4914,
+        "listed_count": 1,
+        "created_at": "Sat Jan 15 19:38:09 +0000 2011",
+        "favourites_count": 21265,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 60246,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "FFFFFF",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/3094543431/99322ca529eb3264d5919deadb9e2457_normal.jpeg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/3094543431/99322ca529eb3264d5919deadb9e2457_normal.jpeg",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": true,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+        "created_at": "Tue Jul 13 16:58:53 +0000 2021",
+        "id": 1414992741113663494,
+        "id_str": "1414992741113663494",
+        "full_text": "Entonces a Mar\u00eda Fernanda Cabal la sacaron de la Fiscal\u00eda en el 2007 porque desde su oficina filtraron informaci\u00f3n a Narcotr\u00e1ficantes. Finjamos sorpresa.",
+        "truncated": false,
+        "display_text_range": [
+            0,
+            153
+        ],
+        "entities": {
+            "hashtags": [],
+            "symbols": [],
+            "user_mentions": [],
+            "urls": []
+        },
+        "metadata": {
+            "iso_language_code": "es",
+            "result_type": "recent"
+        },
+        "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 461527998,
+            "id_str": "461527998",
+            "name": "U L D A R I C O",
+            "screen_name": "UldaricoChilito",
+            "location": "Boyac\u00e1, Colombia",
+            "description": "Excandidato a la Asamblea.\nExRepresentante Estudiantil UPTC.\nIng Industrial.\nEspecialista,Planeaci\u00f3n y Gesti\u00f3n del Desarrollo Territorial.\nProgresista|Activista",
+            "url": "https://t.co/EhaKuvjMB6",
+            "entities": {
+                "url": {
+                    "urls": [
+                        {
+                            "url": "https://t.co/EhaKuvjMB6",
+                            "expanded_url": "https://www.facebook.com/ULDARICORAMIREZ11/",
+                            "display_url": "facebook.com/ULDARICORAMIRE\u2026",
+                            "indices": [
+                                0,
+                                23
+                            ]
+                        }
+                    ]
+                },
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 59682,
+            "friends_count": 5272,
+            "listed_count": 60,
+            "created_at": "Wed Jan 11 22:13:36 +0000 2012",
+            "favourites_count": 48789,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": true,
+            "verified": false,
+            "statuses_count": 13628,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "C0DEED",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1389825503641624583/P7ng4xfc_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1389825503641624583/P7ng4xfc_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/461527998/1620195703",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "has_extended_profile": false,
+            "default_profile": true,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none",
+            "withheld_in_countries": []
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 2408,
+        "favorite_count": 5734,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "es"
+    },
+    "is_quote_status": false,
+    "retweet_count": 2408,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "es"
+}

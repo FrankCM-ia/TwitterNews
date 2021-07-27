@@ -1,0 +1,197 @@
+{
+    "created_at": "Wed Jul 14 16:19:47 +0000 2021",
+    "id": 1415345288890421259,
+    "id_str": "1415345288890421259",
+    "full_text": "RT @ChristCritic: \"Por favor, eliminen los mensajes que contengan material electoral y los colgaron en las redes sociales. La Fiscal\u00eda va a\u2026",
+    "truncated": false,
+    "display_text_range": [
+        0,
+        140
+    ],
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "ChristCritic",
+                "name": "Christian",
+                "id": 85461937,
+                "id_str": "85461937",
+                "indices": [
+                    3,
+                    16
+                ]
+            }
+        ],
+        "urls": []
+    },
+    "metadata": {
+        "iso_language_code": "es",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 1407105212649725954,
+        "id_str": "1407105212649725954",
+        "name": "La Verdad No S\u00e9",
+        "screen_name": "LaVerdadNoS2",
+        "location": "",
+        "description": "Djdbdjdbdnfjffbfjfjfjd",
+        "url": null,
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 10,
+        "friends_count": 21,
+        "listed_count": 0,
+        "created_at": "Mon Jun 21 22:36:52 +0000 2021",
+        "favourites_count": 1308,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 1178,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": null,
+        "profile_background_image_url_https": null,
+        "profile_background_tile": false,
+        "profile_image_url": "http://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+        "profile_image_url_https": "https://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": true,
+        "default_profile": true,
+        "default_profile_image": true,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+        "created_at": "Wed Jul 14 16:15:11 +0000 2021",
+        "id": 1415344131753357313,
+        "id_str": "1415344131753357313",
+        "full_text": "\"Por favor, eliminen los mensajes que contengan material electoral y los colgaron en las redes sociales. La Fiscal\u00eda va a levantar para aquellas mesas...\u201d\n\n#DinamicosDelFraude\n#FueraSagastiHDP",
+        "truncated": false,
+        "display_text_range": [
+            0,
+            192
+        ],
+        "entities": {
+            "hashtags": [
+                {
+                    "text": "DinamicosDelFraude",
+                    "indices": [
+                        156,
+                        175
+                    ]
+                },
+                {
+                    "text": "FueraSagastiHDP",
+                    "indices": [
+                        176,
+                        192
+                    ]
+                }
+            ],
+            "symbols": [],
+            "user_mentions": [],
+            "urls": []
+        },
+        "metadata": {
+            "iso_language_code": "es",
+            "result_type": "recent"
+        },
+        "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 85461937,
+            "id_str": "85461937",
+            "name": "Christian",
+            "screen_name": "ChristCritic",
+            "location": "",
+            "description": "Satisfecho por estar del lado correcto de la historia.",
+            "url": null,
+            "entities": {
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 756,
+            "friends_count": 718,
+            "listed_count": 4,
+            "created_at": "Tue Oct 27 00:48:20 +0000 2009",
+            "favourites_count": 76588,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": false,
+            "verified": false,
+            "statuses_count": 35055,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "C0DEED",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1411683603965218819/jDqFDKwB_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1411683603965218819/jDqFDKwB_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/85461937/1623868871",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "has_extended_profile": false,
+            "default_profile": true,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none",
+            "withheld_in_countries": []
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 1,
+        "favorite_count": 2,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "es"
+    },
+    "is_quote_status": false,
+    "retweet_count": 1,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "es"
+}

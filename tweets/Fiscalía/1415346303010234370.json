@@ -1,0 +1,190 @@
+{
+    "created_at": "Wed Jul 14 16:23:49 +0000 2021",
+    "id": 1415346303010234370,
+    "id_str": "1415346303010234370",
+    "full_text": "RT @JoviNomas: Fiscal\u00eda confirma que encontraron a joven machi de 16 a\u00f1os de Nueva Imperial que estaba desaparecido desde el s\u00e1bado.\n#Donde\u2026",
+    "truncated": false,
+    "display_text_range": [
+        0,
+        140
+    ],
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "JoviNomas",
+                "name": "HonorYGloria\u2665\ufe0f\u2698",
+                "id": 1006903760487006209,
+                "id_str": "1006903760487006209",
+                "indices": [
+                    3,
+                    13
+                ]
+            }
+        ],
+        "urls": []
+    },
+    "metadata": {
+        "iso_language_code": "es",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 1096215368358608897,
+        "id_str": "1096215368358608897",
+        "name": "Luis Carrasco Cueto",
+        "screen_name": "carrasco_cueto",
+        "location": "",
+        "description": "simpre por la izquierda, marzo del 65",
+        "url": null,
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 238,
+        "friends_count": 567,
+        "listed_count": 0,
+        "created_at": "Fri Feb 15 01:11:25 +0000 2019",
+        "favourites_count": 52680,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 34846,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": null,
+        "profile_background_image_url_https": null,
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1410697900171083780/pr8AhK9r_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1410697900171083780/pr8AhK9r_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+        "created_at": "Wed Jul 14 15:58:53 +0000 2021",
+        "id": 1415340030265118724,
+        "id_str": "1415340030265118724",
+        "full_text": "Fiscal\u00eda confirma que encontraron a joven machi de 16 a\u00f1os de Nueva Imperial que estaba desaparecido desde el s\u00e1bado.\n#DondeEstaElMachi",
+        "truncated": false,
+        "display_text_range": [
+            0,
+            135
+        ],
+        "entities": {
+            "hashtags": [
+                {
+                    "text": "DondeEstaElMachi",
+                    "indices": [
+                        118,
+                        135
+                    ]
+                }
+            ],
+            "symbols": [],
+            "user_mentions": [],
+            "urls": []
+        },
+        "metadata": {
+            "iso_language_code": "es",
+            "result_type": "recent"
+        },
+        "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 1006903760487006209,
+            "id_str": "1006903760487006209",
+            "name": "HonorYGloria\u2665\ufe0f\u2698",
+            "screen_name": "JoviNomas",
+            "location": "Constelaci\u00f3n de Ori\u00f3n \u2b50",
+            "description": "Bajo el cielo de Mosc\u00fa.\nMilitante del dolor, el amor y la Revoluci\u00f3n \u2764\ud83d\udd25",
+            "url": null,
+            "entities": {
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 16667,
+            "friends_count": 1654,
+            "listed_count": 24,
+            "created_at": "Wed Jun 13 14:18:58 +0000 2018",
+            "favourites_count": 159667,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": true,
+            "verified": false,
+            "statuses_count": 97977,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "F5F8FA",
+            "profile_background_image_url": null,
+            "profile_background_image_url_https": null,
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1415340457467518980/90Di6cnZ_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1415340457467518980/90Di6cnZ_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/1006903760487006209/1612753470",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "has_extended_profile": false,
+            "default_profile": true,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none",
+            "withheld_in_countries": []
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 23,
+        "favorite_count": 84,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "es"
+    },
+    "is_quote_status": false,
+    "retweet_count": 23,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "es"
+}

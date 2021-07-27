@@ -1,0 +1,293 @@
+{
+    "created_at": "Wed Jul 14 16:34:28 +0000 2021",
+    "id": 1415348984726663173,
+    "id_str": "1415348984726663173",
+    "full_text": "RT @MeteoAero: La Fiscal\u00eda italiana expresa opini\u00f3n favorable a la extradici\u00f3n a Venezuela de Rafael Ram\u00edrez, expresidente de PDVSA\n#14Juli\u2026",
+    "truncated": false,
+    "display_text_range": [
+        0,
+        140
+    ],
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "MeteoAero",
+                "name": "Pedro Jaimes Criollo",
+                "id": 1196407146142928897,
+                "id_str": "1196407146142928897",
+                "indices": [
+                    3,
+                    13
+                ]
+            }
+        ],
+        "urls": []
+    },
+    "metadata": {
+        "iso_language_code": "es",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 822295939,
+        "id_str": "822295939",
+        "name": "virginia",
+        "screen_name": "virginiamp49",
+        "location": "Cuenca - Ecuador",
+        "description": "Opuesta a toda forma de mesianismo , militarismo o culto a las g\u00f3nadas.",
+        "url": null,
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 1749,
+        "friends_count": 957,
+        "listed_count": 24,
+        "created_at": "Thu Sep 13 22:37:58 +0000 2012",
+        "favourites_count": 21084,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 267789,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1390792555982467072/jP6vWbre_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1390792555982467072/jP6vWbre_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/822295939/1620425762",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": true,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+        "created_at": "Wed Jul 14 16:15:23 +0000 2021",
+        "id": 1415344183183912962,
+        "id_str": "1415344183183912962",
+        "full_text": "La Fiscal\u00eda italiana expresa opini\u00f3n favorable a la extradici\u00f3n a Venezuela de Rafael Ram\u00edrez, expresidente de PDVSA\n#14Julio https://t.co/lDwmpWyFBg",
+        "truncated": false,
+        "display_text_range": [
+            0,
+            125
+        ],
+        "entities": {
+            "hashtags": [
+                {
+                    "text": "14Julio",
+                    "indices": [
+                        117,
+                        125
+                    ]
+                }
+            ],
+            "symbols": [],
+            "user_mentions": [],
+            "urls": [],
+            "media": [
+                {
+                    "id": 1415344137126260742,
+                    "id_str": "1415344137126260742",
+                    "indices": [
+                        126,
+                        149
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/E6RP_nBXsAYxiXw.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/E6RP_nBXsAYxiXw.jpg",
+                    "url": "https://t.co/lDwmpWyFBg",
+                    "display_url": "pic.twitter.com/lDwmpWyFBg",
+                    "expanded_url": "https://twitter.com/MeteoAero/status/1415344183183912962/photo/1",
+                    "type": "photo",
+                    "sizes": {
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "small": {
+                            "w": 483,
+                            "h": 680,
+                            "resize": "fit"
+                        },
+                        "medium": {
+                            "w": 522,
+                            "h": 735,
+                            "resize": "fit"
+                        },
+                        "large": {
+                            "w": 522,
+                            "h": 735,
+                            "resize": "fit"
+                        }
+                    }
+                }
+            ]
+        },
+        "extended_entities": {
+            "media": [
+                {
+                    "id": 1415344137126260742,
+                    "id_str": "1415344137126260742",
+                    "indices": [
+                        126,
+                        149
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/E6RP_nBXsAYxiXw.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/E6RP_nBXsAYxiXw.jpg",
+                    "url": "https://t.co/lDwmpWyFBg",
+                    "display_url": "pic.twitter.com/lDwmpWyFBg",
+                    "expanded_url": "https://twitter.com/MeteoAero/status/1415344183183912962/photo/1",
+                    "type": "photo",
+                    "sizes": {
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "small": {
+                            "w": 483,
+                            "h": 680,
+                            "resize": "fit"
+                        },
+                        "medium": {
+                            "w": 522,
+                            "h": 735,
+                            "resize": "fit"
+                        },
+                        "large": {
+                            "w": 522,
+                            "h": 735,
+                            "resize": "fit"
+                        }
+                    }
+                }
+            ]
+        },
+        "metadata": {
+            "iso_language_code": "es",
+            "result_type": "recent"
+        },
+        "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 1196407146142928897,
+            "id_str": "1196407146142928897",
+            "name": "Pedro Jaimes Criollo",
+            "screen_name": "MeteoAero",
+            "location": "Caracas",
+            "description": "Preso Pol\u00edtico Helicoide | Activista #DDHH  | Oficina del Alto Comisionado de las Naciones Unidas OHCHR https://t.co/uVPpqM1kKu (p\u00e1gina 172) Pedro Jaimes Criollo",
+            "url": "https://t.co/zogAXOSE30",
+            "entities": {
+                "url": {
+                    "urls": [
+                        {
+                            "url": "https://t.co/zogAXOSE30",
+                            "expanded_url": "http://espaciopublico.ong/?s=pedro+jaimes#.XdKXF7LPw1k",
+                            "display_url": "espaciopublico.ong/?s=pedro+jaime\u2026",
+                            "indices": [
+                                0,
+                                23
+                            ]
+                        }
+                    ]
+                },
+                "description": {
+                    "urls": [
+                        {
+                            "url": "https://t.co/uVPpqM1kKu",
+                            "expanded_url": "http://bit.ly/3fRmGj4",
+                            "display_url": "bit.ly/3fRmGj4",
+                            "indices": [
+                                104,
+                                127
+                            ]
+                        }
+                    ]
+                }
+            },
+            "protected": false,
+            "followers_count": 8883,
+            "friends_count": 37,
+            "listed_count": 14,
+            "created_at": "Mon Nov 18 12:38:01 +0000 2019",
+            "favourites_count": 23259,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": false,
+            "verified": false,
+            "statuses_count": 11781,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "F5F8FA",
+            "profile_background_image_url": null,
+            "profile_background_image_url_https": null,
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1345130824530849795/DLy7p3_O_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1345130824530849795/DLy7p3_O_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/1196407146142928897/1598543890",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "has_extended_profile": false,
+            "default_profile": true,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none",
+            "withheld_in_countries": []
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 15,
+        "favorite_count": 8,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "es"
+    },
+    "is_quote_status": false,
+    "retweet_count": 15,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "es"
+}

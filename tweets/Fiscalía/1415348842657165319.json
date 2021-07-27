@@ -1,0 +1,319 @@
+{
+    "created_at": "Wed Jul 14 16:33:54 +0000 2021",
+    "id": 1415348842657165319,
+    "id_str": "1415348842657165319",
+    "full_text": "RT @ViceVenezuela: #AsiLoDijo || Presidente de la AN, @jorgerpsuv: Imagino que luego de esta denuncia la Fiscal\u00eda General dictar\u00e1 medida de\u2026",
+    "truncated": false,
+    "display_text_range": [
+        0,
+        140
+    ],
+    "entities": {
+        "hashtags": [
+            {
+                "text": "AsiLoDijo",
+                "indices": [
+                    19,
+                    29
+                ]
+            }
+        ],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "ViceVenezuela",
+                "name": "Vicepresidencia Vzla",
+                "id": 308699483,
+                "id_str": "308699483",
+                "indices": [
+                    3,
+                    17
+                ]
+            },
+            {
+                "screen_name": "jorgerpsuv",
+                "name": "Jorge Rodr\u00edguez",
+                "id": 109601997,
+                "id_str": "109601997",
+                "indices": [
+                    54,
+                    65
+                ]
+            }
+        ],
+        "urls": []
+    },
+    "metadata": {
+        "iso_language_code": "es",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 3328580213,
+        "id_str": "3328580213",
+        "name": "#\ud835\udd3c\ud835\udd44\ud835\udd44\ud835\udd38 \ud835\udd3b\ud835\udd40\ud835\udd38\u2124\u262d",
+        "screen_name": "RevolucionTacH",
+        "location": "#SanCrist\u00f3balEstadoT\u00e1chiraVzla",
+        "description": "MADRE, HERMANA, AMIGA Y EDUCADORA\nMiembro dla #UbchPedroMariaMorantes\nMiembro de la UNIDAD POPULAR DE DEFENSA INTEGRAL, MILICIANA S/2 y CUADRANTES DE PAZ",
+        "url": null,
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 419,
+        "friends_count": 806,
+        "listed_count": 7,
+        "created_at": "Tue Jun 16 03:44:11 +0000 2015",
+        "favourites_count": 5854,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 32173,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1297672999261343744/fonFCUnP_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1297672999261343744/fonFCUnP_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/3328580213/1434428916",
+        "profile_link_color": "DD2E44",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "profile_use_background_image": false,
+        "has_extended_profile": true,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+        "created_at": "Tue Jul 13 18:05:17 +0000 2021",
+        "id": 1415009453582258177,
+        "id_str": "1415009453582258177",
+        "full_text": "#AsiLoDijo || Presidente de la AN, @jorgerpsuv: Imagino que luego de esta denuncia la Fiscal\u00eda General dictar\u00e1 medida de aprehensi\u00f3n contra Gilber Caro, Iglesias, Grater\u00f3n y Somaza. \n\n#Di\u00e1logoPorLaPaz https://t.co/5H3r553WcU",
+        "truncated": false,
+        "display_text_range": [
+            0,
+            200
+        ],
+        "entities": {
+            "hashtags": [
+                {
+                    "text": "AsiLoDijo",
+                    "indices": [
+                        0,
+                        10
+                    ]
+                },
+                {
+                    "text": "Di\u00e1logoPorLaPaz",
+                    "indices": [
+                        184,
+                        200
+                    ]
+                }
+            ],
+            "symbols": [],
+            "user_mentions": [
+                {
+                    "screen_name": "jorgerpsuv",
+                    "name": "Jorge Rodr\u00edguez",
+                    "id": 109601997,
+                    "id_str": "109601997",
+                    "indices": [
+                        35,
+                        46
+                    ]
+                }
+            ],
+            "urls": [],
+            "media": [
+                {
+                    "id": 1415009451061428226,
+                    "id_str": "1415009451061428226",
+                    "indices": [
+                        201,
+                        224
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/E6MfmURWQAIKr5z.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/E6MfmURWQAIKr5z.jpg",
+                    "url": "https://t.co/5H3r553WcU",
+                    "display_url": "pic.twitter.com/5H3r553WcU",
+                    "expanded_url": "https://twitter.com/ViceVenezuela/status/1415009453582258177/photo/1",
+                    "type": "photo",
+                    "sizes": {
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "medium": {
+                            "w": 960,
+                            "h": 640,
+                            "resize": "fit"
+                        },
+                        "large": {
+                            "w": 960,
+                            "h": 640,
+                            "resize": "fit"
+                        },
+                        "small": {
+                            "w": 680,
+                            "h": 453,
+                            "resize": "fit"
+                        }
+                    }
+                }
+            ]
+        },
+        "extended_entities": {
+            "media": [
+                {
+                    "id": 1415009451061428226,
+                    "id_str": "1415009451061428226",
+                    "indices": [
+                        201,
+                        224
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/E6MfmURWQAIKr5z.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/E6MfmURWQAIKr5z.jpg",
+                    "url": "https://t.co/5H3r553WcU",
+                    "display_url": "pic.twitter.com/5H3r553WcU",
+                    "expanded_url": "https://twitter.com/ViceVenezuela/status/1415009453582258177/photo/1",
+                    "type": "photo",
+                    "sizes": {
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "medium": {
+                            "w": 960,
+                            "h": 640,
+                            "resize": "fit"
+                        },
+                        "large": {
+                            "w": 960,
+                            "h": 640,
+                            "resize": "fit"
+                        },
+                        "small": {
+                            "w": 680,
+                            "h": 453,
+                            "resize": "fit"
+                        }
+                    }
+                }
+            ]
+        },
+        "metadata": {
+            "iso_language_code": "es",
+            "result_type": "recent"
+        },
+        "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 308699483,
+            "id_str": "308699483",
+            "name": "Vicepresidencia Vzla",
+            "screen_name": "ViceVenezuela",
+            "location": "Caracas - Venezuela",
+            "description": "Cuenta Oficial de la Vicepresidencia de la Rep\u00fablica Bolivariana de Venezuela | Independencia y Patria Socialista",
+            "url": "https://t.co/vuDLIrxEoW",
+            "entities": {
+                "url": {
+                    "urls": [
+                        {
+                            "url": "https://t.co/vuDLIrxEoW",
+                            "expanded_url": "http://www.vicepresidencia.gob.ve",
+                            "display_url": "vicepresidencia.gob.ve",
+                            "indices": [
+                                0,
+                                23
+                            ]
+                        }
+                    ]
+                },
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 353945,
+            "friends_count": 1098,
+            "listed_count": 82,
+            "created_at": "Tue May 31 21:09:35 +0000 2011",
+            "favourites_count": 9764,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": true,
+            "verified": false,
+            "statuses_count": 127722,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "0C329D",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1017148647090290688/aeR7-cHM_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1017148647090290688/aeR7-cHM_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/308699483/1618501874",
+            "profile_link_color": "AD0E16",
+            "profile_sidebar_border_color": "FFFFFF",
+            "profile_sidebar_fill_color": "EFEFEF",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "has_extended_profile": false,
+            "default_profile": false,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none",
+            "withheld_in_countries": []
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 36,
+        "favorite_count": 25,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "es"
+    },
+    "is_quote_status": false,
+    "retweet_count": 36,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "es"
+}

@@ -1,0 +1,305 @@
+{
+    "created_at": "Wed Jul 14 18:03:53 +0000 2021",
+    "id": 1415371488996233216,
+    "id_str": "1415371488996233216",
+    "full_text": "Pedro  Macri sabe que Cuba es una dictadura. https://t.co/bjfw5XzFLW",
+    "truncated": false,
+    "display_text_range": [
+        0,
+        44
+    ],
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+            {
+                "url": "https://t.co/bjfw5XzFLW",
+                "expanded_url": "https://twitter.com/SergioFDoormann/status/1415357588951216128",
+                "display_url": "twitter.com/SergioFDoorman\u2026",
+                "indices": [
+                    45,
+                    68
+                ]
+            }
+        ]
+    },
+    "metadata": {
+        "iso_language_code": "es",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 240346148,
+        "id_str": "240346148",
+        "name": "Elisa Boberg",
+        "screen_name": "Elisabobergpast",
+        "location": "Madrid, Comunidad de Madrid",
+        "description": "y en el mundo, en conclusi\u00f3n,todos sue\u00f1an lo que son,aunque ninguno lo entiende..",
+        "url": null,
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 1517,
+        "friends_count": 2341,
+        "listed_count": 13,
+        "created_at": "Wed Jan 19 18:23:44 +0000 2011",
+        "favourites_count": 144336,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 86072,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/735451342622318592/2vRRBAwf_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/735451342622318592/2vRRBAwf_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": true,
+    "quoted_status_id": 1415357588951216128,
+    "quoted_status_id_str": "1415357588951216128",
+    "quoted_status": {
+        "created_at": "Wed Jul 14 17:08:39 +0000 2021",
+        "id": 1415357588951216128,
+        "id_str": "1415357588951216128",
+        "full_text": "@diegosantilli Macri dijo dictadura. https://t.co/X3KRJDHzNz",
+        "truncated": false,
+        "display_text_range": [
+            15,
+            36
+        ],
+        "entities": {
+            "hashtags": [],
+            "symbols": [],
+            "user_mentions": [
+                {
+                    "screen_name": "diegosantilli",
+                    "name": "Diego Santilli",
+                    "id": 34455479,
+                    "id_str": "34455479",
+                    "indices": [
+                        0,
+                        14
+                    ]
+                }
+            ],
+            "urls": [],
+            "media": [
+                {
+                    "id": 1415357478603210753,
+                    "id_str": "1415357478603210753",
+                    "indices": [
+                        37,
+                        60
+                    ],
+                    "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1415357478603210753/pu/img/0vbsLFX3xggbuU9c.jpg",
+                    "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1415357478603210753/pu/img/0vbsLFX3xggbuU9c.jpg",
+                    "url": "https://t.co/X3KRJDHzNz",
+                    "display_url": "pic.twitter.com/X3KRJDHzNz",
+                    "expanded_url": "https://twitter.com/SergioFDoormann/status/1415357588951216128/video/1",
+                    "type": "photo",
+                    "sizes": {
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "medium": {
+                            "w": 496,
+                            "h": 480,
+                            "resize": "fit"
+                        },
+                        "small": {
+                            "w": 496,
+                            "h": 480,
+                            "resize": "fit"
+                        },
+                        "large": {
+                            "w": 496,
+                            "h": 480,
+                            "resize": "fit"
+                        }
+                    }
+                }
+            ]
+        },
+        "extended_entities": {
+            "media": [
+                {
+                    "id": 1415357478603210753,
+                    "id_str": "1415357478603210753",
+                    "indices": [
+                        37,
+                        60
+                    ],
+                    "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1415357478603210753/pu/img/0vbsLFX3xggbuU9c.jpg",
+                    "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1415357478603210753/pu/img/0vbsLFX3xggbuU9c.jpg",
+                    "url": "https://t.co/X3KRJDHzNz",
+                    "display_url": "pic.twitter.com/X3KRJDHzNz",
+                    "expanded_url": "https://twitter.com/SergioFDoormann/status/1415357588951216128/video/1",
+                    "type": "video",
+                    "sizes": {
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "medium": {
+                            "w": 496,
+                            "h": 480,
+                            "resize": "fit"
+                        },
+                        "small": {
+                            "w": 496,
+                            "h": 480,
+                            "resize": "fit"
+                        },
+                        "large": {
+                            "w": 496,
+                            "h": 480,
+                            "resize": "fit"
+                        }
+                    },
+                    "video_info": {
+                        "aspect_ratio": [
+                            31,
+                            30
+                        ],
+                        "duration_millis": 40220,
+                        "variants": [
+                            {
+                                "content_type": "application/x-mpegURL",
+                                "url": "https://video.twimg.com/ext_tw_video/1415357478603210753/pu/pl/da3FPXrXdbr57D0c.m3u8?tag=12&container=fmp4"
+                            },
+                            {
+                                "bitrate": 2176000,
+                                "content_type": "video/mp4",
+                                "url": "https://video.twimg.com/ext_tw_video/1415357478603210753/pu/vid/496x480/W7SDPw5kvUAnGUUo.mp4?tag=12"
+                            },
+                            {
+                                "bitrate": 832000,
+                                "content_type": "video/mp4",
+                                "url": "https://video.twimg.com/ext_tw_video/1415357478603210753/pu/vid/372x360/U5lmPEinRZbVdGTL.mp4?tag=12"
+                            },
+                            {
+                                "bitrate": 256000,
+                                "content_type": "video/mp4",
+                                "url": "https://video.twimg.com/ext_tw_video/1415357478603210753/pu/vid/278x270/MyCII-6rPorPdtmt.mp4?tag=12"
+                            }
+                        ]
+                    },
+                    "additional_media_info": {
+                        "monetizable": false
+                    }
+                }
+            ]
+        },
+        "metadata": {
+            "iso_language_code": "es",
+            "result_type": "recent"
+        },
+        "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+        "in_reply_to_status_id": 1415346109023768581,
+        "in_reply_to_status_id_str": "1415346109023768581",
+        "in_reply_to_user_id": 34455479,
+        "in_reply_to_user_id_str": "34455479",
+        "in_reply_to_screen_name": "diegosantilli",
+        "user": {
+            "id": 1545719215,
+            "id_str": "1545719215",
+            "name": "SergioFabi\u00e1nDoormann",
+            "screen_name": "SergioFDoormann",
+            "location": "San Mart\u00edn. Prov. Bs. As.",
+            "description": "Abogado. Afiliado al PRO Agrupaci\u00f3n Ciudadana. #JusticiaIndependiente y libre expresi\u00f3n. #PreguntaleAHomelandSecurity Chau fachos de la malversada #PatriaGrande",
+            "url": null,
+            "entities": {
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 10332,
+            "friends_count": 2653,
+            "listed_count": 36,
+            "created_at": "Tue Jun 25 13:08:06 +0000 2013",
+            "favourites_count": 140534,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": true,
+            "verified": false,
+            "statuses_count": 168913,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "C0DEED",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1187405542748295168/18Ks7cM1_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1187405542748295168/18Ks7cM1_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/1545719215/1571224918",
+            "profile_link_color": "0084B4",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "has_extended_profile": false,
+            "default_profile": false,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none",
+            "withheld_in_countries": []
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 12,
+        "favorite_count": 37,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "es"
+    },
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "es"
+}

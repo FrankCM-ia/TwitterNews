@@ -1,0 +1,300 @@
+{
+    "created_at": "Wed Jul 14 16:35:26 +0000 2021",
+    "id": 1415349226645639170,
+    "id_str": "1415349226645639170",
+    "full_text": "RT @hackersepulveda: Comunicado P\u00fablico acerca de mi llamado a declarar ante la Fiscal\u00eda General de la Naci\u00f3n en el caso del ex presidente\u2026",
+    "truncated": false,
+    "display_text_range": [
+        0,
+        139
+    ],
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "hackersepulveda",
+                "name": "\ud83c\udff4\u200d\u2620\ufe0f Hacker Sep\u00falveda \ud83c\udff4\u200d\u2620\ufe0f",
+                "id": 2869710573,
+                "id_str": "2869710573",
+                "indices": [
+                    3,
+                    19
+                ]
+            }
+        ],
+        "urls": []
+    },
+    "metadata": {
+        "iso_language_code": "es",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 1317100005833007110,
+        "id_str": "1317100005833007110",
+        "name": "William",
+        "screen_name": "William27027831",
+        "location": "",
+        "description": "trabajat",
+        "url": null,
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 2,
+        "friends_count": 20,
+        "listed_count": 0,
+        "created_at": "Fri Oct 16 13:48:36 +0000 2020",
+        "favourites_count": 168,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 43,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": null,
+        "profile_background_image_url_https": null,
+        "profile_background_tile": false,
+        "profile_image_url": "http://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+        "profile_image_url_https": "https://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": true,
+        "default_profile": true,
+        "default_profile_image": true,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+        "created_at": "Sat Jul 10 13:22:44 +0000 2021",
+        "id": 1413851182217535490,
+        "id_str": "1413851182217535490",
+        "full_text": "Comunicado P\u00fablico acerca de mi llamado a declarar ante la Fiscal\u00eda General de la Naci\u00f3n en el caso del ex presidente Uribe y las presiones que sufr\u00ed para acusarlo falsamente a \u00e9l, a otros miembros de la campa\u00f1a e, incluso, autoinculparme en delitos que no existen en Colombia. https://t.co/Vol4KToeLE",
+        "truncated": false,
+        "display_text_range": [
+            0,
+            277
+        ],
+        "entities": {
+            "hashtags": [],
+            "symbols": [],
+            "user_mentions": [],
+            "urls": [],
+            "media": [
+                {
+                    "id": 1413851012209811457,
+                    "id_str": "1413851012209811457",
+                    "indices": [
+                        278,
+                        301
+                    ],
+                    "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1413851012209811457/pu/img/jfcHpxx4KE_Jz117.jpg",
+                    "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1413851012209811457/pu/img/jfcHpxx4KE_Jz117.jpg",
+                    "url": "https://t.co/Vol4KToeLE",
+                    "display_url": "pic.twitter.com/Vol4KToeLE",
+                    "expanded_url": "https://twitter.com/hackersepulveda/status/1413851182217535490/video/1",
+                    "type": "photo",
+                    "sizes": {
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "small": {
+                            "w": 640,
+                            "h": 352,
+                            "resize": "fit"
+                        },
+                        "medium": {
+                            "w": 640,
+                            "h": 352,
+                            "resize": "fit"
+                        },
+                        "large": {
+                            "w": 640,
+                            "h": 352,
+                            "resize": "fit"
+                        }
+                    }
+                }
+            ]
+        },
+        "extended_entities": {
+            "media": [
+                {
+                    "id": 1413851012209811457,
+                    "id_str": "1413851012209811457",
+                    "indices": [
+                        278,
+                        301
+                    ],
+                    "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1413851012209811457/pu/img/jfcHpxx4KE_Jz117.jpg",
+                    "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1413851012209811457/pu/img/jfcHpxx4KE_Jz117.jpg",
+                    "url": "https://t.co/Vol4KToeLE",
+                    "display_url": "pic.twitter.com/Vol4KToeLE",
+                    "expanded_url": "https://twitter.com/hackersepulveda/status/1413851182217535490/video/1",
+                    "type": "video",
+                    "sizes": {
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "small": {
+                            "w": 640,
+                            "h": 352,
+                            "resize": "fit"
+                        },
+                        "medium": {
+                            "w": 640,
+                            "h": 352,
+                            "resize": "fit"
+                        },
+                        "large": {
+                            "w": 640,
+                            "h": 352,
+                            "resize": "fit"
+                        }
+                    },
+                    "video_info": {
+                        "aspect_ratio": [
+                            20,
+                            11
+                        ],
+                        "duration_millis": 110441,
+                        "variants": [
+                            {
+                                "bitrate": 832000,
+                                "content_type": "video/mp4",
+                                "url": "https://video.twimg.com/ext_tw_video/1413851012209811457/pu/vid/640x352/LJTgK0jvubCWyXIF.mp4?tag=12"
+                            },
+                            {
+                                "bitrate": 256000,
+                                "content_type": "video/mp4",
+                                "url": "https://video.twimg.com/ext_tw_video/1413851012209811457/pu/vid/490x270/Y3yXioY6dUa9A7Rk.mp4?tag=12"
+                            },
+                            {
+                                "content_type": "application/x-mpegURL",
+                                "url": "https://video.twimg.com/ext_tw_video/1413851012209811457/pu/pl/ElTbXj_aBBFP4jAV.m3u8?tag=12&container=fmp4"
+                            }
+                        ]
+                    },
+                    "additional_media_info": {
+                        "monetizable": false
+                    }
+                }
+            ]
+        },
+        "metadata": {
+            "iso_language_code": "es",
+            "result_type": "recent"
+        },
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 2869710573,
+            "id_str": "2869710573",
+            "name": "\ud83c\udff4\u200d\u2620\ufe0f Hacker Sep\u00falveda \ud83c\udff4\u200d\u2620\ufe0f",
+            "screen_name": "hackersepulveda",
+            "location": "Colombia",
+            "description": "Say my name, you know who I am, Don't believe me, just watch.",
+            "url": "https://t.co/RsHUuLqW0P",
+            "entities": {
+                "url": {
+                    "urls": [
+                        {
+                            "url": "https://t.co/RsHUuLqW0P",
+                            "expanded_url": "https://www.instagram.com/hackersepulveda/",
+                            "display_url": "instagram.com/hackersepulved\u2026",
+                            "indices": [
+                                0,
+                                23
+                            ]
+                        }
+                    ]
+                },
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 666,
+            "friends_count": 323,
+            "listed_count": 3,
+            "created_at": "Sun Nov 09 22:56:21 +0000 2014",
+            "favourites_count": 621,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": false,
+            "verified": false,
+            "statuses_count": 169,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "000000",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1414754146004176897/rjmmllBo_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1414754146004176897/rjmmllBo_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/2869710573/1459421236",
+            "profile_link_color": "ABB8C2",
+            "profile_sidebar_border_color": "000000",
+            "profile_sidebar_fill_color": "000000",
+            "profile_text_color": "000000",
+            "profile_use_background_image": false,
+            "has_extended_profile": true,
+            "default_profile": false,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none",
+            "withheld_in_countries": []
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 1176,
+        "favorite_count": 1330,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "es"
+    },
+    "is_quote_status": false,
+    "retweet_count": 1176,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "es"
+}

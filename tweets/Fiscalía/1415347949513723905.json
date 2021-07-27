@@ -1,0 +1,472 @@
+{
+    "created_at": "Wed Jul 14 16:30:21 +0000 2021",
+    "id": 1415347949513723905,
+    "id_str": "1415347949513723905",
+    "full_text": "RT @camachocastro: La se\u00f1ora Balbina Herrera, olvida convenientemente que YA @rmartinelli fue absuelto en este mismo proceso. Veredicto que\u2026",
+    "truncated": false,
+    "display_text_range": [
+        0,
+        140
+    ],
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "camachocastro",
+                "name": "Luis Eduardo Camacho",
+                "id": 242787212,
+                "id_str": "242787212",
+                "indices": [
+                    3,
+                    17
+                ]
+            },
+            {
+                "screen_name": "rmartinelli",
+                "name": "Ricardo Martinelli",
+                "id": 250265046,
+                "id_str": "250265046",
+                "indices": [
+                    77,
+                    89
+                ]
+            }
+        ],
+        "urls": []
+    },
+    "metadata": {
+        "iso_language_code": "es",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 1395889052860223491,
+        "id_str": "1395889052860223491",
+        "name": "Jos\u00e9 Ortiz Capira",
+        "screen_name": "JoseCapira",
+        "location": "",
+        "description": "Contador P\u00fablico, casado hombre Pro Vida, creyente en Dios y Pol\u00edtico.",
+        "url": null,
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 85,
+        "friends_count": 154,
+        "listed_count": 0,
+        "created_at": "Fri May 21 23:47:54 +0000 2021",
+        "favourites_count": 3924,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 4902,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": null,
+        "profile_background_image_url_https": null,
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1403916150925299729/2oxemfV__normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1403916150925299729/2oxemfV__normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": true,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+        "created_at": "Wed Jul 14 14:06:47 +0000 2021",
+        "id": 1415311817967030273,
+        "id_str": "1415311817967030273",
+        "full_text": "La se\u00f1ora Balbina Herrera, olvida convenientemente que YA @rmartinelli fue absuelto en este mismo proceso. Veredicto que ella, la fiscal\u00eda y otros querellantes NO RESPETARON. No permitiremos, que sigan violando derechos y garant\u00edas del expresidente; con doble juzgamiento ilegal. https://t.co/KNnaO8ZBlQ",
+        "truncated": false,
+        "display_text_range": [
+            0,
+            279
+        ],
+        "entities": {
+            "hashtags": [],
+            "symbols": [],
+            "user_mentions": [
+                {
+                    "screen_name": "rmartinelli",
+                    "name": "Ricardo Martinelli",
+                    "id": 250265046,
+                    "id_str": "250265046",
+                    "indices": [
+                        58,
+                        70
+                    ]
+                }
+            ],
+            "urls": [
+                {
+                    "url": "https://t.co/KNnaO8ZBlQ",
+                    "expanded_url": "https://twitter.com/TReporta/status/1415303527795249152",
+                    "display_url": "twitter.com/TReporta/statu\u2026",
+                    "indices": [
+                        280,
+                        303
+                    ]
+                }
+            ]
+        },
+        "metadata": {
+            "iso_language_code": "es",
+            "result_type": "recent"
+        },
+        "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 242787212,
+            "id_str": "242787212",
+            "name": "Luis Eduardo Camacho",
+            "screen_name": "camachocastro",
+            "location": "\u00a1En Dios conf\u00edo!",
+            "description": "Secretario General del Partido Realizando Metas (RM); Consultor en Comunicaci\u00f3n Estrat\u00e9gica; Vocero del ex presidente Martinelli.",
+            "url": "https://t.co/V39vtkROLz",
+            "entities": {
+                "url": {
+                    "urls": [
+                        {
+                            "url": "https://t.co/V39vtkROLz",
+                            "expanded_url": "http://www.somosrmpa.com",
+                            "display_url": "somosrmpa.com",
+                            "indices": [
+                                0,
+                                23
+                            ]
+                        }
+                    ]
+                },
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 114463,
+            "friends_count": 21556,
+            "listed_count": 129,
+            "created_at": "Tue Jan 25 16:06:15 +0000 2011",
+            "favourites_count": 3377,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": true,
+            "verified": false,
+            "statuses_count": 44222,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "C0DEED",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1365072060310056966/kU1VszsQ_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1365072060310056966/kU1VszsQ_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/242787212/1610335701",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "has_extended_profile": true,
+            "default_profile": true,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none",
+            "withheld_in_countries": []
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": true,
+        "quoted_status_id": 1415303527795249152,
+        "quoted_status_id_str": "1415303527795249152",
+        "quoted_status": {
+            "created_at": "Wed Jul 14 13:33:50 +0000 2021",
+            "id": 1415303527795249152,
+            "id_str": "1415303527795249152",
+            "full_text": "\u201cSi las juezas creen que (el expresidente Ricardo Martinelli) es inocente bien, pero si es culpable entonces que asuma su responsabilidad\u201d, dijo la exdiputada @BalbinaHerrera sobre el caso pinchazos. \n\u201cYa no podemos seguir dilatando esto\u201d, puntualiz\u00f3. #TReporta https://t.co/xKPLTjTPEe",
+            "truncated": false,
+            "display_text_range": [
+                0,
+                261
+            ],
+            "entities": {
+                "hashtags": [
+                    {
+                        "text": "TReporta",
+                        "indices": [
+                            252,
+                            261
+                        ]
+                    }
+                ],
+                "symbols": [],
+                "user_mentions": [
+                    {
+                        "screen_name": "BalbinaHerrera",
+                        "name": "Balbina Herrera",
+                        "id": 153816032,
+                        "id_str": "153816032",
+                        "indices": [
+                            159,
+                            174
+                        ]
+                    }
+                ],
+                "urls": [],
+                "media": [
+                    {
+                        "id": 1415301313068478469,
+                        "id_str": "1415301313068478469",
+                        "indices": [
+                            262,
+                            285
+                        ],
+                        "media_url": "http://pbs.twimg.com/media/E6Qq_p5WYAQoaHM.jpg",
+                        "media_url_https": "https://pbs.twimg.com/media/E6Qq_p5WYAQoaHM.jpg",
+                        "url": "https://t.co/xKPLTjTPEe",
+                        "display_url": "pic.twitter.com/xKPLTjTPEe",
+                        "expanded_url": "https://twitter.com/TReporta/status/1415303527795249152/video/1",
+                        "type": "photo",
+                        "sizes": {
+                            "thumb": {
+                                "w": 150,
+                                "h": 150,
+                                "resize": "crop"
+                            },
+                            "large": {
+                                "w": 640,
+                                "h": 360,
+                                "resize": "fit"
+                            },
+                            "medium": {
+                                "w": 640,
+                                "h": 360,
+                                "resize": "fit"
+                            },
+                            "small": {
+                                "w": 640,
+                                "h": 360,
+                                "resize": "fit"
+                            }
+                        }
+                    }
+                ]
+            },
+            "extended_entities": {
+                "media": [
+                    {
+                        "id": 1415301313068478469,
+                        "id_str": "1415301313068478469",
+                        "indices": [
+                            262,
+                            285
+                        ],
+                        "media_url": "http://pbs.twimg.com/media/E6Qq_p5WYAQoaHM.jpg",
+                        "media_url_https": "https://pbs.twimg.com/media/E6Qq_p5WYAQoaHM.jpg",
+                        "url": "https://t.co/xKPLTjTPEe",
+                        "display_url": "pic.twitter.com/xKPLTjTPEe",
+                        "expanded_url": "https://twitter.com/TReporta/status/1415303527795249152/video/1",
+                        "type": "video",
+                        "sizes": {
+                            "thumb": {
+                                "w": 150,
+                                "h": 150,
+                                "resize": "crop"
+                            },
+                            "large": {
+                                "w": 640,
+                                "h": 360,
+                                "resize": "fit"
+                            },
+                            "medium": {
+                                "w": 640,
+                                "h": 360,
+                                "resize": "fit"
+                            },
+                            "small": {
+                                "w": 640,
+                                "h": 360,
+                                "resize": "fit"
+                            }
+                        },
+                        "video_info": {
+                            "aspect_ratio": [
+                                16,
+                                9
+                            ],
+                            "duration_millis": 396997,
+                            "variants": [
+                                {
+                                    "bitrate": 832000,
+                                    "content_type": "video/mp4",
+                                    "url": "https://video.twimg.com/amplify_video/1415301313068478469/vid/640x360/HG6QGR_qhS1BShyU.mp4?tag=14"
+                                },
+                                {
+                                    "bitrate": 2176000,
+                                    "content_type": "video/mp4",
+                                    "url": "https://video.twimg.com/amplify_video/1415301313068478469/vid/1280x720/VJjxXyJY86riw6UD.mp4?tag=14"
+                                },
+                                {
+                                    "bitrate": 288000,
+                                    "content_type": "video/mp4",
+                                    "url": "https://video.twimg.com/amplify_video/1415301313068478469/vid/480x270/TMxTpWngxUby7ok0.mp4?tag=14"
+                                },
+                                {
+                                    "content_type": "application/x-mpegURL",
+                                    "url": "https://video.twimg.com/amplify_video/1415301313068478469/pl/ZNDY5m3Q-Nrmk1EN.m3u8?tag=14"
+                                }
+                            ]
+                        },
+                        "additional_media_info": {
+                            "title": "",
+                            "description": "",
+                            "embeddable": true,
+                            "monetizable": false
+                        }
+                    }
+                ]
+            },
+            "metadata": {
+                "iso_language_code": "es",
+                "result_type": "recent"
+            },
+            "source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
+            "in_reply_to_status_id": null,
+            "in_reply_to_status_id_str": null,
+            "in_reply_to_user_id": null,
+            "in_reply_to_user_id_str": null,
+            "in_reply_to_screen_name": null,
+            "user": {
+                "id": 326849708,
+                "id_str": "326849708",
+                "name": "Telemetro Reporta",
+                "screen_name": "TReporta",
+                "location": "#Panam\u00e1",
+                "description": "Mantente informado con lo \u00faltimo en noticias, reportajes y entrevistas, minuto a minuto. \n\u00danete a nuestro canal de Telegram \nhttps://t.co/RACbXowaH1",
+                "url": "https://t.co/KfGG7VpTfM",
+                "entities": {
+                    "url": {
+                        "urls": [
+                            {
+                                "url": "https://t.co/KfGG7VpTfM",
+                                "expanded_url": "http://www.telemetro.com",
+                                "display_url": "telemetro.com",
+                                "indices": [
+                                    0,
+                                    23
+                                ]
+                            }
+                        ]
+                    },
+                    "description": {
+                        "urls": [
+                            {
+                                "url": "https://t.co/RACbXowaH1",
+                                "expanded_url": "https://t.me/TelemetroReporta",
+                                "display_url": "t.me/TelemetroRepor\u2026",
+                                "indices": [
+                                    125,
+                                    148
+                                ]
+                            }
+                        ]
+                    }
+                },
+                "protected": false,
+                "followers_count": 705973,
+                "friends_count": 1532,
+                "listed_count": 1181,
+                "created_at": "Thu Jun 30 15:56:41 +0000 2011",
+                "favourites_count": 21106,
+                "utc_offset": null,
+                "time_zone": null,
+                "geo_enabled": true,
+                "verified": true,
+                "statuses_count": 668253,
+                "lang": null,
+                "contributors_enabled": false,
+                "is_translator": false,
+                "is_translation_enabled": false,
+                "profile_background_color": "AC2E03",
+                "profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+                "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+                "profile_background_tile": false,
+                "profile_image_url": "http://pbs.twimg.com/profile_images/1358913588782596100/otTys-RF_normal.jpg",
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/1358913588782596100/otTys-RF_normal.jpg",
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/326849708/1612825223",
+                "profile_link_color": "FF691F",
+                "profile_sidebar_border_color": "000000",
+                "profile_sidebar_fill_color": "EFEFEF",
+                "profile_text_color": "333333",
+                "profile_use_background_image": true,
+                "has_extended_profile": false,
+                "default_profile": false,
+                "default_profile_image": false,
+                "following": false,
+                "follow_request_sent": false,
+                "notifications": false,
+                "translator_type": "none",
+                "withheld_in_countries": []
+            },
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "contributors": null,
+            "is_quote_status": false,
+            "retweet_count": 3,
+            "favorite_count": 3,
+            "favorited": false,
+            "retweeted": false,
+            "possibly_sensitive": false,
+            "lang": "es"
+        },
+        "retweet_count": 30,
+        "favorite_count": 36,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "es"
+    },
+    "is_quote_status": true,
+    "quoted_status_id": 1415303527795249152,
+    "quoted_status_id_str": "1415303527795249152",
+    "retweet_count": 30,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "es"
+}

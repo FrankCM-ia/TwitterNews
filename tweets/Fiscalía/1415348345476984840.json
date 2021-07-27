@@ -1,0 +1,285 @@
+{
+    "created_at": "Wed Jul 14 16:31:56 +0000 2021",
+    "id": 1415348345476984840,
+    "id_str": "1415348345476984840",
+    "full_text": "RT @blogdelnarcomx: Comando de Sicarios llega a Fiscal\u00eda de Reynosa y libera a \u201cEl Calamardo\u201d y/o \u201cMetro 27\u201d l\u00edder del C\u00e1rtel del Golfo, al\u2026",
+    "truncated": false,
+    "display_text_range": [
+        0,
+        140
+    ],
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "blogdelnarcomx",
+                "name": "Blog del Narco Oficial",
+                "id": 221882500,
+                "id_str": "221882500",
+                "indices": [
+                    3,
+                    18
+                ]
+            }
+        ],
+        "urls": []
+    },
+    "metadata": {
+        "iso_language_code": "es",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 38699359,
+        "id_str": "38699359",
+        "name": "ElJonas",
+        "screen_name": "Jonas_555",
+        "location": "Del Valle CDMX",
+        "description": "M\u00e9xico es m\u00e1s que sus partidos pol\u00edticos, juntos podemos hacer un cambio verdadero \ud83d\ude0e #MexicoReflexivo",
+        "url": null,
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 8084,
+        "friends_count": 8850,
+        "listed_count": 26,
+        "created_at": "Fri May 08 16:50:29 +0000 2009",
+        "favourites_count": 145001,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 89265,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1390835978957467655/kIG_A3Y2_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1390835978957467655/kIG_A3Y2_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/38699359/1572853754",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+        "created_at": "Wed Jul 14 14:56:17 +0000 2021",
+        "id": 1415324276870156295,
+        "id_str": "1415324276870156295",
+        "full_text": "Comando de Sicarios llega a Fiscal\u00eda de Reynosa y libera a \u201cEl Calamardo\u201d y/o \u201cMetro 27\u201d l\u00edder del C\u00e1rtel del Golfo, al parecer detuvieron a Elementos Militares que participaron en el rescate https://t.co/oOPznjivYq https://t.co/Tq2peDtrdr",
+        "truncated": false,
+        "display_text_range": [
+            0,
+            215
+        ],
+        "entities": {
+            "hashtags": [],
+            "symbols": [],
+            "user_mentions": [],
+            "urls": [
+                {
+                    "url": "https://t.co/oOPznjivYq",
+                    "expanded_url": "https://www.blogdelnarcomexico.com/2021/07/comando-de-sicarios-llega-fiscalia-de.html",
+                    "display_url": "blogdelnarcomexico.com/2021/07/comand\u2026",
+                    "indices": [
+                        192,
+                        215
+                    ]
+                }
+            ],
+            "media": [
+                {
+                    "id": 1415324275133894657,
+                    "id_str": "1415324275133894657",
+                    "indices": [
+                        216,
+                        239
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/E6Q97fVX0AEk-OS.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/E6Q97fVX0AEk-OS.jpg",
+                    "url": "https://t.co/Tq2peDtrdr",
+                    "display_url": "pic.twitter.com/Tq2peDtrdr",
+                    "expanded_url": "https://twitter.com/blogdelnarcomx/status/1415324276870156295/photo/1",
+                    "type": "photo",
+                    "sizes": {
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "large": {
+                            "w": 701,
+                            "h": 438,
+                            "resize": "fit"
+                        },
+                        "small": {
+                            "w": 680,
+                            "h": 425,
+                            "resize": "fit"
+                        },
+                        "medium": {
+                            "w": 701,
+                            "h": 438,
+                            "resize": "fit"
+                        }
+                    }
+                }
+            ]
+        },
+        "extended_entities": {
+            "media": [
+                {
+                    "id": 1415324275133894657,
+                    "id_str": "1415324275133894657",
+                    "indices": [
+                        216,
+                        239
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/E6Q97fVX0AEk-OS.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/E6Q97fVX0AEk-OS.jpg",
+                    "url": "https://t.co/Tq2peDtrdr",
+                    "display_url": "pic.twitter.com/Tq2peDtrdr",
+                    "expanded_url": "https://twitter.com/blogdelnarcomx/status/1415324276870156295/photo/1",
+                    "type": "photo",
+                    "sizes": {
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "large": {
+                            "w": 701,
+                            "h": 438,
+                            "resize": "fit"
+                        },
+                        "small": {
+                            "w": 680,
+                            "h": 425,
+                            "resize": "fit"
+                        },
+                        "medium": {
+                            "w": 701,
+                            "h": 438,
+                            "resize": "fit"
+                        }
+                    }
+                }
+            ]
+        },
+        "metadata": {
+            "iso_language_code": "es",
+            "result_type": "recent"
+        },
+        "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 221882500,
+            "id_str": "221882500",
+            "name": "Blog del Narco Oficial",
+            "screen_name": "blogdelnarcomx",
+            "location": "M\u00e9xico",
+            "description": "Informaci\u00f3n \u00fanica y exclusiva sobre Narcotr\u00e1fico y Pol\u00edtica en M\u00e9xico, historias, reportajes y noticias, que esperas, \u00fanete!",
+            "url": "https://t.co/SEcxM6gAxx",
+            "entities": {
+                "url": {
+                    "urls": [
+                        {
+                            "url": "https://t.co/SEcxM6gAxx",
+                            "expanded_url": "http://www.blogdelnarcomexico.com",
+                            "display_url": "blogdelnarcomexico.com",
+                            "indices": [
+                                0,
+                                23
+                            ]
+                        }
+                    ]
+                },
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 133107,
+            "friends_count": 104,
+            "listed_count": 333,
+            "created_at": "Wed Dec 01 21:47:49 +0000 2010",
+            "favourites_count": 81,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": false,
+            "verified": false,
+            "statuses_count": 37560,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "000000",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1054225028990951424/BA46xsqC_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1054225028990951424/BA46xsqC_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/221882500/1540181864",
+            "profile_link_color": "E81C4F",
+            "profile_sidebar_border_color": "000000",
+            "profile_sidebar_fill_color": "000000",
+            "profile_text_color": "000000",
+            "profile_use_background_image": false,
+            "has_extended_profile": false,
+            "default_profile": false,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none",
+            "withheld_in_countries": []
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 7,
+        "favorite_count": 40,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": true,
+        "lang": "es"
+    },
+    "is_quote_status": false,
+    "retweet_count": 7,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "es"
+}

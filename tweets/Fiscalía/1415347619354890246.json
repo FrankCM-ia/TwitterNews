@@ -1,0 +1,262 @@
+{
+    "created_at": "Wed Jul 14 16:29:02 +0000 2021",
+    "id": 1415347619354890246,
+    "id_str": "1415347619354890246",
+    "full_text": "RT @FonsiLoaiza: Se llama Javier L\u00f3pez Madrid y es el marido de la hija del marqu\u00e9s de Villar Mir que financiaba ilegalmente al PP. La Fisc\u2026",
+    "truncated": false,
+    "display_text_range": [
+        0,
+        140
+    ],
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "FonsiLoaiza",
+                "name": "Fonsi Loaiza",
+                "id": 94324983,
+                "id_str": "94324983",
+                "indices": [
+                    3,
+                    15
+                ]
+            }
+        ],
+        "urls": []
+    },
+    "metadata": {
+        "iso_language_code": "es",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 1249393318611599361,
+        "id_str": "1249393318611599361",
+        "name": "El Consume Contenidos \ud83d\udc68\u200d\u2695\ufe0f\ud83d\udc69\u200d\u2695\ufe0f\ud83d\udc9a\ud83d\udc68\u200d\ud83d\udd2c\ud83d\udc69\u200d\ud83d\udd2c",
+        "screen_name": "ConsumeConteni2",
+        "location": "In the cente(R) ",
+        "description": "Empat\u00eda, justicia y educaci\u00f3n.\nAntihegemon\u00edas.\nNo comparto el s\u00edndrome de Sherwood.\nLa resignaci\u00f3n y la indefensi\u00f3n aprendida no son el camino.",
+        "url": null,
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 256,
+        "friends_count": 1352,
+        "listed_count": 2,
+        "created_at": "Sun Apr 12 17:46:27 +0000 2020",
+        "favourites_count": 16571,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 13618,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": null,
+        "profile_background_image_url_https": null,
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1271212546125713416/Ch_aZTLU_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1271212546125713416/Ch_aZTLU_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1249393318611599361/1591915665",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+        "created_at": "Tue Jul 13 16:14:59 +0000 2021",
+        "id": 1414981694109671430,
+        "id_str": "1414981694109671430",
+        "full_text": "Se llama Javier L\u00f3pez Madrid y es el marido de la hija del marqu\u00e9s de Villar Mir que financiaba ilegalmente al PP. La Fiscal\u00eda lo considera autor del apu\u00f1alamiento a la doctora Pinto. Es el \"compiyogui\" de Felipe VI y Letizia. Mafia de Estado. https://t.co/UDfwnsxXKV",
+        "truncated": false,
+        "display_text_range": [
+            0,
+            243
+        ],
+        "entities": {
+            "hashtags": [],
+            "symbols": [],
+            "user_mentions": [],
+            "urls": [],
+            "media": [
+                {
+                    "id": 1414980973167587330,
+                    "id_str": "1414980973167587330",
+                    "indices": [
+                        244,
+                        267
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/E6MFsr2XMAItHvb.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/E6MFsr2XMAItHvb.jpg",
+                    "url": "https://t.co/UDfwnsxXKV",
+                    "display_url": "pic.twitter.com/UDfwnsxXKV",
+                    "expanded_url": "https://twitter.com/FonsiLoaiza/status/1414981694109671430/photo/1",
+                    "type": "photo",
+                    "sizes": {
+                        "medium": {
+                            "w": 785,
+                            "h": 589,
+                            "resize": "fit"
+                        },
+                        "small": {
+                            "w": 680,
+                            "h": 510,
+                            "resize": "fit"
+                        },
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "large": {
+                            "w": 785,
+                            "h": 589,
+                            "resize": "fit"
+                        }
+                    }
+                }
+            ]
+        },
+        "extended_entities": {
+            "media": [
+                {
+                    "id": 1414980973167587330,
+                    "id_str": "1414980973167587330",
+                    "indices": [
+                        244,
+                        267
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/E6MFsr2XMAItHvb.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/E6MFsr2XMAItHvb.jpg",
+                    "url": "https://t.co/UDfwnsxXKV",
+                    "display_url": "pic.twitter.com/UDfwnsxXKV",
+                    "expanded_url": "https://twitter.com/FonsiLoaiza/status/1414981694109671430/photo/1",
+                    "type": "photo",
+                    "sizes": {
+                        "medium": {
+                            "w": 785,
+                            "h": 589,
+                            "resize": "fit"
+                        },
+                        "small": {
+                            "w": 680,
+                            "h": 510,
+                            "resize": "fit"
+                        },
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "large": {
+                            "w": 785,
+                            "h": 589,
+                            "resize": "fit"
+                        }
+                    }
+                }
+            ]
+        },
+        "metadata": {
+            "iso_language_code": "es",
+            "result_type": "recent"
+        },
+        "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 94324983,
+            "id_str": "94324983",
+            "name": "Fonsi Loaiza",
+            "screen_name": "FonsiLoaiza",
+            "location": "",
+            "description": "Picapedrero de la informaci\u00f3n. Doctor en Medios, Comunicaci\u00f3n y Cultura. \"En mi hambre mando yo, no Florentino\"\n\n \ud83d\udce9 Contacto: fonsiloaiza@gmail.com",
+            "url": null,
+            "entities": {
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 133732,
+            "friends_count": 861,
+            "listed_count": 935,
+            "created_at": "Thu Dec 03 13:05:11 +0000 2009",
+            "favourites_count": 15691,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": false,
+            "verified": false,
+            "statuses_count": 86398,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "1D424D",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": true,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/930258451699257345/vdmlh85__normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/930258451699257345/vdmlh85__normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/94324983/1571251797",
+            "profile_link_color": "E81C4F",
+            "profile_sidebar_border_color": "000000",
+            "profile_sidebar_fill_color": "C0DFEC",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "has_extended_profile": true,
+            "default_profile": false,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none",
+            "withheld_in_countries": []
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 858,
+        "favorite_count": 1296,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "es"
+    },
+    "is_quote_status": false,
+    "retweet_count": 858,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "es"
+}

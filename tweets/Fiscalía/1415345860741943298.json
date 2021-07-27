@@ -1,0 +1,318 @@
+{
+    "created_at": "Wed Jul 14 16:22:03 +0000 2021",
+    "id": 1415345860741943298,
+    "id_str": "1415345860741943298",
+    "full_text": "RT @LaFer39431484: Se despliegan operativos de seguridad en salidas y accesos a #reynosafollow tras la fuga de Alfredo \u201cN\u201d, de las instalac\u2026",
+    "truncated": false,
+    "display_text_range": [
+        0,
+        140
+    ],
+    "entities": {
+        "hashtags": [
+            {
+                "text": "reynosafollow",
+                "indices": [
+                    80,
+                    94
+                ]
+            }
+        ],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "LaFer39431484",
+                "name": "Laurita Garza \ud83d\udc8b\ud83d\udc85 Queen \ud83d\udc62\ud83d\udc51",
+                "id": 4304462473,
+                "id_str": "4304462473",
+                "indices": [
+                    3,
+                    17
+                ]
+            }
+        ],
+        "urls": []
+    },
+    "metadata": {
+        "iso_language_code": "es",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 116975062,
+        "id_str": "116975062",
+        "name": "Tartamudo",
+        "screen_name": "Tartatartamudo",
+        "location": "Tartamulandia",
+        "description": "Hay te van dos veces, tipo doble porci\u00f3n empachate con este twitazo. Golozo",
+        "url": "https://t.co/tMzLBgjPX6",
+        "entities": {
+            "url": {
+                "urls": [
+                    {
+                        "url": "https://t.co/tMzLBgjPX6",
+                        "expanded_url": "http://www.onlyfans.com",
+                        "display_url": "onlyfans.com",
+                        "indices": [
+                            0,
+                            23
+                        ]
+                    }
+                ]
+            },
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 557,
+        "friends_count": 1554,
+        "listed_count": 1,
+        "created_at": "Wed Feb 24 04:20:55 +0000 2010",
+        "favourites_count": 887,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 6145,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "352726",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1408874860005269506/pZvcTyAa_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1408874860005269506/pZvcTyAa_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/116975062/1624736929",
+        "profile_link_color": "DD2E44",
+        "profile_sidebar_border_color": "829D5E",
+        "profile_sidebar_fill_color": "99CC33",
+        "profile_text_color": "3E4415",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+        "created_at": "Wed Jul 14 01:56:45 +0000 2021",
+        "id": 1415128100648726532,
+        "id_str": "1415128100648726532",
+        "full_text": "Se despliegan operativos de seguridad en salidas y accesos a #reynosafollow tras la fuga de Alfredo \u201cN\u201d, de las instalaciones de la Fiscal\u00eda General de Justicia de #Tamaulipas de la col Rodriguez\nPresunto criminal que hab\u00eda sido aprehendido en #DiazOrdaz\nLa ternurita actualmente https://t.co/mhEyVV3fMx",
+        "truncated": false,
+        "display_text_range": [
+            0,
+            279
+        ],
+        "entities": {
+            "hashtags": [
+                {
+                    "text": "reynosafollow",
+                    "indices": [
+                        61,
+                        75
+                    ]
+                },
+                {
+                    "text": "Tamaulipas",
+                    "indices": [
+                        164,
+                        175
+                    ]
+                },
+                {
+                    "text": "DiazOrdaz",
+                    "indices": [
+                        244,
+                        254
+                    ]
+                }
+            ],
+            "symbols": [],
+            "user_mentions": [],
+            "urls": [],
+            "media": [
+                {
+                    "id": 1415128099142967305,
+                    "id_str": "1415128099142967305",
+                    "indices": [
+                        280,
+                        303
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/E6OLgi0XIAkfJCf.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/E6OLgi0XIAkfJCf.jpg",
+                    "url": "https://t.co/mhEyVV3fMx",
+                    "display_url": "pic.twitter.com/mhEyVV3fMx",
+                    "expanded_url": "https://twitter.com/LaFer39431484/status/1415128100648726532/photo/1",
+                    "type": "photo",
+                    "sizes": {
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "medium": {
+                            "w": 720,
+                            "h": 960,
+                            "resize": "fit"
+                        },
+                        "large": {
+                            "w": 720,
+                            "h": 960,
+                            "resize": "fit"
+                        },
+                        "small": {
+                            "w": 510,
+                            "h": 680,
+                            "resize": "fit"
+                        }
+                    }
+                }
+            ]
+        },
+        "extended_entities": {
+            "media": [
+                {
+                    "id": 1415128099142967305,
+                    "id_str": "1415128099142967305",
+                    "indices": [
+                        280,
+                        303
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/E6OLgi0XIAkfJCf.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/E6OLgi0XIAkfJCf.jpg",
+                    "url": "https://t.co/mhEyVV3fMx",
+                    "display_url": "pic.twitter.com/mhEyVV3fMx",
+                    "expanded_url": "https://twitter.com/LaFer39431484/status/1415128100648726532/photo/1",
+                    "type": "photo",
+                    "sizes": {
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "medium": {
+                            "w": 720,
+                            "h": 960,
+                            "resize": "fit"
+                        },
+                        "large": {
+                            "w": 720,
+                            "h": 960,
+                            "resize": "fit"
+                        },
+                        "small": {
+                            "w": 510,
+                            "h": 680,
+                            "resize": "fit"
+                        }
+                    }
+                }
+            ]
+        },
+        "metadata": {
+            "iso_language_code": "es",
+            "result_type": "recent"
+        },
+        "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 4304462473,
+            "id_str": "4304462473",
+            "name": "Laurita Garza \ud83d\udc8b\ud83d\udc85 Queen \ud83d\udc62\ud83d\udc51",
+            "screen_name": "LaFer39431484",
+            "location": "Hidalgo del Parral, Chihuahua ",
+            "description": "Podremos coincidir en algun momento de la vida, los tiempos de dios son perfectos.",
+            "url": "https://t.co/ZMWQSUwTI5",
+            "entities": {
+                "url": {
+                    "urls": [
+                        {
+                            "url": "https://t.co/ZMWQSUwTI5",
+                            "expanded_url": "http://A.Orillas.Del.RioBravo.com",
+                            "display_url": "A.Orillas.Del.RioBravo.com",
+                            "indices": [
+                                0,
+                                23
+                            ]
+                        }
+                    ]
+                },
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 1567,
+            "friends_count": 301,
+            "listed_count": 23,
+            "created_at": "Fri Nov 20 20:12:26 +0000 2015",
+            "favourites_count": 65792,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": true,
+            "verified": false,
+            "statuses_count": 45342,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "000000",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1412969416292188160/vM94ghCm_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1412969416292188160/vM94ghCm_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/4304462473/1615431052",
+            "profile_link_color": "E81C4F",
+            "profile_sidebar_border_color": "000000",
+            "profile_sidebar_fill_color": "000000",
+            "profile_text_color": "000000",
+            "profile_use_background_image": false,
+            "has_extended_profile": true,
+            "default_profile": false,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none",
+            "withheld_in_countries": []
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 6,
+        "favorite_count": 3,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": true,
+        "lang": "es"
+    },
+    "is_quote_status": false,
+    "retweet_count": 6,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "es"
+}

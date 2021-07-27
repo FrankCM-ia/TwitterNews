@@ -1,0 +1,269 @@
+{
+    "created_at": "Wed Jul 14 18:03:54 +0000 2021",
+    "id": 1415371490636279814,
+    "id_str": "1415371490636279814",
+    "full_text": "RT @juniorbenitezn: \u201cNo m\u00e1s comunismo\u201d y la imagen del Che Guevara con una cruz. Cuba despert\u00f3 \ud83c\udde8\ud83c\uddfa\n\u00a1Abajo la dictadura! \n\u00a1Abajo el comunismo\u2026",
+    "truncated": false,
+    "display_text_range": [
+        0,
+        140
+    ],
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "juniorbenitezn",
+                "name": "Junior",
+                "id": 888598931839623170,
+                "id_str": "888598931839623170",
+                "indices": [
+                    3,
+                    18
+                ]
+            }
+        ],
+        "urls": []
+    },
+    "metadata": {
+        "iso_language_code": "es",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 525845997,
+        "id_str": "525845997",
+        "name": "plutarco torres",
+        "screen_name": "pluedifa",
+        "location": "Quito, Ecuador",
+        "description": "",
+        "url": null,
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 319,
+        "friends_count": 386,
+        "listed_count": 1,
+        "created_at": "Thu Mar 15 23:26:53 +0000 2012",
+        "favourites_count": 28813,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 432,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+        "profile_image_url_https": "https://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": true,
+        "default_profile_image": true,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+        "created_at": "Wed Jul 14 13:26:43 +0000 2021",
+        "id": 1415301735330062343,
+        "id_str": "1415301735330062343",
+        "full_text": "\u201cNo m\u00e1s comunismo\u201d y la imagen del Che Guevara con una cruz. Cuba despert\u00f3 \ud83c\udde8\ud83c\uddfa\n\u00a1Abajo la dictadura! \n\u00a1Abajo el comunismo!\n\u00a1Libertad para Cuba! #SOSCuba https://t.co/LH5eGftubK",
+        "truncated": false,
+        "display_text_range": [
+            0,
+            150
+        ],
+        "entities": {
+            "hashtags": [
+                {
+                    "text": "SOSCuba",
+                    "indices": [
+                        142,
+                        150
+                    ]
+                }
+            ],
+            "symbols": [],
+            "user_mentions": [],
+            "urls": [],
+            "media": [
+                {
+                    "id": 1415301728119967747,
+                    "id_str": "1415301728119967747",
+                    "indices": [
+                        151,
+                        174
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/E6QpbFKWUAMCdhM.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/E6QpbFKWUAMCdhM.jpg",
+                    "url": "https://t.co/LH5eGftubK",
+                    "display_url": "pic.twitter.com/LH5eGftubK",
+                    "expanded_url": "https://twitter.com/juniorbenitezn/status/1415301735330062343/photo/1",
+                    "type": "photo",
+                    "sizes": {
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "medium": {
+                            "w": 691,
+                            "h": 588,
+                            "resize": "fit"
+                        },
+                        "large": {
+                            "w": 691,
+                            "h": 588,
+                            "resize": "fit"
+                        },
+                        "small": {
+                            "w": 680,
+                            "h": 579,
+                            "resize": "fit"
+                        }
+                    }
+                }
+            ]
+        },
+        "extended_entities": {
+            "media": [
+                {
+                    "id": 1415301728119967747,
+                    "id_str": "1415301728119967747",
+                    "indices": [
+                        151,
+                        174
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/E6QpbFKWUAMCdhM.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/E6QpbFKWUAMCdhM.jpg",
+                    "url": "https://t.co/LH5eGftubK",
+                    "display_url": "pic.twitter.com/LH5eGftubK",
+                    "expanded_url": "https://twitter.com/juniorbenitezn/status/1415301735330062343/photo/1",
+                    "type": "photo",
+                    "sizes": {
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "medium": {
+                            "w": 691,
+                            "h": 588,
+                            "resize": "fit"
+                        },
+                        "large": {
+                            "w": 691,
+                            "h": 588,
+                            "resize": "fit"
+                        },
+                        "small": {
+                            "w": 680,
+                            "h": 579,
+                            "resize": "fit"
+                        }
+                    }
+                }
+            ]
+        },
+        "metadata": {
+            "iso_language_code": "es",
+            "result_type": "recent"
+        },
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 888598931839623170,
+            "id_str": "888598931839623170",
+            "name": "#SosCuba",
+            "screen_name": "juniorbenitezn",
+            "location": "",
+            "description": "Activista por los derechos humanos y las libertades sin excusas. El mundo nos necesita atentos. #SOSCuba",
+            "url": null,
+            "entities": {
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 2339,
+            "friends_count": 199,
+            "listed_count": 3,
+            "created_at": "Sat Jul 22 03:17:49 +0000 2017",
+            "favourites_count": 5341,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": true,
+            "verified": false,
+            "statuses_count": 5659,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "F5F8FA",
+            "profile_background_image_url": null,
+            "profile_background_image_url_https": null,
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1414288527878205448/UKyuGvcI_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1414288527878205448/UKyuGvcI_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/888598931839623170/1626201783",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "has_extended_profile": false,
+            "default_profile": true,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none",
+            "withheld_in_countries": []
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 203,
+        "favorite_count": 373,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "es"
+    },
+    "is_quote_status": false,
+    "retweet_count": 203,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "es"
+}

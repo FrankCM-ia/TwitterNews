@@ -1,0 +1,220 @@
+{
+    "created_at": "Wed Jul 14 16:38:30 +0000 2021",
+    "id": 1415350000574472193,
+    "id_str": "1415350000574472193",
+    "full_text": "RT @Mision_Verdad: El a\u00f1o pasado, Venezuela solicit\u00f3 a Italia la extradici\u00f3n de Rafael Ram\u00edrez, quien est\u00e1 involucrado en siete tramas de c\u2026",
+    "truncated": false,
+    "display_text_range": [
+        0,
+        140
+    ],
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "Mision_Verdad",
+                "name": "MV",
+                "id": 801184628,
+                "id_str": "801184628",
+                "indices": [
+                    3,
+                    17
+                ]
+            }
+        ],
+        "urls": []
+    },
+    "metadata": {
+        "iso_language_code": "es",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 49176463,
+        "id_str": "49176463",
+        "name": "Carola Ch\u00e1vez \ud83d\udcac",
+        "screen_name": "tongorocho",
+        "location": "",
+        "description": "\u00a1Soy yo, soy yo!",
+        "url": "https://t.co/pDyCA5376R",
+        "entities": {
+            "url": {
+                "urls": [
+                    {
+                        "url": "https://t.co/pDyCA5376R",
+                        "expanded_url": "http://carolachavez.wordpress.com",
+                        "display_url": "carolachavez.wordpress.com",
+                        "indices": [
+                            0,
+                            23
+                        ]
+                    }
+                ]
+            },
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 216420,
+        "friends_count": 726,
+        "listed_count": 552,
+        "created_at": "Sun Jun 21 00:49:27 +0000 2009",
+        "favourites_count": 0,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 94532,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "3B94D9",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme5/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme5/bg.gif",
+        "profile_background_tile": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1381408915473195015/NmUj3tjO_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1381408915473195015/NmUj3tjO_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/49176463/1609896510",
+        "profile_link_color": "91D2FA",
+        "profile_sidebar_border_color": "829D5E",
+        "profile_sidebar_fill_color": "99CC33",
+        "profile_text_color": "3E4415",
+        "profile_use_background_image": true,
+        "has_extended_profile": true,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+        "created_at": "Wed Jul 14 16:23:44 +0000 2021",
+        "id": 1415346283250860036,
+        "id_str": "1415346283250860036",
+        "full_text": "El a\u00f1o pasado, Venezuela solicit\u00f3 a Italia la extradici\u00f3n de Rafael Ram\u00edrez, quien est\u00e1 involucrado en siete tramas de corrupci\u00f3n en PDVSA https://t.co/GwFxo2xeN4",
+        "truncated": false,
+        "display_text_range": [
+            0,
+            162
+        ],
+        "entities": {
+            "hashtags": [],
+            "symbols": [],
+            "user_mentions": [],
+            "urls": [
+                {
+                    "url": "https://t.co/GwFxo2xeN4",
+                    "expanded_url": "https://bit.ly/3du9Lnt",
+                    "display_url": "bit.ly/3du9Lnt",
+                    "indices": [
+                        139,
+                        162
+                    ]
+                }
+            ]
+        },
+        "metadata": {
+            "iso_language_code": "es",
+            "result_type": "recent"
+        },
+        "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+        "in_reply_to_status_id": 1415344902469263360,
+        "in_reply_to_status_id_str": "1415344902469263360",
+        "in_reply_to_user_id": 801184628,
+        "in_reply_to_user_id_str": "801184628",
+        "in_reply_to_screen_name": "Mision_Verdad",
+        "user": {
+            "id": 801184628,
+            "id_str": "801184628",
+            "name": "MV",
+            "screen_name": "Mision_Verdad",
+            "location": "Caracas, Venezuela",
+            "description": "Grupo de investigaci\u00f3n y an\u00e1lisis.",
+            "url": "https://t.co/5E9uo85KwX",
+            "entities": {
+                "url": {
+                    "urls": [
+                        {
+                            "url": "https://t.co/5E9uo85KwX",
+                            "expanded_url": "http://misionverdad.com",
+                            "display_url": "misionverdad.com",
+                            "indices": [
+                                0,
+                                23
+                            ]
+                        }
+                    ]
+                },
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 96281,
+            "friends_count": 192,
+            "listed_count": 478,
+            "created_at": "Mon Sep 03 20:44:16 +0000 2012",
+            "favourites_count": 1686,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": true,
+            "verified": false,
+            "statuses_count": 151950,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "131516",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+            "profile_background_tile": true,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1084690992144572416/YFT8KrAx_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1084690992144572416/YFT8KrAx_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/801184628/1547491020",
+            "profile_link_color": "2000FF",
+            "profile_sidebar_border_color": "FFFFFF",
+            "profile_sidebar_fill_color": "EFEFEF",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "has_extended_profile": false,
+            "default_profile": false,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none",
+            "withheld_in_countries": []
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 9,
+        "favorite_count": 5,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "es"
+    },
+    "is_quote_status": false,
+    "retweet_count": 9,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "es"
+}

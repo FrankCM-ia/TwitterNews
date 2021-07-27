@@ -1,0 +1,220 @@
+{
+    "created_at": "Wed Jul 14 16:32:57 +0000 2021",
+    "id": 1415348604101959686,
+    "id_str": "1415348604101959686",
+    "full_text": "RT @ciper: Testimonios ante la Fiscal\u00eda: ex funcionarios de San Ram\u00f3n revelan que les exig\u00edan militar en el PS para tener empleo \ud83d\udc47\n\n\ud83d\udd0eDeclar\u2026",
+    "truncated": false,
+    "display_text_range": [
+        0,
+        140
+    ],
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "ciper",
+                "name": "CIPER Chile",
+                "id": 33790745,
+                "id_str": "33790745",
+                "indices": [
+                    3,
+                    9
+                ]
+            }
+        ],
+        "urls": []
+    },
+    "metadata": {
+        "iso_language_code": "es",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 39137321,
+        "id_str": "39137321",
+        "name": "Francisco Figueroa \ud83c\udf1d",
+        "screen_name": "PanchoFigueroas",
+        "location": "Iquique - Chile",
+        "description": "Joven de 31, profesor de educaci\u00f3n f\u00edsica, deportista de bajo rendimiento, longboard \ud83c\udfc4\u200d\u2642\ufe0f, intento hacer fotograf\u00edas \ud83d\udcf8, mi trabajo @iquiquedogs \ud83e\uddae",
+        "url": "https://t.co/lCDcEnmpke",
+        "entities": {
+            "url": {
+                "urls": [
+                    {
+                        "url": "https://t.co/lCDcEnmpke",
+                        "expanded_url": "http://instagr.am/franciscofigueroas",
+                        "display_url": "instagr.am/franciscofigue\u2026",
+                        "indices": [
+                            0,
+                            23
+                        ]
+                    }
+                ]
+            },
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 2123,
+        "friends_count": 1579,
+        "listed_count": 19,
+        "created_at": "Sun May 10 23:44:35 +0000 2009",
+        "favourites_count": 330,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 205497,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+        "profile_background_tile": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1281445933742542848/xeO5X72m_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1281445933742542848/xeO5X72m_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/39137321/1463297990",
+        "profile_link_color": "000000",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "EFEFEF",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": true,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "regular",
+        "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+        "created_at": "Tue Jul 13 19:58:42 +0000 2021",
+        "id": 1415037994713718791,
+        "id_str": "1415037994713718791",
+        "full_text": "Testimonios ante la Fiscal\u00eda: ex funcionarios de San Ram\u00f3n revelan que les exig\u00edan militar en el PS para tener empleo \ud83d\udc47\n\n\ud83d\udd0eDeclaraciones indican que para fichar militantes socialistas se ofrec\u00edan desde pensiones de exonerados hasta planchas de zinc\n\nhttps://t.co/t70kz5Er4N",
+        "truncated": false,
+        "display_text_range": [
+            0,
+            272
+        ],
+        "entities": {
+            "hashtags": [],
+            "symbols": [],
+            "user_mentions": [],
+            "urls": [
+                {
+                    "url": "https://t.co/t70kz5Er4N",
+                    "expanded_url": "https://www.ciperchile.cl/2021/07/13/testimonios-ante-la-fiscalia-ex-funcionarios-de-san-ramon-revelan-que-les-exigian-militar-en-el-ps-para-tener-empleo/",
+                    "display_url": "ciperchile.cl/2021/07/13/tes\u2026",
+                    "indices": [
+                        249,
+                        272
+                    ]
+                }
+            ]
+        },
+        "metadata": {
+            "iso_language_code": "es",
+            "result_type": "recent"
+        },
+        "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 33790745,
+            "id_str": "33790745",
+            "name": "CIPER Chile",
+            "screen_name": "ciper",
+            "location": "Chile",
+            "description": "Centro de Investigaci\u00f3n Period\u00edstica. Si tienes alg\u00fan dato que compartir, puedes escribir a contacto@ciperchile.cl\n\nHazte parte. S\u00famate a la comunidad +CIPER.",
+            "url": "https://t.co/QinxuNmdJh",
+            "entities": {
+                "url": {
+                    "urls": [
+                        {
+                            "url": "https://t.co/QinxuNmdJh",
+                            "expanded_url": "http://www.ciperchile.cl/socios",
+                            "display_url": "ciperchile.cl/socios",
+                            "indices": [
+                                0,
+                                23
+                            ]
+                        }
+                    ]
+                },
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 1116174,
+            "friends_count": 1841,
+            "listed_count": 2759,
+            "created_at": "Tue Apr 21 03:16:33 +0000 2009",
+            "favourites_count": 2444,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": false,
+            "verified": true,
+            "statuses_count": 11867,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "081A24",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": true,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1166333247099416577/c-zgyAN2_normal.png",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1166333247099416577/c-zgyAN2_normal.png",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/33790745/1613510791",
+            "profile_link_color": "0084B4",
+            "profile_sidebar_border_color": "FFFFFF",
+            "profile_sidebar_fill_color": "DDFFCC",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "has_extended_profile": false,
+            "default_profile": false,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none",
+            "withheld_in_countries": []
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 262,
+        "favorite_count": 216,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "es"
+    },
+    "is_quote_status": false,
+    "retweet_count": 262,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "es"
+}

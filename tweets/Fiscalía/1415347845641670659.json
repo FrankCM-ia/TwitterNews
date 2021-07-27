@@ -1,0 +1,118 @@
+{
+    "created_at": "Wed Jul 14 16:29:56 +0000 2021",
+    "id": 1415347845641670659,
+    "id_str": "1415347845641670659",
+    "full_text": "Fiscal\u00eda investiga asesinato del director del centro de salud de la 5 de Febrero en #Tapachula, baleado este Mi\u00e9rcoles  https://t.co/OdqIOMUEaV",
+    "truncated": false,
+    "display_text_range": [
+        0,
+        143
+    ],
+    "entities": {
+        "hashtags": [
+            {
+                "text": "Tapachula",
+                "indices": [
+                    84,
+                    94
+                ]
+            }
+        ],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+            {
+                "url": "https://t.co/OdqIOMUEaV",
+                "expanded_url": "https://balancemexico.com/fiscalia-investiga-asesinato-del-director-del-centro-de-salud-en-tapachula/",
+                "display_url": "balancemexico.com/fiscalia-inves\u2026",
+                "indices": [
+                    120,
+                    143
+                ]
+            }
+        ]
+    },
+    "metadata": {
+        "iso_language_code": "es",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 2476833625,
+        "id_str": "2476833625",
+        "name": "Cristian Alegr\u00eda \ud83d\udc41\u200d\ud83d\udde8",
+        "screen_name": "CrisAlegria_",
+        "location": "Tapachula, Chiapas",
+        "description": "Reportero de Balance M\u00e9xico @cbalancemexico Siempre es mejor hacer las noticias que leerlas. contacto: Cristianalegria@balancemexico.com",
+        "url": "https://t.co/KYuZZz5RPd",
+        "entities": {
+            "url": {
+                "urls": [
+                    {
+                        "url": "https://t.co/KYuZZz5RPd",
+                        "expanded_url": "https://www.facebook.com/CristianAlegria40",
+                        "display_url": "facebook.com/CristianAlegri\u2026",
+                        "indices": [
+                            0,
+                            23
+                        ]
+                    }
+                ]
+            },
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 11599,
+        "friends_count": 488,
+        "listed_count": 8,
+        "created_at": "Sun May 04 12:31:03 +0000 2014",
+        "favourites_count": 193,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 5969,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/895855227194269696/Q5BIsstD_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/895855227194269696/Q5BIsstD_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2476833625/1491857426",
+        "profile_link_color": "19CF86",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "profile_use_background_image": false,
+        "has_extended_profile": true,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "es"
+}
