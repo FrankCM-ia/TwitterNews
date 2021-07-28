@@ -54,18 +54,17 @@ def df_data(topic_addr, Max):
     df = pd.DataFrame(cl_data, columns=['Texto'])
     return df
 
-def Tokenize_Lemma(text):
+def Tokenize(func, text):
     tokens = nltk.word_tokenize(text)
     tokens = [token for token in tokens if len(token) > 2]
-    tokens = [lemmatize(token) for token in tokens]
+    tokens = [func(token) for token in tokens]
     return tokens
 
 def Tokenize_Stem(text):
-    tokens = nltk.word_tokenize(text)
-    tokens = [token for token in tokens if len(token) > 2]
-    tokens = [stemming(token) for token in tokens]
-    return tokens
+    return Tokenize(stemming, text)
 
+def Tokenize_Lemma(text):
+    return Tokenize(lemmatize, text)
 # ================================= REDUCCION DE COMPLEJIDAD =================================
 def process_corpus(tokens_tweets_dic):
     for id in tokens_tweets_dic:
@@ -124,7 +123,7 @@ def process_topic1(dir_addr):
     df_incidents_bow = mkDataFrame(bow, dic_tokens_tweets)
     return df_incidents_bow
 
-def process_topic2(dir_addr, topic_name, Max ,stem = False, ):
+def process_topic2(dir_addr, topic_name, Max , stem = False):
     stop_words = list(stopwords.words('spanish'))
     stop_words.extend(("rt",""))
     topic_name = topic_name.split(' ')
@@ -149,22 +148,14 @@ def process_topic2(dir_addr, topic_name, Max ,stem = False, ):
     
 
 # ------------------------ COMO PROCESAR UN TEMA ------------------------
-##topic = 'Estados Unidos'
-#dir_addr = 'tweets/' + topic
-#df = process_topic1(dir_addr)
-#df_tf = tf(df)
-#ToCSV(df_tf, topic, name=topic+'_tf')
+topic = 'Castro'
+dir_addr = 'tweets/' + topic
+df = process_topic1(dir_addr)
+df_tf = tf(df)
+ToCSV(df_tf, topic, name=topic+'_tf')
 
-#Max = 300
-#df_tf_idf = process_topic2(dir_addr, topic.lower(), Max)
-#ToCSV(df_tf_idf, topic, name=topic+'_tf_idf')
-#print(df_tf_idf)
-#mkWordCloud(df_tf_idf, str(Max) + "t_" + topic + '_Lemma', topic)
-
-#df2 = process_topic2(dir_addr, stem=True)
-#ToCSV(df1)
-# Crear la nube
-# mkWordCloud(df1, topic + '_Lemma_60', topic)
-
-# mkWordCloud(df2, topic + '_Stem_60', topic)
-# hola
+# Max = 300
+# df_tf_idf = process_topic2(dir_addr, topic.lower(), Max)
+# ToCSV(df_tf_idf, topic, name=topic+'_tf_idf')
+# print(df_tf_idf)
+# mkWordCloud(df_tf_idf, str(Max) + "t_" + topic + '_Lemma', topic)

@@ -40,7 +40,3 @@ def spr_OneLetter(tokens):
         if (len(tokens[i])!=1):
           tokensV2.append(tokens[i])
     return tokensV2
-
-a = lemmatize('niña')
-b = lemmatize('niñas')
-print(b)
