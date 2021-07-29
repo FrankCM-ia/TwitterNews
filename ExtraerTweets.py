@@ -20,14 +20,14 @@ names = list(set([trend["name"] for trend in trends]))
 
 # top 5
 #names = names[:10]
-print(len(names))
+print("Total de Temas"+ len(names))
 print(names)
 
-a = input("Tema: ")
+a = input("Escoge un Tema: ")
 names = [a]
 print(names)
 
-ntweets = 2000
+ntweets = int(input("Cuantos tweets deseas? => "))
 for key in names:
     # separamos temas por carpetas
     carpeta = 'tweets/' + str(key)
