@@ -8,7 +8,6 @@ import matplotlib.pyplot as plt
 from wordcloud import WordCloud
 from Funciones.LimpiezaDatos import *
 from Funciones.TokenizarDatos import *
-from Funciones.AnalisisDatos import *
 from sklearn.feature_extraction.text import TfidfVectorizer
 import warnings
 warnings.filterwarnings('ignore')
@@ -58,12 +57,9 @@ def mkWordCloud(df_tf_idf, name, topic):
     plt.axis('off')
     print("Nube " +  name + '.png' + " Creada")
 
-def term_frequency_analysi(dataframe):
-    df_step_tf = tf(dataframe)
-    df_step_idf = idf(df_step_tf)
-    df_step_tf_idf = tf_idf(df_step_tf, df_step_idf)
-    return df_step_tf_idf
-
+def ToCSV(dataframe, topic,name = 'archivoCSV'):
+    addr ='Graficas/' + topic + '/'+ name + '.csv'
+    dataframe.to_csv(addr, sep=';', encoding = 'utf-8') 
 
 # ====================================================================================
 # ********************************* FUNCION PRICIPAL *********************************
@@ -73,7 +69,7 @@ def process_topic(dir_addr, topic_name, Max , func = Tokenize_Lemma):
     topic_name = 'rt ' + spr_punctuation(topic_name.lower()) #+ ' ' + lemmatize(topic_name.lower())
     topic_name = topic_name.split(' ')
     StopWords.extend((topic_name))
-    print(StopWords)
+    #print(StopWords)
     TF_IDF = TfidfVectorizer(stop_words = StopWords, tokenizer = func)
 
     df_tweets = df_data(dir_addr, Max)
@@ -89,10 +85,10 @@ def process_topic(dir_addr, topic_name, Max , func = Tokenize_Lemma):
     
 
 # ------------------------ EJEMPLO COMO PROCESAR UN TEMA ------------------------
-topic = '#BetoASaber'
-dir_addr = 'tweets/' + topic
+# topic = 'Cuba'
+# dir_addr = 'tweets/' + topic
 
-Max = 2000
-df_tf_idf = process_topic(dir_addr, topic, Max)
-#ToCSV(df_tf_idf, topic, name=topic+'_tf_idf')
-mkWordCloud(df_tf_idf, str(Max) + "t_" + topic + '_Lemma', topic)
+# Max = 2000
+# df_tf_idf = process_topic(dir_addr, topic, Max)
+# ToCSV(df_tf_idf, topic, name=topic+'_tf_idf')
+# mkWordCloud(df_tf_idf, str(Max) + "t_" + topic + '_Lemma', topic)
