@@ -30,6 +30,7 @@ print(names)
 
 ntweets = int(input("Cuantos tweets deseas? => "))
 
+count = 0
 for key in names:
     # separamos temas por carpetas
     carpeta = 'tweets/' + str(key)
@@ -44,7 +45,7 @@ for key in names:
             rt = tweet.retweeted_status
             text = rt.full_text
             
-        name_file = carpeta + '/' + tweet.id_str + ".txt"
+        name_file = carpeta + '/' + tweet.id_str[14:] + ".txt"
         with open(name_file, 'a', encoding="utf-8") as file:
             file.write(text)
         
