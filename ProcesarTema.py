@@ -83,10 +83,10 @@ def process_topic(dir_addr, topic_name, Max , func = Tokenize_Lemma):
     
 
 # ------------------------ EJEMPLO COMO PROCESAR UN TEMA ------------------------
-topic = 'Castillo_20t'
-dir_addr = 'tweets/' + topic
+# topic = 'Castillo_20t'
+# dir_addr = 'tweets/' + topic
 
-Max = 20
-df_tf_idf = process_topic(dir_addr, topic, Max)
-ToCSV(df_tf_idf, topic, name=topic+'_tf_idf')
-mkWordCloud(df_tf_idf, str(Max) + "t_" + topic + '_Lemma', topic)
+# Max = 20
+# df_tf_idf = process_topic(dir_addr, topic, Max)
+# ToCSV(df_tf_idf, topic, name=topic+'_tf_idf')
+# mkWordCloud(df_tf_idf, str(Max) + "t_" + topic + '_Lemma', topic)
