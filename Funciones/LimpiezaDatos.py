@@ -11,7 +11,7 @@ import stanza
 # Funcion que limpia las palabras de caracteres especiales
 def spr_punctuation(word):
     # special_char no debe tener espacios
-    special_char = '\\|\\%\\»\\“\\”\\#\\,\\:\\;\\.\\¿\\?\\!\\¡\\/\\@\\…\\(\\)\\>\\<'
+    special_char = '\\|\\%\\»\\“\\”\\#\\,\\:\\;\\.\\¿\\?\\!\\¡\\/\\@\\…\\(\\)\\>\\<\\▶'
     regex = '[\\!\\"\\"\\#\\$\\%\\&\\\'\\(\\)\\*\\+\\,\\-\\.\\' + special_char +'\\/\\:\\;\\<\\=\\>\\?\\@\\[\\\\\\]\\¡\\^\\`\\{\\|\\}\\~]'
     special_char = special_char + regex
     delimit = "_"
