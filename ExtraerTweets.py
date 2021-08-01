@@ -30,29 +30,24 @@ print(names)
 
 ntweets = int(input("Cuantos tweets deseas? => "))
 
+count = 0
 for key in names:
-    # separamos temas por carpetas
-    carpeta = 'tweets/' + str(key)
+    # separamos temas por tema
+    corpus = 'tweets/' + str(key)
     graficos = 'Graficas/' + str(key)
-    if not(os.path.isdir(carpeta)):
-        os.mkdir(carpeta)
+    if not(os.path.isdir(corpus)):
+        os.mkdir(corpus)
+
+    if not(os.path.isdir(graficos)):
         os.mkdir(graficos)
 
-    for tweet in tweepy.Cursor(api.search, q = key, tweet_mode = "extended",  lang = 'es' ).items(ntweets):
+    for tweet in tweepy.Cursor(api.search, q = key, tweet_mode = "extended",  lang = 'es').items(ntweets):
         text = tweet.full_text
         if tweet.full_text.startswith('RT'):
             rt = tweet.retweeted_status
             text = rt.full_text
             
-        name_file = carpeta + '/' + tweet.id_str + ".txt"
+        name_file = corpus + '/' + tweet.id_str[14:] + ".txt"
         with open(name_file, 'a', encoding="utf-8") as file:
             file.write(text)
         
-
-
-
-
-
-
-
-

@@ -14,26 +14,24 @@ warnings.filterwarnings('ignore')
 
 # ================================= LIMPIEZA DE DATOS =================================
 def df_data(topic_addr, Max):
-    cl_data = []
+    df = pd.DataFrame(columns=["id", "text"])
     with os.scandir(topic_addr) as tweets_dir:
         c = 0
         for tweet in tweets_dir:
             if (c == Max):
                 break
-            tmp = []
-            with open(tweet.path) as tweet_js:
-                tweet = json.load(tweet_js)
-                full_text = tweet["full_text"]
-                new_text = spr_emoji(full_text)
+            with open(tweet.path, "r", encoding="utf-8") as tweet_txt:
+                text = tweet_txt.read()
+                new_text = spr_emoji(text)
                 new_text = new_text.lower() 
                 new_text = re.sub('http\S+', ' ', new_text)
                 new_text = spr_punctuation(new_text)
                 new_text = re.sub("\d+", ' ', new_text)
                 new_text = re.sub("\\s+", ' ', new_text)
-                tmp.append(new_text)
-            cl_data.append(tmp)
+            
+            id = tweet_txt.name.split("\\")[-1][:5]
+            df = df.append({"id":id, "text":new_text}, ignore_index=True)
             c += 1
-    df = pd.DataFrame(cl_data, columns=['Texto'])
     return df
 
 # ================================= TOKENIZAR DATOS =================================
@@ -73,7 +71,7 @@ def process_topic(dir_addr, topic_name, Max , func = Tokenize_Lemma):
     TF_IDF = TfidfVectorizer(stop_words = StopWords, tokenizer = func)
 
     df_tweets = df_data(dir_addr, Max)
-    corpus = list(df_tweets['Texto'])
+    corpus = list(df_tweets['text'])
 
     vecs = TF_IDF.fit_transform(corpus)
     feature_names = TF_IDF.get_feature_names()
@@ -85,10 +83,10 @@ def process_topic(dir_addr, topic_name, Max , func = Tokenize_Lemma):
     
 
 # ------------------------ EJEMPLO COMO PROCESAR UN TEMA ------------------------
-# topic = 'Cuba'
+# topic = 'Castillo_20t'
 # dir_addr = 'tweets/' + topic
 
-# Max = 2000
+# Max = 20
 # df_tf_idf = process_topic(dir_addr, topic, Max)
 # ToCSV(df_tf_idf, topic, name=topic+'_tf_idf')
 # mkWordCloud(df_tf_idf, str(Max) + "t_" + topic + '_Lemma', topic)
