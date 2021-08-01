@@ -36,7 +36,7 @@ for key in names:
     graficos = 'Graficas/' + str(key)
     if not(os.path.isdir(carpeta)):
         os.mkdir(carpeta)
-        #os.mkdir(graficos)
+        os.mkdir(graficos)
 
     for tweet in tweepy.Cursor(api.search, q = key, tweet_mode = "extended",  lang = 'es' ).items(ntweets):
         text = tweet.full_text
