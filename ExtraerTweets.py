@@ -1,3 +1,4 @@
+import pandas as pd
 import tweepy
 import json
 import os
@@ -20,34 +21,34 @@ trends = data["trends"]
 names = list(set([trend["name"] for trend in trends]))
 
 # top 5
-#names = names[:10]
-print("Total de Temas", len(names))
+names = names[:5]
+#print("Total de Temas", len(names))
 print(names)
 
-a = input("Escoge un Tema: ")
-names = [a]
-print(names)
+#a = input("Escoge un Tema: ")
+#names = [a]
+#print(names)
 
-ntweets = int(input("Cuantos tweets deseas? => "))
+ntweets = 500 #int(input("Cuantos tweets deseas? => "))
 
-count = 0
-for key in names:
+for topic in names:
     # separamos temas por tema
-    corpus = 'tweets/' + str(key)
-    graficos = 'Graficas/' + str(key)
-    if not(os.path.isdir(corpus)):
-        os.mkdir(corpus)
+    corpus = 'tweets/' + str(topic)
+    graficos = 'Graficas/' + str(topic)
 
     if not(os.path.isdir(graficos)):
         os.mkdir(graficos)
 
-    for tweet in tweepy.Cursor(api.search, q = key, tweet_mode = "extended",  lang = 'es').items(ntweets):
+    dic = {"id":[], "text":[]}
+    for tweet in tweepy.Cursor(api.search, q = topic, tweet_mode = "extended",  lang = 'es').items(ntweets):
         text = tweet.full_text
         if tweet.full_text.startswith('RT'):
             rt = tweet.retweeted_status
             text = rt.full_text
-            
-        name_file = corpus + '/' + tweet.id_str[14:] + ".txt"
-        with open(name_file, 'a', encoding="utf-8") as file:
-            file.write(text)
+        
+        dic["id"].append(tweet.id_str[14:])
+        dic["text"].append(text)
+    df = pd.DataFrame(dic["text"], columns=["text"], index=dic["id"])
+    df.to_csv(corpus + '.csv', sep=';', encoding='utf-8')
+    
         

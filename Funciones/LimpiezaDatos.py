@@ -11,12 +11,11 @@ import stanza
 # Funcion que limpia las palabras de caracteres especiales
 def spr_punctuation(word):
     # special_char no debe tener espacios
-    special_char = '\\|\\%\\»\\“\\”\\#\\,\\:\\;\\.\\¿\\?\\!\\¡\\/\\@\\…\\(\\)\\>\\<\\▶'
+    special_char = '\\|\\%\\»\\“\\”\\#\\,\\:\\;\\.\\¿\\?\\!\\¡\\/\\@\\…\\(\\)\\>\\<\\▶\\➡\\€\\►'
     regex = '[\\!\\"\\"\\#\\$\\%\\&\\\'\\(\\)\\*\\+\\,\\-\\.\\' + special_char +'\\/\\:\\;\\<\\=\\>\\?\\@\\[\\\\\\]\\¡\\^\\`\\{\\|\\}\\~]'
-    special_char = special_char + regex
-    delimit = "_"
     new_word = re.sub(regex , "", word)
 
+    delimit = "_"
     for i in delimit:
         new_word = new_word.replace(i, " ")
     return new_word
@@ -31,7 +30,7 @@ def spr_emoji(string):
 # Elimina los emojis No Considerados
 def spr_emojis_NC(string):
     # special_emojis no debe tener espacios
-    special_emojis = "❤️⚽🤏🤝✅�🥺❌🤩🤔✌🤨🤡☕☔🤗🤣🤮🥳🥈"
+    special_emojis = "❤️⚽🤏🤝✅�🥺❌🤩🤔✌🤨🤡☕☔🤗🤣🤮🥳🥈⏰🆚🤬✍⏭"
     for i in special_emojis:
         string = string.replace(i, "")
     return string
