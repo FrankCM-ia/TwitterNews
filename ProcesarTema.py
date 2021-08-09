@@ -1,17 +1,23 @@
-from operator import index
-import os
+from operator import add
 import re
-import json
+import nltk
 import pandas as pd
-from nltk import tokenize
+import seaborn as sns
 from nltk.corpus import stopwords
 import matplotlib.pyplot as plt
+from matplotlib import style
 from wordcloud import WordCloud
 from Funciones.LimpiezaDatos import *
 from Funciones.TokenizarDatos import *
 from sklearn.feature_extraction.text import TfidfVectorizer
+from sklearn.decomposition import LatentDirichletAllocation
 import warnings
 warnings.filterwarnings('ignore')
+
+
+#%matplotlib inline  
+style.use('fivethirtyeight')
+sns.set(style='whitegrid',color_codes=True)
 
 # ================================= LIMPIEZA DE DATOS =================================
 def df_data(file_csv):
@@ -21,15 +27,9 @@ def df_data(file_csv):
   dic = {k:v for k,v in enumerate(columns)}
   df.rename(index=dic, inplace=True)
 
-  for i in df.index:
-    text = str(df.loc[i].text)
-    new_text = spr_emoji(text)
-    new_text = new_text.lower() 
-    new_text = re.sub('http\S+', ' ', new_text)
-    new_text = spr_punctuation(new_text)
-    #new_text = re.sub("\d+", ' ', new_text)
-    new_text = re.sub("\\s+", ' ', new_text)
-    df.loc[i] = new_text
+  df['text'] = df['text'].apply(func = clean_text)
+  # "NOUN","ADJ","ADV","PROPN","NUM", "VERB"
+  df['text'] = df['text'].apply(func = Tagging, Tipos = ["NOUN","ADJ","ADV"])  
   return df
 
 # ================================= TOKENIZAR DATOS =================================
@@ -58,39 +58,45 @@ def ToCSV(dataframe, topic, type):
     name = re.sub('.csv', "", topic)
     addr ='Graficas/' + name + '/'+ name + type + '.csv'
     dataframe.to_csv(addr, sep=';', encoding = 'utf-8') 
-    
 
 # ====================================================================================
 # ********************************* FUNCION PRICIPAL *********************************
 # ====================================================================================
 def process_topic(dir_addr, topic_name, func = Tokenize_Lemma):
     df_tweets = df_data(dir_addr)
-    ToCSV(df_tweets, topic_name, '')
-    
+    name = re.sub('.csv', "", topic_name)
+    #ToCSV(df_tweets, topic_name, '') 
+
     StopWords = list(stopwords.words('spanish'))
-    topic_name = 'rt ' + spr_punctuation(topic_name.lower()) #+ ' ' + lemmatize(topic_name.lower())
+    topic_name = 'rt ' + PO + spr_punctuation(topic_name.lower()) #+ ' ' + lemmatize(topic_name.lower())
     topic_name = topic_name.split(' ')
     StopWords.extend((topic_name))
+
     TF_IDF = TfidfVectorizer(stop_words = StopWords, tokenizer = func)
+    text_vec = TF_IDF.fit_transform(df_tweets['text'])
 
-    corpus = list(df_tweets['text'])
-    ids = df_tweets.index
+    lda_model=LatentDirichletAllocation(n_components = 4 ,learning_method='online',random_state=42,max_iter=75)
+    lda_top=lda_model.fit_transform(text_vec)
+    vocab = TF_IDF.get_feature_names()
 
-    vecs = TF_IDF.fit_transform(corpus)
-    feature_names = TF_IDF.get_feature_names()
-    #print(feature_names)
-    dense = vecs.todense()
-    lst = dense.tolist()
-    df = pd.DataFrame(lst, columns=feature_names, index=ids)
-    return df
-    
+    for i in range(0,len(lda_model.components_)):
+        imp_words_topic=""
+        comp = lda_model.components_[i]
+        vocab_comp = zip(vocab, comp)
+        sorted_words = sorted(vocab_comp, key= lambda x:x[1], reverse=True)[:50]
+        for word in sorted_words:
+            imp_words_topic=imp_words_topic+" "+word[0]
+            
+        addr ='Graficas/' + name + '/'+ name + 'subtopic' + str(i) + '.png'
+        wordcloud = WordCloud(width=600, height=400).generate(imp_words_topic)
+        wordcloud.to_file(addr)
 
 # ------------------------ EJEMPLO COMO PROCESAR UN TEMA ------------------------
-topic = 'Malmo.csv'
+topic = '#CierrenWillax.csv'
 dir_addr = 'tweets/' + topic
 
-#df  = df_data(dir_addr)
-#ToCSV(df, topic)
-# df_tf_idf = process_topic(dir_addr, topic)
-# ToCSV(df_tf_idf, topic, '_tfidf')
-# mkWordCloud(df_tf_idf, topic)
+# df  = df_data(dir_addr)
+# ToCSV(df,topic,'')
+process_topic(dir_addr, topic)
+#ToCSV(df_tf_idf, topic, '_tfidf')
+#mkWordCloud(df_tf_idf, topic)

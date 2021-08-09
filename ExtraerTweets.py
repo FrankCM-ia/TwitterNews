@@ -21,7 +21,7 @@ trends = data["trends"]
 names = list(set([trend["name"] for trend in trends]))
 
 # top 5
-names = names[:5]
+names = names[:3]
 #print("Total de Temas", len(names))
 print(names)
 
@@ -29,7 +29,7 @@ print(names)
 #names = [a]
 #print(names)
 
-ntweets = 500 #int(input("Cuantos tweets deseas? => "))
+ntweets = 800 #int(input("Cuantos tweets deseas? => "))
 
 for topic in names:
     # separamos temas por tema
@@ -40,7 +40,7 @@ for topic in names:
         os.mkdir(graficos)
 
     dic = {"id":[], "text":[]}
-    for tweet in tweepy.Cursor(api.search, q = topic, tweet_mode = "extended",  lang = 'es').items(ntweets):
+    for tweet in tweepy.Cursor(api.search, q = topic, tweet_mode = "extended",  lang = 'es' ).items(ntweets):
         text = tweet.full_text
         if tweet.full_text.startswith('RT'):
             rt = tweet.retweeted_status
