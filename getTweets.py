@@ -24,6 +24,10 @@ top_trends = sorted(trends)
 print("-" * 50," TOP TRENDS EN PERU ", "-" * 50)
 print(top_trends)
 
+# TEMAS
+temas = ['internacional', 'sociedad', 'educacion', 'medio ambiente', 'economia', 'ciencia', 'tecnologia', 'cultura', 'television']
+top_trends += temas
+
 # Obtener tweets
 def get_tweets_tweepy(trend, items=500):
     # Parametros de Cursor: -filter:retweets , result_type = "popular"
