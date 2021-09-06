@@ -2,8 +2,8 @@ import os
 import re
 from matplotlib.pyplot import text
 import pandas as pd
-from Funciones.LimpiezaDatos import *
-from ProcesarTema import ToCSV, process_topic
+from functions import *
+from processTopic import ToCSV, process_topic
 
 dir_corpus = 'tweets/'
 Ldf_incidents = []
