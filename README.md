@@ -6,8 +6,8 @@
 ### Datos Academicos 📖
 
 - **Institucion:** Universidad Nacional de San Antonio Abad del Cusco
-- **Facultad:** Facultad de ingenieria electrica, electronica, informatica y mecanica
-- **Escuela Prof:** Ingenieria Informatica y de Sistemas
+- **Facultad:** Facultad de Ingeniería Eléctrica, Electrónica, Informática y Mecánica
+- **Escuela Prof:** Ingeniería Informática y de Sistemas
 
 #### Docente:
 
@@ -19,12 +19,11 @@
 
 #### Autores:✒️
 
-- **Ronaldinho Vega Centeno Olivera** - _GitHub Account_ - [DinhoVCO](https://github.com/DinhoVCO)
-- **Daniel Eduardo Sarco Jacinto** - _GitHub Account_ - [Gogetassj999](https://github.com/Gogetassj999)
 - **Elizon Frank Carcausto Mamani** - _GitHub Account_ - [FrankCM-ia](https://github.com/FrankCM-ia)
-- **Rosmel Uriel Deza Condori** - _GitHub Account_ - [RosmelDeza](https://github.com/RosmelDeza)
-- **Alex Christopher Villafuerte Turpo** - _GitHub Account_ - [SAXPADS](https://github.com/SAXPADS)
-- **Mileydy Ninantay Diaz** - _GitHub Account_ - [mile1107](https://github.com/mile1107)
+- **Alexander Javier Huaman Guevara** - _GitHub Account_ - [alexanderhg222](https://github.com/alexanderhg222)
+- **Charlie Joel Luna Ccasani** - _GitHub Account_ - [CharlieLuna312](https://github.com/CharlieLuna312)
+- **Nadiabeth Diana Mallqui Apaza** - _GitHub Account_ - [Nadiabeth15](https://github.com/Nadiabeth15)
 - **Richard Mikhael Pereira Chinchero** - _GitHub Account_ - [Richrd-321](https:github.com/Richrd-321)
+- **Jeremyk Rufino Vargas Arqque** - _GitHub Account_ - [jeremva3](https:github.com/jeremva3)
 ## GO
 
