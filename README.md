@@ -1,4 +1,4 @@
-# Grupo Nro 1
+# Grupo Nro 2
 # **<center> 💻 REPOSITORIO GENERAL DEL CURSO PLN 💻 </center>**
 
 ---
