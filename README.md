@@ -25,5 +25,6 @@
 - **Nadiabeth Diana Mallqui Apaza** - _GitHub Account_ - [Nadiabeth15](https://github.com/Nadiabeth15)
 - **Richard Mikhael Pereira Chinchero** - _GitHub Account_ - [Richrd-321](https:github.com/Richrd-321)
 - **Jeremyk Rufino Vargas Arqque** - _GitHub Account_ - [jeremva3](https:github.com/jeremva3)
+- **Milagros Yarahuaman Rojas** - _GitHub Account_ - [prami31](https://github.com/prami31)
 ## GO
 
