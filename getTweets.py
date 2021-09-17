@@ -13,23 +13,26 @@ def get_auth():
     auth.set_access_token(access_token, access_token_secret)
     return auth
 
-auth = get_auth()
-api = tweepy.API(auth, wait_on_rate_limit_notify=True , wait_on_rate_limit=True)
+def getTrend():
+    # Validacion de usuario
+    auth = get_auth()
+    api = tweepy.API(auth, wait_on_rate_limit_notify=True , wait_on_rate_limit=True)
+    
+    #Encontrar tweets que son tendencia en el momento actual PERU = 23424919 , delimitador de peru 
+    data = api.trends_place(23424919)[0]
 
-#Encontrar tweets que son tendencia en el momento actual PERU = 23424919 , delimitador de peru 
-data = api.trends_place(23424919)[0]
-#tomar los top trends
-trends = {dic['name']:dic['tweet_volume'] for dic in data['trends']}
-top_trends = sorted(trends)
-print("-" * 50," TOP TRENDS EN PERU ", "-" * 50)
-print(top_trends)
+    #tomar los top trends
+    trends = {dic['name']:dic['tweet_volume'] for dic in data['trends']}
+    top_trends = sorted(trends)
+    print("[✓] Trends successfully extracted.")
+    return top_trends
 
 # TEMAS
-temas = ['internacional', 'sociedad', 'educacion', 'medio ambiente', 'economia', 'ciencia', 'tecnologia', 'cultura', 'television']
-top_trends += temas
+# temas = ['internacional', 'sociedad', 'educacion', 'medio ambiente', 'economia', 'ciencia', 'tecnologia', 'cultura', 'television']
+# top_trends += temas
 
 # Obtener tweets
-def get_tweets_tweepy(trend, items=500):
+def get_tweets_tweepy(trend, items=500, api = tweepy.API(get_auth(), wait_on_rate_limit_notify=True , wait_on_rate_limit=True)):
     # Parametros de Cursor: -filter:retweets , result_type = "popular"
     with open("tweets/" + trend + '.json', 'a', encoding='utf-8') as file:
         for tweet in tweepy.Cursor(api.search, q = trend, tweet_mode = "extended", lang = 'es', result_type = "mixed").items(items):
@@ -37,8 +40,11 @@ def get_tweets_tweepy(trend, items=500):
             dic["id"] = tweet.id_str
             text = tweet.full_text
             if tweet.full_text.startswith('RT'):
-                rt = tweet.retweeted_status
-                text = rt.full_text
+                try:
+                    rt = tweet.retweeted_status
+                    text = rt.full_text
+                except:
+                    pass
             dic["text"] = text
             dic["screen_name"] = tweet.user.screen_name
             dic["retweet_count"] = tweet.retweet_count
@@ -48,14 +54,15 @@ def get_tweets_tweepy(trend, items=500):
             file.write('\n')
     print('[✓] ' + str(items) + ' tweets received about '+ trend)
 
-top_trends = ['Neymar']
-for trend in top_trends:
-    # Crear su carpeta de resultados del tema
-    results = 'results/' + str(trend)
-    if not(os.path.isdir(results)):
-        os.mkdir(results)
+# top_trends = ['Neymar']
+# for trend in top_trends:
+#     # Crear su carpeta de resultados del tema
+#     results = 'results/' + str(trend)
+#     if not(os.path.isdir(results)):
+#         os.mkdir(results)
 
-    # Obtener tweets
-    get_tweets_tweepy(trend, items=10)
+#     # Obtener tweets
+#     get_tweets_tweepy(trend, items=10)
     
 
+#get_tweets_tweepy("Alianza")

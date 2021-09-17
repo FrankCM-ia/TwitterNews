@@ -18,7 +18,7 @@ style.use('fivethirtyeight')
 sns.set(style='whitegrid',color_codes=True)
 
 # ================================= LIMPIEZA DE DATOS =================================
-def df_data(file_js):
+def clean_data(file_js):
   df = pd.read_json(file_js, lines=True)
   df['text'] = df['text'].apply(func = clean_text)
 
@@ -58,13 +58,13 @@ def ToCSV(dataframe, topic, type):
 # ====================================================================================
 def process_topic(dir_addr, topic_name, func = Tokenize_Lemma):
     # Limpiar la data
-    df_tweets = df_data(dir_addr)
+    df_tweets = clean_data(dir_addr)
     name = re.sub('.json', "", topic_name)
     #ToCSV(df_tweets, topic_name, '') 
 
     # define los stopwords
     StopWords = list(stopwords.words('spanish'))
-    topic_name = 'rt ' + spr_punctuation(topic_name.lower()) #+ ' ' + lemmatize(topic_name.lower())
+    topic_name = 'rt' + spr_punctuation(topic_name.lower()) #+ ' ' + lemmatize(topic_name.lower())
     topic_name = topic_name.split(' ')
     StopWords.extend((topic_name))
 
@@ -73,7 +73,7 @@ def process_topic(dir_addr, topic_name, func = Tokenize_Lemma):
     text_vec = TF_IDF.fit_transform(df_tweets['text'])
 
     # LDA
-    lda_model=LatentDirichletAllocation(n_components = 4 ,learning_method='online',random_state=42,max_iter=75)
+    lda_model=LatentDirichletAllocation(n_components = 1 ,learning_method='online',random_state=42,max_iter=75)
     lda_top=lda_model.fit_transform(text_vec)
     vocab = TF_IDF.get_feature_names()
 
@@ -91,10 +91,10 @@ def process_topic(dir_addr, topic_name, func = Tokenize_Lemma):
         wordcloud.to_file(addr)
 
 # ------------------------ EJEMPLO COMO PROCESAR UN TEMA ------------------------
-# topic = 'Neymar.json'
-# dir_addr = 'tweets/' + topic
+#topic = 'Alianza.json'
+#dir_addr = 'tweets/' + topic
 # df  = df_data(dir_addr)
 # ToCSV(df,topic,'')
-# process_topic(dir_addr, topic)
+#process_topic(dir_addr, topic)
 # ToCSV(df_tf_idf, topic, '_tfidf')
 # mkWordCloud(df_tf_idf, topic)
