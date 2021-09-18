@@ -47,6 +47,7 @@ def get_tweets_tweepy(trend, items=500, api = tweepy.API(get_auth(), wait_on_rat
                     pass
             dic["text"] = text
             dic["screen_name"] = tweet.user.screen_name
+            dic["user_followers"] = tweet.user.followers_count
             dic["retweet_count"] = tweet.retweet_count
             dic["favorite_count"] = tweet.favorite_count
             dic["language"] = tweet.lang
@@ -65,4 +66,4 @@ def get_tweets_tweepy(trend, items=500, api = tweepy.API(get_auth(), wait_on_rat
 #     get_tweets_tweepy(trend, items=10)
     
 
-#get_tweets_tweepy("Alianza")
+# get_tweets_tweepy("spiderman", items=10)
