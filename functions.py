@@ -1,7 +1,11 @@
 # =========================================== LIMPIEZA DE DATOS ======================================================
 import re
 import spacy
-import spacy_spanish_lemmatizer
+#import spacy_spanish_lemmatizer
+#import json
+import wikipedia as wiki
+import random
+wiki.set_lang('es')
 
 # Funcion que limpia las palabras de caracteres especiales
 def spr_punctuation(word):
@@ -21,7 +25,7 @@ def spr_emoji(string):
 # Elimina los emojis No Considerados
 def spr_emojis_NC(string):
     # special_emojis no debe tener espacios
-    special_emojis = "❤️⚽🤏🤝✅�🥺❌🤩🤔✌🤨🤡☕☔🤗🤣🤮🥳🥈⏰🆚🤬✍⏭"
+    special_emojis = "❤️⚽🤏🤝✅�🥺❌🤩🤔✌🤨🤡☕☔🤗🤣🤮🥳🥈⏰🆚🤬✍⏭⚪"
     for i in special_emojis:
         string = string.replace(i, "")
     return string
@@ -41,8 +45,8 @@ def without_accents(text):
     return text.translate(trans)
 
 def clean_text(text):
-  new_text = text.lower()
-  new_text = without_accents(new_text)
+  new_text = text.lower() 
+  new_text = without_accents(new_text) 
   new_text = clean_url(new_text)
   new_text = spr_emoji(new_text)
   new_text = spr_punctuation(new_text)
@@ -50,9 +54,15 @@ def clean_text(text):
   new_text = re.sub("\d+", ' ', new_text) 
   return new_text
 
+def clean_text_for_enti(text): 
+  new_text = clean_url(text)
+  new_text = spr_emoji(new_text)
+  new_text = spr_punctuation(new_text)
+  new_text = re.sub("\\s+", ' ', new_text) # del espacios en
+  new_text = re.sub("\d+", ' ', new_text) 
+  return new_text
+
 # =========================================== TAG and NERD ======================================================
-
-
 nlp = spacy.load("es_core_news_sm")
 def NER(text):
   # encontrar entidades
@@ -107,7 +117,22 @@ def Tagging(Texto, Tipos):
 # Extraer el steming de cada palabra
 spanishStemmer=SnowballStemmer("spanish", ignore_stopwords=True)
 def stemming(string):
-    return spanishStemmer.stem(string)
+  return spanishStemmer.stem(string)
+
+
+def find_mean(word):
+  try:
+    mean = wiki.summary(word, sentences = 1)
+  except wiki.DisambiguationError as e:
+    try:
+      word = random.choice(e.options)
+      mean = wiki.summary(word, sentences = 1)
+    except:
+      mean = ""
+  except wiki.PageError:
+    mean = ""
+  return mean
+
 
 #text = "#Noticia Nuevo jefe de asesores en el Ministerio de Vivienda es investigado por presunto crimen organizado y lavado de activos https://t.co/RkrwX3Bj9C"
 #doc = nlp(text)

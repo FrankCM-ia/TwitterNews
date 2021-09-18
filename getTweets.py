@@ -2,6 +2,7 @@ import pandas as pd
 import tweepy
 import json
 import os
+import ast
 
 #Validacion de los Keys
 def get_auth():
@@ -13,11 +14,11 @@ def get_auth():
     auth.set_access_token(access_token, access_token_secret)
     return auth
 
+# Validacion de usuario
+auth = get_auth()
+api = tweepy.API(auth, wait_on_rate_limit_notify=True , wait_on_rate_limit=True)
+
 def getTrend():
-    # Validacion de usuario
-    auth = get_auth()
-    api = tweepy.API(auth, wait_on_rate_limit_notify=True , wait_on_rate_limit=True)
-    
     #Encontrar tweets que son tendencia en el momento actual PERU = 23424919 , delimitador de peru 
     data = api.trends_place(23424919)[0]
 
@@ -31,11 +32,16 @@ def getTrend():
 # temas = ['internacional', 'sociedad', 'educacion', 'medio ambiente', 'economia', 'ciencia', 'tecnologia', 'cultura', 'television']
 # top_trends += temas
 
-# Obtener tweets
-def get_tweets_tweepy(trend, items=500, api = tweepy.API(get_auth(), wait_on_rate_limit_notify=True , wait_on_rate_limit=True)):
+# Obtener tweets 
+def get_tweets_tweepy(trend, items=500):
+    # Crear su carpeta de resultados del tema
+    results = 'results/' + str(trend)
+    if not(os.path.isdir(results)):
+        os.mkdir(results)
+
     # Parametros de Cursor: -filter:retweets , result_type = "popular"
     with open("tweets/" + trend + '.json', 'a', encoding='utf-8') as file:
-        for tweet in tweepy.Cursor(api.search, q = trend, tweet_mode = "extended", lang = 'es', result_type = "mixed").items(items):
+        for tweet in tweepy.Cursor(api.search, q = trend + '-filter:retweets filter:media', tweet_mode = "extended", lang = 'es', result_type = "mixed").items(items):
             dic = {}
             dic["id"] = tweet.id_str
             text = tweet.full_text
@@ -50,20 +56,20 @@ def get_tweets_tweepy(trend, items=500, api = tweepy.API(get_auth(), wait_on_rat
             dic["user_followers"] = tweet.user.followers_count
             dic["retweet_count"] = tweet.retweet_count
             dic["favorite_count"] = tweet.favorite_count
+            dic["date"] = str(tweet.created_at)
             dic["language"] = tweet.lang
+            entities = ast.literal_eval(json.dumps(tweet.entities))
+            try:
+                dic["img"] = entities['media'][0]['media_url']
+            except:
+                dic["img"] = ''
             json.dump(dic, file)
             file.write('\n')
     print('[✓] ' + str(items) + ' tweets received about '+ trend)
 
 # top_trends = ['Neymar']
 # for trend in top_trends:
-#     # Crear su carpeta de resultados del tema
-#     results = 'results/' + str(trend)
-#     if not(os.path.isdir(results)):
-#         os.mkdir(results)
-
 #     # Obtener tweets
 #     get_tweets_tweepy(trend, items=10)
-    
 
-# get_tweets_tweepy("spiderman", items=10)
+# get_tweets_tweepy("spiderman", items=100)
