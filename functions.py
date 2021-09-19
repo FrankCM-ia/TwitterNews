@@ -110,7 +110,7 @@ def Tagging(Texto, Tipos):
   Aux = ""
   for Palabra in Doc:
     if(Palabra.pos_ in Tipos):      
-      Aux=Aux+str(Palabra)+" "
+      Aux = Aux + str(Palabra) + ""
   return Aux[0:len(Aux)-1]
 
 
