@@ -29,15 +29,15 @@ def getTrend():
     return top_trends
 
 # TEMAS
-# temas = ['internacional', 'sociedad', 'educacion', 'medio ambiente', 'economia', 'ciencia', 'tecnologia', 'cultura', 'television']
+temas = ['internacional', 'sociedad', 'educacion', 'medio ambiente', 'economia', 'ciencia', 'tecnologia', 'cultura', 'television']
 # top_trends += temas
 
 # Obtener tweets 
 def get_tweets_tweepy(trend, items=500):
     # Crear su carpeta de resultados del tema
-    results = 'results/' + str(trend)
-    if not(os.path.isdir(results)):
-        os.mkdir(results)
+    #results = 'results/' + str(trend)
+    #if not(os.path.isdir(results)):
+    #    os.mkdir(results)
 
     # Parametros de Cursor: -filter:retweets , result_type = "popular"
     with open("tweets/" + trend + '.json', 'a', encoding='utf-8') as file:
@@ -72,4 +72,4 @@ def get_tweets_tweepy(trend, items=500):
 #     # Obtener tweets
 #     get_tweets_tweepy(trend, items=10)
 
-# get_tweets_tweepy("spiderman", items=100)
+#get_tweets_tweepy("spiderman", items=100)
