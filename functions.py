@@ -2,9 +2,10 @@
 import re
 import spacy
 #import spacy_spanish_lemmatizer
-#import json
+import os
 import wikipedia as wiki
 import random
+import operator
 wiki.set_lang('es')
 
 # Funcion que limpia las palabras de caracteres especiales
@@ -134,9 +135,135 @@ def find_mean(word):
   return mean
 
 
+def get_value(dict, key):
+  try:
+    return dict[key]
+  except:
+    return 0
+
+def get_glossaries():
+    glossaries = {}
+    with os.scandir('glossaries') as gloss_scanIte:
+        for txt in gloss_scanIte:
+            tmp = open(txt, 'r').readlines()
+            lines = [ without_accents(word.rsplit('\n')[0]) for word in tmp]
+            name = txt.path.split('\\')[-1].split('.')[0]
+            glossaries[name] = lines
+    return glossaries
+
+def eval_top_words(text, set_words):
+    text_clean = clean_text(text)
+    tokens = text_clean.split()
+    c = 0
+    for token in tokens:
+        if token in set_words:
+            c += 1
+    return c
+
+
+#cargar glosarios
+def get_glossaries():
+    glossaries = {}
+    with os.scandir('glossaries') as gloss_scanIte:
+        for txt in gloss_scanIte:
+            tmp = open(txt, 'r').readlines()
+            lines = [ without_accents(word.rsplit('\n')[0]) for word in tmp]
+            name = txt.path.split('\\')[-1].split('.')[0]
+            glossaries[name] = lines
+    return glossaries
+  
+def tag_news(text):
+    glossaries = get_glossaries()
+    point = 0
+    tag = 'otros'
+    for key in glossaries:
+      if key != 'zbad':
+        c = eval_top_words(text, glossaries[key])
+        if c > point:
+          point = c
+          tag = key
+      else:
+        c = eval_top_words(text, glossaries[key])
+        point = point - c
+    if point <= 0: tag = 'otros'
+    return tag + ' ' + str(point)
+
+def get_url(text):
+    links = []
+    tokens = text.split()
+    for token in tokens:
+        if token.startswith('http'):
+            links.append(token)
+    if len(links) == 0:
+        return ""
+    else:
+        return links
+
+def find_top_group(data):
+    data_top_by_favorite = data.sort_values('favorite_count', ascending=False)
+    top_tweets_by_favorite = { k:2 for k in data_top_by_favorite['id'].head(10)}
+
+    data_top_by_user_followers = data.sort_values('user_followers', ascending=False)
+    top_tweets_by_user_followers = { k:3 for k in data_top_by_user_followers['id'].head(10)} 
+
+    data_top_by_retweet_count = data.sort_values('retweet_count', ascending=False)
+    top_tweets_by_retweet_count = { k:1 for k in data_top_by_retweet_count['id'].head(10)}
+
+    data_score = data.copy()
+    data_score['score'] = data_score['user_followers'] * data_score['retweet_count'] * data_score['favorite_count']
+    top_tweets_by_score = { k:4 for k in data_score['id'].head(10)}
+
+    ids = set(top_tweets_by_favorite.keys()) | set(top_tweets_by_user_followers.keys()) | set(top_tweets_by_retweet_count.keys()) | set(top_tweets_by_score.keys())
+    headlines = {}
+    for id in ids:
+        fa = get_value(top_tweets_by_favorite, id)
+        uf = get_value(top_tweets_by_user_followers, id)
+        rc = get_value(top_tweets_by_retweet_count, id)
+        sc = get_value(top_tweets_by_score, id)
+        headlines[id] = fa + uf + rc + sc
+    top_headlines = sorted(headlines.items(), key = operator.itemgetter(1), reverse=True)[:10]
+    top_headlines_dic = { i[0]:i[1]  for i in top_headlines}
+
+    data_headlines =  data[data.id.isin(list(top_headlines_dic.keys()))]
+    data_headlines['score'] = [ top_headlines_dic[id] for id in data_headlines['id']]
+    top_data_headlines = data_headlines.sort_values('score', ascending=False)
+    return top_data_headlines
+
+# Noticia
+def create_new(row_data_news):
+    new = {}
+    new['id'] = row_data_news['id']
+    new['title'] = row_data_news['text']
+    new['date'] = str(row_data_news['date'])
+    new['screen_name'] = row_data_news['screen_name']
+    new['name'] = row_data_news['name']
+    new['img'] = row_data_news['img']
+    new['url'] = row_data_news['url']
+    new['category'] = row_data_news['tag']
+    new['score one'] = row_data_news['sum_p']
+    new['score two'] = row_data_news['user_followers']
+    return new
 #text = "#Noticia Nuevo jefe de asesores en el Ministerio de Vivienda es investigado por presunto crimen organizado y lavado de activos https://t.co/RkrwX3Bj9C"
 #doc = nlp(text)
 #aux = list(doc.ents)
 #words = " ".join([str(i) for i in aux])
 #words = " ".join([w for w in list(doc.ents)])
 #print(words)
+
+
+# # Definir stopwords
+# stop_word_es = get_stop_words('spanish')
+# def find_top_words(data):
+#     # contabilizar frecuencias mediante CV
+#     cv = CountVectorizer(stop_words= stop_word_es)
+#     cv_matrix = cv.fit_transform(data['text'])
+#     count_words = np.sum(cv_matrix.toarray(), axis=0)
+#     words_cv =  {key:count_words[cv.vocabulary_[key]] for key in cv.vocabulary_}
+#     top_words_cv = sorted(words_cv.items(), key=operator.itemgetter(1), reverse=True)
+
+#     # contabilizar frecuencia mediante IDF
+#     tfidf = TfidfTransformer()
+#     tfidf_matrix = tfidf.fit_transform(cv_matrix)
+#     words_idf =  dict(zip(cv.get_feature_names(), tfidf.idf_))
+#     top_words_idf =  sorted(words_idf.items(), key=operator.itemgetter(1), reverse=True)
+#     return top_words_cv, top_words_idf
