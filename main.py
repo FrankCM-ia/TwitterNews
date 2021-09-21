@@ -67,9 +67,11 @@ def for_each_trend(trend_path):
     print('[✓] ' + trend_name + ' news found successfully.')
     return top_data_headlines_final
 
-#for_each_trend('tweets\#BTSxWeAreUnderTheSameMoon.json')
+
+# ================================= MAIN =================================
+
 categories = list(get_glossaries().keys())[:-1] + ['cusco']
-topics = ['vacuna peru','economia peru', 'television peru', 'futbol', 'deportes peru','voley']
+topics = get_topics()
 news = { i:[] for i in categories }
 with os.scandir('tweets') as tweets:
     for trend in tweets:    
@@ -84,8 +86,17 @@ with os.scandir('tweets') as tweets:
                 if trend_name not in topics:
                     break
 
-for cate in news:
+news_sorted = news.copy()
+news_sorted['inicio'] = []
+for new in news:
+    news_sorted[new] = sorted(news[new], key = lambda dic: dic['score'], reverse = True)
+    if len(news_sorted[new]) != 0:
+        news_sorted['inicio'].append(news_sorted[new][0])
+
+news_sorted['inicio'] = sorted(news_sorted['inicio'], key = lambda dic: dic['score'], reverse = True)
+
+for cate in news_sorted:
     with open('results/'+ cate + '.json', 'w', encoding='utf-8') as file:
         dic={}
-        dic['news'] = news[cate]
+        dic['news'] = news_sorted[cate]
         json.dump(dic, file, indent=4)

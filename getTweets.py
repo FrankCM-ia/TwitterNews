@@ -38,7 +38,9 @@ def getTrend():
     return top_trends
 
 # TEMAS
-temas = ['internacional', 'sociedad', 'educacion', 'medio ambiente', 'economia', 'ciencia', 'tecnologia', 'cultura', 'television']
+def get_topics():
+    return ['vacuna peru','economia peru', 'television peru', 'futbol', 'deportes peru','voley']
+
 # top_trends += temas
 
 # Obtener tweets 
