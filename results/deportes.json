@@ -1,20 +1,6 @@
 {
     "news": [
         {
-            "id": 1440030376705986560,
-            "title": "Un minuto en el Camp Nou, gol del Granada, el mismo que le arruin\u00f3 la liga anterior gan\u00e1ndole tambi\u00e9n de visita. Lo del Barcelona es para para un congreso de psic\u00f3logos. @FCBarcelona 0 - @GranadaCdeF 1.",
-            "date": "2021-09-20 19:09:30",
-            "screen_name": "JorgeBarrazaOK",
-            "name": "Jorge Barraza",
-            "img": "http://pbs.twimg.com/media/E_wDe6NVEAoGJdE.jpg",
-            "url": [
-                "https://t.co/oBNKQTP2rt"
-            ],
-            "category": "deportes",
-            "score one": 5,
-            "score two": 24126
-        },
-        {
             "id": 1440074150882672640,
             "title": "\u00a1GAN\u00d3 PER\u00da \ud83c\uddf5\ud83c\uddea! Una victoria m\u00e1s para el deporte peruano. Las chicas de la Selecci\u00f3n Femenina de Voley Sub-18 gan\u00f3 en su debut (3-1 vs. Egipto) en el Mundial de M\u00e9xico \ud83c\udfc6. \u00a1Siempre arriba, Per\u00fa! \ud83d\udcf8 @volleyballworld",
             "date": "2021-09-20 22:03:27",
@@ -25,8 +11,7 @@
                 "https://t.co/8wELkL9glb"
             ],
             "category": "deportes",
-            "score one": 14,
-            "score two": 36947
+            "score": 14
         },
         {
             "id": 1439897520516177920,
@@ -40,8 +25,7 @@
                 "https://t.co/lvc3efGehC"
             ],
             "category": "deportes",
-            "score one": 8,
-            "score two": 1472597
+            "score": 8
         },
         {
             "id": 1439967459843481600,
@@ -54,8 +38,7 @@
                 "https://t.co/6nBWpl8WX1"
             ],
             "category": "deportes",
-            "score one": 8,
-            "score two": 2640247
+            "score": 8
         },
         {
             "id": 1440075091451076608,
@@ -69,8 +52,7 @@
                 "https://t.co/xVWsptZxBl"
             ],
             "category": "deportes",
-            "score one": 6,
-            "score two": 351
+            "score": 6
         },
         {
             "id": 1440074981858152448,
@@ -83,8 +65,7 @@
                 "https://t.co/uaEvmxoXmd"
             ],
             "category": "deportes",
-            "score one": 6,
-            "score two": 5537
+            "score": 6
         },
         {
             "id": 1440074905966444544,
@@ -97,8 +78,7 @@
                 "https://t.co/OKVyE69RdW"
             ],
             "category": "deportes",
-            "score one": 6,
-            "score two": 391
+            "score": 6
         },
         {
             "id": 1440074757269901312,
@@ -111,8 +91,20 @@
                 "https://t.co/chXasGeYlV"
             ],
             "category": "deportes",
-            "score one": 6,
-            "score two": 6486
+            "score": 6
+        },
+        {
+            "id": 1440030376705986560,
+            "title": "Un minuto en el Camp Nou, gol del Granada, el mismo que le arruin\u00f3 la liga anterior gan\u00e1ndole tambi\u00e9n de visita. Lo del Barcelona es para para un congreso de psic\u00f3logos. @FCBarcelona 0 - @GranadaCdeF 1.",
+            "date": "2021-09-20 19:09:30",
+            "screen_name": "JorgeBarrazaOK",
+            "name": "Jorge Barraza",
+            "img": "http://pbs.twimg.com/media/E_wDe6NVEAoGJdE.jpg",
+            "url": [
+                "https://t.co/oBNKQTP2rt"
+            ],
+            "category": "deportes",
+            "score": 5
         },
         {
             "id": 1440074715595358208,
@@ -126,8 +118,7 @@
                 "https://t.co/DP90G3zbJ0"
             ],
             "category": "deportes",
-            "score one": 5,
-            "score two": 195416
+            "score": 5
         },
         {
             "id": 1440074709652049920,
@@ -141,8 +132,7 @@
                 "https://t.co/6fEt4fnbGe"
             ],
             "category": "deportes",
-            "score one": 5,
-            "score two": 79222
+            "score": 5
         }
     ]
 }

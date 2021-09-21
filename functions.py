@@ -240,8 +240,8 @@ def create_new(row_data_news):
     new['img'] = row_data_news['img']
     new['url'] = row_data_news['url']
     new['category'] = row_data_news['tag']
-    new['score one'] = row_data_news['sum_p']
-    new['score two'] = row_data_news['user_followers']
+    new['score'] = row_data_news['sum_p']
+    #new['score two'] = row_data_news['user_followers']
     return new
 #text = "#Noticia Nuevo jefe de asesores en el Ministerio de Vivienda es investigado por presunto crimen organizado y lavado de activos https://t.co/RkrwX3Bj9C"
 #doc = nlp(text)
