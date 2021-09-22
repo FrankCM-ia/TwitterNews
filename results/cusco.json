@@ -16,19 +16,19 @@
             "sentiment": "sentiment/1440118585783816192.jpg",
             "wordcloud": "wordcloud/1440118585783816192.jpg",
             "entities": [
-                "cirug\u00edas",
+                "FotoNoticia",
+                "m\u00e1s",
                 "pacientes",
+                "INCOR",
+                "regiones",
+                "fotonoticia",
                 "m\u00e9dicos",
                 "enfermedades",
-                "fotonoticia",
                 "atenci\u00f3n",
-                "m\u00e1s",
-                "equipo",
-                "regiones",
+                "informaci\u00f3n",
                 "pa\u00eds",
-                "FotoNoticia",
-                "INCOR",
-                "informaci\u00f3n"
+                "equipo",
+                "cirug\u00edas"
             ]
         },
         {
@@ -47,19 +47,19 @@
             "sentiment": "sentiment/1439710896939356160.jpg",
             "wordcloud": "wordcloud/1439710896939356160.jpg",
             "entities": [
-                "megaproyecto",
-                "Aeropuerto Internacional de Chinchero",
-                "infraestructura",
                 "play",
+                "Internacional",
                 "Chinchero",
                 "aeropuerto de Cusco Dale",
-                "video",
                 "Cusco",
                 "Aeropuerto",
-                "aeropuerto",
+                "Aeropuerto Internacional de Chinchero",
                 "veces",
                 "Dale",
-                "Internacional"
+                "video",
+                "megaproyecto",
+                "infraestructura",
+                "aeropuerto"
             ]
         },
         {
@@ -77,15 +77,15 @@
             "sentiment": "sentiment/1440112697819942912.jpg",
             "wordcloud": "wordcloud/1440112697819942912.jpg",
             "entities": [
-                "ALF",
-                "VIVO",
-                "regi\u00f3n",
-                "Cusco",
-                "https",
-                "rlVkF",
-                "vivo Cusco",
                 "distritos",
-                "incendios"
+                "VIVO",
+                "ALF",
+                "incendios",
+                "vivo Cusco",
+                "Cusco",
+                "rlVkF",
+                "regi\u00f3n",
+                "https"
             ]
         },
         {
@@ -104,8 +104,8 @@
             "sentiment": "sentiment/1440038763829219328.jpg",
             "wordcloud": "wordcloud/1440038763829219328.jpg",
             "entities": [
-                "incendio",
-                "Cusco"
+                "Cusco",
+                "incendio"
             ]
         },
         {
@@ -123,31 +123,31 @@
             "sentiment": "sentiment/1439939873855639552.jpg",
             "wordcloud": "wordcloud/1439939873855639552.jpg",
             "entities": [
-                "elcomercio",
-                "provincia Espinar Cusco Municipalidad",
-                "Agencia Andina",
-                "IncendioForestal",
-                "atv",
-                "COENInforma",
+                "Espinar",
                 "RadioNacionalFM",
-                "PoliciaPeru",
+                "elcomercio",
+                "IncendioForestal",
+                "Agencia",
+                "EDAN",
+                "distrito",
+                "Cusco",
+                "provincia",
                 "tvperu",
                 "personas",
-                "EDAN",
-                "Cusco",
-                "Actualizaci\u00f3n",
-                "peru",
-                "noticias",
-                "Emergencia",
-                "COENInforma Actualizaci\u00f3n sobre IncendioForestal",
-                "BAH",
-                "provincia",
-                "Municipalidad",
-                "Agencia",
-                "peru atv",
-                "Espinar",
+                "Agencia Andina",
+                "atv",
                 "Andina",
-                "distrito"
+                "PoliciaPeru",
+                "noticias",
+                "COENInforma",
+                "peru",
+                "Actualizaci\u00f3n",
+                "provincia Espinar Cusco Municipalidad",
+                "peru atv",
+                "Emergencia",
+                "Municipalidad",
+                "COENInforma Actualizaci\u00f3n sobre IncendioForestal",
+                "BAH"
             ]
         }
     ]

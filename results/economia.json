@@ -1,3 +1,120 @@
 {
-    "news": []
+    "news": [
+        {
+            "id": 1438117145825710080,
+            "title": "Aunque este 2021 el #Ecuador recibi\u00f3 en inversi\u00f3n peruana USD 693 000 hasta marzo, una empresa ya tramita un contrato de inversi\u00f3n por USD 12 millones. Otras alistan su arribo \u00bb",
+            "date": "2021-09-15 12:27:01",
+            "screen_name": "elcomerciocom",
+            "name": "El Comercio",
+            "img": "http://pbs.twimg.com/media/E_U36faWQAUEkJA.jpg",
+            "url": [
+                "https://t.co/vp3V8rOHiR",
+                "https://t.co/QNJbVQ5CZq"
+            ],
+            "category": "economia",
+            "score": 8,
+            "sentiment": "sentiment/1438117145825710080.jpg",
+            "wordcloud": "wordcloud/1438117145825710080.jpg",
+            "entities": [
+                "marzo",
+                "arribo",
+                "contrato",
+                "Ecuador",
+                "empresa",
+                "USD",
+                "millones",
+                "inversi\u00f3n"
+            ]
+        },
+        {
+            "id": 1440717991415476224,
+            "title": "\ud83d\udcfa TV en DIRECTO | Pedro S\u00e1nchez, comparece desde Nueva York: \"Durante este \u00faltimo a\u00f1o y medio vivimos un momento de aceleraci\u00f3n de la historia. El Gobierno va a defender siempre un modelo de mayor cohesi\u00f3n internacional\"",
+            "date": "2021-09-22 16:41:51",
+            "screen_name": "el_pais",
+            "name": "EL PA\u00cdS",
+            "img": "http://pbs.twimg.com/amplify_video_thumb/1440717704785137667/img/R9CxzyNE6OvSogFf.jpg",
+            "url": [
+                "https://t.co/DdRfHTapB9",
+                "https://t.co/iXDqNUeQFZ"
+            ],
+            "category": "economia",
+            "score": 8,
+            "sentiment": "sentiment/1440717991415476224.jpg",
+            "wordcloud": "wordcloud/1440717991415476224.jpg",
+            "entities": [
+                "aceleraci\u00f3n",
+                "DIRECTO",
+                "Pedro",
+                "modelo",
+                "Nueva",
+                "momento",
+                "Gobierno",
+                "historia",
+                "Nueva York",
+                "el Gobierno",
+                "S\u00e1nchez",
+                "York",
+                "Pedro S\u00e1nchez",
+                "a\u00f1o",
+                "cohesi\u00f3n"
+            ]
+        },
+        {
+            "id": 1440697634432315392,
+            "title": "\ud83d\udcc8Variaci\u00f3n precio del d\u00f3lar \ud83d\udcc8 \u23f010:20 AM \ud83d\uddd322 de septiembre #peciodolar #tipoDecambio #dolar #peru #econom\u00eda #variaci\u00f3ndolar #dolarhoy #tendencia",
+            "date": "2021-09-22 15:20:57",
+            "screen_name": "cuantoestadolar",
+            "name": "\u00bfCu\u00e1nto est\u00e1 el d\u00f3lar en el Per\u00fa?",
+            "img": "http://pbs.twimg.com/media/E_5i21uVgAM0ZEQ.png",
+            "url": [
+                "https://t.co/C01HTuluKa"
+            ],
+            "category": "economia",
+            "score": 6,
+            "sentiment": "sentiment/1440697634432315392.jpg",
+            "wordcloud": "wordcloud/1440697634432315392.jpg",
+            "entities": [
+                "peru",
+                "septiembre",
+                "tendencia",
+                "tipodecambio dolar peru",
+                "precio",
+                "Variaci\u00f3n",
+                "econom\u00eda",
+                "d\u00f3lar",
+                "dolar"
+            ]
+        },
+        {
+            "id": 1440663714743533568,
+            "title": "#NoticiasJur\u00eddicas: #SalaIV confirma constitucionalidad de #vacunaci\u00f3n obligatoria; #STF: estados y municipios pueden vacunar a adolescentes sin comorbilidades; #Per\u00fa falleci\u00f3 magistrado del TC; #TS emite abecedario del maltrato habitual. \ud83d\udd17https://t.co/iS0p4fu4n6",
+            "date": "2021-09-22 13:06:10",
+            "screen_name": "anaya_huertas",
+            "name": "Alejandro Anaya Huertas",
+            "img": "http://pbs.twimg.com/media/E_5D0gnUcAw8jk9.jpg",
+            "url": [
+                "https://t.co/3jxoyz6KSt"
+            ],
+            "category": "economia",
+            "score": 5,
+            "sentiment": "sentiment/1440663714743533568.jpg",
+            "wordcloud": "wordcloud/1440663714743533568.jpg",
+            "entities": [
+                "STF",
+                "vacunaci\u00f3n",
+                "abecedario",
+                "estados",
+                "maltrato",
+                "Per\u00fa",
+                "magistrado",
+                "SalaIV",
+                "constitucionalidad",
+                "TC TS",
+                "adolescentes",
+                "municipios",
+                "comorbilidades",
+                "https"
+            ]
+        }
+    ]
 }

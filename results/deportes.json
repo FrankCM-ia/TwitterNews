@@ -16,12 +16,12 @@
             "sentiment": "sentiment/1439802747742785536.jpg",
             "wordcloud": "wordcloud/1439802747742785536.jpg",
             "entities": [
-                "Colombia",
-                "Grandes Colombia",
-                "Grandes",
-                "Mundial de voleibol del",
                 "voleibol",
-                "Mundial"
+                "Mundial de voleibol del",
+                "Colombia",
+                "Mundial",
+                "Grandes",
+                "Grandes Colombia"
             ]
         },
         {
@@ -40,12 +40,50 @@
             "sentiment": "sentiment/1440385794586206208.jpg",
             "wordcloud": "wordcloud/1440385794586206208.jpg",
             "entities": [
-                "cancha",
-                "triunfo",
-                "Bologna",
-                "CooperativaContigo",
                 "Genoa",
-                "Medel"
+                "Medel",
+                "cancha",
+                "Bologna",
+                "triunfo",
+                "CooperativaContigo"
+            ]
+        },
+        {
+            "id": 1440138979504971776,
+            "title": "La CELAC sin duda esconde una agenda socialista detr\u00e1s de hablar de vacunaci\u00f3n, fondos para el desastre y su agencia \u201cespacial\u201d. Expertos invitados de Estados Unidos, Cuba, Venezuela, Bolivia, Paraguay y Per\u00fa desenmascaran las metas del nuevo eje rojo latino. Mi\u00e9rcoles 7pm.",
+            "date": "2021-09-21 02:21:03",
+            "screen_name": "raultortolero1",
+            "name": "Ra\u00fal Tortolero",
+            "img": "http://pbs.twimg.com/media/E_xmxBcUcAoxQAG.jpg",
+            "url": [
+                "https://t.co/GPhCfwvTJ2"
+            ],
+            "category": "deportes",
+            "score": 5,
+            "sentiment": "sentiment/1440138979504971776.jpg",
+            "wordcloud": "wordcloud/1440138979504971776.jpg",
+            "entities": [
+                "Estados Unidos",
+                "Mi\u00e9rcoles",
+                "metas",
+                "Estados",
+                "desastre",
+                "Bolivia",
+                "Venezuela",
+                "agencia",
+                "Per\u00fa",
+                "CELAC",
+                "agencia espacial Expertos",
+                "Paraguay",
+                "fondos",
+                "duda",
+                "celac",
+                "agenda",
+                "Unidos",
+                "Cuba",
+                "eje",
+                "vacunaci\u00f3n",
+                "Expertos"
             ]
         }
     ]

@@ -1,3 +1,25 @@
 {
-    "news": []
+    "news": [
+        {
+            "id": 1440693401259675648,
+            "title": "Esta industria aporta el 10% del #PBI y el 60% de las #exportaciones.",
+            "date": "2021-09-22 15:04:08",
+            "screen_name": "rumbominero",
+            "name": "Revista Rumbo Minero",
+            "img": "http://pbs.twimg.com/media/E_5fAb_VIAs7QU6.jpg",
+            "url": [
+                "https://t.co/kZ1jm1Ciim",
+                "https://t.co/SZzG0MIv9I"
+            ],
+            "category": "espectaculos",
+            "score": 5,
+            "sentiment": "sentiment/1440693401259675648.jpg",
+            "wordcloud": "wordcloud/1440693401259675648.jpg",
+            "entities": [
+                "PBI",
+                "industria",
+                "exportaciones"
+            ]
+        }
+    ]
 }

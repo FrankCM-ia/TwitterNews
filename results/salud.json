@@ -1,3 +1,189 @@
 {
-    "news": []
+    "news": [
+        {
+            "id": 1440053828028489728,
+            "title": "\ud83d\udd34 ATENCI\u00d3N | Si tienes 23 a\u00f1os o m\u00e1s y vives en Lima Metropolitana y Callao, #Vac\u00fanateYa contra la COVID-19. \ud83d\udc89\u2728 \u2705 Acude al centro de vacunaci\u00f3n m\u00e1s cercano a tu domicilio. Una es ninguna. Ponte las dos dosis. \ud83d\udcaa\ud83c\udffb",
+            "date": "2021-09-20 20:42:42",
+            "screen_name": "Minsa_Peru",
+            "name": "Ministerio de Salud",
+            "img": "http://pbs.twimg.com/media/E_wZSwhVgAMSQP_.jpg",
+            "url": [
+                "https://t.co/IXqoEOXF31"
+            ],
+            "category": "salud",
+            "score": 8,
+            "sentiment": "sentiment/1440053828028489728.jpg",
+            "wordcloud": "wordcloud/1440053828028489728.jpg",
+            "entities": [
+                "Callao vac\u00fanateyo",
+                "domicilio",
+                "vacunaci\u00f3n",
+                "Callao",
+                "ATENCI\u00d3N",
+                "dosis",
+                "Metropolitana",
+                "a\u00f1os",
+                "centro",
+                "COVID",
+                "Lima Metropolitana",
+                "atenci\u00f3n",
+                "Lima",
+                "Ponte"
+            ]
+        },
+        {
+            "id": 1440692276959711232,
+            "title": "#Urgente #VacunacionYA Tres meses despu\u00e9s de iniciado el proceso de vacunaci\u00f3n a personas con #VIH en el Per\u00fa, menores de 12 a 17 a\u00f1os a\u00fan no son vacunados contra la Covid-19 @INSN_oficial @Minsa_Peru @SuSaludPeru @ContraloriaPeru",
+            "date": "2021-09-22 14:59:40",
+            "screen_name": "JPanamariac",
+            "name": "Javier Anamaria OCDS",
+            "img": "http://pbs.twimg.com/media/E_5d-puVEAoB77N.jpg",
+            "url": [
+                "https://t.co/zqcweyChkw"
+            ],
+            "category": "salud",
+            "score": 7,
+            "sentiment": "sentiment/1440692276959711232.jpg",
+            "wordcloud": "wordcloud/1440692276959711232.jpg",
+            "entities": [
+                "Urgente",
+                "INSN",
+                "proceso",
+                "meses",
+                "vacunaci\u00f3n",
+                "ContraloriaPeru",
+                "Per\u00fa",
+                "VIH",
+                "Minsa",
+                "a\u00f1os",
+                "SuSaludPeru",
+                "Peru",
+                "Covid",
+                "personas"
+            ]
+        },
+        {
+            "id": 1439986950501511168,
+            "title": "\ud83d\udd34 \u00daLTIMA HORA | Sanidad comunica 5.988 contagios de covid y 118 muertes desde el viernes. La incidencia en Espa\u00f1a baja 8 puntos hasta 83 casos por 100.000 habitantes",
+            "date": "2021-09-20 16:16:57",
+            "screen_name": "el_pais",
+            "name": "EL PA\u00cdS",
+            "img": "http://pbs.twimg.com/tweet_video_thumb/EbMYRBCWAAAnTkk.jpg",
+            "url": [
+                "https://t.co/IckjQSQZc3",
+                "https://t.co/58HfnyLE83"
+            ],
+            "category": "salud",
+            "score": 6,
+            "sentiment": "sentiment/1439986950501511168.jpg",
+            "wordcloud": "wordcloud/1439986950501511168.jpg",
+            "entities": [
+                "muertes",
+                "Sanidad",
+                "el incidencia en Espa\u00f1a",
+                "contagios",
+                "HORA",
+                "puntos",
+                "casos",
+                "viernes",
+                "Espa\u00f1a",
+                "incidencia",
+                "\u00daLTIMA",
+                "habitantes",
+                "covid"
+            ]
+        },
+        {
+            "id": 1440706517267746816,
+            "title": "[Vacunaci\u00f3n Per\u00fa] Se super\u00f3 24 millones de dosis inoculadas. Gr\u00e1fico de dosis administradas por regi\u00f3n por cien habitantes al 21/09/2021. Ritmo de vacunaci\u00f3n cada 4MM: 4 MM : 110 d\u00edas 8 MM : 35 d\u00edas 12MM: 22 d\u00edas 16MM: 20 d\u00edas 20MM: 23 d\u00edas 24MM: 14 d\u00edas",
+            "date": "2021-09-22 15:56:15",
+            "screen_name": "Cholega",
+            "name": "Cholega \ud83c\uddf5\ud83c\uddea \ud83e\udda0\ud83e\udd96\u2604\ufe0f\ud83d\uddef\ufe0f",
+            "img": "http://pbs.twimg.com/media/E_5psEJVIAYN7Ww.png",
+            "url": [
+                "https://t.co/JyMvdjIhJI"
+            ],
+            "category": "salud",
+            "score": 6,
+            "sentiment": "sentiment/1440706517267746816.jpg",
+            "wordcloud": "wordcloud/1440706517267746816.jpg",
+            "entities": [
+                "Ritmo",
+                "vacunaci\u00f3n",
+                "Per\u00fa",
+                "dosis",
+                "Vacunaci\u00f3n",
+                "Gr\u00e1fico",
+                "millones",
+                "habitantes",
+                "regi\u00f3n",
+                "d\u00edas"
+            ]
+        },
+        {
+            "id": 1440327603131351040,
+            "title": "Hoy, inici\u00f3 la vacunaci\u00f3n contra la #COVID19 de j\u00f3venes de 23 a\u00f1os a m\u00e1s en Lima Metropolitana y Callao. El centro de vacunaci\u00f3n de Campo de Marte, desde tempranas horas, empez\u00f3 a recibir a gran cantidad de personas que acudieron por su primera dosis. #Vac\u00fanateYa \ud83d\udcaa\ud83c\udffc",
+            "date": "2021-09-21 14:50:35",
+            "screen_name": "Minsa_Peru",
+            "name": "Ministerio de Salud",
+            "img": "http://pbs.twimg.com/media/E_0SQ5QUcAsKvb7.jpg",
+            "url": [
+                "https://t.co/yyRXluf1zl"
+            ],
+            "category": "salud",
+            "score": 5,
+            "sentiment": "sentiment/1440327603131351040.jpg",
+            "wordcloud": "wordcloud/1440327603131351040.jpg",
+            "entities": [
+                "Callao el",
+                "vacunaci\u00f3n",
+                "Campo de Marte",
+                "horas",
+                "Callao",
+                "cantidad",
+                "dosis",
+                "j\u00f3venes",
+                "vac\u00fanateyo",
+                "a\u00f1os",
+                "Metropolitana",
+                "COVID",
+                "centro",
+                "Campo",
+                "Lima Metropolitana",
+                "personas",
+                "Marte",
+                "Lima"
+            ]
+        },
+        {
+            "id": 1440638825135435776,
+            "title": "Seg\u00fan estudio realizado en el Per\u00fa por el INS, hasta agosto 2021, el 45% de los hospitalizados por Covid, no vacunados, muri\u00f3. De los vacunados con dos dosis de Sinopharm, solo muri\u00f3 el 0.80%. La vacunaci\u00f3n salva vidas.",
+            "date": "2021-09-22 11:27:16",
+            "screen_name": "xafu",
+            "name": "F.U.X.\u00c1.",
+            "img": "http://pbs.twimg.com/media/E_4seRrVIAYknK4.jpg",
+            "url": [
+                "https://t.co/mSdrlQpuq3"
+            ],
+            "category": "salud",
+            "score": 5,
+            "sentiment": "sentiment/1440638825135435776.jpg",
+            "wordcloud": "wordcloud/1440638825135435776.jpg",
+            "entities": [
+                "salva",
+                "estudio",
+                "vacunaci\u00f3n",
+                "hospitalizados",
+                "Per\u00fa",
+                "De el vacunado",
+                "el Per\u00fa",
+                "dosis",
+                "vidas",
+                "Sinopharm",
+                "INS",
+                "Covid",
+                "agosto"
+            ]
+        }
+    ]
 }

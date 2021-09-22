@@ -16,12 +16,147 @@
             "sentiment": "sentiment/1439802747742785536.jpg",
             "wordcloud": "wordcloud/1439802747742785536.jpg",
             "entities": [
-                "Colombia",
-                "Grandes Colombia",
-                "Grandes",
-                "Mundial de voleibol del",
                 "voleibol",
-                "Mundial"
+                "Mundial de voleibol del",
+                "Colombia",
+                "Mundial",
+                "Grandes",
+                "Grandes Colombia"
+            ]
+        },
+        {
+            "id": 1440334041639636992,
+            "title": "\ud83d\udcfa TV en DIRECTO | Montero, ministra de Hacienda, a un senador del PP: \"Cuando este Gobierno ha decidido recortar los beneficios de las energ\u00e9ticas han salido ustedes defendiendo a las energ\u00e9ticas. Dando la receta de siempre: que lo paguen los ciudadanos\"",
+            "date": "2021-09-21 15:16:10",
+            "screen_name": "el_pais",
+            "name": "EL PA\u00cdS",
+            "img": "http://pbs.twimg.com/amplify_video_thumb/1440333120033546246/img/NKxjKRwphMZsQv7_.jpg",
+            "url": [
+                "https://t.co/47wkyHhBAl",
+                "https://t.co/nJu33w4hr2"
+            ],
+            "category": "politica",
+            "score": 11,
+            "sentiment": "sentiment/1440334041639636992.jpg",
+            "wordcloud": "wordcloud/1440334041639636992.jpg",
+            "entities": [
+                "Montero",
+                "senador",
+                "DIRECTO",
+                "ciudadanos",
+                "Gobierno",
+                "Hacienda",
+                "receta",
+                "ministra",
+                "beneficios"
+            ]
+        },
+        {
+            "id": 1438117145825710080,
+            "title": "Aunque este 2021 el #Ecuador recibi\u00f3 en inversi\u00f3n peruana USD 693 000 hasta marzo, una empresa ya tramita un contrato de inversi\u00f3n por USD 12 millones. Otras alistan su arribo \u00bb",
+            "date": "2021-09-15 12:27:01",
+            "screen_name": "elcomerciocom",
+            "name": "El Comercio",
+            "img": "http://pbs.twimg.com/media/E_U36faWQAUEkJA.jpg",
+            "url": [
+                "https://t.co/vp3V8rOHiR",
+                "https://t.co/QNJbVQ5CZq"
+            ],
+            "category": "economia",
+            "score": 8,
+            "sentiment": "sentiment/1438117145825710080.jpg",
+            "wordcloud": "wordcloud/1438117145825710080.jpg",
+            "entities": [
+                "marzo",
+                "arribo",
+                "contrato",
+                "Ecuador",
+                "empresa",
+                "USD",
+                "millones",
+                "inversi\u00f3n"
+            ]
+        },
+        {
+            "id": 1440053828028489728,
+            "title": "\ud83d\udd34 ATENCI\u00d3N | Si tienes 23 a\u00f1os o m\u00e1s y vives en Lima Metropolitana y Callao, #Vac\u00fanateYa contra la COVID-19. \ud83d\udc89\u2728 \u2705 Acude al centro de vacunaci\u00f3n m\u00e1s cercano a tu domicilio. Una es ninguna. Ponte las dos dosis. \ud83d\udcaa\ud83c\udffb",
+            "date": "2021-09-20 20:42:42",
+            "screen_name": "Minsa_Peru",
+            "name": "Ministerio de Salud",
+            "img": "http://pbs.twimg.com/media/E_wZSwhVgAMSQP_.jpg",
+            "url": [
+                "https://t.co/IXqoEOXF31"
+            ],
+            "category": "salud",
+            "score": 8,
+            "sentiment": "sentiment/1440053828028489728.jpg",
+            "wordcloud": "wordcloud/1440053828028489728.jpg",
+            "entities": [
+                "Callao vac\u00fanateyo",
+                "domicilio",
+                "vacunaci\u00f3n",
+                "Callao",
+                "ATENCI\u00d3N",
+                "dosis",
+                "Metropolitana",
+                "a\u00f1os",
+                "centro",
+                "COVID",
+                "Lima Metropolitana",
+                "atenci\u00f3n",
+                "Lima",
+                "Ponte"
+            ]
+        },
+        {
+            "id": 1440709920328802304,
+            "title": "[2/5] Conoce m\u00e1s sobre Yasmeen Destre-Rold\u00e1n @YasmeenDestre Economista licenciada de la Pontificia Universidad Cat\u00f3lica del Per\u00fa (PUCP). Actualmente, se encuentra cursando la maestr\u00eda en Econom\u00eda por la misma universidad.",
+            "date": "2021-09-22 16:09:46",
+            "screen_name": "JD_AsambleaEco",
+            "name": "Asamblea de Econom\u00eda PUCP",
+            "img": "http://pbs.twimg.com/media/E_5sdeVUcAMH24L.jpg",
+            "url": [
+                "https://t.co/UF025vCJqr"
+            ],
+            "category": "ciencia",
+            "score": 5,
+            "sentiment": "sentiment/1440709920328802304.jpg",
+            "wordcloud": "wordcloud/1440709920328802304.jpg",
+            "entities": [
+                "universidad",
+                "Pontificia",
+                "Rold\u00e1n",
+                "Per\u00fa",
+                "Yasmeen",
+                "Economista",
+                "Destre",
+                "Universidad",
+                "Econom\u00eda",
+                "Cat\u00f3lica",
+                "maestr\u00eda",
+                "YasmeenDestre",
+                "PUCP"
+            ]
+        },
+        {
+            "id": 1440693401259675648,
+            "title": "Esta industria aporta el 10% del #PBI y el 60% de las #exportaciones.",
+            "date": "2021-09-22 15:04:08",
+            "screen_name": "rumbominero",
+            "name": "Revista Rumbo Minero",
+            "img": "http://pbs.twimg.com/media/E_5fAb_VIAs7QU6.jpg",
+            "url": [
+                "https://t.co/kZ1jm1Ciim",
+                "https://t.co/SZzG0MIv9I"
+            ],
+            "category": "espectaculos",
+            "score": 5,
+            "sentiment": "sentiment/1440693401259675648.jpg",
+            "wordcloud": "wordcloud/1440693401259675648.jpg",
+            "entities": [
+                "PBI",
+                "industria",
+                "exportaciones"
             ]
         }
     ]

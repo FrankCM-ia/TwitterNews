@@ -1,3 +1,60 @@
 {
-    "news": []
+    "news": [
+        {
+            "id": 1440334041639636992,
+            "title": "\ud83d\udcfa TV en DIRECTO | Montero, ministra de Hacienda, a un senador del PP: \"Cuando este Gobierno ha decidido recortar los beneficios de las energ\u00e9ticas han salido ustedes defendiendo a las energ\u00e9ticas. Dando la receta de siempre: que lo paguen los ciudadanos\"",
+            "date": "2021-09-21 15:16:10",
+            "screen_name": "el_pais",
+            "name": "EL PA\u00cdS",
+            "img": "http://pbs.twimg.com/amplify_video_thumb/1440333120033546246/img/NKxjKRwphMZsQv7_.jpg",
+            "url": [
+                "https://t.co/47wkyHhBAl",
+                "https://t.co/nJu33w4hr2"
+            ],
+            "category": "politica",
+            "score": 11,
+            "sentiment": "sentiment/1440334041639636992.jpg",
+            "wordcloud": "wordcloud/1440334041639636992.jpg",
+            "entities": [
+                "Montero",
+                "senador",
+                "DIRECTO",
+                "ciudadanos",
+                "Gobierno",
+                "Hacienda",
+                "receta",
+                "ministra",
+                "beneficios"
+            ]
+        },
+        {
+            "id": 1440007938563846144,
+            "title": "El presidente de la Rep\u00fablica, Pedro Castillo, resalt\u00f3 la importancia de invertir en la educaci\u00f3n. A\u00f1adi\u00f3 que la inversi\u00f3n privada debe darse, pero con transparencia. Conoce m\u00e1s \u25ba",
+            "date": "2021-09-20 17:40:21",
+            "screen_name": "larepublica_pe",
+            "name": "Diario La Rep\u00fablica",
+            "img": "http://pbs.twimg.com/amplify_video_thumb/1440005229836218369/img/z4vXzsoo7YUq-FQ3.jpg",
+            "url": [
+                "https://t.co/ifj3cltRxR",
+                "https://t.co/nVucI3Cd3r"
+            ],
+            "category": "politica",
+            "score": 7,
+            "sentiment": "sentiment/1440007938563846144.jpg",
+            "wordcloud": "wordcloud/1440007938563846144.jpg",
+            "entities": [
+                "educaci\u00f3n",
+                "presidente",
+                "Pedro Castillo",
+                "Pedro",
+                "importancia",
+                "conocer",
+                "Castillo",
+                "Rep\u00fablica",
+                "a\u00f1adir",
+                "transparencia",
+                "inversi\u00f3n"
+            ]
+        }
+    ]
 }
