@@ -97,15 +97,6 @@ def get_value(dict, key):
   except:
     return 0
 
-def eval_top_words(text, set_words):
-  text_clean = clean_text(text)
-  tokens = [ lemmatize(token) for token in text_clean.split()]
-  c = 0
-  for token in tokens:
-    if token in set_words:
-      c += 1
-  return c
-
 #cargar glosarios
 def get_glossaries():
     glossaries = {}

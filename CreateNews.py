@@ -32,6 +32,15 @@ def find_top_group(data):
     top_data_headlines = data_headlines.sort_values('score', ascending=False)
     return top_data_headlines
 
+def eval_top_words(text, set_words):
+  text_clean = clean_text(text)
+  tokens = [ lemmatize(token) for token in text_clean.split()]
+  c = 0
+  for token in tokens:
+    if token in set_words:
+      c += 1
+  return c
+
 def tag_news(text):
     glossaries = get_glossaries()
     point = 0
@@ -88,3 +97,4 @@ def create_new(row_data_news):
     new['wordcloud'] = 'wordcloud/'  + str(row_data_news['id']) + '.jpg'
     new['entities'] = row_data_news['entities']
     return new
+
