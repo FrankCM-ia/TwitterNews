@@ -1,0 +1,64 @@
+{
+    "news": [
+        {
+            "id": 1440709920328802304,
+            "title": "[2/5] Conoce m\u00e1s sobre Yasmeen Destre-Rold\u00e1n @YasmeenDestre Economista licenciada de la Pontificia Universidad Cat\u00f3lica del Per\u00fa (PUCP). Actualmente, se encuentra cursando la maestr\u00eda en Econom\u00eda por la misma universidad.",
+            "date": "2021-09-22 16:09:46",
+            "screen_name": "JD_AsambleaEco",
+            "name": "Asamblea de Econom\u00eda PUCP",
+            "img": "http://pbs.twimg.com/media/E_5sdeVUcAMH24L.jpg",
+            "url": [
+                "https://t.co/UF025vCJqr"
+            ],
+            "category": "ciencia",
+            "score": 5,
+            "sentiment": "sentiment/1440709920328802304.jpg",
+            "wordcloud": "wordcloud/1440709920328802304.jpg",
+            "entities": [
+                "universidad",
+                "Pontificia",
+                "Rold\u00e1n",
+                "Per\u00fa",
+                "Yasmeen",
+                "Economista",
+                "Destre",
+                "Universidad",
+                "Econom\u00eda",
+                "Cat\u00f3lica",
+                "maestr\u00eda",
+                "YasmeenDestre",
+                "PUCP"
+            ]
+        },
+        {
+            "id": 1440715773819834368,
+            "title": "\u00danete al evento \ud835\udde7\ud835\udddc\ud835\udde3 \ud835\udddf\ud835\uddd4\ud835\udde7\ud835\uddd4\ud835\udde0'\ud835\udfee\ud835\udfed \ud83d\udcbb\ud83c\udf0e Conoce m\u00e1s acerca de el avance de las tecnolog\u00edas abiertas y desagregadas y las \u00faltimas noticias sobre OpenRAN, OpenWifi, OOPT y m\u00e1s. \ud83d\udea9Registrate gratis:",
+            "date": "2021-09-22 16:33:02",
+            "screen_name": "DellAyuda",
+            "name": "Dell Ayuda",
+            "img": "http://pbs.twimg.com/media/E_5zW8LUUAIK16J.jpg",
+            "url": [
+                "https://t.co/qdakoKDWl3",
+                "https://t.co/jZSAMPmKFS"
+            ],
+            "category": "ciencia",
+            "score": 5,
+            "sentiment": "sentiment/1440715773819834368.jpg",
+            "wordcloud": "wordcloud/1440715773819834368.jpg",
+            "entities": [
+                "registrate",
+                "OOPT",
+                "OpenWifi",
+                "noticias",
+                "tecnolog\u00edas",
+                "evento",
+                "\ud835\udde7\ud835\udddc\ud835\udde3",
+                "gratis",
+                "OpenRAN",
+                "\ud835\udddf\ud835\uddd4\ud835\udde7\ud835\uddd4\ud835\udde0",
+                "avance",
+                "\u00danete"
+            ]
+        }
+    ]
+}

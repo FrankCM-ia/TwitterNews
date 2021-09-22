@@ -1,83 +1,154 @@
 {
     "news": [
         {
-            "id": 1439680696784670720,
-            "title": "En Cusco, una pobladora recorri\u00f3 12 kil\u00f3metros desde su comunidad hasta Saqsayhuaman para poder recibir su vacuna contra la #COVID19. Conoce su testimonio aqu\u00ed \ud83d\udc47\ud83c\udffb Ella pone el hombro por su regi\u00f3n. \ud83d\udcaa\ud83c\udffc \u00a1Ponlo t\u00fa tambi\u00e9n! #Vac\u00fanateYa \ud83d\udc89\u2728",
-            "date": "2021-09-19 20:00:00",
-            "screen_name": "Minsa_Peru",
-            "name": "Ministerio de Salud",
-            "img": "http://pbs.twimg.com/ext_tw_video_thumb/1439665379681488897/pu/img/giRv2tLwbh2GKMsD.jpg",
+            "id": 1440118585783816192,
+            "title": "#FotoNoticia\ud83d\udce2 | Un equipo especializado de m\u00e9dicos del INCOR se trasladar\u00e1 a estas cinco regiones del pa\u00eds para intervenir a los asegurados con cirug\u00edas programadas y brindar atenci\u00f3n a pacientes con enfermedades cardiacas. \ud83d\udc49M\u00e1s informaci\u00f3n aqu\u00ed",
+            "date": "2021-09-21 01:00:01",
+            "screen_name": "EsSaludPeru",
+            "name": "EsSalud",
+            "img": "http://pbs.twimg.com/media/E_wcr6YUcAU97um.jpg",
             "url": [
-                "https://t.co/QHUJ9arPGa"
+                "https://t.co/EW1YAxVLZZ",
+                "https://t.co/17ageNTi9f"
             ],
-            "category": "salud",
-            "score": 11
+            "category": "espectaculos",
+            "score": 11,
+            "sentiment": "sentiment/1440118585783816192.jpg",
+            "wordcloud": "wordcloud/1440118585783816192.jpg",
+            "entities": [
+                "FotoNoticia",
+                "m\u00e1s",
+                "pacientes",
+                "INCOR",
+                "regiones",
+                "fotonoticia",
+                "m\u00e9dicos",
+                "enfermedades",
+                "atenci\u00f3n",
+                "informaci\u00f3n",
+                "pa\u00eds",
+                "equipo",
+                "cirug\u00edas"
+            ]
         },
         {
-            "id": 1439374203841662976,
-            "title": "Primero fue Piura y luego Ayacucho, hoy le toc\u00f3 al Cusco ser escenario de la Tercera Asamblea Macro Regional Constituyente. Desde hace unos meses abrimos estos espacios de conversaci\u00f3n nacional para que la ciudadan\u00eda sea part\u00edcipe del enriquecedor debate [1/2]",
-            "date": "2021-09-18 23:42:07",
-            "screen_name": "sigridbazan",
-            "name": "Sigrid Baz\u00e1n",
-            "img": "http://pbs.twimg.com/media/E_muyOWXsAUCP-f.jpg",
+            "id": 1439710896939356160,
+            "title": "El nuevo Aeropuerto Internacional de Chinchero tendr\u00e1 una infraestructura aeroportuaria ecoamigable y ser\u00e1 ocho veces m\u00e1s grande que el actual aeropuerto de Cusco. \ud83d\udeeb \ud83d\udcf9\ud83d\udd34Dale play al video y conoce m\u00e1s de este megaproyecto:",
+            "date": "2021-09-19 22:00:01",
+            "screen_name": "MTC_GobPeru",
+            "name": "MTC Per\u00fa",
+            "img": "http://pbs.twimg.com/media/E_qdUzdXMAQJBVk.jpg",
             "url": [
-                "https://t.co/rgxUrhHr2R"
+                "https://t.co/HLYFPIc2dM",
+                "https://t.co/nc2h4nFgoh"
             ],
-            "category": "politica",
-            "score": 9
+            "category": "sociedad",
+            "score": 10,
+            "sentiment": "sentiment/1439710896939356160.jpg",
+            "wordcloud": "wordcloud/1439710896939356160.jpg",
+            "entities": [
+                "play",
+                "Internacional",
+                "Chinchero",
+                "aeropuerto de Cusco Dale",
+                "Cusco",
+                "Aeropuerto",
+                "Aeropuerto Internacional de Chinchero",
+                "veces",
+                "Dale",
+                "video",
+                "megaproyecto",
+                "infraestructura",
+                "aeropuerto"
+            ]
         },
         {
-            "id": 1439684421951623168,
-            "title": "\ud83c\udf33 Avireri-Vraem es reconocida por la #UNESCO como la s\u00e9tima Reserva de Biosfera del Per\u00fa. \u2705 Esta reserva se ubica en las provincias de Satipo y La Convenci\u00f3n de las regiones de Jun\u00edn y Cusco. Conoce m\u00e1s de ella.\u2935\ufe0f",
-            "date": "2021-09-19 20:14:48",
-            "screen_name": "MinamPeru",
-            "name": "Ministerio del Ambiente \ud83c\uddf5\ud83c\uddea\u267b\ufe0f",
-            "img": "http://pbs.twimg.com/media/E_rIvC3WEAc0Aqr.jpg",
+            "id": 1440112697819942912,
+            "title": "EN VIVO | Cusco: se diseminan incendios forestales en 3 distritos de la regi\u00f3n imperial. \u25bahttps://t.co/6rlVkF4ALF",
+            "date": "2021-09-21 00:36:37",
+            "screen_name": "noticias_tvperu",
+            "name": "TVPer\u00fa Noticias",
+            "img": "http://pbs.twimg.com/amplify_video_thumb/1440112497583800321/img/eDoVYr14kJwWkXz5.jpg",
             "url": [
-                "https://t.co/nrIvsh6g48"
+                "https://t.co/ooJVc1myyZ"
             ],
-            "category": "economia",
-            "score": 7
+            "category": "sociedad",
+            "score": 8,
+            "sentiment": "sentiment/1440112697819942912.jpg",
+            "wordcloud": "wordcloud/1440112697819942912.jpg",
+            "entities": [
+                "distritos",
+                "VIVO",
+                "ALF",
+                "incendios",
+                "vivo Cusco",
+                "Cusco",
+                "rlVkF",
+                "regi\u00f3n",
+                "https"
+            ]
         },
         {
-            "id": 1439990664415023104,
-            "title": "#13\u00baAniversario \ud83c\udf89 | En el marco de su 13\u00b0 Aniversario, el operador tur\u00edstico DIKA Travel inform\u00f3 el retorno de sus eventos presenciales en compa\u00f1\u00eda de las principales agencias de viaje de Lima y Cusco. Ent\u00e9rate de m\u00e1s \ud83d\udc49",
-            "date": "2021-09-20 16:31:42",
-            "screen_name": "destinoperunet",
-            "name": "Destino Per\u00fa",
-            "img": "http://pbs.twimg.com/media/E_vf3bvXIAMLw68.jpg",
+            "id": 1440038763829219328,
+            "title": "Cusco: trabajador municipal fallece en incendio forestal",
+            "date": "2021-09-20 19:42:50",
+            "screen_name": "PTV_Noticias",
+            "name": "Panamericana Noticias",
+            "img": "http://pbs.twimg.com/media/E_wLn8lVQAkmGRi.jpg",
             "url": [
-                "https://t.co/uMDMFNpxrL",
-                "https://t.co/7YCNgYXz4S"
+                "https://t.co/RBdF5MQ5zp",
+                "https://t.co/jX2a3SMgTY"
             ],
-            "category": "entretenimiento",
-            "score": 6
+            "category": "sociedad",
+            "score": 8,
+            "sentiment": "sentiment/1440038763829219328.jpg",
+            "wordcloud": "wordcloud/1440038763829219328.jpg",
+            "entities": [
+                "Cusco",
+                "incendio"
+            ]
         },
         {
-            "id": 1439990114076200960,
-            "title": "\u00a1Incre\u00edble! \u00bfAlguna duda de la impunidad de #LosDin\u00e1micosDelCentro en el Gobierno de #PedroCastillo? Este sujeto \"pinturita\", operador de #VladimirCerr\u00f3n que estuvo pr\u00f3fugo de la justicia, ahora ofrece entrevistas en #Cusco con el auspicio de #GuidoBellido y aqu\u00ed no pas\u00f3 nada.",
-            "date": "2021-09-20 16:29:31",
-            "screen_name": "cesarcombina",
-            "name": "C\u00e9sar Combina",
-            "img": "http://pbs.twimg.com/ext_tw_video_thumb/1439989522712956939/pu/img/NjhB-r3RHxiDE3v0.jpg",
+            "id": 1439939873855639552,
+            "title": "@cgbvpoficial @PoliciaPeru @indeciperu @RadioNacionalFM @noticias_tvperu @Agencia_Andina @elcomercio_peru @atv_noticias @exitosape @diariocorreo #COENInforma Actualizaci\u00f3n sobre #IncendioForestal en el distrito y provincia Espinar (Cusco). Municipalidad provincial culmin\u00f3 la #EDAN y entreg\u00f3 BAH a las personas afectadas. Emergencia atendida. | @indeciperu",
+            "date": "2021-09-20 13:09:53",
+            "screen_name": "COENPeru",
+            "name": "COEN - INDECI",
+            "img": "http://pbs.twimg.com/media/E_uxHM6WUAAE8dy.jpg",
             "url": [
-                "https://t.co/UAlgWPKxok"
+                "https://t.co/VySuU7EJMT"
             ],
-            "category": "politica",
-            "score": 6
-        },
-        {
-            "id": 1439985627416641536,
-            "title": "\ud83d\udd35Las denuncias d #TurismoVacuna en Ica y Chincha p inmunizarse con #Pfizer y los supuestos privilegios p vacunar a hijos de jueces de la corte del #Cusco nos dan una alerta de lo q podr\u00eda estar ocurriendo en otras zonas del pa\u00eds... A tener mucho cuidado.",
-            "date": "2021-09-20 16:11:41",
-            "screen_name": "RALVAMARTINEZ",
-            "name": "Ricardo Alva Mart\u00ednez",
-            "img": "",
-            "url": [
-                "https://t.co/vAWI1rp5t4"
-            ],
-            "category": "salud",
-            "score": 5
+            "category": "sociedad",
+            "score": 8,
+            "sentiment": "sentiment/1439939873855639552.jpg",
+            "wordcloud": "wordcloud/1439939873855639552.jpg",
+            "entities": [
+                "Espinar",
+                "RadioNacionalFM",
+                "elcomercio",
+                "IncendioForestal",
+                "Agencia",
+                "EDAN",
+                "distrito",
+                "Cusco",
+                "provincia",
+                "tvperu",
+                "personas",
+                "Agencia Andina",
+                "atv",
+                "Andina",
+                "PoliciaPeru",
+                "noticias",
+                "COENInforma",
+                "peru",
+                "Actualizaci\u00f3n",
+                "provincia Espinar Cusco Municipalidad",
+                "peru atv",
+                "Emergencia",
+                "Municipalidad",
+                "COENInforma Actualizaci\u00f3n sobre IncendioForestal",
+                "BAH"
+            ]
         }
     ]
 }

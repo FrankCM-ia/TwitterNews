@@ -1,96 +1,163 @@
 {
     "news": [
         {
-            "id": 1439731943852199936,
-            "title": "\u27a1El ministro de Econom\u00eda y Finanzas, Pedro Francke, se\u00f1al\u00f3 hoy que el Per\u00fa tiene los brazos abiertos para la inversi\u00f3n privada internacional y nacional.",
-            "date": "2021-09-19 23:23:38",
-            "screen_name": "Agencia_Andina",
-            "name": "Agencia Andina",
-            "img": "http://pbs.twimg.com/media/E_r0e_sWUAYC-sH.jpg",
+            "id": 1439802747742785536,
+            "title": "\ud83c\udfd0 \u00a1Grandes! \ud83c\udde8\ud83c\uddf4 Colombia clasific\u00f3 al Mundial de voleibol del 2022. Le contamos \ud83d\udc49",
+            "date": "2021-09-20 04:04:59",
+            "screen_name": "ELTIEMPO",
+            "name": "EL TIEMPO",
+            "img": "http://pbs.twimg.com/media/E_s0-B3WUAE2ArW.jpg",
             "url": [
-                "https://t.co/ooYBpmgnyd",
-                "https://t.co/MWz5RJAPcu"
-            ],
-            "category": "economia",
-            "score": 16
-        },
-        {
-            "id": 1440074150882672640,
-            "title": "\u00a1GAN\u00d3 PER\u00da \ud83c\uddf5\ud83c\uddea! Una victoria m\u00e1s para el deporte peruano. Las chicas de la Selecci\u00f3n Femenina de Voley Sub-18 gan\u00f3 en su debut (3-1 vs. Egipto) en el Mundial de M\u00e9xico \ud83c\udfc6. \u00a1Siempre arriba, Per\u00fa! \ud83d\udcf8 @volleyballworld",
-            "date": "2021-09-20 22:03:27",
-            "screen_name": "blanquirroja",
-            "name": "La Blanquirroja #LaHinchadaDelPer\u00fa",
-            "img": "http://pbs.twimg.com/media/E_wryzjVgAQPNu4.jpg",
-            "url": [
-                "https://t.co/8wELkL9glb"
+                "https://t.co/jHeE4abXUN",
+                "https://t.co/wzK4kpwn51"
             ],
             "category": "deportes",
-            "score": 14
+            "score": 11,
+            "sentiment": "sentiment/1439802747742785536.jpg",
+            "wordcloud": "wordcloud/1439802747742785536.jpg",
+            "entities": [
+                "voleibol",
+                "Mundial de voleibol del",
+                "Colombia",
+                "Mundial",
+                "Grandes",
+                "Grandes Colombia"
+            ]
         },
         {
-            "id": 1439621413816750080,
-            "title": "Debe admitirse que en el Per\u00fa hay una concentraci\u00f3n de medios en manos de los ricos, ni siquiera de los periodistas, quienes establecieron una dictadura neoliberal. Una verdadera democracia debe defenderse de esta amenaza. Sus due\u00f1os son socios de las corruptas ODB y Gra\u00f1a.",
-            "date": "2021-09-19 16:04:26",
-            "screen_name": "VLADIMIR_CERRON",
-            "name": "Vladimir Cerr\u00f3n",
-            "img": "http://pbs.twimg.com/media/E_qQC1WXEAUozsE.jpg",
+            "id": 1440334041639636992,
+            "title": "\ud83d\udcfa TV en DIRECTO | Montero, ministra de Hacienda, a un senador del PP: \"Cuando este Gobierno ha decidido recortar los beneficios de las energ\u00e9ticas han salido ustedes defendiendo a las energ\u00e9ticas. Dando la receta de siempre: que lo paguen los ciudadanos\"",
+            "date": "2021-09-21 15:16:10",
+            "screen_name": "el_pais",
+            "name": "EL PA\u00cdS",
+            "img": "http://pbs.twimg.com/amplify_video_thumb/1440333120033546246/img/NKxjKRwphMZsQv7_.jpg",
             "url": [
-                "https://t.co/mGotBdjFMG"
+                "https://t.co/47wkyHhBAl",
+                "https://t.co/nJu33w4hr2"
             ],
             "category": "politica",
-            "score": 13
+            "score": 11,
+            "sentiment": "sentiment/1440334041639636992.jpg",
+            "wordcloud": "wordcloud/1440334041639636992.jpg",
+            "entities": [
+                "Montero",
+                "senador",
+                "DIRECTO",
+                "ciudadanos",
+                "Gobierno",
+                "Hacienda",
+                "receta",
+                "ministra",
+                "beneficios"
+            ]
         },
         {
-            "id": 1439680696784670720,
-            "title": "En Cusco, una pobladora recorri\u00f3 12 kil\u00f3metros desde su comunidad hasta Saqsayhuaman para poder recibir su vacuna contra la #COVID19. Conoce su testimonio aqu\u00ed \ud83d\udc47\ud83c\udffb Ella pone el hombro por su regi\u00f3n. \ud83d\udcaa\ud83c\udffc \u00a1Ponlo t\u00fa tambi\u00e9n! #Vac\u00fanateYa \ud83d\udc89\u2728",
-            "date": "2021-09-19 20:00:00",
+            "id": 1438117145825710080,
+            "title": "Aunque este 2021 el #Ecuador recibi\u00f3 en inversi\u00f3n peruana USD 693 000 hasta marzo, una empresa ya tramita un contrato de inversi\u00f3n por USD 12 millones. Otras alistan su arribo \u00bb",
+            "date": "2021-09-15 12:27:01",
+            "screen_name": "elcomerciocom",
+            "name": "El Comercio",
+            "img": "http://pbs.twimg.com/media/E_U36faWQAUEkJA.jpg",
+            "url": [
+                "https://t.co/vp3V8rOHiR",
+                "https://t.co/QNJbVQ5CZq"
+            ],
+            "category": "economia",
+            "score": 8,
+            "sentiment": "sentiment/1438117145825710080.jpg",
+            "wordcloud": "wordcloud/1438117145825710080.jpg",
+            "entities": [
+                "marzo",
+                "arribo",
+                "contrato",
+                "Ecuador",
+                "empresa",
+                "USD",
+                "millones",
+                "inversi\u00f3n"
+            ]
+        },
+        {
+            "id": 1440053828028489728,
+            "title": "\ud83d\udd34 ATENCI\u00d3N | Si tienes 23 a\u00f1os o m\u00e1s y vives en Lima Metropolitana y Callao, #Vac\u00fanateYa contra la COVID-19. \ud83d\udc89\u2728 \u2705 Acude al centro de vacunaci\u00f3n m\u00e1s cercano a tu domicilio. Una es ninguna. Ponte las dos dosis. \ud83d\udcaa\ud83c\udffb",
+            "date": "2021-09-20 20:42:42",
             "screen_name": "Minsa_Peru",
             "name": "Ministerio de Salud",
-            "img": "http://pbs.twimg.com/ext_tw_video_thumb/1439665379681488897/pu/img/giRv2tLwbh2GKMsD.jpg",
+            "img": "http://pbs.twimg.com/media/E_wZSwhVgAMSQP_.jpg",
             "url": [
-                "https://t.co/QHUJ9arPGa"
+                "https://t.co/IXqoEOXF31"
             ],
             "category": "salud",
-            "score": 13
+            "score": 8,
+            "sentiment": "sentiment/1440053828028489728.jpg",
+            "wordcloud": "wordcloud/1440053828028489728.jpg",
+            "entities": [
+                "Callao vac\u00fanateyo",
+                "domicilio",
+                "vacunaci\u00f3n",
+                "Callao",
+                "ATENCI\u00d3N",
+                "dosis",
+                "Metropolitana",
+                "a\u00f1os",
+                "centro",
+                "COVID",
+                "Lima Metropolitana",
+                "atenci\u00f3n",
+                "Lima",
+                "Ponte"
+            ]
         },
         {
-            "id": 1439748829008515072,
-            "title": "Mejor actor de reparto en miniserie o pel\u00edcula para televisi\u00f3n: \u00a1EVAN PETERS!",
-            "date": "2021-09-20 00:30:44",
-            "screen_name": "TNTLA",
-            "name": "TNT\u2122 Am\u00e9rica Latina",
-            "img": "http://pbs.twimg.com/media/E_sD5OfXsAcb074.jpg",
+            "id": 1440709920328802304,
+            "title": "[2/5] Conoce m\u00e1s sobre Yasmeen Destre-Rold\u00e1n @YasmeenDestre Economista licenciada de la Pontificia Universidad Cat\u00f3lica del Per\u00fa (PUCP). Actualmente, se encuentra cursando la maestr\u00eda en Econom\u00eda por la misma universidad.",
+            "date": "2021-09-22 16:09:46",
+            "screen_name": "JD_AsambleaEco",
+            "name": "Asamblea de Econom\u00eda PUCP",
+            "img": "http://pbs.twimg.com/media/E_5sdeVUcAMH24L.jpg",
             "url": [
-                "https://t.co/ZiIF2Fl7zg"
+                "https://t.co/UF025vCJqr"
             ],
-            "category": "entretenimiento",
-            "score": 12
+            "category": "ciencia",
+            "score": 5,
+            "sentiment": "sentiment/1440709920328802304.jpg",
+            "wordcloud": "wordcloud/1440709920328802304.jpg",
+            "entities": [
+                "universidad",
+                "Pontificia",
+                "Rold\u00e1n",
+                "Per\u00fa",
+                "Yasmeen",
+                "Economista",
+                "Destre",
+                "Universidad",
+                "Econom\u00eda",
+                "Cat\u00f3lica",
+                "maestr\u00eda",
+                "YasmeenDestre",
+                "PUCP"
+            ]
         },
         {
-            "id": 1439680696784670720,
-            "title": "En Cusco, una pobladora recorri\u00f3 12 kil\u00f3metros desde su comunidad hasta Saqsayhuaman para poder recibir su vacuna contra la #COVID19. Conoce su testimonio aqu\u00ed \ud83d\udc47\ud83c\udffb Ella pone el hombro por su regi\u00f3n. \ud83d\udcaa\ud83c\udffc \u00a1Ponlo t\u00fa tambi\u00e9n! #Vac\u00fanateYa \ud83d\udc89\u2728",
-            "date": "2021-09-19 20:00:00",
-            "screen_name": "Minsa_Peru",
-            "name": "Ministerio de Salud",
-            "img": "http://pbs.twimg.com/ext_tw_video_thumb/1439665379681488897/pu/img/giRv2tLwbh2GKMsD.jpg",
+            "id": 1440693401259675648,
+            "title": "Esta industria aporta el 10% del #PBI y el 60% de las #exportaciones.",
+            "date": "2021-09-22 15:04:08",
+            "screen_name": "rumbominero",
+            "name": "Revista Rumbo Minero",
+            "img": "http://pbs.twimg.com/media/E_5fAb_VIAs7QU6.jpg",
             "url": [
-                "https://t.co/QHUJ9arPGa"
-            ],
-            "category": "salud",
-            "score": 11
-        },
-        {
-            "id": 1440094515621101568,
-            "title": "Seg\u00fan el congresista @AbelReyesCam de @PERU_LIBRE1, la televisi\u00f3n sustituye la funci\u00f3n materna por que es refugio en momentos de frustraci\u00f3n o tristeza. As\u00ed sustenta (entre otros argumentos) su PL para regular los contenidos de los medios de comunicaci\u00f3n @RPPNoticias",
-            "date": "2021-09-20 23:24:22",
-            "screen_name": "KikesitoRPP",
-            "name": "Carlos Villarreal",
-            "img": "http://pbs.twimg.com/media/E_w-UQJVUAQxSyN.jpg",
-            "url": [
-                "https://t.co/fMO3Vc6vTy"
+                "https://t.co/kZ1jm1Ciim",
+                "https://t.co/SZzG0MIv9I"
             ],
             "category": "espectaculos",
-            "score": 10
+            "score": 5,
+            "sentiment": "sentiment/1440693401259675648.jpg",
+            "wordcloud": "wordcloud/1440693401259675648.jpg",
+            "entities": [
+                "PBI",
+                "industria",
+                "exportaciones"
+            ]
         }
     ]
 }

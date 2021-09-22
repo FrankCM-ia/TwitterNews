@@ -1,110 +1,60 @@
 {
     "news": [
         {
-            "id": 1439621413816750080,
-            "title": "Debe admitirse que en el Per\u00fa hay una concentraci\u00f3n de medios en manos de los ricos, ni siquiera de los periodistas, quienes establecieron una dictadura neoliberal. Una verdadera democracia debe defenderse de esta amenaza. Sus due\u00f1os son socios de las corruptas ODB y Gra\u00f1a.",
-            "date": "2021-09-19 16:04:26",
-            "screen_name": "VLADIMIR_CERRON",
-            "name": "Vladimir Cerr\u00f3n",
-            "img": "http://pbs.twimg.com/media/E_qQC1WXEAUozsE.jpg",
+            "id": 1440334041639636992,
+            "title": "\ud83d\udcfa TV en DIRECTO | Montero, ministra de Hacienda, a un senador del PP: \"Cuando este Gobierno ha decidido recortar los beneficios de las energ\u00e9ticas han salido ustedes defendiendo a las energ\u00e9ticas. Dando la receta de siempre: que lo paguen los ciudadanos\"",
+            "date": "2021-09-21 15:16:10",
+            "screen_name": "el_pais",
+            "name": "EL PA\u00cdS",
+            "img": "http://pbs.twimg.com/amplify_video_thumb/1440333120033546246/img/NKxjKRwphMZsQv7_.jpg",
             "url": [
-                "https://t.co/mGotBdjFMG"
+                "https://t.co/47wkyHhBAl",
+                "https://t.co/nJu33w4hr2"
             ],
             "category": "politica",
-            "score": 13
+            "score": 11,
+            "sentiment": "sentiment/1440334041639636992.jpg",
+            "wordcloud": "wordcloud/1440334041639636992.jpg",
+            "entities": [
+                "Montero",
+                "senador",
+                "DIRECTO",
+                "ciudadanos",
+                "Gobierno",
+                "Hacienda",
+                "receta",
+                "ministra",
+                "beneficios"
+            ]
         },
         {
-            "id": 1439696373205643264,
-            "title": "EE.UU.: Peruanos en Washington protestan en exteriores del hotel donde llegar\u00e1 Pedro Castillo",
-            "date": "2021-09-19 21:02:18",
-            "screen_name": "canalN_",
-            "name": "Canal N",
-            "img": "http://pbs.twimg.com/ext_tw_video_thumb/1439696323306008585/pu/img/foozmrgS8SHhMzv2.jpg",
+            "id": 1440007938563846144,
+            "title": "El presidente de la Rep\u00fablica, Pedro Castillo, resalt\u00f3 la importancia de invertir en la educaci\u00f3n. A\u00f1adi\u00f3 que la inversi\u00f3n privada debe darse, pero con transparencia. Conoce m\u00e1s \u25ba",
+            "date": "2021-09-20 17:40:21",
+            "screen_name": "larepublica_pe",
+            "name": "Diario La Rep\u00fablica",
+            "img": "http://pbs.twimg.com/amplify_video_thumb/1440005229836218369/img/z4vXzsoo7YUq-FQ3.jpg",
             "url": [
-                "https://t.co/WAgcNzGC9I",
-                "https://t.co/wDBoMHTORR"
+                "https://t.co/ifj3cltRxR",
+                "https://t.co/nVucI3Cd3r"
             ],
             "category": "politica",
-            "score": 12
-        },
-        {
-            "id": 1439751668120363008,
-            "title": "\u00a1Fracasaron quienes intentaron sabotear la Cumbre de la CELAC! Frente a las provocaciones respondimos con altura, no han podido ni podr\u00e1n detenernos en este camino de unidad que hemos emprendido en la Comunidad de Estados Latinoamericanos y del Caribe. \u00a1Vamos Hacia Adelante!",
-            "date": "2021-09-20 00:42:01",
-            "screen_name": "NicolasMaduro",
-            "name": "Nicol\u00e1s Maduro",
-            "img": "http://pbs.twimg.com/media/E_sGgxaWEAUHs-A.jpg",
-            "url": [
-                "https://t.co/0PWuFC1Zxs"
-            ],
-            "category": "politica",
-            "score": 12
-        },
-        {
-            "id": 1439590097913991168,
-            "title": "\ud83d\udd34El director period\u00edstico de Am\u00e9rica TV y Canal N sostiene que aquello de la falta de neutralidad e imparcialidad en la prensa es parte del discurso de la izquierda para que no se critique al gobierno de Pedro Castillo.",
-            "date": "2021-09-19 14:00:00",
-            "screen_name": "peru21noticias",
-            "name": "Diario Per\u00fa21",
-            "img": "http://pbs.twimg.com/media/E_pgMUcX0AEAanN.jpg",
-            "url": [
-                "https://t.co/cXRKxF2hRp",
-                "https://t.co/othYErVM5l"
-            ],
-            "category": "politica",
-            "score": 11
-        },
-        {
-            "id": 1439045203667656704,
-            "title": "Sigrid se abstuvo en votaci\u00f3n para decidir qu\u00e9 se creme el cadaver de su maestro y gu\u00eda. Le falto coraje para votar en contra junto a Per\u00fa Libre a esta senderolover.",
-            "date": "2021-09-18 01:54:47",
-            "screen_name": "DanielUrresti1",
-            "name": "Daniel Urresti",
-            "img": "http://pbs.twimg.com/media/E_iD-bJWQAIC-cD.jpg",
-            "url": [
-                "https://t.co/4UfUb7qACJ"
-            ],
-            "category": "politica",
-            "score": 10
-        },
-        {
-            "id": 1439792582368837632,
-            "title": "Atentado contra Libertad de Expresi\u00f3n. Per\u00fa Libre presenta P/L 269/2021-CR que permitir\u00e1 al Gobierno despojar la se\u00f1al de los canales de televisi\u00f3n y radios. @RPPNoticias @canalN_ @americatv_intl @PanamericanaTV @atvpe @willaxtv @TVmas_ECpe @ucinoticias_pe @exitosape",
-            "date": "2021-09-20 03:24:36",
-            "screen_name": "JorgeDCG",
-            "name": "Jorge del Castillo",
-            "img": "http://pbs.twimg.com/media/E_srt6UXEAAQUpE.jpg",
-            "url": [
-                "https://t.co/Z7TKi8rDFF"
-            ],
-            "category": "politica",
-            "score": 9
-        },
-        {
-            "id": 1440052264308117504,
-            "title": "#ElPulso #Internacional | La Sociedad Nacional de Radio y Televisi\u00f3n peruana, instituci\u00f3n que agrupa a los principales medios de comunicaci\u00f3n, denunci\u00f3 que el Gobierno intenta controlarlos a trav\u00e9s de un proyecto de ley elaborado por la bancada oficialista de Per\u00fa Libre. #SepaM\u00e1s",
-            "date": "2021-09-20 20:36:29",
-            "screen_name": "elpulsohn",
-            "name": "elpulso.hn",
-            "img": "http://pbs.twimg.com/media/E_wX5ExVIAM_TGb.jpg",
-            "url": [
-                "https://t.co/qvKcBFOU9X"
-            ],
-            "category": "politica",
-            "score": 9
-        },
-        {
-            "id": 1440141538021941248,
-            "title": "#ALVUELO -Director de la Sociedad Nacional de Radio y Televisi\u00f3n, Jorge Baca-\u00c1lvarez, advierte que Per\u00fa Libre busca controlar a medios de comunicaci\u00f3n. \u201cEsta es una norma muy peligrosa y que abre un escenario terrible para lo que puede ser el futuro de nuestro pa\u00eds\u201d declar\u00f3.",
-            "date": "2021-09-21 02:31:13",
-            "screen_name": "elbuho_pe",
-            "name": "El B\u00faho\ud83e\udd89",
-            "img": "http://pbs.twimg.com/ext_tw_video_thumb/1440141225089114117/pu/img/pugVoJOpOMh6YEbc.jpg",
-            "url": [
-                "https://t.co/DHNdp87nCh"
-            ],
-            "category": "politica",
-            "score": 8
+            "score": 7,
+            "sentiment": "sentiment/1440007938563846144.jpg",
+            "wordcloud": "wordcloud/1440007938563846144.jpg",
+            "entities": [
+                "educaci\u00f3n",
+                "presidente",
+                "Pedro Castillo",
+                "Pedro",
+                "importancia",
+                "conocer",
+                "Castillo",
+                "Rep\u00fablica",
+                "a\u00f1adir",
+                "transparencia",
+                "inversi\u00f3n"
+            ]
         }
     ]
 }
