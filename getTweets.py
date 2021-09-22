@@ -1,7 +1,5 @@
-import pandas as pd
 import tweepy
 import json
-import os
 import ast
 
 #Validacion de los Keys
@@ -13,16 +11,7 @@ def get_auth():
     auth = tweepy.OAuthHandler(consumer_key, consumer_secret)
     auth.set_access_token(access_token, access_token_secret)
     return auth
-
-# def get_auth():
-#     consumer_key = 'YmMGLkHaHt9qTH68Qlk0ZgYVF'
-#     consumer_secret = 'PootVOH2wDziq5I9qhk34iHYux8KwymUalSXdMYCCyTl8X39n1'
-#     access_token = '1404983823142637568-Bx7w4WrZpOJ8Hude68DmozTUeD6vYo'
-#     access_token_secret = 'TbsXhrCZkHThRBIzkSS3ULiVbYrYDDIY4s0Elv8N93W90'
-#     auth = tweepy.OAuthHandler(consumer_key, consumer_secret)
-#     auth.set_access_token(access_token, access_token_secret)
-#     return auth
-
+    
 # Validacion de usuario
 auth = get_auth()
 api = tweepy.API(auth, wait_on_rate_limit_notify=True , wait_on_rate_limit=True)
@@ -39,16 +28,12 @@ def getTrend():
 
 # TEMAS
 def get_topics():
-    return ['vacuna peru','economia peru', 'television peru', 'futbol', 'deportes peru','voley']
+    return ['deportes', 'politica peru', 'economia peru', 'ultimas noticias', 'juegos', 'vacunacion peru', 'noticias cusco', 'tecnologia', 'serie', 'pelicula']
 
 # top_trends += temas
 
 # Obtener tweets 
 def get_tweets_tweepy(trend, items=500):
-    # Crear su carpeta de resultados del tema
-    #results = 'results/' + str(trend)
-    #if not(os.path.isdir(results)):
-    #    os.mkdir(results)
 
     # Parametros de Cursor: -filter:retweets , result_type = "popular"
     with open("tweets/" + trend + '.json', 'a', encoding='utf-8') as file:
@@ -78,10 +63,5 @@ def get_tweets_tweepy(trend, items=500):
             json.dump(dic, file)
             file.write('\n')
     print('[✓] ' + str(items) + ' tweets received about '+ trend)
-
-# top_trends = ['Neymar']
-# for trend in top_trends:
-#     # Obtener tweets
-#     get_tweets_tweepy(trend, items=10)
 
 #get_tweets_tweepy("spiderman")
