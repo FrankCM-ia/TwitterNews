@@ -14,13 +14,22 @@ def get_auth():
     auth.set_access_token(access_token, access_token_secret)
     return auth
 
+# def get_auth():
+#     consumer_key = 'YmMGLkHaHt9qTH68Qlk0ZgYVF'
+#     consumer_secret = 'PootVOH2wDziq5I9qhk34iHYux8KwymUalSXdMYCCyTl8X39n1'
+#     access_token = '1404983823142637568-Bx7w4WrZpOJ8Hude68DmozTUeD6vYo'
+#     access_token_secret = 'TbsXhrCZkHThRBIzkSS3ULiVbYrYDDIY4s0Elv8N93W90'
+#     auth = tweepy.OAuthHandler(consumer_key, consumer_secret)
+#     auth.set_access_token(access_token, access_token_secret)
+#     return auth
+
 # Validacion de usuario
 auth = get_auth()
 api = tweepy.API(auth, wait_on_rate_limit_notify=True , wait_on_rate_limit=True)
 
 def getTrend():
     #Encontrar tweets que son tendencia en el momento actual PERU = 23424919 , delimitador de peru 
-    data = api.trends_place(23424919)[0]
+    data = api.trends_place(418440)[0]
 
     #tomar los top trends
     trends = {dic['name']:dic['tweet_volume'] for dic in data['trends']}
@@ -29,7 +38,9 @@ def getTrend():
     return top_trends
 
 # TEMAS
-temas = ['internacional', 'sociedad', 'educacion', 'medio ambiente', 'economia', 'ciencia', 'tecnologia', 'cultura', 'television']
+def get_topics():
+    return ['vacuna peru','economia peru', 'television peru', 'futbol', 'deportes peru','voley']
+
 # top_trends += temas
 
 # Obtener tweets 
@@ -53,6 +64,7 @@ def get_tweets_tweepy(trend, items=500):
                     pass
             dic["text"] = text
             dic["screen_name"] = tweet.user.screen_name
+            dic["name"] = tweet.user.name 
             dic["user_followers"] = tweet.user.followers_count
             dic["retweet_count"] = tweet.retweet_count
             dic["favorite_count"] = tweet.favorite_count
@@ -72,4 +84,4 @@ def get_tweets_tweepy(trend, items=500):
 #     # Obtener tweets
 #     get_tweets_tweepy(trend, items=10)
 
-#get_tweets_tweepy("spiderman", items=100)
+#get_tweets_tweepy("spiderman")
