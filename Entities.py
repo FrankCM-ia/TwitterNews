@@ -55,4 +55,4 @@ def find_entities(text):
 #     for entity in top_entities:
 #         dic_entities[entity[0]] = find_mean(entity[0])
 #     return dic_entities    
-
+# hola
