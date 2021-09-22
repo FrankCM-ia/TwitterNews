@@ -13,10 +13,6 @@
 
 - **Roxana Lisette Quintanilla** - _Docente_ - [GitHub](https://github.com/nitanilla).
 
-#### Trabajo:
-
-- Pendiente
-
 #### Autores:✒️
 
 - **Elizon Frank Carcausto Mamani** - _GitHub Account_ - [FrankCM-ia](https://github.com/FrankCM-ia)
